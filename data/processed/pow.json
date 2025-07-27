@@ -1,0 +1,39 @@
+{
+  "title": "Charisma / Power",
+  "title_zh": "[待翻译] Charisma / Power",
+  "url": "https://www.paulgraham.com/pow.html",
+  "filename": "pow.html",
+  "date": "2017-01-01",
+  "id": 112,
+  "content": {
+    "success": true,
+    "paragraphs": [
+      "January 2017People who are powerful but uncharismatic will tend to be disliked. Their power makes them a target for criticism that they don't have the charisma to disarm. That was Hillary Clinton's problem.",
+      "It also tends to be a problem for any CEO who is more of a builder than a schmoozer. And yet the builder-type CEO is (like Hillary) probably the best person for the job.I don't think there is any solution to this problem.",
+      "It's human nature. The best we can do is to recognize that it's happening, and to understand that being a magnet for criticism is sometimes a sign not that someone is the wrong person for a job, but that they're the right one."
+    ],
+    "word_count": 119,
+    "paragraph_count": 3
+  },
+  "processed_at": "2025-07-26T19:05:02.681001",
+  "paragraphs": [
+    {
+      "original": "January 2017People who are powerful but uncharismatic will tend to be disliked. Their power makes them a target for criticism that they don't have the charisma to disarm. That was Hillary Clinton's problem.",
+      "translated": "2017年1月，有权势但缺乏魅力的人往往会招致厌恶。他们的权力使他们成为批评的目标，而他们又没有足够的魅力来化解这些批评。这就是希拉里·克林顿的问题。"
+    },
+    {
+      "original": "It also tends to be a problem for any CEO who is more of a builder than a schmoozer. And yet the builder-type CEO is (like Hillary) probably the best person for the job.I don't think there is any solution to this problem.",
+      "translated": "这同样也成为一个问题，对于那些更倾向于建设而非交际的CEO来说尤其如此。然而，像希拉里一样，这种建设型的CEO可能是最适合这份工作的人。我认为这个问题没有解决办法。"
+    },
+    {
+      "original": "It's human nature. The best we can do is to recognize that it's happening, and to understand that being a magnet for criticism is sometimes a sign not that someone is the wrong person for a job, but that they're the right one.",
+      "translated": "这是人性使然。我们能做的最好的就是认识到这一点，并理解，成为批评的焦点有时并不是表明某人不适合这份工作，而是表明他们是合适的人选。"
+    }
+  ],
+  "translation_completed": "2025-07-27T12:39:05.356744",
+  "translation_stats": {
+    "total_paragraphs": 3,
+    "success_count": 3,
+    "success_rate": "100.0%"
+  }
+}

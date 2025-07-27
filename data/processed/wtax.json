@@ -1,0 +1,59 @@
+{
+  "title": "Modeling a Wealth Tax",
+  "title_zh": "[待翻译] Modeling a Wealth Tax",
+  "url": "https://www.paulgraham.com/wtax.html",
+  "filename": "wtax.html",
+  "date": "2020-08-01",
+  "id": 97,
+  "content": {
+    "success": true,
+    "paragraphs": [
+      "August 2020Some politicians are proposing to introduce wealth taxes in addition to income and capital gains taxes. Let's try modeling the effects of various levels of wealth tax to see what they would mean in practice for a startup founder.Suppose you start a successful startup in your twenties, and then live for another 60 years.",
+      "How much of your stock will a wealth tax consume?If the wealth tax applies to all your assets, it's easy to calculate its effect. A wealth tax of 1% means you get to keep 99% of your stock each year.",
+      "After 60 years the proportion of stock you'll have left will be .99^60, or .547. So a straight 1% wealth tax means the government will over the course of your life take 45% of your stock.(Losing shares does not, obviously, mean becoming net poorer unless the value per share is increasing by less than the wealth tax rate.)Here's how much stock the government would take over 60 years at various levels of wealth tax: wealth taxgovernment takes 0.1%6%0.5%26% 1.0%45% 2.0%70% 3.0%84% 4.0%91%5.0%95% A wealth tax will usually have a threshold at which it starts.",
+      "How much difference would a high threshold make? To model that, we need to make some assumptions about the initial value of your stock and the growth rate.Suppose your stock is initially worth $2 million, and the company's trajectory is as follows: the value of your stock grows 3x for 2 years, then 2x for 2 years, then 50% for 2 years, after which you just get a typical public company growth rate, which we'll call 8%.",
+      "[1] Suppose the wealth tax threshold is $50 million. How much stock does the government take now? wealth taxgovernment takes 0.1%5%0.5%23% 1.0%41% 2.0%65% 3.0%79% 4.0%88%5.0%93% It may at first seem surprising that such apparently small tax rates produce such dramatic effects.",
+      "A 2% wealth tax with a $50 million threshold takes about two thirds of a successful founder's stock.The reason wealth taxes have such dramatic effects is that they're applied over and over to the same money.",
+      "Income tax happens every year, but only to that year's income. Whereas if you live for 60 years after acquiring some asset, a wealth tax will tax that same asset 60 times. A wealth tax compounds.Note[1] In practice, eventually some of this 8% would come in the form of dividends, which are taxed as income at issue, so this model actually represents the most optimistic case for the founder."
+    ],
+    "word_count": 412,
+    "paragraph_count": 7
+  },
+  "processed_at": "2025-07-26T19:04:32.983955",
+  "paragraphs": [
+    {
+      "original": "August 2020Some politicians are proposing to introduce wealth taxes in addition to income and capital gains taxes. Let's try modeling the effects of various levels of wealth tax to see what they would mean in practice for a startup founder.Suppose you start a successful startup in your twenties, and then live for another 60 years.",
+      "translated": "2020年8月，一些政治家提议在所得税和资本利得税之外引入财富税。让我们尝试对不同水平的财富税进行建模，以了解这些税收对创业者的实际影响。假设你在二十多岁时创办了一家成功的创业公司，然后又活了60年。"
+    },
+    {
+      "original": "How much of your stock will a wealth tax consume?If the wealth tax applies to all your assets, it's easy to calculate its effect. A wealth tax of 1% means you get to keep 99% of your stock each year.",
+      "translated": "财富税会消耗你多少股票？如果财富税适用于你所有的资产，计算其影响就很简单了。1%的财富税意味着你每年可以保留99%的股票。"
+    },
+    {
+      "original": "After 60 years the proportion of stock you'll have left will be .99^60, or .547. So a straight 1% wealth tax means the government will over the course of your life take 45% of your stock.(Losing shares does not, obviously, mean becoming net poorer unless the value per share is increasing by less than the wealth tax rate.)Here's how much stock the government would take over 60 years at various levels of wealth tax: wealth taxgovernment takes 0.1%6%0.5%26% 1.0%45% 2.0%70% 3.0%84% 4.0%91%5.0%95% A wealth tax will usually have a threshold at which it starts.",
+      "translated": "60年后，你剩下的股票比例将是0.99^60，即0.547。因此，1%的财富税意味着政府在你的一生中将拿走你45%的股票。（显然，股票数量的减少并不意味着净资产减少，除非每股价值的增值低于财富税率。）以下是在不同财富税率下，政府在60年内将拿走的股票比例：财富税率政府拿走的股票比例 0.1%6% 0.5%26% 1.0%45% 2.0%70% 3.0%84% 4.0%91% 5.0%95% 通常，财富税会设有一个起征点。"
+    },
+    {
+      "original": "How much difference would a high threshold make? To model that, we need to make some assumptions about the initial value of your stock and the growth rate.Suppose your stock is initially worth $2 million, and the company's trajectory is as follows: the value of your stock grows 3x for 2 years, then 2x for 2 years, then 50% for 2 years, after which you just get a typical public company growth rate, which we'll call 8%.",
+      "translated": "设立一个高门槛会有多少影响？为了对此进行建模，我们需要对你的股票的初始价值和增长率做出一些假设。假设你的股票最初价值为200万美元，公司的增长轨迹如下：前两年股票价值增长3倍，接下来两年增长2倍，再接下来两年增长50%，之后你将获得一个典型的上市公司的增长率，我们称之为8%。"
+    },
+    {
+      "original": "[1] Suppose the wealth tax threshold is $50 million. How much stock does the government take now? wealth taxgovernment takes 0.1%5%0.5%23% 1.0%41% 2.0%65% 3.0%79% 4.0%88%5.0%93% It may at first seem surprising that such apparently small tax rates produce such dramatic effects.",
+      "translated": "假设财富税的门槛是5000万美元。政府现在会占有多少股票呢？财富税政府占有的比例为：0.1% 5% 0.5% 23% 1.0% 41% 2.0% 65% 3.0% 79% 4.0% 88% 5.0% 93%。一开始，这些看似微小的税率能够产生如此显著的效果，可能会让人感到惊讶。"
+    },
+    {
+      "original": "A 2% wealth tax with a $50 million threshold takes about two thirds of a successful founder's stock.The reason wealth taxes have such dramatic effects is that they're applied over and over to the same money.",
+      "translated": "2% 的财富税，起征点为5000万美元，大约会拿走一位成功创始人股份的三分之二。财富税之所以有如此显著的影响，是因为它们是对同一笔钱反复征收。"
+    },
+    {
+      "original": "Income tax happens every year, but only to that year's income. Whereas if you live for 60 years after acquiring some asset, a wealth tax will tax that same asset 60 times. A wealth tax compounds.Note[1] In practice, eventually some of this 8% would come in the form of dividends, which are taxed as income at issue, so this model actually represents the most optimistic case for the founder.",
+      "translated": "所得税每年都会发生，但仅针对当年的收入。而如果你在获得某项资产后又生活了60年，财富税将对该资产征税60次。财富税具有累积效应。注[1] 实际上，最终这部分8%中的一些将以股息的形式出现，而股息在发放时作为收入被征税，因此这个模型实际上代表了对创始人最乐观的情况。"
+    }
+  ],
+  "translation_completed": "2025-07-27T12:43:53.697525",
+  "translation_stats": {
+    "total_paragraphs": 7,
+    "success_count": 7,
+    "success_rate": "100.0%"
+  }
+}

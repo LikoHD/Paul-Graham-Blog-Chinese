@@ -1,0 +1,229 @@
+{
+  "title": "How Not to Die",
+  "title_zh": "[待翻译] How Not to Die",
+  "url": "https://www.paulgraham.com/die.html",
+  "filename": "die.html",
+  "date": "2007-08-01",
+  "id": 178,
+  "content": {
+    "success": true,
+    "paragraphs": [
+      "Want to start a startup? Get funded by Y Combinator. August 2007(This is a talk I gave at the last Y Combinator dinner of the summer. Usually we don't have a speaker at the last dinner; it's more of a party.",
+      "But it seemed worth spoiling the atmosphere if I could save some of the startups from preventable deaths. So at the last minute I cooked up this rather grim talk. I didn't mean this as an essay; I wrote it down because I only had two hours before dinner and think fastest while writing.) A couple days ago I told a reporter that we expected about a third of the companies we funded to succeed.",
+      "Actually I was being conservative. I'm hoping it might be as much as a half. Wouldn't it be amazing if we could achieve a 50% success rate?Another way of saying that is that half of you are going to die.",
+      "Phrased that way, it doesn't sound good at all. In fact, it's kind of weird when you think about it, because our definition of success is that the founders get rich. If half the startups we fund succeed, then half of you are going to get rich and the other half are going to get nothing.If you can just avoid dying, you get rich.",
+      "That sounds like a joke, but it's actually a pretty good description of what happens in a typical startup. It certainly describes what happened in Viaweb. We avoided dying till we got rich.It was really close, too.",
+      "When we were visiting Yahoo to talk about being acquired, we had to interrupt everything and borrow one of their conference rooms to talk down an investor who was about to back out of a new funding round we needed to stay alive.",
+      "So even in the middle of getting rich we were fighting off the grim reaper.You may have heard that quote about luck consisting of opportunity meeting preparation. You've now done the preparation. The work you've done so far has, in effect, put you in a position to get lucky: you can now get rich by not letting your company die.",
+      "That's more than most people have. So let's talk about how not to die.We've done this five times now, and we've seen a bunch of startups die. About 10 of them so far. We don't know exactly what happens when they die, because they generally don't die loudly and heroically.",
+      "Mostly they crawl off somewhere and die.For us the main indication of impending doom is when we don't hear from you. When we haven't heard from, or about, a startup for a couple months, that's a bad sign.",
+      "If we send them an email asking what's up, and they don't reply, that's a really bad sign. So far that is a 100% accurate predictor of death.Whereas if a startup regularly does new deals and releases and either sends us mail or shows up at YC events, they're probably going to live.I realize this will sound naive, but maybe the linkage works in both directions.",
+      "Maybe if you can arrange that we keep hearing from you, you won't die.That may not be so naive as it sounds. You've probably noticed that having dinners every Tuesday with us and the other founders causes you to get more done than you would otherwise, because every dinner is a mini Demo Day.",
+      "Every dinner is a kind of a deadline. So the mere constraint of staying in regular contact with us will push you to make things happen, because otherwise you'll be embarrassed to tell us that you haven't done anything new since the last time we talked.If this works, it would be an amazing hack.",
+      "It would be pretty cool if merely by staying in regular contact with us you could get rich. It sounds crazy, but there's a good chance that would work.A variant is to stay in touch with other YC-funded startups.",
+      "There is now a whole neighborhood of them in San Francisco. If you move there, the peer pressure that made you work harder all summer will continue to operate.When startups die, the official cause of death is always either running out of money or a critical founder bailing.",
+      "Often the two occur simultaneously. But I think the underlying cause is usually that they've become demoralized. You rarely hear of a startup that's working around the clock doing deals and pumping out new features, and dies because they can't pay their bills and their ISP unplugs their server.Startups rarely die in mid keystroke.",
+      "So keep typing!If so many startups get demoralized and fail when merely by hanging on they could get rich, you have to assume that running a startup can be demoralizing. That is certainly true. I've been there, and that's why I've never done another startup.",
+      "The low points in a startup are just unbelievably low. I bet even Google had moments where things seemed hopeless.Knowing that should help. If you know it's going to feel terrible sometimes, then when it feels terrible you won't think \"ouch, this feels terrible, I give up.\" It feels that way for everyone.",
+      "And if you just hang on, things will probably get better. The metaphor people use to describe the way a startup feels is at least a roller coaster and not drowning. You don't just sink and sink; there are ups after the downs.Another feeling that seems alarming but is in fact normal in a startup is the feeling that what you're doing isn't working.",
+      "The reason you can expect to feel this is that what you do probably won't work. Startups almost never get it right the first time. Much more commonly you launch something, and no one cares. Don't assume when this happens that you've failed.",
+      "That's normal for startups. But don't sit around doing nothing. Iterate.I like Paul Buchheit's suggestion of trying to make something that at least someone really loves. As long as you've made something that a few users are ecstatic about, you're on the right track.",
+      "It will be good for your morale to have even a handful of users who really love you, and startups run on morale. But also it will tell you what to focus on. What is it about you that they love? Can you do more of that?",
+      "Where can you find more people who love that sort of thing? As long as you have some core of users who love you, all you have to do is expand it. It may take a while, but as long as you keep plugging away, you'll win in the end.",
+      "Both Blogger and Delicious did that. Both took years to succeed. But both began with a core of fanatically devoted users, and all Evan and Joshua had to do was grow that core incrementally. Wufoo is on the same trajectory now.So when you release something and it seems like no one cares, look more closely.",
+      "Are there zero users who really love you, or is there at least some little group that does? It's quite possible there will be zero. In that case, tweak your product and try again. Every one of you is working on a space that contains at least one winning permutation somewhere in it.",
+      "If you just keep trying, you'll find it.Let me mention some things not to do. The number one thing not to do is other things. If you find yourself saying a sentence that ends with \"but we're going to keep working on the startup,\" you are in big trouble.",
+      "Bob's going to grad school, but we're going to keep working on the startup. We're moving back to Minnesota, but we're going to keep working on the startup. We're taking on some consulting projects, but we're going to keep working on the startup.",
+      "You may as well just translate these to \"we're giving up on the startup, but we're not willing to admit that to ourselves,\" because that's what it means most of the time. A startup is so hard that working on it can't be preceded by \"but.\"In particular, don't go to graduate school, and don't start other projects.",
+      "Distraction is fatal to startups. Going to (or back to) school is a huge predictor of death because in addition to the distraction it gives you something to say you're doing. If you're only doing a startup, then if the startup fails, you fail.",
+      "If you're in grad school and your startup fails, you can say later \"Oh yeah, we had this startup on the side when I was in grad school, but it didn't go anywhere.\"You can't use euphemisms like \"didn't go anywhere\" for something that's your only occupation.",
+      "People won't let you.One of the most interesting things we've discovered from working on Y Combinator is that founders are more motivated by the fear of looking bad than by the hope of getting millions of dollars.",
+      "So if you want to get millions of dollars, put yourself in a position where failure will be public and humiliating.When we first met the founders of Octopart, they seemed very smart, but not a great bet to succeed, because they didn't seem especially committed.",
+      "One of the two founders was still in grad school. It was the usual story: he'd drop out if it looked like the startup was taking off. Since then he has not only dropped out of grad school, but appeared full length in Newsweek with the word \"Billionaire\" printed across his chest.",
+      "He just cannot fail now. Everyone he knows has seen that picture. Girls who dissed him in high school have seen it. His mom probably has it on the fridge. It would be unthinkably humiliating to fail now.",
+      "At this point he is committed to fight to the death.I wish every startup we funded could appear in a Newsweek article describing them as the next generation of billionaires, because then none of them would be able to give up.",
+      "The success rate would be 90%. I'm not kidding.When we first knew the Octoparts they were lighthearted, cheery guys. Now when we talk to them they seem grimly determined. The electronic parts distributors are trying to squash them to keep their monopoly pricing.",
+      "(If it strikes you as odd that people still order electronic parts out of thick paper catalogs in 2007, there's a reason for that. The distributors want to prevent the transparency that comes from having prices online.) I feel kind of bad that we've transformed these guys from lighthearted to grimly determined.",
+      "But that comes with the territory. If a startup succeeds, you get millions of dollars, and you don't get that kind of money just by asking for it. You have to assume it takes some amount of pain.And however tough things get for the Octoparts, I predict they'll succeed.",
+      "They may have to morph themselves into something totally different, but they won't just crawl off and die. They're smart; they're working in a promising field; and they just cannot give up.All of you guys already have the first two.",
+      "You're all smart and working on promising ideas. Whether you end up among the living or the dead comes down to the third ingredient, not giving up.So I'll tell you now: bad shit is coming. It always is in a startup.",
+      "The odds of getting from launch to liquidity without some kind of disaster happening are one in a thousand. So don't get demoralized. When the disaster strikes, just say to yourself, ok, this was what Paul was talking about.",
+      "What did he say to do? Oh, yeah. Don't give up.Japanese TranslationArabic Translation"
+    ],
+    "word_count": 1946,
+    "paragraph_count": 41
+  },
+  "processed_at": "2025-07-26T19:07:10.481872",
+  "paragraphs": [
+    {
+      "original": "Want to start a startup? Get funded by Y Combinator. August 2007(This is a talk I gave at the last Y Combinator dinner of the summer. Usually we don't have a speaker at the last dinner; it's more of a party.",
+      "translated": "想创办一家初创公司吗？那就争取获得Y Combinator的投资吧。2007年8月（这是我在那个夏季最后一场Y Combinator晚宴上发表的演讲。通常我们在最后一场晚宴上不会安排演讲者；那更像是一场派对。）"
+    },
+    {
+      "original": "But it seemed worth spoiling the atmosphere if I could save some of the startups from preventable deaths. So at the last minute I cooked up this rather grim talk. I didn't mean this as an essay; I wrote it down because I only had two hours before dinner and think fastest while writing.) A couple days ago I told a reporter that we expected about a third of the companies we funded to succeed.",
+      "translated": "但我觉得，如果能够挽救一些初创企业免于可以避免的失败，破坏一下气氛也值得。所以我在最后一刻准备了这个相当严肃的演讲。我本无意写成一篇文章；我只是因为晚餐前只有两个小时的时间，而我在写作时思路最快，所以才把内容写了下来。）几天前，我告诉一位记者，我们预计我们资助的公司中大约有三分之一会成功。"
+    },
+    {
+      "original": "Actually I was being conservative. I'm hoping it might be as much as a half. Wouldn't it be amazing if we could achieve a 50% success rate?Another way of saying that is that half of you are going to die.",
+      "translated": "实际上我保守了。我希望能达到一半。如果我们能实现50%的成功率，那不是很棒吗？另一种说法是，你们中有半数将会死去。"
+    },
+    {
+      "original": "Phrased that way, it doesn't sound good at all. In fact, it's kind of weird when you think about it, because our definition of success is that the founders get rich. If half the startups we fund succeed, then half of you are going to get rich and the other half are going to get nothing.If you can just avoid dying, you get rich.",
+      "translated": "这样说来，这听起来一点也不好。事实上，当你仔细想想，这有点奇怪，因为我们的成功定义是创始人发财。如果我们资助的创业公司有一半成功，那么你们中有一半会发财，而另一半则什么也得不到。只要你能避免失败，你就能发财。"
+    },
+    {
+      "original": "That sounds like a joke, but it's actually a pretty good description of what happens in a typical startup. It certainly describes what happened in Viaweb. We avoided dying till we got rich.It was really close, too.",
+      "translated": "这听起来像是个笑话，但实际上很好地描述了典型的创业公司发生的情况。它确实描述了Viaweb发生的事情。我们一直坚持到变得富有才避免了倒闭。这真的是非常接近的事情。"
+    },
+    {
+      "original": "When we were visiting Yahoo to talk about being acquired, we had to interrupt everything and borrow one of their conference rooms to talk down an investor who was about to back out of a new funding round we needed to stay alive.",
+      "translated": "当我们去雅虎商谈被收购事宜时，不得不中断一切，借用他们的一间会议室来说服一位即将退出我们新一轮融资的投资者，这轮融资对我们来说至关重要，关系到公司的存亡。"
+    },
+    {
+      "original": "So even in the middle of getting rich we were fighting off the grim reaper.You may have heard that quote about luck consisting of opportunity meeting preparation. You've now done the preparation. The work you've done so far has, in effect, put you in a position to get lucky: you can now get rich by not letting your company die.",
+      "translated": "所以，即使在致富的过程中，我们也在与死神抗争。你可能听说过这样一句话：运气是机会与准备的结合。你现在已经做好了准备。到目前为止，你所做的一切工作实际上已经将你置于一个可以走运的位置：你现在可以通过不让公司倒闭而致富。"
+    },
+    {
+      "original": "That's more than most people have. So let's talk about how not to die.We've done this five times now, and we've seen a bunch of startups die. About 10 of them so far. We don't know exactly what happens when they die, because they generally don't die loudly and heroically.",
+      "translated": "这比大多数人都多。所以让我们谈谈如何不死。我们已经做了五次了，也目睹了许多初创公司的消亡。到目前为止大约有10家。我们并不完全清楚它们消亡时发生了什么，因为它们通常不会死得很轰轰烈烈、壮烈感人。"
+    },
+    {
+      "original": "Mostly they crawl off somewhere and die.For us the main indication of impending doom is when we don't hear from you. When we haven't heard from, or about, a startup for a couple months, that's a bad sign.",
+      "translated": "大多数情况下，他们会悄悄地找个地方死去。对于我们来说，即将来临的灾难的主要征兆就是收不到你们的消息。当我们有两三个月没有听到某个初创公司的任何消息时，那通常是个不好的迹象。"
+    },
+    {
+      "original": "If we send them an email asking what's up, and they don't reply, that's a really bad sign. So far that is a 100% accurate predictor of death.Whereas if a startup regularly does new deals and releases and either sends us mail or shows up at YC events, they're probably going to live.I realize this will sound naive, but maybe the linkage works in both directions.",
+      "translated": "如果我们给他们发邮件询问情况，而他们没有回复，那是一个非常不好的迹象。到目前为止，这是100%准确的死亡预兆。而如果一家初创公司经常进行新交易和发布，并且要么给我们发邮件，要么出现在YC的活动中，他们可能就会生存下来。我意识到这听起来可能很天真，但也许这种联系是双向的。"
+    },
+    {
+      "original": "Maybe if you can arrange that we keep hearing from you, you won't die.That may not be so naive as it sounds. You've probably noticed that having dinners every Tuesday with us and the other founders causes you to get more done than you would otherwise, because every dinner is a mini Demo Day.",
+      "translated": "也许如果你能安排让我们持续收到你的消息，你就不会死去。这听起来可能不太幼稚。你可能已经注意到，每个星期二和我们一起以及其他创始人共进晚餐，会让你比平时完成更多事情，因为每次晚餐都像是一个小型的演示日。"
+    },
+    {
+      "original": "Every dinner is a kind of a deadline. So the mere constraint of staying in regular contact with us will push you to make things happen, because otherwise you'll be embarrassed to tell us that you haven't done anything new since the last time we talked.If this works, it would be an amazing hack.",
+      "translated": "每一顿晚餐都像一个截止日期。因此，仅仅是因为需要定期与我们保持联系，就会促使你去完成一些事情，因为否则你会不好意思告诉我们自上次谈话以来你什么新进展都没有。如果这种方法有效，那将是一个令人惊叹的策略。"
+    },
+    {
+      "original": "It would be pretty cool if merely by staying in regular contact with us you could get rich. It sounds crazy, but there's a good chance that would work.A variant is to stay in touch with other YC-funded startups.",
+      "translated": "如果仅仅通过与我们保持定期联系就能致富，那将是非常酷的事情。听起来很疯狂，但这种可能性很大。另一种做法是与接受 YC 资助的其他初创公司保持联系。"
+    },
+    {
+      "original": "There is now a whole neighborhood of them in San Francisco. If you move there, the peer pressure that made you work harder all summer will continue to operate.When startups die, the official cause of death is always either running out of money or a critical founder bailing.",
+      "translated": "现在旧金山已经有一个这样的社区了。如果你搬到那里，那种让你整个夏天都更加努力工作的同伴压力将会持续发挥作用。当创业公司倒闭时，官方宣布的死亡原因总是资金耗尽或关键创始人退出。"
+    },
+    {
+      "original": "Often the two occur simultaneously. But I think the underlying cause is usually that they've become demoralized. You rarely hear of a startup that's working around the clock doing deals and pumping out new features, and dies because they can't pay their bills and their ISP unplugs their server.Startups rarely die in mid keystroke.",
+      "translated": "这两者往往同时发生。但我认为根本原因通常是他们士气低落。你很少听说一家初创公司夜以继日地做交易、推出新功能，却因为付不起账单、ISP断开服务器而倒闭。初创公司很少在键盘敲击中途就倒闭。"
+    },
+    {
+      "original": "So keep typing!If so many startups get demoralized and fail when merely by hanging on they could get rich, you have to assume that running a startup can be demoralizing. That is certainly true. I've been there, and that's why I've never done another startup.",
+      "translated": "所以继续敲键盘吧！如果这么多初创公司仅仅因为坚持下去就能变得富有却因士气低落而失败，你就必须认为经营一家初创公司可能会让人感到沮丧。这确实是真的。我经历过，这也是为什么我再也没有创办过另一家初创公司。"
+    },
+    {
+      "original": "The low points in a startup are just unbelievably low. I bet even Google had moments where things seemed hopeless.Knowing that should help. If you know it's going to feel terrible sometimes, then when it feels terrible you won't think \"ouch, this feels terrible, I give up.\" It feels that way for everyone.",
+      "translated": "创业公司的低谷真的很低，低到难以置信。我敢打赌，即使是谷歌也曾有过看似绝望的时刻。了解这一点会有帮助。如果你知道有时候会感觉非常糟糕，那么当感觉糟糕时，你就不会想“哎呀，感觉太糟糕了，我放弃吧。”每个人都会有这样的感受。"
+    },
+    {
+      "original": "And if you just hang on, things will probably get better. The metaphor people use to describe the way a startup feels is at least a roller coaster and not drowning. You don't just sink and sink; there are ups after the downs.Another feeling that seems alarming but is in fact normal in a startup is the feeling that what you're doing isn't working.",
+      "translated": "如果你能坚持下去，情况可能会好转。人们用来描述创业公司感受的比喻至少是过山车，而不是溺水。你不会一直下沉，低谷之后总会有高峰。另一种在创业公司中看似令人担忧但实际上很正常的感受是，你所做的似乎不起作用。"
+    },
+    {
+      "original": "The reason you can expect to feel this is that what you do probably won't work. Startups almost never get it right the first time. Much more commonly you launch something, and no one cares. Don't assume when this happens that you've failed.",
+      "translated": "你能有这样的预期是因为你做的事情很可能不会成功。初创公司几乎从来都不是一次就能做对的。更常见的情况是，你推出了一款产品，但没人关心。当这种情况发生时，不要以为你已经失败了。"
+    },
+    {
+      "original": "That's normal for startups. But don't sit around doing nothing. Iterate.I like Paul Buchheit's suggestion of trying to make something that at least someone really loves. As long as you've made something that a few users are ecstatic about, you're on the right track.",
+      "translated": "这是初创公司的常态。但不要什么都不做。要不断迭代。我喜欢保罗·布赫海特的建议，尝试制作一些至少有人真正喜欢的东西。只要你能让一些用户感到非常满意，你就走在了正确的道路上。"
+    },
+    {
+      "original": "It will be good for your morale to have even a handful of users who really love you, and startups run on morale. But also it will tell you what to focus on. What is it about you that they love? Can you do more of that?",
+      "translated": "即使只有一小部分用户真正喜欢你，也会对你的士气大有裨益，而初创公司就是靠士气运行的。同时，这也会告诉你应该专注于什么。他们喜欢你的是什么？你能在这方面做得更多吗？"
+    },
+    {
+      "original": "Where can you find more people who love that sort of thing? As long as you have some core of users who love you, all you have to do is expand it. It may take a while, but as long as you keep plugging away, you'll win in the end.",
+      "translated": "你在哪里可以找到更多喜欢这类事物的人？只要你有一些核心用户喜欢你，你所需要做的就是扩大这个群体。这可能需要一段时间，但只要你坚持不懈，最终你会成功的。"
+    },
+    {
+      "original": "Both Blogger and Delicious did that. Both took years to succeed. But both began with a core of fanatically devoted users, and all Evan and Joshua had to do was grow that core incrementally. Wufoo is on the same trajectory now.So when you release something and it seems like no one cares, look more closely.",
+      "translated": "Blogger 和 Delicious 都是这样做的。它们都用了几年时间才取得成功。但两者一开始都有一群狂热的忠实用户，Evan 和 Joshua 所要做的就是逐步扩大这一核心用户群。Wufoo 现在也正处于这样的发展轨迹上。所以，当你发布某样东西时，如果看起来似乎没有人关心，不妨再仔细观察一下。"
+    },
+    {
+      "original": "Are there zero users who really love you, or is there at least some little group that does? It's quite possible there will be zero. In that case, tweak your product and try again. Every one of you is working on a space that contains at least one winning permutation somewhere in it.",
+      "translated": "是完全没有真正喜欢你的用户，还是至少有那么一小群人喜欢你？很可能一个都没有。在这种情况下，调整你的产品，再试一次。你们每个人都在一个至少包含一种成功组合的空间里工作。"
+    },
+    {
+      "original": "If you just keep trying, you'll find it.Let me mention some things not to do. The number one thing not to do is other things. If you find yourself saying a sentence that ends with \"but we're going to keep working on the startup,\" you are in big trouble.",
+      "translated": "只要你不断尝试，就会找到它。让我提一些不要做的事情。首要的一点就是不要做其他事情。如果你发现自己说的句子以“但我们还是会继续创业”结尾，那你就有大麻烦了。"
+    },
+    {
+      "original": "Bob's going to grad school, but we're going to keep working on the startup. We're moving back to Minnesota, but we're going to keep working on the startup. We're taking on some consulting projects, but we're going to keep working on the startup.",
+      "translated": "鲍勃要去读研究生了，但我们还是会继续在创业公司工作。我们要搬回明尼苏达，但我们还是会继续在创业公司工作。我们还要接一些咨询项目，但我们还是会继续在创业公司工作。"
+    },
+    {
+      "original": "You may as well just translate these to \"we're giving up on the startup, but we're not willing to admit that to ourselves,\" because that's what it means most of the time. A startup is so hard that working on it can't be preceded by \"but.\"In particular, don't go to graduate school, and don't start other projects.",
+      "translated": "你不妨把这些话直接翻译成“我们打算放弃这家创业公司，但我们不愿承认这一点”，因为大多数时候这确实就是这个意思。创业公司如此艰难，以至于在其前面加上“但是”二字是行不通的。特别是，不要去读研究生，也不要开始其他项目。"
+    },
+    {
+      "original": "Distraction is fatal to startups. Going to (or back to) school is a huge predictor of death because in addition to the distraction it gives you something to say you're doing. If you're only doing a startup, then if the startup fails, you fail.",
+      "translated": "分心对创业公司是致命的。重返校园是一个巨大的失败预兆，因为除了会分散你的注意力外，它还给你提供了一个可以说你在做的事情。如果你只做创业公司，那么如果创业公司失败了，你就失败了。"
+    },
+    {
+      "original": "If you're in grad school and your startup fails, you can say later \"Oh yeah, we had this startup on the side when I was in grad school, but it didn't go anywhere.\"You can't use euphemisms like \"didn't go anywhere\" for something that's your only occupation.",
+      "translated": "如果你在读研究生时创业失败了，你可以后来这样解释：“哦，对了，我读研究生时还顺便搞了个创业项目，但没什么进展。” 但是，如果你的主要职业就是这个创业项目，你就不能用“没什么进展”这样的委婉说法了。"
+    },
+    {
+      "original": "People won't let you.One of the most interesting things we've discovered from working on Y Combinator is that founders are more motivated by the fear of looking bad than by the hope of getting millions of dollars.",
+      "translated": "人们不会让你如愿。我们在Y Combinator的工作中发现最有趣的一点是，创始人更多的是被害怕丢脸的心态所驱动，而不是被希望获得数百万美元的前景所激励。"
+    },
+    {
+      "original": "So if you want to get millions of dollars, put yourself in a position where failure will be public and humiliating.When we first met the founders of Octopart, they seemed very smart, but not a great bet to succeed, because they didn't seem especially committed.",
+      "translated": "所以，如果你想赚数百万美元，就把自己置于一个失败将会是公开且羞辱的位置。当我们第一次见到Octopart的创始人时，他们看起来非常聪明，但并不是一个成功的绝佳赌注，因为他们似乎并没有特别坚定的承诺。"
+    },
+    {
+      "original": "One of the two founders was still in grad school. It was the usual story: he'd drop out if it looked like the startup was taking off. Since then he has not only dropped out of grad school, but appeared full length in Newsweek with the word \"Billionaire\" printed across his chest.",
+      "translated": "两位创始人中的一位当时还在读研究生。故事如出一辙：如果创业公司看起来有起色，他就会退学。从那以后，他不仅退了学，还以全身照登上了《新闻周刊》，照片上胸部印着“亿万富翁”几个字。"
+    },
+    {
+      "original": "He just cannot fail now. Everyone he knows has seen that picture. Girls who dissed him in high school have seen it. His mom probably has it on the fridge. It would be unthinkably humiliating to fail now.",
+      "translated": "他现在绝不能失败。他认识的每个人都看到了那张照片。高中时看不起他的女生们也看到了。他妈妈可能还把照片贴在冰箱上。如果现在失败，将会是无法想象的耻辱。"
+    },
+    {
+      "original": "At this point he is committed to fight to the death.I wish every startup we funded could appear in a Newsweek article describing them as the next generation of billionaires, because then none of them would be able to give up.",
+      "translated": "此时，他已经下定决心要战斗到底。我希望我们资助的每一家初创公司都能出现在《新闻周刊》的文章中，被描述为下一代亿万富翁，因为这样他们就都不会放弃。"
+    },
+    {
+      "original": "The success rate would be 90%. I'm not kidding.When we first knew the Octoparts they were lighthearted, cheery guys. Now when we talk to them they seem grimly determined. The electronic parts distributors are trying to squash them to keep their monopoly pricing.",
+      "translated": "成功率会是90%。我没开玩笑。当我们第一次认识Octoparts团队时，他们还是一群轻松愉快的家伙。现在和他们交谈时，他们似乎显得极为坚定。电子元件分销商正试图打压他们，以保持自己的垄断定价。"
+    },
+    {
+      "original": "(If it strikes you as odd that people still order electronic parts out of thick paper catalogs in 2007, there's a reason for that. The distributors want to prevent the transparency that comes from having prices online.) I feel kind of bad that we've transformed these guys from lighthearted to grimly determined.",
+      "translated": "（如果你觉得2007年人们还在从厚厚的纸质目录中订购电子部件有些奇怪，那其中是有原因的。分销商希望防止价格透明化。）我觉得我们把这些原本轻松愉快的人变得如此坚定严肃，有点过意不去。"
+    },
+    {
+      "original": "But that comes with the territory. If a startup succeeds, you get millions of dollars, and you don't get that kind of money just by asking for it. You have to assume it takes some amount of pain.And however tough things get for the Octoparts, I predict they'll succeed.",
+      "translated": "但这在所难免。如果一家初创公司成功了，你就能赚到数百万美元，而这样的财富不是靠乞求就能得到的。你必须承受一定程度的痛苦。无论 Octoparts 遇到多大的困难，我预测他们终将成功。"
+    },
+    {
+      "original": "They may have to morph themselves into something totally different, but they won't just crawl off and die. They're smart; they're working in a promising field; and they just cannot give up.All of you guys already have the first two.",
+      "translated": "他们可能不得不彻底改变自己，但他们不会就这样一蹶不振。他们很聪明，从事的是一个有前景的领域，他们绝不会轻易放弃。你们已经具备了前两点。"
+    },
+    {
+      "original": "You're all smart and working on promising ideas. Whether you end up among the living or the dead comes down to the third ingredient, not giving up.So I'll tell you now: bad shit is coming. It always is in a startup.",
+      "translated": "你们都聪明，正在致力于有前景的想法。最终是生存还是淘汰，取决于第三个要素，那就是不放弃。所以现在我要告诉你们：艰难的日子将会来临。创业的路上总是如此。"
+    },
+    {
+      "original": "The odds of getting from launch to liquidity without some kind of disaster happening are one in a thousand. So don't get demoralized. When the disaster strikes, just say to yourself, ok, this was what Paul was talking about.",
+      "translated": "从启动到实现流动性而不发生某种灾难的几率是一千分之一。所以不要气馁。当灾难来临时，就对自己说，好吧，这就是保罗所说的那种情况。"
+    },
+    {
+      "original": "What did he say to do? Oh, yeah. Don't give up.Japanese TranslationArabic Translation",
+      "translated": "他说要做什么？哦，对了。不要放弃。"
+    }
+  ],
+  "translation_completed": "2025-07-27T14:46:18.866409",
+  "translation_stats": {
+    "total_paragraphs": 41,
+    "success_count": 41,
+    "success_rate": "100.0%"
+  }
+}

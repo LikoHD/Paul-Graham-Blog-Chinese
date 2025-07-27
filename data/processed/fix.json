@@ -1,0 +1,44 @@
+{
+  "title": "What Languages Fix",
+  "title_zh": "[待翻译] What Languages Fix",
+  "url": "https://www.paulgraham.com/fix.html",
+  "filename": "fix.html",
+  "date": "2020-11-29",
+  "id": 63,
+  "content": {
+    "success": true,
+    "paragraphs": [
+      "Kevin Kelleher suggested an interesting way to compare programming languages: to describe each in terms of the problem it fixes. The surprising thing is how many, and how well, languages can be described this way.",
+      "Algol: Assembly language is too low-level.Pascal: Algol doesn't have enough data types.Modula: Pascal is too wimpy for systems programming. Simula: Algol isn't good enough at simulations.Smalltalk: Not everything in Simula is an object.Fortran: Assembly language is too low-level.Cobol: Fortran is scary.PL/1: Fortran doesn't have enough data types.Ada: Every existing language is missing something.Basic: Fortran is scary.APL: Fortran isn't good enough at manipulating arrays.J: APL requires its own character set.C: Assembly language is too low-level.C++: C is too low-level.Java: C++ is a kludge.",
+      "And Microsoft is going to crush us.C#: Java is controlled by Sun. Lisp: Turing Machines are an awkward way to describe computation.Scheme: MacLisp is a kludge.T: Scheme has no libraries.Common Lisp: There are too many dialects of Lisp.Dylan: Scheme has no libraries, and Lisp syntax is scary.",
+      "Perl: Shell scripts/awk/sed are not enough like programming languages.Python: Perl is a kludge.Ruby: Perl is a kludge, and Lisp syntax is scary.Prolog: Programming is not enough like logic. Japanese TranslationFrench TranslationPortuguese Translation"
+    ],
+    "word_count": 196,
+    "paragraph_count": 4
+  },
+  "processed_at": "2025-07-26T19:03:29.289623",
+  "paragraphs": [
+    {
+      "original": "Kevin Kelleher suggested an interesting way to compare programming languages: to describe each in terms of the problem it fixes. The surprising thing is how many, and how well, languages can be described this way.",
+      "translated": "Kevin Kelleher 提出了一种比较编程语言的有趣方法：用每种语言所解决的问题来描述它。令人惊讶的是，可以用这种方式描述的语言数量之多，以及描述得多么贴切。"
+    },
+    {
+      "original": "Algol: Assembly language is too low-level.Pascal: Algol doesn't have enough data types.Modula: Pascal is too wimpy for systems programming. Simula: Algol isn't good enough at simulations.Smalltalk: Not everything in Simula is an object.Fortran: Assembly language is too low-level.Cobol: Fortran is scary.PL/1: Fortran doesn't have enough data types.Ada: Every existing language is missing something.Basic: Fortran is scary.APL: Fortran isn't good enough at manipulating arrays.J: APL requires its own character set.C: Assembly language is too low-level.C++: C is too low-level.Java: C++ is a kludge.",
+      "translated": "Algol: 汇编语言层次太低。\nPascal: Algol 的数据类型不够多。\nModula: Pascal 用于系统编程太弱。\nSimula: Algol 在模拟方面不够好。\nSmalltalk: Simula 中不是一切都是对象。\nFortran: 汇编语言层次太低。\nCobol: Fortran 让人害怕。\nPL/1: Fortran 的数据类型不够多。\nAda: 每种现有语言都缺少某些东西。\nBasic: Fortran 让人害怕。\nAPL: Fortran 在数组操作方面不够好。\nJ: APL 需要自己的字符集。\nC: 汇编语言层次太低。\nC++: C 层次太低。\nJava: C++ 是个拼凑的产物。"
+    },
+    {
+      "original": "And Microsoft is going to crush us.C#: Java is controlled by Sun. Lisp: Turing Machines are an awkward way to describe computation.Scheme: MacLisp is a kludge.T: Scheme has no libraries.Common Lisp: There are too many dialects of Lisp.Dylan: Scheme has no libraries, and Lisp syntax is scary.",
+      "translated": "而微软将会碾压我们。C#: Java 由 Sun 控制。Lisp: 图灵机是一种笨拙的计算描述方式。Scheme: MacLisp 是一个权宜之计。T: Scheme 没有库。Common Lisp: Lisp 有太多的方言。Dylan: Scheme 没有库，而且 Lisp 的语法令人望而生畏。"
+    },
+    {
+      "original": "Perl: Shell scripts/awk/sed are not enough like programming languages.Python: Perl is a kludge.Ruby: Perl is a kludge, and Lisp syntax is scary.Prolog: Programming is not enough like logic. Japanese TranslationFrench TranslationPortuguese Translation",
+      "translated": "Perl: Shell脚本/awk/sed不像真正的编程语言。\nPython: Perl 是一个权宜之计。\nRuby: Perl 是一个权宜之计，而Lisp的语法令人望而生畏。\nProlog: 编程不像逻辑那样严谨。"
+    }
+  ],
+  "translation_completed": "2025-07-27T10:16:16.844482",
+  "translation_stats": {
+    "total_paragraphs": 4,
+    "success_count": 4,
+    "success_rate": "100.0%"
+  }
+}

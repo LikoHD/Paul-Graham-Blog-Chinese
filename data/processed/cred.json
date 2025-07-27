@@ -1,0 +1,44 @@
+{
+  "title": "Coronavirus and Credibility",
+  "title_zh": "[待翻译] Coronavirus and Credibility",
+  "url": "https://www.paulgraham.com/cred.html",
+  "filename": "cred.html",
+  "date": "2020-04-01",
+  "id": 104,
+  "content": {
+    "success": true,
+    "paragraphs": [
+      "April 2020I recently saw a video of TV journalists and politicians confidently saying that the coronavirus would be no worse than the flu. What struck me about it was not just how mistaken they seemed, but how daring.",
+      "How could they feel safe saying such things?The answer, I realized, is that they didn't think they could get caught. They didn't realize there was any danger in making false predictions. These people constantly make false predictions, and get away with it, because the things they make predictions about either have mushy enough outcomes that they can bluster their way out of trouble, or happen so far in the future that few remember what they said.An epidemic is different.",
+      "It falsifies your predictions rapidly and unequivocally.But epidemics are rare enough that these people clearly didn't realize this was even a possibility. Instead they just continued to use their ordinary m.o., which, as the epidemic has made clear, is to talk confidently about things they don't understand.An event like this is thus a uniquely powerful way of taking people's measure.",
+      "As Warren Buffett said, \"It's only when the tide goes out that you learn who's been swimming naked.\" And the tide has just gone out like never before.Now that we've seen the results, let's remember what we saw, because this is the most accurate test of credibility we're ever likely to have."
+    ],
+    "word_count": 234,
+    "paragraph_count": 4
+  },
+  "processed_at": "2025-07-26T19:04:47.586225",
+  "paragraphs": [
+    {
+      "original": "April 2020I recently saw a video of TV journalists and politicians confidently saying that the coronavirus would be no worse than the flu. What struck me about it was not just how mistaken they seemed, but how daring.",
+      "translated": "2020年4月，我最近看到一段视频，里面电视记者和政客自信地表示新冠病毒不会比流感更严重。令我印象深刻的是，他们不仅显得多么错误，而且多么大胆。"
+    },
+    {
+      "original": "How could they feel safe saying such things?The answer, I realized, is that they didn't think they could get caught. They didn't realize there was any danger in making false predictions. These people constantly make false predictions, and get away with it, because the things they make predictions about either have mushy enough outcomes that they can bluster their way out of trouble, or happen so far in the future that few remember what they said.An epidemic is different.",
+      "translated": "他们怎么能觉得说这样的话是安全的？我意识到，答案是他们认为自己不会被抓住。他们没有意识到做出错误预测会有任何危险。这些人不断做出错误的预测，并且能够逍遥法外，因为他们预测的事情要么结果模糊到足以让他们蒙混过关，要么发生在遥远的未来，以至于很少有人记得他们说过什么。而流行病则不同。"
+    },
+    {
+      "original": "It falsifies your predictions rapidly and unequivocally.But epidemics are rare enough that these people clearly didn't realize this was even a possibility. Instead they just continued to use their ordinary m.o., which, as the epidemic has made clear, is to talk confidently about things they don't understand.An event like this is thus a uniquely powerful way of taking people's measure.",
+      "translated": "它迅速而明确地否定了你的预测。但疫情足够罕见，以至于这些人显然没有意识到这甚至是一种可能性。相反，他们只是继续使用他们惯常的行事方式，正如疫情所揭示的那样，他们对不了解的事情也自信满满地发表意见。因此，像这样的事件成为衡量人们的一个独特而有力的方式。"
+    },
+    {
+      "original": "As Warren Buffett said, \"It's only when the tide goes out that you learn who's been swimming naked.\" And the tide has just gone out like never before.Now that we've seen the results, let's remember what we saw, because this is the most accurate test of credibility we're ever likely to have.",
+      "translated": "正如沃伦·巴菲特所说：“只有当潮水退去时，你才会发现谁一直在裸泳。”而现在，潮水正以前所未有的方式退去。既然我们已经看到了结果，让我们记住我们所看到的，因为这可能是我们所能拥有的最准确的信誉测试。"
+    }
+  ],
+  "translation_completed": "2025-07-27T10:06:37.714158",
+  "translation_stats": {
+    "total_paragraphs": 4,
+    "success_count": 4,
+    "success_rate": "100.0%"
+  }
+}

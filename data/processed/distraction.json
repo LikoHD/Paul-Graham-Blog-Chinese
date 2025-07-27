@@ -1,0 +1,134 @@
+{
+  "title": "Disconnecting Distraction",
+  "title_zh": "[待翻译] Disconnecting Distraction",
+  "url": "https://www.paulgraham.com/distraction.html",
+  "filename": "distraction.html",
+  "date": "2020-10-21",
+  "id": 75,
+  "content": {
+    "success": true,
+    "paragraphs": [
+      "Note: The strategy described at the end of this essay didn't work. It would work for a while, and then I'd gradually find myself using the Internet on my work computer. I'm trying other strategies now, but I think this time I'll wait till I'm sure they work before writing about them.May 2008Procrastination feeds on distractions.",
+      "Most people find it uncomfortable just to sit and do nothing; you avoid work by doing something else.So one way to beat procrastination is to starve it of distractions. But that's not as straightforward as it sounds, because there are people working hard to distract you.",
+      "Distraction is not a static obstacle that you avoid like you might avoid a rock in the road. Distraction seeks you out.Chesterfield described dirt as matter out of place. Distracting is, similarly, desirable at the wrong time.",
+      "And technology is continually being refined to produce more and more desirable things. Which means that as we learn to avoid one class of distractions, new ones constantly appear, like drug-resistant bacteria.Television, for example, has after 50 years of refinement reached the point where it's like visual crack.",
+      "I realized when I was 13 that TV was addictive, so I stopped watching it. But I read recently that the average American watches 4 hours of TV a day. A quarter of their life.TV is in decline now, but only because people have found even more addictive ways of wasting time.",
+      "And what's especially dangerous is that many happen at your computer. This is no accident. An ever larger percentage of office workers sit in front of computers connected to the Internet, and distractions always evolve toward the procrastinators.I remember when computers were, for me at least, exclusively for work.",
+      "I might occasionally dial up a server to get mail or ftp files, but most of the time I was offline. All I could do was write and program. Now I feel as if someone snuck a television onto my desk. Terribly addictive things are just a click away.",
+      "Run into an obstacle in what you're working on? Hmm, I wonder what's new online. Better check.After years of carefully avoiding classic time sinks like TV, games, and Usenet, I still managed to fall prey to distraction, because I didn't realize that it evolves.",
+      "Something that used to be safe, using the Internet, gradually became more and more dangerous. Some days I'd wake up, get a cup of tea and check the news, then check email, then check the news again, then answer a few emails, then suddenly notice it was almost lunchtime and I hadn't gotten any real work done.",
+      "And this started to happen more and more often.It took me surprisingly long to realize how distracting the Internet had become, because the problem was intermittent. I ignored it the way you let yourself ignore a bug that only appears intermittently.",
+      "When I was in the middle of a project, distractions weren't really a problem. It was when I'd finished one project and was deciding what to do next that they always bit me.Another reason it was hard to notice the danger of this new type of distraction was that social customs hadn't yet caught up with it.",
+      "If I'd spent a whole morning sitting on a sofa watching TV, I'd have noticed very quickly. That's a known danger sign, like drinking alone. But using the Internet still looked and felt a lot like work.Eventually, though, it became clear that the Internet had become so much more distracting that I had to start treating it differently.",
+      "Basically, I had to add a new application to my list of known time sinks: Firefox.* * *The problem is a hard one to solve because most people still need the Internet for some things. If you drink too much, you can solve that problem by stopping entirely.",
+      "But you can't solve the problem of overeating by stopping eating. I couldn't simply avoid the Internet entirely, as I'd done with previous time sinks.At first I tried rules. For example, I'd tell myself I was only going to use the Internet twice a day.",
+      "But these schemes never worked for long. Eventually something would come up that required me to use it more than that. And then I'd gradually slip back into my old ways.Addictive things have to be treated as if they were sentient adversaries—as if there were a little man in your head always cooking up the most plausible arguments for doing whatever you're trying to stop doing.",
+      "If you leave a path to it, he'll find it.The key seems to be visibility. The biggest ingredient in most bad habits is denial. So you have to make it so that you can't merely slip into doing the thing you're trying to avoid.",
+      "It has to set off alarms.Maybe in the long term the right answer for dealing with Internet distractions will be software that watches and controls them. But in the meantime I've found a more drastic solution that definitely works: to set up a separate computer for using the Internet.I now leave wifi turned off on my main computer except when I need to transfer a file or edit a web page, and I have a separate laptop on the other side of the room that I use to check mail or browse the web.",
+      "(Irony of ironies, it's the computer Steve Huffman wrote Reddit on. When Steve and Alexis auctioned off their old laptops for charity, I bought them for the Y Combinator museum.)My rule is that I can spend as much time online as I want, as long as I do it on that computer.",
+      "And this turns out to be enough. When I have to sit on the other side of the room to check email or browse the web, I become much more aware of it. Sufficiently aware, in my case at least, that it's hard to spend more than about an hour a day online.And my main computer is now freed for work.",
+      "If you try this trick, you'll probably be struck by how different it feels when your computer is disconnected from the Internet. It was alarming to me how foreign it felt to sit in front of a computer that could only be used for work, because that showed how much time I must have been wasting.Wow.",
+      "All I can do at this computer is work. Ok, I better work then.That's the good part. Your old bad habits now help you to work. You're used to sitting in front of that computer for hours at a time. But you can't browse the web or check email now.",
+      "What are you going to do? You can't just sit there. So you start working.Good and Bad ProcrastinationSpanish TranslationArabic TranslationCatalan TranslationRussian TranslationSpanish Translation"
+    ],
+    "word_count": 1133,
+    "paragraph_count": 22
+  },
+  "processed_at": "2025-07-26T19:03:50.396347",
+  "paragraphs": [
+    {
+      "original": "Note: The strategy described at the end of this essay didn't work. It would work for a while, and then I'd gradually find myself using the Internet on my work computer. I'm trying other strategies now, but I think this time I'll wait till I'm sure they work before writing about them.May 2008Procrastination feeds on distractions.",
+      "translated": "注意：本文末尾所述的策略并没有奏效。起初它似乎有效，但随后我会逐渐发现自己又在工作电脑上使用互联网。我现在正在尝试其他策略，但这次我会等到确定它们有效后再写关于它们的内容。2008年5月拖延症滋生于分心。"
+    },
+    {
+      "original": "Most people find it uncomfortable just to sit and do nothing; you avoid work by doing something else.So one way to beat procrastination is to starve it of distractions. But that's not as straightforward as it sounds, because there are people working hard to distract you.",
+      "translated": "大多数人觉得只是坐着什么都不做会很不自在；你通过做其他事情来逃避工作。因此，克服拖延的一种方法就是消除干扰。但这一点说起来容易做起来难，因为总有人在努力分散你的注意力。"
+    },
+    {
+      "original": "Distraction is not a static obstacle that you avoid like you might avoid a rock in the road. Distraction seeks you out.Chesterfield described dirt as matter out of place. Distracting is, similarly, desirable at the wrong time.",
+      "translated": "分心并不是一个静态的障碍，可以像避开路上的石头那样避开。分心会主动找上门来。切斯特菲尔德将污垢描述为错位的物质。同样，分心就是在错误的时间出现的令人渴望的事物。"
+    },
+    {
+      "original": "And technology is continually being refined to produce more and more desirable things. Which means that as we learn to avoid one class of distractions, new ones constantly appear, like drug-resistant bacteria.Television, for example, has after 50 years of refinement reached the point where it's like visual crack.",
+      "translated": "技术不断进步，生产出越来越多令人向往的事物。这意味着，当我们学会避免一类干扰时，新的干扰又不断出现，就像耐药细菌一样。例如，电视经过50年的改进，已经达到了几乎像视觉海洛因的地步。"
+    },
+    {
+      "original": "I realized when I was 13 that TV was addictive, so I stopped watching it. But I read recently that the average American watches 4 hours of TV a day. A quarter of their life.TV is in decline now, but only because people have found even more addictive ways of wasting time.",
+      "translated": "我13岁时意识到电视具有成瘾性，所以我就不再看了。但最近我读到，平均每个美国人每天要看4个小时的电视。这相当于他们生命中四分之一的时间。虽然电视现在在走下坡路，但那只是因为人们找到了更加成瘾的消磨时间的方式。"
+    },
+    {
+      "original": "And what's especially dangerous is that many happen at your computer. This is no accident. An ever larger percentage of office workers sit in front of computers connected to the Internet, and distractions always evolve toward the procrastinators.I remember when computers were, for me at least, exclusively for work.",
+      "translated": "尤其危险的是，许多问题发生在你的电脑上。这绝非偶然。越来越多的上班族坐在连接互联网的电脑前，而分心的事物总是朝着拖延症患者演变。我还记得，至少对我来说，电脑曾经是专门用来工作的。"
+    },
+    {
+      "original": "I might occasionally dial up a server to get mail or ftp files, but most of the time I was offline. All I could do was write and program. Now I feel as if someone snuck a television onto my desk. Terribly addictive things are just a click away.",
+      "translated": "我偶尔会拨号连接服务器来收邮件或传输文件，但大多数时候我是离线的。我所能做的只是写作和编程。现在我感觉好像有人偷偷在我的桌子上放了一台电视。那些极其吸引人的东西只需点击一下就能获得。"
+    },
+    {
+      "original": "Run into an obstacle in what you're working on? Hmm, I wonder what's new online. Better check.After years of carefully avoiding classic time sinks like TV, games, and Usenet, I still managed to fall prey to distraction, because I didn't realize that it evolves.",
+      "translated": "在你正在做的事情上遇到障碍了吗？嗯，我想网上有什么新东西。最好查一查。经过多年的小心翼翼避免像电视、游戏和Usenet这样的经典时间杀手，我仍然没能逃过分心的陷阱，因为我没有意识到它在不断演变。"
+    },
+    {
+      "original": "Something that used to be safe, using the Internet, gradually became more and more dangerous. Some days I'd wake up, get a cup of tea and check the news, then check email, then check the news again, then answer a few emails, then suddenly notice it was almost lunchtime and I hadn't gotten any real work done.",
+      "translated": "曾经安全的事，比如使用互联网，逐渐变得越来越危险。有些日子，我醒来后泡一杯茶，看看新闻，然后查邮件，再看看新闻，回复几封邮件，突然间发现已经快到午饭时间了，而我还没有做任何实质性的工作。"
+    },
+    {
+      "original": "And this started to happen more and more often.It took me surprisingly long to realize how distracting the Internet had become, because the problem was intermittent. I ignored it the way you let yourself ignore a bug that only appears intermittently.",
+      "translated": "这种情况开始越来越多地发生。我花了很长时间才意识到互联网已经变得多么分散注意力，因为这个问题是间歇性的。我就像对待那些只在偶尔出现的错误一样，选择了忽视它。"
+    },
+    {
+      "original": "When I was in the middle of a project, distractions weren't really a problem. It was when I'd finished one project and was deciding what to do next that they always bit me.Another reason it was hard to notice the danger of this new type of distraction was that social customs hadn't yet caught up with it.",
+      "translated": "当我忙于某个项目时，分心根本不是问题。真正让我头疼的是，在完成一个项目并决定下一步该做什么的时候，分心总是会找上门来。另外，这种新型分心的危险难以察觉的一个原因是，社会习惯尚未跟上它的步伐。"
+    },
+    {
+      "original": "If I'd spent a whole morning sitting on a sofa watching TV, I'd have noticed very quickly. That's a known danger sign, like drinking alone. But using the Internet still looked and felt a lot like work.Eventually, though, it became clear that the Internet had become so much more distracting that I had to start treating it differently.",
+      "translated": "如果我一整个上午都坐在沙发上看电视，我会很快注意到这一点。这是一个已知的危险信号，就像独自饮酒一样。但使用互联网仍然看起来和感觉上很像在工作。然而，最终我意识到互联网已经变得如此令人分心，以至于我不得不开始用不同的方式对待它。"
+    },
+    {
+      "original": "Basically, I had to add a new application to my list of known time sinks: Firefox.* * *The problem is a hard one to solve because most people still need the Internet for some things. If you drink too much, you can solve that problem by stopping entirely.",
+      "translated": "基本上，我不得不在我的已知时间消耗列表中添加了一个新的应用：Firefox。* * *这个问题很难解决，因为大多数人仍然需要互联网来做一些事情。如果你喝得太多，可以通过完全停止来解决这个问题。"
+    },
+    {
+      "original": "But you can't solve the problem of overeating by stopping eating. I couldn't simply avoid the Internet entirely, as I'd done with previous time sinks.At first I tried rules. For example, I'd tell myself I was only going to use the Internet twice a day.",
+      "translated": "但是，你不能通过停止进食来解决暴饮暴食的问题。我不能像以前避开那些耗费时间的事物那样完全避免互联网。起初，我尝试制定规则。例如，我会告诉自己每天只上网两次。"
+    },
+    {
+      "original": "But these schemes never worked for long. Eventually something would come up that required me to use it more than that. And then I'd gradually slip back into my old ways.Addictive things have to be treated as if they were sentient adversaries—as if there were a little man in your head always cooking up the most plausible arguments for doing whatever you're trying to stop doing.",
+      "translated": "但这些方法从来没能持久。最终总会出现一些事情，迫使我不得不更多地使用它。然后我会逐渐回到旧习惯。对于那些令人上瘾的东西，必须像对待有意识的对手一样对待——仿佛在你的脑袋里有一个小人在不断炮制出最合理的理由，让你去做你正试图停止的事情。"
+    },
+    {
+      "original": "If you leave a path to it, he'll find it.The key seems to be visibility. The biggest ingredient in most bad habits is denial. So you have to make it so that you can't merely slip into doing the thing you're trying to avoid.",
+      "translated": "如果你给他留一条路，他就会找到。关键似乎是显而易见性。大多数坏习惯的最大成分是否认。因此，你必须让自己无法轻易滑入你试图避免的行为。"
+    },
+    {
+      "original": "It has to set off alarms.Maybe in the long term the right answer for dealing with Internet distractions will be software that watches and controls them. But in the meantime I've found a more drastic solution that definitely works: to set up a separate computer for using the Internet.I now leave wifi turned off on my main computer except when I need to transfer a file or edit a web page, and I have a separate laptop on the other side of the room that I use to check mail or browse the web.",
+      "translated": "这必须引起警觉。也许从长远来看，应对互联网干扰的正确方法将是能够监控和控制这些干扰的软件。但在那之前，我发现了一个更为激进的解决方案，肯定有效：设置一台专门用于上网的电脑。现在，除非我需要传输文件或编辑网页，否则我主要使用的电脑上会一直关闭无线网络，而在房间的另一边，我有一台单独的笔记本电脑，用来查看邮件或浏览网页。"
+    },
+    {
+      "original": "(Irony of ironies, it's the computer Steve Huffman wrote Reddit on. When Steve and Alexis auctioned off their old laptops for charity, I bought them for the Y Combinator museum.)My rule is that I can spend as much time online as I want, as long as I do it on that computer.",
+      "translated": "（真是讽刺，史蒂夫·赫夫曼编写Reddit用的正是这台电脑。当史蒂夫和亚历克西斯为了慈善拍卖他们的旧笔记本电脑时，我买下了它们，放进了Y Combinator博物馆。）我的规矩是，只要在这台电脑上，我就可以随心所欲地上网。"
+    },
+    {
+      "original": "And this turns out to be enough. When I have to sit on the other side of the room to check email or browse the web, I become much more aware of it. Sufficiently aware, in my case at least, that it's hard to spend more than about an hour a day online.And my main computer is now freed for work.",
+      "translated": "而这已经足够了。当我不得不坐在房间的另一侧查看邮件或浏览网页时，我变得更加意识到这一点。至少对我来说，这种意识足够强烈，以至于我很难每天在线超过一个小时。而我的主要电脑现在可以专注于工作。"
+    },
+    {
+      "original": "If you try this trick, you'll probably be struck by how different it feels when your computer is disconnected from the Internet. It was alarming to me how foreign it felt to sit in front of a computer that could only be used for work, because that showed how much time I must have been wasting.Wow.",
+      "translated": "如果你尝试这个方法，你可能会感到当你的电脑断开互联网连接时，感觉有多么不同。对我来说，坐在一台只能用来工作的电脑前感觉非常陌生，这让我意识到自己浪费了多少时间。哇。"
+    },
+    {
+      "original": "All I can do at this computer is work. Ok, I better work then.That's the good part. Your old bad habits now help you to work. You're used to sitting in front of that computer for hours at a time. But you can't browse the web or check email now.",
+      "translated": "我在这台电脑上只能工作。好吧，那我就好好工作吧。这就是好的一面。你过去的坏习惯现在帮助你工作。你已经习惯了长时间坐在电脑前。但现在你不能浏览网页或查看邮件了。"
+    },
+    {
+      "original": "What are you going to do? You can't just sit there. So you start working.Good and Bad ProcrastinationSpanish TranslationArabic TranslationCatalan TranslationRussian TranslationSpanish Translation",
+      "translated": "你要做什么？你不能就这样坐着。所以你开始工作。好的和坏的拖延西班牙语翻译阿拉伯语翻译加泰罗尼亚语翻译俄语翻译西班牙语翻译"
+    }
+  ],
+  "translation_completed": "2025-07-27T15:05:07.962803",
+  "translation_stats": {
+    "total_paragraphs": 22,
+    "success_count": 22,
+    "success_rate": "100.0%"
+  }
+}

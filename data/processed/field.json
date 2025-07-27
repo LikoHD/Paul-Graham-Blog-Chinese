@@ -1,0 +1,109 @@
+{
+  "title": "The Shape of the Essay Field",
+  "title_zh": "essay领域的形状",
+  "url": "https://www.paulgraham.com/field.html",
+  "filename": "field.html",
+  "date": "2025-06-01",
+  "id": 1,
+  "content": {
+    "success": true,
+    "paragraphs": [
+      "June 2025An essay has to tell people something they don't already know. But there are three different reasons people might not know something, and they yield three very different kinds of essays.One reason people won't know something is if it's not important to know.",
+      "That doesn't mean it will make a bad essay. For example, you might write a good essay about a particular model of car. Readers would learn something from it. It would add to their picture of the world.",
+      "For a handful of readers it might even spur some kind of epiphany. But unless this is a very unusual car it's not critical for everyone to know about it. [1]If something isn't important to know, there's no answer to the question of why people don't know it.",
+      "Not knowing random facts is the default. But if you're going to write about things that are important to know, you have to ask why your readers don't already know them. Is it because they're smart but inexperienced, or because they're obtuse?So the three reasons readers might not already know what you tell them are (a) that it's not important, (b) that they're obtuse, or (c) that they're inexperienced.The reason I did this breakdown was to get at the following fact, which might have seemed controversial if I'd led with it, but should be obvious now.",
+      "If you're writing for smart people about important things, you're writing for the young.Or more precisely, that's where you'll have the most effect. Whatever you say should also be at least somewhat novel to you, however old you are.",
+      "It's not an essay otherwise, because an essay is something you write to figure something out. But whatever you figure out will presumably be more of a surprise to younger readers than it is to you.There's a continuum of surprise.",
+      "At one extreme, something you read can change your whole way of thinking. The Selfish Gene did this to me. It was like suddenly seeing the other interpretation of an ambiguous image: you can treat genes rather than organisms as the protagonists, and evolution becomes easier to understand when you do.",
+      "At the other extreme, writing merely puts into words something readers were already thinking — or thought they were.The impact of an essay is how much it changes readers' thinking multiplied by the importance of the topic.",
+      "But it's hard to do well at both. It's hard to have big new ideas about important topics. So in practice there's a tradeoff: you can change readers' thinking a lot about moderately important things, or change it a little about very important ones.",
+      "But with younger readers the tradeoff shifts. There's more room to change their thinking, so there's a bigger payoff for writing about important things.The tradeoff isn't a conscious one, at least not for me.",
+      "It's more like a kind of gravitational field that writers work in. But every essayist works in it, whether they realize it or not.This seems obvious once you state it, but it took me a long time to understand.",
+      "I knew I wanted to write for smart people about important topics. I noticed empirically that I seemed to be writing for the young. But it took me years to understand that the latter was an automatic consequence of the former.",
+      "In fact I only really figured it out as I was writing this essay.Now that I know it, should I change anything? I don't think so. In fact seeing the shape of the field that writers work in has reminded me that I'm not optimizing for returns in it.",
+      "I'm not trying to surprise readers of any particular age; I'm trying to surprise myself.The way I usually decide what to write about is by following curiosity. I notice something new and dig into it.",
+      "It would probably be a mistake to change that. But seeing the shape of the essay field has set me thinking. What would surprise young readers? Which important things do people tend to learn late? Interesting question.",
+      "I should think about that. Note[1] It's hard to write a really good essay about an unimportant topic, though, because a really good essayist will inevitably draw the topic into deeper waters. E. B. White could write an essay about how to boil potatoes that ended up being full of timeless wisdom.",
+      "In which case, of course, it wouldn't really be about how to boil potatoes; that would just have been the starting point.Thanks to Jessica Livingston and Michael Nielsen for reading drafts of this."
+    ],
+    "word_count": 757,
+    "paragraph_count": 17
+  },
+  "processed_at": "2025-07-26T19:24:05.037755",
+  "paragraphs": [
+    {
+      "original": "June 2025An essay has to tell people something they don't already know. But there are three different reasons people might not know something, and they yield three very different kinds of essays.One reason people won't know something is if it's not important to know.",
+      "translated": "2025年6月\n\n一篇论文必须告诉人们一些他们还不知道的事情。但是，人们不知道某件事可能有三个不同的原因，而这会产生三种非常不同的论文类型。其中一个原因是，如果某件事并不重要，人们就不会知道。"
+    },
+    {
+      "original": "That doesn't mean it will make a bad essay. For example, you might write a good essay about a particular model of car. Readers would learn something from it. It would add to their picture of the world.",
+      "translated": "这并不意味着它会是一篇糟糕的论文。例如，你可能会写一篇关于某款汽车的优秀论文。读者会从中有所收获。它会增加他们对世界的认识。"
+    },
+    {
+      "original": "For a handful of readers it might even spur some kind of epiphany. But unless this is a very unusual car it's not critical for everyone to know about it. [1]If something isn't important to know, there's no answer to the question of why people don't know it.",
+      "translated": "对一些读者来说，这甚至可能引发某种顿悟。但除非这是一辆非常特别的车，否则并不是每个人都需要了解它。[1]如果某件事并不重要，那么人们不知道它的原因也就无从谈起。"
+    },
+    {
+      "original": "Not knowing random facts is the default. But if you're going to write about things that are important to know, you have to ask why your readers don't already know them. Is it because they're smart but inexperienced, or because they're obtuse?So the three reasons readers might not already know what you tell them are (a) that it's not important, (b) that they're obtuse, or (c) that they're inexperienced.The reason I did this breakdown was to get at the following fact, which might have seemed controversial if I'd led with it, but should be obvious now.",
+      "translated": "不知道随机事实是常态。但是，如果你要写一些重要的事情，你必须问为什么你的读者还不知道这些事情。是因为他们聪明但缺乏经验，还是因为他们理解力差？所以，读者可能不知道你告诉他们的事情的三个原因是（a）这些事情并不重要，（b）他们理解力差，或者（c）他们缺乏经验。我做这个分析的目的是为了引出以下事实，如果我一开始就提出这个观点，可能会显得有争议，但现在应该显而易见了。"
+    },
+    {
+      "original": "If you're writing for smart people about important things, you're writing for the young.Or more precisely, that's where you'll have the most effect. Whatever you say should also be at least somewhat novel to you, however old you are.",
+      "translated": "如果你是为聪明的人写重要的事情，那么你就是在为年轻人写作。或者更准确地说，你将在他们身上产生最大的影响。无论你多大年纪，你所说的内容至少应该对你自己有一定的新颖性。"
+    },
+    {
+      "original": "It's not an essay otherwise, because an essay is something you write to figure something out. But whatever you figure out will presumably be more of a surprise to younger readers than it is to you.There's a continuum of surprise.",
+      "translated": "这并不是一篇论文，因为论文是你为了弄清楚某件事情而写的。但你所弄清楚的任何事情对年轻读者来说可能比对你自己更令人惊讶。这里存在一个惊讶的连续体。"
+    },
+    {
+      "original": "At one extreme, something you read can change your whole way of thinking. The Selfish Gene did this to me. It was like suddenly seeing the other interpretation of an ambiguous image: you can treat genes rather than organisms as the protagonists, and evolution becomes easier to understand when you do.",
+      "translated": "在一种极端情况下，你读到的东西可以改变你的整个思维方式。《自私的基因》对我就是这样。这就像突然看到了一个模棱两可的图像的另一种解释：你可以把基因而不是生物体视为主角，当你这样做的时候，进化就更容易理解了。"
+    },
+    {
+      "original": "At the other extreme, writing merely puts into words something readers were already thinking — or thought they were.The impact of an essay is how much it changes readers' thinking multiplied by the importance of the topic.",
+      "translated": "在另一个极端，写作只是把读者已经在思考的——或者自认为在思考的——东西用文字表达出来。文章的影响在于它改变读者思考的程度与话题重要性的乘积。"
+    },
+    {
+      "original": "But it's hard to do well at both. It's hard to have big new ideas about important topics. So in practice there's a tradeoff: you can change readers' thinking a lot about moderately important things, or change it a little about very important ones.",
+      "translated": "但要同时做好这两点很难。对重要话题产生大的新想法并不容易。因此，实际上存在一个权衡：你可以对中等重要的事情大幅改变读者的思维方式，或者对非常重要的事情稍微改变一点。"
+    },
+    {
+      "original": "But with younger readers the tradeoff shifts. There's more room to change their thinking, so there's a bigger payoff for writing about important things.The tradeoff isn't a conscious one, at least not for me.",
+      "translated": "但对于年轻读者来说，这种权衡发生了变化。他们更容易改变想法，因此撰写重要话题的回报更大。这种权衡并不是有意识的，至少对我来说不是。"
+    },
+    {
+      "original": "It's more like a kind of gravitational field that writers work in. But every essayist works in it, whether they realize it or not.This seems obvious once you state it, but it took me a long time to understand.",
+      "translated": "这更像是一种作家们工作的引力场。但每位散文家都在其中工作，无论他们是否意识到。这听起来似乎显而易见，但对我来说，理解这一点花了很长时间。"
+    },
+    {
+      "original": "I knew I wanted to write for smart people about important topics. I noticed empirically that I seemed to be writing for the young. But it took me years to understand that the latter was an automatic consequence of the former.",
+      "translated": "我知道我想为聪明的人撰写重要的主题。我从经验中发现，我似乎在为年轻人写作。但花了我多年的时间才明白，后者实际上是前者的自然结果。"
+    },
+    {
+      "original": "In fact I only really figured it out as I was writing this essay.Now that I know it, should I change anything? I don't think so. In fact seeing the shape of the field that writers work in has reminded me that I'm not optimizing for returns in it.",
+      "translated": "事实上，我只是在写这篇论文时才真正明白过来。现在既然已经知道了，我是否应该做出一些改变？我认为不必。事实上，看到作家们工作的领域轮廓，提醒了我并没有在这个领域内优化我的回报。"
+    },
+    {
+      "original": "I'm not trying to surprise readers of any particular age; I'm trying to surprise myself.The way I usually decide what to write about is by following curiosity. I notice something new and dig into it.",
+      "translated": "我并不是想让某个特定年龄段的读者感到惊讶；我是想让自己感到惊讶。我通常决定写什么的方式是跟随好奇心。我注意到一些新的东西并深入探究。"
+    },
+    {
+      "original": "It would probably be a mistake to change that. But seeing the shape of the essay field has set me thinking. What would surprise young readers? Which important things do people tend to learn late? Interesting question.",
+      "translated": "改变这一点可能是个错误。但看到文章领域的现状让我陷入了思考。什么会让年轻读者感到惊讶？人们往往在晚年才学到哪些重要的事情？这是一个有趣的问题。"
+    },
+    {
+      "original": "I should think about that. Note[1] It's hard to write a really good essay about an unimportant topic, though, because a really good essayist will inevitably draw the topic into deeper waters. E. B. White could write an essay about how to boil potatoes that ended up being full of timeless wisdom.",
+      "translated": "我得考虑一下。注[1] 虽然如此，但要就一个不重要的主题写出一篇真正优秀的文章却很难，因为真正优秀的散文家必然会将主题引向更深的层次。E. B. 怀特能够写一篇关于如何煮土豆的散文，最终却充满了永恒的智慧。"
+    },
+    {
+      "original": "In which case, of course, it wouldn't really be about how to boil potatoes; that would just have been the starting point.Thanks to Jessica Livingston and Michael Nielsen for reading drafts of this.",
+      "translated": "在这种情况下，当然，这实际上不会是关于如何煮土豆；那只是一个起点。感谢 Jessica Livingston 和 Michael Nielsen 阅读本文的草稿。"
+    }
+  ],
+  "translation_completed": "2025-07-26T20:33:16.153523",
+  "translation_stats": {
+    "total_paragraphs": 17,
+    "success_count": 17,
+    "success_rate": "100.0%"
+  }
+}

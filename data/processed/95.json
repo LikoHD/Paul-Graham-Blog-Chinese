@@ -1,0 +1,114 @@
+{
+  "title": "Let the Other 95% of Great Programmers In",
+  "title_zh": "[待翻译] Let the Other 95% of Great Programmers In",
+  "url": "https://www.paulgraham.com/95.html",
+  "filename": "95.html",
+  "date": "2014-12-01",
+  "id": 121,
+  "content": {
+    "success": true,
+    "paragraphs": [
+      "December 2014American technology companies want the government to make immigration easier because they say they can't find enough programmers in the US. Anti-immigration people say that instead of letting foreigners take these jobs, we should train more Americans to be programmers.",
+      "Who's right?The technology companies are right. What the anti-immigration people don't understand is that there is a huge variation in ability between competent programmers and exceptional ones, and while you can train people to be competent, you can't train them to be exceptional.",
+      "Exceptional programmers have an aptitude for and interest in programming that is not merely the product of training. [1]The US has less than 5% of the world's population. Which means if the qualities that make someone a great programmer are evenly distributed, 95% of great programmers are born outside the US.The anti-immigration people have to invent some explanation to account for all the effort technology companies have expended trying to make immigration easier.",
+      "So they claim it's because they want to drive down salaries. But if you talk to startups, you find practically every one over a certain size has gone through legal contortions to get programmers into the US, where they then paid them the same as they'd have paid an American.",
+      "Why would they go to extra trouble to get programmers for the same price? The only explanation is that they're telling the truth: there are just not enough great programmers to go around. [2]I asked the CEO of a startup with about 70 programmers how many more he'd hire if he could get all the great programmers he wanted.",
+      "He said \"We'd hire 30 tomorrow morning.\" And this is one of the hot startups that always win recruiting battles. It's the same all over Silicon Valley. Startups are that constrained for talent.It would be great if more Americans were trained as programmers, but no amount of training can flip a ratio as overwhelming as 95 to 5.",
+      "Especially since programmers are being trained in other countries too. Barring some cataclysm, it will always be true that most great programmers are born outside the US. It will always be true that most people who are great at anything are born outside the US.",
+      "[3]Exceptional performance implies immigration. A country with only a few percent of the world's population will be exceptional in some field only if there are a lot of immigrants working in it.But this whole discussion has taken something for granted: that if we let more great programmers into the US, they'll want to come.",
+      "That's true now, and we don't realize how lucky we are that it is. If we want to keep this option open, the best way to do it is to take advantage of it: the more of the world's great programmers are here, the more the rest will want to come here.And if we don't, the US could be seriously fucked.",
+      "I realize that's strong language, but the people dithering about this don't seem to realize the power of the forces at work here. Technology gives the best programmers huge leverage. The world market in programmers seems to be becoming dramatically more liquid.",
+      "And since good people like good colleagues, that means the best programmers could collect in just a few hubs. Maybe mostly in one hub.What if most of the great programmers collected in one hub, and it wasn't here?",
+      "That scenario may seem unlikely now, but it won't be if things change as much in the next 50 years as they did in the last 50.We have the potential to ensure that the US remains a technology superpower just by letting in a few thousand great programmers a year.",
+      "What a colossal mistake it would be to let that opportunity slip. It could easily be the defining mistake this generation of American politicians later become famous for. And unlike other potential mistakes on that scale, it costs nothing to fix.So please, get on with it.",
+      "Notes[1] How much better is a great programmer than an ordinary one? So much better that you can't even measure the difference directly. A great programmer doesn't merely do the same work faster. A great programmer will invent things an ordinary programmer would never even think of.",
+      "This doesn't mean a great programmer is infinitely more valuable, because any invention has a finite market value. But it's easy to imagine cases where a great programmer might invent things worth 100x or even 1000x an average programmer's salary.[2] There are a handful of consulting firms that rent out big pools of foreign programmers they bring in on H1-B visas.",
+      "By all means crack down on these. It should be easy to write legislation that distinguishes them, because they are so different from technology companies. But it is dishonest of the anti-immigration people to claim that companies like Google and Facebook are driven by the same motives.",
+      "An influx of inexpensive but mediocre programmers is the last thing they'd want; it would destroy them.[3] Though this essay talks about programmers, the group of people we need to import is broader, ranging from designers to programmers to electrical engineers.",
+      "The best one could do as a general term might be \"digital talent.\" It seemed better to make the argument a little too narrow than to confuse everyone with a neologism. Thanks to Sam Altman, John Collison, Patrick Collison, Jessica Livingston, Geoff Ralston, Fred Wilson, and Qasar Younis for reading drafts of this.Spanish Translation"
+    ],
+    "word_count": 910,
+    "paragraph_count": 18
+  },
+  "processed_at": "2025-07-26T19:05:20.465099",
+  "paragraphs": [
+    {
+      "original": "December 2014American technology companies want the government to make immigration easier because they say they can't find enough programmers in the US. Anti-immigration people say that instead of letting foreigners take these jobs, we should train more Americans to be programmers.",
+      "translated": "2014年12月，美国科技公司希望政府简化移民程序，因为它们声称在美国找不到足够的程序员。反移民人士则认为，我们应该培训更多的美国人成为程序员，而不是让外国人来抢占这些工作。"
+    },
+    {
+      "original": "Who's right?The technology companies are right. What the anti-immigration people don't understand is that there is a huge variation in ability between competent programmers and exceptional ones, and while you can train people to be competent, you can't train them to be exceptional.",
+      "translated": "谁是对的？科技公司是对的。反对移民的人不明白的是，有能力的程序员和杰出的程序员之间存在着巨大的能力差异，而虽然你可以培训人们达到有能力的水平，但你无法培训他们成为杰出的程序员。"
+    },
+    {
+      "original": "Exceptional programmers have an aptitude for and interest in programming that is not merely the product of training. [1]The US has less than 5% of the world's population. Which means if the qualities that make someone a great programmer are evenly distributed, 95% of great programmers are born outside the US.The anti-immigration people have to invent some explanation to account for all the effort technology companies have expended trying to make immigration easier.",
+      "translated": "优秀的程序员对编程的天赋和兴趣不仅仅源于训练。[1]美国的人口不到世界总人口的5%。这意味着，如果使某人成为优秀程序员的特质是均匀分布的，那么95%的优秀程序员出生在美国以外的地区。反移民的人必须想出一些解释来说明科技公司为使移民更加容易所付出的种种努力。"
+    },
+    {
+      "original": "So they claim it's because they want to drive down salaries. But if you talk to startups, you find practically every one over a certain size has gone through legal contortions to get programmers into the US, where they then paid them the same as they'd have paid an American.",
+      "translated": "所以他们声称这是为了压低工资。但如果你和初创公司交谈，你会发现几乎每家达到一定规模的公司都经历了法律上的周折，将程序员带入美国，然后支付给他们与美国人相同的薪酬。"
+    },
+    {
+      "original": "Why would they go to extra trouble to get programmers for the same price? The only explanation is that they're telling the truth: there are just not enough great programmers to go around. [2]I asked the CEO of a startup with about 70 programmers how many more he'd hire if he could get all the great programmers he wanted.",
+      "translated": "为什么他们会费尽周折以同样的价格找到程序员？唯一的解释是他们说的是实话：优秀的程序员确实供不应求。[2]我问了一家拥有大约70名程序员的初创公司CEO，如果他能招到所有想要的优秀程序员，他还想再招多少人。"
+    },
+    {
+      "original": "He said \"We'd hire 30 tomorrow morning.\" And this is one of the hot startups that always win recruiting battles. It's the same all over Silicon Valley. Startups are that constrained for talent.It would be great if more Americans were trained as programmers, but no amount of training can flip a ratio as overwhelming as 95 to 5.",
+      "translated": "他说：“我们明天早上就会招聘30人。”这是一家总是能在招聘战中获胜的热门初创公司。整个硅谷都是如此。初创公司对人才的需求非常紧迫。如果能有更多美国人接受编程培训当然很好，但再多的培训也无法改变95比5这样悬殊的比例。"
+    },
+    {
+      "original": "Especially since programmers are being trained in other countries too. Barring some cataclysm, it will always be true that most great programmers are born outside the US. It will always be true that most people who are great at anything are born outside the US.",
+      "translated": "特别是因为其他国家也在培养程序员。除非发生什么灾难，否则大多数优秀的程序员都将出生在美国之外。同样，大多数在任何领域表现出色的人也将出生在美国之外。"
+    },
+    {
+      "original": "[3]Exceptional performance implies immigration. A country with only a few percent of the world's population will be exceptional in some field only if there are a lot of immigrants working in it.But this whole discussion has taken something for granted: that if we let more great programmers into the US, they'll want to come.",
+      "translated": "[3]卓越的表现意味着移民。一个国家如果人口仅占世界人口的几个百分点，那么它在某个领域要表现卓越，只有当有大量移民在这个领域工作时才可能实现。但整个讨论都假设了一点：如果我们允许更多的优秀程序员进入美国，他们会愿意来。"
+    },
+    {
+      "original": "That's true now, and we don't realize how lucky we are that it is. If we want to keep this option open, the best way to do it is to take advantage of it: the more of the world's great programmers are here, the more the rest will want to come here.And if we don't, the US could be seriously fucked.",
+      "translated": "确实如此，而我们并没有意识到自己有多么幸运。如果我们想保持这种优势，最好的办法就是充分利用它：世界上优秀的程序员越多在这里，其他的人就越想来这里。如果我们不这样做，美国可能会遭受严重的打击。"
+    },
+    {
+      "original": "I realize that's strong language, but the people dithering about this don't seem to realize the power of the forces at work here. Technology gives the best programmers huge leverage. The world market in programmers seems to be becoming dramatically more liquid.",
+      "translated": "我意识到这种说法很强烈，但那些对此犹豫不决的人似乎没有意识到这里发挥作用的力量。技术赋予了最好的程序员巨大的杠杆作用。程序员的全球市场似乎正在变得空前地流动。"
+    },
+    {
+      "original": "And since good people like good colleagues, that means the best programmers could collect in just a few hubs. Maybe mostly in one hub.What if most of the great programmers collected in one hub, and it wasn't here?",
+      "translated": "而由于好人喜欢好同事，这意味着最好的程序员可能会集中在少数几个中心。也许主要集中在某一个中心。如果大多数优秀的程序员都集中在某一个中心，而这个中心不在这里呢？"
+    },
+    {
+      "original": "That scenario may seem unlikely now, but it won't be if things change as much in the next 50 years as they did in the last 50.We have the potential to ensure that the US remains a technology superpower just by letting in a few thousand great programmers a year.",
+      "translated": "这种情景现在看来可能不太可能，但如果未来50年的变化像过去50年那样剧烈，那就另当别论了。我们有潜力通过每年接纳几千名优秀的程序员来确保美国继续保持科技超级大国的地位。"
+    },
+    {
+      "original": "What a colossal mistake it would be to let that opportunity slip. It could easily be the defining mistake this generation of American politicians later become famous for. And unlike other potential mistakes on that scale, it costs nothing to fix.So please, get on with it.",
+      "translated": "让这样的机会溜走将是一个巨大的错误。这可能会成为这一代美国政客日后因之出名的标志性错误。而且，与其他同等规模的潜在错误不同，纠正这个错误无需任何成本。所以，请立即行动吧。"
+    },
+    {
+      "original": "Notes[1] How much better is a great programmer than an ordinary one? So much better that you can't even measure the difference directly. A great programmer doesn't merely do the same work faster. A great programmer will invent things an ordinary programmer would never even think of.",
+      "translated": "注释[1] 一个优秀的程序员比一个普通的程序员好多少？好到你甚至无法直接衡量这种差异。优秀的程序员不仅仅工作得更快。优秀的程序员会发明普通程序员根本想不到的东西。"
+    },
+    {
+      "original": "This doesn't mean a great programmer is infinitely more valuable, because any invention has a finite market value. But it's easy to imagine cases where a great programmer might invent things worth 100x or even 1000x an average programmer's salary.[2] There are a handful of consulting firms that rent out big pools of foreign programmers they bring in on H1-B visas.",
+      "translated": "这并不意味着一个优秀的程序员会无限地更有价值，因为任何发明都有其有限的市场价值。但很容易想象，一个优秀的程序员可能会发明出价值相当于普通程序员薪水100倍甚至1000倍的东西。有一些咨询公司会通过H1-B签证引进大量外国程序员，然后将他们出租出去。"
+    },
+    {
+      "original": "By all means crack down on these. It should be easy to write legislation that distinguishes them, because they are so different from technology companies. But it is dishonest of the anti-immigration people to claim that companies like Google and Facebook are driven by the same motives.",
+      "translated": "务必严厉打击这些行为。应该很容易制定出能够区分它们的法律，因为它们与科技公司截然不同。但反移民人士声称像谷歌和脸书这样的公司背后动机相同，这是不诚实的。"
+    },
+    {
+      "original": "An influx of inexpensive but mediocre programmers is the last thing they'd want; it would destroy them.[3] Though this essay talks about programmers, the group of people we need to import is broader, ranging from designers to programmers to electrical engineers.",
+      "translated": "大量廉价但平庸的程序员涌入是他们最不希望看到的事情；这会毁了他们。[3] 尽管这篇文章讨论的是程序员，但我们需要引进的人才范围更广，从设计师到程序员再到电气工程师。"
+    },
+    {
+      "original": "The best one could do as a general term might be \"digital talent.\" It seemed better to make the argument a little too narrow than to confuse everyone with a neologism. Thanks to Sam Altman, John Collison, Patrick Collison, Jessica Livingston, Geoff Ralston, Fred Wilson, and Qasar Younis for reading drafts of this.Spanish Translation",
+      "translated": "最合适的通用术语可能是“数字人才”。与其用一个新词让所有人困惑，不如让这个论点稍微狭窄一些。感谢Sam Altman、John Collison、Patrick Collison、Jessica Livingston、Geoff Ralston、Fred Wilson和Qasar Younis审阅本文的草稿。西班牙语翻译"
+    }
+  ],
+  "translation_completed": "2025-07-26T23:07:01.495073",
+  "translation_stats": {
+    "total_paragraphs": 18,
+    "success_count": 18,
+    "success_rate": "100.0%"
+  }
+}

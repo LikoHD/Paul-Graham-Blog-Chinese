@@ -1,0 +1,104 @@
+{
+  "title": "Five Founders",
+  "title_zh": "[待翻译] Five Founders",
+  "url": "https://www.paulgraham.com/5founders.html",
+  "filename": "5founders.html",
+  "date": "2009-04-01",
+  "id": 153,
+  "content": {
+    "success": true,
+    "paragraphs": [
+      "April 2009Inc recently asked me who I thought were the 5 most interesting startup founders of the last 30 years. How do you decide who's the most interesting? The best test seemed to be influence: who are the 5 who've influenced me most?",
+      "Who do I use as examples when I'm talking to companies we fund? Who do I find myself quoting?1. Steve JobsI'd guess Steve is the most influential founder not just for me but for most people you could ask.",
+      "A lot of startup culture is Apple culture. He was the original young founder. And while the concept of \"insanely great\" already existed in the arts, it was a novel idea to introduce into a company in the 1980s.More remarkable still, he's stayed interesting for 30 years.",
+      "People await new Apple products the way they'd await new books by a popular novelist. Steve may not literally design them, but they wouldn't happen if he weren't CEO.Steve is clever and driven, but so are a lot of people in the Valley.",
+      "What makes him unique is his sense of design. Before him, most companies treated design as a frivolous extra. Apple's competitors now know better.2. TJ RodgersTJ Rodgers isn't as famous as Steve Jobs, but he may be the best writer among Silicon Valley CEOs.",
+      "I've probably learned more from him about the startup way of thinking than from anyone else. Not so much from specific things he's written as by reconstructing the mind that produced them: brutally candid; aggressively garbage-collecting outdated ideas; and yet driven by pragmatism rather than ideology.The first essay of his that I read was so electrifying that I remember exactly where I was at the time.",
+      "It was High Technology Innovation: Free Markets or Government Subsidies? and I was downstairs in the Harvard Square T Station. It felt as if someone had flipped on a light switch inside my head.3. Larry & SergeyI'm sorry to treat Larry and Sergey as one person.",
+      "I've always thought that was unfair to them. But it does seem as if Google was a collaboration.Before Google, companies in Silicon Valley already knew it was important to have the best hackers. So they claimed, at least.",
+      "But Google pushed this idea further than anyone had before. Their hypothesis seems to have been that, in the initial stages at least, all you need is good hackers: if you hire all the smartest people and put them to work on a problem where their success can be measured, you win.",
+      "All the other stuff—which includes all the stuff that business schools think business consists of—you can figure out along the way. The results won't be perfect, but they'll be optimal. If this was their hypothesis, it's now been verified experimentally.4.",
+      "Paul BuchheitFew know this, but one person, Paul Buchheit, is responsible for three of the best things Google has done. He was the original author of GMail, which is the most impressive thing Google has after search.",
+      "He also wrote the first prototype of AdSense, and was the author of Google's mantra \"Don't be evil.\"PB made a point in a talk once that I now mention to every startup we fund: that it's better, initially, to make a small number of users really love you than a large number kind of like you.",
+      "If I could tell startups only ten sentences, this would be one of them.Now he's cofounder of a startup called Friendfeed. It's only a year old, but already everyone in the Valley is watching them. Someone responsible for three of the biggest ideas at Google is going to come up with more.5.",
+      "Sam AltmanI was told I shouldn't mention founders of YC-funded companies in this list. But Sam Altman can't be stopped by such flimsy rules. If he wants to be on this list, he's going to be.Honestly, Sam is, along with Steve Jobs, the founder I refer to most when I'm advising startups.",
+      "On questions of design, I ask \"What would Steve do?\" but on questions of strategy or ambition I ask \"What would Sama do?\"What I learned from meeting Sama is that the doctrine of the elect applies to startups.",
+      "It applies way less than most people think: startup investing does not consist of trying to pick winners the way you might in a horse race. But there are a few people with such force of will that they're going to get whatever they want."
+    ],
+    "word_count": 738,
+    "paragraph_count": 16
+  },
+  "processed_at": "2025-07-26T19:06:21.859252",
+  "paragraphs": [
+    {
+      "original": "April 2009Inc recently asked me who I thought were the 5 most interesting startup founders of the last 30 years. How do you decide who's the most interesting? The best test seemed to be influence: who are the 5 who've influenced me most?",
+      "translated": "《Inc》杂志最近问我，我认为过去30年中最有趣的5位创业公司创始人是谁。如何决定谁最有趣呢？最好的标准似乎是影响力：哪5位对我的影响最大？"
+    },
+    {
+      "original": "Who do I use as examples when I'm talking to companies we fund? Who do I find myself quoting?1. Steve JobsI'd guess Steve is the most influential founder not just for me but for most people you could ask.",
+      "translated": "当我与我们资助的公司交谈时，我会用谁作为例子？我发现自己引用了谁？1. 史蒂夫·乔布斯我猜史蒂夫不仅是对我，而且对大多数被问到的人来说，都是最具影响力的创始人。"
+    },
+    {
+      "original": "A lot of startup culture is Apple culture. He was the original young founder. And while the concept of \"insanely great\" already existed in the arts, it was a novel idea to introduce into a company in the 1980s.More remarkable still, he's stayed interesting for 30 years.",
+      "translated": "很多创业公司的文化都是苹果文化的体现。他是最初的年轻创始人之一。虽然“极其出色”的概念在艺术界早已存在，但在20世纪80年代将其引入公司却是一个新颖的想法。更令人称奇的是，他在30年间始终保持着魅力。"
+    },
+    {
+      "original": "People await new Apple products the way they'd await new books by a popular novelist. Steve may not literally design them, but they wouldn't happen if he weren't CEO.Steve is clever and driven, but so are a lot of people in the Valley.",
+      "translated": "人们期待新的苹果产品就像期待一位受欢迎的小说家的新书一样。史蒂夫可能并不是亲自设计这些产品，但如果他不是首席执行官，这些产品就不会出现。史蒂夫既聪明又勤奋，但硅谷里也有很多这样的人。"
+    },
+    {
+      "original": "What makes him unique is his sense of design. Before him, most companies treated design as a frivolous extra. Apple's competitors now know better.2. TJ RodgersTJ Rodgers isn't as famous as Steve Jobs, but he may be the best writer among Silicon Valley CEOs.",
+      "translated": "使他与众不同的是他的设计感。在他之前，大多数公司都将设计视为一种可有可无的附加品。现在，苹果的竞争对手们已经明白这一点。2. TJ 罗杰斯TJ 罗杰斯没有史蒂夫·乔布斯那么出名，但他可能是硅谷首席执行官中最好的作家。"
+    },
+    {
+      "original": "I've probably learned more from him about the startup way of thinking than from anyone else. Not so much from specific things he's written as by reconstructing the mind that produced them: brutally candid; aggressively garbage-collecting outdated ideas; and yet driven by pragmatism rather than ideology.The first essay of his that I read was so electrifying that I remember exactly where I was at the time.",
+      "translated": "我从他那里学到的关于创业思维的东西可能比从其他任何人都要多。与其说是从他写的具体内容中学到的，不如说是通过重建产生这些内容的思维：坦率得近乎残酷；积极地清除过时的想法；然而，这种思维是由实用主义而非意识形态驱动的。我读的第一篇他的文章是如此令人振奋，以至于我还清楚地记得当时我在哪里。"
+    },
+    {
+      "original": "It was High Technology Innovation: Free Markets or Government Subsidies? and I was downstairs in the Harvard Square T Station. It felt as if someone had flipped on a light switch inside my head.3. Larry & SergeyI'm sorry to treat Larry and Sergey as one person.",
+      "translated": "这是《高科技创新：自由市场还是政府补贴？》一文，而我正站在哈佛广场地铁站的楼下。感觉就像有人在我脑子里打开了一盏灯。3. 拉里和谢尔盖对于将拉里和谢尔盖当作一个人来处理，我感到很抱歉。"
+    },
+    {
+      "original": "I've always thought that was unfair to them. But it does seem as if Google was a collaboration.Before Google, companies in Silicon Valley already knew it was important to have the best hackers. So they claimed, at least.",
+      "translated": "我一直觉得这对他们不公平。但谷歌确实像是一个合作的成果。在谷歌之前，硅谷的公司就已经知道拥有最优秀的黑客很重要。至少他们是这么说的。"
+    },
+    {
+      "original": "But Google pushed this idea further than anyone had before. Their hypothesis seems to have been that, in the initial stages at least, all you need is good hackers: if you hire all the smartest people and put them to work on a problem where their success can be measured, you win.",
+      "translated": "但谷歌将这一理念推进到了前所未有的程度。他们的假设似乎是，在初始阶段至少，你所需要的只是优秀的黑客：如果你能聘请到所有最聪明的人，并让他们致力于一个可以衡量其成功的项目，你就能胜出。"
+    },
+    {
+      "original": "All the other stuff—which includes all the stuff that business schools think business consists of—you can figure out along the way. The results won't be perfect, but they'll be optimal. If this was their hypothesis, it's now been verified experimentally.4.",
+      "translated": "所有其他的东西——包括商学院认为商业所包含的所有内容——你都可以在过程中逐渐掌握。结果可能不会完美，但会是最优的。如果这是他们的假设，那么现在它已经通过实验得到了验证。"
+    },
+    {
+      "original": "Paul BuchheitFew know this, but one person, Paul Buchheit, is responsible for three of the best things Google has done. He was the original author of GMail, which is the most impressive thing Google has after search.",
+      "translated": "很少有人知道，有一个人，保罗·布赫海特（Paul Buchheit），对谷歌所做的三件最好的事情负有责任。他是GMail的原始作者，而GMail是谷歌在搜索之后最令人印象深刻的产品。"
+    },
+    {
+      "original": "He also wrote the first prototype of AdSense, and was the author of Google's mantra \"Don't be evil.\"PB made a point in a talk once that I now mention to every startup we fund: that it's better, initially, to make a small number of users really love you than a large number kind of like you.",
+      "translated": "他还编写了AdSense的第一个原型，并撰写了Google的座右铭“不作恶”。PB在一次演讲中强调了一点，我现在会向我们资助的每家初创公司提及：最初，让少量用户真正喜欢你，比让大量用户勉强喜欢你更好。"
+    },
+    {
+      "original": "If I could tell startups only ten sentences, this would be one of them.Now he's cofounder of a startup called Friendfeed. It's only a year old, but already everyone in the Valley is watching them. Someone responsible for three of the biggest ideas at Google is going to come up with more.5.",
+      "translated": "如果我只能给初创企业十句话建议，这句一定会在其中。现在他是名为Friendfeed的初创企业的联合创始人。尽管公司成立仅一年，但整个硅谷都在关注他们。一位曾负责谷歌三大创意的人，必将会有更多创新。5."
+    },
+    {
+      "original": "Sam AltmanI was told I shouldn't mention founders of YC-funded companies in this list. But Sam Altman can't be stopped by such flimsy rules. If he wants to be on this list, he's going to be.Honestly, Sam is, along with Steve Jobs, the founder I refer to most when I'm advising startups.",
+      "translated": "我被告知在这个名单中不应该提到Y Combinator资助的公司的创始人。但萨姆·奥尔特曼不会被这种微不足道的规则所阻挡。如果他想上这个名单，他就会在上面。说实话，萨姆和史蒂夫·乔布斯一样，是我为初创公司提供咨询时最常提到的创始人。"
+    },
+    {
+      "original": "On questions of design, I ask \"What would Steve do?\" but on questions of strategy or ambition I ask \"What would Sama do?\"What I learned from meeting Sama is that the doctrine of the elect applies to startups.",
+      "translated": "在设计问题上，我会问“Steve会怎么做？”但在战略或雄心的问题上，我会问“Sama会怎么做？”从与Sama的会面中，我学到的是，精英的教义同样适用于初创公司。"
+    },
+    {
+      "original": "It applies way less than most people think: startup investing does not consist of trying to pick winners the way you might in a horse race. But there are a few people with such force of will that they're going to get whatever they want.",
+      "translated": "它远没有大多数人想象的那么普遍：创业投资并不像赛马那样试图挑选赢家。但确实有少数人意志如此坚定，他们总能如愿以偿。"
+    }
+  ],
+  "translation_completed": "2025-07-26T23:03:36.930724",
+  "translation_stats": {
+    "total_paragraphs": 16,
+    "success_count": 16,
+    "success_rate": "100.0%"
+  }
+}

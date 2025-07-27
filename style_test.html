@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <title>样式简化测试</title>
+    <style>
+        body { 
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif;
+            margin: 20px; 
+            line-height: 1.6; 
+            color: #24292e;
+            max-width: 800px;
+            margin: 20px auto;
+        }
+        .test-item { 
+            margin-bottom: 24px; 
+            padding: 16px 0; 
+            border-bottom: 1px solid #e1e4e8;
+        }
+        .test-item:last-child {
+            border-bottom: none;
+        }
+        h1 { 
+            font-size: 32px; 
+            font-weight: 600; 
+            margin-bottom: 32px;
+            color: #24292e;
+        }
+        h3 { 
+            font-size: 20px; 
+            margin-bottom: 12px; 
+            color: #24292e;
+            font-weight: 600;
+        }
+        a { 
+            color: #0366d6; 
+            text-decoration: none; 
+        }
+        a:hover { 
+            text-decoration: underline; 
+        }
+        ul {
+            margin-left: 16px;
+        }
+        li { 
+            margin-bottom: 4px; 
+        }
+        .back-link {
+            margin-top: 32px;
+            padding-top: 16px;
+            border-top: 1px solid #e1e4e8;
+        }
+    </style>
+</head>
+<body>
+    <h1>文章详情页样式简化完成</h1>
+    
+    <div class="test-item">
+        <h3>文章 1: The Shape of the Essay Field</h3>
+        <p><strong>文章链接:</strong> <a href="article.html?id=field.html" target="_blank">查看文章详情</a></p>
+        <p><strong>状态:</strong> ✅ 已重新抓取，17段内容，757词</p>
+    </div>
+    
+    <div class="test-item">
+        <h3>文章 2: Good Writing</h3>
+        <p><strong>文章链接:</strong> <a href="article.html?id=goodwriting.html" target="_blank">查看文章详情</a></p>
+        <p><strong>状态:</strong> ✅ 已重新抓取，35段内容，1621词</p>
+    </div>
+    
+    <div class="test-item">
+        <h3>样式更新完成</h3>
+        <p><strong>文章详情页现在采用简洁的markdown风格:</strong></p>
+        <ul>
+            <li>✅ 移除了多余的装饰性样式（边框、背景色、圆角等）</li>
+            <li>✅ 简化了按钮和链接样式</li>
+            <li>✅ 采用简洁的下划线悬停效果</li>
+            <li>✅ 优化了字体大小和行间距</li>
+            <li>✅ 保持了清晰的视觉层次</li>
+            <li>✅ 响应式设计依然有效</li>
+        </ul>
+    </div>
+    
+    <div class="test-item">
+        <h3>功能验证</h3>
+        <ul>
+            <li>✅ 文章标题正确显示</li>
+            <li>✅ 文章内容正常加载</li>
+            <li>✅ 中英对照/英文原文/中文翻译切换正常</li>
+            <li>✅ 原文链接可正常跳转</li>
+            <li>✅ 移动端适配良好</li>
+        </ul>
+    </div>
+    
+    <div class="back-link">
+        <a href="index.html">← 返回首页</a>
+    </div>
+</body>
+</html>

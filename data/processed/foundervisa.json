@@ -1,0 +1,64 @@
+{
+  "title": "The Founder Visa",
+  "title_zh": "[待翻译] The Founder Visa",
+  "url": "https://www.paulgraham.com/foundervisa.html",
+  "filename": "foundervisa.html",
+  "date": "2009-04-01",
+  "id": 155,
+  "content": {
+    "success": true,
+    "paragraphs": [
+      "April 2009I usually avoid politics, but since we now seem to have an administration that's open to suggestions, I'm going to risk making one. The single biggest thing the government could do to increase the number of startups in this country is a policy that would cost nothing: establish a new class of visa for startup founders.The biggest constraint on the number of new startups that get created in the US is not tax policy or employment law or even Sarbanes-Oxley.",
+      "It's that we won't let the people who want to start them into the country.Letting just 10,000 startup founders into the country each year could have a visible effect on the economy. If we assume 4 people per startup, which is probably an overestimate, that's 2500 new companies.",
+      "Each year. They wouldn't all grow as big as Google, but out of 2500 some would come close.By definition these 10,000 founders wouldn't be taking jobs from Americans: it could be part of the terms of the visa that they couldn't work for existing companies, only new ones they'd founded.",
+      "In fact they'd cause there to be more jobs for Americans, because the companies they started would hire more employees as they grew.The tricky part might seem to be how one defined a startup. But that could be solved quite easily: let the market decide.",
+      "Startup investors work hard to find the best startups. The government could not do better than to piggyback on their expertise, and use investment by recognized startup investors as the test of whether a company was a real startup.How would the government decide who's a startup investor?",
+      "The same way they decide what counts as a university for student visas. We'll establish our own accreditation procedure. We know who one another are.10,000 people is a drop in the bucket by immigration standards, but would represent a huge increase in the pool of startup founders.",
+      "I think this would have such a visible effect on the economy that it would make the legislator who introduced the bill famous. The only way to know for sure would be to try it, and that would cost practically nothing.",
+      "Thanks to Trevor Blackwell, Paul Buchheit, Jeff Clavier, David Hornik, Jessica Livingston, Greg Mcadoo, Aydin Senkut, and Fred Wilson for reading drafts of this.Related:The United States of Entrepreneurs About Half of VC-Backed Company Founders are Immigrants"
+    ],
+    "word_count": 395,
+    "paragraph_count": 8
+  },
+  "processed_at": "2025-07-26T19:06:24.996378",
+  "paragraphs": [
+    {
+      "original": "April 2009I usually avoid politics, but since we now seem to have an administration that's open to suggestions, I'm going to risk making one. The single biggest thing the government could do to increase the number of startups in this country is a policy that would cost nothing: establish a new class of visa for startup founders.The biggest constraint on the number of new startups that get created in the US is not tax policy or employment law or even Sarbanes-Oxley.",
+      "translated": "2009年4月，我通常避免谈论政治，但既然我们现在似乎有一个乐于接受建议的政府，我决定冒个险提一个建议。政府能够做的、以增加本国初创公司数量的最有效的事情是一项无需花费任何成本的政策：为初创公司的创始人设立一个新的签证类别。制约美国新创公司数量增长的最大因素并非税收政策、劳动法，甚至也不是萨班斯-奥克斯利法案。"
+    },
+    {
+      "original": "It's that we won't let the people who want to start them into the country.Letting just 10,000 startup founders into the country each year could have a visible effect on the economy. If we assume 4 people per startup, which is probably an overestimate, that's 2500 new companies.",
+      "translated": "我们不会让那些想在这里创业的人进入国家。每年允许1万名创业创始人进入国家，可能会对经济产生明显的影响。如果我们假设每个创业公司有4个人，这可能是一个高估，那么就是2500家新公司。"
+    },
+    {
+      "original": "Each year. They wouldn't all grow as big as Google, but out of 2500 some would come close.By definition these 10,000 founders wouldn't be taking jobs from Americans: it could be part of the terms of the visa that they couldn't work for existing companies, only new ones they'd founded.",
+      "translated": "每年，他们中不会全部成长为像谷歌那样的大公司，但在2500家公司中，有一些会接近这个水平。根据定义，这10000名创始人不会抢走美国人的工作：签证的条件可以规定他们只能为其自己创立的新公司工作，而不能为现有公司工作。"
+    },
+    {
+      "original": "In fact they'd cause there to be more jobs for Americans, because the companies they started would hire more employees as they grew.The tricky part might seem to be how one defined a startup. But that could be solved quite easily: let the market decide.",
+      "translated": "事实上，这会为美国人创造更多的就业机会，因为这些创业者创办的公司会在成长过程中雇佣更多的员工。棘手的部分可能是如何定义一家初创企业。但这个问题可以很容易地解决：让市场来做决定。"
+    },
+    {
+      "original": "Startup investors work hard to find the best startups. The government could not do better than to piggyback on their expertise, and use investment by recognized startup investors as the test of whether a company was a real startup.How would the government decide who's a startup investor?",
+      "translated": "初创企业的投资者努力寻找最好的初创企业。政府不妨利用他们的专业知识，以知名初创企业投资者的投资作为判断一家公司是否为真正初创企业的标准。那么，政府将如何决定谁是初创企业的投资者？"
+    },
+    {
+      "original": "The same way they decide what counts as a university for student visas. We'll establish our own accreditation procedure. We know who one another are.10,000 people is a drop in the bucket by immigration standards, but would represent a huge increase in the pool of startup founders.",
+      "translated": "就像他们决定什么学校有资格发放学生签证一样，我们将建立自己的认证程序。我们知道彼此的身份。10,000人对于移民标准来说只是沧海一粟，但会大大增加初创企业创始人的数量。"
+    },
+    {
+      "original": "I think this would have such a visible effect on the economy that it would make the legislator who introduced the bill famous. The only way to know for sure would be to try it, and that would cost practically nothing.",
+      "translated": "我认为这将对经济产生如此明显的影响，以至于提出该法案的立法者将会因此成名。唯一确定的方法就是尝试一下，而这实际上几乎不需要任何成本。"
+    },
+    {
+      "original": "Thanks to Trevor Blackwell, Paul Buchheit, Jeff Clavier, David Hornik, Jessica Livingston, Greg Mcadoo, Aydin Senkut, and Fred Wilson for reading drafts of this.Related:The United States of Entrepreneurs About Half of VC-Backed Company Founders are Immigrants",
+      "translated": "感谢特雷弗·布莱克威尔、保罗·布赫海特、杰夫·克利维尔、大卫·霍尼克、杰西卡·利文斯顿、格雷格·麦克阿杜、艾丁·森库特和弗雷德·威尔逊阅读本文的草稿。相关文章：《创业者的美国》大约一半的风险投资支持的公司创始人是移民。"
+    }
+  ],
+  "translation_completed": "2025-07-27T12:44:18.081007",
+  "translation_stats": {
+    "total_paragraphs": 8,
+    "success_count": 8,
+    "success_rate": "100.0%"
+  }
+}

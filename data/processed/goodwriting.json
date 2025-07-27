@@ -1,0 +1,199 @@
+{
+  "title": "Good Writing",
+  "title_zh": "好的写作",
+  "url": "https://www.paulgraham.com/goodwriting.html",
+  "filename": "goodwriting.html",
+  "date": "2025-05-01",
+  "id": 2,
+  "content": {
+    "success": true,
+    "paragraphs": [
+      "May 2025There are two senses in which writing can be good: it can sound good, and the ideas can be right. It can have nice, flowing sentences, and it can draw correct conclusions about important things.",
+      "It might seem as if these two kinds of good would be unrelated, like the speed of a car and the color it's painted. And yet I don't think they are. I think writing that sounds good is more likely to be right.So here we have the most exciting kind of idea: one that seems both preposterous and true.",
+      "Let's examine it. How can this possibly be true?I know it's true from writing. You can't simultaneously optimize two unrelated things; when you push one far enough, you always end up sacrificing the other.",
+      "And yet no matter how hard I push, I never find myself having to choose between the sentence that sounds best and the one that expresses an idea best. If I did, it would be frivolous to care how sentences sound.",
+      "But in practice it feels the opposite of frivolous. Fixing sentences that sound bad seems to help get the ideas right. [1]By right I mean more than just true. Getting the ideas right means developing them well — drawing the conclusions that matter most, and exploring each one to the right level of detail.",
+      "So getting the ideas right is not just a matter of saying true things, but saying the right true things.How could trying to make sentences sound good help you do that? The clue to the answer is something I noticed 30 years ago when I was doing the layout for my first book.",
+      "Sometimes when you're laying out text you have bad luck. For example, you get a section that runs one line longer than the page. I don't know what ordinary typesetters do in this situation, but what I did was rewrite the section to make it a line shorter.",
+      "You'd expect such an arbitrary constraint to make the writing worse. But I found, to my surprise, that it never did. I always ended up with something I liked better.I don't think this was because my writing was especially careless.",
+      "I think if you pointed to a random paragraph in anything written by anyone and told them to make it slightly shorter (or longer), they'd probably be able to come up with something better.The best analogy for this phenomenon is when you shake a bin full of different objects.",
+      "The shakes are arbitrary motions. Or more precisely, they're not calculated to make any two specific objects fit more closely together. And yet repeated shaking inevitably makes the objects discover brilliantly clever ways of packing themselves.",
+      "Gravity won't let them become less tightly packed, so any change has to be a change for the better. [2]So it is with writing. If you have to rewrite an awkward passage, you'll never do it in a way that makes it less true.",
+      "You couldn't bear it, any more than gravity could bear things floating upward. So any change in the ideas has to be a change for the better.It's obvious once you think about it. Writing that sounds good is more likely to be right for the same reason that a well-shaken bin is more likely to be tightly packed.",
+      "But there's something else going on as well. Sounding good isn't just a random external force that leaves the ideas in an essay better off. It actually helps you to get them right.The reason is that it makes the essay easier to read.",
+      "It's less work to read writing that flows well. How does that help the writer? Because the writer is the first reader. When I'm working on an essay, I spend far more time reading than writing. I'll reread some parts 50 or 100 times, replaying the thoughts in them and asking myself, like someone sanding a piece of wood, does anything catch?",
+      "Does anything feel wrong? And the easier the essay is to read, the easier it is to notice if something catches.So yes, the two senses of good writing are connected in at least two ways. Trying to make writing sound good makes you fix mistakes unconsciously, and also helps you fix them consciously; it shakes the bin of ideas, and also makes mistakes easier to see.",
+      "But now that we've dissolved one layer of preposterousness, I can't resist adding another. Does sounding good do more than just help you get the ideas right? Is writing that sounds good inherently more likely to be right?",
+      "Crazy as it may seem, I think that's true too.Obviously there's a connection at the level of individual words. There are lots of words in English that sound like what they mean, often in wonderfully subtle ways.",
+      "Glitter. Round. Scrape. Prim. Cavalcade. But the sound of good writing depends even more on the way you put words together, and there's a connection at that level too.When writing sounds good, it's mostly because it has good rhythm.",
+      "But the rhythm of good writing is not the rhythm of music, or the meter of verse. It's not so regular. If it were, it wouldn't be good, because the rhythm of good writing has to match the ideas in it, and ideas have all kinds of different shapes.",
+      "Sometimes they're simple and you just state them. But other times they're more subtle, and you need longer, more complicated sentences to tease out all the implications.An essay is a cleaned up train of thought, in the same way dialogue is cleaned up conversation, and a train of thought has a natural rhythm.",
+      "So when an essay sounds good, it's not merely because it has a pleasing rhythm, but because it has its natural one. Which means you can use getting the rhythm right as a heuristic for getting the ideas right.",
+      "And not just in principle: good writers do both simultaneously as a matter of course. Often I don't even distinguish between the two problems. I just think Ugh, this doesn't sound right; what do I mean to say here?",
+      "[3]The sound of writing turns out to be more like the shape of a plane than the color of a car. If it looks good, as Kelly Johnson used to say, it will fly well.This is only true of writing that's used to develop ideas, though.",
+      "It doesn't apply when you have ideas in some other way and then write about them afterward — for example, if you build something, or conduct an experiment, and then write a paper about it. In such cases the ideas often live more in the work than the writing, so the writing can be bad even though the ideas are good.",
+      "The writing in textbooks and popular surveys can be bad for the same reason: the author isn't developing the ideas, merely describing other people's. It's only when you're writing to develop ideas that there's such a close connection between the two senses of doing it well.Ok, many people will be thinking, this seems plausible so far, but what about liars?",
+      "Is it not notoriously possible for a smooth-tongued liar to write something beautiful that's completely false?It is, of course. But not without method acting. The way to write something beautiful and false is to begin by making yourself almost believe it.",
+      "So just like someone writing something beautiful and true, you're presenting a perfectly-formed train of thought. The difference is the point where it attaches to the world. You're saying something that would be true if certain false premises were.",
+      "If for some bizarre reason the number of jobs in a country were fixed, then immigrants really would be taking our jobs.So it's not quite right to say that better sounding writing is more likely to be true.",
+      "Better sounding writing is more likely to be internally consistent. If the writer is honest, internal consistency and truth converge.But while we can't safely conclude that beautiful writing is true, it's usually safe to conclude the converse: something that seems clumsily written will usually have gotten the ideas wrong too.Indeed, the two senses of good writing are more like two ends of the same thing.",
+      "The connection between them is not a rigid one; the goodness of good writing is not a rod but a rope, with multiple overlapping connections running through it. But it's hard to move one end without moving the other.",
+      "It's hard to be right without sounding right. Notes[1] The closest thing to an exception is when you have to go back and insert a new point into the middle of something you've written. This often messes up the flow, sometimes in ways you can never quite repair.",
+      "But I think the ultimate source of this problem is that ideas are tree-shaped and essays are linear. You inevitably run into difficulties when you try to cram the former into the latter. Frankly it's surprising how much you can get away with.",
+      "But even so you sometimes have to resort to an endnote.[2] Obviously if you shake the bin hard enough the objects in it can become less tightly packed. And similarly, if you imposed some huge external constraint on your writing, like using alternating one and two syllable words, the ideas would start to suffer.[3] Bizarrely enough, this happened in the writing of this very paragraph.",
+      "An earlier version shared several phrases in common with the preceding paragraph, and the repetition bugged me each time I reread it. When I got annoyed enough to fix it, I discovered that the repetition reflected a problem in the underlying ideas, and I fixed both simultaneously.",
+      "Thanks to Jessica Livingston and Courtenay Pipkin for reading drafts of this."
+    ],
+    "word_count": 1621,
+    "paragraph_count": 35
+  },
+  "processed_at": "2025-07-26T19:26:40.304611",
+  "paragraphs": [
+    {
+      "original": "May 2025There are two senses in which writing can be good: it can sound good, and the ideas can be right. It can have nice, flowing sentences, and it can draw correct conclusions about important things.",
+      "translated": "2025年5月 写作可以从两个方面来评价：一是听起来好，二是观点正确。它可以有流畅优美的句子，也可以对重要事物得出正确的结论。"
+    },
+    {
+      "original": "It might seem as if these two kinds of good would be unrelated, like the speed of a car and the color it's painted. And yet I don't think they are. I think writing that sounds good is more likely to be right.So here we have the most exciting kind of idea: one that seems both preposterous and true.",
+      "translated": "这两类好东西看似无关，就像汽车的速度和它的颜色一样。然而，我认为它们并非无关。我认为，听起来好的写作更有可能是正确的。因此，我们这里有一个最令人兴奋的想法：一个看似荒谬却又真实的想法。"
+    },
+    {
+      "original": "Let's examine it. How can this possibly be true?I know it's true from writing. You can't simultaneously optimize two unrelated things; when you push one far enough, you always end up sacrificing the other.",
+      "translated": "让我们来分析一下。这怎么可能是真的？我知道这是从写作中得出的真相。你不能同时优化两个不相关的事物；当你把一个推到极致时，最终总是会牺牲另一个。"
+    },
+    {
+      "original": "And yet no matter how hard I push, I never find myself having to choose between the sentence that sounds best and the one that expresses an idea best. If I did, it would be frivolous to care how sentences sound.",
+      "translated": "然而，无论我多么努力地推敲，我从未发现自己必须在听起来最好的句子和表达思想最好的句子之间做出选择。如果真的有这种情况，那么关心句子听起来如何就是一种轻率的行为。"
+    },
+    {
+      "original": "But in practice it feels the opposite of frivolous. Fixing sentences that sound bad seems to help get the ideas right. [1]By right I mean more than just true. Getting the ideas right means developing them well — drawing the conclusions that matter most, and exploring each one to the right level of detail.",
+      "translated": "但在实际操作中，这感觉与轻率相反。修正那些听起来不好的句子似乎有助于正确表达思想。[1]我所说的“正确”不仅仅是指真实。正确表达思想意味着充分发展这些思想——得出最重要的结论，并对每个结论进行适当深入的探讨。"
+    },
+    {
+      "original": "So getting the ideas right is not just a matter of saying true things, but saying the right true things.How could trying to make sentences sound good help you do that? The clue to the answer is something I noticed 30 years ago when I was doing the layout for my first book.",
+      "translated": "因此，正确的想法不仅仅是说出真实的事情，而是说出正确的真实事情。那么，努力使句子听起来更好如何帮助你做到这一点呢？答案的线索在于我30年前在为我的第一本书做排版时注意到的一件事。"
+    },
+    {
+      "original": "Sometimes when you're laying out text you have bad luck. For example, you get a section that runs one line longer than the page. I don't know what ordinary typesetters do in this situation, but what I did was rewrite the section to make it a line shorter.",
+      "translated": "有时候，在排版文本时你会遇到不走运的情况。例如，有一段文字比页面多出一行。我不知道普通排版工人在这种情况下会怎么做，但我所做的就是重写这一段，使其缩短一行。"
+    },
+    {
+      "original": "You'd expect such an arbitrary constraint to make the writing worse. But I found, to my surprise, that it never did. I always ended up with something I liked better.I don't think this was because my writing was especially careless.",
+      "translated": "你可能会认为这种随意的限制会让写作变得更糟。但令我惊讶的是，事实并非如此。我总是能得到一个更好的结果。我认为这并不是因为我写作时特别粗心。"
+    },
+    {
+      "original": "I think if you pointed to a random paragraph in anything written by anyone and told them to make it slightly shorter (or longer), they'd probably be able to come up with something better.The best analogy for this phenomenon is when you shake a bin full of different objects.",
+      "translated": "我认为，如果你随意指出任何人写的任何一段文字，并让他们将其稍微缩短（或加长），他们很可能能够写出更好的版本。这种现象最好的类比就是当你摇晃一个装满不同物体的箱子。"
+    },
+    {
+      "original": "The shakes are arbitrary motions. Or more precisely, they're not calculated to make any two specific objects fit more closely together. And yet repeated shaking inevitably makes the objects discover brilliantly clever ways of packing themselves.",
+      "translated": "震动是任意的运动。或者更准确地说，它们并不是为了使任何两个特定的物体更紧密地结合而计算出来的。然而，反复的震动最终会使物体以极其巧妙的方式排列自己。"
+    },
+    {
+      "original": "Gravity won't let them become less tightly packed, so any change has to be a change for the better. [2]So it is with writing. If you have to rewrite an awkward passage, you'll never do it in a way that makes it less true.",
+      "translated": "重力不会让它们变得更加松散，所以任何变化都必须是向好的变化。[2]写作也是如此。如果你需要重写一段笨拙的段落，你绝不会以一种使其变得更不真实的方式去改写。"
+    },
+    {
+      "original": "You couldn't bear it, any more than gravity could bear things floating upward. So any change in the ideas has to be a change for the better.It's obvious once you think about it. Writing that sounds good is more likely to be right for the same reason that a well-shaken bin is more likely to be tightly packed.",
+      "translated": "你无法忍受它，就像重力无法容忍物体向上飘浮一样。因此，任何思想上的变化都必须是向好的变化。这是一旦思考就会很明显的事情。写得好的文章更有可能是正确的，就像摇晃得很好的箱子更有可能被紧密地填满一样。"
+    },
+    {
+      "original": "But there's something else going on as well. Sounding good isn't just a random external force that leaves the ideas in an essay better off. It actually helps you to get them right.The reason is that it makes the essay easier to read.",
+      "translated": "但还有其他的事情在发生。听起来好不仅仅是一种随机的外部力量，让文章中的观点更加出色。它实际上有助于你把观点表达得更准确。原因是它使文章更容易阅读。"
+    },
+    {
+      "original": "It's less work to read writing that flows well. How does that help the writer? Because the writer is the first reader. When I'm working on an essay, I spend far more time reading than writing. I'll reread some parts 50 or 100 times, replaying the thoughts in them and asking myself, like someone sanding a piece of wood, does anything catch?",
+      "translated": "阅读流畅的文字会减少工作量。这对作者有什么帮助呢？因为作者是第一个读者。当我在撰写一篇文章时，花在阅读上的时间远多于写作。我会反复阅读某些部分50或100次，重温其中的思想，并像打磨木头的人一样问自己，是否有任何地方不顺畅？"
+    },
+    {
+      "original": "Does anything feel wrong? And the easier the essay is to read, the easier it is to notice if something catches.So yes, the two senses of good writing are connected in at least two ways. Trying to make writing sound good makes you fix mistakes unconsciously, and also helps you fix them consciously; it shakes the bin of ideas, and also makes mistakes easier to see.",
+      "translated": "有什么地方感觉不对吗？而且，文章越容易阅读，就越容易注意到任何突兀之处。所以，好的写作的两个方面至少在两个层面上是相互关联的。努力使文章听起来很好，会让你无意识地修正错误，同时也帮助你有意识地修正它们；它摇晃了思想的容器，同时也使错误更容易被发现。"
+    },
+    {
+      "original": "But now that we've dissolved one layer of preposterousness, I can't resist adding another. Does sounding good do more than just help you get the ideas right? Is writing that sounds good inherently more likely to be right?",
+      "translated": "但我们现在揭开了这一层荒谬之后，我忍不住再加一层。听起来好听是否不仅仅有助于你正确地表达想法？听起来好听的写作是否本质上更有可能是正确的？"
+    },
+    {
+      "original": "Crazy as it may seem, I think that's true too.Obviously there's a connection at the level of individual words. There are lots of words in English that sound like what they mean, often in wonderfully subtle ways.",
+      "translated": "尽管听起来可能很疯狂，但我认为这也是事实。显然，在单个词汇的层面上存在联系。英语中有许多单词听起来就像它们的意思，而且往往以非常微妙的方式。"
+    },
+    {
+      "original": "Glitter. Round. Scrape. Prim. Cavalcade. But the sound of good writing depends even more on the way you put words together, and there's a connection at that level too.When writing sounds good, it's mostly because it has good rhythm.",
+      "translated": "闪光。圆形。刮擦。拘谨。行列。但好的写作声音更多地取决于你如何组合词语，而在这一层面上也有联系。当写作听起来很好时，主要是因为它有良好的节奏。"
+    },
+    {
+      "original": "But the rhythm of good writing is not the rhythm of music, or the meter of verse. It's not so regular. If it were, it wouldn't be good, because the rhythm of good writing has to match the ideas in it, and ideas have all kinds of different shapes.",
+      "translated": "但是，好文章的节奏既不是音乐的节奏，也不是诗歌的格律。它并不那么规则。如果规则了，就不会是好的，因为好文章的节奏必须与其中的思想相匹配，而思想有着各种不同的形态。"
+    },
+    {
+      "original": "Sometimes they're simple and you just state them. But other times they're more subtle, and you need longer, more complicated sentences to tease out all the implications.An essay is a cleaned up train of thought, in the same way dialogue is cleaned up conversation, and a train of thought has a natural rhythm.",
+      "translated": "有时候它们很简单，你只需直接陈述。但有时候它们更为微妙，你需要用更长、更复杂的句子来揭示所有的含义。文章是一种整理过的思想脉络，就像对话是整理过的交谈一样，而思想脉络有其自然的节奏。"
+    },
+    {
+      "original": "So when an essay sounds good, it's not merely because it has a pleasing rhythm, but because it has its natural one. Which means you can use getting the rhythm right as a heuristic for getting the ideas right.",
+      "translated": "所以，当一篇文章听起来很好时，不仅仅是因为它有令人愉悦的节奏，而是因为它有自然的节奏。这意味着你可以将节奏正确作为思想正确的启发式方法。"
+    },
+    {
+      "original": "And not just in principle: good writers do both simultaneously as a matter of course. Often I don't even distinguish between the two problems. I just think Ugh, this doesn't sound right; what do I mean to say here?",
+      "translated": "不仅在原则上如此：好的作家通常会同时做到这两点。很多时候，我甚至不会将这两个问题区分开来。我只是觉得，哎呀，这听起来不对；我到底想说什么？"
+    },
+    {
+      "original": "[3]The sound of writing turns out to be more like the shape of a plane than the color of a car. If it looks good, as Kelly Johnson used to say, it will fly well.This is only true of writing that's used to develop ideas, though.",
+      "translated": "写作的声音更像飞机的形状而非汽车的颜色。如果看起来好，正如凯利·约翰逊过去常说的，它就会飞得好。不过，这只有在用于发展思想的写作中才是正确的。"
+    },
+    {
+      "original": "It doesn't apply when you have ideas in some other way and then write about them afterward — for example, if you build something, or conduct an experiment, and then write a paper about it. In such cases the ideas often live more in the work than the writing, so the writing can be bad even though the ideas are good.",
+      "translated": "这不适用于你以其他方式产生想法，然后事后写下来的情况——例如，如果你建造了某个东西，或者进行了实验，然后写了一篇论文。在这种情况下，想法往往更多地体现在工作中，而不是写作中，所以即使想法很好，写作也可能很差。"
+    },
+    {
+      "original": "The writing in textbooks and popular surveys can be bad for the same reason: the author isn't developing the ideas, merely describing other people's. It's only when you're writing to develop ideas that there's such a close connection between the two senses of doing it well.Ok, many people will be thinking, this seems plausible so far, but what about liars?",
+      "translated": "教科书和通俗综述中的写作可能糟糕的原因是相同的：作者并没有在发展自己的观点，而只是在描述他人的观点。只有当你写作是为了发展观点时，写得好与做得好之间才会有如此紧密的联系。好吧，许多人可能会想，这听起来有道理，但撒谎者怎么办？"
+    },
+    {
+      "original": "Is it not notoriously possible for a smooth-tongued liar to write something beautiful that's completely false?It is, of course. But not without method acting. The way to write something beautiful and false is to begin by making yourself almost believe it.",
+      "translated": "难道不是众所周知，一个巧舌如簧的骗子能够写出完全虚假但美丽的东西吗？当然可以。但没有方法演技是不行的。写出美丽而虚假的东西的方法是，首先让自己几乎相信它是真的。"
+    },
+    {
+      "original": "So just like someone writing something beautiful and true, you're presenting a perfectly-formed train of thought. The difference is the point where it attaches to the world. You're saying something that would be true if certain false premises were.",
+      "translated": "所以，就像某人写出美丽而真实的东西一样，你呈现的是一条完美成型的思路。不同之处在于它与世界的连接点。你在说一些如果某些错误的前提成立的话就会是真的事情。"
+    },
+    {
+      "original": "If for some bizarre reason the number of jobs in a country were fixed, then immigrants really would be taking our jobs.So it's not quite right to say that better sounding writing is more likely to be true.",
+      "translated": "如果因为某些奇怪的原因，一个国家的就业岗位数量是固定的，那么移民确实会抢走我们的工作。所以说，文笔更好的写作更有可能是真实的，这种说法并不完全正确。"
+    },
+    {
+      "original": "Better sounding writing is more likely to be internally consistent. If the writer is honest, internal consistency and truth converge.But while we can't safely conclude that beautiful writing is true, it's usually safe to conclude the converse: something that seems clumsily written will usually have gotten the ideas wrong too.Indeed, the two senses of good writing are more like two ends of the same thing.",
+      "translated": "更好的文笔更有可能在内部保持一致。如果作者是诚实的，那么内部一致性和真相就会趋于一致。然而，我们不能安全地断定优美的文笔就是真实的，但通常可以安全地断定反面：看起来笨拙的写作通常也会把观点弄错。事实上，好的写作的两个方面更像是同一事物的两端。"
+    },
+    {
+      "original": "The connection between them is not a rigid one; the goodness of good writing is not a rod but a rope, with multiple overlapping connections running through it. But it's hard to move one end without moving the other.",
+      "translated": "它们之间的联系并非刚性；优秀写作的美好之处并非一根刚性的杆，而是一条绳索，其间有多重交织的联系贯穿其中。但要移动一端而不带动另一端却很难。"
+    },
+    {
+      "original": "It's hard to be right without sounding right. Notes[1] The closest thing to an exception is when you have to go back and insert a new point into the middle of something you've written. This often messes up the flow, sometimes in ways you can never quite repair.",
+      "translated": "要在不显得正确的情况下保持正确很难。注[1] 最接近的例外情况是，当不得不回到你写过的内容中间插入一个新的观点时。这通常会破坏文章的流畅性，有时甚至无法完全修复。"
+    },
+    {
+      "original": "But I think the ultimate source of this problem is that ideas are tree-shaped and essays are linear. You inevitably run into difficulties when you try to cram the former into the latter. Frankly it's surprising how much you can get away with.",
+      "translated": "但我觉得这个问题的根源在于，思想是树状的，而文章是线性的。当你试图将前者塞进后者时，不可避免地会遇到困难。坦白说，你能侥幸成功的地方还真不少。"
+    },
+    {
+      "original": "But even so you sometimes have to resort to an endnote.[2] Obviously if you shake the bin hard enough the objects in it can become less tightly packed. And similarly, if you imposed some huge external constraint on your writing, like using alternating one and two syllable words, the ideas would start to suffer.[3] Bizarrely enough, this happened in the writing of this very paragraph.",
+      "translated": "但即便如此，有时你还是不得不使用脚注。[2] 显然，如果你用力摇晃垃圾桶，里面的物体就会变得不那么紧密。同样地，如果你对写作施加一些巨大的外部限制，比如交替使用一音节和两音节的词，思想就会开始受到影响。[3] 令人惊讶的是，这种情况就发生在写这一段的过程中。"
+    },
+    {
+      "original": "An earlier version shared several phrases in common with the preceding paragraph, and the repetition bugged me each time I reread it. When I got annoyed enough to fix it, I discovered that the repetition reflected a problem in the underlying ideas, and I fixed both simultaneously.",
+      "translated": "早期的版本与前一段有几处相同的表达，每次重读时这些重复的地方都会让我感到困扰。当我厌烦到足以去修正它们时，我发现这些重复反映了潜在思想中的一个问题，于是我同时解决了这两个问题。"
+    },
+    {
+      "original": "Thanks to Jessica Livingston and Courtenay Pipkin for reading drafts of this.",
+      "translated": "感谢Jessica Livingston和Courtenay Pipkin阅读本文的草稿。"
+    }
+  ],
+  "translation_completed": "2025-07-26T20:35:38.341904",
+  "translation_stats": {
+    "total_paragraphs": 35,
+    "success_count": 35,
+    "success_rate": "100.0%"
+  }
+}

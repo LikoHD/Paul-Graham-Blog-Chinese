@@ -1,0 +1,69 @@
+{
+  "title": "The Need to Read",
+  "title_zh": "[待翻译] The Need to Read",
+  "url": "https://www.paulgraham.com/read.html",
+  "filename": "read.html",
+  "date": "2022-11-01",
+  "id": 10,
+  "content": {
+    "success": true,
+    "paragraphs": [
+      "November 2022In the science fiction books I read as a kid, reading had often been replaced by some more efficient way of acquiring knowledge. Mysterious \"tapes\" would load it into one's brain like a program being loaded into a computer.That sort of thing is unlikely to happen anytime soon.",
+      "Not just because it would be hard to build a replacement for reading, but because even if one existed, it would be insufficient. Reading about x doesn't just teach you about x; it also teaches you how to write.",
+      "[1]Would that matter? If we replaced reading, would anyone need to be good at writing?The reason it would matter is that writing is not just a way to convey ideas, but also a way to have them.A good writer doesn't just think, and then write down what he thought, as a sort of transcript.",
+      "A good writer will almost always discover new things in the process of writing. And there is, as far as I know, no substitute for this kind of discovery. Talking about your ideas with other people is a good way to develop them.",
+      "But even after doing this, you'll find you still discover new things when you sit down to write. There is a kind of thinking that can only be done by writing.There are of course kinds of thinking that can be done without writing.",
+      "If you don't need to go too deeply into a problem, you can solve it without writing. If you're thinking about how two pieces of machinery should fit together, writing about it probably won't help much.",
+      "And when a problem can be described formally, you can sometimes solve it in your head. But if you need to solve a complicated, ill-defined problem, it will almost always help to write about it. Which in turn means that someone who's not good at writing will almost always be at a disadvantage in solving such problems.You can't think well without writing well, and you can't write well without reading well.",
+      "And I mean that last \"well\" in both senses. You have to be good at reading, and read good things. [2]People who just want information may find other ways to get it. But people who want to have ideas can't afford to.Notes[1] Audiobooks can give you examples of good writing, but having them read to you doesn't teach you as much about writing as reading them yourself.[2] By \"good at reading\" I don't mean good at the mechanics of reading.",
+      "You don't have to be good at extracting words from the page so much as extracting meaning from the words.Japanese TranslationChinese TranslationItalian TranslationFrench Translation"
+    ],
+    "word_count": 439,
+    "paragraph_count": 9
+  },
+  "processed_at": "2025-07-26T19:01:40.111397",
+  "paragraphs": [
+    {
+      "original": "November 2022In the science fiction books I read as a kid, reading had often been replaced by some more efficient way of acquiring knowledge. Mysterious \"tapes\" would load it into one's brain like a program being loaded into a computer.That sort of thing is unlikely to happen anytime soon.",
+      "translated": "2022年11月  \n在我小时候读的科幻书中，阅读常常被某种更高效的获取知识的方式所取代。神秘的“磁带”会像程序被加载到计算机中一样将知识输入到人的大脑中。  \n这种事情在近期不太可能实现。"
+    },
+    {
+      "original": "Not just because it would be hard to build a replacement for reading, but because even if one existed, it would be insufficient. Reading about x doesn't just teach you about x; it also teaches you how to write.",
+      "translated": "不仅仅是因为建立阅读的替代品会很困难，还因为即使存在这样的替代品，它也会显得不足。阅读不仅仅教你关于x的知识；它还教你如何写作。"
+    },
+    {
+      "original": "[1]Would that matter? If we replaced reading, would anyone need to be good at writing?The reason it would matter is that writing is not just a way to convey ideas, but also a way to have them.A good writer doesn't just think, and then write down what he thought, as a sort of transcript.",
+      "translated": "这会有影响吗？如果我们不再阅读了，是否还有人需要擅长写作？写作之所以重要，不仅是因为它是传达思想的一种方式，还因为它是产生思想的一种方式。一个优秀的作者不仅仅是在思考之后，将所思所想如记录般写下来。"
+    },
+    {
+      "original": "A good writer will almost always discover new things in the process of writing. And there is, as far as I know, no substitute for this kind of discovery. Talking about your ideas with other people is a good way to develop them.",
+      "translated": "一个好的作家在写作过程中几乎总会有所发现。据我所知，这种发现是无可替代的。与他人讨论你的想法是发展这些想法的好方法。"
+    },
+    {
+      "original": "But even after doing this, you'll find you still discover new things when you sit down to write. There is a kind of thinking that can only be done by writing.There are of course kinds of thinking that can be done without writing.",
+      "translated": "但即使这样，当你坐下来写作时，仍然会发现新的东西。有一种思考只能通过写作来完成。当然，也有些思考不需要写作就可以进行。"
+    },
+    {
+      "original": "If you don't need to go too deeply into a problem, you can solve it without writing. If you're thinking about how two pieces of machinery should fit together, writing about it probably won't help much.",
+      "translated": "如果你不需要深入研究一个问题，可以不通过写作来解决。如果你在考虑两台机器应该如何组装在一起，写下来可能帮助不大。"
+    },
+    {
+      "original": "And when a problem can be described formally, you can sometimes solve it in your head. But if you need to solve a complicated, ill-defined problem, it will almost always help to write about it. Which in turn means that someone who's not good at writing will almost always be at a disadvantage in solving such problems.You can't think well without writing well, and you can't write well without reading well.",
+      "translated": "当一个问题可以被正式描述时，你有时可以在脑海中解决它。但如果需要解决一个复杂且定义不明确的问题，几乎总是有助于将其写下来。这反过来意味着，不擅长写作的人在解决这类问题时几乎总是处于劣势。你不能写得好而不善思考，也不能读得好而不善写作。"
+    },
+    {
+      "original": "And I mean that last \"well\" in both senses. You have to be good at reading, and read good things. [2]People who just want information may find other ways to get it. But people who want to have ideas can't afford to.Notes[1] Audiobooks can give you examples of good writing, but having them read to you doesn't teach you as much about writing as reading them yourself.[2] By \"good at reading\" I don't mean good at the mechanics of reading.",
+      "translated": "我说的最后一个“好”有两层意思。你不仅要善于阅读，还要读好东西。[2]只想获取信息的人可能会找到其他方法来获得。但想要拥有想法的人却不能这样做。注释[1] 有声书可以给你提供好的写作范例，但听别人读并不如自己阅读那样能让你学到更多的写作技巧。[2] 我所说的“善于阅读”并不是指阅读技巧上的熟练。"
+    },
+    {
+      "original": "You don't have to be good at extracting words from the page so much as extracting meaning from the words.Japanese TranslationChinese TranslationItalian TranslationFrench Translation",
+      "translated": "你不必擅长从页面中提取单词，而应该擅长从单词中提取意义。"
+    }
+  ],
+  "translation_completed": "2025-07-27T12:47:13.347001",
+  "translation_stats": {
+    "total_paragraphs": 9,
+    "success_count": 9,
+    "success_rate": "100.0%"
+  }
+}

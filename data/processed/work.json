@@ -1,0 +1,69 @@
+{
+  "title": "What Doesn't Seem Like Work?",
+  "title_zh": "[待翻译] What Doesn't Seem Like Work?",
+  "url": "https://www.paulgraham.com/work.html",
+  "filename": "work.html",
+  "date": "2020-11-13",
+  "id": 68,
+  "content": {
+    "success": true,
+    "paragraphs": [
+      "January 2015My father is a mathematician. For most of my childhood he worked for Westinghouse, modelling nuclear reactors.He was one of those lucky people who know early on what they want to do. When you talk to him about his childhood, there's a clear watershed at about age 12, when he \"got interested in maths.\"He grew up in the small Welsh seacoast town of Pwllheli.",
+      "As we retraced his walk to school on Google Street View, he said that it had been nice growing up in the country.\"Didn't it get boring when you got to be about 15?\" I asked.\"No,\" he said, \"by then I was interested in maths.\"In another conversation he told me that what he really liked was solving problems.",
+      "To me the exercises at the end of each chapter in a math textbook represent work, or at best a way to reinforce what you learned in that chapter. To him the problems were the reward. The text of each chapter was just some advice about solving them.",
+      "He said that as soon as he got a new textbook he'd immediately work out all the problems — to the slight annoyance of his teacher, since the class was supposed to work through the book gradually.Few people know so early or so certainly what they want to work on.",
+      "But talking to my father reminded me of a heuristic the rest of us can use. If something that seems like work to other people doesn't seem like work to you, that's something you're well suited for. For example, a lot of programmers I know, including me, actually like debugging.",
+      "It's not something people tend to volunteer; one likes it the way one likes popping zits. But you may have to like debugging to like programming, considering the degree to which programming consists of it.The stranger your tastes seem to other people, the stronger evidence they probably are of what you should do.",
+      "When I was in college I used to write papers for my friends. It was quite interesting to write a paper for a class I wasn't taking. Plus they were always so relieved.It seemed curious that the same task could be painful to one person and pleasant to another, but I didn't realize at the time what this imbalance implied, because I wasn't looking for it.",
+      "I didn't realize how hard it can be to decide what you should work on, and that you sometimes have to figure it out from subtle clues, like a detective solving a case in a mystery novel. So I bet it would help a lot of people to ask themselves about this explicitly.",
+      "What seems like work to other people that doesn't seem like work to you? Thanks to Sam Altman, Trevor Blackwell, Jessica Livingston, Robert Morris, and my father for reading drafts of this.Robert Morris: All About ProgrammingFrench Translation"
+    ],
+    "word_count": 479,
+    "paragraph_count": 9
+  },
+  "processed_at": "2025-07-26T19:03:36.053268",
+  "paragraphs": [
+    {
+      "original": "January 2015My father is a mathematician. For most of my childhood he worked for Westinghouse, modelling nuclear reactors.He was one of those lucky people who know early on what they want to do. When you talk to him about his childhood, there's a clear watershed at about age 12, when he \"got interested in maths.\"He grew up in the small Welsh seacoast town of Pwllheli.",
+      "translated": "2015年1月\n\n我的父亲是一位数学家。在我童年的大部分时间里，他在西屋公司工作，负责建模核反应堆。他是那些幸运的人之一，很早就知道自己想做什么。当你和他谈论他的童年时，大约12岁的时候有一个明显的分水岭，那时他“对数学产生了兴趣”。\n\n他成长于威尔士海滨小镇普赫利。"
+    },
+    {
+      "original": "As we retraced his walk to school on Google Street View, he said that it had been nice growing up in the country.\"Didn't it get boring when you got to be about 15?\" I asked.\"No,\" he said, \"by then I was interested in maths.\"In another conversation he told me that what he really liked was solving problems.",
+      "translated": "当我们通过谷歌街景回溯他上学的路线时，他说在乡下长大感觉很好。“你15岁左右的时候不觉得无聊吗？”我问道。“不，”他说，“到那时我已经对数学感兴趣了。”在另一次谈话中，他告诉我他真正喜欢的是解决问题。"
+    },
+    {
+      "original": "To me the exercises at the end of each chapter in a math textbook represent work, or at best a way to reinforce what you learned in that chapter. To him the problems were the reward. The text of each chapter was just some advice about solving them.",
+      "translated": "对我来说，数学教科书每章末尾的习题代表的是工作，或者充其量是巩固该章所学内容的一种方式。而对他来说，那些题目才是奖励。每章的正文只不过是关于如何解决这些问题的一些建议。"
+    },
+    {
+      "original": "He said that as soon as he got a new textbook he'd immediately work out all the problems — to the slight annoyance of his teacher, since the class was supposed to work through the book gradually.Few people know so early or so certainly what they want to work on.",
+      "translated": "他说，一拿到新教科书，他就立刻把所有习题都做完了——这让老师有点不高兴，因为课程本应逐步进行。很少有人能这么早、这么坚定地知道自己想研究什么。"
+    },
+    {
+      "original": "But talking to my father reminded me of a heuristic the rest of us can use. If something that seems like work to other people doesn't seem like work to you, that's something you're well suited for. For example, a lot of programmers I know, including me, actually like debugging.",
+      "translated": "但是和父亲的谈话让我想起了一个我们其他人也可以采用的启发式方法。如果某件对其他人来说像是工作的事情对你来说却不像是工作，那么你很适合做这件事。例如，我认识的很多程序员，包括我自己，实际上都喜欢调试。"
+    },
+    {
+      "original": "It's not something people tend to volunteer; one likes it the way one likes popping zits. But you may have to like debugging to like programming, considering the degree to which programming consists of it.The stranger your tastes seem to other people, the stronger evidence they probably are of what you should do.",
+      "translated": "这并不是人们乐于主动提及的事情；就像人们喜欢挤痘一样。但考虑到编程在很大程度上就是调试，你可能必须喜欢调试才能喜欢编程。你的兴趣在别人看来越奇怪，它们可能是你应当从事的事业的越有力的证据。"
+    },
+    {
+      "original": "When I was in college I used to write papers for my friends. It was quite interesting to write a paper for a class I wasn't taking. Plus they were always so relieved.It seemed curious that the same task could be painful to one person and pleasant to another, but I didn't realize at the time what this imbalance implied, because I wasn't looking for it.",
+      "translated": "我在大学时常常为朋友们写论文。为一个自己没有修的课程写论文还挺有趣的。而且他们总是如释重负。同一项任务对一个人来说可能是痛苦的，而对另一个人来说却是愉快的，这一点似乎很奇怪，但当时我没有意识到这种不平衡所意味的什么，因为那时的我并没有去留意这一点。"
+    },
+    {
+      "original": "I didn't realize how hard it can be to decide what you should work on, and that you sometimes have to figure it out from subtle clues, like a detective solving a case in a mystery novel. So I bet it would help a lot of people to ask themselves about this explicitly.",
+      "translated": "我之前没有意识到，决定自己应该做什么工作其实很难，有时你必须从细微的线索中推断出来，就像侦探在悬疑小说中破案一样。所以，我猜如果人们能明确地问自己这个问题，会很有帮助。"
+    },
+    {
+      "original": "What seems like work to other people that doesn't seem like work to you? Thanks to Sam Altman, Trevor Blackwell, Jessica Livingston, Robert Morris, and my father for reading drafts of this.Robert Morris: All About ProgrammingFrench Translation",
+      "translated": "什么在别人看来像是工作，而对你来说却不像是工作？感谢 Sam Altman、Trevor Blackwell、Jessica Livingston、Robert Morris 和我的父亲阅读了本文的草稿。Robert Morris：编程全解法文翻译"
+    }
+  ],
+  "translation_completed": "2025-07-27T12:47:41.887019",
+  "translation_stats": {
+    "total_paragraphs": 9,
+    "success_count": 9,
+    "success_rate": "100.0%"
+  }
+}

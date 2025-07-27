@@ -1,0 +1,104 @@
+{
+  "title": "Filters that Fight Back",
+  "title_zh": "[待翻译] Filters that Fight Back",
+  "url": "https://www.paulgraham.com/ffb.html",
+  "filename": "ffb.html",
+  "date": "2003-08-01",
+  "id": 218,
+  "content": {
+    "success": true,
+    "paragraphs": [
+      "August 2003 We may be able to improve the accuracy of Bayesian spam filters by having them follow links to see what's waiting at the other end. Richard Jowsey of death2spam now does this in borderline cases, and reports that it works well.Why only do it in borderline cases?",
+      "And why only do it once?As I mentioned in Will Filters Kill Spam?, following all the urls in a spam would have an amusing side-effect. If popular email clients did this in order to filter spam, the spammer's servers would take a serious pounding.",
+      "The more I think about this, the better an idea it seems. This isn't just amusing; it would be hard to imagine a more perfectly targeted counterattack on spammers.So I'd like to suggest an additional feature to those working on spam filters: a \"punish\" mode which, if turned on, would spider every url in a suspected spam n times, where n could be set by the user.",
+      "[1]As many people have noted, one of the problems with the current email system is that it's too passive. It does whatever you tell it. So far all the suggestions for fixing the problem seem to involve new protocols.",
+      "This one wouldn't.If widely used, auto-retrieving spam filters would make the email system rebound. The huge volume of the spam, which has so far worked in the spammer's favor, would now work against him, like a branch snapping back in his face.",
+      "Auto-retrieving spam filters would drive the spammer's costs up, and his sales down: his bandwidth usage would go through the roof, and his servers would grind to a halt under the load, which would make them unavailable to the people who would have responded to the spam.Pump out a million emails an hour, get a million hits an hour on your servers.",
+      "We would want to ensure that this is only done to suspected spams. As a rule, any url sent to millions of people is likely to be a spam url, so submitting every http request in every email would work fine nearly all the time.",
+      "But there are a few cases where this isn't true: the urls at the bottom of mails sent from free email services like Yahoo Mail and Hotmail, for example.To protect such sites, and to prevent abuse, auto-retrieval should be combined with blacklists of spamvertised sites.",
+      "Only sites on a blacklist would get crawled, and sites would be blacklisted only after being inspected by humans. The lifetime of a spam must be several hours at least, so it should be easy to update such a list in time to interfere with a spam promoting a new site.",
+      "[2]High-volume auto-retrieval would only be practical for users on high-bandwidth connections, but there are enough of those to cause spammers serious trouble. Indeed, this solution neatly mirrors the problem.",
+      "The problem with spam is that in order to reach a few gullible people the spammer sends mail to everyone. The non-gullible recipients are merely collateral damage. But the non-gullible majority won't stop getting spam until they can stop (or threaten to stop) the gullible from responding to it.",
+      "Auto-retrieving spam filters offer them a way to do this.Would that kill spam? Not quite. The biggest spammers could probably protect their servers against auto-retrieving filters. However, the easiest and cheapest way for them to do it would be to include working unsubscribe links in their mails.",
+      "And this would be a necessity for smaller fry, and for \"legitimate\" sites that hired spammers to promote them. So if auto-retrieving filters became widespread, they'd become auto-unsubscribing filters.In this scenario, spam would, like OS crashes, viruses, and popups, become one of those plagues that only afflict people who don't bother to use the right software.",
+      "Notes[1] Auto-retrieving filters will have to follow redirects, and should in some cases (e.g. a page that just says \"click here\") follow more than one level of links. Make sure too that the http requests are indistinguishable from those of popular Web browsers, including the order and referrer.If the response doesn't come back within x amount of time, default to some fairly high spam probability.Instead of making n constant, it might be a good idea to make it a function of the number of spams that have been seen mentioning the site.",
+      "This would add a further level of protection against abuse and accidents.[2] The original version of this article used the term \"whitelist\" instead of \"blacklist\". Though they were to work like blacklists, I preferred to call them whitelists because it might make them less vulnerable to legal attack.",
+      "This just seems to have confused readers, though.There should probably be multiple blacklists. A single point of failure would be vulnerable both to attack and abuse. Thanks to Brian Burton, Bill Yerazunis, Dan Giffin, Eric Raymond, and Richard Jowsey for reading drafts of this.FFB FAQJapanese TranslationA Perl FFBLycos DDoS@Home"
+    ],
+    "word_count": 814,
+    "paragraph_count": 16
+  },
+  "processed_at": "2025-07-26T19:08:35.496439",
+  "paragraphs": [
+    {
+      "original": "August 2003 We may be able to improve the accuracy of Bayesian spam filters by having them follow links to see what's waiting at the other end. Richard Jowsey of death2spam now does this in borderline cases, and reports that it works well.Why only do it in borderline cases?",
+      "translated": "2003年8月 我们可以通过让贝叶斯垃圾邮件过滤器跟踪链接，查看另一端的内容来提高其准确性。death2spam的理查德·乔西现在在模棱两可的情况下这样做，并报告说效果很好。为什么只在模棱两可的情况下这样做？"
+    },
+    {
+      "original": "And why only do it once?As I mentioned in Will Filters Kill Spam?, following all the urls in a spam would have an amusing side-effect. If popular email clients did this in order to filter spam, the spammer's servers would take a serious pounding.",
+      "translated": "为什么只做一次？正如我在《过滤器会杀死垃圾邮件吗？》中提到的，跟踪垃圾邮件中的所有链接会有一个有趣的效果。如果流行的电子邮件客户端这样做以过滤垃圾邮件，垃圾邮件发送者的服务器将受到严重打击。"
+    },
+    {
+      "original": "The more I think about this, the better an idea it seems. This isn't just amusing; it would be hard to imagine a more perfectly targeted counterattack on spammers.So I'd like to suggest an additional feature to those working on spam filters: a \"punish\" mode which, if turned on, would spider every url in a suspected spam n times, where n could be set by the user.",
+      "translated": "我越想这个主意，就越觉得它好。这不仅有趣，而且很难想象有比这更精准的反垃圾邮件攻击方式了。因此，我想向那些正在研发垃圾邮件过滤器的人建议增加一个功能：一个“惩罚”模式，如果开启，将会对疑似垃圾邮件中的每个URL进行n次爬取，n的值可以由用户设定。"
+    },
+    {
+      "original": "[1]As many people have noted, one of the problems with the current email system is that it's too passive. It does whatever you tell it. So far all the suggestions for fixing the problem seem to involve new protocols.",
+      "translated": "[1]正如许多人所指出的，当前电子邮件系统的一个问题是它过于被动。它只会按照你的指示行事。到目前为止，所有关于解决这一问题的建议似乎都涉及新的协议。"
+    },
+    {
+      "original": "This one wouldn't.If widely used, auto-retrieving spam filters would make the email system rebound. The huge volume of the spam, which has so far worked in the spammer's favor, would now work against him, like a branch snapping back in his face.",
+      "translated": "这一种不会。如果广泛使用，自动检索的垃圾邮件过滤器会使电子邮件系统反弹。迄今为止，垃圾邮件的巨大数量一直对发送者有利，但现在将反过来对他不利，就像一根树枝反向弹回他的脸上一样。"
+    },
+    {
+      "original": "Auto-retrieving spam filters would drive the spammer's costs up, and his sales down: his bandwidth usage would go through the roof, and his servers would grind to a halt under the load, which would make them unavailable to the people who would have responded to the spam.Pump out a million emails an hour, get a million hits an hour on your servers.",
+      "translated": "自动检索垃圾邮件过滤器会增加垃圾邮件发送者的成本，并降低其销售额：他的带宽使用量将激增，服务器在负载下会陷入停滞，从而无法为那些本来会回应垃圾邮件的人提供服务。每小时发送一百万封电子邮件，就意味着每小时服务器会收到一百万次访问。"
+    },
+    {
+      "original": "We would want to ensure that this is only done to suspected spams. As a rule, any url sent to millions of people is likely to be a spam url, so submitting every http request in every email would work fine nearly all the time.",
+      "translated": "我们希望确保这仅针对疑似垃圾邮件进行。一般来说，任何发送给数百万人的网址很可能是一个垃圾网址，因此提交每封邮件中的每个HTTP请求在大多数情况下都能很好地工作。"
+    },
+    {
+      "original": "But there are a few cases where this isn't true: the urls at the bottom of mails sent from free email services like Yahoo Mail and Hotmail, for example.To protect such sites, and to prevent abuse, auto-retrieval should be combined with blacklists of spamvertised sites.",
+      "translated": "但也有几种情况并非如此：例如，来自Yahoo Mail和Hotmail等免费电子邮件服务发送的邮件底部的网址。为了保护这些网站并防止滥用，自动检索应与垃圾广告网站的黑名单结合使用。"
+    },
+    {
+      "original": "Only sites on a blacklist would get crawled, and sites would be blacklisted only after being inspected by humans. The lifetime of a spam must be several hours at least, so it should be easy to update such a list in time to interfere with a spam promoting a new site.",
+      "translated": "只有被列入黑名单的网站才会被爬取，而网站只有在经过人工检查后才会被列入黑名单。垃圾信息的生命周期至少要有几个小时，因此及时更新这样的列表以干扰推广新网站的垃圾信息应该是容易的。"
+    },
+    {
+      "original": "[2]High-volume auto-retrieval would only be practical for users on high-bandwidth connections, but there are enough of those to cause spammers serious trouble. Indeed, this solution neatly mirrors the problem.",
+      "translated": "[2]大容量自动检索只有对拥有高速宽带连接的用户来说才是实际可行的，但这类用户数量足够多，足以给垃圾邮件发送者带来严重麻烦。事实上，这一解决方案巧妙地反映了问题的本质。"
+    },
+    {
+      "original": "The problem with spam is that in order to reach a few gullible people the spammer sends mail to everyone. The non-gullible recipients are merely collateral damage. But the non-gullible majority won't stop getting spam until they can stop (or threaten to stop) the gullible from responding to it.",
+      "translated": "垃圾邮件的问题在于，为了达到少数容易上当的人，发件人会向所有人发送邮件。那些不易上当的收件人只是附带的受害者。但是，除非能够阻止（或威胁要阻止）那些容易上当的人回应垃圾邮件，否则不易上当的大多数不会停止收到垃圾邮件。"
+    },
+    {
+      "original": "Auto-retrieving spam filters offer them a way to do this.Would that kill spam? Not quite. The biggest spammers could probably protect their servers against auto-retrieving filters. However, the easiest and cheapest way for them to do it would be to include working unsubscribe links in their mails.",
+      "translated": "自动检索垃圾邮件过滤器为他们提供了一种方法来实现这一点。这会彻底消灭垃圾邮件吗？还不完全。最大的垃圾邮件发送者可能能够保护他们的服务器免受自动检索过滤器的攻击。然而，对他们来说最简单和最便宜的方法是在邮件中包含有效的退订链接。"
+    },
+    {
+      "original": "And this would be a necessity for smaller fry, and for \"legitimate\" sites that hired spammers to promote them. So if auto-retrieving filters became widespread, they'd become auto-unsubscribing filters.In this scenario, spam would, like OS crashes, viruses, and popups, become one of those plagues that only afflict people who don't bother to use the right software.",
+      "translated": "而这对于小型网站和那些雇佣垃圾邮件发送者来推广自己的“合法”网站来说是必需的。因此，如果自动检索过滤器变得普遍，它们就会变成自动退订过滤器。在这种情况下，垃圾邮件将像操作系统崩溃、病毒和弹出窗口一样，成为那些不使用正确软件的人才会遇到的麻烦之一。"
+    },
+    {
+      "original": "Notes[1] Auto-retrieving filters will have to follow redirects, and should in some cases (e.g. a page that just says \"click here\") follow more than one level of links. Make sure too that the http requests are indistinguishable from those of popular Web browsers, including the order and referrer.If the response doesn't come back within x amount of time, default to some fairly high spam probability.Instead of making n constant, it might be a good idea to make it a function of the number of spams that have been seen mentioning the site.",
+      "translated": "注释[1] 自动检索过滤器必须能够跟踪重定向，并且在某些情况下（例如，页面上只写着“点击这里”）需要跟踪多级链接。还要确保HTTP请求与流行Web浏览器的请求无法区分，包括顺序和来源。如果响应在x时间内没有返回，则默认设置为较高的垃圾信息概率。与其将n设为常数，不如将其设为已看到提及该网站的垃圾信息数量的函数。"
+    },
+    {
+      "original": "This would add a further level of protection against abuse and accidents.[2] The original version of this article used the term \"whitelist\" instead of \"blacklist\". Though they were to work like blacklists, I preferred to call them whitelists because it might make them less vulnerable to legal attack.",
+      "translated": "这将增加一层防止滥用和事故的保护。[2] 本文的原始版本使用了“白名单”一词，而不是“黑名单”。尽管它们的作用类似于黑名单，但我更倾向于称之为白名单，因为这可能使它们在法律攻击面前更加不易受到攻击。"
+    },
+    {
+      "original": "This just seems to have confused readers, though.There should probably be multiple blacklists. A single point of failure would be vulnerable both to attack and abuse. Thanks to Brian Burton, Bill Yerazunis, Dan Giffin, Eric Raymond, and Richard Jowsey for reading drafts of this.FFB FAQJapanese TranslationA Perl FFBLycos DDoS@Home",
+      "translated": "这似乎只是让读者更加困惑了。应该有多份黑名单。单一的失败点既容易受到攻击，也容易被滥用。感谢Brian Burton、Bill Yerazunis、Dan Giffin、Eric Raymond和Richard Jowsey审阅本文的草稿。FFB FAQ日文翻译Perl FFBLycos DDoS@Home"
+    }
+  ],
+  "translation_completed": "2025-07-27T10:15:18.683170",
+  "translation_stats": {
+    "total_paragraphs": 16,
+    "success_count": 16,
+    "success_rate": "100.0%"
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "title": "Write Simply",
+  "title_zh": "[待翻译] Write Simply",
+  "url": "https://www.paulgraham.com/simply.html",
+  "filename": "simply.html",
+  "date": "2021-03-01",
+  "id": 42,
+  "content": {
+    "success": true,
+    "paragraphs": [
+      "March 2021I try to write using ordinary words and simple sentences.That kind of writing is easier to read, and the easier something is to read, the more deeply readers will engage with it. The less energy they expend on your prose, the more they'll have left for your ideas.And the further they'll read.",
+      "Most readers' energy tends to flag part way through an article or essay. If the friction of reading is low enough, more keep going till the end.There's an Italian dish called saltimbocca, which means \"leap into the mouth.\" My goal when writing might be called saltintesta: the ideas leap into your head and you barely notice the words that got them there.It's too much to hope that writing could ever be pure ideas.",
+      "You might not even want it to be. But for most writers, most of the time, that's the goal to aim for. The gap between most writing and pure ideas is not filled with poetry.Plus it's more considerate to write simply.",
+      "When you write in a fancy way to impress people, you're making them do extra work just so you can seem cool. It's like trailing a long train behind you that readers have to carry.And remember, if you're writing in English, that a lot of your readers won't be native English speakers.",
+      "Their understanding of ideas may be way ahead of their understanding of English. So you can't assume that writing about a difficult topic means you can use difficult words.Of course, fancy writing doesn't just conceal ideas.",
+      "It can also conceal the lack of them. That's why some people write that way, to conceal the fact that they have nothing to say. Whereas writing simply keeps you honest. If you say nothing simply, it will be obvious to everyone, including you.Simple writing also lasts better.",
+      "People reading your stuff in the future will be in much the same position as people from other countries reading it today. The culture and the language will have changed. It's not vain to care about that, any more than it's vain for a woodworker to build a chair to last.Indeed, lasting is not merely an accidental quality of chairs, or writing.",
+      "It's a sign you did a good job.But although these are all real advantages of writing simply, none of them are why I do it. The main reason I write simply is that it offends me not to. When I write a sentence that seems too complicated, or that uses unnecessarily intellectual words, it doesn't seem fancy to me.",
+      "It seems clumsy.There are of course times when you want to use a complicated sentence or fancy word for effect. But you should never do it by accident.The other reason my writing ends up being simple is the way I do it.",
+      "I write the first draft fast, then spend days editing it, trying to get everything just right. Much of this editing is cutting, and that makes simple writing even simpler."
+    ],
+    "word_count": 496,
+    "paragraph_count": 10
+  },
+  "processed_at": "2025-07-26T19:02:46.756438",
+  "paragraphs": [
+    {
+      "original": "March 2021I try to write using ordinary words and simple sentences.That kind of writing is easier to read, and the easier something is to read, the more deeply readers will engage with it. The less energy they expend on your prose, the more they'll have left for your ideas.And the further they'll read.",
+      "translated": "2021年3月，我尝试用普通的词汇和简单的句子来写作。这种写作风格更容易阅读，而文章越容易阅读，读者就越能深入地参与其中。他们花在你文笔上的精力越少，剩下用于思考你观点的精力就越多。而且他们会读得更远。"
+    },
+    {
+      "original": "Most readers' energy tends to flag part way through an article or essay. If the friction of reading is low enough, more keep going till the end.There's an Italian dish called saltimbocca, which means \"leap into the mouth.\" My goal when writing might be called saltintesta: the ideas leap into your head and you barely notice the words that got them there.It's too much to hope that writing could ever be pure ideas.",
+      "translated": "大多数读者的注意力会在文章或论文的中途减弱。如果阅读的难度足够低，更多的人会继续读到最后。有一道意大利菜叫做盐煎肉（Saltimbocca），意思是“跃入口中”。我写作时的目标或许可以称为“跃入脑中”（Saltintesta）：思想跃入你的脑海，你几乎注意不到那些将它们带入你脑中的文字。希望写作能够完全成为纯粹的思想，这未免有些奢望。"
+    },
+    {
+      "original": "You might not even want it to be. But for most writers, most of the time, that's the goal to aim for. The gap between most writing and pure ideas is not filled with poetry.Plus it's more considerate to write simply.",
+      "translated": "你可能甚至不希望如此。但对大多数作者而言，大多数时候，这正是他们追求的目标。大多数写作与纯思想之间的差距并不是靠诗歌来填补的。此外，用简单的方式写作更为体贴。"
+    },
+    {
+      "original": "When you write in a fancy way to impress people, you're making them do extra work just so you can seem cool. It's like trailing a long train behind you that readers have to carry.And remember, if you're writing in English, that a lot of your readers won't be native English speakers.",
+      "translated": "当你用华丽的文风写作以博得他人的印象时，你实际上是在让他们做额外的工作，只是为了显得自己很酷。这就像拖着一条长裙尾让读者来扛。另外，请记住，如果你是用英语写作，那么你的很多读者可能都不是以英语为母语的。"
+    },
+    {
+      "original": "Their understanding of ideas may be way ahead of their understanding of English. So you can't assume that writing about a difficult topic means you can use difficult words.Of course, fancy writing doesn't just conceal ideas.",
+      "translated": "他们的思想理解可能远超其英语水平。因此，你不能假设讨论一个复杂的话题就可以使用复杂的词汇。当然，华丽的文笔并不只是为了掩盖思想。"
+    },
+    {
+      "original": "It can also conceal the lack of them. That's why some people write that way, to conceal the fact that they have nothing to say. Whereas writing simply keeps you honest. If you say nothing simply, it will be obvious to everyone, including you.Simple writing also lasts better.",
+      "translated": "它也可以掩盖缺乏这些内容的事实。这就是为什么有些人这样写作，以掩盖他们无话可说的事实。而简单直白的写作则能保持诚实。如果你简单地表达不出什么内容，这将对每个人，包括你自己，都显而易见。简单的写作也能更好地经受时间的考验。"
+    },
+    {
+      "original": "People reading your stuff in the future will be in much the same position as people from other countries reading it today. The culture and the language will have changed. It's not vain to care about that, any more than it's vain for a woodworker to build a chair to last.Indeed, lasting is not merely an accidental quality of chairs, or writing.",
+      "translated": "将来读你作品的人，与今天其他国家的人读你作品时的情况会很相似。文化和语言都会发生变化。关心这一点并不虚荣，就像木匠制作一把耐用的椅子一样，并不虚荣。事实上，耐久性不仅是椅子或写作的偶然属性。"
+    },
+    {
+      "original": "It's a sign you did a good job.But although these are all real advantages of writing simply, none of them are why I do it. The main reason I write simply is that it offends me not to. When I write a sentence that seems too complicated, or that uses unnecessarily intellectual words, it doesn't seem fancy to me.",
+      "translated": "这是一个你做得很好的迹象。但尽管这些确实是简洁写作的所有真实优势，却都不是我这样做的原因。我之所以追求简洁写作，主要是因为我无法容忍不这样做。当我觉得某个句子过于复杂，或是使用了不必要的高深词汇时，这在我眼中并不显得高明。"
+    },
+    {
+      "original": "It seems clumsy.There are of course times when you want to use a complicated sentence or fancy word for effect. But you should never do it by accident.The other reason my writing ends up being simple is the way I do it.",
+      "translated": "这看起来笨拙。当然，有时候你想为了效果而使用复杂的句子或花哨的词汇。但你不应该意外地这样做。我的写作最终变得简单还有另一个原因，那就是我的写作方式。"
+    },
+    {
+      "original": "I write the first draft fast, then spend days editing it, trying to get everything just right. Much of this editing is cutting, and that makes simple writing even simpler.",
+      "translated": "我快速完成初稿，然后花几天时间进行编辑，力求做到尽善尽美。编辑的很大一部分工作是删减，这使得简洁的写作更加简练。"
+    }
+  ],
+  "translation_completed": "2025-07-27T12:49:29.833513",
+  "translation_stats": {
+    "total_paragraphs": 10,
+    "success_count": 10,
+    "success_rate": "100.0%"
+  }
+}

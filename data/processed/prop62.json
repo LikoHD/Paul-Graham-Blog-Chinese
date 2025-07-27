@@ -1,0 +1,44 @@
+{
+  "title": "This Year We Can End the Death Penalty in California",
+  "title_zh": "[待翻译] This Year We Can End the Death Penalty in California",
+  "url": "https://www.paulgraham.com/prop62.html",
+  "filename": "prop62.html",
+  "date": "2016-11-01",
+  "id": 113,
+  "content": {
+    "success": true,
+    "paragraphs": [
+      "November 2016If you're a California voter, there is an important proposition on your ballot this year: Proposition 62, which bans the death penalty.When I was younger I used to think the debate about the death penalty was about when it's ok to take a human life.",
+      "Is it ok to kill a killer?But that is not the issue here.The real world does not work like the version I was shown on TV growing up. The police often arrest the wrong person. Defendants' lawyers are often incompetent.",
+      "And prosecutors are often motivated more by publicity than justice.In the real world, about 4% of people sentenced to death are innocent. So this is not about whether it's ok to kill killers. This is about whether it's ok to kill innocent people.A child could answer that one for you.This year, in California, you have a chance to end this, by voting yes on Proposition 62.",
+      "But beware, because there is another proposition, Proposition 66, whose goal is to make it easier to execute people. So yes on 62, no on 66.It's time."
+    ],
+    "word_count": 179,
+    "paragraph_count": 4
+  },
+  "processed_at": "2025-07-26T19:05:04.259545",
+  "paragraphs": [
+    {
+      "original": "November 2016If you're a California voter, there is an important proposition on your ballot this year: Proposition 62, which bans the death penalty.When I was younger I used to think the debate about the death penalty was about when it's ok to take a human life.",
+      "translated": "2016年11月如果你是加利福尼亚州的选民，今年的选票上有一个重要的提案：第62号提案，该提案旨在禁止死刑。当我年轻的时候，我曾经认为关于死刑的争论是关于在什么情况下可以夺走一个人的生命。"
+    },
+    {
+      "original": "Is it ok to kill a killer?But that is not the issue here.The real world does not work like the version I was shown on TV growing up. The police often arrest the wrong person. Defendants' lawyers are often incompetent.",
+      "translated": "杀死一个杀人犯可以吗？但这并不是问题的关键。现实世界并不像我小时候在电视上看到的那样运作。警察经常逮捕错误的人。被告的律师往往无能。"
+    },
+    {
+      "original": "And prosecutors are often motivated more by publicity than justice.In the real world, about 4% of people sentenced to death are innocent. So this is not about whether it's ok to kill killers. This is about whether it's ok to kill innocent people.A child could answer that one for you.This year, in California, you have a chance to end this, by voting yes on Proposition 62.",
+      "translated": "检察官往往更热衷于追求名声而非正义。在现实世界中，大约4%被判死刑的人是无辜的。所以，这并不是关于是否可以处决杀人犯的问题。而是关于是否可以处决无辜者的问题。这个问题连孩子都能回答。今年，在加利福尼亚，你们有机会通过投票支持第62号提案来结束这一切。"
+    },
+    {
+      "original": "But beware, because there is another proposition, Proposition 66, whose goal is to make it easier to execute people. So yes on 62, no on 66.It's time.",
+      "translated": "但请注意，还有一项提案，即第66号提案，其目标是使执行死刑变得更加容易。所以支持62号提案，反对66号提案。是时候了。"
+    }
+  ],
+  "translation_completed": "2025-07-27T12:39:35.872768",
+  "translation_stats": {
+    "total_paragraphs": 4,
+    "success_count": 4,
+    "success_rate": "100.0%"
+  }
+}

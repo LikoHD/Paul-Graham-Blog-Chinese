@@ -1,0 +1,44 @@
+{
+  "title": "Why Twitter is a Big Deal",
+  "title_zh": "[待翻译] Why Twitter is a Big Deal",
+  "url": "https://www.paulgraham.com/twitter.html",
+  "filename": "twitter.html",
+  "date": "2020-10-20",
+  "id": 76,
+  "content": {
+    "success": true,
+    "paragraphs": [
+      "April 2009Om Malik is the most recent of many people to ask why Twitter is such a big deal.The reason is that it's a new messaging protocol, where you don't specify the recipients. New protocols are rare.",
+      "Or more precisely, new protocols that take off are. There are only a handful of commonly used ones: TCP/IP (the Internet), SMTP (email), HTTP (the web), and so on. So any new protocol is a big deal. But Twitter is a protocol owned by a private company.",
+      "That's even rarer.Curiously, the fact that the founders of Twitter have been slow to monetize it may in the long run prove to be an advantage. Because they haven't tried to control it too much, Twitter feels to everyone like previous protocols.",
+      "One forgets it's owned by a private company. That must have made it easier for Twitter to spread."
+    ],
+    "word_count": 144,
+    "paragraph_count": 4
+  },
+  "processed_at": "2025-07-26T19:03:51.992339",
+  "paragraphs": [
+    {
+      "original": "April 2009Om Malik is the most recent of many people to ask why Twitter is such a big deal.The reason is that it's a new messaging protocol, where you don't specify the recipients. New protocols are rare.",
+      "translated": "2009年4月，Om Malik 是众多询问为什么 Twitter 如此重要的最新一人。原因在于，它是一种新的消息协议，在这种协议中，你不需要指定接收者。新的协议十分罕见。"
+    },
+    {
+      "original": "Or more precisely, new protocols that take off are. There are only a handful of commonly used ones: TCP/IP (the Internet), SMTP (email), HTTP (the web), and so on. So any new protocol is a big deal. But Twitter is a protocol owned by a private company.",
+      "translated": "或者更准确地说，新兴的协议是。常用的协议只有少数几个：TCP/IP（互联网）、SMTP（电子邮件）、HTTP（万维网）等。因此，任何新的协议都是大事。但Twitter是一个由私营公司拥有的协议。"
+    },
+    {
+      "original": "That's even rarer.Curiously, the fact that the founders of Twitter have been slow to monetize it may in the long run prove to be an advantage. Because they haven't tried to control it too much, Twitter feels to everyone like previous protocols.",
+      "translated": "这更为罕见。有趣的是，Twitter的创始人迟迟没有将其货币化，从长远来看可能成为一个优势。正因为没有过度控制，Twitter让所有人感觉像是之前的协议。"
+    },
+    {
+      "original": "One forgets it's owned by a private company. That must have made it easier for Twitter to spread.",
+      "translated": "人们几乎忘了它是一家私营公司。这肯定让Twitter的传播变得更加容易。"
+    }
+  ],
+  "translation_completed": "2025-07-27T12:39:51.825418",
+  "translation_stats": {
+    "total_paragraphs": 4,
+    "success_count": 4,
+    "success_rate": "100.0%"
+  }
+}

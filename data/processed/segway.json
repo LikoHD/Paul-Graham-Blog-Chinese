@@ -1,0 +1,64 @@
+{
+  "title": "The Trouble with the Segway",
+  "title_zh": "[待翻译] The Trouble with the Segway",
+  "url": "https://www.paulgraham.com/segway.html",
+  "filename": "segway.html",
+  "date": "2009-07-01",
+  "id": 152,
+  "content": {
+    "success": true,
+    "paragraphs": [
+      "July 2009The Segway hasn't delivered on its initial promise, to put it mildly. There are several reasons why, but one is that people don't want to be seen riding them. Someone riding a Segway looks like a dork.My friend Trevor Blackwell built his own Segway, which we called the Segwell.",
+      "He also built a one-wheeled version, the Eunicycle, which looks exactly like a regular unicycle till you realize the rider isn't pedaling. He has ridden them both to downtown Mountain View to get coffee.",
+      "When he rides the Eunicycle, people smile at him. But when he rides the Segwell, they shout abuse from their cars: \"Too lazy to walk, ya fuckin homo?\"Why do Segways provoke this reaction? The reason you look like a dork riding a Segway is that you look smug.",
+      "You don't seem to be working hard enough.Someone riding a motorcycle isn't working any harder. But because he's sitting astride it, he seems to be making an effort. When you're riding a Segway you're just standing there.",
+      "And someone who's being whisked along while seeming to do no work — someone in a sedan chair, for example — can't help but look smug.Try this thought experiment and it becomes clear: imagine something that worked like the Segway, but that you rode with one foot in front of the other, like a skateboard.",
+      "That wouldn't seem nearly as uncool.So there may be a way to capture more of the market Segway hoped to reach: make a version that doesn't look so easy for the rider. It would also be helpful if the styling was in the tradition of skateboards or bicycles rather than medical devices.Curiously enough, what got Segway into this problem was that the company was itself a kind of Segway.",
+      "It was too easy for them; they were too successful raising money. If they'd had to grow the company gradually, by iterating through several versions they sold to real users, they'd have learned pretty quickly that people looked stupid riding them.",
+      "Instead they had enough to work in secret. They had focus groups aplenty, I'm sure, but they didn't have the people yelling insults out of cars. So they never realized they were zooming confidently down a blind alley."
+    ],
+    "word_count": 372,
+    "paragraph_count": 8
+  },
+  "processed_at": "2025-07-26T19:06:20.279197",
+  "paragraphs": [
+    {
+      "original": "July 2009The Segway hasn't delivered on its initial promise, to put it mildly. There are several reasons why, but one is that people don't want to be seen riding them. Someone riding a Segway looks like a dork.My friend Trevor Blackwell built his own Segway, which we called the Segwell.",
+      "translated": "2009年7月，坦率地说，赛格威（Segway）并没有实现其最初的承诺。原因有多个，但其中一个原因是人们不愿意被看到骑着它们。骑赛格威的人看起来像一个书呆子。我的朋友特雷弗·布莱克威尔自己制作了一台赛格威，我们称之为“赛格威尔”（Segwell）。"
+    },
+    {
+      "original": "He also built a one-wheeled version, the Eunicycle, which looks exactly like a regular unicycle till you realize the rider isn't pedaling. He has ridden them both to downtown Mountain View to get coffee.",
+      "translated": "他还制作了一个单轮版本，称为Eunicycle，看起来和普通的独轮车一模一样，直到你发现骑车的人没有踩踏板。他曾骑着这两辆车去山景城的市中心买咖啡。"
+    },
+    {
+      "original": "When he rides the Eunicycle, people smile at him. But when he rides the Segwell, they shout abuse from their cars: \"Too lazy to walk, ya fuckin homo?\"Why do Segways provoke this reaction? The reason you look like a dork riding a Segway is that you look smug.",
+      "translated": "当他骑着独轮车时，人们会对他微笑。但当他骑着赛格威时，汽车里的人会对他破口大骂：“懒得走路，你这个该死的同性恋？”为什么赛格威会引发这种反应？你骑赛格威时看起来像个书呆子的原因是你显得很自满。"
+    },
+    {
+      "original": "You don't seem to be working hard enough.Someone riding a motorcycle isn't working any harder. But because he's sitting astride it, he seems to be making an effort. When you're riding a Segway you're just standing there.",
+      "translated": "你似乎不够努力。骑摩托车的人也没有更努力。但因为他跨坐在摩托上，看起来像是在用力。而当你骑着赛格威时，只是站在那里。"
+    },
+    {
+      "original": "And someone who's being whisked along while seeming to do no work — someone in a sedan chair, for example — can't help but look smug.Try this thought experiment and it becomes clear: imagine something that worked like the Segway, but that you rode with one foot in front of the other, like a skateboard.",
+      "translated": "而那些似乎毫不费力地被快速运送的人——比如坐在轿子里的人——难免会显得洋洋自得。尝试一下这个思想实验就会明白：想象一种像赛格威那样运作的东西，但你是像滑滑板那样一只脚在前一只脚在后地骑着它。"
+    },
+    {
+      "original": "That wouldn't seem nearly as uncool.So there may be a way to capture more of the market Segway hoped to reach: make a version that doesn't look so easy for the rider. It would also be helpful if the styling was in the tradition of skateboards or bicycles rather than medical devices.Curiously enough, what got Segway into this problem was that the company was itself a kind of Segway.",
+      "translated": "这看起来就不会那么不酷了。因此，可能有一种方法可以捕捉到赛格威希望触及的更多市场：制作一个对骑手来说不那么容易的版本。如果外观设计能够遵循滑板或自行车的传统，而不是医疗设备的风格，那也将有所帮助。有趣的是，导致赛格威陷入这个问题的原因是，该公司本身就像一台赛格威。"
+    },
+    {
+      "original": "It was too easy for them; they were too successful raising money. If they'd had to grow the company gradually, by iterating through several versions they sold to real users, they'd have learned pretty quickly that people looked stupid riding them.",
+      "translated": "这对他们来说太容易了；他们筹集资金太成功了。如果他们不得不逐步发展公司，通过向真实用户出售多个版本来迭代，他们很快就会意识到人们骑着这些产品看起来很傻。"
+    },
+    {
+      "original": "Instead they had enough to work in secret. They had focus groups aplenty, I'm sure, but they didn't have the people yelling insults out of cars. So they never realized they were zooming confidently down a blind alley.",
+      "translated": "相反，他们有足够的条件秘密工作。他们肯定进行了大量的焦点小组讨论，但没有人在车里大喊大叫地侮辱他们。因此，他们从未意识到自己正自信地沿着一条死胡同前进。"
+    }
+  ],
+  "translation_completed": "2025-07-27T12:44:45.040409",
+  "translation_stats": {
+    "total_paragraphs": 8,
+    "success_count": 8,
+    "success_rate": "100.0%"
+  }
+}

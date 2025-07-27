@@ -1,0 +1,89 @@
+{
+  "title": "Bradley's Ghost",
+  "title_zh": "[待翻译] Bradley's Ghost",
+  "url": "https://www.paulgraham.com/polls.html",
+  "filename": "polls.html",
+  "date": "2004-11-01",
+  "id": 210,
+  "content": {
+    "success": true,
+    "paragraphs": [
+      "November 2004 A lot of people are writing now about why Kerry lost. Here I want to examine a more specific question: why were the exit polls so wrong?In Ohio, which Kerry ultimately lost 49-51, exit polls gave him a 52-48 victory.",
+      "And this wasn't just random error. In every swing state they overestimated the Kerry vote. In Florida, which Bush ultimately won 52-47, exit polls predicted a dead heat.(These are not early numbers. They're from about midnight eastern time, long after polls closed in Ohio and Florida.",
+      "And yet by the next afternoon the exit poll numbers online corresponded to the returns. The only way I can imagine this happening is if those in charge of the exit polls cooked the books after seeing the actual returns.",
+      "But that's another issue.)What happened? The source of the problem may be a variant of the Bradley Effect. This term was invented after Tom Bradley, the black mayor of Los Angeles, lost an election for governor of California despite a comfortable lead in the polls.",
+      "Apparently voters were afraid to say they planned to vote against him, lest their motives be (perhaps correctly) suspected.It seems likely that something similar happened in exit polls this year. In theory, exit polls ought to be very accurate.",
+      "You're not asking people what they would do. You're asking what they just did.How can you get errors asking that? Because some people don't respond. To get a truly random sample, pollsters ask, say, every 20th person leaving the polling place who they voted for.",
+      "But not everyone wants to answer. And the pollsters can't simply ignore those who won't, or their sample isn't random anymore. So what they do, apparently, is note down the age and race and sex of the person, and guess from that who they voted for.This works so long as there is no correlation between who people vote for and whether they're willing to talk about it.",
+      "But this year there may have been. It may be that a significant number of those who voted for Bush didn't want to say so.Why not? Because people in the US are more conservative than they're willing to admit.",
+      "The values of the elite in this country, at least at the moment, are NPR values. The average person, as I think both Republicans and Democrats would agree, is more socially conservative. But while some openly flaunt the fact that they don't share the opinions of the elite, others feel a little nervous about it, as if they had bad table manners.For example, according to current NPR values, you can't say anything that might be perceived as disparaging towards homosexuals.",
+      "To do so is \"homophobic.\" And yet a large number of Americans are deeply religious, and the Bible is quite explicit on the subject of homosexuality. What are they to do? I think what many do is keep their opinions, but keep them to themselves.They know what they believe, but they also know what they're supposed to believe.",
+      "And so when a stranger (for example, a pollster) asks them their opinion about something like gay marriage, they will not always say what they really think.When the values of the elite are liberal, polls will tend to underestimate the conservativeness of ordinary voters.",
+      "This seems to me the leading theory to explain why the exit polls were so far off this year. NPR values said one ought to vote for Kerry. So all the people who voted for Kerry felt virtuous for doing so, and were eager to tell pollsters they had.",
+      "No one who voted for Kerry did it as an act of quiet defiance.Support for a Woman PresidentJapanese Translation If you liked this, you may also like Hackers & Painters."
+    ],
+    "word_count": 624,
+    "paragraph_count": 13
+  },
+  "processed_at": "2025-07-26T19:08:16.354534",
+  "paragraphs": [
+    {
+      "original": "November 2004 A lot of people are writing now about why Kerry lost. Here I want to examine a more specific question: why were the exit polls so wrong?In Ohio, which Kerry ultimately lost 49-51, exit polls gave him a 52-48 victory.",
+      "translated": "2004年11月，现在很多人都在写关于克里为什么输了的文章。在这里，我想探讨一个更具体的问题：为什么出口民调如此不准确？在俄亥俄州，克里最终以49-51的比例落败，但出口民调却显示他以52-48获胜。"
+    },
+    {
+      "original": "And this wasn't just random error. In every swing state they overestimated the Kerry vote. In Florida, which Bush ultimately won 52-47, exit polls predicted a dead heat.(These are not early numbers. They're from about midnight eastern time, long after polls closed in Ohio and Florida.",
+      "translated": "这并不是随机的误差。在每一个摇摆州，他们高估了克里的得票。在佛罗里达州，布什最终以52比47获胜，而出口民调预测的却是平局。（这些并不是早期的数据。它们大约来自东部时间午夜，那时俄亥俄州和佛罗里达州的投票站早已关闭。）"
+    },
+    {
+      "original": "And yet by the next afternoon the exit poll numbers online corresponded to the returns. The only way I can imagine this happening is if those in charge of the exit polls cooked the books after seeing the actual returns.",
+      "translated": "然而，到第二天下午，网上的出口民调数字与实际投票结果相符。我唯一能想象这种情况发生的方式是，负责出口民调的人在看到实际投票结果后篡改了数据。"
+    },
+    {
+      "original": "But that's another issue.)What happened? The source of the problem may be a variant of the Bradley Effect. This term was invented after Tom Bradley, the black mayor of Los Angeles, lost an election for governor of California despite a comfortable lead in the polls.",
+      "translated": "但那是另一个问题了。究竟发生了什么？问题的根源可能是布拉德利效应的一种变体。这个术语源自汤姆·布拉德利，这位非裔洛杉矶市长尽管在民调中领先，却在加利福尼亚州州长选举中落败。"
+    },
+    {
+      "original": "Apparently voters were afraid to say they planned to vote against him, lest their motives be (perhaps correctly) suspected.It seems likely that something similar happened in exit polls this year. In theory, exit polls ought to be very accurate.",
+      "translated": "显然，选民害怕说出他们打算投票反对他，唯恐他们的动机（也许是正确的）被怀疑。今年的出口民调很可能也发生了类似的情况。理论上，出口民调应该是非常准确的。"
+    },
+    {
+      "original": "You're not asking people what they would do. You're asking what they just did.How can you get errors asking that? Because some people don't respond. To get a truly random sample, pollsters ask, say, every 20th person leaving the polling place who they voted for.",
+      "translated": "你不是问人们他们会怎么做。你问的是他们刚刚做了什么。你怎么会因此出错呢？因为有些人不会回应。为了得到一个真正随机的样本，民调人员会询问，比如说，每第20个离开投票站的人他们投给了谁。"
+    },
+    {
+      "original": "But not everyone wants to answer. And the pollsters can't simply ignore those who won't, or their sample isn't random anymore. So what they do, apparently, is note down the age and race and sex of the person, and guess from that who they voted for.This works so long as there is no correlation between who people vote for and whether they're willing to talk about it.",
+      "translated": "但并非每个人都愿意回答。民调机构不能简单地忽略那些不愿意回答的人，否则他们的样本就不再具有随机性。因此，他们所做的是记录下该人的年龄、种族和性别，并据此推测他们投票给了谁。只要人们投票的对象与他们是否愿意谈论此事之间没有关联，这种方法就能奏效。"
+    },
+    {
+      "original": "But this year there may have been. It may be that a significant number of those who voted for Bush didn't want to say so.Why not? Because people in the US are more conservative than they're willing to admit.",
+      "translated": "但今年可能确实如此。可能有许多投票给布什的人不愿意说出他们的选择。为什么呢？因为在美国，人们比他们愿意承认的更加保守。"
+    },
+    {
+      "original": "The values of the elite in this country, at least at the moment, are NPR values. The average person, as I think both Republicans and Democrats would agree, is more socially conservative. But while some openly flaunt the fact that they don't share the opinions of the elite, others feel a little nervous about it, as if they had bad table manners.For example, according to current NPR values, you can't say anything that might be perceived as disparaging towards homosexuals.",
+      "translated": "这个国家的精英价值观，至少目前是如此，是NPR价值观。普通人，我认为共和党和民主党都会同意，更加倾向于社会保守。但有些人公开表现出他们与精英意见不同，而另一些人对此感到有些不安，好像他们的餐桌礼仪不好似的。例如，根据当前的NPR价值观，你不能说任何可能被视为贬低同性恋者的话。"
+    },
+    {
+      "original": "To do so is \"homophobic.\" And yet a large number of Americans are deeply religious, and the Bible is quite explicit on the subject of homosexuality. What are they to do? I think what many do is keep their opinions, but keep them to themselves.They know what they believe, but they also know what they're supposed to believe.",
+      "translated": "这样做是“恐同”的。然而，许多美国人宗教信仰深厚，《圣经》在同性恋问题上非常明确。他们该怎么办？我认为很多人会选择保留自己的观点，但把这些观点留给自己。他们知道自己相信什么，但也知道他们应该相信什么。"
+    },
+    {
+      "original": "And so when a stranger (for example, a pollster) asks them their opinion about something like gay marriage, they will not always say what they really think.When the values of the elite are liberal, polls will tend to underestimate the conservativeness of ordinary voters.",
+      "translated": "因此，当一个陌生人（比如民调员）询问他们对诸如同性婚姻之类的问题的看法时，他们并不总是会说出自己真实的想法。当精英阶层的价值观是自由派的时候，民调往往会低估普通选民的保守程度。"
+    },
+    {
+      "original": "This seems to me the leading theory to explain why the exit polls were so far off this year. NPR values said one ought to vote for Kerry. So all the people who voted for Kerry felt virtuous for doing so, and were eager to tell pollsters they had.",
+      "translated": "这似乎是解释今年出口民调如此不准确的主要理论。NPR的价值观认为人们应该投票给克里。因此，所有投票给克里的人都觉得自己这样做很道德，也很乐意告诉调查员他们投了票。"
+    },
+    {
+      "original": "No one who voted for Kerry did it as an act of quiet defiance.Support for a Woman PresidentJapanese Translation If you liked this, you may also like Hackers & Painters.",
+      "translated": "没有一个投给克里的选民是出于默默的反抗心理。对女性总统的支持日语翻译如果你喜欢这篇文章，你可能也会喜欢《黑客与画家》。"
+    }
+  ],
+  "translation_completed": "2025-07-27T12:55:39.321159",
+  "translation_stats": {
+    "total_paragraphs": 13,
+    "success_count": 13,
+    "success_rate": "100.0%"
+  }
+}

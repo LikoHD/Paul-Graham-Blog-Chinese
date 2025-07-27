@@ -1,0 +1,79 @@
+{
+  "title": "Donate Unrestricted",
+  "title_zh": "[待翻译] Donate Unrestricted",
+  "url": "https://www.paulgraham.com/donate.html",
+  "filename": "donate.html",
+  "date": "2021-03-01",
+  "id": 41,
+  "content": {
+    "success": true,
+    "paragraphs": [
+      "March 2021The secret curse of the nonprofit world is restricted donations. If you haven't been involved with nonprofits, you may never have heard this phrase before. But if you have been, it probably made you wince.Restricted donations mean donations where the donor limits what can be done with the money.",
+      "This is common with big donations, perhaps the default. And yet it's usually a bad idea. Usually the way the donor wants the money spent is not the way the nonprofit would have chosen. Otherwise there would have been no need to restrict the donation.",
+      "But who has a better understanding of where money needs to be spent, the nonprofit or the donor?If a nonprofit doesn't understand better than its donors where money needs to be spent, then it's incompetent and you shouldn't be donating to it at all.Which means a restricted donation is inherently suboptimal.",
+      "It's either a donation to a bad nonprofit, or a donation for the wrong things.There are a couple exceptions to this principle. One is when the nonprofit is an umbrella organization. It's reasonable to make a restricted donation to a university, for example, because a university is only nominally a single nonprofit.",
+      "Another exception is when the donor actually does know as much as the nonprofit about where money needs to be spent. The Gates Foundation, for example, has specific goals and often makes restricted donations to individual nonprofits to accomplish them.",
+      "But unless you're a domain expert yourself or donating to an umbrella organization, your donation would do more good if it were unrestricted.If restricted donations do less good than unrestricted ones, why do donors so often make them?",
+      "Partly because doing good isn't donors' only motive. They often have other motives as well — to make a mark, or to generate good publicity [1], or to comply with regulations or corporate policies. Many donors may simply never have considered the distinction between restricted and unrestricted donations.",
+      "They may believe that donating money for some specific purpose is just how donation works. And to be fair, nonprofits don't try very hard to discourage such illusions. They can't afford to. People running nonprofits are almost always anxious about money.",
+      "They can't afford to talk back to big donors.You can't expect candor in a relationship so asymmetric. So I'll tell you what nonprofits wish they could tell you. If you want to donate to a nonprofit, donate unrestricted.",
+      "If you trust them to spend your money, trust them to decide how. Note[1] Unfortunately restricted donations tend to generate more publicity than unrestricted ones. \"X donates money to build a school in Africa\" is not only more interesting than \"X donates money to Y nonprofit to spend as Y chooses,\" but also focuses more attention on X.",
+      "Thanks to Chase Adam, Ingrid Bassett, Trevor Blackwell, and Edith Elliot for reading drafts of this."
+    ],
+    "word_count": 477,
+    "paragraph_count": 11
+  },
+  "processed_at": "2025-07-26T19:02:45.184841",
+  "paragraphs": [
+    {
+      "original": "March 2021The secret curse of the nonprofit world is restricted donations. If you haven't been involved with nonprofits, you may never have heard this phrase before. But if you have been, it probably made you wince.Restricted donations mean donations where the donor limits what can be done with the money.",
+      "translated": "2021年3月 非营利组织世界的秘密诅咒是限定捐赠。如果你没有参与过非营利组织，你可能从未听说过这个术语。但如果你有，它可能让你感到不安。限定捐赠指的是捐赠者限制了资金使用范围的捐赠。"
+    },
+    {
+      "original": "This is common with big donations, perhaps the default. And yet it's usually a bad idea. Usually the way the donor wants the money spent is not the way the nonprofit would have chosen. Otherwise there would have been no need to restrict the donation.",
+      "translated": "这在大额捐赠中很常见，也许是默认的做法。然而，这通常是一个糟糕的主意。通常，捐赠者希望资金的使用方式并不是非营利组织本会选择的方式。否则，就没有必要限制捐赠的用途了。"
+    },
+    {
+      "original": "But who has a better understanding of where money needs to be spent, the nonprofit or the donor?If a nonprofit doesn't understand better than its donors where money needs to be spent, then it's incompetent and you shouldn't be donating to it at all.Which means a restricted donation is inherently suboptimal.",
+      "translated": "但是，谁更了解资金应该投向哪里，是非营利组织还是捐赠者？如果非营利组织不如其捐赠者更了解资金应该投向哪里，那么它就是无能的，根本就不应该向它捐款。这意味着，限定用途的捐款本质上是次优的。"
+    },
+    {
+      "original": "It's either a donation to a bad nonprofit, or a donation for the wrong things.There are a couple exceptions to this principle. One is when the nonprofit is an umbrella organization. It's reasonable to make a restricted donation to a university, for example, because a university is only nominally a single nonprofit.",
+      "translated": "要么是向不好的非营利组织捐款，要么是捐款用于不当的事情。这一原则有几个例外。其中一个例外是当非营利组织是一个伞形组织时。例如，向大学捐款时指定用途是合理的，因为大学名义上只是一个单一的非营利组织。"
+    },
+    {
+      "original": "Another exception is when the donor actually does know as much as the nonprofit about where money needs to be spent. The Gates Foundation, for example, has specific goals and often makes restricted donations to individual nonprofits to accomplish them.",
+      "translated": "另一种例外情况是捐赠者实际上和非营利组织一样了解资金需要投入的地方。例如，盖茨基金会就有具体的目标，经常向个别非营利组织提供限定用途的捐赠以实现这些目标。"
+    },
+    {
+      "original": "But unless you're a domain expert yourself or donating to an umbrella organization, your donation would do more good if it were unrestricted.If restricted donations do less good than unrestricted ones, why do donors so often make them?",
+      "translated": "但除非你自己是该领域的专家或向一个伞形组织捐款，否则你的捐款如果不加限制会发挥更大的作用。如果限制性捐款比非限制性捐款效果差，为什么捐赠者还经常这样做呢？"
+    },
+    {
+      "original": "Partly because doing good isn't donors' only motive. They often have other motives as well — to make a mark, or to generate good publicity [1], or to comply with regulations or corporate policies. Many donors may simply never have considered the distinction between restricted and unrestricted donations.",
+      "translated": "部分原因是做好事并不是捐赠者的唯一动机。他们往往还有其他动机——比如留下印记，或者获得良好的 publicity [1]，或者遵守法规或公司政策。许多捐赠者可能根本从未考虑过限定用途捐赠和非限定用途捐赠之间的区别。"
+    },
+    {
+      "original": "They may believe that donating money for some specific purpose is just how donation works. And to be fair, nonprofits don't try very hard to discourage such illusions. They can't afford to. People running nonprofits are almost always anxious about money.",
+      "translated": "他们可能认为为某个特定目的捐款就是捐赠的运作方式。公平地说，非营利组织并不会很努力地去纠正这种错觉。它们承担不起。经营非营利组织的人几乎总是对资金感到焦虑。"
+    },
+    {
+      "original": "They can't afford to talk back to big donors.You can't expect candor in a relationship so asymmetric. So I'll tell you what nonprofits wish they could tell you. If you want to donate to a nonprofit, donate unrestricted.",
+      "translated": "他们无法对大捐赠者直言相向。你不能期望在如此不对等的关系中会有坦诚。所以，让我告诉你非营利组织希望他们能告诉你的话。如果你想向非营利组织捐款，请捐出无限制用途的款项。"
+    },
+    {
+      "original": "If you trust them to spend your money, trust them to decide how. Note[1] Unfortunately restricted donations tend to generate more publicity than unrestricted ones. \"X donates money to build a school in Africa\" is not only more interesting than \"X donates money to Y nonprofit to spend as Y chooses,\" but also focuses more attention on X.",
+      "translated": "如果你信任他们花你的钱，就信任他们决定如何花。注[1] 不幸的是，定向捐赠往往比非定向捐赠更能引起关注。“X捐赠资金在非洲建学校”不仅比“X捐赠资金给Y非营利组织，由Y自行决定用途”更有趣，而且更能将注意力集中在X身上。"
+    },
+    {
+      "original": "Thanks to Chase Adam, Ingrid Bassett, Trevor Blackwell, and Edith Elliot for reading drafts of this.",
+      "translated": "感谢Chase Adam、Ingrid Bassett、Trevor Blackwell和Edith Elliot阅读本文的草稿。"
+    }
+  ],
+  "translation_completed": "2025-07-27T10:11:50.307175",
+  "translation_stats": {
+    "total_paragraphs": 11,
+    "success_count": 11,
+    "success_rate": "100.0%"
+  }
+}

@@ -1,0 +1,89 @@
+{
+  "title": "What Made Lisp Different",
+  "title_zh": "[待翻译] What Made Lisp Different",
+  "url": "https://www.paulgraham.com/diff.html",
+  "filename": "diff.html",
+  "date": "2001-12-01",
+  "id": 226,
+  "content": {
+    "success": true,
+    "paragraphs": [
+      "December 2001 (rev. May 2002) (This article came about in response to some questions on the LL1 mailing list. It is now incorporated in Revenge of the Nerds.)When McCarthy designed Lisp in the late 1950s, it was a radical departure from existing languages, the most important of which was Fortran.Lisp embodied nine new ideas: 1.",
+      "Conditionals. A conditional is an if-then-else construct. We take these for granted now. They were invented by McCarthy in the course of developing Lisp. (Fortran at that time only had a conditional goto, closely based on the branch instruction in the underlying hardware.) McCarthy, who was on the Algol committee, got conditionals into Algol, whence they spread to most other languages.2.",
+      "A function type. In Lisp, functions are first class objects-- they're a data type just like integers, strings, etc, and have a literal representation, can be stored in variables, can be passed as arguments, and so on.3.",
+      "Recursion. Recursion existed as a mathematical concept before Lisp of course, but Lisp was the first programming language to support it. (It's arguably implicit in making functions first class objects.)4.",
+      "A new concept of variables. In Lisp, all variables are effectively pointers. Values are what have types, not variables, and assigning or binding variables means copying pointers, not what they point to.5.",
+      "Garbage-collection.6. Programs composed of expressions. Lisp programs are trees of expressions, each of which returns a value. (In some Lisps expressions can return multiple values.) This is in contrast to Fortran and most succeeding languages, which distinguish between expressions and statements.It was natural to have this distinction in Fortran because (not surprisingly in a language where the input format was punched cards) the language was line-oriented.",
+      "You could not nest statements. And so while you needed expressions for math to work, there was no point in making anything else return a value, because there could not be anything waiting for it.This limitation went away with the arrival of block-structured languages, but by then it was too late.",
+      "The distinction between expressions and statements was entrenched. It spread from Fortran into Algol and thence to both their descendants.When a language is made entirely of expressions, you can compose expressions however you want.",
+      "You can say either (using Arc syntax)(if foo (= x 1) (= x 2))or(= x (if foo 1 2))7. A symbol type. Symbols differ from strings in that you can test equality by comparing a pointer.8. A notation for code using trees of symbols.9.",
+      "The whole language always available. There is no real distinction between read-time, compile-time, and runtime. You can compile or run code while reading, read or run code while compiling, and read or compile code at runtime.Running code at read-time lets users reprogram Lisp's syntax; running code at compile-time is the basis of macros; compiling at runtime is the basis of Lisp's use as an extension language in programs like Emacs; and reading at runtime enables programs to communicate using s-expressions, an idea recently reinvented as XML.",
+      "When Lisp was first invented, all these ideas were far removed from ordinary programming practice, which was dictated largely by the hardware available in the late 1950s.Over time, the default language, embodied in a succession of popular languages, has gradually evolved toward Lisp.",
+      "1-5 are now widespread. 6 is starting to appear in the mainstream. Python has a form of 7, though there doesn't seem to be any syntax for it. 8, which (with 9) is what makes Lisp macros possible, is so far still unique to Lisp, perhaps because (a) it requires those parens, or something just as bad, and (b) if you add that final increment of power, you can no longer claim to have invented a new language, but only to have designed a new dialect of Lisp ; -)Though useful to present-day programmers, it's strange to describe Lisp in terms of its variation from the random expedients other languages adopted.",
+      "That was not, probably, how McCarthy thought of it. Lisp wasn't designed to fix the mistakes in Fortran; it came about more as the byproduct of an attempt to axiomatize computation.Japanese Translation"
+    ],
+    "word_count": 682,
+    "paragraph_count": 13
+  },
+  "processed_at": "2025-07-26T19:08:53.507899",
+  "paragraphs": [
+    {
+      "original": "December 2001 (rev. May 2002) (This article came about in response to some questions on the LL1 mailing list. It is now incorporated in Revenge of the Nerds.)When McCarthy designed Lisp in the late 1950s, it was a radical departure from existing languages, the most important of which was Fortran.Lisp embodied nine new ideas: 1.",
+      "translated": "2001年12月（2002年5月修订）（本文是针对LL1邮件列表中的一些问题而写的。现已被收录于《极客的复仇》中。）当麦卡锡在20世纪50年代末设计Lisp时，它与当时最重要的现有语言Fortran相比，是一次激进的突破。Lisp包含了九个新的理念：1."
+    },
+    {
+      "original": "Conditionals. A conditional is an if-then-else construct. We take these for granted now. They were invented by McCarthy in the course of developing Lisp. (Fortran at that time only had a conditional goto, closely based on the branch instruction in the underlying hardware.) McCarthy, who was on the Algol committee, got conditionals into Algol, whence they spread to most other languages.2.",
+      "translated": "条件语句。条件语句是一种如果-那么-否则的结构。我们现在对此习以为常。它们是由麦卡锡在开发Lisp的过程中发明的。（当时，Fortran只有一个基于底层硬件分支指令的条件跳转。）麦卡锡是Algol委员会的成员，他将条件语句引入了Algol，从此条件语句传播到了大多数其他语言中。"
+    },
+    {
+      "original": "A function type. In Lisp, functions are first class objects-- they're a data type just like integers, strings, etc, and have a literal representation, can be stored in variables, can be passed as arguments, and so on.3.",
+      "translated": "函数类型。在 Lisp 中，函数是一等对象——它们就像整数、字符串等一样是一种数据类型，具有字面量表示形式，可以存储在变量中，可以作为参数传递，等等。"
+    },
+    {
+      "original": "Recursion. Recursion existed as a mathematical concept before Lisp of course, but Lisp was the first programming language to support it. (It's arguably implicit in making functions first class objects.)4.",
+      "translated": "递归。递归作为一个数学概念当然在Lisp之前就已经存在，但Lisp是第一个支持递归的编程语言。（可以说，递归在将函数作为一等对象时是隐含的。）"
+    },
+    {
+      "original": "A new concept of variables. In Lisp, all variables are effectively pointers. Values are what have types, not variables, and assigning or binding variables means copying pointers, not what they point to.5.",
+      "translated": "一个新的变量概念。在Lisp中，所有变量实际上都是指针。类型是由值而不是变量拥有的，而赋值或绑定变量意味着复制指针，而不是指针所指向的内容。"
+    },
+    {
+      "original": "Garbage-collection.6. Programs composed of expressions. Lisp programs are trees of expressions, each of which returns a value. (In some Lisps expressions can return multiple values.) This is in contrast to Fortran and most succeeding languages, which distinguish between expressions and statements.It was natural to have this distinction in Fortran because (not surprisingly in a language where the input format was punched cards) the language was line-oriented.",
+      "translated": "垃圾回收。6. 由表达式组成的程序。Lisp 程序是由表达式构成的树，每个表达式都会返回一个值。（在某些 Lisp 中，表达式可以返回多个值。）这与 Fortran 和大多数后续语言不同，后者区分了表达式和语句。在 Fortran 中有这种区别的自然原因是（不出所料，在一种输入格式为穿孔卡片的语言中）该语言是基于行的。"
+    },
+    {
+      "original": "You could not nest statements. And so while you needed expressions for math to work, there was no point in making anything else return a value, because there could not be anything waiting for it.This limitation went away with the arrival of block-structured languages, but by then it was too late.",
+      "translated": "你不能嵌套语句。因此，虽然为了数学计算需要表达式，但没有必要让其他任何东西返回值，因为不会有东西在等待它。这一限制随着块结构语言的出现而消失，但到那时已经太晚了。"
+    },
+    {
+      "original": "The distinction between expressions and statements was entrenched. It spread from Fortran into Algol and thence to both their descendants.When a language is made entirely of expressions, you can compose expressions however you want.",
+      "translated": "表达式和语句之间的区别被确立下来。它从Fortran传播到Algol，然后又传给了它们的后代。当一种语言完全由表达式构成时，你可以随心所欲地组合表达式。"
+    },
+    {
+      "original": "You can say either (using Arc syntax)(if foo (= x 1) (= x 2))or(= x (if foo 1 2))7. A symbol type. Symbols differ from strings in that you can test equality by comparing a pointer.8. A notation for code using trees of symbols.9.",
+      "translated": "你可以这样写（使用 Arc 语法）：(if foo (= x 1) (= x 2)) 或者 (= x (if foo 1 2))7. 一种符号类型。符号与字符串的不同之处在于，你可以通过比较指针来测试相等性。8. 使用符号树表示代码的记法。9."
+    },
+    {
+      "original": "The whole language always available. There is no real distinction between read-time, compile-time, and runtime. You can compile or run code while reading, read or run code while compiling, and read or compile code at runtime.Running code at read-time lets users reprogram Lisp's syntax; running code at compile-time is the basis of macros; compiling at runtime is the basis of Lisp's use as an extension language in programs like Emacs; and reading at runtime enables programs to communicate using s-expressions, an idea recently reinvented as XML.",
+      "translated": "整个语言始终可用。读取时、编译时和运行时之间没有真正的区别。你可以在读取时编译或运行代码，在编译时读取或运行代码，以及在运行时读取或编译代码。在读取时运行代码使用户能够重新定义Lisp的语法；在编译时运行代码是宏的基础；在运行时编译是Lisp作为扩展语言（如在Emacs中）的基础；而在运行时读取使程序能够使用s-表达式进行通信，这一概念最近被重新发明为XML。"
+    },
+    {
+      "original": "When Lisp was first invented, all these ideas were far removed from ordinary programming practice, which was dictated largely by the hardware available in the late 1950s.Over time, the default language, embodied in a succession of popular languages, has gradually evolved toward Lisp.",
+      "translated": "Lisp 刚被发明时，这些理念与当时主要由 20 世纪 50 年代的硬件所决定的普通编程实践相去甚远。随着时间的推移，以一系列流行语言为体现的默认语言，已逐渐向 Lisp 靠拢。"
+    },
+    {
+      "original": "1-5 are now widespread. 6 is starting to appear in the mainstream. Python has a form of 7, though there doesn't seem to be any syntax for it. 8, which (with 9) is what makes Lisp macros possible, is so far still unique to Lisp, perhaps because (a) it requires those parens, or something just as bad, and (b) if you add that final increment of power, you can no longer claim to have invented a new language, but only to have designed a new dialect of Lisp ; -)Though useful to present-day programmers, it's strange to describe Lisp in terms of its variation from the random expedients other languages adopted.",
+      "translated": "1-5 现在已经广泛传播。6 开始在主流中出现。Python 有 7 的形式，尽管似乎没有为它设计任何语法。8（与 9 一起）是使 Lisp 宏成为可能的原因，到目前为止，这仍然是 Lisp 独有的，也许是因为（a）它需要那些括号，或者其他同样糟糕的东西，以及（b）如果你添加了那最后一点力量，你就不能再声称发明了一种新语言，而只能说是设计了一种新的 Lisp 方言；-) 尽管对当今的程序员很有用，但用其他语言采用的随机手段来描述 Lisp 的变化是很奇怪的。"
+    },
+    {
+      "original": "That was not, probably, how McCarthy thought of it. Lisp wasn't designed to fix the mistakes in Fortran; it came about more as the byproduct of an attempt to axiomatize computation.Japanese Translation",
+      "translated": "这大概不是麦卡锡的想法。Lisp 并不是为了修正 Fortran 的错误而设计的；它更像是尝试公理化计算过程的副产品。"
+    }
+  ],
+  "translation_completed": "2025-07-27T12:54:31.540636",
+  "translation_stats": {
+    "total_paragraphs": 13,
+    "success_count": 13,
+    "success_rate": "100.0%"
+  }
+}

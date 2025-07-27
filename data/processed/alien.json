@@ -1,0 +1,94 @@
+{
+  "title": "Alien Truth",
+  "title_zh": "[待翻译] Alien Truth",
+  "url": "https://www.paulgraham.com/alien.html",
+  "filename": "alien.html",
+  "date": "2022-10-01",
+  "id": 12,
+  "content": {
+    "success": true,
+    "paragraphs": [
+      "October 2022If there were intelligent beings elsewhere in the universe, they'd share certain truths in common with us. The truths of mathematics would be the same, because they're true by definition.",
+      "Ditto for the truths of physics; the mass of a carbon atom would be the same on their planet. But I think we'd share other truths with aliens besides the truths of math and physics, and that it would be worthwhile to think about what these might be.For example, I think we'd share the principle that a controlled experiment testing some hypothesis entitles us to have proportionally increased belief in it.",
+      "It seems fairly likely, too, that it would be true for aliens that one can get better at something by practicing. We'd probably share Occam's razor. There doesn't seem anything specifically human about any of these ideas.We can only guess, of course.",
+      "We can't say for sure what forms intelligent life might take. Nor is it my goal here to explore that question, interesting though it is. The point of the idea of alien truth is not that it gives us a way to speculate about what forms intelligent life might take, but that it gives us a threshold, or more precisely a target, for truth.",
+      "If you're trying to find the most general truths short of those of math or physics, then presumably they'll be those we'd share in common with other forms of intelligent life.Alien truth will work best as a heuristic if we err on the side of generosity.",
+      "If an idea might plausibly be relevant to aliens, that's enough. Justice, for example. I wouldn't want to bet that all intelligent beings would understand the concept of justice, but I wouldn't want to bet against it either.The idea of alien truth is related to Erdos's idea of God's book.",
+      "He used to describe a particularly good proof as being in God's book, the implication being (a) that a sufficiently good proof was more discovered than invented, and (b) that its goodness would be universally recognized.",
+      "If there's such a thing as alien truth, then there's more in God's book than math.What should we call the search for alien truth? The obvious choice is \"philosophy.\" Whatever else philosophy includes, it should probably include this.",
+      "I'm fairly sure Aristotle would have thought so. One could even make the case that the search for alien truth is, if not an accurate description of philosophy, a good definition for it. I.e. that it's what people who call themselves philosophers should be doing, whether or not they currently are.",
+      "But I'm not wedded to that; doing it is what matters, not what we call it.We may one day have something like alien life among us in the form of AIs. And that may in turn allow us to be precise about what truths an intelligent being would have to share with us.",
+      "We might find, for example, that it's impossible to create something we'd consider intelligent that doesn't use Occam's razor. We might one day even be able to prove that. But though this sort of research would be very interesting, it's not necessary for our purposes, or even the same field; the goal of philosophy, if we're going to call it that, would be to see what ideas we come up with using alien truth as a target, not to say precisely where the threshold of it is.",
+      "Those two questions might one day converge, but they'll converge from quite different directions, and till they do, it would be too constraining to restrict ourselves to thinking only about things we're certain would be alien truths.",
+      "Especially since this will probably be one of those areas where the best guesses turn out to be surprisingly close to optimal. (Let's see if that one does.)Whatever we call it, the attempt to discover alien truths would be a worthwhile undertaking.",
+      "And curiously enough, that is itself probably an alien truth.Thanks to Trevor Blackwell, Greg Brockman, Patrick Collison, Robert Morris, and Michael Nielsen for reading drafts of this."
+    ],
+    "word_count": 675,
+    "paragraph_count": 14
+  },
+  "processed_at": "2025-07-26T19:01:46.317242",
+  "paragraphs": [
+    {
+      "original": "October 2022If there were intelligent beings elsewhere in the universe, they'd share certain truths in common with us. The truths of mathematics would be the same, because they're true by definition.",
+      "translated": "2022年10月 如果宇宙的其他地方存在智能生命，它们将与我们共享某些真理。数学的真理将是一样的，因为它们是定义上的真理。"
+    },
+    {
+      "original": "Ditto for the truths of physics; the mass of a carbon atom would be the same on their planet. But I think we'd share other truths with aliens besides the truths of math and physics, and that it would be worthwhile to think about what these might be.For example, I think we'd share the principle that a controlled experiment testing some hypothesis entitles us to have proportionally increased belief in it.",
+      "translated": "同样的道理也适用于物理定律；碳原子的质量在他们的星球上也会是相同的。但我认为，除了数学和物理的真理之外，我们还会与外星人共享其他真理，思考这些真理可能是什么是值得的。例如，我认为我们会共享这样一个原则：对某个假设进行受控实验测试，使我们有权相应地增加对该假设的信任。"
+    },
+    {
+      "original": "It seems fairly likely, too, that it would be true for aliens that one can get better at something by practicing. We'd probably share Occam's razor. There doesn't seem anything specifically human about any of these ideas.We can only guess, of course.",
+      "translated": "似乎也很有可能，对于外星人来说，通过练习可以变得更好这一观点也是成立的。我们可能也会共享奥卡姆剃刀原则。这些想法似乎并没有什么特别的人类特性。当然，我们只能猜测。"
+    },
+    {
+      "original": "We can't say for sure what forms intelligent life might take. Nor is it my goal here to explore that question, interesting though it is. The point of the idea of alien truth is not that it gives us a way to speculate about what forms intelligent life might take, but that it gives us a threshold, or more precisely a target, for truth.",
+      "translated": "我们不能确定智能生命可能采取的形式。尽管这个问题很有趣，但在这里探索它并不是我的目的。外星真理这一概念的重点不在于它为我们提供了一种推测智能生命可能形式的方式，而在于它为我们提供了一个门槛，或者更准确地说，是一个真理的目标。"
+    },
+    {
+      "original": "If you're trying to find the most general truths short of those of math or physics, then presumably they'll be those we'd share in common with other forms of intelligent life.Alien truth will work best as a heuristic if we err on the side of generosity.",
+      "translated": "如果你试图寻找那些仅次于数学或物理学的最普遍的真理，那么这些真理很可能是我们与其他形式的智能生命所共有的。外星真理作为启发式方法最有效时，我们应该倾向于慷慨。"
+    },
+    {
+      "original": "If an idea might plausibly be relevant to aliens, that's enough. Justice, for example. I wouldn't want to bet that all intelligent beings would understand the concept of justice, but I wouldn't want to bet against it either.The idea of alien truth is related to Erdos's idea of God's book.",
+      "translated": "如果一个想法可能与外星人相关，那就足够了。比如正义。我不会打赌所有智能生物都会理解正义的概念，但我也不会打赌它们不会。外星真理的概念与埃尔德什关于上帝之书的想法有关。"
+    },
+    {
+      "original": "He used to describe a particularly good proof as being in God's book, the implication being (a) that a sufficiently good proof was more discovered than invented, and (b) that its goodness would be universally recognized.",
+      "translated": "他曾经把一个特别好的证明描述为出自上帝之书，其含义是（a）一个足够好的证明是被发现的而不是被创造的，（b）它的优秀会被普遍认可。"
+    },
+    {
+      "original": "If there's such a thing as alien truth, then there's more in God's book than math.What should we call the search for alien truth? The obvious choice is \"philosophy.\" Whatever else philosophy includes, it should probably include this.",
+      "translated": "如果有外星真理这样的东西，那么上帝的书中就不仅仅有数学。我们应该如何称呼对外星真理的探索？最明显的选择是“哲学”。无论哲学还包括什么，它应该包含这一点。"
+    },
+    {
+      "original": "I'm fairly sure Aristotle would have thought so. One could even make the case that the search for alien truth is, if not an accurate description of philosophy, a good definition for it. I.e. that it's what people who call themselves philosophers should be doing, whether or not they currently are.",
+      "translated": "我相当肯定亚里士多德也会这么认为。甚至可以说，寻找外星真理，如果不是对哲学的准确描述，也是一个很好的定义。也就是说，无论现在是否在这样做，那些自称为哲学家的人应该从事这样的工作。"
+    },
+    {
+      "original": "But I'm not wedded to that; doing it is what matters, not what we call it.We may one day have something like alien life among us in the form of AIs. And that may in turn allow us to be precise about what truths an intelligent being would have to share with us.",
+      "translated": "但我不拘泥于此；重要的是去做，而不是我们如何称呼它。有一天，我们身边可能会出现类似外星生命形式的人工智能。而这反过来可能使我们能够准确地界定一个智能生命体必须与我们共享的真理。"
+    },
+    {
+      "original": "We might find, for example, that it's impossible to create something we'd consider intelligent that doesn't use Occam's razor. We might one day even be able to prove that. But though this sort of research would be very interesting, it's not necessary for our purposes, or even the same field; the goal of philosophy, if we're going to call it that, would be to see what ideas we come up with using alien truth as a target, not to say precisely where the threshold of it is.",
+      "translated": "例如，我们可能会发现，不可能创造出不使用奥卡姆剃刀原则的我们认为是智能的东西。有一天我们甚至可能能够证明这一点。但尽管这类研究会非常有趣，但它对于我们来说并不是必要的，甚至不属于同一领域；如果我们称之为哲学的话，其目标应该是以异类真理为目标，看看我们能提出什么想法，而不是精确地界定其门槛在哪里。"
+    },
+    {
+      "original": "Those two questions might one day converge, but they'll converge from quite different directions, and till they do, it would be too constraining to restrict ourselves to thinking only about things we're certain would be alien truths.",
+      "translated": "这两个问题总有一天会交汇，但它们将从截然不同的方向交汇，而在它们交汇之前，如果我们只局限于思考那些我们确信是外星真理的事物，那将是一种过于狭隘的限制。"
+    },
+    {
+      "original": "Especially since this will probably be one of those areas where the best guesses turn out to be surprisingly close to optimal. (Let's see if that one does.)Whatever we call it, the attempt to discover alien truths would be a worthwhile undertaking.",
+      "translated": "特别是这可能是一个最佳猜测最终会出人意料地接近最优解的领域。（让我们看看是否如此。）无论我们如何称呼它，尝试发现外星真理都将是值得的。"
+    },
+    {
+      "original": "And curiously enough, that is itself probably an alien truth.Thanks to Trevor Blackwell, Greg Brockman, Patrick Collison, Robert Morris, and Michael Nielsen for reading drafts of this.",
+      "translated": "而有趣的是，这本身可能就是一个外星的真理。感谢Trevor Blackwell、Greg Brockman、Patrick Collison、Robert Morris和Michael Nielsen审阅本文的草稿。"
+    }
+  ],
+  "translation_completed": "2025-07-26T23:25:05.333484",
+  "translation_stats": {
+    "total_paragraphs": 14,
+    "success_count": 14,
+    "success_rate": "100.0%"
+  }
+}

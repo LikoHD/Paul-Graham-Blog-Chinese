@@ -1,0 +1,134 @@
+{
+  "title": "How to Be an Expert in a Changing World",
+  "title_zh": "[待翻译] How to Be an Expert in a Changing World",
+  "url": "https://www.paulgraham.com/ecw.html",
+  "filename": "ecw.html",
+  "date": "2014-12-01",
+  "id": 122,
+  "content": {
+    "success": true,
+    "paragraphs": [
+      "December 2014If the world were static, we could have monotonically increasing confidence in our beliefs. The more (and more varied) experience a belief survived, the less likely it would be false. Most people implicitly believe something like this about their opinions.",
+      "And they're justified in doing so with opinions about things that don't change much, like human nature. But you can't trust your opinions in the same way about things that change, which could include practically everything else.When experts are wrong, it's often because they're experts on an earlier version of the world.Is it possible to avoid that?",
+      "Can you protect yourself against obsolete beliefs? To some extent, yes. I spent almost a decade investing in early stage startups, and curiously enough protecting yourself against obsolete beliefs is exactly what you have to do to succeed as a startup investor.",
+      "Most really good startup ideas look like bad ideas at first, and many of those look bad specifically because some change in the world just switched them from bad to good. I spent a lot of time learning to recognize such ideas, and the techniques I used may be applicable to ideas in general.The first step is to have an explicit belief in change.",
+      "People who fall victim to a monotonically increasing confidence in their opinions are implicitly concluding the world is static. If you consciously remind yourself it isn't, you start to look for change.Where should one look for it?",
+      "Beyond the moderately useful generalization that human nature doesn't change much, the unfortunate fact is that change is hard to predict. This is largely a tautology but worth remembering all the same: change that matters usually comes from an unforeseen quarter.So I don't even try to predict it.",
+      "When I get asked in interviews to predict the future, I always have to struggle to come up with something plausible-sounding on the fly, like a student who hasn't prepared for an exam. [1] But it's not out of laziness that I haven't prepared.",
+      "It seems to me that beliefs about the future are so rarely correct that they usually aren't worth the extra rigidity they impose, and that the best strategy is simply to be aggressively open-minded. Instead of trying to point yourself in the right direction, admit you have no idea what the right direction is, and try instead to be super sensitive to the winds of change.It's ok to have working hypotheses, even though they may constrain you a bit, because they also motivate you.",
+      "It's exciting to chase things and exciting to try to guess answers. But you have to be disciplined about not letting your hypotheses harden into anything more. [2]I believe this passive m.o. works not just for evaluating new ideas but also for having them.",
+      "The way to come up with new ideas is not to try explicitly to, but to try to solve problems and simply not discount weird hunches you have in the process.The winds of change originate in the unconscious minds of domain experts.",
+      "If you're sufficiently expert in a field, any weird idea or apparently irrelevant question that occurs to you is ipso facto worth exploring. [3] Within Y Combinator, when an idea is described as crazy, it's a compliment—in fact, on average probably a higher compliment than when an idea is described as good.Startup investors have extraordinary incentives for correcting obsolete beliefs.",
+      "If they can realize before other investors that some apparently unpromising startup isn't, they can make a huge amount of money. But the incentives are more than just financial. Investors' opinions are explicitly tested: startups come to them and they have to say yes or no, and then, fairly quickly, they learn whether they guessed right.",
+      "The investors who say no to a Google (and there were several) will remember it for the rest of their lives.Anyone who must in some sense bet on ideas rather than merely commenting on them has similar incentives.",
+      "Which means anyone who wants such incentives can have them, by turning their comments into bets: if you write about a topic in some fairly durable and public form, you'll find you worry much more about getting things right than most people would in a casual conversation.",
+      "[4]Another trick I've found to protect myself against obsolete beliefs is to focus initially on people rather than ideas. Though the nature of future discoveries is hard to predict, I've found I can predict quite well what sort of people will make them.",
+      "Good new ideas come from earnest, energetic, independent-minded people.Betting on people over ideas saved me countless times as an investor. We thought Airbnb was a bad idea, for example. But we could tell the founders were earnest, energetic, and independent-minded.",
+      "(Indeed, almost pathologically so.) So we suspended disbelief and funded them.This too seems a technique that should be generally applicable. Surround yourself with the sort of people new ideas come from.",
+      "If you want to notice quickly when your beliefs become obsolete, you can't do better than to be friends with the people whose discoveries will make them so.It's hard enough already not to become the prisoner of your own expertise, but it will only get harder, because change is accelerating.",
+      "That's not a recent trend; change has been accelerating since the paleolithic era. Ideas beget ideas. I don't expect that to change. But I could be wrong. Notes[1] My usual trick is to talk about aspects of the present that most people haven't noticed yet.[2] Especially if they become well enough known that people start to identify them with you.",
+      "You have to be extra skeptical about things you want to believe, and once a hypothesis starts to be identified with you, it will almost certainly start to be in that category.[3] In practice \"sufficiently expert\" doesn't require one to be recognized as an expert—which is a trailing indicator in any case.",
+      "In many fields a year of focused work plus caring a lot would be enough.[4] Though they are public and persist indefinitely, comments on e.g. forums and places like Twitter seem empirically to work like casual conversation.",
+      "The threshold may be whether what you write has a title. Thanks to Sam Altman, Patrick Collison, and Robert Morris for reading drafts of this.Spanish TranslationArabic Translation"
+    ],
+    "word_count": 1044,
+    "paragraph_count": 22
+  },
+  "processed_at": "2025-07-26T19:05:22.052017",
+  "paragraphs": [
+    {
+      "original": "December 2014If the world were static, we could have monotonically increasing confidence in our beliefs. The more (and more varied) experience a belief survived, the less likely it would be false. Most people implicitly believe something like this about their opinions.",
+      "translated": "2014年12月 如果世界是静止不变的，我们对自己的信念可以有单调递增的信心。一个信念经历的体验越多（且越多样化），它为假的可能性就越小。大多数人对他们的观点都隐含着这样的信念。"
+    },
+    {
+      "original": "And they're justified in doing so with opinions about things that don't change much, like human nature. But you can't trust your opinions in the same way about things that change, which could include practically everything else.When experts are wrong, it's often because they're experts on an earlier version of the world.Is it possible to avoid that?",
+      "translated": "对于那些关于人性等不变事物的观点，人们有理由保持这种态度。但对于那些会变化的事物，你不能以同样的方式信任你的观点，而这些事物几乎可以包括其他一切。当专家出错时，往往是因为他们对世界的了解基于一个较早的版本。这是否可以避免？"
+    },
+    {
+      "original": "Can you protect yourself against obsolete beliefs? To some extent, yes. I spent almost a decade investing in early stage startups, and curiously enough protecting yourself against obsolete beliefs is exactly what you have to do to succeed as a startup investor.",
+      "translated": "你能保护自己不受过时观念的影响吗？在某种程度上，可以。我几乎花了十年时间投资早期创业公司，有趣的是，保护自己不受过时观念的影响正是作为一名创业投资者成功所必需做的事情。"
+    },
+    {
+      "original": "Most really good startup ideas look like bad ideas at first, and many of those look bad specifically because some change in the world just switched them from bad to good. I spent a lot of time learning to recognize such ideas, and the techniques I used may be applicable to ideas in general.The first step is to have an explicit belief in change.",
+      "translated": "大多数真正好的创业点子一开始看起来都是坏主意，而且很多这样的点子之所以看起来糟糕，恰恰是因为世界上的某些变化刚刚将它们从坏主意变成了好主意。我花了很多时间学习如何识别这样的点子，我使用的方法可能也适用于一般的想法。第一步是明确相信变化。"
+    },
+    {
+      "original": "People who fall victim to a monotonically increasing confidence in their opinions are implicitly concluding the world is static. If you consciously remind yourself it isn't, you start to look for change.Where should one look for it?",
+      "translated": "那些对自身观点信心单调递增的人，实际上是在潜意识中认为世界是静止不变的。如果你有意识地提醒自己事实并非如此，你就会开始寻找变化。那么，应该去哪里寻找这种变化呢？"
+    },
+    {
+      "original": "Beyond the moderately useful generalization that human nature doesn't change much, the unfortunate fact is that change is hard to predict. This is largely a tautology but worth remembering all the same: change that matters usually comes from an unforeseen quarter.So I don't even try to predict it.",
+      "translated": "除了那个人类本性变化不大的相对有用的概括之外，不幸的事实是，变化很难预测。这在很大程度上是一个同义反复，但仍然值得记住：重要的变化通常来自意想不到的方面。所以，我甚至不试图去预测它。"
+    },
+    {
+      "original": "When I get asked in interviews to predict the future, I always have to struggle to come up with something plausible-sounding on the fly, like a student who hasn't prepared for an exam. [1] But it's not out of laziness that I haven't prepared.",
+      "translated": "当我在采访中被要求预测未来时，我总是不得不临时想出一些听起来可信的说法，就像一个没有为考试做准备的学生。[1] 但这并不是因为我懒惰而没有准备。"
+    },
+    {
+      "original": "It seems to me that beliefs about the future are so rarely correct that they usually aren't worth the extra rigidity they impose, and that the best strategy is simply to be aggressively open-minded. Instead of trying to point yourself in the right direction, admit you have no idea what the right direction is, and try instead to be super sensitive to the winds of change.It's ok to have working hypotheses, even though they may constrain you a bit, because they also motivate you.",
+      "translated": "在我看来，关于未来的信念很少是正确的，因此它们通常不值得为此带来的额外僵化，最好的策略就是积极地保持开放的心态。与其试图确定正确的方向，不如承认你根本不知道正确的方向是什么，而是试图对变化的风向极其敏感。拥有工作假设是可以的，即使它们可能会对你有些限制，因为它们也能激励你。"
+    },
+    {
+      "original": "It's exciting to chase things and exciting to try to guess answers. But you have to be disciplined about not letting your hypotheses harden into anything more. [2]I believe this passive m.o. works not just for evaluating new ideas but also for having them.",
+      "translated": "追求事物和尝试猜测答案都是令人兴奋的。但你必须有自律，不要让你的假设固化为更多东西。我认为这种被动的方法不仅适用于评估新想法，也适用于产生新想法。"
+    },
+    {
+      "original": "The way to come up with new ideas is not to try explicitly to, but to try to solve problems and simply not discount weird hunches you have in the process.The winds of change originate in the unconscious minds of domain experts.",
+      "translated": "产生新想法的方法不是刻意去追求，而是在解决问题的过程中不要忽视那些看似奇怪的直觉。变革之风源自领域专家的潜意识。"
+    },
+    {
+      "original": "If you're sufficiently expert in a field, any weird idea or apparently irrelevant question that occurs to you is ipso facto worth exploring. [3] Within Y Combinator, when an idea is described as crazy, it's a compliment—in fact, on average probably a higher compliment than when an idea is described as good.Startup investors have extraordinary incentives for correcting obsolete beliefs.",
+      "translated": "如果你在某个领域足够专业，那么任何奇怪的想法或看似无关的问题本身就值得探索。[3] 在Y Combinator内部，当一个想法被描述为疯狂时，这实际上是一种赞美——事实上，平均来说，这可能比描述一个想法为好时的赞美还要高。初创企业的投资者有极强的动力去纠正过时的观念。"
+    },
+    {
+      "original": "If they can realize before other investors that some apparently unpromising startup isn't, they can make a huge amount of money. But the incentives are more than just financial. Investors' opinions are explicitly tested: startups come to them and they have to say yes or no, and then, fairly quickly, they learn whether they guessed right.",
+      "translated": "如果他们能在其他投资者之前意识到某些看似没有前景的初创企业其实很有潜力，他们就可以赚取大量财富。但激励因素不仅仅是金钱。投资者的观点会受到明确的检验：初创企业会来找他们，他们必须做出肯定或否定的决定，然后很快就会知道自己的判断是否正确。"
+    },
+    {
+      "original": "The investors who say no to a Google (and there were several) will remember it for the rest of their lives.Anyone who must in some sense bet on ideas rather than merely commenting on them has similar incentives.",
+      "translated": "那些对谷歌说不的投资者（确实有几位）将终生铭记此事。任何在某种程度上必须对理念下注而不仅仅是评论的人，都有类似的动机。"
+    },
+    {
+      "original": "Which means anyone who wants such incentives can have them, by turning their comments into bets: if you write about a topic in some fairly durable and public form, you'll find you worry much more about getting things right than most people would in a casual conversation.",
+      "translated": "这意味着任何想要这种激励的人都可以得到，通过将他们的评论转化为赌注：如果你以某种相对持久和公开的形式撰写某个话题，你会发现你比大多数人在闲聊时更担心自己说得是否正确。"
+    },
+    {
+      "original": "[4]Another trick I've found to protect myself against obsolete beliefs is to focus initially on people rather than ideas. Though the nature of future discoveries is hard to predict, I've found I can predict quite well what sort of people will make them.",
+      "translated": "[4]我发现另一个保护自己不受过时观念影响的技巧是，最初关注人而不是想法。虽然未来发现的性质难以预测，但我发现我可以相当准确地预测出将会做出这些发现的人。"
+    },
+    {
+      "original": "Good new ideas come from earnest, energetic, independent-minded people.Betting on people over ideas saved me countless times as an investor. We thought Airbnb was a bad idea, for example. But we could tell the founders were earnest, energetic, and independent-minded.",
+      "translated": "好的新想法来自于真诚、充满活力、独立思考的人。在我作为投资者的生涯中，押注于人而非想法多次拯救了我。例如，我们认为Airbnb是一个糟糕的主意。但我们能看出来，创始人是真诚、充满活力且独立思考的。"
+    },
+    {
+      "original": "(Indeed, almost pathologically so.) So we suspended disbelief and funded them.This too seems a technique that should be generally applicable. Surround yourself with the sort of people new ideas come from.",
+      "translated": "（确实，几乎到了病态的程度。）所以我们暂停了怀疑并资助了他们。这也似乎是一种普遍适用的技巧。让自己置身于那些能产生新想法的人群中。"
+    },
+    {
+      "original": "If you want to notice quickly when your beliefs become obsolete, you can't do better than to be friends with the people whose discoveries will make them so.It's hard enough already not to become the prisoner of your own expertise, but it will only get harder, because change is accelerating.",
+      "translated": "如果你想迅速察觉到自己的信念已经过时，最好的办法就是与那些将使你的信念过时的人成为朋友。已经很难不成为自己专业知识的囚徒，但这种情况只会越来越难，因为变化正在加速。"
+    },
+    {
+      "original": "That's not a recent trend; change has been accelerating since the paleolithic era. Ideas beget ideas. I don't expect that to change. But I could be wrong. Notes[1] My usual trick is to talk about aspects of the present that most people haven't noticed yet.[2] Especially if they become well enough known that people start to identify them with you.",
+      "translated": "这并不是一个最近的趋势；自旧石器时代以来，变化一直在加速。思想孕育思想。我不认为这种情况会改变。但我也可能是错的。注释[1] 我惯用的伎俩是谈论大多数人尚未注意到的当前某些方面。[2] 尤其是当这些方面变得足够为人所知，以至于人们开始将它们与你联系起来时。"
+    },
+    {
+      "original": "You have to be extra skeptical about things you want to believe, and once a hypothesis starts to be identified with you, it will almost certainly start to be in that category.[3] In practice \"sufficiently expert\" doesn't require one to be recognized as an expert—which is a trailing indicator in any case.",
+      "translated": "你必须对那些你想要相信的事情格外持怀疑态度，一旦一个假设开始与你联系在一起，它几乎肯定会进入这一类别。[3] 实际上，“足够专业”并不需要一个人被公认为专家——而这种认可本身就是一个滞后指标。"
+    },
+    {
+      "original": "In many fields a year of focused work plus caring a lot would be enough.[4] Though they are public and persist indefinitely, comments on e.g. forums and places like Twitter seem empirically to work like casual conversation.",
+      "translated": "在许多领域，一年的专注工作加上高度重视就足够了。尽管它们是公开的并且会永久存在，但例如在论坛和类似Twitter的地方的评论，从经验上看，似乎更像是随意的交谈。"
+    },
+    {
+      "original": "The threshold may be whether what you write has a title. Thanks to Sam Altman, Patrick Collison, and Robert Morris for reading drafts of this.Spanish TranslationArabic Translation",
+      "translated": "门槛可能是你写的东西是否有标题。感谢Sam Altman、Patrick Collison和Robert Morris阅读本文的草稿。西班牙语翻译阿拉伯语翻译"
+    }
+  ],
+  "translation_completed": "2025-07-27T10:19:46.698586",
+  "translation_stats": {
+    "total_paragraphs": 22,
+    "success_count": 22,
+    "success_rate": "100.0%"
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "title": "Why Arc Isn't Especially Object-Oriented",
+  "title_zh": "[待翻译] Why Arc Isn't Especially Object-Oriented",
+  "url": "https://www.paulgraham.com/noop.html",
+  "filename": "noop.html",
+  "date": "Unknown",
+  "id": 232,
+  "content": {
+    "success": true,
+    "paragraphs": [
+      "There is a kind of mania for object-oriented programming at the moment, but some of the smartest programmers I know are some of the least excited about it.My own feeling is that object-oriented programming is a useful technique in some cases, but it isn't something that has to pervade every program you write.",
+      "You should be able to define new types, but you shouldn't have to express every program as the definition of new types.I think there are five reasons people like object-oriented programming, and three and a half of them are bad: Object-oriented programming is exciting if you have a statically-typed language without lexical closures or macros.",
+      "To some degree, it offers a way around these limitations. (See Greenspun's Tenth Rule.) Object-oriented programming is popular in big companies, because it suits the way they write software. At big companies, software tends to be written by large (and frequently changing) teams of mediocre programmers.",
+      "Object-oriented programming imposes a discipline on these programmers that prevents any one of them from doing too much damage. The price is that the resulting code is bloated with protocols and full of duplication.",
+      "This is not too high a price for big companies, because their software is probably going to be bloated and full of duplication anyway. Object-oriented programming generates a lot of what looks like work.",
+      "Back in the days of fanfold, there was a type of programmer who would only put five or ten lines of code on a page, preceded by twenty lines of elaborately formatted comments. Object-oriented programming is like crack for these people: it lets you incorporate all this scaffolding right into your source code.",
+      "Something that a Lisp hacker might handle by pushing a symbol onto a list becomes a whole file of classes and methods. So it is a good tool if you want to convince yourself, or someone else, that you are doing a lot of work.",
+      "If a language is itself an object-oriented program, it can be extended by users. Well, maybe. Or maybe you can do even better by offering the sub-concepts of object-oriented programming a la carte. Overloading, for example, is not intrinsically tied to classes.",
+      "We'll see. Object-oriented abstractions map neatly onto the domains of certain specific kinds of programs, like simulations and CAD systems. I personally have never needed object-oriented abstractions.",
+      "Common Lisp has an enormously powerful object system and I've never used it once. I've done a lot of things (e.g. making hash tables full of closures) that would have required object-oriented techniques to do in wimpier languages, but I have never had to use CLOS.Maybe I'm just stupid, or have worked on some limited subset of applications.",
+      "There is a danger in designing a language based on one's own experience of programming. But it seems more dangerous to put stuff in that you've never needed because it's thought to be a good idea.Rees Re: OOSpanish Translation"
+    ],
+    "word_count": 486,
+    "paragraph_count": 11
+  },
+  "processed_at": "2025-07-26T19:09:07.265827",
+  "paragraphs": [
+    {
+      "original": "There is a kind of mania for object-oriented programming at the moment, but some of the smartest programmers I know are some of the least excited about it.My own feeling is that object-oriented programming is a useful technique in some cases, but it isn't something that has to pervade every program you write.",
+      "translated": "目前有一种对面向对象编程的狂热，但一些我认识的最聪明的程序员却对它最不感兴趣。我自己的看法是，面向对象编程在某些情况下是一种有用的技术，但它并不是每个程序都必须采用的东西。"
+    },
+    {
+      "original": "You should be able to define new types, but you shouldn't have to express every program as the definition of new types.I think there are five reasons people like object-oriented programming, and three and a half of them are bad: Object-oriented programming is exciting if you have a statically-typed language without lexical closures or macros.",
+      "translated": "你应该能够定义新的类型，但不应该将每个程序都表达为新类型的定义。我认为人们喜欢面向对象编程有五个原因，其中三个半是不好的：如果你使用的是没有词法闭包或宏的静态类型语言，那么面向对象编程会让人感到兴奋。"
+    },
+    {
+      "original": "To some degree, it offers a way around these limitations. (See Greenspun's Tenth Rule.) Object-oriented programming is popular in big companies, because it suits the way they write software. At big companies, software tends to be written by large (and frequently changing) teams of mediocre programmers.",
+      "translated": "在某种程度上，它提供了一种绕过这些限制的方法。（参见格林斯潘第十法则。）面向对象编程在大公司中很流行，因为它适合他们编写软件的方式。在大公司中，软件通常是由大型（且经常变动的）平庸程序员团队编写的。"
+    },
+    {
+      "original": "Object-oriented programming imposes a discipline on these programmers that prevents any one of them from doing too much damage. The price is that the resulting code is bloated with protocols and full of duplication.",
+      "translated": "面向对象编程对这些程序员施加了一种约束，防止其中任何一个人造成太大破坏。代价是，生成的代码充满了协议并且充满了重复。"
+    },
+    {
+      "original": "This is not too high a price for big companies, because their software is probably going to be bloated and full of duplication anyway. Object-oriented programming generates a lot of what looks like work.",
+      "translated": "这对大公司来说并不是太高的代价，因为它们的软件本来就可能臃肿且充满重复。面向对象编程会产生大量看似工作的内容。"
+    },
+    {
+      "original": "Back in the days of fanfold, there was a type of programmer who would only put five or ten lines of code on a page, preceded by twenty lines of elaborately formatted comments. Object-oriented programming is like crack for these people: it lets you incorporate all this scaffolding right into your source code.",
+      "translated": "在扇形纸张的时代，有一种程序员，他们每页只写五到十行代码，前面却有二十行精心格式化的注释。面向对象编程对于这些人来说就像毒品：它允许你将所有这些框架直接融入源代码中。"
+    },
+    {
+      "original": "Something that a Lisp hacker might handle by pushing a symbol onto a list becomes a whole file of classes and methods. So it is a good tool if you want to convince yourself, or someone else, that you are doing a lot of work.",
+      "translated": "Lisp 黑客可能会通过将一个符号推入列表来处理的事情，变成了整整一个文件的类和方法。所以，如果你想说服自己或别人你做了很多工作，这确实是一个很好的工具。"
+    },
+    {
+      "original": "If a language is itself an object-oriented program, it can be extended by users. Well, maybe. Or maybe you can do even better by offering the sub-concepts of object-oriented programming a la carte. Overloading, for example, is not intrinsically tied to classes.",
+      "translated": "如果一种语言本身就是面向对象的程序，那么它可以被用户扩展。嗯，也许可以。或者，你可以通过提供面向对象编程的子概念来做得更好，例如按需提供。重载，例如，并不是固有地与类绑定在一起的。"
+    },
+    {
+      "original": "We'll see. Object-oriented abstractions map neatly onto the domains of certain specific kinds of programs, like simulations and CAD systems. I personally have never needed object-oriented abstractions.",
+      "translated": "我们会看到。面向对象的抽象能够很好地映射到某些特定类型的程序领域，比如模拟和CAD系统。我个人从未需要过面向对象的抽象。"
+    },
+    {
+      "original": "Common Lisp has an enormously powerful object system and I've never used it once. I've done a lot of things (e.g. making hash tables full of closures) that would have required object-oriented techniques to do in wimpier languages, but I have never had to use CLOS.Maybe I'm just stupid, or have worked on some limited subset of applications.",
+      "translated": "Common Lisp 拥有一个极其强大的对象系统，但我一次也没有使用过。我做过很多事情（比如创建装满闭包的哈希表），这些事情在较弱的语言中需要使用面向对象的技术来完成，但我从未需要使用 CLOS。也许我只是笨，或者只是处理了一些应用的有限子集。"
+    },
+    {
+      "original": "There is a danger in designing a language based on one's own experience of programming. But it seems more dangerous to put stuff in that you've never needed because it's thought to be a good idea.Rees Re: OOSpanish Translation",
+      "translated": "根据自己的编程经验来设计语言是有风险的。但似乎更危险的是，因为认为某个特性是个好主意，就把从未需要过的东西加进去。"
+    }
+  ],
+  "translation_completed": "2025-07-27T12:51:31.721380",
+  "translation_stats": {
+    "total_paragraphs": 11,
+    "success_count": 11,
+    "success_rate": "100.0%"
+  }
+}

@@ -1,0 +1,154 @@
+{
+  "title": "Persuade xor Discover",
+  "title_zh": "[待翻译] Persuade xor Discover",
+  "url": "https://www.paulgraham.com/discover.html",
+  "filename": "discover.html",
+  "date": "2020-09-04",
+  "id": 90,
+  "content": {
+    "success": true,
+    "paragraphs": [
+      "September 2009When meeting people you don't know very well, the convention is to seem extra friendly. You smile and say \"pleased to meet you,\" whether you are or not. There's nothing dishonest about this.",
+      "Everyone knows that these little social lies aren't meant to be taken literally, just as everyone knows that \"Can you pass the salt?\" is only grammatically a question.I'm perfectly willing to smile and say \"pleased to meet you\" when meeting new people.",
+      "But there is another set of customs for being ingratiating in print that are not so harmless.The reason there's a convention of being ingratiating in print is that most essays are written to persuade.",
+      "And as any politician could tell you, the way to persuade people is not just to baldly state the facts. You have to add a spoonful of sugar to make the medicine go down.For example, a politician announcing the cancellation of a government program will not merely say \"The program is canceled.\" That would seem offensively curt.",
+      "Instead he'll spend most of his time talking about the noble effort made by the people who worked on it.The reason these conventions are more dangerous is that they interact with the ideas. Saying \"pleased to meet you\" is just something you prepend to a conversation, but the sort of spin added by politicians is woven through it.",
+      "We're starting to move from social lies to real lies.Here's an example of a paragraph from an essay I wrote about labor unions. As written, it tends to offend people who like unions. People who think the labor movement was the creation of heroic union organizers have a problem to explain: why are unions shrinking now?",
+      "The best they can do is fall back on the default explanation of people living in fallen civilizations. Our ancestors were giants. The workers of the early twentieth century must have had a moral courage that's lacking today.",
+      "Now here's the same paragraph rewritten to please instead of offending them: Early union organizers made heroic sacrifices to improve conditions for workers. But though labor unions are shrinking now, it's not because present union leaders are any less courageous.",
+      "An employer couldn't get away with hiring thugs to beat up union leaders today, but if they did, I see no reason to believe today's union leaders would shrink from the challenge. So I think it would be a mistake to attribute the decline of unions to some kind of decline in the people who run them.",
+      "Early union leaders were heroic, certainly, but we should not suppose that if unions have declined, it's because present union leaders are somehow inferior. The cause must be external. [1] It makes the same point: that it can't have been the personal qualities of early union organizers that made unions successful, but must have been some external factor, or otherwise present-day union leaders would have to be inferior people.",
+      "But written this way it seems like a defense of present-day union organizers rather than an attack on early ones. That makes it more persuasive to people who like unions, because it seems sympathetic to their cause.I believe everything I wrote in the second version.",
+      "Early union leaders did make heroic sacrifices. And present union leaders probably would rise to the occasion if necessary. People tend to; I'm skeptical about the idea of \"the greatest generation.\" [2]If I believe everything I said in the second version, why didn't I write it that way?",
+      "Why offend people needlessly?Because I'd rather offend people than pander to them, and if you write about controversial topics you have to choose one or the other. The degree of courage of past or present union leaders is beside the point; all that matters for the argument is that they're the same.",
+      "But if you want to please people who are mistaken, you can't simply tell the truth. You're always going to have to add some sort of padding to protect their misconceptions from bumping against reality.Most writers do.",
+      "Most writers write to persuade, if only out of habit or politeness. But I don't write to persuade; I write to figure out. I write to persuade a hypothetical perfectly unbiased reader.Since the custom is to write to persuade the actual reader, someone who doesn't will seem arrogant.",
+      "In fact, worse than arrogant: since readers are used to essays that try to please someone, an essay that displeases one side in a dispute reads as an attempt to pander to the other. To a lot of pro-union readers, the first paragraph sounds like the sort of thing a right-wing radio talk show host would say to stir up his followers.",
+      "But it's not. Something that curtly contradicts one's beliefs can be hard to distinguish from a partisan attack on them, but though they can end up in the same place they come from different sources.Would it be so bad to add a few extra words, to make people feel better?",
+      "Maybe not. Maybe I'm excessively attached to conciseness. I write code the same way I write essays, making pass after pass looking for anything I can cut. But I have a legitimate reason for doing this.",
+      "You don't know what the ideas are until you get them down to the fewest words. [3]The danger of the second paragraph is not merely that it's longer. It's that you start to lie to yourself. The ideas start to get mixed together with the spin you've added to get them past the readers' misconceptions.I think the goal of an essay should be to discover surprising things.",
+      "That's my goal, at least. And most surprising means most different from what people currently believe. So writing to persuade and writing to discover are diametrically opposed. The more your conclusions disagree with readers' present beliefs, the more effort you'll have to expend on selling your ideas rather than having them.",
+      "As you accelerate, this drag increases, till eventually you reach a point where 100% of your energy is devoted to overcoming it and you can't go any faster.It's hard enough to overcome one's own misconceptions without having to think about how to get the resulting ideas past other people's.",
+      "I worry that if I wrote to persuade, I'd start to shy away unconsciously from ideas I knew would be hard to sell. When I notice something surprising, it's usually very faint at first. There's nothing more than a slight stirring of discomfort.",
+      "I don't want anything to get in the way of noticing it consciously. Notes[1] I had a strange feeling of being back in high school writing this. To get a good grade you had to both write the sort of pious crap you were expected to, but also seem to be writing with conviction.",
+      "The solution was a kind of method acting. It was revoltingly familiar to slip back into it.[2] Exercise for the reader: rephrase that thought to please the same people the first version would offend.[3] Come to think of it, there is one way in which I deliberately pander to readers, because it doesn't change the number of words: I switch person.",
+      "This flattering distinction seems so natural to the average reader that they probably don't notice even when I switch in mid-sentence, though you tend to notice when it's done as conspicuously as this.Thanks to Jessica Livingston and Robert Morris for reading drafts of this.Note: An earlier version of this essay began by talking about why people dislike Michael Arrington.",
+      "I now believe that was mistaken, and that most people don't dislike him for the same reason I did when I first met him, but simply because he writes about controversial things."
+    ],
+    "word_count": 1279,
+    "paragraph_count": 26
+  },
+  "processed_at": "2025-07-26T19:04:17.686213",
+  "paragraphs": [
+    {
+      "original": "September 2009When meeting people you don't know very well, the convention is to seem extra friendly. You smile and say \"pleased to meet you,\" whether you are or not. There's nothing dishonest about this.",
+      "translated": "2009年9月\n当遇到不太熟悉的人时，惯例是显得格外友好。你会微笑着说“很高兴见到你”，不管是否真的如此。这并不算欺骗。"
+    },
+    {
+      "original": "Everyone knows that these little social lies aren't meant to be taken literally, just as everyone knows that \"Can you pass the salt?\" is only grammatically a question.I'm perfectly willing to smile and say \"pleased to meet you\" when meeting new people.",
+      "translated": "大家都知道，这些小小的社交谎言并不是要当真，就像大家都知道“你能递一下盐吗？”在语法上只是个问句。我完全愿意在遇到新认识的人时微笑着说“很高兴见到你”。"
+    },
+    {
+      "original": "But there is another set of customs for being ingratiating in print that are not so harmless.The reason there's a convention of being ingratiating in print is that most essays are written to persuade.",
+      "translated": "但还有一套在文字中讨好的习俗，并不那么无害。在文字中讨好的惯例之所以存在，是因为大多数文章都是为了说服读者而写的。"
+    },
+    {
+      "original": "And as any politician could tell you, the way to persuade people is not just to baldly state the facts. You have to add a spoonful of sugar to make the medicine go down.For example, a politician announcing the cancellation of a government program will not merely say \"The program is canceled.\" That would seem offensively curt.",
+      "translated": "正如任何政治家都会告诉你的，说服人们不仅仅是要直截了当地陈述事实。你还需要加一点甜味，让苦药更容易下咽。例如，政治家宣布取消一项政府计划时，不会简单地说“该计划被取消了。”这样做会显得过于生硬无礼。"
+    },
+    {
+      "original": "Instead he'll spend most of his time talking about the noble effort made by the people who worked on it.The reason these conventions are more dangerous is that they interact with the ideas. Saying \"pleased to meet you\" is just something you prepend to a conversation, but the sort of spin added by politicians is woven through it.",
+      "translated": "相反，他会花大部分时间谈论那些为此付出努力的人们的高尚行为。这些惯例之所以更加危险，是因为它们与思想相互作用。“很高兴见到你”只是你在对话前加上的一句话，但政客们加入的那种粉饰则贯穿其中。"
+    },
+    {
+      "original": "We're starting to move from social lies to real lies.Here's an example of a paragraph from an essay I wrote about labor unions. As written, it tends to offend people who like unions. People who think the labor movement was the creation of heroic union organizers have a problem to explain: why are unions shrinking now?",
+      "translated": "我们正从社交谎言转向真正的谎言。以下是我写的一篇关于劳工工会的文章中的一段。原文倾向于冒犯那些喜欢工会的人。那些认为劳工运动是英雄般的工会组织者创造的人有一个问题需要解释：为什么工会现在正在萎缩？"
+    },
+    {
+      "original": "The best they can do is fall back on the default explanation of people living in fallen civilizations. Our ancestors were giants. The workers of the early twentieth century must have had a moral courage that's lacking today.",
+      "translated": "他们能做的最好的就是退回到对衰落文明中人们生活的默认解释。我们的祖先都是巨人。二十世纪初的工人必定拥有当今所缺乏的道德勇气。"
+    },
+    {
+      "original": "Now here's the same paragraph rewritten to please instead of offending them: Early union organizers made heroic sacrifices to improve conditions for workers. But though labor unions are shrinking now, it's not because present union leaders are any less courageous.",
+      "translated": "现在，让我们用一种更加友善的方式来重写这一段：早期的工会组织者做出了英勇的牺牲，以改善工人的工作条件。然而，尽管如今工会的规模正在缩小，但这并不是因为当前的工会领导人不够勇敢。"
+    },
+    {
+      "original": "An employer couldn't get away with hiring thugs to beat up union leaders today, but if they did, I see no reason to believe today's union leaders would shrink from the challenge. So I think it would be a mistake to attribute the decline of unions to some kind of decline in the people who run them.",
+      "translated": "雇主今天不可能雇佣恶棍去殴打工会领导人，但如果他们真的这样做了，我看不到有任何理由相信今天的工会领导人会退缩。因此，我认为将工会的衰落归咎于其领导人的某种衰退是一个错误。"
+    },
+    {
+      "original": "Early union leaders were heroic, certainly, but we should not suppose that if unions have declined, it's because present union leaders are somehow inferior. The cause must be external. [1] It makes the same point: that it can't have been the personal qualities of early union organizers that made unions successful, but must have been some external factor, or otherwise present-day union leaders would have to be inferior people.",
+      "translated": "早期的工会领导人确实是英雄，但我们不应认为工会的衰落是因为当今的工会领导人 somehow 劣于他们。原因一定是外部的。[1] 这一点同样说明：工会的成功并非由于早期组织者的个人品质，而是由于某些外部因素，否则的话，现代工会领导人就必定是不如他们的人了。"
+    },
+    {
+      "original": "But written this way it seems like a defense of present-day union organizers rather than an attack on early ones. That makes it more persuasive to people who like unions, because it seems sympathetic to their cause.I believe everything I wrote in the second version.",
+      "translated": "但这样写看起来像是在为当今的工会组织者辩护，而不是抨击早期的工会组织者。这使得它对支持工会的人来说更具说服力，因为它显得同情他们的事业。我相信我在第二版本中写的一切。"
+    },
+    {
+      "original": "Early union leaders did make heroic sacrifices. And present union leaders probably would rise to the occasion if necessary. People tend to; I'm skeptical about the idea of \"the greatest generation.\" [2]If I believe everything I said in the second version, why didn't I write it that way?",
+      "translated": "早期的工会领导人确实做出了英勇的牺牲。而当今的工会领导人如果有必要，也可能会挺身而出。人们往往是这样；我对“最伟大的一代”这一观点持怀疑态度。如果我完全相信我在第二版中所说的一切，为什么我没有那样写呢？"
+    },
+    {
+      "original": "Why offend people needlessly?Because I'd rather offend people than pander to them, and if you write about controversial topics you have to choose one or the other. The degree of courage of past or present union leaders is beside the point; all that matters for the argument is that they're the same.",
+      "translated": "为什么非要无故冒犯别人？因为我宁可冒犯人也不讨好他们，而且如果你写的是有争议的话题，你就必须做出选择。过去或现在的工会领导人的勇气程度无关紧要；对这个论点而言，重要的是他们是一样的。"
+    },
+    {
+      "original": "But if you want to please people who are mistaken, you can't simply tell the truth. You're always going to have to add some sort of padding to protect their misconceptions from bumping against reality.Most writers do.",
+      "translated": "但如果你想取悦那些有误解的人，就不能简单地告诉他们真相。你总得加点什么缓冲，以保护他们的误解不与现实相撞。大多数作家都是这样做的。"
+    },
+    {
+      "original": "Most writers write to persuade, if only out of habit or politeness. But I don't write to persuade; I write to figure out. I write to persuade a hypothetical perfectly unbiased reader.Since the custom is to write to persuade the actual reader, someone who doesn't will seem arrogant.",
+      "translated": "大多数作家写作是为了说服，哪怕只是出于习惯或礼貌。但我写作不是为了说服；我写作是为了弄明白。我写作是为了说服一个假想的完全公正的读者。由于习惯上写作是为了说服实际的读者，所以不这样做的人可能会显得傲慢。"
+    },
+    {
+      "original": "In fact, worse than arrogant: since readers are used to essays that try to please someone, an essay that displeases one side in a dispute reads as an attempt to pander to the other. To a lot of pro-union readers, the first paragraph sounds like the sort of thing a right-wing radio talk show host would say to stir up his followers.",
+      "translated": "事实上，比傲慢更糟：由于读者习惯于阅读试图取悦某人的文章，一篇在争端中不取悦某一方的文章会被视为试图讨好另一方。对于许多支持工会的读者来说，第一段听起来像是右翼广播脱口秀主持人会说的话，目的是煽动他的追随者。"
+    },
+    {
+      "original": "But it's not. Something that curtly contradicts one's beliefs can be hard to distinguish from a partisan attack on them, but though they can end up in the same place they come from different sources.Would it be so bad to add a few extra words, to make people feel better?",
+      "translated": "但这并非如此。简短地反驳某人的信念，很容易被误认为是对其信念的党派攻击，尽管它们最终可能会达到同样的效果，但来源却不同。多加几个字，让人感觉更好，这真的有那么糟糕吗？"
+    },
+    {
+      "original": "Maybe not. Maybe I'm excessively attached to conciseness. I write code the same way I write essays, making pass after pass looking for anything I can cut. But I have a legitimate reason for doing this.",
+      "translated": "也许不是这样。也许我过于追求简洁了。我写代码就像写文章一样，一遍又一遍地寻找可以删减的地方。但我这样做是有正当理由的。"
+    },
+    {
+      "original": "You don't know what the ideas are until you get them down to the fewest words. [3]The danger of the second paragraph is not merely that it's longer. It's that you start to lie to yourself. The ideas start to get mixed together with the spin you've added to get them past the readers' misconceptions.I think the goal of an essay should be to discover surprising things.",
+      "translated": "直到你把想法精简到最少的词汇，你才知道这些想法究竟是什么。第二段的危险不仅在于它更长，还在于你会开始对自己撒谎。想法开始与你为了绕过读者的误解而添加的修饰混杂在一起。我认为，一篇散文的目标应该是发现令人惊讶的事物。"
+    },
+    {
+      "original": "That's my goal, at least. And most surprising means most different from what people currently believe. So writing to persuade and writing to discover are diametrically opposed. The more your conclusions disagree with readers' present beliefs, the more effort you'll have to expend on selling your ideas rather than having them.",
+      "translated": "至少这是我的目标。而最令人惊讶的是指与人们当前的信念最为不同的东西。因此，说服性的写作和探索性的写作是截然相反的。你的结论与读者当前的信念越不一致，你就越需要花费力气去推销你的观点，而不是仅仅拥有这些观点。"
+    },
+    {
+      "original": "As you accelerate, this drag increases, till eventually you reach a point where 100% of your energy is devoted to overcoming it and you can't go any faster.It's hard enough to overcome one's own misconceptions without having to think about how to get the resulting ideas past other people's.",
+      "translated": "当你加速时，这种阻力会增加，直到最终你达到一个点，100% 的能量都用来克服阻力，你无法再加速。克服自己的误解已经足够困难，更不用说还要考虑如何让这些想法绕过他人的误解。"
+    },
+    {
+      "original": "I worry that if I wrote to persuade, I'd start to shy away unconsciously from ideas I knew would be hard to sell. When I notice something surprising, it's usually very faint at first. There's nothing more than a slight stirring of discomfort.",
+      "translated": "我担心，如果我写作的目的在于说服，我可能会不自觉地回避那些我知道难以推销的想法。当我注意到一些令人惊讶的事情时，通常一开始感觉非常微弱。起初不过是轻微的不安。"
+    },
+    {
+      "original": "I don't want anything to get in the way of noticing it consciously. Notes[1] I had a strange feeling of being back in high school writing this. To get a good grade you had to both write the sort of pious crap you were expected to, but also seem to be writing with conviction.",
+      "translated": "我不希望任何事情阻碍我有意识地注意到它。注[1] 写这些东西时，我有一种奇怪的感觉，仿佛回到了高中时代。要拿高分，你不仅要写出那些预期中的虔诚废话，还要显得你是在真诚地写作。"
+    },
+    {
+      "original": "The solution was a kind of method acting. It was revoltingly familiar to slip back into it.[2] Exercise for the reader: rephrase that thought to please the same people the first version would offend.[3] Come to think of it, there is one way in which I deliberately pander to readers, because it doesn't change the number of words: I switch person.",
+      "translated": "这个解决办法就像一种方法演技。再次回到这种状态，真是令人厌恶地熟悉。[2] 给读者的练习：重新表述那个想法，以取悦与第一版会冒犯的同样人群。[3] 仔细想想，有一件事我是故意迎合读者的，但这并不会改变字数：我更换了人称。"
+    },
+    {
+      "original": "This flattering distinction seems so natural to the average reader that they probably don't notice even when I switch in mid-sentence, though you tend to notice when it's done as conspicuously as this.Thanks to Jessica Livingston and Robert Morris for reading drafts of this.Note: An earlier version of this essay began by talking about why people dislike Michael Arrington.",
+      "translated": "这种恭维的区别对普通读者来说似乎如此自然，以至于他们可能即使在我中途转换时也没有注意到，尽管当这种转换像现在这样明显时，你往往会注意到。感谢Jessica Livingston和Robert Morris阅读本文的草稿。注：本文的早期版本一开始是讨论人们为何不喜欢Michael Arrington。"
+    },
+    {
+      "original": "I now believe that was mistaken, and that most people don't dislike him for the same reason I did when I first met him, but simply because he writes about controversial things.",
+      "translated": "我现在认为我以前的看法是错误的，大多数人并不是因为和我第一次见面时一样的原因不喜欢他，而仅仅是因为他撰写了一些有争议的内容。"
+    }
+  ],
+  "translation_completed": "2025-07-27T15:04:01.575521",
+  "translation_stats": {
+    "total_paragraphs": 26,
+    "success_count": 26,
+    "success_rate": "100.0%"
+  }
+}

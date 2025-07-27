@@ -1,0 +1,84 @@
+{
+  "title": "6,631,372",
+  "title_zh": "[待翻译] 6,631,372",
+  "url": "https://www.paulgraham.com/6631327.html",
+  "filename": "6631327.html",
+  "date": "2006-03-01",
+  "id": 195,
+  "content": {
+    "success": true,
+    "paragraphs": [
+      "March 2006, rev August 2009A couple days ago I found to my surprise that I'd been granted a patent. It issued in 2003, but no one told me. I wouldn't know about it now except that a few months ago, while visiting Yahoo, I happened to run into a Big Cheese I knew from working there in the late nineties.",
+      "He brought up something called Revenue Loop, which Viaweb had been working on when they bought us.The idea is basically that you sort search results not in order of textual \"relevance\" (as search engines did then) nor in order of how much advertisers bid (as Overture did) but in order of the bid times the number of transactions.",
+      "Ordinarily you'd do this for shopping searches, though in fact one of the features of our scheme is that it automatically detects which searches are shopping searches.If you just order the results in order of bids, you can make the search results useless, because the first results could be dominated by lame sites that had bid the most.",
+      "But if you order results by bid multiplied by transactions, far from selling out, you're getting a better measure of relevance. What could be a better sign that someone was satisfied with a search result than going to the site and buying something?And, of course, this algorithm automatically maximizes the revenue of the search engine.Everyone is focused on this type of approach now, but few were in 1998.",
+      "In 1998 it was all about selling banner ads. We didn't know that, so we were pretty excited when we figured out what seemed to us the optimal way of doing shopping searches.When Yahoo was thinking of buying us, we had a meeting with Jerry Yang in New York.",
+      "For him, I now realize, this was supposed to be one of those meetings when you check out a company you've pretty much decided to buy, just to make sure they're ok guys. We weren't expected to do more than chat and seem smart and reasonable.",
+      "He must have been dismayed when I jumped up to the whiteboard and launched into a presentation of our exciting new technology.I was just as dismayed when he didn't seem to care at all about it. At the time I thought, \"boy, is this guy poker-faced.",
+      "We present to him what has to be the optimal way of sorting product search results, and he's not even curious.\" I didn't realize till much later why he didn't care. In 1998, advertisers were overpaying enormously for ads on web sites.",
+      "In 1998, if advertisers paid the maximum that traffic was worth to them, Yahoo's revenues would have decreased.Things are different now, of course. Now this sort of thing is all the rage. So when I ran into the Yahoo exec I knew from the old days in the Yahoo cafeteria a few months ago, the first thing he remembered was not (fortunately) all the fights I had with him, but Revenue Loop.\"Well,\" I said, \"I think we actually applied for a patent on it.",
+      "I'm not sure what happened to the application after I left.\"\"Really? That would be an important patent.\"So someone investigated, and sure enough, that patent application had continued in the pipeline for several years after, and finally issued in 2003.The main thing that struck me on reading it, actually, is that lawyers at some point messed up my nice clear writing.",
+      "Some clever person with a spell checker reduced one section to Zen-like incomprehensibility: Also, common spelling errors will tend to get fixed. For example, if users searching for \"compact disc player\" end up spending considerable money at sites offering compact disc players, then those pages will have a higher relevance for that search phrase, even though the phrase \"compact disc player\" is not present on those pages.",
+      "(That \"compat disc player\" wasn't a typo, guys.)For the fine prose of the original, see the provisional application of February 1998, back when we were still Viaweb and couldn't afford to pay lawyers to turn every \"a lot of\" into \"considerable.\""
+    ],
+    "word_count": 679,
+    "paragraph_count": 12
+  },
+  "processed_at": "2025-07-26T19:07:46.712072",
+  "paragraphs": [
+    {
+      "original": "March 2006, rev August 2009A couple days ago I found to my surprise that I'd been granted a patent. It issued in 2003, but no one told me. I wouldn't know about it now except that a few months ago, while visiting Yahoo, I happened to run into a Big Cheese I knew from working there in the late nineties.",
+      "translated": "2006年3月，2009年8月修订。几天前，我惊讶地发现我获得了一项专利。这项专利是在2003年颁发的，但没有人告诉我。如果不是几个月前访问雅虎时偶然遇到了一位我在90年代末在那里工作时认识的大佬，我现在还不知道这件事。"
+    },
+    {
+      "original": "He brought up something called Revenue Loop, which Viaweb had been working on when they bought us.The idea is basically that you sort search results not in order of textual \"relevance\" (as search engines did then) nor in order of how much advertisers bid (as Overture did) but in order of the bid times the number of transactions.",
+      "translated": "他提到了一个叫做收入循环（Revenue Loop）的概念，这是Viaweb在收购我们时一直在研究的东西。这个想法基本上是，不按照文本的“相关性”（就像当时的搜索引擎所做的那样）来排序搜索结果，也不按照广告商出价的高低（就像Overture所做的那样）来排序，而是按照出价乘以交易次数来排序。"
+    },
+    {
+      "original": "Ordinarily you'd do this for shopping searches, though in fact one of the features of our scheme is that it automatically detects which searches are shopping searches.If you just order the results in order of bids, you can make the search results useless, because the first results could be dominated by lame sites that had bid the most.",
+      "translated": "通常你会在购物搜索时这样做，不过我们方案的一个特点是它能自动检测哪些搜索是购物搜索。如果你仅仅根据出价对结果进行排序，可能会使搜索结果变得毫无用处，因为排在前面的结果可能会被那些出价最高但质量较差的网站所占据。"
+    },
+    {
+      "original": "But if you order results by bid multiplied by transactions, far from selling out, you're getting a better measure of relevance. What could be a better sign that someone was satisfied with a search result than going to the site and buying something?And, of course, this algorithm automatically maximizes the revenue of the search engine.Everyone is focused on this type of approach now, but few were in 1998.",
+      "translated": "但是，如果你按照出价乘以交易量来排序结果，你不仅不会售罄，反而能得到一个更好的相关性度量。还有什么比访问网站并购买东西更能表明用户对搜索结果满意呢？当然，这种算法还能自动最大化搜索引擎的收入。现在大家都在关注这种方法，但在1998年却很少有人这样做。"
+    },
+    {
+      "original": "In 1998 it was all about selling banner ads. We didn't know that, so we were pretty excited when we figured out what seemed to us the optimal way of doing shopping searches.When Yahoo was thinking of buying us, we had a meeting with Jerry Yang in New York.",
+      "translated": "1998年，大家都在卖横幅广告。我们当时并不知道这一点，所以当我们找到了我们认为最理想的购物搜索方式时，感到非常兴奋。当雅虎考虑收购我们时，我们在纽约与杨致远开了一次会议。"
+    },
+    {
+      "original": "For him, I now realize, this was supposed to be one of those meetings when you check out a company you've pretty much decided to buy, just to make sure they're ok guys. We weren't expected to do more than chat and seem smart and reasonable.",
+      "translated": "现在我意识到，对他来说，这本应是一次考察那些他几乎已经决定要收购的公司的会议，只是为了确保他们是可靠的人。我们本不需要做更多的事情，只需要聊聊天，显得聪明且合理即可。"
+    },
+    {
+      "original": "He must have been dismayed when I jumped up to the whiteboard and launched into a presentation of our exciting new technology.I was just as dismayed when he didn't seem to care at all about it. At the time I thought, \"boy, is this guy poker-faced.",
+      "translated": "他一定很失望，当我跳起来走到白板前，开始介绍我们令人兴奋的新技术时。而当我发现他似乎完全不关心时，我也同样感到失望。当时我想，“这家伙真是面不改色。”"
+    },
+    {
+      "original": "We present to him what has to be the optimal way of sorting product search results, and he's not even curious.\" I didn't realize till much later why he didn't care. In 1998, advertisers were overpaying enormously for ads on web sites.",
+      "translated": "我们向他展示了必须是最优的产品搜索结果排序方法，而他甚至没有表现出好奇。”直到很久以后我才明白他为何不关心。1998年，广告商在网站上投放广告的费用远远超出了其实际价值。"
+    },
+    {
+      "original": "In 1998, if advertisers paid the maximum that traffic was worth to them, Yahoo's revenues would have decreased.Things are different now, of course. Now this sort of thing is all the rage. So when I ran into the Yahoo exec I knew from the old days in the Yahoo cafeteria a few months ago, the first thing he remembered was not (fortunately) all the fights I had with him, but Revenue Loop.\"Well,\" I said, \"I think we actually applied for a patent on it.",
+      "translated": "1998年，如果广告商支付的费用达到流量对他们来说的最大价值，雅虎的收入将会减少。当然，现在情况不同了。现在这种做法非常流行。所以，几个月前当我在雅虎的食堂遇到我从前认识的一位雅虎高管时，他首先想起的不是（幸运的是）我们之间的所有争执，而是“收入循环”。“嗯，”我说，“我想我们实际上已经为它申请了专利。”"
+    },
+    {
+      "original": "I'm not sure what happened to the application after I left.\"\"Really? That would be an important patent.\"So someone investigated, and sure enough, that patent application had continued in the pipeline for several years after, and finally issued in 2003.The main thing that struck me on reading it, actually, is that lawyers at some point messed up my nice clear writing.",
+      "translated": "我不确定我离开后应用程序发生了什么。“真的吗？那将是一个重要的专利。”于是有人进行了调查，果然，那个专利申请在之后的几年里一直在流程中，最终于2003年获得了授权。实际上，我在阅读时最感到惊讶的是，律师们在某个时候把我的清晰写作搞乱了。"
+    },
+    {
+      "original": "Some clever person with a spell checker reduced one section to Zen-like incomprehensibility: Also, common spelling errors will tend to get fixed. For example, if users searching for \"compact disc player\" end up spending considerable money at sites offering compact disc players, then those pages will have a higher relevance for that search phrase, even though the phrase \"compact disc player\" is not present on those pages.",
+      "translated": "某位使用拼写检查器的聪明人将一个部分简化到了禅宗般的不可理解程度：此外，常见的拼写错误往往会得到修正。例如，如果搜索“compact disc player”（光盘播放机）的用户最终在提供光盘播放机的网站上花费了相当多的钱，那么即使这些页面上没有出现“compact disc player”这一短语，这些页面对于该搜索词的相关性也会更高。"
+    },
+    {
+      "original": "(That \"compat disc player\" wasn't a typo, guys.)For the fine prose of the original, see the provisional application of February 1998, back when we were still Viaweb and couldn't afford to pay lawyers to turn every \"a lot of\" into \"considerable.\"",
+      "translated": "（那个“兼容光盘播放器”不是拼写错误，各位。） 若要欣赏原文优美的文笔，请参阅1998年2月的临时申请，那时我们还是Viaweb，还负担不起请律师将每个“很多”改成“相当多”的费用。"
+    }
+  ],
+  "translation_completed": "2025-07-26T23:04:03.071266",
+  "translation_stats": {
+    "total_paragraphs": 12,
+    "success_count": 12,
+    "success_rate": "100.0%"
+  }
+}

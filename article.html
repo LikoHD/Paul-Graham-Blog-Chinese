@@ -1,0 +1,500 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>文章详情 - Paul Graham 文章集</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif;
+            line-height: 1.6;
+            color: #24292e;
+            background: #ffffff;
+            margin: 0;
+            padding: 16px;
+            font-size: 16px;
+        }
+        
+        .container {
+            max-width: 800px;
+            margin: 0 auto;
+        }
+        
+        .header {
+            margin-bottom: 24px;
+        }
+        
+        .back-btn {
+            color: #586069;
+            text-decoration: none;
+            font-size: 14px;
+            margin-bottom: 16px;
+            display: inline-block;
+        }
+        
+        .back-btn:hover {
+            color: #24292e;
+            text-decoration: underline;
+        }
+        
+        .back-btn::before {
+            content: '← ';
+        }
+        
+        .header-actions {
+            margin-bottom: 24px;
+        }
+        
+        .original-link {
+            color: #0366d6;
+            text-decoration: none;
+            font-size: 14px;
+        }
+        
+        .original-link:hover {
+            text-decoration: underline;
+        }
+        
+        .original-link::before {
+            content: '🔗 ';
+        }
+        
+        .article-title {
+            font-size: 36px;
+            font-weight: 600;
+            margin-bottom: 4px;
+            line-height: 0.4;
+            color: #24292e;
+        }
+        
+        .article-meta {
+            color: #586069;
+            font-size: 16px;
+            margin-bottom: 32px;
+        }
+        
+        .chinese-title {
+            font-size: 28px;
+            font-weight: 600;
+            margin-bottom: 4px;
+            line-height: 0.6;
+            color: #24292e;
+        }
+        
+        .loading, .error {
+            text-align: center;
+            padding: 60px 0;
+            color: #586069;
+        }
+        
+        .toggle-container {
+            margin-bottom: 32px;
+            border-bottom: 1px solid #e1e4e8;
+            padding-bottom: 16px;
+        }
+        
+        .toggle-btn {
+            display: inline-block;
+            margin-right: 24px;
+            cursor: pointer;
+            color: #586069;
+            text-decoration: none;
+            font-size: 16px;
+            padding-bottom: 8px;
+            border-bottom: 2px solid transparent;
+        }
+        
+        .toggle-btn.active {
+            color: #24292e;
+            border-bottom-color: #0366d6;
+            font-weight: 600;
+        }
+        
+        .toggle-btn:hover {
+            color: #24292e;
+        }
+        
+        .content-section {
+            margin-bottom: 32px;
+        }
+        
+        .section-title {
+            font-size: 24px;
+            color: #24292e;
+            margin-bottom: 24px;
+            font-weight: 600;
+            border-bottom: 1px solid #e1e4e8;
+            padding-bottom: 8px;
+        }
+        
+        .parallel-view {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 32px;
+            margin-bottom: 32px;
+        }
+        
+        .paragraph-pair {
+            margin-bottom: 32px;
+        }
+        
+        .language-label {
+            font-size: 12px;
+            font-weight: 600;
+            color: #586069;
+            margin-bottom: 8px;
+            text-transform: uppercase;
+            letter-spacing: 0.5px;
+        }
+        
+        .original-text, .translated-text {
+            line-height: 1.7;
+            font-size: 16px;
+            margin-bottom: 16px;
+        }
+        
+        .original-text {
+            color: #24292e;
+        }
+        
+        .translated-text {
+            color: #24292e;
+            font-style: pingFang SC;
+        }
+        
+        .hidden {
+            display: none;
+        }
+        
+        .paragraph-text {
+            margin-bottom: 16px;
+            line-height: 1.7;
+        }
+        
+        @media (max-width: 768px) {
+            body {
+                padding: 12px;
+                font-size: 15px;
+            }
+            
+            .article-title {
+                font-size: 28px;
+            }
+            
+            .toggle-btn {
+                display: block;
+                margin: 8px 0;
+                font-size: 15px;
+            }
+            
+            .parallel-view {
+                grid-template-columns: 1fr;
+                gap: 24px;
+            }
+            
+            .original-text, .translated-text {
+                font-size: 15px;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <div class="header-actions">
+                <a href="index.html" class="back-btn">返回文章列表</a>
+                <a href="#" class="original-link" id="originalLink">查看原文</a>
+            </div>
+            <div class="article-meta" id="articleMeta"></div>            
+            <h1 class="article-title" id="articleTitle"></h1>
+        </div>
+        
+        <div class="loading" id="loading">
+            正在加载文章内容...
+        </div>
+        
+        <div class="error hidden" id="error">
+            <h3>加载失败</h3>
+            <p>抱歉，文章内容加载失败。请检查网络连接或稍后重试。</p>
+            <a href="index.html">返回首页</a>
+        </div>
+        
+        <div class="content hidden" id="content">
+            <div class="toggle-container">
+                <span class="toggle-btn active" id="parallelBtn" onclick="showView('parallel')">中英对照</span>
+                <span class="toggle-btn" id="originalBtn" onclick="showView('original')">英文原文</span>
+                <span class="toggle-btn" id="translatedBtn" onclick="showView('translated')">中文翻译</span>
+            </div>
+            
+            <div id="articleContent">
+                <!-- 文章内容将通过JavaScript动态加载 -->
+            </div>
+        </div>
+    </div>
+    
+    <script>
+        let currentView = 'parallel';
+        let articleData = null;
+        
+        // 获取URL参数
+        function getUrlParameter(name) {
+            const urlParams = new URLSearchParams(window.location.search);
+            return urlParams.get(name);
+        }
+        
+        // 显示不同视图
+        function showView(view) {
+            currentView = view;
+            
+            // 更新按钮状态
+            document.querySelectorAll('.toggle-btn').forEach(btn => btn.classList.remove('active'));
+            document.getElementById(view + 'Btn').classList.add('active');
+            
+            if (articleData) {
+                renderArticleContent();
+            }
+        }
+        
+        // 渲染文章内容
+        function renderArticleContent() {
+            const container = document.getElementById('articleContent');
+            
+            if (currentView === 'parallel') {
+                renderParallelView(container);
+            } else if (currentView === 'original') {
+                renderSingleView(container, 'original');
+            } else if (currentView === 'translated') {
+                renderSingleView(container, 'translated');
+            }
+        }
+        
+        // 渲染对照视图
+        function renderParallelView(container) {
+            container.innerHTML = '';
+            
+            articleData.paragraphs.forEach((para, index) => {
+                const pairDiv = document.createElement('div');
+                pairDiv.className = 'paragraph-pair';
+                
+                // 处理文本内容，识别标题和段落
+                const originalProcessed = processTextContent(para.original);
+                const translatedProcessed = processTextContent(para.translated || '翻译中...');
+                
+                pairDiv.innerHTML = `
+                    <div class="parallel-view">
+                        <div>
+                            <div class="language-label"></div>
+                            <div class="original-text">${originalProcessed}</div>
+                        </div>
+                        <div>
+                            <div class="language-label"></div>
+                            <div class="translated-text">${translatedProcessed}</div>
+                        </div>
+                    </div>
+                `;
+                
+                container.appendChild(pairDiv);
+            });
+        }
+        
+        // 处理文本内容，增加格式化
+        function processTextContent(text) {
+            if (!text) return '';
+            
+            // 转义HTML
+            text = escapeHtml(text);
+            
+            // 处理段落分割
+            const paragraphs = text.split('\n\n').filter(p => p.trim());
+            
+            return paragraphs.map((paragraph, index) => {
+                paragraph = paragraph.trim();
+                
+                // 检测是否为标题（短且包含关键词）
+                if (paragraph.length < 100 && (
+                    paragraph.match(/^[A-Z][^.!?]*$/) || // 全大写开头无标点
+                    paragraph.match(/^\d+\./) || // 数字开头
+                    paragraph.includes('Note:') ||
+                    paragraph.includes('Summary:')
+                )) {
+                    return `<div class="article-heading">${paragraph}</div>`;
+                }
+                
+                // 检测引用（包含引号的段落）
+                if (paragraph.includes('"') && paragraph.length < 300) {
+                    return `<div class="quote-text">${paragraph}</div>`;
+                }
+                
+                // 普通段落
+                return `<div class="paragraph-text">${paragraph}</div>`;
+            }).join('');
+        }
+        
+        // HTML转义函数
+        function escapeHtml(text) {
+            const map = {
+                '&': '&amp;',
+                '<': '&lt;',
+                '>': '&gt;',
+                '"': '&quot;',
+                "'": '&#039;'
+            };
+            return text.replace(/[&<>"']/g, function(m) { return map[m]; });
+        }
+        
+        // 渲染单一语言视图
+        function renderSingleView(container, type) {
+            container.innerHTML = '';
+            
+            const sectionDiv = document.createElement('div');
+            sectionDiv.className = 'content-section';
+            
+            
+            articleData.paragraphs.forEach((para, index) => {
+                const text = type === 'original' ? para.original : (para.translated || '翻译中...');
+                const className = type === 'original' ? 'original-text' : 'translated-text';
+                const processedText = processTextContent(text);
+                
+                const paraDiv = document.createElement('div');
+                paraDiv.innerHTML = `<div class="${className}">${processedText}</div>`;
+                sectionDiv.appendChild(paraDiv);
+            });
+            
+            container.appendChild(sectionDiv);
+        }
+        
+        // 模拟翻译（实际应用中会调用翻译API）
+        function simulateTranslation(text) {
+            // 这里应该调用实际的翻译服务
+            return `[翻译] ${text}`;
+        }
+        
+        // 加载文章内容
+        async function loadArticle() {
+            const articleId = getUrlParameter('id');
+            
+            if (!articleId) {
+                showError('未指定文章ID');
+                return;
+            }
+            
+            try {
+                // 首先加载文章列表找到对应文章
+                const articlesResponse = await fetch('data/articles.json');
+                const articles = await articlesResponse.json();
+                const article = articles.find(a => a.filename === articleId);
+                
+                if (!article) {
+                    showError('文章不存在');
+                    return;
+                }
+                
+                // 更新页面标题和元信息
+                document.getElementById('articleTitle').textContent = article.title;
+                document.title = `${article.title} - Paul Graham 文章集`;
+                
+                // 显示中文标题
+                const articleMeta = document.getElementById('articleMeta');
+                if (article.title_zh) {
+                    articleMeta.innerHTML = `<div class="chinese-title">${article.title_zh}</div>`;
+                }
+                
+                // 添加原文链接
+                const originalLink = document.getElementById('originalLink');
+                if (originalLink) {
+                    originalLink.href = article.url;
+                    originalLink.target = '_blank';
+                    originalLink.rel = 'noopener noreferrer';
+                }
+                
+                // 尝试加载已处理的文章数据
+                try {
+                    const dataResponse = await fetch(`data/processed/${articleId.replace('.html', '.json')}`);
+                    const processedData = await dataResponse.json();
+                    
+                    // 转换数据格式以适配前端
+                    if (processedData.paragraphs && Array.isArray(processedData.paragraphs)) {
+                        // 检查是否为已翻译格式（包含original和translated字段）
+                        if (processedData.paragraphs.length > 0 && 
+                            typeof processedData.paragraphs[0] === 'object' && 
+                            'original' in processedData.paragraphs[0]) {
+                            // 已翻译格式
+                            articleData = {
+                                title: processedData.title,
+                                url: processedData.url,
+                                paragraphs: processedData.paragraphs
+                            };
+                        } else {
+                            // 未翻译格式，转换为标准格式
+                            articleData = {
+                                title: processedData.title,
+                                url: processedData.url,
+                                paragraphs: processedData.paragraphs.map(para => ({
+                                    original: para,
+                                    translated: `[待翻译] ${para.substring(0, 50)}...`
+                                }))
+                            };
+                        }
+                    } else if (processedData.content && processedData.content.paragraphs && Array.isArray(processedData.content.paragraphs)) {
+                        // 新格式：content.paragraphs 是字符串数组
+                        articleData = {
+                            title: processedData.title,
+                            url: processedData.url,
+                            paragraphs: processedData.content.paragraphs.map(para => ({
+                                original: para,
+                                translated: `[待翻译] ${para.substring(0, 50)}...`
+                            }))
+                        };
+                    } else {
+                        throw new Error('数据格式不匹配');
+                    }
+                } catch (e) {
+                    console.log('使用旧数据格式或创建占位符:', e.message);
+                    // 如果没有处理过的数据，创建基础结构
+                    articleData = {
+                        title: article.title,
+                        url: article.url,
+                        paragraphs: [
+                            {
+                                original: '文章内容正在处理中，请稍后刷新页面查看完整内容。',
+                                translated: '文章内容正在处理中，请稍后刷新页面查看完整内容。'
+                            }
+                        ]
+                    };
+                }
+                
+                showContent();
+                renderArticleContent();
+                
+            } catch (error) {
+                console.error('加载文章失败:', error);
+                showError('加载失败，请稍后重试');
+            }
+        }
+        
+        function showContent() {
+            document.getElementById('loading').classList.add('hidden');
+            document.getElementById('error').classList.add('hidden');
+            document.getElementById('content').classList.remove('hidden');
+        }
+        
+        function showError(message) {
+            document.getElementById('loading').classList.add('hidden');
+            document.getElementById('error').classList.remove('hidden');
+            document.getElementById('content').classList.add('hidden');
+            document.querySelector('#error p').textContent = message;
+        }
+        
+        // 初始化
+        document.addEventListener('DOMContentLoaded', function() {
+            loadArticle();
+        });
+    </script>
+</body>
+</html>

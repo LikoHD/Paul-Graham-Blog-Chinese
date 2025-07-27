@@ -1,0 +1,124 @@
+{
+  "title": "Subject: Airbnb",
+  "title_zh": "[待翻译] Subject: Airbnb",
+  "url": "https://www.paulgraham.com/airbnb.html",
+  "filename": "airbnb.html",
+  "date": "2011-03-01",
+  "id": 138,
+  "content": {
+    "success": true,
+    "paragraphs": [
+      "March 2011Yesterday Fred Wilson published a remarkable post about missing Airbnb. VCs miss good startups all the time, but it's extraordinarily rare for one to talk about it publicly till long afterward.",
+      "So that post is further evidence what a rare bird Fred is. He's probably the nicest VC I know.Reading Fred's post made me go back and look at the emails I exchanged with him at the time, trying to convince him to invest in Airbnb.",
+      "It was quite interesting to read. You can see Fred's mind at work as he circles the deal.Fred and the Airbnb founders have generously agreed to let me publish this email exchange (with one sentence redacted about something that's strategically important to Airbnb and not an important part of the conversation).",
+      "It's an interesting illustration of an element of the startup ecosystem that few except the participants ever see: investors trying to convince one another to invest in their portfolio companies. Hundreds if not thousands of conversations of this type are happening now, but if one has ever been published, I haven't seen it.",
+      "The Airbnbs themselves never even saw these emails at the time.We do a lot of this behind the scenes stuff at YC, because we invest in such a large number of companies, and we invest so early that investors sometimes need a lot of convincing to see their merits.",
+      "I don't always try as hard as this though. Fred must have found me quite annoying. from: Paul Graham to: Fred Wilson, AirBedAndBreakfast Founders date: Fri, Jan 23, 2009 at 11:42 AM subject: meet the airbedsOne of the startups from the batch that just started, AirbedAndBreakfast, is in NYC right now meeting their users.",
+      "(NYC is their biggest market.) I'd recommend meeting them if your schedule allows.I'd been thinking to myself that though these guys were going to do really well, I should introduce them to angels, because VCs would never go for it.",
+      "But then I thought maybe I should give you more credit. You'll certainly like meeting them. Be sure to ask about how they funded themselves with breakfast cereal.There's no reason this couldn't be as big as Ebay.",
+      "And this team is the right one to do it.--pgfrom: Brian Chesky to: Paul Graham cc: Nathan Blecharczyk, Joe Gebbia date: Fri, Jan 23, 2009 at 11:40 AM subject: Re: meet the airbedsPG,Thanks for the intro!Brianfrom: Paul Graham to: Brian Chesky cc: Nathan Blecharczyk, Joe Gebbia date: Fri, Jan 23, 2009 at 12:38 PM subject: Re: meet the airbedsIt's a longshot, at this stage, but if there was any VC who'd get you guys, it would be Fred.",
+      "He is the least suburban-golf-playing VC I know.He likes to observe startups for a while before acting, so don't be bummed if he seems ambivalent.--pgfrom: Fred Wilson to: Paul Graham, date: Sun, Jan 25, 2009 at 5:28 PM subject: Re: meet the airbedsThanks PaulWe are having a bit of a debate inside our partnership about the airbed concept.",
+      "We'll finish that debate tomorrow in our weekly meeting and get back to you with our thoughtsThanksFredfrom: Paul Graham to: Fred Wilson date: Sun, Jan 25, 2009 at 10:48 PM subject: Re: meet the airbedsI'd recommend having the debate after meeting them instead of before.",
+      "We had big doubts about this idea, but they vanished on meeting the guys.from: Fred Wilson to: Paul Graham date: Mon, Jan 26, 2009 at 11:08 AM subject: RE: meet the airbedsWe are still very suspect of this idea but will take a meeting as you suggestThanksfredfrom: Fred Wilson to: Paul Graham, AirBedAndBreakfast Founders date: Mon, Jan 26, 2009 at 11:09 AM subject: RE: meet the airbedsAirbed team -Are you still in NYC?We'd like to meet if you areThanksfredfrom: Paul Graham to: Fred Wilson date: Mon, Jan 26, 2009 at 1:42 PM subject: Re: meet the airbedsIdeas can morph.",
+      "Practically every really big startup could say, five years later, \"believe it or not, we started out doing ___.\" It just seemed a very good sign to me that these guys were actually on the ground in NYC hunting down (and understanding) their users.",
+      "On top of several previous good signs.--pgfrom: Fred Wilson to: Paul Graham date: Sun, Feb 1, 2009 at 7:15 AM subject: Re: meet the airbedsIt's interestingOur two junior team members were enthusiasticThe three \"old guys\" didn't get itfrom: Paul Graham to: Fred Wilson date: Mon, Feb 9, 2009 at 5:58 PM subject: airbnbThe Airbeds just won the first poll among all the YC startups in their batch by a landslide.",
+      "In the past this has not been a 100% indicator of success (if only anything were) but much better than random.--pgfrom: Fred Wilson to: Paul Graham date: Fri, Feb 13, 2009 at 5:29 PM subject: Re: airbnbI met them todayThey have an interesting businessI'm just not sure how big it's going to befredfrom: Paul Graham to: Fred Wilson date: Sat, Feb 14, 2009 at 9:50 AM subject: Re: airbnbDid they explain the long-term goal of being the market in accommodation the way eBay is in stuff?",
+      "That seems like it would be huge. Hotels now are like airlines in the 1970s before they figured out how to increase their load factors.from: Fred Wilson to: Paul Graham date: Tue, Feb 17, 2009 at 2:05 PM subject: Re: airbnbThey did but I am not sure I buy thatABNB reminds me of Etsy in that it facilitates real commerce in a marketplace model directly between two peopleSo I think it can scale all the way to the bed and breakfast marketBut I am not sure they can take on the hotel marketI could be wrongBut even so, if you include short term room rental, second home rental, bed and breakfast, and other similar classes of accommodations, you get to a pretty big opportunityfredfrom: Paul Graham to: Fred Wilson date: Wed, Feb 18, 2009 at 12:21 AM subject: Re: airbnbSo invest in them!",
+      "They're very capital efficient. They would make an investor's money go a long way.It's also counter-cyclical. They just arrived back from NYC, and when I asked them what was the most significant thing they'd observed, it was how many of their users actually needed to do these rentals to pay their rents.--pgfrom: Fred Wilson to: Paul Graham date: Wed, Feb 18, 2009 at 2:21 AM subject: Re: airbnbThere's a lot to likeI've done a few things, like intro it to my friends at Foundry who were investors in Service Metrics and understand this modelI am also talking to my friend Mark Pincus who had an idea like this a few years ago.So we are working on itThanks for the leadFredfrom: Paul Graham to: Fred Wilson date: Fri, Feb 20, 2009 at 10:00 PM subject: airbnb already spreading to prosI know you're skeptical they'll ever get hotels, but there's a continuum between private sofas and hotel rooms, and they just moved one step further along it.[link to an airbnb user]This is after only a few months.",
+      "I bet you they will get hotels eventually. It will start with small ones. Just wait till all the 10-room pensiones in Rome discover this site. And once it spreads to hotels, where is the point (in size of chain) at which it stops?",
+      "Once something becomes a big marketplace, you ignore it at your peril.--pgfrom: Fred Wilson to: Paul Graham date: Sat, Feb 21, 2009 at 4:26 AM subject: Re: airbnb already spreading to prosThat's true.",
+      "It's also true that there are quite a few marketplaces out there that serve this same marketIf you look at many of the people who list at ABNB, they list elsewhere tooI am not negative on this one, I am interested, but we are still in the gathering data phase.fred"
+    ],
+    "word_count": 1286,
+    "paragraph_count": 20
+  },
+  "processed_at": "2025-07-26T19:05:52.679405",
+  "paragraphs": [
+    {
+      "original": "March 2011Yesterday Fred Wilson published a remarkable post about missing Airbnb. VCs miss good startups all the time, but it's extraordinarily rare for one to talk about it publicly till long afterward.",
+      "translated": "2011年3月，Fred Wilson 发表了一篇关于错失 Airbnb 的引人注目的文章。风险投资家们经常错过好的初创公司，但直到很久以后才公开谈论此事，这极为罕见。"
+    },
+    {
+      "original": "So that post is further evidence what a rare bird Fred is. He's probably the nicest VC I know.Reading Fred's post made me go back and look at the emails I exchanged with him at the time, trying to convince him to invest in Airbnb.",
+      "translated": "所以那篇文章进一步证明了Fred是多么难得的人。他可能是我认识的最和善的风险投资家。读了Fred的文章后，我回去翻看了当时我和他交换的邮件，试图说服他投资Airbnb。"
+    },
+    {
+      "original": "It was quite interesting to read. You can see Fred's mind at work as he circles the deal.Fred and the Airbnb founders have generously agreed to let me publish this email exchange (with one sentence redacted about something that's strategically important to Airbnb and not an important part of the conversation).",
+      "translated": "读起来非常有趣。你可以看到弗雷德在围绕这笔交易动脑筋。弗雷德和Airbnb的创始人慷慨地同意让我发表这封邮件往来（其中有一句话因对Airbnb具有战略重要性且与对话内容无关而被删去）。"
+    },
+    {
+      "original": "It's an interesting illustration of an element of the startup ecosystem that few except the participants ever see: investors trying to convince one another to invest in their portfolio companies. Hundreds if not thousands of conversations of this type are happening now, but if one has ever been published, I haven't seen it.",
+      "translated": "这是一个有趣的插图，展示了创业生态系统中一个很少有人能看到的方面：投资者试图说服彼此投资他们的投资组合公司。现在正在进行的这类对话可能有成百上千次，但即使有此类对话被公开，我也没有见过。"
+    },
+    {
+      "original": "The Airbnbs themselves never even saw these emails at the time.We do a lot of this behind the scenes stuff at YC, because we invest in such a large number of companies, and we invest so early that investors sometimes need a lot of convincing to see their merits.",
+      "translated": "这些邮件当时Airbnb的创始人们根本就没有看到。我们在YC做了很多幕后工作，因为我们投资了大量公司，并且投资得很早，所以有时投资者需要很多说服才能看到这些公司的优点。"
+    },
+    {
+      "original": "I don't always try as hard as this though. Fred must have found me quite annoying. from: Paul Graham to: Fred Wilson, AirBedAndBreakfast Founders date: Fri, Jan 23, 2009 at 11:42 AM subject: meet the airbedsOne of the startups from the batch that just started, AirbedAndBreakfast, is in NYC right now meeting their users.",
+      "translated": "不过我并不总是这么努力。Fred 可能会觉得我很烦。发件人：Paul Graham 收件人：Fred Wilson，AirBedAndBreakfast 创始人 日期：2009年1月23日星期五 11:42 主题：见见AirbedAndBreakfast的团队\n\n刚刚开始的这一批初创公司中，有一家叫AirbedAndBreakfast的，现在正在纽约市与他们的用户会面。"
+    },
+    {
+      "original": "(NYC is their biggest market.) I'd recommend meeting them if your schedule allows.I'd been thinking to myself that though these guys were going to do really well, I should introduce them to angels, because VCs would never go for it.",
+      "translated": "（纽约市是他们最大的市场。）如果您的日程允许，我建议您见见他们。我一直认为，虽然这些人会做得很好，但我应该把他们介绍给天使投资人，因为风险投资公司永远不会看上这个项目。"
+    },
+    {
+      "original": "But then I thought maybe I should give you more credit. You'll certainly like meeting them. Be sure to ask about how they funded themselves with breakfast cereal.There's no reason this couldn't be as big as Ebay.",
+      "translated": "但后来我想也许应该更信任你一些。你一定会喜欢见到他们。一定要问他们是如何通过早餐麦片来筹集资金的。没有理由认为这不能像eBay一样成功。"
+    },
+    {
+      "original": "And this team is the right one to do it.--pgfrom: Brian Chesky to: Paul Graham cc: Nathan Blecharczyk, Joe Gebbia date: Fri, Jan 23, 2009 at 11:40 AM subject: Re: meet the airbedsPG,Thanks for the intro!Brianfrom: Paul Graham to: Brian Chesky cc: Nathan Blecharczyk, Joe Gebbia date: Fri, Jan 23, 2009 at 12:38 PM subject: Re: meet the airbedsIt's a longshot, at this stage, but if there was any VC who'd get you guys, it would be Fred.",
+      "translated": "而这支团队正是合适的人选。--发件人：Brian Chesky 收件人：Paul Graham 抄送：Nathan Blecharczyk, Joe Gebbia 日期：2009年1月23日星期五 11:40 AM 主题：回复：认识airbeds\n\nPG，\n\n感谢介绍！\n\nBrian\n\n发件人：Paul Graham 收件人：Brian Chesky 抄送：Nathan Blecharczyk, Joe Gebbia 日期：2009年1月23日星期五 12:38 PM 主题：回复：认识airbeds\n\n在这个阶段，这可能是个长线投资，但如果说有哪个风险投资家会支持你们，那一定是Fred。"
+    },
+    {
+      "original": "He is the least suburban-golf-playing VC I know.He likes to observe startups for a while before acting, so don't be bummed if he seems ambivalent.--pgfrom: Fred Wilson to: Paul Graham, date: Sun, Jan 25, 2009 at 5:28 PM subject: Re: meet the airbedsThanks PaulWe are having a bit of a debate inside our partnership about the airbed concept.",
+      "translated": "他是我认识的最不像郊区高尔夫球手的风险投资家。他喜欢在采取行动之前先观察一段时间的初创公司，所以如果他显得有些犹豫不决，你也不要太失望。--pg\n来自：Fred Wilson\n收件人：Paul Graham\n日期：2009年1月25日星期日 17:28\n主题：回复：认识Airbeds\n谢谢保罗\n我们合伙内部对Airbeds的概念有一些讨论。"
+    },
+    {
+      "original": "We'll finish that debate tomorrow in our weekly meeting and get back to you with our thoughtsThanksFredfrom: Paul Graham to: Fred Wilson date: Sun, Jan 25, 2009 at 10:48 PM subject: Re: meet the airbedsI'd recommend having the debate after meeting them instead of before.",
+      "translated": "我们将在明天的周会上结束这个讨论，并把我们的想法反馈给你。谢谢，Fred\n发件人：Paul Graham\n收件人：Fred Wilson\n日期：2009年1月25日，周日，晚上10:48\n主题：Re: 见见气垫床\n我建议在见过他们之后再进行讨论，而不是之前。"
+    },
+    {
+      "original": "We had big doubts about this idea, but they vanished on meeting the guys.from: Fred Wilson to: Paul Graham date: Mon, Jan 26, 2009 at 11:08 AM subject: RE: meet the airbedsWe are still very suspect of this idea but will take a meeting as you suggestThanksfredfrom: Fred Wilson to: Paul Graham, AirBedAndBreakfast Founders date: Mon, Jan 26, 2009 at 11:09 AM subject: RE: meet the airbedsAirbed team -Are you still in NYC?We'd like to meet if you areThanksfredfrom: Paul Graham to: Fred Wilson date: Mon, Jan 26, 2009 at 1:42 PM subject: Re: meet the airbedsIdeas can morph.",
+      "translated": "我们对这个想法有很大的疑虑，但在见到这些人之后，疑虑就消失了。发件人：Fred Wilson 收件人：Paul Graham 日期：2009年1月26日星期一 11:08 主题：回复：见见airbeds团队我们仍然对这个想法持怀疑态度，但会按照你的建议安排会面。谢谢Fred发件人：Fred Wilson 收件人：Paul Graham, AirBedAndBreakfast 创始人 日期：2009年1月26日星期一 11:09 主题：回复：见见airbeds团队Airbed团队 -你们还在纽约市吗？如果在的话，我们想见见你们。谢谢Fred发件人：Paul Graham 收件人：Fred Wilson 日期：2009年1月26日星期一 13:42 主题：回复：见见airbeds团队想法是可以演变的。"
+    },
+    {
+      "original": "Practically every really big startup could say, five years later, \"believe it or not, we started out doing ___.\" It just seemed a very good sign to me that these guys were actually on the ground in NYC hunting down (and understanding) their users.",
+      "translated": "几乎每个真正的大初创公司都可以在五年后说：“你可能不会相信，我们最开始是在做___。” 这些人实际上在纽约市实地寻找（并理解）他们的用户，对我来说，这似乎是一个非常积极的信号。"
+    },
+    {
+      "original": "On top of several previous good signs.--pgfrom: Fred Wilson to: Paul Graham date: Sun, Feb 1, 2009 at 7:15 AM subject: Re: meet the airbedsIt's interestingOur two junior team members were enthusiasticThe three \"old guys\" didn't get itfrom: Paul Graham to: Fred Wilson date: Mon, Feb 9, 2009 at 5:58 PM subject: airbnbThe Airbeds just won the first poll among all the YC startups in their batch by a landslide.",
+      "translated": "除了之前的几个好迹象外。--发件人：Fred Wilson 收件人：Paul Graham 日期：2009年2月1日星期日 7:15 AM 主题：回复：见见这些气垫床团队的成员\n很有趣\n我们团队中的两位年轻成员非常热情\n三位“老家伙”却不太理解\n发件人：Paul Graham 收件人：Fred Wilson 日期：2009年2月9日星期一 5:58 PM 主题：Airbnb\nAirbeds 刚刚在他们那批 YC 创业公司中以压倒性优势赢得了第一次投票。"
+    },
+    {
+      "original": "In the past this has not been a 100% indicator of success (if only anything were) but much better than random.--pgfrom: Fred Wilson to: Paul Graham date: Fri, Feb 13, 2009 at 5:29 PM subject: Re: airbnbI met them todayThey have an interesting businessI'm just not sure how big it's going to befredfrom: Paul Graham to: Fred Wilson date: Sat, Feb 14, 2009 at 9:50 AM subject: Re: airbnbDid they explain the long-term goal of being the market in accommodation the way eBay is in stuff?",
+      "translated": "过去这并不是成功的100%指标（如果有什么是的话），但比随机情况要好得多。--pg\n发件人：Fred Wilson\n收件人：Paul Graham\n日期：2009年2月13日星期五 17:29\n主题：回复：airbnb\n我今天见到了他们。\n他们有一个有趣的业务。\n我只是不确定它会变得有多大。\nfred\n发件人：Paul Graham\n收件人：Fred Wilson\n日期：2009年2月14日星期六 09:50\n主题：回复：airbnb\n他们有没有解释他们的长期目标是成为住宿市场的领导者，就像eBay在物品交易中的地位一样？"
+    },
+    {
+      "original": "That seems like it would be huge. Hotels now are like airlines in the 1970s before they figured out how to increase their load factors.from: Fred Wilson to: Paul Graham date: Tue, Feb 17, 2009 at 2:05 PM subject: Re: airbnbThey did but I am not sure I buy thatABNB reminds me of Etsy in that it facilitates real commerce in a marketplace model directly between two peopleSo I think it can scale all the way to the bed and breakfast marketBut I am not sure they can take on the hotel marketI could be wrongBut even so, if you include short term room rental, second home rental, bed and breakfast, and other similar classes of accommodations, you get to a pretty big opportunityfredfrom: Paul Graham to: Fred Wilson date: Wed, Feb 18, 2009 at 12:21 AM subject: Re: airbnbSo invest in them!",
+      "translated": "那看起来会很大。现在的酒店就像1970年代的航空公司，在他们想出如何提高载客率之前。发件人：Fred Wilson 收件人：Paul Graham 日期：2009年2月17日星期二 时间：下午2:05 主题：回复：airbnb他们确实做到了，但我不确定我是否认同这一点。Airbnb让我想到了Etsy，因为它在两个人之间直接促进了真正的交易，采用的是市场模式。所以我认为它可以扩展到整个民宿市场。但我不确定他们能否挑战酒店市场。我可能是错的。但即便如此，如果你包括短期房间出租、第二居所出租、民宿和其他类似的住宿类别，你就会看到一个相当大的机会。Fred发件人：Paul Graham 收件人：Fred Wilson 日期：2009年2月18日星期三 时间：凌晨12:21 主题：回复：airbnb那就投资他们吧！"
+    },
+    {
+      "original": "They're very capital efficient. They would make an investor's money go a long way.It's also counter-cyclical. They just arrived back from NYC, and when I asked them what was the most significant thing they'd observed, it was how many of their users actually needed to do these rentals to pay their rents.--pgfrom: Fred Wilson to: Paul Graham date: Wed, Feb 18, 2009 at 2:21 AM subject: Re: airbnbThere's a lot to likeI've done a few things, like intro it to my friends at Foundry who were investors in Service Metrics and understand this modelI am also talking to my friend Mark Pincus who had an idea like this a few years ago.So we are working on itThanks for the leadFredfrom: Paul Graham to: Fred Wilson date: Fri, Feb 20, 2009 at 10:00 PM subject: airbnb already spreading to prosI know you're skeptical they'll ever get hotels, but there's a continuum between private sofas and hotel rooms, and they just moved one step further along it.[link to an airbnb user]This is after only a few months.",
+      "translated": "他们非常资本高效。能让投资者的资金发挥很大作用。它还具有逆周期性。他们刚从纽约回来，当我问他们观察到的最重要的事情是什么时，他们说了很多用户实际上需要通过这些租赁来支付房租。--pg\n来自：Fred Wilson\n收件人：Paul Graham\n日期：2009年2月18日星期三\n时间：2:21 AM\n主题：Re: airbnb\n有很多值得喜欢的地方\n我已经做了几件事，比如把它介绍给Foundry的朋友们，他们投资了Service Metrics，理解这个模式\n我还在和我的朋友Mark Pincus交谈，他几年前就有过类似的想法。\n所以我们在努力\n感谢你的推荐\nFred\n来自：Paul Graham\n收件人：Fred Wilson\n日期：2009年2月20日星期五\n时间：10:00 PM\n主题：airbnb 已经扩展到专业人士\n我知道你对它们能否吸引酒店持怀疑态度，但在私人沙发和酒店房间之间存在一个连续体，而它们刚刚向前迈出了一步。[链接到一个airbnb用户]\n这仅仅是在几个月之后。"
+    },
+    {
+      "original": "I bet you they will get hotels eventually. It will start with small ones. Just wait till all the 10-room pensiones in Rome discover this site. And once it spreads to hotels, where is the point (in size of chain) at which it stops?",
+      "translated": "我敢打赌，他们最终会进入酒店行业。一开始会从小型酒店开始。只要等到罗马所有10间房的旅店都发现这个网站就知道了。而一旦扩展到酒店，连锁规模达到什么程度才会停止呢？"
+    },
+    {
+      "original": "Once something becomes a big marketplace, you ignore it at your peril.--pgfrom: Fred Wilson to: Paul Graham date: Sat, Feb 21, 2009 at 4:26 AM subject: Re: airbnb already spreading to prosThat's true.",
+      "translated": "一旦某样东西成为一个大型市场，忽视它就会自食其果。--pg来自：Fred Wilson 致：Paul Graham 日期：2009年2月21日星期六 时间：上午4:26 主题：回复：airbnb已经扩展到专业人士\n那是对的。"
+    },
+    {
+      "original": "It's also true that there are quite a few marketplaces out there that serve this same marketIf you look at many of the people who list at ABNB, they list elsewhere tooI am not negative on this one, I am interested, but we are still in the gathering data phase.fred",
+      "translated": "确实，市场上有很多平台服务于这个相同的市场。如果你看看在ABNB上列出的许多房东，他们也会在其他地方列出。我对这个并不持否定态度，我感兴趣，但我们仍然处于收集数据的阶段。fred"
+    }
+  ],
+  "translation_completed": "2025-07-26T23:13:00.782153",
+  "translation_stats": {
+    "total_paragraphs": 20,
+    "success_count": 20,
+    "success_rate": "100.0%"
+  }
+}

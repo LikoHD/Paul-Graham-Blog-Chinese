@@ -1,0 +1,169 @@
+{
+  "title": "The Acceleration of Addictiveness",
+  "title_zh": "[待翻译] The Acceleration of Addictiveness",
+  "url": "https://www.paulgraham.com/addiction.html",
+  "filename": "addiction.html",
+  "date": "2010-07-01",
+  "id": 145,
+  "content": {
+    "success": true,
+    "paragraphs": [
+      "July 2010What hard liquor, cigarettes, heroin, and crack have in common is that they're all more concentrated forms of less addictive predecessors. Most if not all the things we describe as addictive are.",
+      "And the scary thing is, the process that created them is accelerating.We wouldn't want to stop it. It's the same process that cures diseases: technological progress. Technological progress means making things do more of what we want.",
+      "When the thing we want is something we want to want, we consider technological progress good. If some new technique makes solar cells x% more efficient, that seems strictly better. When progress concentrates something we don't want to want — when it transforms opium into heroin — it seems bad.",
+      "But it's the same process at work. [1]No one doubts this process is accelerating, which means increasing numbers of things we like will be transformed into things we like too much. [2]As far as I know there's no word for something we like too much.",
+      "The closest is the colloquial sense of \"addictive.\" That usage has become increasingly common during my lifetime. And it's clear why: there are an increasing number of things we need it for. At the extreme end of the spectrum are crack and meth.",
+      "Food has been transformed by a combination of factory farming and innovations in food processing into something with way more immediate bang for the buck, and you can see the results in any town in America.",
+      "Checkers and solitaire have been replaced by World of Warcraft and FarmVille. TV has become much more engaging, and even so it can't compete with Facebook.The world is more addictive than it was 40 years ago.",
+      "And unless the forms of technological progress that produced these things are subject to different laws than technological progress in general, the world will get more addictive in the next 40 years than it did in the last 40.The next 40 years will bring us some wonderful things.",
+      "I don't mean to imply they're all to be avoided. Alcohol is a dangerous drug, but I'd rather live in a world with wine than one without. Most people can coexist with alcohol; but you have to be careful.",
+      "More things we like will mean more things we have to be careful about.Most people won't, unfortunately. Which means that as the world becomes more addictive, the two senses in which one can live a normal life will be driven ever further apart.",
+      "One sense of \"normal\" is statistically normal: what everyone else does. The other is the sense we mean when we talk about the normal operating range of a piece of machinery: what works best.These two senses are already quite far apart.",
+      "Already someone trying to live well would seem eccentrically abstemious in most of the US. That phenomenon is only going to become more pronounced. You can probably take it as a rule of thumb from now on that if people don't think you're weird, you're living badly.Societies eventually develop antibodies to addictive new things.",
+      "I've seen that happen with cigarettes. When cigarettes first appeared, they spread the way an infectious disease spreads through a previously isolated population. Smoking rapidly became a (statistically) normal thing.",
+      "There were ashtrays everywhere. We had ashtrays in our house when I was a kid, even though neither of my parents smoked. You had to for guests.As knowledge spread about the dangers of smoking, customs changed.",
+      "In the last 20 years, smoking has been transformed from something that seemed totally normal into a rather seedy habit: from something movie stars did in publicity shots to something small huddles of addicts do outside the doors of office buildings.",
+      "A lot of the change was due to legislation, of course, but the legislation couldn't have happened if customs hadn't already changed.It took a while though—on the order of 100 years. And unless the rate at which social antibodies evolve can increase to match the accelerating rate at which technological progress throws off new addictions, we'll be increasingly unable to rely on customs to protect us.",
+      "[3] Unless we want to be canaries in the coal mine of each new addiction—the people whose sad example becomes a lesson to future generations—we'll have to figure out for ourselves what to avoid and how.",
+      "It will actually become a reasonable strategy (or a more reasonable strategy) to suspect everything new.In fact, even that won't be enough. We'll have to worry not just about new things, but also about existing things becoming more addictive.",
+      "That's what bit me. I've avoided most addictions, but the Internet got me because it became addictive while I was using it. [4]Most people I know have problems with Internet addiction. We're all trying to figure out our own customs for getting free of it.",
+      "That's why I don't have an iPhone, for example; the last thing I want is for the Internet to follow me out into the world. [5] My latest trick is taking long hikes. I used to think running was a better form of exercise than hiking because it took less time.",
+      "Now the slowness of hiking seems an advantage, because the longer I spend on the trail, the longer I have to think without interruption.Sounds pretty eccentric, doesn't it? It always will when you're trying to solve problems where there are no customs yet to guide you.",
+      "Maybe I can't plead Occam's razor; maybe I'm simply eccentric. But if I'm right about the acceleration of addictiveness, then this kind of lonely squirming to avoid it will increasingly be the fate of anyone who wants to get things done.",
+      "We'll increasingly be defined by what we say no to. Notes[1] Could you restrict technological progress to areas where you wanted it? Only in a limited way, without becoming a police state. And even then your restrictions would have undesirable side effects.",
+      "\"Good\" and \"bad\" technological progress aren't sharply differentiated, so you'd find you couldn't slow the latter without also slowing the former. And in any case, as Prohibition and the \"war on drugs\" show, bans often do more harm than good.[2] Technology has always been accelerating.",
+      "By Paleolithic standards, technology evolved at a blistering pace in the Neolithic period.[3] Unless we mass produce social customs. I suspect the recent resurgence of evangelical Christianity in the US is partly a reaction to drugs.",
+      "In desperation people reach for the sledgehammer; if their kids won't listen to them, maybe they'll listen to God. But that solution has broader consequences than just getting kids to say no to drugs.",
+      "You end up saying no to science as well. I worry we may be heading for a future in which only a few people plot their own itinerary through no-land, while everyone else books a package tour. Or worse still, has one booked for them by the government.[4] People commonly use the word \"procrastination\" to describe what they do on the Internet.",
+      "It seems to me too mild to describe what's happening as merely not-doing-work. We don't call it procrastination when someone gets drunk instead of working.[5] Several people have told me they like the iPad because it lets them bring the Internet into situations where a laptop would be too conspicuous.",
+      "In other words, it's a hip flask. (This is true of the iPhone too, of course, but this advantage isn't as obvious because it reads as a phone, and everyone's used to those.)Thanks to Sam Altman, Patrick Collison, Jessica Livingston, and Robert Morris for reading drafts of this."
+    ],
+    "word_count": 1253,
+    "paragraph_count": 29
+  },
+  "processed_at": "2025-07-26T19:06:07.552310",
+  "paragraphs": [
+    {
+      "original": "July 2010What hard liquor, cigarettes, heroin, and crack have in common is that they're all more concentrated forms of less addictive predecessors. Most if not all the things we describe as addictive are.",
+      "translated": "2010年7月，烈酒、香烟、海洛因和 crack 的共同点在于，它们都是比其 predecessors 更加浓缩的形式。我们所描述的大多数，如果不是全部的话，成瘾性事物都是如此。"
+    },
+    {
+      "original": "And the scary thing is, the process that created them is accelerating.We wouldn't want to stop it. It's the same process that cures diseases: technological progress. Technological progress means making things do more of what we want.",
+      "translated": "令人害怕的是，创造它们的过程正在加速。我们并不想阻止这一过程。它与治愈疾病的过程相同：技术进步。技术进步意味着让事物更多地按照我们的意愿行事。"
+    },
+    {
+      "original": "When the thing we want is something we want to want, we consider technological progress good. If some new technique makes solar cells x% more efficient, that seems strictly better. When progress concentrates something we don't want to want — when it transforms opium into heroin — it seems bad.",
+      "translated": "当我们想要的东西是我们真正想要的，我们认为技术进步是好的。如果某项新技术使太阳能电池的效率提高了x%，这似乎完全是更好的。当进步集中于我们不希望存在的东西——比如将鸦片转化为海洛因时——它似乎就是坏的。"
+    },
+    {
+      "original": "But it's the same process at work. [1]No one doubts this process is accelerating, which means increasing numbers of things we like will be transformed into things we like too much. [2]As far as I know there's no word for something we like too much.",
+      "translated": "但这一过程仍在起作用。[1]没有人怀疑这一过程正在加速，这意味着我们喜欢的越来越多的东西将会变成我们喜欢得过头的东西。[2]据我所知，对于喜欢得过头的东西，还没有一个专门的词汇。"
+    },
+    {
+      "original": "The closest is the colloquial sense of \"addictive.\" That usage has become increasingly common during my lifetime. And it's clear why: there are an increasing number of things we need it for. At the extreme end of the spectrum are crack and meth.",
+      "translated": "最接近的是“上瘾”这个词的口语用法。这种用法在我有生之年变得越来越普遍。原因也很明显：我们需要用它来描述的东西越来越多。在极端的情况下，有海洛因和冰毒。"
+    },
+    {
+      "original": "Food has been transformed by a combination of factory farming and innovations in food processing into something with way more immediate bang for the buck, and you can see the results in any town in America.",
+      "translated": "食品已经通过工厂化养殖和食品加工的创新，转变成了更具即时性价比的东西，你可以在美国的任何一个城镇看到这一结果。"
+    },
+    {
+      "original": "Checkers and solitaire have been replaced by World of Warcraft and FarmVille. TV has become much more engaging, and even so it can't compete with Facebook.The world is more addictive than it was 40 years ago.",
+      "translated": "跳棋和单人纸牌游戏已经被《魔兽世界》和《开心农场》所取代。电视变得更加引人入胜，即便如此，它仍无法与Facebook竞争。这个世界比40年前更具吸引力。"
+    },
+    {
+      "original": "And unless the forms of technological progress that produced these things are subject to different laws than technological progress in general, the world will get more addictive in the next 40 years than it did in the last 40.The next 40 years will bring us some wonderful things.",
+      "translated": "除非这些技术进步的形式受制于与一般技术进步不同的规律，否则世界在接下来的40年里将比过去40年更加令人上瘾。接下来的40年将带给我们一些美妙的事物。"
+    },
+    {
+      "original": "I don't mean to imply they're all to be avoided. Alcohol is a dangerous drug, but I'd rather live in a world with wine than one without. Most people can coexist with alcohol; but you have to be careful.",
+      "translated": "我并不是说所有的酒都应该避免。酒精是一种危险的药物，但我宁愿生活在一个有葡萄酒的世界里，而不是一个没有葡萄酒的世界。大多数人可以与酒精共存；但你必须小心。"
+    },
+    {
+      "original": "More things we like will mean more things we have to be careful about.Most people won't, unfortunately. Which means that as the world becomes more addictive, the two senses in which one can live a normal life will be driven ever further apart.",
+      "translated": "我们喜欢的东西越多，就意味着我们必须小心的东西越多。不幸的是，大多数人并不会这样去做。这意味着，随着世界变得越来越令人上瘾，人们能够以两种方式过上正常生活之间的差距将会越来越大。"
+    },
+    {
+      "original": "One sense of \"normal\" is statistically normal: what everyone else does. The other is the sense we mean when we talk about the normal operating range of a piece of machinery: what works best.These two senses are already quite far apart.",
+      "translated": "“正常”一词的一个含义是统计上的正常：即大多数人所做的。另一个含义是指我们在谈论机械设备的最佳运行范围时所说的正常：即最理想的工作状态。这两种含义已经相差甚远。"
+    },
+    {
+      "original": "Already someone trying to live well would seem eccentrically abstemious in most of the US. That phenomenon is only going to become more pronounced. You can probably take it as a rule of thumb from now on that if people don't think you're weird, you're living badly.Societies eventually develop antibodies to addictive new things.",
+      "translated": "已经，一个试图生活得很好的人在美国大部分地区看起来会显得异常节制。这种现象只会变得更加明显。从现在起，你大概可以把它作为一个经验法则：如果人们不觉得你怪异，那你就是生活得不好。社会最终会对新的上瘾事物产生抗体。"
+    },
+    {
+      "original": "I've seen that happen with cigarettes. When cigarettes first appeared, they spread the way an infectious disease spreads through a previously isolated population. Smoking rapidly became a (statistically) normal thing.",
+      "translated": "我见过这种情况发生在香烟上。当香烟首次出现时，它们的传播方式就像传染病在先前隔离的人群中传播一样。吸烟迅速成为（统计上）正常的事情。"
+    },
+    {
+      "original": "There were ashtrays everywhere. We had ashtrays in our house when I was a kid, even though neither of my parents smoked. You had to for guests.As knowledge spread about the dangers of smoking, customs changed.",
+      "translated": "到处都是烟灰缸。我小时候家里也有烟灰缸，尽管我的父母都不抽烟。为了客人，你得准备烟灰缸。随着人们对吸烟危害的认识逐渐增加，习俗也发生了变化。"
+    },
+    {
+      "original": "In the last 20 years, smoking has been transformed from something that seemed totally normal into a rather seedy habit: from something movie stars did in publicity shots to something small huddles of addicts do outside the doors of office buildings.",
+      "translated": "在过去的20年里，吸烟已经从一种看似完全正常的行为变成了一种相当不体面的习惯：从电影明星在宣传照中做的事情，变成了小群瘾君子在办公楼门外做的事情。"
+    },
+    {
+      "original": "A lot of the change was due to legislation, of course, but the legislation couldn't have happened if customs hadn't already changed.It took a while though—on the order of 100 years. And unless the rate at which social antibodies evolve can increase to match the accelerating rate at which technological progress throws off new addictions, we'll be increasingly unable to rely on customs to protect us.",
+      "translated": "很多变化当然是由于立法，但如果没有习俗的改变，立法是不可能发生的。这确实花了一些时间——大约100年。而且，除非社会抗体的进化速度能够加快以匹配技术进步带来新瘾癖的加速率，否则我们将越来越无法依赖习俗来保护我们。"
+    },
+    {
+      "original": "[3] Unless we want to be canaries in the coal mine of each new addiction—the people whose sad example becomes a lesson to future generations—we'll have to figure out for ourselves what to avoid and how.",
+      "translated": "[3] 除非我们想成为每种新瘾症的煤矿中的金丝雀——那些悲惨的例子成为后代的教训——否则我们必须自己弄清楚要避免什么以及如何避免。"
+    },
+    {
+      "original": "It will actually become a reasonable strategy (or a more reasonable strategy) to suspect everything new.In fact, even that won't be enough. We'll have to worry not just about new things, but also about existing things becoming more addictive.",
+      "translated": "实际上，怀疑一切新的事物将成为一种合理的策略（或更加合理的策略）。事实上，这还不够。我们不仅需要担心新事物，还要担心现有事物变得更具吸引力。"
+    },
+    {
+      "original": "That's what bit me. I've avoided most addictions, but the Internet got me because it became addictive while I was using it. [4]Most people I know have problems with Internet addiction. We're all trying to figure out our own customs for getting free of it.",
+      "translated": "这就是我中招的原因。我避开了大多数的成瘾行为，但互联网让我上瘾了，因为它在我使用的过程中变得令人难以抗拒。[4]我认识的大多数人都有互联网成瘾的问题。我们都在努力找出自己的方法来摆脱这种成瘾。"
+    },
+    {
+      "original": "That's why I don't have an iPhone, for example; the last thing I want is for the Internet to follow me out into the world. [5] My latest trick is taking long hikes. I used to think running was a better form of exercise than hiking because it took less time.",
+      "translated": "这就是为什么我没有iPhone，例如；我最不想的就是让互联网跟随我进入现实世界。[5] 我最近的秘诀是进行长途徒步。我以前认为跑步比徒步是更好的锻炼方式，因为它花费的时间更少。"
+    },
+    {
+      "original": "Now the slowness of hiking seems an advantage, because the longer I spend on the trail, the longer I have to think without interruption.Sounds pretty eccentric, doesn't it? It always will when you're trying to solve problems where there are no customs yet to guide you.",
+      "translated": "现在，徒步的缓慢似乎成了一种优势，因为我在小径上花费的时间越长，我就有更多不受打扰的时间来思考。听起来挺古怪的，对吧？当你试图解决那些还没有惯例可循的问题时，这总是显得有些奇怪。"
+    },
+    {
+      "original": "Maybe I can't plead Occam's razor; maybe I'm simply eccentric. But if I'm right about the acceleration of addictiveness, then this kind of lonely squirming to avoid it will increasingly be the fate of anyone who wants to get things done.",
+      "translated": "也许我不能援引奥卡姆剃刀原理；也许我仅仅是古怪。但如果我关于上瘾性加速的观点是正确的，那么这种孤独地挣扎以避免上瘾，将会越来越多地成为任何想要有所作为的人的命运。"
+    },
+    {
+      "original": "We'll increasingly be defined by what we say no to. Notes[1] Could you restrict technological progress to areas where you wanted it? Only in a limited way, without becoming a police state. And even then your restrictions would have undesirable side effects.",
+      "translated": "我们将越来越多地被我们说不的事物所定义。注[1] 你能将技术进步限制在你希望的领域吗？只能在有限的范围内，而且不会变成警察国家。即使这样，你的限制也会产生不良的副作用。"
+    },
+    {
+      "original": "\"Good\" and \"bad\" technological progress aren't sharply differentiated, so you'd find you couldn't slow the latter without also slowing the former. And in any case, as Prohibition and the \"war on drugs\" show, bans often do more harm than good.[2] Technology has always been accelerating.",
+      "translated": "“好”与“坏”的技术进步并不是截然分开的，因此你可能会发现，减缓后者的同时也会减缓前者。而且，正如禁酒令和“毒品战争”所显示的那样，禁令往往弊大于利。技术一直在加速发展。"
+    },
+    {
+      "original": "By Paleolithic standards, technology evolved at a blistering pace in the Neolithic period.[3] Unless we mass produce social customs. I suspect the recent resurgence of evangelical Christianity in the US is partly a reaction to drugs.",
+      "translated": "按照旧石器时代的标准，技术在新石器时代以惊人的速度发展。除非我们大规模生产社会习俗，我怀疑美国最近福音派基督教的复兴部分是对毒品问题的反应。"
+    },
+    {
+      "original": "In desperation people reach for the sledgehammer; if their kids won't listen to them, maybe they'll listen to God. But that solution has broader consequences than just getting kids to say no to drugs.",
+      "translated": "在绝望中，人们会求助于大锤；如果他们的孩子不听他们的话，也许他们会听上帝的。但这种解决方法的影响不仅仅局限于让孩子拒绝毒品。"
+    },
+    {
+      "original": "You end up saying no to science as well. I worry we may be heading for a future in which only a few people plot their own itinerary through no-land, while everyone else books a package tour. Or worse still, has one booked for them by the government.[4] People commonly use the word \"procrastination\" to describe what they do on the Internet.",
+      "translated": "你最终也会对科学说不。我担心我们可能会走向一个未来，只有少数人自行规划穿越无人之境的路线，而其他所有人要么预订了套餐旅行，更糟糕的是，由政府为他们预订。人们常用“拖延”这个词来描述他们在互联网上的行为。"
+    },
+    {
+      "original": "It seems to me too mild to describe what's happening as merely not-doing-work. We don't call it procrastination when someone gets drunk instead of working.[5] Several people have told me they like the iPad because it lets them bring the Internet into situations where a laptop would be too conspicuous.",
+      "translated": "把正在发生的事情仅仅描述为不工作，这在我看来太过轻描淡写。当某人选择喝酒而不是工作时，我们不会称之为拖延。[5] 有几个人告诉我，他们喜欢iPad，因为它可以在携带笔记本电脑显得过于显眼的情况下，让他们把互联网带进去。"
+    },
+    {
+      "original": "In other words, it's a hip flask. (This is true of the iPhone too, of course, but this advantage isn't as obvious because it reads as a phone, and everyone's used to those.)Thanks to Sam Altman, Patrick Collison, Jessica Livingston, and Robert Morris for reading drafts of this.",
+      "translated": "换句话说，它就是一个扁酒壶。（当然，iPhone 也是如此，但这一优势并不那么明显，因为它看起来像是一部电话，而大家已经习惯了这种设备。）感谢 Sam Altman、Patrick Collison、Jessica Livingston 和 Robert Morris 阅读本文的草稿。"
+    }
+  ],
+  "translation_completed": "2025-07-26T23:11:58.199811",
+  "translation_stats": {
+    "total_paragraphs": 29,
+    "success_count": 29,
+    "success_rate": "100.0%"
+  }
+}

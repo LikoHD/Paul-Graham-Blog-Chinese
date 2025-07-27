@@ -1,0 +1,64 @@
+{
+  "title": "Why YC",
+  "title_zh": "[待翻译] Why YC",
+  "url": "https://www.paulgraham.com/whyyc.html",
+  "filename": "whyyc.html",
+  "date": "2006-03-01",
+  "id": 194,
+  "content": {
+    "success": true,
+    "paragraphs": [
+      "March 2006, rev August 2009Yesterday one of the founders we funded asked me why we started Y Combinator. Or more precisely, he asked if we'd started YC mainly for fun.Kind of, but not quite. It is enormously fun to be able to work with Rtm and Trevor again.",
+      "I missed that after we sold Viaweb, and for all the years after I always had a background process running, looking for something we could do together. There is definitely an aspect of a band reunion to Y Combinator.",
+      "Every couple days I slip and call it \"Viaweb.\"Viaweb we started very explicitly to make money. I was sick of living from one freelance project to the next, and decided to just work as hard as I could till I'd made enough to solve the problem once and for all.",
+      "Viaweb was sometimes fun, but it wasn't designed for fun, and mostly it wasn't. I'd be surprised if any startup is. All startups are mostly schleps.The real reason we started Y Combinator is neither selfish nor virtuous.",
+      "We didn't start it mainly to make money; we have no idea what our average returns might be, and won't know for years. Nor did we start YC mainly to help out young would-be founders, though we do like the idea, and comfort ourselves occasionally with the thought that if all our investments tank, we will thus have been doing something unselfish.",
+      "(It's oddly nondeterministic.)The real reason we started Y Combinator is one probably only a hacker would understand. We did it because it seems such a great hack. There are thousands of smart people who could start companies and don't, and with a relatively small amount of force applied at just the right place, we can spring on the world a stream of new startups that might otherwise not have existed.In a way this is virtuous, because I think startups are a good thing.",
+      "But really what motivates us is the completely amoral desire that would motivate any hacker who looked at some complex device and realized that with a tiny tweak he could make it run more efficiently.",
+      "In this case, the device is the world's economy, which fortunately happens to be open source."
+    ],
+    "word_count": 370,
+    "paragraph_count": 8
+  },
+  "processed_at": "2025-07-26T19:07:45.099451",
+  "paragraphs": [
+    {
+      "original": "March 2006, rev August 2009Yesterday one of the founders we funded asked me why we started Y Combinator. Or more precisely, he asked if we'd started YC mainly for fun.Kind of, but not quite. It is enormously fun to be able to work with Rtm and Trevor again.",
+      "translated": "2006年3月，2009年8月修订。昨天，我们资助的一位创始人问我为什么我们创办了Y Combinator。或者更确切地说，他问我们是否主要为了好玩而创办了YC。可以说是，但也不完全是。能够再次与Rtm和Trevor一起工作是非常有趣的。"
+    },
+    {
+      "original": "I missed that after we sold Viaweb, and for all the years after I always had a background process running, looking for something we could do together. There is definitely an aspect of a band reunion to Y Combinator.",
+      "translated": "在我们卖掉Viaweb之后，我一直在怀念那种感觉，这些年来我始终在后台运行着一个进程，寻找我们可以一起做的事情。Y Combinator确实有一种乐队重聚的意味。"
+    },
+    {
+      "original": "Every couple days I slip and call it \"Viaweb.\"Viaweb we started very explicitly to make money. I was sick of living from one freelance project to the next, and decided to just work as hard as I could till I'd made enough to solve the problem once and for all.",
+      "translated": "每隔几天我就会不小心叫它“Viaweb”。我们创立Viaweb的目的非常明确，就是为了赚钱。我厌倦了靠一个又一个的自由职业项目过活，决定拼命工作，直到赚到足以一劳永逸地解决这个问题的钱。"
+    },
+    {
+      "original": "Viaweb was sometimes fun, but it wasn't designed for fun, and mostly it wasn't. I'd be surprised if any startup is. All startups are mostly schleps.The real reason we started Y Combinator is neither selfish nor virtuous.",
+      "translated": "Viaweb 有时很有趣，但它并不是为了有趣而设计的，大部分时候并不有趣。我会感到惊讶如果有什么初创公司是有趣的。所有初创公司大部分时间都是辛苦的工作。我们创立 Y Combinator 的真正原因既不是自私的，也不是高尚的。"
+    },
+    {
+      "original": "We didn't start it mainly to make money; we have no idea what our average returns might be, and won't know for years. Nor did we start YC mainly to help out young would-be founders, though we do like the idea, and comfort ourselves occasionally with the thought that if all our investments tank, we will thus have been doing something unselfish.",
+      "translated": "我们并不是主要为了赚钱而开始这项事业的；我们不知道平均回报率会是多少，而且几年内都不会知道。我们创办YC也不是主要为了帮助年轻的创业者，尽管我们喜欢这个想法，并且偶尔会用这样的念头来安慰自己：即使我们所有的投资都失败了，至少我们做了一件无私的事情。"
+    },
+    {
+      "original": "(It's oddly nondeterministic.)The real reason we started Y Combinator is one probably only a hacker would understand. We did it because it seems such a great hack. There are thousands of smart people who could start companies and don't, and with a relatively small amount of force applied at just the right place, we can spring on the world a stream of new startups that might otherwise not have existed.In a way this is virtuous, because I think startups are a good thing.",
+      "translated": "（这奇怪地是非确定性的。）我们创立 Y Combinator 的真正原因可能只有黑客才能理解。我们这样做是因为它看起来是一个绝妙的创意。有成千上万的聪明人可以创办公司却并没有这么做，而通过在恰当的位置施加相对较小的力量，我们可以向世界输送一批原本可能不会存在的新创公司。从某种意义上说，这是有益的，因为我认为新创公司是件好事。"
+    },
+    {
+      "original": "But really what motivates us is the completely amoral desire that would motivate any hacker who looked at some complex device and realized that with a tiny tweak he could make it run more efficiently.",
+      "translated": "但真正驱动我们的是那种完全不涉及道德的欲望，这种欲望会驱使任何黑客在看到某个复杂设备时，意识到只需稍作调整就能使其运行得更高效。"
+    },
+    {
+      "original": "In this case, the device is the world's economy, which fortunately happens to be open source.",
+      "translated": "在这种情况下，这个设备就是世界经济，幸运的是，它是开源的。"
+    }
+  ],
+  "translation_completed": "2025-07-27T12:45:33.763437",
+  "translation_stats": {
+    "total_paragraphs": 8,
+    "success_count": 8,
+    "success_rate": "100.0%"
+  }
+}
