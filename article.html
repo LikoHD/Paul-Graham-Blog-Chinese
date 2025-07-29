@@ -12,13 +12,13 @@
         }
         
         body {
-            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif;
-            line-height: 1.6;
-            color: #24292e;
-            background: #ffffff;
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', system-ui, sans-serif;
+            line-height: 1.5;
+            color: hsl(0 0% 3.9%);
+            background: hsl(0 0% 100%);
             margin: 0;
             padding: 16px;
-            font-size: 16px;
+            font-size: 15px;
         }
         
         .container {
@@ -27,20 +27,20 @@
         }
         
         .header {
-            margin-bottom: 24px;
+            margin-bottom: 20px;
         }
         
         .back-btn {
-            color: #586069;
+            color: hsl(0 0% 45.1%);
             text-decoration: none;
             font-size: 14px;
-            margin-bottom: 16px;
+            margin-bottom: 12px;
             display: inline-block;
+            transition: color 0.2s ease;
         }
         
         .back-btn:hover {
-            color: #24292e;
-            text-decoration: underline;
+            color: hsl(0 0% 3.9%);
         }
         
         .back-btn::before {
@@ -48,17 +48,21 @@
         }
         
         .header-actions {
-            margin-bottom: 24px;
+            margin-bottom: 16px;
+            display: flex;
+            gap: 16px;
+            align-items: center;
         }
         
         .original-link {
-            color: #0366d6;
+            color: hsl(0 0% 45.1%);
             text-decoration: none;
             font-size: 14px;
+            transition: color 0.2s ease;
         }
         
         .original-link:hover {
-            text-decoration: underline;
+            color: hsl(0 0% 3.9%);
         }
         
         .original-link::before {
@@ -66,106 +70,106 @@
         }
         
         .article-title {
-            font-size: 36px;
+            font-size: 28px;
             font-weight: 600;
-            margin-bottom: 4px;
-            line-height: 0.4;
-            color: #24292e;
+            margin-bottom: 8px;
+            line-height: 1.2;
+            color: hsl(0 0% 3.9%);
         }
         
         .article-meta {
-            color: #586069;
-            font-size: 16px;
-            margin-bottom: 32px;
+            color: hsl(0 0% 45.1%);
+            font-size: 15px;
+            margin-bottom: 24px;
         }
         
         .chinese-title {
-            font-size: 28px;
+            font-size: 22px;
             font-weight: 600;
-            margin-bottom: 4px;
-            line-height: 0.6;
-            color: #24292e;
+            margin-bottom: 8px;
+            line-height: 1.3;
+            color: hsl(0 0% 3.9%);
         }
         
         .loading, .error {
             text-align: center;
-            padding: 60px 0;
-            color: #586069;
+            padding: 40px 0;
+            color: hsl(0 0% 45.1%);
         }
         
         .toggle-container {
-            margin-bottom: 32px;
-            border-bottom: 1px solid #e1e4e8;
-            padding-bottom: 16px;
+            margin-bottom: 24px;
+            border-bottom: 1px solid hsl(0 0% 89.8%);
+            padding-bottom: 12px;
         }
         
         .toggle-btn {
             display: inline-block;
-            margin-right: 24px;
+            margin-right: 20px;
             cursor: pointer;
-            color: #586069;
+            color: hsl(0 0% 45.1%);
             text-decoration: none;
-            font-size: 16px;
-            padding-bottom: 8px;
+            font-size: 14px;
+            padding-bottom: 6px;
             border-bottom: 2px solid transparent;
+            transition: all 0.2s ease;
         }
         
         .toggle-btn.active {
-            color: #24292e;
-            border-bottom-color: #0366d6;
-            font-weight: 600;
+            color: hsl(0 0% 3.9%);
+            border-bottom-color: hsl(0 0% 3.9%);
+            font-weight: 500;
         }
         
         .toggle-btn:hover {
-            color: #24292e;
+            color: hsl(0 0% 3.9%);
         }
         
         .content-section {
-            margin-bottom: 32px;
+            margin-bottom: 24px;
         }
         
         .section-title {
-            font-size: 24px;
-            color: #24292e;
-            margin-bottom: 24px;
+            font-size: 20px;
+            color: hsl(0 0% 3.9%);
+            margin-bottom: 16px;
             font-weight: 600;
-            border-bottom: 1px solid #e1e4e8;
-            padding-bottom: 8px;
+            border-bottom: 1px solid hsl(0 0% 89.8%);
+            padding-bottom: 6px;
         }
         
         .parallel-view {
             display: grid;
             grid-template-columns: 1fr 1fr;
-            gap: 32px;
-            margin-bottom: 32px;
+            gap: 24px;
+            margin-bottom: 24px;
         }
         
         .paragraph-pair {
-            margin-bottom: 32px;
+            margin-bottom: 24px;
         }
         
         .language-label {
-            font-size: 12px;
-            font-weight: 600;
-            color: #586069;
-            margin-bottom: 8px;
+            font-size: 11px;
+            font-weight: 500;
+            color: hsl(0 0% 63.9%);
+            margin-bottom: 6px;
             text-transform: uppercase;
             letter-spacing: 0.5px;
         }
         
         .original-text, .translated-text {
-            line-height: 1.7;
-            font-size: 16px;
-            margin-bottom: 16px;
+            line-height: 1.6;
+            font-size: 15px;
+            margin-bottom: 12px;
         }
         
         .original-text {
-            color: #24292e;
+            color: hsl(0 0% 3.9%);
         }
         
         .translated-text {
-            color: #24292e;
-            font-style: pingFang SC;
+            color: hsl(0 0% 3.9%);
         }
         
         .hidden {
@@ -173,33 +177,55 @@
         }
         
         .paragraph-text {
-            margin-bottom: 16px;
-            line-height: 1.7;
+            margin-bottom: 12px;
+            line-height: 1.6;
+        }
+        
+        .article-heading {
+            font-weight: 600;
+            margin-bottom: 8px;
+            color: hsl(0 0% 3.9%);
+        }
+        
+        .quote-text {
+            font-style: italic;
+            color: hsl(0 0% 45.1%);
+            border-left: 3px solid hsl(0 0% 89.8%);
+            padding-left: 12px;
+            margin: 12px 0;
         }
         
         @media (max-width: 768px) {
             body {
                 padding: 12px;
-                font-size: 15px;
+                font-size: 14px;
             }
             
             .article-title {
-                font-size: 28px;
+                font-size: 22px;
+            }
+            
+            .chinese-title {
+                font-size: 18px;
             }
             
             .toggle-btn {
                 display: block;
-                margin: 8px 0;
-                font-size: 15px;
+                margin: 6px 0;
+                font-size: 14px;
             }
             
             .parallel-view {
                 grid-template-columns: 1fr;
-                gap: 24px;
+                gap: 16px;
             }
             
             .original-text, .translated-text {
-                font-size: 15px;
+                font-size: 14px;
+            }
+            
+            .paragraph-pair {
+                margin-bottom: 16px;
             }
         }
     </style>
