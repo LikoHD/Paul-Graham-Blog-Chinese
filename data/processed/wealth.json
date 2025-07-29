@@ -197,727 +197,733 @@
   "paragraphs": [
     {
       "original": "Want to start a startup? Get funded by Y Combinator. May 2004 (This essay was originally published in Hackers & Painters.) If you wanted to get rich, how would you do it? I think your best bet would be to start or join a startup.",
-      "translated": "[待翻译] Want to start a startup? Get funded by Y Combinato..."
+      "translated": "想创业吗？那就争取得到 Y Combinator 的投资吧。2004年5月（本文最初发表于《黑客与画家》。）如果你想要致富，你会怎么做？我认为你最好的选择是创办或加入一家初创公司。"
     },
     {
       "original": "That's been a reliable way to get rich for hundreds of years. The word \"startup\" dates from the 1960s, but what happens in one is very similar to the venture-backed trading voyages of the Middle Ages.Startups usually involve technology, so much so that the phrase \"high-tech startup\" is almost redundant.",
-      "translated": "[待翻译] That's been a reliable way to get rich for hundred..."
+      "translated": "这几百来年一直是可靠的致富之道。“创业公司”这个词始于20世纪60年代，但其所发生的事情与中世纪由风险资本支持的贸易航行非常相似。创业公司通常涉及技术，以至于“高科技创业公司”这个短语几乎成了多余的表述。"
     },
     {
       "original": "A startup is a small company that takes on a hard technical problem.Lots of people get rich knowing nothing more than that. You don't have to know physics to be a good pitcher. But I think it could give you an edge to understand the underlying principles.",
-      "translated": "[待翻译] A startup is a small company that takes on a hard ..."
+      "translated": "创业公司是一家致力于解决复杂技术问题的小公司。许多人仅凭这一点就变得富有。你不需要懂物理也能成为一个好投手。但我觉得，理解其 underlying principles（底层原理）会让你占有优势。"
     },
     {
       "original": "Why do startups have to be small? Will a startup inevitably stop being a startup as it grows larger? And why do they so often work on developing new technology? Why are there so many startups selling new drugs or computer software, and none selling corn oil or laundry detergent?The PropositionEconomically, you can think of a startup as a way to compress your whole working life into a few years.",
-      "translated": "[待翻译] Why do startups have to be small? Will a startup i..."
+      "translated": "为什么初创公司必须很小？随着规模的扩大，初创公司是否会不可避免地不再是一个初创公司？为什么它们如此频繁地致力于开发新技术？为什么有那么多初创公司在销售新药或计算机软件，而没有一家在销售玉米油或洗衣粉？从经济角度来看，你可以将初创公司视为一种将你整个职业生涯压缩到几年之内的方法。"
     },
     {
       "original": "Instead of working at a low intensity for forty years, you work as hard as you possibly can for four. This pays especially well in technology, where you earn a premium for working fast.Here is a brief sketch of the economic proposition.",
-      "translated": "[待翻译] Instead of working at a low intensity for forty ye..."
+      "translated": "与其以低强度工作四十年，你可以在四年内尽你所能地拼命工作。这在技术领域尤其有利可图，因为在那里，快速工作能为你带来额外的报酬。以下是对这一经济命题的简要概述。"
     },
     {
       "original": "If you're a good hacker in your mid twenties, you can get a job paying about $80,000 per year. So on average such a hacker must be able to do at least $80,000 worth of work per year for the company just to break even.",
-      "translated": "[待翻译] If you're a good hacker in your mid twenties, you ..."
+      "translated": "如果你是一位二十多岁的优秀黑客，你可以找到一份年薪约为80,000美元的工作。因此，平均来说，这样的黑客必须每年至少为公司创造80,000美元的价值才能保本。"
     },
     {
       "original": "You could probably work twice as many hours as a corporate employee, and if you focus you can probably get three times as much done in an hour. [1] You should get another multiple of two, at least, by eliminating the drag of the pointy-haired middle manager who would be your boss in a big company.",
-      "translated": "[待翻译] You could probably work twice as many hours as a c..."
+      "translated": "你可能可以比公司员工多工作一倍的时间，如果你专注于工作，每小时可能可以完成三倍的工作量。[1] 通过消除大公司中那些尖头上司带来的拖累，你应该至少还能获得两倍的效率提升。"
     },
     {
       "original": "Then there is one more multiple: how much smarter are you than your job description expects you to be? Suppose another multiple of three. Combine all these multipliers, and I'm claiming you could be 36 times more productive than you're expected to be in a random corporate job.",
-      "translated": "[待翻译] Then there is one more multiple: how much smarter ..."
+      "translated": "然后还有最后一个倍数：你比工作描述所期望的聪明多少？假设这个倍数也是三。将所有这些倍数相乘，我主张你可能比在一般企业职位上所期望的生产力高出36倍。"
     },
     {
       "original": "[2] If a fairly good hacker is worth $80,000 a year at a big company, then a smart hacker working very hard without any corporate bullshit to slow him down should be able to do work worth about $3 million a year.Like all back-of-the-envelope calculations, this one has a lot of wiggle room.",
-      "translated": "[待翻译] [2] If a fairly good hacker is worth $80,000 a yea..."
+      "translated": "如果一个相当不错的黑客在大公司里值8万美元一年，那么一个聪明的黑客努力工作而不受任何公司废话的拖累，应该能够创造出每年约300万美元的价值。像所有粗略的估算一样，这个计算也有很大的误差范围。"
     },
     {
       "original": "I wouldn't try to defend the actual numbers. But I stand by the structure of the calculation. I'm not claiming the multiplier is precisely 36, but it is certainly more than 10, and probably rarely as high as 100.If $3 million a year seems high, remember that we're talking about the limit case: the case where you not only have zero leisure time but indeed work so hard that you endanger your health.Startups are not magic.",
-      "translated": "[待翻译] I wouldn't try to defend the actual numbers. But I..."
+      "translated": "我不会试图为具体的数字辩护。但我支持计算的结构。我并不是说乘数精确地为36，但它肯定超过10，并且可能很少达到100。如果每年300万美元看起来很高，记住我们讨论的是极限情况：不仅没有休闲时间，而且工作如此辛苦以至于危及健康。创业公司并不是魔法。"
     },
     {
       "original": "They don't change the laws of wealth creation. They just represent a point at the far end of the curve. There is a conservation law at work here: if you want to make a million dollars, you have to endure a million dollars' worth of pain.",
-      "translated": "[待翻译] They don't change the laws of wealth creation. The..."
+      "translated": "他们并不会改变财富创造的规律。他们只是代表了曲线的远端。这里有一个守恒法则在起作用：如果你想赚一百万美元，就必须承受相当于一百万美元的痛苦。"
     },
     {
       "original": "For example, one way to make a million dollars would be to work for the Post Office your whole life, and save every penny of your salary. Imagine the stress of working for the Post Office for fifty years.",
-      "translated": "[待翻译] For example, one way to make a million dollars wou..."
+      "translated": "例如，一种赚一百万美元的方法是终生在邮局工作，并且省下你每一分钱的工资。想象一下在邮局工作五十年的压力。"
     },
     {
       "original": "In a startup you compress all this stress into three or four years. You do tend to get a certain bulk discount if you buy the economy-size pain, but you can't evade the fundamental conservation law. If starting a startup were easy, everyone would do it.Millions, not BillionsIf $3 million a year seems high to some people, it will seem low to others.",
-      "translated": "[待翻译] In a startup you compress all this stress into thr..."
+      "translated": "在创业公司里，你会将所有这些压力压缩到三四年的时间里。如果你购买的是经济型的痛苦，确实可以获得一定的批量折扣，但你无法逃避基本的守恒定律。如果创业很容易，每个人都会去做。数百万，而非数十亿如果每年300万美元对某些人来说显得很高，对另一些人来说则显得很低。"
     },
     {
       "original": "Three million? How do I get to be a billionaire, like Bill Gates?So let's get Bill Gates out of the way right now. It's not a good idea to use famous rich people as examples, because the press only write about the very richest, and these tend to be outliers.",
-      "translated": "[待翻译] Three million? How do I get to be a billionaire, l..."
+      "translated": "三百万？我怎么能成为像比尔·盖茨那样的亿万富翁？所以，我们先撇开比尔·盖茨不谈。用著名的有钱人作为例子并不是个好主意，因为媒体只报道最富有的人，而这些人往往是异常值。"
     },
     {
       "original": "Bill Gates is a smart, determined, and hardworking man, but you need more than that to make as much money as he has. You also need to be very lucky.There is a large random factor in the success of any company.",
-      "translated": "[待翻译] Bill Gates is a smart, determined, and hardworking..."
+      "translated": "比尔·盖茨是一个聪明、有决心且勤奋的人，但要像他那样赚那么多钱，还需要更多。你还必须非常幸运。任何公司的成功都有很大的随机因素。"
     },
     {
       "original": "So the guys you end up reading about in the papers are the ones who are very smart, totally dedicated, and win the lottery. Certainly Bill is smart and dedicated, but Microsoft also happens to have been the beneficiary of one of the most spectacular blunders in the history of business: the licensing deal for DOS.",
-      "translated": "[待翻译] So the guys you end up reading about in the papers..."
+      "translated": "所以，最终你在报纸上读到的那些人，都是非常聪明、全身心投入，并且中了彩票的人。比尔确实聪明且投入，但微软也恰好成为了商业史上最为壮观的一次失误的受益者：那就是DOS的许可协议。"
     },
     {
       "original": "No doubt Bill did everything he could to steer IBM into making that blunder, and he has done an excellent job of exploiting it, but if there had been one person with a brain on IBM's side, Microsoft's future would have been very different.",
-      "translated": "[待翻译] No doubt Bill did everything he could to steer IBM..."
+      "translated": "毫无疑问，比尔尽其所能引导IBM犯下那个错误，而他也出色地利用了这个错误，但如果IBM方面有一个有头脑的人，微软的未来将会大不相同。"
     },
     {
       "original": "Microsoft at that stage had little leverage over IBM. They were effectively a component supplier. If IBM had required an exclusive license, as they should have, Microsoft would still have signed the deal.",
-      "translated": "[待翻译] Microsoft at that stage had little leverage over I..."
+      "translated": "在那时，微软对IBM的影响力很小。他们实际上只是一个组件供应商。如果IBM要求独家授权，他们本应该这样做的，微软仍然会签署协议。"
     },
     {
       "original": "It would still have meant a lot of money for them, and IBM could easily have gotten an operating system elsewhere.Instead IBM ended up using all its power in the market to give Microsoft control of the PC standard.",
-      "translated": "[待翻译] It would still have meant a lot of money for them,..."
+      "translated": "这仍然会给他们带来一大笔钱，而且IBM本可以轻易地从其他地方获得一个操作系统。相反，IBM最终利用其在市场上的全部影响力，将PC标准的控制权交给了微软。"
     },
     {
       "original": "From that point, all Microsoft had to do was execute. They never had to bet the company on a bold decision. All they had to do was play hardball with licensees and copy more innovative products reasonably promptly.If IBM hadn't made this mistake, Microsoft would still have been a successful company, but it could not have grown so big so fast.",
-      "translated": "[待翻译] From that point, all Microsoft had to do was execu..."
+      "translated": "从那时起，微软所要做的就是执行。他们从未需要孤注一掷地做出大胆的决定。他们只需要对授权方采取强硬手段，并及时地复制更多创新产品。如果IBM没有犯这个错误，微软仍然会是一家成功的公司，但它不可能如此迅速地发展到如此庞大的规模。"
     },
     {
       "original": "Bill Gates would be rich, but he'd be somewhere near the bottom of the Forbes 400 with the other guys his age.There are a lot of ways to get rich, and this essay is about only one of them. This essay is about how to make money by creating wealth and getting paid for it.",
-      "translated": "[待翻译] Bill Gates would be rich, but he'd be somewhere ne..."
+      "translated": "比尔·盖茨会很富有，但他的财富会在福布斯400强榜单的底部，和其他他这个年纪的人在一起。有很多方法可以致富，而这篇文章只讨论其中的一种。这篇文章讲的是如何通过创造财富并因此获得报酬来赚钱。"
     },
     {
       "original": "There are plenty of other ways to get money, including chance, speculation, marriage, inheritance, theft, extortion, fraud, monopoly, graft, lobbying, counterfeiting, and prospecting. Most of the greatest fortunes have probably involved several of these.The advantage of creating wealth, as a way to get rich, is not just that it's more legitimate (many of the other methods are now illegal) but that it's more straightforward.",
-      "translated": "[待翻译] There are plenty of other ways to get money, inclu..."
+      "translated": "有许多其他获取财富的途径，包括机遇、投机、婚姻、继承、盗窃、勒索、欺诈、垄断、贪污、游说、伪造和勘探。大多数巨额财富很可能涉及其中的几种。通过创造财富来致富的优势不仅在于它更为合法（许多其他方法现在都是非法的），还在于它更为直接。"
     },
     {
       "original": "You just have to do something people want.Money Is Not WealthIf you want to create wealth, it will help to understand what it is. Wealth is not the same thing as money. [3] Wealth is as old as human history.",
-      "translated": "[待翻译] You just have to do something people want.Money Is..."
+      "translated": "你只需要做人们想要的事情。金钱不是财富。如果你想创造财富，理解它是什么会有帮助。财富与金钱并非同一回事。[3] 财富与人类历史一样悠久。"
     },
     {
       "original": "Far older, in fact; ants have wealth. Money is a comparatively recent invention.Wealth is the fundamental thing. Wealth is stuff we want: food, clothes, houses, cars, gadgets, travel to interesting places, and so on.",
-      "translated": "[待翻译] Far older, in fact; ants have wealth. Money is a c..."
+      "translated": "事实上，远古得多；蚂蚁就有财富。货币则是相对较近的发明。财富是根本的东西。财富是我们想要的东西：食物、衣物、房屋、汽车、小玩意儿、去有趣的地方旅行等。"
     },
     {
       "original": "You can have wealth without having money. If you had a magic machine that could on command make you a car or cook you dinner or do your laundry, or do anything else you wanted, you wouldn't need money.",
-      "translated": "[待翻译] You can have wealth without having money. If you h..."
+      "translated": "你可以拥有财富而不拥有金钱。如果你有一台神奇的机器，可以随心所欲地为你制造汽车、烹饪晚餐、清洗衣物，或做任何你想做的事情，你就不再需要金钱。"
     },
     {
       "original": "Whereas if you were in the middle of Antarctica, where there is nothing to buy, it wouldn't matter how much money you had.Wealth is what you want, not money. But if wealth is the important thing, why does everyone talk about making money?",
-      "translated": "[待翻译] Whereas if you were in the middle of Antarctica, w..."
+      "translated": "如果你身处南极洲的中心，那里什么也买不到，那么你有多少钱都无所谓。重要的是财富，而不是金钱。但既然财富才是关键，为什么大家总是谈论赚钱呢？"
     },
     {
       "original": "It is a kind of shorthand: money is a way of moving wealth, and in practice they are usually interchangeable. But they are not the same thing, and unless you plan to get rich by counterfeiting, talking about making money can make it harder to understand how to make money.Money is a side effect of specialization.",
-      "translated": "[待翻译] It is a kind of shorthand: money is a way of movin..."
+      "translated": "这是一种简化的说法：金钱是财富转移的一种方式，在实际操作中它们通常是可互换的。但它们并不是同一件事，除非你打算通过伪造货币来致富，否则谈论赚钱可能会让你更难理解如何赚钱。金钱是专业化的副产品。"
     },
     {
       "original": "In a specialized society, most of the things you need, you can't make for yourself. If you want a potato or a pencil or a place to live, you have to get it from someone else.How do you get the person who grows the potatoes to give you some?",
-      "translated": "[待翻译] In a specialized society, most of the things you n..."
+      "translated": "在一个专业化的社会中，你需要的大部分东西都无法自己制作。如果你想要土豆、铅笔或一个住处，你都得从别人那里获得。那你如何让种植土豆的人给你一些呢？"
     },
     {
       "original": "By giving him something he wants in return. But you can't get very far by trading things directly with the people who need them. If you make violins, and none of the local farmers wants one, how will you eat?The solution societies find, as they get more specialized, is to make the trade into a two-step process.",
-      "translated": "[待翻译] By giving him something he wants in return. But yo..."
+      "translated": "通过给予他所需要的东西作为回报。但是，如果你直接与需要这些物品的人进行交易，你不会走得太远。如果你制作小提琴，而当地没有农民想要一把，那你该怎么吃饭呢？随着社会的专业化程度提高，解决办法是将交易变成一个两步过程。"
     },
     {
       "original": "Instead of trading violins directly for potatoes, you trade violins for, say, silver, which you can then trade again for anything else you need. The intermediate stuff-- the medium of exchange-- can be anything that's rare and portable.",
-      "translated": "[待翻译] Instead of trading violins directly for potatoes, ..."
+      "translated": "与其直接用小提琴换土豆，你可以用小提琴换取银子，然后再用银子换你需要的任何其他东西。这种中介物——交换媒介——可以是任何稀有且便于携带的东西。"
     },
     {
       "original": "Historically metals have been the most common, but recently we've been using a medium of exchange, called the dollar, that doesn't physically exist. It works as a medium of exchange, however, because its rarity is guaranteed by the U.S.",
-      "translated": "[待翻译] Historically metals have been the most common, but..."
+      "translated": "历史上，金属是最常见的（交换媒介），但最近我们使用了一种称为美元的交换媒介，它并不存在实体形式。然而，它之所以能作为交换媒介发挥作用，是因为其稀缺性由美国政府保证。"
     },
     {
       "original": "Government.The advantage of a medium of exchange is that it makes trade work. The disadvantage is that it tends to obscure what trade really means. People think that what a business does is make money.",
-      "translated": "[待翻译] Government.The advantage of a medium of exchange i..."
+      "translated": "政府。交换媒介的优点在于它使贸易得以进行。缺点在于它往往会掩盖贸易的真正含义。人们认为企业所做的就是赚钱。"
     },
     {
       "original": "But money is just the intermediate stage-- just a shorthand-- for whatever people want. What most businesses really do is make wealth. They do something people want. [4]The Pie FallacyA surprising number of people retain from childhood the idea that there is a fixed amount of wealth in the world.",
-      "translated": "[待翻译] But money is just the intermediate stage-- just a ..."
+      "translated": "但金钱只是人们所追求事物的中间阶段——只是个简写而已。大多数企业真正做的其实是创造财富。它们提供人们想要的东西。【4】“馅饼谬误”许多人在童年时期形成了一种观念，认为世界上财富的总量是固定的。"
     },
     {
       "original": "There is, in any normal family, a fixed amount of money at any moment. But that's not the same thing.When wealth is talked about in this context, it is often described as a pie. \"You can't make the pie larger,\" say politicians.",
-      "translated": "[待翻译] There is, in any normal family, a fixed amount of ..."
+      "translated": "在任何普通家庭中，任何时候都有一笔固定数额的钱。但这并不是一回事。当在这个背景下谈论财富时，它常被描述为一个馅饼。“你不能把馅饼做大，”政治家们说。"
     },
     {
       "original": "When you're talking about the amount of money in one family's bank account, or the amount available to a government from one year's tax revenue, this is true. If one person gets more, someone else has to get less.I can remember believing, as a child, that if a few rich people had all the money, it left less for everyone else.",
-      "translated": "[待翻译] When you're talking about the amount of money in o..."
+      "translated": "当你谈论一个家庭的银行账户里的钱，或者政府一年的税收收入时，这一点是正确的。如果一个人得到的更多，另一个人就不得不得到更少。我还记得小时候我曾认为，如果少数富人拥有所有的钱，那么其他人就分得更少了。"
     },
     {
       "original": "Many people seem to continue to believe something like this well into adulthood. This fallacy is usually there in the background when you hear someone talking about how x percent of the population have y percent of the wealth.",
-      "translated": "[待翻译] Many people seem to continue to believe something ..."
+      "translated": "许多人似乎一直抱有这样的观点，直到成年。当你听到有人谈论某百分之多少的人口拥有某百分之多少的财富时，这种谬误通常就隐含在背后。"
     },
     {
       "original": "If you plan to start a startup, then whether you realize it or not, you're planning to disprove the Pie Fallacy.What leads people astray here is the abstraction of money. Money is not wealth. It's just something we use to move wealth around.",
-      "translated": "[待翻译] If you plan to start a startup, then whether you r..."
+      "translated": "如果你打算创办一家初创公司，那么无论你是否意识到，你都在计划推翻“馅饼谬误”。在这里误导人们的是金钱的抽象概念。金钱并不是财富，它只是我们用来转移财富的一种工具。"
     },
     {
       "original": "So although there may be, in certain specific moments (like your family, this month) a fixed amount of money available to trade with other people for things you want, there is not a fixed amount of wealth in the world.",
-      "translated": "[待翻译] So although there may be, in certain specific mome..."
+      "translated": "因此，尽管在某些特定时刻（比如你家这个月）可能有一个固定的金额可以用来与他人交换你想要的东西，但这并不意味着世界上有一个固定的财富总量。"
     },
     {
       "original": "You can make more wealth. Wealth has been getting created and destroyed (but on balance, created) for all of human history.Suppose you own a beat-up old car. Instead of sitting on your butt next summer, you could spend the time restoring your car to pristine condition.",
-      "translated": "[待翻译] You can make more wealth. Wealth has been getting ..."
+      "translated": "你可以创造更多的财富。财富自人类历史以来一直在被创造和摧毁（但总体上是被创造的）。假设你有一辆破旧的旧车。与其明年夏天无所事事，你可以花时间将你的车恢复到完美的状态。"
     },
     {
       "original": "In doing so you create wealth. The world is-- and you specifically are-- one pristine old car the richer. And not just in some metaphorical way. If you sell your car, you'll get more for it.In restoring your old car you have made yourself richer.",
-      "translated": "[待翻译] In doing so you create wealth. The world is-- and ..."
+      "translated": "通过这样做，你创造了财富。世界——尤其是你——多了一辆珍贵的旧车。这不仅仅是某种比喻。如果你卖掉你的车，你会得到更多的钱。在修复你的旧车的过程中，你让自己变得更富有。"
     },
     {
       "original": "You haven't made anyone else poorer. So there is obviously not a fixed pie. And in fact, when you look at it this way, you wonder why anyone would think there was. [5]Kids know, without knowing they know, that they can create wealth.",
-      "translated": "[待翻译] You haven't made anyone else poorer. So there is o..."
+      "translated": "你并没有让其他人变得更穷。所以很明显，财富并不是固定的。事实上，当你这样看时，你会疑惑为什么有人会认为财富是固定的。[5]孩子们在不知道自己知道的情况下，明白他们可以创造财富。"
     },
     {
       "original": "If you need to give someone a present and don't have any money, you make one. But kids are so bad at making things that they consider home-made presents to be a distinct, inferior, sort of thing to store-bought ones-- a mere expression of the proverbial thought that counts.",
-      "translated": "[待翻译] If you need to give someone a present and don't ha..."
+      "translated": "如果你需要送某人礼物而又没有钱，就自己做一份。但是孩子们制作东西的手艺太差，以至于他们认为自制的礼物是一种独特且低劣的物品，与商店里买来的相比，它仅仅表达了那句老话所说的“心意最重要”。"
     },
     {
       "original": "And indeed, the lumpy ashtrays we made for our parents did not have much of a resale market.CraftsmenThe people most likely to grasp that wealth can be created are the ones who are good at making things, the craftsmen.",
-      "translated": "[待翻译] And indeed, the lumpy ashtrays we made for our par..."
+      "translated": "确实，我们为父母做的那些粗糙的烟灰缸并没有多大的转售市场。最有可能理解财富可以被创造出来的人，是那些擅长制作东西的工匠。"
     },
     {
       "original": "Their hand-made objects become store-bought ones. But with the rise of industrialization there are fewer and fewer craftsmen. One of the biggest remaining groups is computer programmers.A programmer can sit down in front of a computer and create wealth.",
-      "translated": "[待翻译] Their hand-made objects become store-bought ones. ..."
+      "translated": "他们手工制作的物品变成了商店里购买的商品。但随着工业化的兴起，工匠越来越少。剩下的最大群体之一是计算机程序员。程序员可以在计算机前坐下，创造财富。"
     },
     {
       "original": "A good piece of software is, in itself, a valuable thing. There is no manufacturing to confuse the issue. Those characters you type are a complete, finished product. If someone sat down and wrote a web browser that didn't suck (a fine idea, by the way), the world would be that much richer.",
-      "translated": "[待翻译] A good piece of software is, in itself, a valuable..."
+      "translated": "一个好的软件本身就是一件有价值的东西。这里没有制造过程来混淆问题。你输入的那些字符就是一件完整的产品。如果有人坐下来写了一个不糟糕的网页浏览器（顺便说一句，这是个好主意），世界就会因此变得更加丰富。"
     },
     {
       "original": "[5b]Everyone in a company works together to create wealth, in the sense of making more things people want. Many of the employees (e.g. the people in the mailroom or the personnel department) work at one remove from the actual making of stuff.",
-      "translated": "[待翻译] [5b]Everyone in a company works together to create..."
+      "translated": "[5b]公司里的每个人都共同努力创造财富，也就是说，生产更多人们需要的东西。许多员工（比如邮件室或人事部门的人员）的工作与实际生产过程相隔一层。"
     },
     {
       "original": "Not the programmers. They literally think the product, one line at a time. And so it's clearer to programmers that wealth is something that's made, rather than being distributed, like slices of a pie, by some imaginary Daddy.It's also obvious to programmers that there are huge variations in the rate at which wealth is created.",
-      "translated": "[待翻译] Not the programmers. They literally think the prod..."
+      "translated": "不是程序员。他们实实在在地思考产品，一行代码接一行代码。因此，对程序员来说，财富是创造出来的，而不是像分蛋糕一样由某个想象中的父亲来分配，这一点更加清晰。对程序员来说，财富创造的速度存在巨大差异，这也是显而易见的。"
     },
     {
       "original": "At Viaweb we had one programmer who was a sort of monster of productivity. I remember watching what he did one long day and estimating that he had added several hundred thousand dollars to the market value of the company.",
-      "translated": "[待翻译] At Viaweb we had one programmer who was a sort of ..."
+      "translated": "在Viaweb，我们有一位程序员，他的生产力堪称惊人。我还记得有一次观察了他一整天的工作，估计他那一天为公司的市值增加了几十万美元。"
     },
     {
       "original": "A great programmer, on a roll, could create a million dollars worth of wealth in a couple weeks. A mediocre programmer over the same period will generate zero or even negative wealth (e.g. by introducing bugs).This is why so many of the best programmers are libertarians.",
-      "translated": "[待翻译] A great programmer, on a roll, could create a mill..."
+      "translated": "一位优秀的程序员，在状态极佳时，可以在几周内创造价值百万美元的财富。而在同一时期，一位平庸的程序员可能根本创造不出任何价值，甚至会产生负价值（例如引入错误）。这正是许多顶尖程序员成为自由主义者的原因。"
     },
     {
       "original": "In our world, you sink or swim, and there are no excuses. When those far removed from the creation of wealth-- undergraduates, reporters, politicians-- hear that the richest 5% of the people have half the total wealth, they tend to think injustice!",
-      "translated": "[待翻译] In our world, you sink or swim, and there are no e..."
+      "translated": "在我们的世界里，要么沉沦要么崛起，没有借口可言。当那些远离财富创造的人——大学生、记者、政客——听到最富有的5%的人拥有总财富的一半时，他们往往会认为这是不公正的！"
     },
     {
       "original": "An experienced programmer would be more likely to think is that all? The top 5% of programmers probably write 99% of the good software.Wealth can be created without being sold. Scientists, till recently at least, effectively donated the wealth they created.",
-      "translated": "[待翻译] An experienced programmer would be more likely to ..."
+      "translated": "一位有经验的程序员可能会想：就这些？顶尖的5%的程序员可能编写了99%的好软件。财富可以被创造而无需出售。至少直到最近，科学家们实际上是在无偿贡献他们所创造的财富。"
     },
     {
       "original": "We are all richer for knowing about penicillin, because we're less likely to die from infections. Wealth is whatever people want, and not dying is certainly something we want. Hackers often donate their work by writing open source software that anyone can use for free.",
-      "translated": "[待翻译] We are all richer for knowing about penicillin, be..."
+      "translated": "我们知道青霉素，因此都变得更富有，因为感染致死的风险降低了。财富是人们所渴望的任何事物，而生存无疑是我们的渴望之一。黑客们经常通过编写开源软件来捐赠他们的工作成果，这些软件任何人都可以免费使用。"
     },
     {
       "original": "I am much the richer for the operating system FreeBSD, which I'm running on the computer I'm using now, and so is Yahoo, which runs it on all their servers.What a Job IsIn industrialized countries, people belong to one institution or another at least until their twenties.",
-      "translated": "[待翻译] I am much the richer for the operating system Free..."
+      "translated": "我因使用FreeBSD操作系统而获益良多，我现在用的电脑上就安装了这个系统，雅虎也在他们所有的服务器上运行这个系统。工作的定义在工业化国家，人们至少在二十岁之前隶属于某个机构。"
     },
     {
       "original": "After all those years you get used to the idea of belonging to a group of people who all get up in the morning, go to some set of buildings, and do things that they do not, ordinarily, enjoy doing. Belonging to such a group becomes part of your identity: name, age, role, institution.",
-      "translated": "[待翻译] After all those years you get used to the idea of ..."
+      "translated": "经过了那么多年，你习惯了属于这样一个群体：大家早上起床，去到某些固定的建筑，做着他们通常并不喜欢做的事情。属于这样一个群体成为了你身份的一部分：姓名、年龄、角色、机构。"
     },
     {
       "original": "If you have to introduce yourself, or someone else describes you, it will be as something like, John Smith, age 10, a student at such and such elementary school, or John Smith, age 20, a student at such and such college.When John Smith finishes school he is expected to get a job.",
-      "translated": "[待翻译] If you have to introduce yourself, or someone else..."
+      "translated": "如果你需要介绍自己，或者别人描述你，可能会是这样的：约翰·史密斯，10岁，就读于某小学，或者约翰·史密斯，20岁，就读于某大学。当约翰·史密斯完成学业后，他预计将找到一份工作。"
     },
     {
       "original": "And what getting a job seems to mean is joining another institution. Superficially it's a lot like college. You pick the companies you want to work for and apply to join them. If one likes you, you become a member of this new group.",
-      "translated": "[待翻译] And what getting a job seems to mean is joining an..."
+      "translated": "而找到工作的意思似乎就是加入另一个机构。表面上，这很像上大学。你选择想为之工作的公司并申请加入。如果有一家公司看中了你，你就会成为这个新团体的一员。"
     },
     {
       "original": "You get up in the morning and go to a new set of buildings, and do things that you do not, ordinarily, enjoy doing. There are a few differences: life is not as much fun, and you get paid, instead of paying, as you did in college.",
-      "translated": "[待翻译] You get up in the morning and go to a new set of b..."
+      "translated": "你早晨起床，去到一组新的建筑里，做一些你通常并不喜欢做的事情。有几点不同：生活不像以前那么有趣了，而且你现在是拿工资，而不是像在大学时那样付费。"
     },
     {
       "original": "But the similarities feel greater than the differences. John Smith is now John Smith, 22, a software developer at such and such corporation.In fact John Smith's life has changed more than he realizes.",
-      "translated": "[待翻译] But the similarities feel greater than the differe..."
+      "translated": "但相似之处似乎大于差异。约翰·史密斯现在是22岁的软件开发者，在某家公司工作。事实上，约翰·史密斯的生活变化比他意识到的要多得多。"
     },
     {
       "original": "Socially, a company looks much like college, but the deeper you go into the underlying reality, the more different it gets.What a company does, and has to do if it wants to continue to exist, is earn money.",
-      "translated": "[待翻译] Socially, a company looks much like college, but t..."
+      "translated": "从表面上看，公司很像大学，但越深入探究其内在本质，两者之间的差异就越明显。公司必须做，而且要想继续存在就必须做的事情，就是赚钱。"
     },
     {
       "original": "And the way most companies make money is by creating wealth. Companies can be so specialized that this similarity is concealed, but it is not only manufacturing companies that create wealth. A big component of wealth is location.",
-      "translated": "[待翻译] And the way most companies make money is by creati..."
+      "translated": "大多数公司通过创造财富来赚钱。公司可能专业化到这种相似性被掩盖，但不仅仅是制造公司创造财富。财富的一个重要组成部分是位置。"
     },
     {
       "original": "Remember that magic machine that could make you cars and cook you dinner and so on? It would not be so useful if it delivered your dinner to a random location in central Asia. If wealth means what people want, companies that move things also create wealth.",
-      "translated": "[待翻译] Remember that magic machine that could make you ca..."
+      "translated": "还记得那台神奇的机器吗？它能为你制造汽车、烹制晚餐等等。但如果它把你的晚餐送到中亚的某个随机地点，就不会那么有用处了。如果财富意味着人们的需求，那么运输公司也在创造财富。"
     },
     {
       "original": "Ditto for many other kinds of companies that don't make anything physical. Nearly all companies exist to do something people want.And that's what you do, as well, when you go to work for a company. But here there is another layer that tends to obscure the underlying reality.",
-      "translated": "[待翻译] Ditto for many other kinds of companies that don't..."
+      "translated": "同样适用于许多不生产实体产品的公司。几乎所有公司都存在是为了做人们想要的事情。当你为一家公司工作时，你也在做这样的事情。但在这里，存在另一层因素，往往会使底层的现实变得模糊。"
     },
     {
       "original": "In a company, the work you do is averaged together with a lot of other people's. You may not even be aware you're doing something people want. Your contribution may be indirect. But the company as a whole must be giving people something they want, or they won't make any money.",
-      "translated": "[待翻译] In a company, the work you do is averaged together..."
+      "translated": "在一家公司里，你的工作会被与其他许多人的工作平均在一起。你甚至可能没有意识到自己正在做人们想要的事情。你的贡献可能是间接的。但公司整体必须提供人们想要的东西，否则他们就赚不到钱。"
     },
     {
       "original": "And if they are paying you x dollars a year, then on average you must be contributing at least x dollars a year worth of work, or the company will be spending more than it makes, and will go out of business.Someone graduating from college thinks, and is told, that he needs to get a job, as if the important thing were becoming a member of an institution.",
-      "translated": "[待翻译] And if they are paying you x dollars a year, then ..."
+      "translated": "如果他们每年支付给你 x 美元，那么平均来说，你必须每年至少贡献价值 x 美元的工作，否则公司将会支出超过收入，最终破产。刚从大学毕业的人会认为，或者被告知，他需要找一份工作，好像成为某个机构的一员才是最重要的事情。"
     },
     {
       "original": "A more direct way to put it would be: you need to start doing something people want. You don't need to join a company to do that. All a company is is a group of people working together to do something people want.",
-      "translated": "[待翻译] A more direct way to put it would be: you need to ..."
+      "translated": "更直接的说法是：你需要开始做一些人们想要的事情。你不需要加入一家公司来做到这一点。公司不过是一群人共同努力去做人们想要的事情。"
     },
     {
       "original": "It's doing something people want that matters, not joining the group. [6]For most people the best plan probably is to go to work for some existing company. But it is a good idea to understand what's happening when you do this.",
-      "translated": "[待翻译] It's doing something people want that matters, not..."
+      "translated": "重要的是做人们想要的事情，而不是加入某个团体。对大多数人来说，最好的计划可能是为某个现有的公司工作。但了解这样做的时候发生了什么是很有好处的。"
     },
     {
       "original": "A job means doing something people want, averaged together with everyone else in that company.Working HarderThat averaging gets to be a problem. I think the single biggest problem afflicting large companies is the difficulty of assigning a value to each person's work.",
-      "translated": "[待翻译] A job means doing something people want, averaged ..."
+      "translated": "工作意味着做人们想要的事情，并且与该公司内的其他人一起平均计算。这种平均计算成了一个难题。我认为，大公司面临的最大问题之一就是难以评估每个人工作的价值。"
     },
     {
       "original": "For the most part they punt. In a big company you get paid a fairly predictable salary for working fairly hard. You're expected not to be obviously incompetent or lazy, but you're not expected to devote your whole life to your work.It turns out, though, that there are economies of scale in how much of your life you devote to your work.",
-      "translated": "[待翻译] For the most part they punt. In a big company you ..."
+      "translated": "大部分情况下他们都是这样做的。在大公司里，你努力工作就能得到相当稳定的工资。人们期望你不要显得明显无能或懒惰，但不期望你把整个生命都投入到工作中。然而，事实证明，你投入到工作中的时间与精力越多，确实能带来规模经济效应。"
     },
     {
       "original": "In the right kind of business, someone who really devoted himself to work could generate ten or even a hundred times as much wealth as an average employee. A programmer, for example, instead of chugging along maintaining and updating an existing piece of software, could write a whole new piece of software, and with it create a new source of revenue.Companies are not set up to reward people who want to do this.",
-      "translated": "[待翻译] In the right kind of business, someone who really ..."
+      "translated": "在合适的业务中，真正投入工作的人可以创造比普通员工多十倍甚至百倍的财富。例如，一名程序员，与其仅仅维持和更新现有的软件，不如编写全新的软件，从而创造新的收入来源。然而，公司并没有设立奖励那些想要这样做的人的机制。"
     },
     {
       "original": "You can't go to your boss and say, I'd like to start working ten times as hard, so will you please pay me ten times as much? For one thing, the official fiction is that you are already working as hard as you can.",
-      "translated": "[待翻译] You can't go to your boss and say, I'd like to sta..."
+      "translated": "你不能对你的上司说，我想开始努力工作十倍，所以请你给我涨十倍的工资？首先，官方的说法是你已经在尽最大努力工作了。"
     },
     {
       "original": "But a more serious problem is that the company has no way of measuring the value of your work.Salesmen are an exception. It's easy to measure how much revenue they generate, and they're usually paid a percentage of it.",
-      "translated": "[待翻译] But a more serious problem is that the company has..."
+      "translated": "但一个更严重的问题是，公司无法衡量你的工作价值。销售人员是一个例外。衡量他们带来的收入多少很容易，而且他们通常会获得一定比例的提成。"
     },
     {
       "original": "If a salesman wants to work harder, he can just start doing it, and he will automatically get paid proportionally more.There is one other job besides sales where big companies can hire first-rate people: in the top management jobs.",
-      "translated": "[待翻译] If a salesman wants to work harder, he can just st..."
+      "translated": "如果一个销售人员想更加努力工作，他可以马上开始这样做，自然就会得到相应的更多报酬。除了销售之外，大公司还能在最高管理层职位上雇佣一流的人才。"
     },
     {
       "original": "And for the same reason: their performance can be measured. The top managers are held responsible for the performance of the entire company. Because an ordinary employee's performance can't usually be measured, he is not expected to do more than put in a solid effort.",
-      "translated": "[待翻译] And for the same reason: their performance can be ..."
+      "translated": "出于同样的原因：他们的表现可以被衡量。高层管理者要为整个公司的表现负责。由于普通员工的表现通常无法衡量，因此只要求他们尽力而为。"
     },
     {
       "original": "Whereas top management, like salespeople, have to actually come up with the numbers. The CEO of a company that tanks cannot plead that he put in a solid effort. If the company does badly, he's done badly.A company that could pay all its employees so straightforwardly would be enormously successful.",
-      "translated": "[待翻译] Whereas top management, like salespeople, have to ..."
+      "translated": "而高层管理人员，像销售人员一样，必须真正拿出成绩。如果公司的业绩糟糕，其首席执行官不能声称自己已经尽力了。如果公司表现不佳，他就做得不好。一个能够如此直接地支付所有员工薪酬的公司将会非常成功。"
     },
     {
       "original": "Many employees would work harder if they could get paid for it. More importantly, such a company would attract people who wanted to work especially hard. It would crush its competitors.Unfortunately, companies can't pay everyone like salesmen.",
-      "translated": "[待翻译] Many employees would work harder if they could get..."
+      "translated": "如果员工能因此获得报酬，许多人都会更加努力工作。更重要的是，这样的公司会吸引那些特别想努力工作的人。它将击败竞争对手。不幸的是，公司不能像支付销售人员那样支付每个人。"
     },
     {
       "original": "Salesmen work alone. Most employees' work is tangled together. Suppose a company makes some kind of consumer gadget. The engineers build a reliable gadget with all kinds of new features; the industrial designers design a beautiful case for it; and then the marketing people convince everyone that it's something they've got to have.",
-      "translated": "[待翻译] Salesmen work alone. Most employees' work is tangl..."
+      "translated": "销售人员独自工作。大多数员工的工作则是相互交织的。假设一家公司生产某种消费电子产品。工程师们设计出一个功能可靠且具备各种新功能的设备；工业设计师为其设计一个美观的外壳；然后营销人员说服所有人这是一款他们必须拥有的产品。"
     },
     {
       "original": "How do you know how much of the gadget's sales are due to each group's efforts? Or, for that matter, how much is due to the creators of past gadgets that gave the company a reputation for quality? There's no way to untangle all their contributions.",
-      "translated": "[待翻译] How do you know how much of the gadget's sales are..."
+      "translated": "你怎么知道装置的销售有多少归功于每个团队的努力？或者说，有多少归功于过去装置的创造者，是他们为公司树立了质量声誉？这一切贡献都无法分开来计算。"
     },
     {
       "original": "Even if you could read the minds of the consumers, you'd find these factors were all blurred together.If you want to go faster, it's a problem to have your work tangled together with a large number of other people's.",
-      "translated": "[待翻译] Even if you could read the minds of the consumers,..."
+      "translated": "即使你能读懂消费者的心思，也会发现这些因素都是混在一起的。如果你想加快速度，那么你的工作与大量其他人的工作纠缠在一起就会成为一个问题。"
     },
     {
       "original": "In a large group, your performance is not separately measurable-- and the rest of the group slows you down.Measurement and LeverageTo get rich you need to get yourself in a situation with two things, measurement and leverage.",
-      "translated": "[待翻译] In a large group, your performance is not separate..."
+      "translated": "在大团队中，你的表现无法单独衡量——而团队的其他成员会拖慢你的速度。要致富，你需要让自己处于两种情况之中：可衡量性和杠杆作用。"
     },
     {
       "original": "You need to be in a position where your performance can be measured, or there is no way to get paid more by doing more. And you have to have leverage, in the sense that the decisions you make have a big effect.Measurement alone is not enough.",
-      "translated": "[待翻译] You need to be in a position where your performanc..."
+      "translated": "你需要处在一个能够衡量你表现的位置，否则再多的努力也无法带来更多的报酬。而且，你需要有影响力，也就是说，你所做的决定会产生重大影响。单有衡量标准是不够的。"
     },
     {
       "original": "An example of a job with measurement but not leverage is doing piecework in a sweatshop. Your performance is measured and you get paid accordingly, but you have no scope for decisions. The only decision you get to make is how fast you work, and that can probably only increase your earnings by a factor of two or three.An example of a job with both measurement and leverage would be lead actor in a movie.",
-      "translated": "[待翻译] An example of a job with measurement but not lever..."
+      "translated": "一个有测量但没有影响力的职位例子是在血汗工厂做计件工作。你的表现会被测量，并据此支付报酬，但你没有决策的空间。你唯一能做的决定就是工作速度有多快，而这可能只会使你的收入增加一倍或两倍。一个既有测量又有影响力的职位例子是电影中的主演。"
     },
     {
       "original": "Your performance can be measured in the gross of the movie. And you have leverage in the sense that your performance can make or break it.CEOs also have both measurement and leverage. They're measured, in that the performance of the company is their performance.",
-      "translated": "[待翻译] Your performance can be measured in the gross of t..."
+      "translated": "你的表现可以通过电影的总票房来衡量。而且，你的表现具有影响力，可以决定电影的成败。CEO们同样既有衡量标准也有影响力。公司的表现就是他们的表现。"
     },
     {
       "original": "And they have leverage in that their decisions set the whole company moving in one direction or another.I think everyone who gets rich by their own efforts will be found to be in a situation with measurement and leverage.",
-      "translated": "[待翻译] And they have leverage in that their decisions set..."
+      "translated": "他们有这种影响力，因为他们的决策能使整个公司向一个方向或另一个方向发展。我认为，所有靠自己努力致富的人都会发现自己处于有度量和杠杆作用的情境之中。"
     },
     {
       "original": "Everyone I can think of does: CEOs, movie stars, hedge fund managers, professional athletes. A good hint to the presence of leverage is the possibility of failure. Upside must be balanced by downside, so if there is big potential for gain there must also be a terrifying possibility of loss.",
-      "translated": "[待翻译] Everyone I can think of does: CEOs, movie stars, h..."
+      "translated": "我想到的每个人都这样做：首席执行官、电影明星、对冲基金经理、职业运动员。杠杆存在的一个好迹象是失败的可能性。上行必须与下行相平衡，因此如果存在巨大的收益潜力，就必须同时存在可怕的损失可能性。"
     },
     {
       "original": "CEOs, stars, fund managers, and athletes all live with the sword hanging over their heads; the moment they start to suck, they're out. If you're in a job that feels safe, you are not going to get rich, because if there is no danger there is almost certainly no leverage.But you don't have to become a CEO or a movie star to be in a situation with measurement and leverage.",
-      "translated": "[待翻译] CEOs, stars, fund managers, and athletes all live ..."
+      "translated": "CEO、明星、基金经理和运动员都生活在悬在头顶的利剑之下；一旦他们开始表现不佳，就会被踢出局。如果你的工作感觉很安全，你就不会变得富有，因为如果没有危险，几乎肯定就没有杠杆作用。但你不必成为CEO或电影明星才能处于有衡量标准和杠杆作用的境地。"
     },
     {
       "original": "All you need to do is be part of a small group working on a hard problem.Smallness = MeasurementIf you can't measure the value of the work done by individual employees, you can get close. You can measure the value of the work done by small groups.One level at which you can accurately measure the revenue generated by employees is at the level of the whole company.",
-      "translated": "[待翻译] All you need to do is be part of a small group wor..."
+      "translated": "你只需要成为解决难题的小团队中的一员。小规模 = 可测量性。如果你无法衡量个别员工工作价值的话，你可以接近这个目标。你可以衡量小团队所完成工作的价值。一个可以准确衡量员工所创造收入的层面是整个公司的层面。"
     },
     {
       "original": "When the company is small, you are thereby fairly close to measuring the contributions of individual employees. A viable startup might only have ten employees, which puts you within a factor of ten of measuring individual effort.Starting or joining a startup is thus as close as most people can get to saying to one's boss, I want to work ten times as hard, so please pay me ten times as much.",
-      "translated": "[待翻译] When the company is small, you are thereby fairly ..."
+      "translated": "当公司规模较小时，你就能相对准确地衡量每个员工的贡献。一个可行的初创公司可能只有十名员工，这意味着你能够较为准确地测量个人的努力程度。因此，创办或加入一家初创公司，对于大多数人来说，几乎等同于对老板说：我想努力工作十倍，所以请支付我十倍的薪酬。"
     },
     {
       "original": "There are two differences: you're not saying it to your boss, but directly to the customers (for whom your boss is only a proxy after all), and you're not doing it individually, but along with a small group of other ambitious people.It will, ordinarily, be a group.",
-      "translated": "[待翻译] There are two differences: you're not saying it to..."
+      "translated": "有两个不同点：你不是对你的老板说，而是直接对客户说（毕竟，你的老板只是客户的代表），而且你不是单独进行，而是和其他一些有抱负的人一起进行。通常，这会是一个小组。"
     },
     {
       "original": "Except in a few unusual kinds of work, like acting or writing books, you can't be a company of one person. And the people you work with had better be good, because it's their work that yours is going to be averaged with.A big company is like a giant galley driven by a thousand rowers.",
-      "translated": "[待翻译] Except in a few unusual kinds of work, like acting..."
+      "translated": "除了少数特殊行业，比如演艺或著书，你无法独自成为一家公司的全部。而且，你合作的人必须是优秀的，因为你的工作将与他们的工作一起被平均评估。大公司就像一艘由一千名桨手驱动的巨型划艇。"
     },
     {
       "original": "Two things keep the speed of the galley down. One is that individual rowers don't see any result from working harder. The other is that, in a group of a thousand people, the average rower is likely to be pretty average.If you took ten people at random out of the big galley and put them in a boat by themselves, they could probably go faster.",
-      "translated": "[待翻译] Two things keep the speed of the galley down. One ..."
+      "translated": "有两件事会减慢帆船的速度。一是单个划手更努力工作也看不到任何效果。二是，在一千人的群体中，平均的划手很可能只是普通水平。如果你随机从大帆船上选出十个人，让他们自己划一艘小船，他们可能会划得更快。"
     },
     {
       "original": "They would have both carrot and stick to motivate them. An energetic rower would be encouraged by the thought that he could have a visible effect on the speed of the boat. And if someone was lazy, the others would be more likely to notice and complain.But the real advantage of the ten-man boat shows when you take the ten best rowers out of the big galley and put them in a boat together.",
-      "translated": "[待翻译] They would have both carrot and stick to motivate ..."
+      "translated": "他们会用胡萝卜和大棒来激励他们。一个充满活力的划手会因为想到自己能对船速产生明显影响而受到鼓舞。如果有人偷懒，其他人更有可能注意到并抱怨。但十人船的真正优势体现在将大船上的十个最佳划手挑选出来放到一起时。"
     },
     {
       "original": "They will have all the extra motivation that comes from being in a small group. But more importantly, by selecting that small a group you can get the best rowers. Each one will be in the top 1%. It's a much better deal for them to average their work together with a small group of their peers than to average it with everyone.That's the real point of startups.",
-      "translated": "[待翻译] They will have all the extra motivation that comes..."
+      "translated": "他们将拥有身处小团队所带来的所有额外动力。但更重要的是，通过选择这样一个小团队，你可以得到最优秀的划手。每个人都会是前1%的精英。对他们来说，与一小群同行一起平均分担工作，比与所有人一起平均分担要好得多。这才是初创公司的真正意义所在。"
     },
     {
       "original": "Ideally, you are getting together with a group of other people who also want to work a lot harder, and get paid a lot more, than they would in a big company. And because startups tend to get founded by self-selecting groups of ambitious people who already know one another (at least by reputation), the level of measurement is more precise than you get from smallness alone.",
-      "translated": "[待翻译] Ideally, you are getting together with a group of ..."
+      "translated": "理想情况下，你会和其他一群同样希望比在大公司工作更努力、收入更高的志同道合者聚在一起。由于初创公司往往是由一群自我选择的、雄心勃勃且彼此（至少在声誉上）已经相互了解的人创立的，因此这种选择的精确度不仅来自于规模小的优势。"
     },
     {
       "original": "A startup is not merely ten people, but ten people like you.Steve Jobs once said that the success or failure of a startup depends on the first ten employees. I agree. If anything, it's more like the first five.",
-      "translated": "[待翻译] A startup is not merely ten people, but ten people..."
+      "translated": "一家创业公司不仅仅是有十个人，而是要有像你这样的十个人。史蒂夫·乔布斯曾说过，创业公司的成败取决于最初的十名员工。我同意这个观点。如果非要说的话，可能更关键的是最初的五个人。"
     },
     {
       "original": "Being small is not, in itself, what makes startups kick butt, but rather that small groups can be select. You don't want small in the sense of a village, but small in the sense of an all-star team.The larger a group, the closer its average member will be to the average for the population as a whole.",
-      "translated": "[待翻译] Being small is not, in itself, what makes startups..."
+      "translated": "小本身并不是让初创公司脱颖而出的原因，而是小团队可以精挑细选。你想要的不是像村庄那样的小，而是像全明星团队那样的小。团队越大，其平均成员就越接近整个人口的平均水平。"
     },
     {
       "original": "So all other things being equal, a very able person in a big company is probably getting a bad deal, because his performance is dragged down by the overall lower performance of the others. Of course, all other things often are not equal: the able person may not care about money, or may prefer the stability of a large company.",
-      "translated": "[待翻译] So all other things being equal, a very able perso..."
+      "translated": "因此，在其他条件相同的情况下，一个在大公司里非常有能力的人可能会得到不好的待遇，因为他的表现被其他整体水平较低的人拉低了。当然，其他条件往往并不相同：有能力的人可能不关心金钱，或者更喜欢大公司的稳定性。"
     },
     {
       "original": "But a very able person who does care about money will ordinarily do better to go off and work with a small group of peers.Technology = LeverageStartups offer anyone a way to be in a situation with measurement and leverage.",
-      "translated": "[待翻译] But a very able person who does care about money w..."
+      "translated": "但是，一个非常有能力且在乎金钱的人通常会更好地选择去和一小群同行一起工作。技术 = 杠杆。创业公司为任何人提供了一种处于有度量和杠杆作用的环境中的方式。"
     },
     {
       "original": "They allow measurement because they're small, and they offer leverage because they make money by inventing new technology.What is technology? It's technique. It's the way we all do things. And when you discover a new way to do things, its value is multiplied by all the people who use it.",
-      "translated": "[待翻译] They allow measurement because they're small, and ..."
+      "translated": "它们可以被测量，因为它们很小，它们能带来影响力，因为它们通过发明新技术来赚钱。什么是技术？技术就是方法，就是我们所有人做事的方式。当你发现一种新的做事方法时，它的价值会被所有使用它的人成倍放大。"
     },
     {
       "original": "It is the proverbial fishing rod, rather than the fish. That's the difference between a startup and a restaurant or a barber shop. You fry eggs or cut hair one customer at a time. Whereas if you solve a technical problem that a lot of people care about, you help everyone who uses your solution.",
-      "translated": "[待翻译] It is the proverbial fishing rod, rather than the ..."
+      "translated": "这就像谚语中的钓鱼竿，而不是鱼。这就是初创企业和餐馆或理发店的区别。你一次只能为一个顾客煎蛋或剪发。而如果你解决了一个许多人都关心的技术问题，你就帮助了所有使用你解决方案的人。"
     },
     {
       "original": "That's leverage.If you look at history, it seems that most people who got rich by creating wealth did it by developing new technology. You just can't fry eggs or cut hair fast enough. What made the Florentines rich in 1200 was the discovery of new techniques for making the high-tech product of the time, fine woven cloth.",
-      "translated": "[待翻译] That's leverage.If you look at history, it seems t..."
+      "translated": "那就是杠杆作用。如果你回顾历史，你会发现大多数通过创造财富而富有的人都是通过开发新技术实现的。你无法通过煎蛋或剪发来快速致富。1200年时，佛罗伦萨人之所以变得富有，是因为他们发现了制造当时高科技产品——精细织物的新技术。"
     },
     {
       "original": "What made the Dutch rich in 1600 was the discovery of shipbuilding and navigation techniques that enabled them to dominate the seas of the Far East.Fortunately there is a natural fit between smallness and solving hard problems.",
-      "translated": "[待翻译] What made the Dutch rich in 1600 was the discovery..."
+      "translated": "1600年让荷兰富裕起来的是发现了造船和航海技术，使他们能够主宰远东的海域。幸运的是，小国有解决难题的天然优势。"
     },
     {
       "original": "The leading edge of technology moves fast. Technology that's valuable today could be worthless in a couple years. Small companies are more at home in this world, because they don't have layers of bureaucracy to slow them down.",
-      "translated": "[待翻译] The leading edge of technology moves fast. Technol..."
+      "translated": "技术的前沿发展迅速。今天有价值的技术可能在几年后就一文不值。小公司在这种环境中更加得心应手，因为它们没有繁冗的官僚层级来拖慢速度。"
     },
     {
       "original": "Also, technical advances tend to come from unorthodox approaches, and small companies are less constrained by convention.Big companies can develop technology. They just can't do it quickly. Their size makes them slow and prevents them from rewarding employees for the extraordinary effort required.",
-      "translated": "[待翻译] Also, technical advances tend to come from unortho..."
+      "translated": "此外，技术进步往往来自于非传统的做法，而小公司较少受传统束缚。大公司也可以开发技术，但他们无法快速做到这一点。他们的规模使他们行动缓慢，并且无法对员工为取得非凡成就所付出的努力给予应有的奖励。"
     },
     {
       "original": "So in practice big companies only get to develop technology in fields where large capital requirements prevent startups from competing with them, like microprocessors, power plants, or passenger aircraft.",
-      "translated": "[待翻译] So in practice big companies only get to develop t..."
+      "translated": "因此，实际上大公司只能在那些需要大量资本投入从而阻止初创企业与其竞争的领域开发技术，比如微处理器、发电厂或乘客飞机。"
     },
     {
       "original": "And even in those fields they depend heavily on startups for components and ideas.It's obvious that biotech or software startups exist to solve hard technical problems, but I think it will also be found to be true in businesses that don't seem to be about technology.",
-      "translated": "[待翻译] And even in those fields they depend heavily on st..."
+      "translated": "即使在这些领域，他们也严重依赖初创企业来提供组件和理念。很明显，生物技术和软件初创企业存在的目的是解决复杂的技术问题，但我认为，在那些看似与技术无关的行业里，这一观点同样成立。"
     },
     {
       "original": "McDonald's, for example, grew big by designing a system, the McDonald's franchise, that could then be reproduced at will all over the face of the earth. A McDonald's franchise is controlled by rules so precise that it is practically a piece of software.",
-      "translated": "[待翻译] McDonald's, for example, grew big by designing a s..."
+      "translated": "例如，麦当劳通过设计一个可以随意在全球复制的系统——麦当劳特许经营体系——而发展壮大。麦当劳的特许经营体系受制于如此精确的规则，几乎可以被视为一种软件。"
     },
     {
       "original": "Write once, run everywhere. Ditto for Wal-Mart. Sam Walton got rich not by being a retailer, but by designing a new kind of store.Use difficulty as a guide not just in selecting the overall aim of your company, but also at decision points along the way.",
-      "translated": "[待翻译] Write once, run everywhere. Ditto for Wal-Mart. Sa..."
+      "translated": "一次编写，处处运行。沃尔玛也是如此。山姆·沃尔顿致富不是靠做零售商，而是通过设计一种新型商店。在选择公司的总体目标时，以及在沿途的决策点上，都应将难度作为指导。"
     },
     {
       "original": "At Viaweb one of our rules of thumb was run upstairs. Suppose you are a little, nimble guy being chased by a big, fat, bully. You open a door and find yourself in a staircase. Do you go up or down? I say up.",
-      "translated": "[待翻译] At Viaweb one of our rules of thumb was run upstai..."
+      "translated": "在Viaweb，我们有一条经验法则叫做“上楼跑”。假设你是一个灵活的小个子，被一个又大又胖的恶霸追赶。你打开一扇门，发现自己在楼梯间。你是往上跑还是往下跑？我说是往上跑。"
     },
     {
       "original": "The bully can probably run downstairs as fast as you can. Going upstairs his bulk will be more of a disadvantage. Running upstairs is hard for you but even harder for him.What this meant in practice was that we deliberately sought hard problems.",
-      "translated": "[待翻译] The bully can probably run downstairs as fast as y..."
+      "translated": "恃强凌弱的人可能和你一样快地跑下楼。上楼时，他的体型就会成为更大的负担。上楼对你来说已经很难，但对他来说更加困难。这意味着在实际中，我们有意去寻找困难的问题。"
     },
     {
       "original": "If there were two features we could add to our software, both equally valuable in proportion to their difficulty, we'd always take the harder one. Not just because it was more valuable, but because it was harder.",
-      "translated": "[待翻译] If there were two features we could add to our sof..."
+      "translated": "如果我们可以在软件中添加两个功能，它们的价值与难度成正比，我们总是会选择更难的那个。不仅因为它更有价值，还因为它更难。"
     },
     {
       "original": "We delighted in forcing bigger, slower competitors to follow us over difficult ground. Like guerillas, startups prefer the difficult terrain of the mountains, where the troops of the central government can't follow.",
-      "translated": "[待翻译] We delighted in forcing bigger, slower competitors..."
+      "translated": "我们乐于迫使更大、更慢的竞争对手跟随我们在艰难的地形上前行。就像游击队一样，初创企业更喜欢山地这样中央政府的部队无法跟随的艰难地形。"
     },
     {
       "original": "I can remember times when we were just exhausted after wrestling all day with some horrible technical problem. And I'd be delighted, because something that was hard for us would be impossible for our competitors.This is not just a good way to run a startup.",
-      "translated": "[待翻译] I can remember times when we were just exhausted a..."
+      "translated": "我还记得那些时候，我们整天与一些可怕的技术问题搏斗后筋疲力尽。而我会感到非常高兴，因为对我们来说困难的事情，对我们的竞争对手来说则是不可能完成的。这不仅仅是一种经营初创企业的良好方式。"
     },
     {
       "original": "It's what a startup is. Venture capitalists know about this and have a phrase for it: barriers to entry. If you go to a VC with a new idea and ask him to invest in it, one of the first things he'll ask is, how hard would this be for someone else to develop?",
-      "translated": "[待翻译] It's what a startup is. Venture capitalists know a..."
+      "translated": "这就是创业公司的本质。风险投资者对此了如指掌，并有一个专门的术语：进入壁垒。如果你带着一个新想法去找风险投资者寻求投资，他最先问的一个问题可能是，其他人开发这个想法的难度有多大？"
     },
     {
       "original": "That is, how much difficult ground have you put between yourself and potential pursuers? [7] And you had better have a convincing explanation of why your technology would be hard to duplicate. Otherwise as soon as some big company becomes aware of it, they'll make their own, and with their brand name, capital, and distribution clout, they'll take away your market overnight.",
-      "translated": "[待翻译] That is, how much difficult ground have you put be..."
+      "translated": "也就是说，你在自己和潜在的追击者之间设置了多少难以逾越的障碍？[7] 你最好有一个令人信服的解释，说明为什么你的技术难以复制。否则，一旦某个大公司意识到这一点，他们就会自己开发，凭借他们的品牌、资金和分销实力，一夜之间就会夺走你的市场。"
     },
     {
       "original": "You'd be like guerillas caught in the open field by regular army forces.One way to put up barriers to entry is through patents. But patents may not provide much protection. Competitors commonly find ways to work around a patent.",
-      "translated": "[待翻译] You'd be like guerillas caught in the open field b..."
+      "translated": "你会像游击队在开阔地带被正规军围困一样。一种设置进入壁垒的方法是通过专利。但专利可能提供的保护有限。竞争对手通常能找到绕过专利的方法。"
     },
     {
       "original": "And if they can't, they may simply violate it and invite you to sue them. A big company is not afraid to be sued; it's an everyday thing for them. They'll make sure that suing them is expensive and takes a long time.",
-      "translated": "[待翻译] And if they can't, they may simply violate it and ..."
+      "translated": "如果他们不行，他们可能会直接违反规定并邀请你起诉他们。大公司并不害怕被起诉；对他们来说这是家常便饭。他们会确保起诉他们既昂贵又耗时。"
     },
     {
       "original": "Ever heard of Philo Farnsworth? He invented television. The reason you've never heard of him is that his company was not the one to make money from it. [8] The company that did was RCA, and Farnsworth's reward for his efforts was a decade of patent litigation.Here, as so often, the best defense is a good offense.",
-      "translated": "[待翻译] Ever heard of Philo Farnsworth? He invented televi..."
+      "translated": "你听说过菲洛·法恩斯沃斯吗？他发明了电视。你没听说过他的原因是他所在的公司并没有从中获利。[8] 获利的是RCA公司，而法恩斯沃斯为他的努力得到的回报是一场长达十年的专利诉讼。在这里，正如在许多其他情况下，最好的防守就是强有力的进攻。"
     },
     {
       "original": "If you can develop technology that's simply too hard for competitors to duplicate, you don't need to rely on other defenses. Start by picking a hard problem, and then at every decision point, take the harder choice.",
-      "translated": "[待翻译] If you can develop technology that's simply too ha..."
+      "translated": "如果你能开发出竞争对手难以复制的技术，你就无需依赖其他防御措施。首先选择一个难题，然后在每一个决策点，选择更难的选项。"
     },
     {
       "original": "[9]The Catch(es)If it were simply a matter of working harder than an ordinary employee and getting paid proportionately, it would obviously be a good deal to start a startup. Up to a point it would be more fun.",
-      "translated": "[待翻译] [9]The Catch(es)If it were simply a matter of work..."
+      "translated": "[9]陷阱如果只是比普通员工更努力工作，并且得到相应的报酬，那么创办一家初创公司显然是一笔好交易。在某种程度上，这会更有趣。"
     },
     {
       "original": "I don't think many people like the slow pace of big companies, the interminable meetings, the water-cooler conversations, the clueless middle managers, and so on.Unfortunately there are a couple catches.",
-      "translated": "[待翻译] I don't think many people like the slow pace of bi..."
+      "translated": "我认为很少有人喜欢大公司的慢节奏、没完没了的会议、茶水间的闲聊、毫无头绪的中层管理者等。不幸的是，这里有几个问题。"
     },
     {
       "original": "One is that you can't choose the point on the curve that you want to inhabit. You can't decide, for example, that you'd like to work just two or three times as hard, and get paid that much more. When you're running a startup, your competitors decide how hard you work.",
-      "translated": "[待翻译] One is that you can't choose the point on the curv..."
+      "translated": "一是你不能选择自己想要占据的曲线上的点。例如，你不能决定自己只比别人多付出两到三倍的努力，从而获得相应的报酬。当你在经营一家创业公司时，你的努力程度是由竞争对手决定的。"
     },
     {
       "original": "And they pretty much all make the same decision: as hard as you possibly can.The other catch is that the payoff is only on average proportionate to your productivity. There is, as I said before, a large random multiplier in the success of any company.",
-      "translated": "[待翻译] And they pretty much all make the same decision: a..."
+      "translated": "他们几乎都做出了同样的决定：尽可能地努力工作。另一个问题是，回报平均而言只与你的生产力成正比。正如我之前所说，任何公司的成功中都有一个很大的随机因素。"
     },
     {
       "original": "So in practice the deal is not that you're 30 times as productive and get paid 30 times as much. It is that you're 30 times as productive, and get paid between zero and a thousand times as much. If the mean is 30x, the median is probably zero.",
-      "translated": "[待翻译] So in practice the deal is not that you're 30 time..."
+      "translated": "所以在实际操作中，情况并不是你 productivity 提高了 30 倍，薪酬也提高了 30 倍。实际情况是你 productivity 提高了 30 倍，但薪酬可能在零到一千倍之间。如果平均值是 30 倍，那么中位数可能接近零。"
     },
     {
       "original": "Most startups tank, and not just the dogfood portals we all heard about during the Internet Bubble. It's common for a startup to be developing a genuinely good product, take slightly too long to do it, run out of money, and have to shut down.A startup is like a mosquito.",
-      "translated": "[待翻译] Most startups tank, and not just the dogfood porta..."
+      "translated": "大多数初创公司都会失败，而不仅仅是我们在互联网泡沫期间听到的那些宠物食品门户网站。初创公司通常在开发真正好的产品时，稍微拖延了一点时间，资金耗尽，最终不得不关闭。初创公司就像一只蚊子。"
     },
     {
       "original": "A bear can absorb a hit and a crab is armored against one, but a mosquito is designed for one thing: to score. No energy is wasted on defense. The defense of mosquitos, as a species, is that there are a lot of them, but this is little consolation to the individual mosquito.Startups, like mosquitos, tend to be an all-or-nothing proposition.",
-      "translated": "[待翻译] A bear can absorb a hit and a crab is armored agai..."
+      "translated": "熊可以承受一击，螃蟹有甲壳保护，但蚊子的设计目标只有一个：得分。它们不会浪费任何能量在防御上。作为物种，蚊子的防御机制是数量众多，但这对个体蚊子来说几乎没有多少安慰。初创企业，像蚊子一样，往往是一个要么全胜要么全输的命题。"
     },
     {
       "original": "And you don't generally know which of the two you're going to get till the last minute. Viaweb came close to tanking several times. Our trajectory was like a sine wave. Fortunately we got bought at the top of the cycle, but it was damned close.",
-      "translated": "[待翻译] And you don't generally know which of the two you'..."
+      "translated": "你通常要到最后一刻才知道会得到哪一种结果。Viaweb 曾几次差点完蛋。我们的发展轨迹就像正弦波一样起伏不定。幸运的是，我们在波峰时被收购了，但那真是险之又险。"
     },
     {
       "original": "While we were visiting Yahoo in California to talk about selling the company to them, we had to borrow a conference room to reassure an investor who was about to back out of a new round of funding that we needed to stay alive.The all-or-nothing aspect of startups was not something we wanted.",
-      "translated": "[待翻译] While we were visiting Yahoo in California to talk..."
+      "translated": "在我们前往加利福尼亚与雅虎商谈出售公司事宜时，不得不借用一个会议室来安抚一位即将退出新一轮融资的投资者，而这一轮融资对我们来说至关重要，关乎公司的存亡。初创企业的这种孤注一掷的局面并不是我们所希望的。"
     },
     {
       "original": "Viaweb's hackers were all extremely risk-averse. If there had been some way just to work super hard and get paid for it, without having a lottery mixed in, we would have been delighted. We would have much preferred a 100% chance of $1 million to a 20% chance of $10 million, even though theoretically the second is worth twice as much.",
-      "translated": "[待翻译] Viaweb's hackers were all extremely risk-averse. I..."
+      "translated": "Viaweb 的黑客们都非常厌恶风险。如果有一种方式可以让他们拼命工作并因此获得报酬，而不需要参与抽奖，他们会非常高兴。我们更倾向于有 100% 的机会获得 100 万美元，而不是 20% 的机会获得 1000 万美元，尽管从理论上讲，后者的价值是前者的两倍。"
     },
     {
       "original": "Unfortunately, there is not currently any space in the business world where you can get the first deal.The closest you can get is by selling your startup in the early stages, giving up upside (and risk) for a smaller but guaranteed payoff.",
-      "translated": "[待翻译] Unfortunately, there is not currently any space in..."
+      "translated": "不幸的是，目前在商界还没有任何地方可以让你获得第一桶金。最接近的方式是在创业初期就出售你的公司，放弃未来的增长潜力（和风险），以换取较小但有保障的回报。"
     },
     {
       "original": "We had a chance to do this, and stupidly, as we then thought, let it slip by. After that we became comically eager to sell. For the next year or so, if anyone expressed the slightest curiosity about Viaweb we would try to sell them the company.",
-      "translated": "[待翻译] We had a chance to do this, and stupidly, as we th..."
+      "translated": "我们曾有机会做到这一点，但当时我们认为自己愚蠢地错过了。从那以后，我们变得可笑地热衷于出售公司。在接下来的一年左右，如果有人对 Viaweb 表现出一点点好奇，我们就会试图把公司卖给他们。"
     },
     {
       "original": "But there were no takers, so we had to keep going.It would have been a bargain to buy us at an early stage, but companies doing acquisitions are not looking for bargains. A company big enough to acquire startups will be big enough to be fairly conservative, and within the company the people in charge of acquisitions will be among the more conservative, because they are likely to be business school types who joined the company late.",
-      "translated": "[待翻译] But there were no takers, so we had to keep going...."
+      "translated": "但没有人愿意接手，所以我们只能继续前进。在早期收购我们本是一笔划算的交易，但进行收购的公司并不是在寻找便宜货。一家大到足以收购初创企业的公司，也会大到足够保守，而在公司内部，负责收购的人通常是更加保守的，因为他们可能是后来加入公司的商学院毕业生。"
     },
     {
       "original": "They would rather overpay for a safe choice. So it is easier to sell an established startup, even at a large premium, than an early-stage one.Get UsersI think it's a good idea to get bought, if you can.",
-      "translated": "[待翻译] They would rather overpay for a safe choice. So it..."
+      "translated": "他们宁愿为一个安全的选择多付钱。因此，与其销售一个早期的初创公司，不如以较高的溢价出售一个已经建立的初创公司。获取用户我认为，如果可以的话，被收购是一个好主意。"
     },
     {
       "original": "Running a business is different from growing one. It is just as well to let a big company take over once you reach cruising altitude. It's also financially wiser, because selling allows you to diversify.",
-      "translated": "[待翻译] Running a business is different from growing one. ..."
+      "translated": "经营企业与扩大企业是两码事。一旦你达到平稳发展阶段，让大公司接手是明智的选择。这样做在财务上也更为明智，因为出售企业可以让你实现资产多元化。"
     },
     {
       "original": "What would you think of a financial advisor who put all his client's assets into one volatile stock?How do you get bought? Mostly by doing the same things you'd do if you didn't intend to sell the company.",
-      "translated": "[待翻译] What would you think of a financial advisor who pu..."
+      "translated": "你认为一个将客户所有资产都投入一只波动性股票的财务顾问怎么样？如何让人购买？主要是通过做那些即使你没有打算出售公司也会做的事情。"
     },
     {
       "original": "Being profitable, for example. But getting bought is also an art in its own right, and one that we spent a lot of time trying to master.Potential buyers will always delay if they can. The hard part about getting bought is getting them to act.",
-      "translated": "[待翻译] Being profitable, for example. But getting bought ..."
+      "translated": "例如，实现盈利。但被收购也是一门艺术，我们花了大量时间试图掌握它。潜在买家总会尽可能拖延。被收购的难处在于如何让他们采取行动。"
     },
     {
       "original": "For most people, the most powerful motivator is not the hope of gain, but the fear of loss. For potential acquirers, the most powerful motivator is the prospect that one of their competitors will buy you.",
-      "translated": "[待翻译] For most people, the most powerful motivator is no..."
+      "translated": "对大多数人来说，最强大的动力不是获得的希望，而是损失的恐惧。对于潜在的收购方而言，最强大的动力是担心他们的竞争对手会收购你。"
     },
     {
       "original": "This, as we found, causes CEOs to take red-eyes. The second biggest is the worry that, if they don't buy you now, you'll continue to grow rapidly and will cost more to acquire later, or even become a competitor.In both cases, what it all comes down to is users.",
-      "translated": "[待翻译] This, as we found, causes CEOs to take red-eyes. T..."
+      "translated": "我们发现，这导致首席执行官们不得不搭乘红眼航班。第二大的担忧是，如果他们现在不收购你，你将会继续快速成长，将来收购成本会更高，甚至可能成为竞争对手。在这两种情况下，归根结底都是用户。"
     },
     {
       "original": "You'd think that a company about to buy you would do a lot of research and decide for themselves how valuable your technology was. Not at all. What they go by is the number of users you have.In effect, acquirers assume the customers know who has the best technology.",
-      "translated": "[待翻译] You'd think that a company about to buy you would ..."
+      "translated": "你可能会认为，一家即将收购你的公司会做大量的研究，并自行决定你的技术有多大的价值。根本不是这样。他们所依据的是你拥有的用户数量。实际上，收购方认为客户知道谁拥有最好的技术。"
     },
     {
       "original": "And this is not as stupid as it sounds. Users are the only real proof that you've created wealth. Wealth is what people want, and if people aren't using your software, maybe it's not just because you're bad at marketing.",
-      "translated": "[待翻译] And this is not as stupid as it sounds. Users are ..."
+      "translated": "这并不像听起来那么愚蠢。用户是你创造财富的唯一真实证明。财富就是人们想要的东西，如果人们不使用你的软件，也许不仅仅是因为你的市场营销做得不好。"
     },
     {
       "original": "Maybe it's because you haven't made what they want.Venture capitalists have a list of danger signs to watch out for. Near the top is the company run by techno-weenies who are obsessed with solving interesting technical problems, instead of making users happy.",
-      "translated": "[待翻译] Maybe it's because you haven't made what they want..."
+      "translated": "也许是因为你还没有做出他们想要的东西。风险投资家有一份需要警惕的危险信号清单。其中排在前列的是，由技术宅们运营的公司，他们沉迷于解决有趣的技术问题，而不是让用户满意。"
     },
     {
       "original": "In a startup, you're not just trying to solve problems. You're trying to solve problems that users care about.So I think you should make users the test, just as acquirers do. Treat a startup as an optimization problem in which performance is measured by number of users.",
-      "translated": "[待翻译] In a startup, you're not just trying to solve prob..."
+      "translated": "在一家初创公司，你不仅仅是在解决问题。你是在解决用户关心的问题。所以我认为你应该把用户作为测试的标准，就像收购者所做的那样。把初创公司看作是一个优化问题，其中性能的衡量标准是用户数量。"
     },
     {
       "original": "As anyone who has tried to optimize software knows, the key is measurement. When you try to guess where your program is slow, and what would make it faster, you almost always guess wrong.Number of users may not be the perfect test, but it will be very close.",
-      "translated": "[待翻译] As anyone who has tried to optimize software knows..."
+      "translated": "任何尝试过优化软件的人都知道，关键在于测量。当你试图猜测你的程序哪里运行得慢，以及如何让它运行得更快时，你几乎总是猜错。用户数量可能不是完美的测试指标，但已经非常接近了。"
     },
     {
       "original": "It's what acquirers care about. It's what revenues depend on. It's what makes competitors unhappy. It's what impresses reporters, and potential new users. Certainly it's a better test than your a priori notions of what problems are important to solve, no matter how technically adept you are.Among other things, treating a startup as an optimization problem will help you avoid another pitfall that VCs worry about, and rightly-- taking a long time to develop a product.",
-      "translated": "[待翻译] It's what acquirers care about. It's what revenues..."
+      "translated": "这是收购方关心的。这是收入所依赖的。这是让竞争对手不满的。这是让记者和潜在新用户印象深刻的地方。当然，这比你先验地认为哪些问题是重要的要解决的问题要好得多，无论你技术多么娴熟。除此之外，将创业公司视为一个优化问题，还有助于你避免另一个让风险投资家担忧的问题——长时间开发产品。"
     },
     {
       "original": "Now we can recognize this as something hackers already know to avoid: premature optimization. Get a version 1.0 out there as soon as you can. Until you have some users to measure, you're optimizing based on guesses.The ball you need to keep your eye on here is the underlying principle that wealth is what people want.",
-      "translated": "[待翻译] Now we can recognize this as something hackers alr..."
+      "translated": "现在我们可以认识到，这正是黑客们早已知道要避免的问题：过早优化。尽快推出1.0版本。在你有一些用户可以测量之前，你的优化都是基于猜测。这里需要关注的核心原则是，财富才是人们追求的目标。"
     },
     {
       "original": "If you plan to get rich by creating wealth, you have to know what people want. So few businesses really pay attention to making customers happy. How often do you walk into a store, or call a company on the phone, with a feeling of dread in the back of your mind?",
-      "translated": "[待翻译] If you plan to get rich by creating wealth, you ha..."
+      "translated": "如果你想通过创造财富来致富，就必须了解人们的需求。很少有企业真正关注让客户满意。你有多少次走进商店或打电话给公司时，心里带着一丝恐惧？"
     },
     {
       "original": "When you hear \"your call is important to us, please stay on the line,\" do you think, oh good, now everything will be all right?A restaurant can afford to serve the occasional burnt dinner. But in technology, you cook one thing and that's what everyone eats.",
-      "translated": "[待翻译] When you hear \"your call is important to us, pleas..."
+      "translated": "当你听到“您的来电对我们很重要，请在线等待”时，你会想，哦，太好了，现在一切都会好起来了吗？一家餐厅可以偶尔提供一顿烧焦的晚餐。但在技术领域，你做的一件事就是所有人要吃的东西。"
     },
     {
       "original": "So any difference between what people want and what you deliver is multiplied. You please or annoy customers wholesale. The closer you can get to what they want, the more wealth you generate.Wealth and PowerMaking wealth is not the only way to get rich.",
-      "translated": "[待翻译] So any difference between what people want and wha..."
+      "translated": "因此，任何顾客需求与你所提供的产品之间的差异都会被放大。你成批量地取悦或惹恼顾客。你越能接近他们的需求，创造的财富就越多。财富与权力创造财富并不是致富的唯一途径。"
     },
     {
       "original": "For most of human history it has not even been the most common. Until a few centuries ago, the main sources of wealth were mines, slaves and serfs, land, and cattle, and the only ways to acquire these rapidly were by inheritance, marriage, conquest, or confiscation.",
-      "translated": "[待翻译] For most of human history it has not even been the..."
+      "translated": "在人类历史的大部分时间里，这种情况甚至都不是最普遍的。几个世纪以前，财富的主要来源是矿产、奴隶和农奴、土地和牲畜，而迅速获得这些财富的唯一途径是通过继承、婚姻、征服或没收。"
     },
     {
       "original": "Naturally wealth had a bad reputation.Two things changed. The first was the rule of law. For most of the world's history, if you did somehow accumulate a fortune, the ruler or his henchmen would find a way to steal it.",
-      "translated": "[待翻译] Naturally wealth had a bad reputation.Two things c..."
+      "translated": "财富自然有着不良的名声。但有两件事情改变了这一状况。第一是法治的建立。在世界历史的大部分时间里，即使你 somehow 积累了财富，统治者或其手下也会找到办法将其夺走。"
     },
     {
       "original": "But in medieval Europe something new happened. A new class of merchants and manufacturers began to collect in towns. [10] Together they were able to withstand the local feudal lord. So for the first time in our history, the bullies stopped stealing the nerds' lunch money.",
-      "translated": "[待翻译] But in medieval Europe something new happened. A n..."
+      "translated": "但在中世纪的欧洲，发生了一件新的事情。一个新的商人和制造商阶层开始在城镇聚集。[10] 他们共同能够抵抗当地的封建领主。因此，在我们的历史上第一次，恶霸不再抢夺书呆子的午餐钱。"
     },
     {
       "original": "This was naturally a great incentive, and possibly indeed the main cause of the second big change, industrialization.A great deal has been written about the causes of the Industrial Revolution. But surely a necessary, if not sufficient, condition was that people who made fortunes be able to enjoy them in peace.",
-      "translated": "[待翻译] This was naturally a great incentive, and possibly..."
+      "translated": "这自然是一个巨大的激励，也可能是第二次重大变革——工业化的主要原因。关于工业革命的原因，已经写了很多。但可以肯定的是，一个必要条件（即使不是充分条件）是，发财的人能够安心享受他们的财富。"
     },
     {
       "original": "[11] One piece of evidence is what happened to countries that tried to return to the old model, like the Soviet Union, and to a lesser extent Britain under the labor governments of the 1960s and early 1970s.",
-      "translated": "[待翻译] [11] One piece of evidence is what happened to cou..."
+      "translated": "[11] 一个证据是那些试图回归旧模式的国家所发生的情况，比如苏联，以及在较小程度上，20世纪60年代和70年代初期工党政府统治下的英国。"
     },
     {
       "original": "Take away the incentive of wealth, and technical innovation grinds to a halt.Remember what a startup is, economically: a way of saying, I want to work faster. Instead of accumulating money slowly by being paid a regular wage for fifty years, I want to get it over with as soon as possible.",
-      "translated": "[待翻译] Take away the incentive of wealth, and technical i..."
+      "translated": "取消财富的激励，技术创新就会停滞不前。记住，从经济角度来看，创业公司意味着：我想更快地工作。我不想用五十年的时间通过领取固定工资慢慢积累财富，而是希望尽快完成这一过程。"
     },
     {
       "original": "So governments that forbid you to accumulate wealth are in effect decreeing that you work slowly. They're willing to let you earn $3 million over fifty years, but they're not willing to let you work so hard that you can do it in two.",
-      "translated": "[待翻译] So governments that forbid you to accumulate wealt..."
+      "translated": "因此，禁止你积累财富的政府实际上是在命令你缓慢工作。他们愿意让你在五十年内赚取300万美元，但他们不愿意让你如此努力地工作，以至于你可以在两年内完成。"
     },
     {
       "original": "They are like the corporate boss that you can't go to and say, I want to work ten times as hard, so please pay me ten times a much. Except this is not a boss you can escape by starting your own company.The problem with working slowly is not just that technical innovation happens slowly.",
-      "translated": "[待翻译] They are like the corporate boss that you can't go..."
+      "translated": "他们就像你无法去说“我想努力工作十倍，请给我十倍薪酬”的公司老板。但不同的是，你无法通过自己创业来摆脱这个老板。工作缓慢的问题不仅在于技术创新进展缓慢。"
     },
     {
       "original": "It's that it tends not to happen at all. It's only when you're deliberately looking for hard problems, as a way to use speed to the greatest advantage, that you take on this kind of project. Developing new technology is a pain in the ass.",
-      "translated": "[待翻译] It's that it tends not to happen at all. It's only..."
+      "translated": "这种情况往往根本不会发生。只有当你刻意寻找难题，以此作为最大限度发挥速度优势的方式时，你才会承担这种项目。开发新技术是一件非常麻烦的事。"
     },
     {
       "original": "It is, as Edison said, one percent inspiration and ninety-nine percent perspiration. Without the incentive of wealth, no one wants to do it. Engineers will work on sexy projects like fighter planes and moon rockets for ordinary salaries, but more mundane technologies like light bulbs or semiconductors have to be developed by entrepreneurs.Startups are not just something that happened in Silicon Valley in the last couple decades.",
-      "translated": "[待翻译] It is, as Edison said, one percent inspiration and..."
+      "translated": "正如爱迪生所说，这是百分之一的灵感加上百分之九十九的汗水。没有财富的激励，没有人愿意去做。工程师们会为了普通的薪水去从事像战斗机和登月火箭这样吸引人的项目，但像电灯泡或半导体这样更为普通的科技则需要由企业家来开发。创业公司并不仅仅是过去几十年在硅谷发生的事情。"
     },
     {
       "original": "Since it became possible to get rich by creating wealth, everyone who has done it has used essentially the same recipe: measurement and leverage, where measurement comes from working with a small group, and leverage from developing new techniques.",
-      "translated": "[待翻译] Since it became possible to get rich by creating w..."
+      "translated": "自从通过创造财富来致富成为可能以来，每个实现这一目标的人都使用了基本上相同的配方：测量和杠杆，其中测量来自与小团队合作，而杠杆则来自开发新技术。"
     },
     {
       "original": "The recipe was the same in Florence in 1200 as it is in Santa Clara today.Understanding this may help to answer an important question: why Europe grew so powerful. Was it something about the geography of Europe?",
-      "translated": "[待翻译] The recipe was the same in Florence in 1200 as it ..."
+      "translated": "这个食谱在1200年的佛罗伦萨和今天的圣克拉拉是一样的。理解这一点或许有助于回答一个重要的问题：为什么欧洲变得如此强大。这是与欧洲的地理有关吗？"
     },
     {
       "original": "Was it that Europeans are somehow racially superior? Was it their religion? The answer (or at least the proximate cause) may be that the Europeans rode on the crest of a powerful new idea: allowing those who made a lot of money to keep it.Once you're allowed to do that, people who want to get rich can do it by generating wealth instead of stealing it.",
-      "translated": "[待翻译] Was it that Europeans are somehow racially superio..."
+      "translated": "是不是因为欧洲人种族上 somehow 优越？是不是因为他们的宗教？答案（或者至少是直接原因）可能是欧洲人站在了一个强有力的新思想的浪尖上：让那些赚了很多钱的人能够保留他们的财富。一旦允许这样做，那些想变得富有的人就可以通过创造财富而不是窃取财富来实现目标。"
     },
     {
       "original": "The resulting technological growth translates not only into wealth but into military power. The theory that led to the stealth plane was developed by a Soviet mathematician. But because the Soviet Union didn't have a computer industry, it remained for them a theory; they didn't have hardware capable of executing the calculations fast enough to design an actual airplane.In that respect the Cold War teaches the same lesson as World War II and, for that matter, most wars in recent history.",
-      "translated": "[待翻译] The resulting technological growth translates not ..."
+      "translated": "技术的增长不仅转化为财富，还转化为军事力量。导致隐形飞机的理论是由一位苏联数学家发展起来的。但由于苏联没有计算机产业，这一理论对他们来说仅停留在理论阶段；他们没有能够快速执行计算以设计实际飞机的硬件。在这方面，冷战与第二次世界大战以及近代史上的大多数战争一样，提供了相同的教训。"
     },
     {
       "original": "Don't let a ruling class of warriors and politicians squash the entrepreneurs. The same recipe that makes individuals rich makes countries powerful. Let the nerds keep their lunch money, and you rule the world.Notes[1] One valuable thing you tend to get only in startups is uninterruptability.",
-      "translated": "[待翻译] Don't let a ruling class of warriors and politicia..."
+      "translated": "不要让武士和政客组成的统治阶级压制企业家。使个人致富的同样配方也能使国家强大。让书呆子保住他们的午餐钱，你就能统治世界。注[1] 在初创公司里，你往往能得到一件宝贵的东西，那就是不可打断性。"
     },
     {
       "original": "Different kinds of work have different time quanta. Someone proofreading a manuscript could probably be interrupted every fifteen minutes with little loss of productivity. But the time quantum for hacking is very long: it might take an hour just to load a problem into your head.",
-      "translated": "[待翻译] Different kinds of work have different time quanta..."
+      "translated": "不同种类的工作有不同的时间量子。校对稿件的人可能每十五分钟被打断一次，对生产率的影响也不会太大。但对于编程来说，时间量子非常长：仅仅将问题装入脑中就可能需要一个小时。"
     },
     {
       "original": "So the cost of having someone from personnel call you about a form you forgot to fill out can be huge.This is why hackers give you such a baleful stare as they turn from their screen to answer your question.",
-      "translated": "[待翻译] So the cost of having someone from personnel call ..."
+      "translated": "所以，人事部门的人因为你忘记填写表格而打电话给你的成本可能非常高。这也就是为什么黑客在从屏幕上转过身来回答你的问题时会给你一个如此不友好的眼神。"
     },
     {
       "original": "Inside their heads a giant house of cards is tottering.The mere possibility of being interrupted deters hackers from starting hard projects. This is why they tend to work late at night, and why it's next to impossible to write great software in a cubicle (except late at night).One great advantage of startups is that they don't yet have any of the people who interrupt you.",
-      "translated": "[待翻译] Inside their heads a giant house of cards is totte..."
+      "translated": "在他们脑海中，一座巨大的纸牌屋正摇摇欲坠。哪怕只是被中断的可能性，也会使黑客们不敢开始艰巨的项目。这就是为什么他们倾向于在深夜工作，也是为什么在格子间里几乎不可能写出优秀的软件（除非是在深夜）。初创公司的一大优势在于，他们还没有那些会打断你的人。"
     },
     {
       "original": "There is no personnel department, and thus no form nor anyone to call you about it.[2] Faced with the idea that people working for startups might be 20 or 30 times as productive as those working for large companies, executives at large companies will naturally wonder, how could I get the people working for me to do that?",
-      "translated": "[待翻译] There is no personnel department, and thus no form..."
+      "translated": "没有人事部门，因此也没有表格或人来通知你这些事情。[2] 面对创业公司员工的生产率可能是大公司员工20到30倍这样的说法，大公司的高管们自然会想，我怎么能让我手下的人做到这一点呢？"
     },
     {
       "original": "The answer is simple: pay them to.Internally most companies are run like Communist states. If you believe in free markets, why not turn your company into one?Hypothesis: A company will be maximally profitable when each employee is paid in proportion to the wealth they generate.[3] Until recently even governments sometimes didn't grasp the distinction between money and wealth.",
-      "translated": "[待翻译] The answer is simple: pay them to.Internally most ..."
+      "translated": "答案很简单：支付报酬。大多数公司内部运作如同共产主义国家。如果你相信自由市场，为什么不把你的公司变成一个自由市场呢？假设：当每位员工的报酬与其创造的财富成正比时，公司利润将达到最大化。直到最近，甚至政府有时也没有理解货币和财富之间的区别。"
     },
     {
       "original": "Adam Smith (Wealth of Nations, v:i) mentions several that tried to preserve their \"wealth\" by forbidding the export of gold or silver. But having more of the medium of exchange would not make a country richer; if you have more money chasing the same amount of material wealth, the only result is higher prices.[4] There are many senses of the word \"wealth,\" not all of them material.",
-      "translated": "[待翻译] Adam Smith (Wealth of Nations, v:i) mentions sever..."
+      "translated": "亚当·斯密（《国富论》，第一卷）提到，有一些国家试图通过禁止黄金或白银出口来保全其“财富”。但是，拥有更多的交换媒介并不会使一个国家更富有；如果你有更多的钱追逐同样数量的物质财富，唯一的后果就是物价上涨。[4] “财富”这个词有很多含义，并非所有含义都与物质有关。"
     },
     {
       "original": "I'm not trying to make a deep philosophical point here about which is the true kind. I'm writing about one specific, rather technical sense of the word \"wealth.\" What people will give you money for. This is an interesting sort of wealth to study, because it is the kind that prevents you from starving.",
-      "translated": "[待翻译] I'm not trying to make a deep philosophical point ..."
+      "translated": "我在这里并不是想就哪种才是真正的财富做出深刻的哲学探讨。我谈论的是“财富”这个词的一个特定且较为技术性的含义。即人们愿意为你支付金钱的东西。研究这种财富是有趣的，因为它能防止你挨饿。"
     },
     {
       "original": "And what people will give you money for depends on them, not you.When you're starting a business, it's easy to slide into thinking that customers want what you do. During the Internet Bubble I talked to a woman who, because she liked the outdoors, was starting an \"outdoor portal.\" You know what kind of business you should start if you like the outdoors?",
-      "translated": "[待翻译] And what people will give you money for depends on..."
+      "translated": "人们是否愿意为你掏钱取决于他们，而不是你。当你开始创业时，很容易陷入一种思维，认为顾客想要的是你所提供的。在互联网泡沫时期，我曾和一个女人交谈，因为她喜欢户外活动，所以打算开一个“户外门户”网站。如果你喜欢户外活动，应该开什么样的公司呢？"
     },
     {
       "original": "One to recover data from crashed hard disks.What's the connection? None at all. Which is precisely my point. If you want to create wealth (in the narrow technical sense of not starving) then you should be especially skeptical about any plan that centers on things you like doing.",
-      "translated": "[待翻译] One to recover data from crashed hard disks.What's..."
+      "translated": "一是从损坏的硬盘中恢复数据。这和财富创造有什么关系吗？一点关系也没有。而这正是我的观点。如果你想创造财富（在狭义的技术层面上，即不让自己挨饿），那么你应该对任何以你喜爱的事情为中心的计划特别持怀疑态度。"
     },
     {
       "original": "That is where your idea of what's valuable is least likely to coincide with other people's.[5] In the average car restoration you probably do make everyone else microscopically poorer, by doing a small amount of damage to the environment.",
-      "translated": "[待翻译] That is where your idea of what's valuable is leas..."
+      "translated": "这就是你的价值观与他人最不可能一致的地方。在一般的汽车修复过程中，你可能确实会让其他人稍微变得贫穷一点，因为对环境造成了一点点损害。"
     },
     {
       "original": "While environmental costs should be taken into account, they don't make wealth a zero-sum game. For example, if you repair a machine that's broken because a part has come unscrewed, you create wealth with no environmental cost.[5b] This essay was written before Firefox.[6] Many people feel confused and depressed in their early twenties.",
-      "translated": "[待翻译] While environmental costs should be taken into acc..."
+      "translated": "虽然应考虑环境成本，但这并不会使财富成为零和游戏。例如，如果你修理了一台因为某个零件松动而坏掉的机器，你就在没有环境成本的情况下创造了财富。[5b] 这篇文章是在Firefox之前写的。[6] 许多年轻人在二十岁出头时会感到困惑和抑郁。"
     },
     {
       "original": "Life seemed so much more fun in college. Well, of course it was. Don't be fooled by the surface similarities. You've gone from guest to servant. It's possible to have fun in this new world. Among other things, you now get to go behind the doors that say \"authorized personnel only.\" But the change is a shock at first, and all the worse if you're not consciously aware of it.[7] When VCs asked us how long it would take another startup to duplicate our software, we used to reply that they probably wouldn't be able to at all.",
-      "translated": "[待翻译] Life seemed so much more fun in college. Well, of ..."
+      "translated": "大学生活似乎有趣多了。当然，确实如此。不要被表面的相似性所迷惑。你已经从宾客变成了仆人。在这个新的世界里，你仍然可以找到乐趣。比如，你现在可以进入那些写着“仅限授权人员”的门后。但这种变化一开始会让人感到震惊，如果你没有意识到这一点，情况会更糟。当风险投资人问我们另一个初创公司需要多长时间才能复制我们的软件时，我们过去常回答说，他们可能根本就做不到。"
     },
     {
       "original": "I think this made us seem naive, or liars.[8] Few technologies have one clear inventor. So as a rule, if you know the \"inventor\" of something (the telephone, the assembly line, the airplane, the light bulb, the transistor) it is because their company made money from it, and the company's PR people worked hard to spread the story.",
-      "translated": "[待翻译] I think this made us seem naive, or liars.[8] Few ..."
+      "translated": "我认为这让我们显得天真，或是骗子。[8] 很少有技术是由一个明确的发明者创造的。因此，一般来说，如果你知道某样东西的“发明者”（电话、流水线、飞机、电灯泡、晶体管），那是因为他们的公司从中获利，而公司的公关人员努力传播这个故事。"
     },
     {
       "original": "If you don't know who invented something (the automobile, the television, the computer, the jet engine, the laser), it's because other companies made all the money.[9] This is a good plan for life in general.",
-      "translated": "[待翻译] If you don't know who invented something (the auto..."
+      "translated": "如果你不知道某项发明（如汽车、电视、计算机、喷气发动机、激光）是谁创造的，那是因为其他公司赚走了所有的钱。这对生活来说是一个不错的策略。"
     },
     {
       "original": "If you have two choices, choose the harder. If you're trying to decide whether to go out running or sit home and watch TV, go running. Probably the reason this trick works so well is that when you have two choices and one is harder, the only reason you're even considering the other is laziness.",
-      "translated": "[待翻译] If you have two choices, choose the harder. If you..."
+      "translated": "如果你有两个选择，就选那个更难的。如果你在犹豫是出去跑步还是待在家里看电视，那就去跑步。这个方法之所以有效，很可能是因为当你有两个选择，其中一个更难时，你考虑另一个选择的唯一原因就是懒惰。"
     },
     {
       "original": "You know in the back of your mind what's the right thing to do, and this trick merely forces you to acknowledge it.[10] It is probably no accident that the middle class first appeared in northern Italy and the low countries, where there were no strong central governments.",
-      "translated": "[待翻译] You know in the back of your mind what's the right..."
+      "translated": "你心里明白什么是正确的事，而这个技巧只是迫使你承认它。中产阶级最初出现在北意大利和低地国家，这可能并非偶然，因为在这些地方并没有强大的中央政府。"
     },
     {
       "original": "These two regions were the richest of their time and became the twin centers from which Renaissance civilization radiated. If they no longer play that role, it is because other places, like the United States, have been truer to the principles they discovered.[11] It may indeed be a sufficient condition.",
-      "translated": "[待翻译] These two regions were the richest of their time a..."
+      "translated": "这两个地区在其时代是最富有的，成为了文艺复兴文明辐射的双中心。如果它们不再扮演这一角色，那是因为其他地方，比如美国，更忠实地遵循了它们所发现的原则。这确实可能是一个充分条件。"
     },
     {
       "original": "But if so, why didn't the Industrial Revolution happen earlier? Two possible (and not incompatible) answers: (a) It did. The Industrial Revolution was one in a series. (b) Because in medieval towns, monopolies and guild regulations initially slowed the development of new means of production.",
-      "translated": "[待翻译] But if so, why didn't the Industrial Revolution ha..."
+      "translated": "但如果真是如此，为什么工业革命没有更早发生呢？有两个可能（且并不矛盾）的答案：(a) 工业革命确实发生过，它是系列革命中的一次。(b) 因为在中世纪的城市里，垄断和行会规章最初阻碍了新的生产方式的发展。"
     },
     {
       "original": "Comment on this essay.Russian TranslationArabic TranslationSpanish Translation You'll find this essay and 14 others in Hackers & Painters.",
-      "translated": "[待翻译] Comment on this essay.Russian TranslationArabic Tr..."
+      "translated": "请对这篇论文进行评论。你可以在《黑客与画家》中找到这篇论文以及另外14篇。"
     }
-  ]
+  ],
+  "translation_completed": "2025-07-29T01:44:39.481886",
+  "translation_stats": {
+    "total_paragraphs": 181,
+    "success_count": 181,
+    "success_rate": "100.0%"
+  }
 }

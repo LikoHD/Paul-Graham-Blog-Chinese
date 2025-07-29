@@ -39,95 +39,101 @@
   "paragraphs": [
     {
       "original": "February 2008The fiery reaction to the release of Arc had an unexpected consequence: it made me realize I had a design philosophy. The main complaint of the more articulate critics was that Arc seemed so flimsy.",
-      "translated": "[待翻译] February 2008The fiery reaction to the release of ..."
+      "translated": "2008年2月，Arc的发布引发了激烈的反应，这意外地使我意识到自己有一个设计哲学。更有见解的批评者的主要抱怨是，Arc看起来太脆弱了。"
     },
     {
       "original": "After years of working on it, all I had to show for myself were a few thousand lines of macros? Why hadn't I worked on more substantial problems?As I was mulling over these remarks it struck me how familiar they seemed.",
-      "translated": "[待翻译] After years of working on it, all I had to show fo..."
+      "translated": "经过多年的努力，我所能展示的只是一些宏代码的几千行？为什么我没有去解决更实质性的问题？当我思索这些评论时，突然觉得它们似曾相识。"
     },
     {
       "original": "This was exactly the kind of thing people said at first about Viaweb, and Y Combinator, and most of my essays.When we launched Viaweb, it seemed laughable to VCs and e-commerce \"experts.\" We were just a couple guys in an apartment, which did not seem cool in 1995 the way it does now.",
-      "translated": "[待翻译] This was exactly the kind of thing people said at ..."
+      "translated": "这正是人们最初对Viaweb、Y Combinator以及我的大多数文章的评价。当我们推出Viaweb时，对风险投资家和电子商务“专家”来说，这似乎是个笑柄。我们只是公寓里的两个小伙子，而在1995年，这可不像现在这样酷。"
     },
     {
       "original": "And the thing we'd built, as far as they could tell, wasn't even software. Software, to them, equalled big, honking Windows apps. Since Viaweb was the first web-based app they'd seen, it seemed to be nothing more than a website.",
-      "translated": "[待翻译] And the thing we'd built, as far as they could tel..."
+      "translated": "而我们所构建的东西，在他们看来，甚至都不是软件。在他们眼中，软件等同于大型的、笨重的Windows应用程序。由于Viaweb是他们见过的第一个基于网络的应用程序，所以在他们看来，这似乎只是一个网站。"
     },
     {
       "original": "They were even more contemptuous when they discovered that Viaweb didn't process credit card transactions (we didn't for the whole first year). Transaction processing seemed to them what e-commerce was all about.",
-      "translated": "[待翻译] They were even more contemptuous when they discove..."
+      "translated": "当他们发现Viaweb不处理信用卡交易时（我们在整个第一年都没有这样做），他们的蔑视更加深了。对他们来说，交易处理似乎就是电子商务的全部。"
     },
     {
       "original": "It sounded serious and difficult.And yet, mysteriously, Viaweb ended up crushing all its competitors.The initial reaction to Y Combinator was almost identical. It seemed laughably lightweight. Startup funding meant series A rounds: millions of dollars given to a small number of startups founded by people with established credentials after months of serious, businesslike meetings, on terms described in a document a foot thick.",
-      "translated": "[待翻译] It sounded serious and difficult.And yet, mysterio..."
+      "translated": "这听起来既严肃又困难。然而，神秘的是，Viaweb 最终碾压了所有竞争对手。Y Combinator 初期的反应几乎如出一辙。它看起来简直可笑地轻量级。创业融资意味着 A 轮融资：在经过数月严肃而正式的会议后，向少数由有资历的人创立的初创公司提供数百万美元的资金，条款写在厚厚的一叠文件中。"
     },
     {
       "original": "Y Combinator seemed inconsequential. It's too early to say yet whether Y Combinator will turn out like Viaweb, but judging from the number of imitations, a lot of people seem to think we're on to something.I can't measure whether my essays are successful, except in page views, but the reaction to them is at least different from when I started.",
-      "translated": "[待翻译] Y Combinator seemed inconsequential. It's too earl..."
+      "translated": "Y Combinator 看起来微不足道。现在说 Y Combinator 是否会像 Viaweb 一样还为时过早，但从模仿者的数量来看，很多人似乎认为我们正在做对的事情。我无法衡量我的文章是否成功，除了页面浏览量之外，但至少人们对它们的反应与我刚开始时不同了。"
     },
     {
       "original": "At first the default reaction of the Slashdot trolls was (translated into articulate terms): \"Who is this guy and what authority does he have to write about these topics? I haven't read the essay, but there's no way anything so short and written in such an informal style could have anything useful to say about such and such topic, when people with degrees in the subject have already written many thick books about it.\" Now there's a new generation of trolls on a new generation of sites, but they have at least started to omit the initial \"Who is this guy?\"Now people are saying the same things about Arc that they said at first about Viaweb and Y Combinator and most of my essays.",
-      "translated": "[待翻译] At first the default reaction of the Slashdot trol..."
+      "translated": "最初，Slashdot上的喷子们的默认反应（用更文明的措辞来说）是：“这家伙是谁？他有什么资格来写这些话题？我虽然没读过这篇文章，但这么短、这么随意的文章怎么可能对某个话题有什么有价值的见解，而那些拥有该领域学位的人已经写了好几本厚厚的书了。”现在，新一代的喷子出现在新一代的网站上，但他们至少开始省略了最初的“这家伙是谁？”现在，人们对于Arc的评论，就像当初对Viaweb、Y Combinator以及我的大部分文章的评论一样。"
     },
     {
       "original": "Why the pattern? The answer, I realized, is that my m.o. for all four has been the same.Here it is: I like to find (a) simple solutions (b) to overlooked problems (c) that actually need to be solved, and (d) deliver them as informally as possible, (e) starting with a very crude version 1, then (f) iterating rapidly.When I first laid out these principles explicitly, I noticed something striking: this is practically a recipe for generating a contemptuous initial reaction.",
-      "translated": "[待翻译] Why the pattern? The answer, I realized, is that m..."
+      "translated": "为什么会有这种模式？我意识到，答案在于我对这四件事的做法是一样的。具体来说：我喜欢找到（a）简单的解决方案（b）来解决那些被忽视的问题（c）这些问题实际上是需要解决的，并且（d）尽可能非正式地提供这些解决方案，（e）从一个非常粗糙的版本1开始，然后（f）迅速迭代。当我第一次明确地列出这些原则时，我注意到一个显著的现象：这几乎是一个引发初始蔑视反应的配方。"
     },
     {
       "original": "Though simple solutions are better, they don't seem as impressive as complex ones. Overlooked problems are by definition problems that most people think don't matter. Delivering solutions in an informal way means that instead of judging something by the way it's presented, people have to actually understand it, which is more work.",
-      "translated": "[待翻译] Though simple solutions are better, they don't see..."
+      "translated": "尽管简单的解决方案更好，但它们看起来不如复杂的方案那么令人印象深刻。被忽视的问题，从定义上说，是大多数人认为无关紧要的问题。以非正式的方式提供解决方案意味着，人们必须真正理解它，而不仅仅是根据其呈现方式来判断，这需要更多的努力。"
     },
     {
       "original": "And starting with a crude version 1 means your initial effort is always small and incomplete.I'd noticed, of course, that people never seemed to grasp new ideas at first. I thought it was just because most people were stupid.",
-      "translated": "[待翻译] And starting with a crude version 1 means your ini..."
+      "translated": "从一个粗糙的1.0版本开始，意味着你的初始努力总是微小且不完善的。当然，我注意到人们似乎从一开始就无法理解新想法。我以为这仅仅是因为大多数人不够聪明。"
     },
     {
       "original": "Now I see there's more to it than that. Like a contrarian investment fund, someone following this strategy will almost always be doing things that seem wrong to the average person.As with contrarian investment strategies, that's exactly the point.",
-      "translated": "[待翻译] Now I see there's more to it than that. Like a con..."
+      "translated": "现在我意识到这背后还有更多的内涵。就像一个反向投资基金一样，遵循这种策略的人几乎总是做一些在普通人看来是错误的事情。正如反向投资策略一样，这正是其核心所在。"
     },
     {
       "original": "This technique is successful (in the long term) because it gives you all the advantages other people forgo by trying to seem legit. If you work on overlooked problems, you're more likely to discover new things, because you have less competition.",
-      "translated": "[待翻译] This technique is successful (in the long term) be..."
+      "translated": "这种技术之所以能长期成功，是因为它让你获得了其他人为了显得正统而放弃的所有优势。如果你致力于被忽视的问题，你就更有可能发现新事物，因为你面临的竞争较少。"
     },
     {
       "original": "If you deliver solutions informally, you (a) save all the effort you would have had to expend to make them look impressive, and (b) avoid the danger of fooling yourself as well as your audience. And if you release a crude version 1 then iterate, your solution can benefit from the imagination of nature, which, as Feynman pointed out, is more powerful than your own.In the case of Viaweb, the simple solution was to make the software run on the server.",
-      "translated": "[待翻译] If you deliver solutions informally, you (a) save ..."
+      "translated": "如果你非正式地提供解决方案，你（a）可以节省为了使它们看起来令人印象深刻所需付出的所有努力，（b）避免了自我欺骗以及欺骗听众的风险。如果你发布一个粗糙的1.0版本然后不断迭代，你的解决方案就可以受益于自然的想象力，正如费曼所指出的，自然的想象力比你自己的更强大。在Viaweb的情况下，简单的解决方案是让软件在服务器上运行。"
     },
     {
       "original": "The overlooked problem was to generate web sites automatically; in 1995, online stores were all made by hand by human designers, but we knew this wouldn't scale. The part that actually mattered was graphic design, not transaction processing.",
-      "translated": "[待翻译] The overlooked problem was to generate web sites a..."
+      "translated": "被忽视的问题是自动生成网站；1995年，网上商店都是由人工设计师手工制作的，但我们知道这无法扩展。真正重要的是图形设计，而不是交易处理。"
     },
     {
       "original": "The informal delivery mechanism was me, showing up in jeans and a t-shirt at some retailer's office. And the crude version 1 was, if I remember correctly, less than 10,000 lines of code when we launched.The power of this technique extends beyond startups and programming languages and essays.",
-      "translated": "[待翻译] The informal delivery mechanism was me, showing up..."
+      "translated": "非正式的交付方式就是我穿着牛仔裤和T恤出现在某个零售商的办公室。而最初的粗略版本1，如果我记得没错的话，在我们推出时还不到1万行代码。这种技术的力量不仅限于初创公司和编程语言，还延伸到了文章写作等领域。"
     },
     {
       "original": "It probably extends to any kind of creative work. Certainly it can be used in painting: this is exactly what Cezanne and Klee did.At Y Combinator we bet money on it, in the sense that we encourage the startups we fund to work this way.",
-      "translated": "[待翻译] It probably extends to any kind of creative work. ..."
+      "translated": "这可能适用于任何种类的创造性工作。当然，它可以在绘画中使用：这正是塞尚和克利所做的事情。在 Y Combinator，我们以资金支持这种方式，即鼓励我们资助的初创公司以这种方式工作。"
     },
     {
       "original": "There are always new ideas right under your nose. So look for simple things that other people have overlooked—things people will later claim were \"obvious\"—especially when they've been led astray by obsolete conventions, or by trying to do things that are superficially impressive.",
-      "translated": "[待翻译] There are always new ideas right under your nose. ..."
+      "translated": "总有一些新想法近在咫尺。因此，要寻找那些别人忽略了的简单事物——那些人们后来会声称是“显而易见”的事物——尤其是在他们被过时的惯例所误导，或试图做一些表面上令人印象深刻的事情时。"
     },
     {
       "original": "Figure out what the real problem is, and make sure you solve that. Don't worry about trying to look corporate; the product is what wins in the long term. And launch as soon as you can, so you start learning from users what you should have been making.Reddit is a classic example of this approach.",
-      "translated": "[待翻译] Figure out what the real problem is, and make sure..."
+      "translated": "找出真正的问题所在，并确保解决这个问题。不要担心看起来是否像一家大公司；从长远来看，产品才是王道。尽早推出产品，这样你就可以从用户那里了解到你应该制作什么。Reddit 就是这种做法的一个经典例子。"
     },
     {
       "original": "When Reddit first launched, it seemed like there was nothing to it. To the graphically unsophisticated its deliberately minimal design seemed like no design at all. But Reddit solved the real problem, which was to tell people what was new and otherwise stay out of the way.",
-      "translated": "[待翻译] When Reddit first launched, it seemed like there w..."
+      "translated": "Reddit 刚刚推出时，看起来似乎没有什么特别之处。对于那些不擅长图形设计的人来说，它故意采用的极简设计看起来几乎没有任何设计可言。但 Reddit 解决了真正的问题，那就是告诉人们有什么新内容，同时尽量不干扰用户。"
     },
     {
       "original": "As a result it became massively successful. Now that conventional ideas have caught up with it, it seems obvious. People look at Reddit and think the founders were lucky. Like all such things, it was harder than it looked.",
-      "translated": "[待翻译] As a result it became massively successful. Now th..."
+      "translated": "因此，它变得非常成功。现在传统观念已经赶上来了，看起来似乎显而易见。人们看着Reddit，认为创始人们很幸运。像所有这类事情一样，实际上比看起来要困难得多。"
     },
     {
       "original": "The Reddits pushed so hard against the current that they reversed it; now it looks like they're merely floating downstream.So when you look at something like Reddit and think \"I wish I could think of an idea like that,\" remember: ideas like that are all around you.",
-      "translated": "[待翻译] The Reddits pushed so hard against the current tha..."
+      "translated": "Reddit 的用户们努力到逆流而上，最终却像是顺水漂流。所以，当你看到像 Reddit 这样的东西并想“我希望我也能想出这样的点子”时，记住：这样的点子其实就在你身边。"
     },
     {
       "original": "But you ignore them because they look wrong.",
-      "translated": "[待翻译] But you ignore them because they look wrong."
+      "translated": "但你忽略了它们，因为它们看起来不对劲。"
     }
-  ]
+  ],
+  "translation_completed": "2025-07-28T14:26:09.557484",
+  "translation_stats": {
+    "total_paragraphs": 23,
+    "success_count": 23,
+    "success_rate": "100.0%"
+  }
 }

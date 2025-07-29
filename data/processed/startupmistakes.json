@@ -125,439 +125,445 @@
   "paragraphs": [
     {
       "original": "Want to start a startup? Get funded by Y Combinator. October 2006In the Q & A period after a recent talk, someone asked what made startups fail. After standing there gaping for a few seconds I realized this was kind of a trick question.",
-      "translated": "[待翻译] Want to start a startup? Get funded by Y Combinato..."
+      "translated": "想创业吗？那就争取得到 Y Combinator 的投资吧。2006年10月，在一次演讲后的问答环节中，有人问是什么导致了创业公司的失败。我愣了几秒钟后意识到，这其实是个有点棘手的问题。"
     },
     {
       "original": "It's equivalent to asking how to make a startup succeed — if you avoid every cause of failure, you succeed — and that's too big a question to answer on the fly.Afterwards I realized it could be helpful to look at the problem from this direction.",
-      "translated": "[待翻译] It's equivalent to asking how to make a startup su..."
+      "translated": "这相当于问如何让一家初创公司成功——如果你能避免所有失败的原因，你就能成功——而这个问题太大，无法即兴回答。后来我意识到，从这个角度看待问题可能会有所帮助。"
     },
     {
       "original": "If you have a list of all the things you shouldn't do, you can turn that into a recipe for succeeding just by negating. And this form of list may be more useful in practice. It's easier to catch yourself doing something you shouldn't than always to remember to do something you should.",
-      "translated": "[待翻译] If you have a list of all the things you shouldn't..."
+      "translated": "如果你有一份不应该做的事情的清单，只需将其否定，就可以将其转化为成功的方法。实际上，这种形式的清单可能更有用。比起总是记住该做的事情，更容易发现自己在做不应该做的事情。"
     },
     {
       "original": "[1]In a sense there's just one mistake that kills startups: not making something users want. If you make something users want, you'll probably be fine, whatever else you do or don't do. And if you don't make something users want, then you're dead, whatever else you do or don't do.",
-      "translated": "[待翻译] [1]In a sense there's just one mistake that kills ..."
+      "translated": "从某种意义上说，初创公司只有一个致命的错误：没有做出用户想要的产品。如果你做出了用户想要的产品，那么无论你做了什么或没做什么，你大概都会没事。而如果你没有做出用户想要的产品，那么无论你做了什么或没做什么，你都会失败。"
     },
     {
       "original": "So really this is a list of 18 things that cause startups not to make something users want. Nearly all failure funnels through that.1. Single FounderHave you ever noticed how few successful startups were founded by just one person?",
-      "translated": "[待翻译] So really this is a list of 18 things that cause s..."
+      "translated": "所以，这实际上是一个包含18个导致初创公司无法做出用户想要的产品的原因的清单。几乎所有的失败都归结于这一点。1. 单一创始人 你是否注意过，很少有成功的初创公司是由一个人单独创立的？"
     },
     {
       "original": "Even companies you think of as having one founder, like Oracle, usually turn out to have more. It seems unlikely this is a coincidence.What's wrong with having one founder? To start with, it's a vote of no confidence.",
-      "translated": "[待翻译] Even companies you think of as having one founder,..."
+      "translated": "即使是像甲骨文这样你以为只有一个创始人的一家公司，通常也会有更多创始人。这似乎不太可能是巧合。一个创始人有什么问题？首先，这表明缺乏信心。"
     },
     {
       "original": "It probably means the founder couldn't talk any of his friends into starting the company with him. That's pretty alarming, because his friends are the ones who know him best.But even if the founder's friends were all wrong and the company is a good bet, he's still at a disadvantage.",
-      "translated": "[待翻译] It probably means the founder couldn't talk any of..."
+      "translated": "这可能意味着创始人无法说服他的任何朋友与他一起创办公司。这相当令人担忧，因为他的朋友们最了解他。但即使创始人朋友们的看法都是错误的，公司前景确实不错，创始人仍然处于不利地位。"
     },
     {
       "original": "Starting a startup is too hard for one person. Even if you could do all the work yourself, you need colleagues to brainstorm with, to talk you out of stupid decisions, and to cheer you up when things go wrong.The last one might be the most important.",
-      "translated": "[待翻译] Starting a startup is too hard for one person. Eve..."
+      "translated": "创办一家初创公司对一个人来说太难了。即使你能独自完成所有工作，你也需要同事来一起头脑风暴，阻止你做出愚蠢的决定，以及在事情出错时鼓励你。最后一个可能最重要。"
     },
     {
       "original": "The low points in a startup are so low that few could bear them alone. When you have multiple founders, esprit de corps binds them together in a way that seems to violate conservation laws. Each thinks \"I can't let my friends down.\" This is one of the most powerful forces in human nature, and it's missing when there's just one founder.2.",
-      "translated": "[待翻译] The low points in a startup are so low that few co..."
+      "translated": "初创公司的低谷如此之低，以至于很少有人能够独自承受。当你有多个创始人时，团队精神会以一种似乎违背守恒定律的方式将他们团结在一起。每个人都会想：“我不能让我的朋友失望。”这是人性中最强大的力量之一，而在只有一个创始人的情况下，这种力量就缺失了。"
     },
     {
       "original": "Bad LocationStartups prosper in some places and not others. Silicon Valley dominates, then Boston, then Seattle, Austin, Denver, and New York. After that there's not much. Even in New York the number of startups per capita is probably a 20th of what it is in Silicon Valley.",
-      "translated": "[待翻译] Bad LocationStartups prosper in some places and no..."
+      "translated": "不良地理位置对创业公司的影响是显著的。有些地方创业公司蓬勃发展，而其他地方则不然。硅谷处于领先地位，其次是波士顿，再之后是西雅图、奥斯汀、丹佛和纽约。在此之后，其他地方的创业公司数量就很少了。即使在纽约，每 capita 的创业公司数量可能也只有硅谷的五分之一。"
     },
     {
       "original": "In towns like Houston and Chicago and Detroit it's too small to measure.Why is the falloff so sharp? Probably for the same reason it is in other industries. What's the sixth largest fashion center in the US?",
-      "translated": "[待翻译] In towns like Houston and Chicago and Detroit it's..."
+      "translated": "在像休斯敦、芝加哥和底特律这样的城市里，这个数字小到无法测量。为什么下降得如此急剧？可能原因与其他行业相同。那么，美国第六大的时尚中心是哪里？"
     },
     {
       "original": "The sixth largest center for oil, or finance, or publishing? Whatever they are they're probably so far from the top that it would be misleading even to call them centers.It's an interesting question why cities become startup hubs, but the reason startups prosper in them is probably the same as it is for any industry: that's where the experts are.",
-      "translated": "[待翻译] The sixth largest center for oil, or finance, or p..."
+      "translated": "第六大石油、金融或出版中心？无论它们是什么，都可能离顶级太远，以至于称它们为中心都会产生误导。为什么某些城市会成为创业中心，这是一个有趣的问题，但创业公司在那里繁荣的原因可能与其他任何行业相同：那里有专家。"
     },
     {
       "original": "Standards are higher; people are more sympathetic to what you're doing; the kind of people you want to hire want to live there; supporting industries are there; the people you run into in chance meetings are in the same business.",
-      "translated": "[待翻译] Standards are higher; people are more sympathetic ..."
+      "translated": "标准更高；人们对你所做的事情更加同情；你想要招聘的人愿意在那里生活；支持性产业已经存在；你在偶然的会面中遇到的人也是同行。"
     },
     {
       "original": "Who knows exactly how these factors combine to boost startups in Silicon Valley and squish them in Detroit, but it's clear they do from the number of startups per capita in each.3. Marginal NicheMost of the groups that apply to Y Combinator suffer from a common problem: choosing a small, obscure niche in the hope of avoiding competition.If you watch little kids playing sports, you notice that below a certain age they're afraid of the ball.",
-      "translated": "[待翻译] Who knows exactly how these factors combine to boo..."
+      "translated": "谁知道这些因素是如何结合在一起推动硅谷的创业公司发展，而同时压制底特律的创业公司的，但从每个城市的人均创业公司数量来看，确实存在这种差异。3. 边缘细分市场大多数申请Y Combinator的团队都存在一个普遍问题：选择一个狭小、鲜为人知的细分市场，希望借此避免竞争。如果你观察小孩子参加体育活动，你会发现，在某个年龄以下，他们害怕球。"
     },
     {
       "original": "When the ball comes near them their instinct is to avoid it. I didn't make a lot of catches as an eight year old outfielder, because whenever a fly ball came my way, I used to close my eyes and hold my glove up more for protection than in the hope of catching it.Choosing a marginal project is the startup equivalent of my eight year old strategy for dealing with fly balls.",
-      "translated": "[待翻译] When the ball comes near them their instinct is to..."
+      "translated": "当球靠近他们时，他们的本能是避开它。我八岁时作为外野手，并没有接到多少球，因为每当有高飞球飞向我时，我总是闭上眼睛，举起手套，更多的是为了保护自己，而不是希望接到球。选择一个边缘项目就像是我八岁时应对高飞球的策略。"
     },
     {
       "original": "If you make anything good, you're going to have competitors, so you may as well face that. You can only avoid competition by avoiding good ideas.I think this shrinking from big problems is mostly unconscious.",
-      "translated": "[待翻译] If you make anything good, you're going to have co..."
+      "translated": "如果你做出任何好的东西，就会有竞争者，所以你最好面对这一点。你只能通过避免好的想法来避免竞争。我认为这种对大问题的避讳主要是无意识的。"
     },
     {
       "original": "It's not that people think of grand ideas but decide to pursue smaller ones because they seem safer. Your unconscious won't even let you think of grand ideas. So the solution may be to think about ideas without involving yourself.",
-      "translated": "[待翻译] It's not that people think of grand ideas but deci..."
+      "translated": "并不是人们想到了宏伟的点子却决定追求更小的，因为后者看起来更安全。你的潜意识甚至不会让你想到宏伟的点子。所以，解决问题的方法可能是思考点子时不要涉及自己。"
     },
     {
       "original": "What would be a great idea for someone else to do as a startup?4. Derivative IdeaMany of the applications we get are imitations of some existing company. That's one source of ideas, but not the best.",
-      "translated": "[待翻译] What would be a great idea for someone else to do ..."
+      "translated": "让别人作为创业项目的绝佳点子是什么？4. 派生创意我们收到的许多申请都是模仿现有公司的。这是一种创意来源，但不是最好的。"
     },
     {
       "original": "If you look at the origins of successful startups, few were started in imitation of some other startup. Where did they get their ideas? Usually from some specific, unsolved problem the founders identified.Our startup made software for making online stores.",
-      "translated": "[待翻译] If you look at the origins of successful startups,..."
+      "translated": "如果你观察成功初创企业的起源，很少有企业是模仿其他初创企业而成立的。他们从哪里得到的灵感？通常是从创始人发现的某个具体且未解决的问题中来的。我们的初创企业开发了用于创建在线商店的软件。"
     },
     {
       "original": "When we started it, there wasn't any; the few sites you could order from were hand-made at great expense by web consultants. We knew that if online shopping ever took off, these sites would have to be generated by software, so we wrote some.",
-      "translated": "[待翻译] When we started it, there wasn't any; the few site..."
+      "translated": "当我们开始的时候，还没有这样的东西；少数几个可以下单的网站都是由网络顾问花费大量精力手工制作的。我们知道，如果网上购物真的能流行起来，这些网站必须由软件自动生成，所以我们编写了这样的软件。"
     },
     {
       "original": "Pretty straightforward.It seems like the best problems to solve are ones that affect you personally. Apple happened because Steve Wozniak wanted a computer, Google because Larry and Sergey couldn't find stuff online, Hotmail because Sabeer Bhatia and Jack Smith couldn't exchange email at work.So instead of copying the Facebook, with some variation that the Facebook rightly ignored, look for ideas from the other direction.",
-      "translated": "[待翻译] Pretty straightforward.It seems like the best prob..."
+      "translated": "很简单。看起来最好的问题就是那些对你个人有影响的问题。苹果公司之所以诞生，是因为史蒂夫·沃兹尼亚克想要一台电脑；谷歌的出现，是因为拉里和谢尔盖在网上找不到东西；Hotmail的诞生，是因为萨比尔·巴蒂亚和杰克·史密斯在工作中无法交换电子邮件。所以，与其复制一个Facebook，还带着Facebook理所当然忽视的某些变化，不如从另一个方向寻找灵感。"
     },
     {
       "original": "Instead of starting from companies and working back to the problems they solved, look for problems and imagine the company that might solve them. [2] What do people complain about? What do you wish there was?5.",
-      "translated": "[待翻译] Instead of starting from companies and working bac..."
+      "translated": "与其从公司入手再回溯到它们解决的问题，不如寻找问题并设想可能解决这些问题的公司。[2] 人们都在抱怨什么？你希望有什么？"
     },
     {
       "original": "ObstinacyIn some fields the way to succeed is to have a vision of what you want to achieve, and to hold true to it no matter what setbacks you encounter. Starting startups is not one of them. The stick-to-your-vision approach works for something like winning an Olympic gold medal, where the problem is well-defined.",
-      "translated": "[待翻译] ObstinacyIn some fields the way to succeed is to h..."
+      "translated": "固执在某些领域，成功的关键在于拥有一个目标愿景，并且无论遇到什么挫折都坚持下去。然而，创办初创企业并不属于这种情况。坚持愿景的方法适用于像赢得奥运金牌这样目标明确的事情。"
     },
     {
       "original": "Startups are more like science, where you need to follow the trail wherever it leads.So don't get too attached to your original plan, because it's probably wrong. Most successful startups end up doing something different than they originally intended — often so different that it doesn't even seem like the same company.",
-      "translated": "[待翻译] Startups are more like science, where you need to ..."
+      "translated": "创业公司更像是一门科学，你需要跟随线索，无论它指向何方。因此，不要太执着于最初的计划，因为它很可能行不通。大多数成功的创业公司最终做的都是与最初设想不同的事情——有时甚至完全不同，以至于看起来像是换了家公司。"
     },
     {
       "original": "You have to be prepared to see the better idea when it arrives. And the hardest part of that is often discarding your old idea.But openness to new ideas has to be tuned just right. Switching to a new idea every week will be equally fatal.",
-      "translated": "[待翻译] You have to be prepared to see the better idea whe..."
+      "translated": "你必须做好准备，在更好的想法出现时能够看到它。而最难的部分往往是放弃你的旧想法。但对新想法的开放性必须恰到好处。每周更换一个新想法同样会致命。"
     },
     {
       "original": "Is there some kind of external test you can use? One is to ask whether the ideas represent some kind of progression. If in each new idea you're able to re-use most of what you built for the previous ones, then you're probably in a process that converges.",
-      "translated": "[待翻译] Is there some kind of external test you can use? O..."
+      "translated": "是否有某种外部测试可以使用？一种方法是检查这些想法是否代表某种进展。如果在每个新想法中，你都能重新使用为之前想法构建的大部分内容，那么你可能正处于一个收敛的过程中。"
     },
     {
       "original": "Whereas if you keep restarting from scratch, that's a bad sign.Fortunately there's someone you can ask for advice: your users. If you're thinking about turning in some new direction and your users seem excited about it, it's probably a good bet.6.",
-      "translated": "[待翻译] Whereas if you keep restarting from scratch, that'..."
+      "translated": "如果你每次都从头开始，那是一个不好的迹象。幸运的是，你可以向一个人求助：你的用户。如果你正考虑转向新的方向，而你的用户对此感到兴奋，那么这很可能是一个好的选择。6."
     },
     {
       "original": "Hiring Bad ProgrammersI forgot to include this in the early versions of the list, because nearly all the founders I know are programmers. This is not a serious problem for them. They might accidentally hire someone bad, but it's not going to kill the company.",
-      "translated": "[待翻译] Hiring Bad ProgrammersI forgot to include this in ..."
+      "translated": "雇用糟糕的程序员\n我早期列出的版本中忘记包括这一点，因为我认识的几乎所有创始人都是程序员。这对他们来说不是个严重的问题。他们可能会不小心雇用到一个不好的程序员，但这不会毁掉公司。"
     },
     {
       "original": "In a pinch they can do whatever's required themselves.But when I think about what killed most of the startups in the e-commerce business back in the 90s, it was bad programmers. A lot of those companies were started by business guys who thought the way startups worked was that you had some clever idea and then hired programmers to implement it.",
-      "translated": "[待翻译] In a pinch they can do whatever's required themsel..."
+      "translated": "在必要时，他们可以自己完成所需的一切。但当我回想90年代电子商务行业大部分初创公司失败的原因时，那是因为糟糕的程序员。许多这些公司是由一些商业人士创办的，他们认为初创公司的运作方式是，你有一个聪明的想法，然后雇用程序员来实现它。"
     },
     {
       "original": "That's actually much harder than it sounds — almost impossibly hard in fact — because business guys can't tell which are the good programmers. They don't even get a shot at the best ones, because no one really good wants a job implementing the vision of a business guy.In practice what happens is that the business guys choose people they think are good programmers (it says here on his resume that he's a Microsoft Certified Developer) but who aren't.",
-      "translated": "[待翻译] That's actually much harder than it sounds — almos..."
+      "translated": "这实际上比听起来要难得多——事实上几乎是不可能的难——因为业务人员无法分辨哪些是优秀的程序员。他们甚至没有机会接触到最优秀的人才，因为真正优秀的人才根本就不想为实现一个业务人员的愿景而工作。实际上发生的情况是，业务人员选择了他们认为是好程序员的人（他的简历上写着他是微软认证的开发人员），但实际上并不是。"
     },
     {
       "original": "Then they're mystified to find that their startup lumbers along like a World War II bomber while their competitors scream past like jet fighters. This kind of startup is in the same position as a big company, but without the advantages.So how do you pick good programmers if you're not a programmer?",
-      "translated": "[待翻译] Then they're mystified to find that their startup ..."
+      "translated": "然后他们感到困惑，发现自己的创业公司像二战时期的轰炸机一样缓慢前行，而竞争对手则像喷气式战斗机一样呼啸而过。这类创业公司处于与大公司相同的位置，但却没有大公司的优势。那么，如果你不是程序员，该如何挑选优秀的程序员呢？"
     },
     {
       "original": "I don't think there's an answer. I was about to say you'd have to find a good programmer to help you hire people. But if you can't recognize good programmers, how would you even do that?7. Choosing the Wrong PlatformA related problem (since it tends to be done by bad programmers) is choosing the wrong platform.",
-      "translated": "[待翻译] I don't think there's an answer. I was about to sa..."
+      "translated": "我认为没有答案。我本来想说你需要找一个好的程序员来帮你招聘。但如果你无法识别好的程序员，你又怎么能做到这一点呢？7. 选择错误的平台一个相关的问题（因为它往往是由差的程序员造成的）是选择了错误的平台。"
     },
     {
       "original": "For example, I think a lot of startups during the Bubble killed themselves by deciding to build server-based applications on Windows. Hotmail was still running on FreeBSD for years after Microsoft bought it, presumably because Windows couldn't handle the load.",
-      "translated": "[待翻译] For example, I think a lot of startups during the ..."
+      "translated": "例如，我认为很多初创公司在互联网泡沫时期由于决定在Windows上构建基于服务器的应用程序而自掘坟墓。即使在微软收购Hotmail之后，它仍然运行在FreeBSD上多年，大概是因为Windows无法应对如此大的负载。"
     },
     {
       "original": "If Hotmail's founders had chosen to use Windows, they would have been swamped.PayPal only just dodged this bullet. After they merged with X.com, the new CEO wanted to switch to Windows — even after PayPal cofounder Max Levchin showed that their software scaled only 1% as well on Windows as Unix.",
-      "translated": "[待翻译] If Hotmail's founders had chosen to use Windows, t..."
+      "translated": "如果 Hotmail 的创始人选择使用 Windows，他们将会被淹没。PayPal 差点也中了这个招。在与 X.com 合并后，新任 CEO 想要转用 Windows——即使在 PayPal 联合创始人 Max Levchin 展示了他们的软件在 Windows 上的扩展性只有 Unix 的 1% 之后。"
     },
     {
       "original": "Fortunately for PayPal they switched CEOs instead.Platform is a vague word. It could mean an operating system, or a programming language, or a \"framework\" built on top of a programming language. It implies something that both supports and limits, like the foundation of a house.The scary thing about platforms is that there are always some that seem to outsiders to be fine, responsible choices and yet, like Windows in the 90s, will destroy you if you choose them.",
-      "translated": "[待翻译] Fortunately for PayPal they switched CEOs instead...."
+      "translated": "幸运的是，PayPal 更换了首席执行官。平台这个词含义模糊。它可以指操作系统，或者编程语言，或者建立在编程语言之上的“框架”。它暗示着某种既支持又限制的东西，就像房子的地基一样。平台令人恐惧的地方在于，总有一些平台在外行人看来似乎是不错、可靠的选择，然而，就像90年代的Windows一样，如果你选择了它们，它们就会毁了你。"
     },
     {
       "original": "Java applets were probably the most spectacular example. This was supposed to be the new way of delivering applications. Presumably it killed just about 100% of the startups who believed that.How do you pick the right platforms?",
-      "translated": "[待翻译] Java applets were probably the most spectacular ex..."
+      "translated": "Java 小程序可能是最引人注目的例子。这本应是交付应用程序的新方式。显然，它几乎杀死了所有相信这一点的初创公司。你该如何选择正确的平台？"
     },
     {
       "original": "The usual way is to hire good programmers and let them choose. But there is a trick you could use if you're not a programmer: visit a top computer science department and see what they use in research projects.8.",
-      "translated": "[待翻译] The usual way is to hire good programmers and let ..."
+      "translated": "通常的做法是聘请优秀的程序员，让他们自己选择。但如果你不是程序员，还有一个技巧：可以去顶尖的计算机科学系看看他们在研究项目中使用什么。"
     },
     {
       "original": "Slowness in LaunchingCompanies of all sizes have a hard time getting software done. It's intrinsic to the medium; software is always 85% done. It takes an effort of will to push through this and get something released to users.",
-      "translated": "[待翻译] Slowness in LaunchingCompanies of all sizes have a..."
+      "translated": "企业在启动时的迟缓\n无论大小企业，在完成软件开发方面都面临困难。这是媒介本身的特性；软件总是处于85%完成的状态。需要付出意志力才能突破这一点，将产品发布给用户。"
     },
     {
       "original": "[3]Startups make all kinds of excuses for delaying their launch. Most are equivalent to the ones people use for procrastinating in everyday life. There's something that needs to happen first. Maybe. But if the software were 100% finished and ready to launch at the push of a button, would they still be waiting?One reason to launch quickly is that it forces you to actually finish some quantum of work.",
-      "translated": "[待翻译] [3]Startups make all kinds of excuses for delaying..."
+      "translated": "初创企业会找各种借口推迟他们的产品发布。这些借口大多数与人们在日常生活中拖延任务时使用的借口相似。总有一些事情需要先完成。也许吧。但如果软件已经100%完成，只需一键即可发布，他们还会继续等待吗？快速发布的一个原因是，它会迫使你真正完成一定量的工作。"
     },
     {
       "original": "Nothing is truly finished till it's released; you can see that from the rush of work that's always involved in releasing anything, no matter how finished you thought it was. The other reason you need to launch is that it's only by bouncing your idea off users that you fully understand it.Several distinct problems manifest themselves as delays in launching: working too slowly; not truly understanding the problem; fear of having to deal with users; fear of being judged; working on too many different things; excessive perfectionism.",
-      "translated": "[待翻译] Nothing is truly finished till it's released; you ..."
+      "translated": "任何事情在发布之前都不能算真正完成；你可以从每次发布时总会出现的忙碌工作中看出这一点，无论你认为它已经多么完善。你还需要发布的原因是，只有将你的想法呈现给用户，你才能完全理解它。几个明显的问题会导致发布延迟：工作进展太慢；没有真正理解问题；害怕与用户打交道；害怕被评判；同时处理太多不同的事情；过度追求完美。"
     },
     {
       "original": "Fortunately you can combat all of them by the simple expedient of forcing yourself to launch something fairly quickly.9. Launching Too EarlyLaunching too slowly has probably killed a hundred times more startups than launching too fast, but it is possible to launch too fast.",
-      "translated": "[待翻译] Fortunately you can combat all of them by the simp..."
+      "translated": "幸运的是，你可以通过强迫自己尽快推出某个产品来应对所有这些问题。9. 过早推出过慢推出可能杀死的创业公司数量是过快推出的百倍，但确实也存在过早推出的可能性。"
     },
     {
       "original": "The danger here is that you ruin your reputation. You launch something, the early adopters try it out, and if it's no good they may never come back.So what's the minimum you need to launch? We suggest startups think about what they plan to do, identify a core that's both (a) useful on its own and (b) something that can be incrementally expanded into the whole project, and then get that done as soon as possible.This is the same approach I (and many other programmers) use for writing software.",
-      "translated": "[待翻译] The danger here is that you ruin your reputation. ..."
+      "translated": "这里的危险在于你可能会毁掉自己的声誉。你推出某样东西，早期采用者会尝试使用，如果产品不好，他们可能永远不会回来。那么，你至少需要什么才能推出产品呢？我们建议初创公司思考他们打算做什么，确定一个核心，这个核心既要（a）独立有用，又要（b）能够逐步扩展为整个项目，然后尽快完成这部分内容。这种方法与我和许多其他程序员编写软件时采用的方法相同。"
     },
     {
       "original": "Think about the overall goal, then start by writing the smallest subset of it that does anything useful. If it's a subset, you'll have to write it anyway, so in the worst case you won't be wasting your time.",
-      "translated": "[待翻译] Think about the overall goal, then start by writin..."
+      "translated": "考虑整体目标，然后从编写其中最小的有用子集开始。如果这是一个子集，你无论如何都得编写它，所以最坏的情况下你也不会浪费时间。"
     },
     {
       "original": "But more likely you'll find that implementing a working subset is both good for morale and helps you see more clearly what the rest should do.The early adopters you need to impress are fairly tolerant.",
-      "translated": "[待翻译] But more likely you'll find that implementing a wo..."
+      "translated": "但更可能的是，你会发现实现一个可工作的子集既有利于士气，也有助于你更清楚地看到其余部分应该做什么。你需要打动的早期采用者相当宽容。"
     },
     {
       "original": "They don't expect a newly launched product to do everything; it just has to do something.10. Having No Specific User in MindYou can't build things users like without understanding them. I mentioned earlier that the most successful startups seem to have begun by trying to solve a problem their founders had.",
-      "translated": "[待翻译] They don't expect a newly launched product to do e..."
+      "translated": "他们不期望一个新推出的产品能够做到一切；它只需要做到某件事。10. 没有特定用户在心中你无法在不了解用户的情况下做出用户喜欢的东西。我之前提到，最成功的创业公司似乎都是从试图解决创始人自己遇到的问题开始的。"
     },
     {
       "original": "Perhaps there's a rule here: perhaps you create wealth in proportion to how well you understand the problem you're solving, and the problems you understand best are your own. [4]That's just a theory.",
-      "translated": "[待翻译] Perhaps there's a rule here: perhaps you create we..."
+      "translated": "或许这里有一个规律：你创造的财富与你对所解决问题的理解程度成正比，而你最能理解的问题就是你自己的问题。[4]这仅仅是一个理论。"
     },
     {
       "original": "What's not a theory is the converse: if you're trying to solve problems you don't understand, you're hosed.And yet a surprising number of founders seem willing to assume that someone, they're not sure exactly who, will want what they're building.",
-      "translated": "[待翻译] What's not a theory is the converse: if you're try..."
+      "translated": "不是理论的是相反的情况：如果你试图解决你不懂的问题，你就麻烦了。然而，令人惊讶的是，有很多创始人似乎愿意假设有人，他们也不确定到底是谁，会想要他们正在构建的东西。"
     },
     {
       "original": "Do the founders want it? No, they're not the target market. Who is? Teenagers. People interested in local events (that one is a perennial tarpit). Or \"business\" users. What business users? Gas stations?",
-      "translated": "[待翻译] Do the founders want it? No, they're not the targe..."
+      "translated": "创始人想要吗？不，他们不是目标市场。那么谁是呢？青少年。对当地活动感兴趣的人（这一类人是一个长期的难题）。或者“商务”用户。哪些商务用户呢？加油站？"
     },
     {
       "original": "Movie studios? Defense contractors?You can of course build something for users other than yourself. We did. But you should realize you're stepping into dangerous territory. You're flying on instruments, in effect, so you should (a) consciously shift gears, instead of assuming you can rely on your intuitions as you ordinarily would, and (b) look at the instruments.In this case the instruments are the users.",
-      "translated": "[待翻译] Movie studios? Defense contractors?You can of cour..."
+      "translated": "电影制片厂？国防承包商？当然，你可以为除自己以外的用户构建某些东西。我们就是这样做的。但你应该意识到，自己正踏入危险的领域。你实际上是在依靠仪表飞行，因此你应该（a）有意识地转换思路，而不是像往常那样依赖直觉，以及（b）关注仪表。在这个情况下，仪表就是用户。"
     },
     {
       "original": "When designing for other people you have to be empirical. You can no longer guess what will work; you have to find users and measure their responses. So if you're going to make something for teenagers or \"business\" users or some other group that doesn't include you, you have to be able to talk some specific ones into using what you're making.",
-      "translated": "[待翻译] When designing for other people you have to be emp..."
+      "translated": "在为其他人设计时，你必须以实证为基础。你不能再猜测什么会有效；你必须找到用户并测量他们的反应。所以，如果你要为青少年、“商务”用户或其他不包括你自己的群体制作东西，你必须能够说服一些特定的人使用你所创造的产品。"
     },
     {
       "original": "If you can't, you're on the wrong track.11. Raising Too Little MoneyMost successful startups take funding at some point. Like having more than one founder, it seems a good bet statistically. How much should you take, though?Startup funding is measured in time.",
-      "translated": "[待翻译] If you can't, you're on the wrong track.11. Raisin..."
+      "translated": "如果你做不到，那就说明你走错路了。11. 融资不足大多数成功的创业公司在某个时点都会进行融资。就像拥有不止一位创始人一样，从统计学上看，这是一个不错的赌注。但是，你应该融多少资金呢？创业公司的融资是以时间为单位来衡量的。"
     },
     {
       "original": "Every startup that isn't profitable (meaning nearly all of them, initially) has a certain amount of time left before the money runs out and they have to stop. This is sometimes referred to as runway, as in \"How much runway do you have left?\" It's a good metaphor because it reminds you that when the money runs out you're going to be airborne or dead.Too little money means not enough to get airborne.",
-      "translated": "[待翻译] Every startup that isn't profitable (meaning nearl..."
+      "translated": "每个初创公司如果还没有实现盈利（这意味着几乎所有初创公司最初都是如此）都有一定的时间，直到资金耗尽不得不停止运营。这有时被称为“跑道”，就像会问“你还剩下多少跑道？”这是一个很好的比喻，因为它提醒你，当资金耗尽时，你将要么已经起飞，要么就完了。资金太少意味着不足以让你起飞。"
     },
     {
       "original": "What airborne means depends on the situation. Usually you have to advance to a visibly higher level: if all you have is an idea, a working prototype; if you have a prototype, launching; if you're launched, significant growth.",
-      "translated": "[待翻译] What airborne means depends on the situation. Usua..."
+      "translated": "“空中”一词的含义取决于具体情境。通常情况下，你需要推进到一个明显更高的阶段：如果你只有一个想法，就需要推进到工作原型；如果你已经有了原型，就需要推进到发布；如果你已经发布了，就需要实现显著增长。"
     },
     {
       "original": "It depends on investors, because until you're profitable that's who you have to convince.So if you take money from investors, you have to take enough to get to the next step, whatever that is. [5] Fortunately you have some control over both how much you spend and what the next step is.",
-      "translated": "[待翻译] It depends on investors, because until you're prof..."
+      "translated": "这取决于投资者，因为在你实现盈利之前，你需要说服的是他们。所以，如果你从投资者那里拿钱，就必须拿到足以支持你到达下一个阶段的资金，无论那个阶段是什么。[5] 幸运的是，你可以控制支出的多少以及下一个阶段的目标。"
     },
     {
       "original": "We advise startups to set both low, initially: spend practically nothing, and make your initial goal simply to build a solid prototype. This gives you maximum flexibility.12. Spending Too MuchIt's hard to distinguish spending too much from raising too little.",
-      "translated": "[待翻译] We advise startups to set both low, initially: spe..."
+      "translated": "我们建议初创公司最初将这两者都设得很低：几乎不花任何钱，将最初的目標仅仅定为建立一个扎实的原型。这能给你最大的灵活性。12. 花费过多很难将花费过多与筹集资金不足区分开来。"
     },
     {
       "original": "If you run out of money, you could say either was the cause. The only way to decide which to call it is by comparison with other startups. If you raised five million and ran out of money, you probably spent too much.Burning through too much money is not as common as it used to be.",
-      "translated": "[待翻译] If you run out of money, you could say either was ..."
+      "translated": "如果你耗尽了资金，可以说两者都是原因。唯一决定称其为何者的办法是与其他初创公司进行比较。如果你筹集了五百万却资金耗尽，那可能是因为你花得太多。烧钱过多的情况如今已不像以前那么常见。"
     },
     {
       "original": "Founders seem to have learned that lesson. Plus it keeps getting cheaper to start a startup. So as of this writing few startups spend too much. None of the ones we've funded have. (And not just because we make small investments; many have gone on to raise further rounds.)The classic way to burn through cash is by hiring a lot of people.",
-      "translated": "[待翻译] Founders seem to have learned that lesson. Plus it..."
+      "translated": "创始人们似乎已经吸取了这个教训。再加上启动一家初创公司的成本不断降低。所以，截至我写作时，很少有初创公司花费过多。我们资助的公司中没有一家这样做。（这不仅是因为我们进行小额投资；许多公司后来还进行了后续融资。）烧钱的经典方式是雇佣大量员工。"
     },
     {
       "original": "This bites you twice: in addition to increasing your costs, it slows you down—so money that's getting consumed faster has to last longer. Most hackers understand why that happens; Fred Brooks explained it in The Mythical Man-Month.We have three general suggestions about hiring: (a) don't do it if you can avoid it, (b) pay people with equity rather than salary, not just to save money, but because you want the kind of people who are committed enough to prefer that, and (c) only hire people who are either going to write code or go out and get users, because those are the only things you need at first.13.",
-      "translated": "[待翻译] This bites you twice: in addition to increasing yo..."
+      "translated": "这会给你带来双重打击：除了增加你的成本，它还会让你的速度变慢——因此，钱花得更快，却需要维持更长时间。大多数黑客都明白为什么会这样；Fred Brooks 在《人月神话》中对此进行了解释。我们有三条关于招聘的总体建议：（a）如果可以避免，就不要招聘，（b）用股权而不是薪水来支付，不仅是为了省钱，而是因为你希望招到那些投入程度足以更倾向于选择股权的人，（c）只招聘那些能够编写代码或出去获取用户的人，因为这些是你最初唯一需要的。"
     },
     {
       "original": "Raising Too Much MoneyIt's obvious how too little money could kill you, but is there such a thing as having too much?Yes and no. The problem is not so much the money itself as what comes with it. As one VC who spoke at Y Combinator said, \"Once you take several million dollars of my money, the clock is ticking.\" If VCs fund you, they're not going to let you just put the money in the bank and keep operating as two guys living on ramen.",
-      "translated": "[待翻译] Raising Too Much MoneyIt's obvious how too little ..."
+      "translated": "筹集过多的资金\n\n很明显，资金不足可能会导致公司倒闭，但资金过多也会有问题吗？\n\n是的，但也不尽然。问题不在于资金本身，而在于随之而来的一系列事情。正如一位在 Y Combinator 发言的风险投资家所说：“一旦你接受了我几百万美元的资金，时间就开始倒计时了。” 如果风险投资家投资了你的公司，他们不会让你把钱存进银行，继续过着两个人靠方便面维生的生活。"
     },
     {
       "original": "They want that money to go to work. [6] At the very least you'll move into proper office space and hire more people. That will change the atmosphere, and not entirely for the better. Now most of your people will be employees rather than founders.",
-      "translated": "[待翻译] They want that money to go to work. [6] At the ver..."
+      "translated": "他们希望那些资金能发挥作用。[6] 至少你会搬进合适的办公空间并招聘更多的人。这将改变氛围，而且不完全是好的变化。现在，你的大部分人员将是员工而非创始人。"
     },
     {
       "original": "They won't be as committed; they'll need to be told what to do; they'll start to engage in office politics.When you raise a lot of money, your company moves to the suburbs and has kids.Perhaps more dangerously, once you take a lot of money it gets harder to change direction.",
-      "translated": "[待翻译] They won't be as committed; they'll need to be tol..."
+      "translated": "他们不会那么投入；需要被告知该做什么；他们会开始卷入办公室政治。当你筹集了大量资金后，你的公司会搬到郊区，生儿育女。更危险的是，一旦你接受了大量资金，改变方向就会变得更加困难。"
     },
     {
       "original": "Suppose your initial plan was to sell something to companies. After taking VC money you hire a sales force to do that. What happens now if you realize you should be making this for consumers instead of businesses?",
-      "translated": "[待翻译] Suppose your initial plan was to sell something to..."
+      "translated": "假设你最初的计划是向公司销售产品。在获得风投资金后，你招聘了一支销售团队来完成这个任务。如果你现在意识到应该为消费者而不是企业制作产品，会发生什么？"
     },
     {
       "original": "That's a completely different kind of selling. What happens, in practice, is that you don't realize that. The more people you have, the more you stay pointed in the same direction.Another drawback of large investments is the time they take.",
-      "translated": "[待翻译] That's a completely different kind of selling. Wha..."
+      "translated": "那是一种完全不同的销售方式。实际上，你没有意识到这一点。人越多，就越会保持同一个方向。大型投资的另一个缺点是所需的时间。"
     },
     {
       "original": "The time required to raise money grows with the amount. [7] When the amount rises into the millions, investors get very cautious. VCs never quite say yes or no; they just engage you in an apparently endless conversation.",
-      "translated": "[待翻译] The time required to raise money grows with the am..."
+      "translated": "筹集资金所需的时间随着金额的增加而增长。[7] 当金额达到数百万时，投资者会变得非常谨慎。风险投资家从不会直接说同意或不同意；他们只是让你陷入一场看似无尽的对话中。"
     },
     {
       "original": "Raising VC scale investments is thus a huge time sink — more work, probably, than the startup itself. And you don't want to be spending all your time talking to investors while your competitors are spending theirs building things.We advise founders who go on to seek VC money to take the first reasonable deal they get.",
-      "translated": "[待翻译] Raising VC scale investments is thus a huge time s..."
+      "translated": "筹集风险投资是一项巨大的时间消耗——可能比创业本身还要耗费精力。你不想把所有时间都花在与投资者交谈上，而你的竞争对手却在利用这段时间构建产品。我们建议寻求风险投资的创始人接受他们遇到的第一个合理的投资提议。"
     },
     {
       "original": "If you get an offer from a reputable firm at a reasonable valuation with no unusually onerous terms, just take it and get on with building the company. [8] Who cares if you could get a 30% better deal elsewhere?",
-      "translated": "[待翻译] If you get an offer from a reputable firm at a rea..."
+      "translated": "如果你从一家声誉良好的公司那里得到了一个估值合理且没有特别苛刻条款的offer，就接受它，然后继续建设你的公司。[8] 谁在乎你是否可以在其他地方得到一个好30%的条件呢？"
     },
     {
       "original": "Economically, startups are an all-or-nothing game. Bargain-hunting among investors is a waste of time.14. Poor Investor ManagementAs a founder, you have to manage your investors. You shouldn't ignore them, because they may have useful insights.",
-      "translated": "[待翻译] Economically, startups are an all-or-nothing game...."
+      "translated": "从经济角度来看，初创企业是一场要么全胜要么全输的游戏。在投资者中寻找便宜货是浪费时间。作为创始人，你必须管理好你的投资者。你不应该忽视他们，因为他们可能有宝贵的见解。"
     },
     {
       "original": "But neither should you let them run the company. That's supposed to be your job. If investors had sufficient vision to run the companies they fund, why didn't they start them?Pissing off investors by ignoring them is probably less dangerous than caving in to them.",
-      "translated": "[待翻译] But neither should you let them run the company. T..."
+      "translated": "但也不应该让他们来管理公司。这应该是你的工作。如果投资者有足够的远见来管理他们投资的公司，那为什么他们不自己创办这些公司呢？无视投资者而惹他们生气可能比屈服于他们要安全一些。"
     },
     {
       "original": "In our startup, we erred on the ignoring side. A lot of our energy got drained away in disputes with investors instead of going into the product. But this was less costly than giving in, which would probably have destroyed the company.",
-      "translated": "[待翻译] In our startup, we erred on the ignoring side. A l..."
+      "translated": "在我们的创业公司里，我们倾向于忽视（某些问题）。我们的很多精力被投资者之间的争端消耗掉了，而没有投入到产品上。但与屈服相比，这（忽视的态度）的代价要小得多，因为屈服很可能已经毁掉了公司。"
     },
     {
       "original": "If the founders know what they're doing, it's better to have half their attention focused on the product than the full attention of investors who don't.How hard you have to work on managing investors usually depends on how much money you've taken.",
-      "translated": "[待翻译] If the founders know what they're doing, it's bett..."
+      "translated": "如果创始人知道自己在做什么，那么最好让他们把一半的精力放在产品上，而不是让那些不懂行的投资者全神贯注。你不得不花多大力气管理投资者，通常取决于你筹集了多少钱。"
     },
     {
       "original": "When you raise VC-scale money, the investors get a great deal of control. If they have a board majority, they're literally your bosses. In the more common case, where founders and investors are equally represented and the deciding vote is cast by neutral outside directors, all the investors have to do is convince the outside directors and they control the company.If things go well, this shouldn't matter.",
-      "translated": "[待翻译] When you raise VC-scale money, the investors get a..."
+      "translated": "当你筹集到风险投资规模的资金时，投资者会获得大量的控制权。如果他们拥有董事会多数席位，实际上他们就是你的老板。在更常见的情况下，创始人和投资者在董事会中的代表人数相等，决定性的一票由中立的外部董事投出，这样一来，投资者只需说服外部董事，就能掌控公司。如果一切顺利，这不应该成为问题。"
     },
     {
       "original": "So long as you seem to be advancing rapidly, most investors will leave you alone. But things don't always go smoothly in startups. Investors have made trouble even for the most successful companies. One of the most famous examples is Apple, whose board made a nearly fatal blunder in firing Steve Jobs.",
-      "translated": "[待翻译] So long as you seem to be advancing rapidly, most ..."
+      "translated": "只要你看起来进展迅速，大多数投资者就会放手让你自己干。但创业公司的事情并不总是那么顺利。即使是最成功的公司，投资者也会制造麻烦。一个最著名的例子就是苹果公司，其董事会曾做出几乎致命的错误决定，解雇了史蒂夫·乔布斯。"
     },
     {
       "original": "Apparently even Google got a lot of grief from their investors early on.15. Sacrificing Users to (Supposed) ProfitWhen I said at the beginning that if you make something users want, you'll be fine, you may have noticed I didn't mention anything about having the right business model.",
-      "translated": "[待翻译] Apparently even Google got a lot of grief from the..."
+      "translated": "显然，就连谷歌在早期也受到了投资者的不少批评。15. 牺牲用户以（所谓的）利润当我一开始说，如果你做出用户想要的产品，你就会没事，你可能注意到我没有提到任何关于正确的商业模式的事情。"
     },
     {
       "original": "That's not because making money is unimportant. I'm not suggesting that founders start companies with no chance of making money in the hope of unloading them before they tank. The reason we tell founders not to worry about the business model initially is that making something people want is so much harder.I don't know why it's so hard to make something people want.",
-      "translated": "[待翻译] That's not because making money is unimportant. I'..."
+      "translated": "这并不是因为赚钱不重要。我并不是建议创业者在没有赚钱希望的情况下创办公司，希望在公司垮台前将其脱手。我们告诉创业者最初不要担心商业模式的原因是，做出人们想要的东西要困难得多。我不知道为什么做出人们想要的东西如此困难。"
     },
     {
       "original": "It seems like it should be straightforward. But you can tell it must be hard by how few startups do it.Because making something people want is so much harder than making money from it, you should leave business models for later, just as you'd leave some trivial but messy feature for version 2.",
-      "translated": "[待翻译] It seems like it should be straightforward. But yo..."
+      "translated": "看起来应该很简单。但通过很少有初创公司能做到这一点，你可以看出这一定很难。因为做出人们想要的东西比从中赚钱要难得多，你应该把商业模式放在后面，就像你会把一些琐碎但麻烦的功能留到版本2一样。"
     },
     {
       "original": "In version 1, solve the core problem. And the core problem in a startup is how to create wealth (= how much people want something x the number who want it), not how to convert that wealth into money.The companies that win are the ones that put users first.",
-      "translated": "[待翻译] In version 1, solve the core problem. And the core..."
+      "translated": "在1.0版本中，解决核心问题。而初创企业的核心问题是创造财富（=人们想要某样东西的程度 x 想要它的人数），而不是将财富转化为金钱。获胜的公司是那些将用户放在第一位的公司。"
     },
     {
       "original": "Google, for example. They made search work, then worried about how to make money from it. And yet some startup founders still think it's irresponsible not to focus on the business model from the beginning.",
-      "translated": "[待翻译] Google, for example. They made search work, then w..."
+      "translated": "以谷歌为例。他们首先让搜索引擎发挥作用，然后才考虑如何从中盈利。然而，一些初创公司的创始人仍然认为，从一开始就不过分关注商业模式是不负责任的。"
     },
     {
       "original": "They're often encouraged in this by investors whose experience comes from less malleable industries.It is irresponsible not to think about business models. It's just ten times more irresponsible not to think about the product.16.",
-      "translated": "[待翻译] They're often encouraged in this by investors whos..."
+      "translated": "他们通常会受到那些来自不太容易改变的行业的投资者的鼓励。不考虑商业模式是不负责任的。但不考虑产品则是十倍的不负责任。16."
     },
     {
       "original": "Not Wanting to Get Your Hands DirtyNearly all programmers would rather spend their time writing code and have someone else handle the messy business of extracting money from it. And not just the lazy ones.",
-      "translated": "[待翻译] Not Wanting to Get Your Hands DirtyNearly all prog..."
+      "translated": "不想弄脏手\n\n几乎所有的程序员都宁愿把时间花在写代码上，让别人来处理从代码中赚钱的繁琐事务。这不仅仅是因为懒。"
     },
     {
       "original": "Larry and Sergey apparently felt this way too at first. After developing their new search algorithm, the first thing they tried was to get some other company to buy it.Start a company? Yech. Most hackers would rather just have ideas.",
-      "translated": "[待翻译] Larry and Sergey apparently felt this way too at f..."
+      "translated": "显然，拉里和谢尔盖最初也有同感。在开发出新的搜索算法后，他们首先尝试的是让其他公司购买这一技术。创办公司？真没劲。大多数黑客只想有好点子。"
     },
     {
       "original": "But as Larry and Sergey found, there's not much of a market for ideas. No one trusts an idea till you embody it in a product and use that to grow a user base. Then they'll pay big time.Maybe this will change, but I doubt it will change much.",
-      "translated": "[待翻译] But as Larry and Sergey found, there's not much of..."
+      "translated": "但正如拉里和谢尔盖所发现的，对创意的市场需求并不大。没有人会信任一个创意，直到你将其转化为产品，并用该产品来发展用户群。那时，他们才会愿意支付高昂的费用。或许这种情况会有所改变，但我怀疑变化不会太大。"
     },
     {
       "original": "There's nothing like users for convincing acquirers. It's not just that the risk is decreased. The acquirers are human, and they have a hard time paying a bunch of young guys millions of dollars just for being clever.",
-      "translated": "[待翻译] There's nothing like users for convincing acquirer..."
+      "translated": "没有什么比用户更能说服收购者了。这不仅是因为风险降低了。收购者也是人，他们很难仅仅因为一些年轻人聪明就支付给他们数百万美元。"
     },
     {
       "original": "When the idea is embodied in a company with a lot of users, they can tell themselves they're buying the users rather than the cleverness, and this is easier for them to swallow. [9]If you're going to attract users, you'll probably have to get up from your computer and go find some.",
-      "translated": "[待翻译] When the idea is embodied in a company with a lot ..."
+      "translated": "当这个想法体现在一家拥有大量用户的公司时，他们可以告诉自己，他们购买的是用户，而不是聪明才智，这让他们更容易接受。[9]如果你想要吸引用户，你可能不得不从电脑前站起来，出去找一些。"
     },
     {
       "original": "It's unpleasant work, but if you can make yourself do it you have a much greater chance of succeeding. In the first batch of startups we funded, in the summer of 2005, most of the founders spent all their time building their applications.",
-      "translated": "[待翻译] It's unpleasant work, but if you can make yourself..."
+      "translated": "这是一项不愉快的工作，但如果你能让自己去做，你就有更大的成功机会。在2005年夏天我们资助的第一批创业公司中，大多数创始人把所有的时间都花在构建他们的应用程序上。"
     },
     {
       "original": "But there was one who was away half the time talking to executives at cell phone companies, trying to arrange deals. Can you imagine anything more painful for a hacker? [10] But it paid off, because this startup seems the most successful of that group by an order of magnitude.If you want to start a startup, you have to face the fact that you can't just hack.",
-      "translated": "[待翻译] But there was one who was away half the time talki..."
+      "translated": "但有一个人一半的时间都在和手机公司的高管交谈，试图促成交易。你能想象这对一个黑客来说有多痛苦吗？[10] 但最终这带来了回报，因为这家初创公司似乎比那组公司中的其他公司成功得多。如果你想创业，你必须面对一个事实，那就是你不能仅仅是编程。"
     },
     {
       "original": "At least one hacker will have to spend some of the time doing business stuff.17. Fights Between FoundersFights between founders are surprisingly common. About 20% of the startups we've funded have had a founder leave.",
-      "translated": "[待翻译] At least one hacker will have to spend some of the..."
+      "translated": "至少需要有一名黑客花费一些时间处理商务事务。创始人之间的争执相当常见。在我们资助的初创企业中，大约有20%的企业曾有创始人离职。"
     },
     {
       "original": "It happens so often that we've reversed our attitude to vesting. We still don't require it, but now we advise founders to vest so there will be an orderly way for people to quit.A founder leaving doesn't necessarily kill a startup, though.",
-      "translated": "[待翻译] It happens so often that we've reversed our attitu..."
+      "translated": "这种情况频繁发生，以至于我们对股权归属的态度发生了逆转。我们虽然不要求实行股权归属，但现在建议创始人们这样做，以便有一个有序的方式让员工离职。然而，创始人离开并不一定会毁掉一家初创公司。"
     },
     {
       "original": "Plenty of successful startups have had that happen. [11] Fortunately it's usually the least committed founder who leaves. If there are three founders and one who was lukewarm leaves, big deal. If you have two and one leaves, or a guy with critical technical skills leaves, that's more of a problem.",
-      "translated": "[待翻译] Plenty of successful startups have had that happen..."
+      "translated": "许多成功的初创公司都经历过这种情况。[11] 幸运的是，通常离开的是最不坚定的创始人。如果有三位创始人，其中一位不够热情的离开了，这没什么大不了的。如果你只有两位创始人，其中一位离开了，或者离开的是拥有关键技术技能的人，那问题就大了。"
     },
     {
       "original": "But even that is survivable. Blogger got down to one person, and they bounced back.Most of the disputes I've seen between founders could have been avoided if they'd been more careful about who they started a company with.",
-      "translated": "[待翻译] But even that is survivable. Blogger got down to o..."
+      "translated": "但即使是那样的情况也是可以挺过来的。Blogger曾一度只剩下一个人，但他们最终还是东山再起了。我所见过的大多数创始人之间的争端，如果他们在选择创业伙伴时更加谨慎的话，本是可以避免的。"
     },
     {
       "original": "Most disputes are not due to the situation but the people. Which means they're inevitable. And most founders who've been burned by such disputes probably had misgivings, which they suppressed, when they started the company.",
-      "translated": "[待翻译] Most disputes are not due to the situation but the..."
+      "translated": "大多数纠纷并非源于情况本身，而是源于人。这意味着纠纷是不可避免的。而大多数因此类纠纷而受挫的创始人，在公司成立之初可能就有所顾虑，只是他们压制了这些疑虑。"
     },
     {
       "original": "Don't suppress misgivings. It's much easier to fix problems before the company is started than after. So don't include your housemate in your startup because he'd feel left out otherwise. Don't start a company with someone you dislike because they have some skill you need and you worry you won't find anyone else.",
-      "translated": "[待翻译] Don't suppress misgivings. It's much easier to fix..."
+      "translated": "不要压抑疑虑。在公司成立之前解决问题比之后容易得多。所以，不要因为你室友觉得被排除在外就让他加入你的创业项目。不要因为某人有你需要的技能而与你不喜欢的人一起创业，也不要担心找不到其他人。"
     },
     {
       "original": "The people are the most important ingredient in a startup, so don't compromise there.18. A Half-Hearted EffortThe failed startups you hear most about are the spectacular flameouts. Those are actually the elite of failures.",
-      "translated": "[待翻译] The people are the most important ingredient in a ..."
+      "translated": "人是创业公司最重要的因素，所以在这方面不要妥协。18. 半途而废的努力你最常听到的失败创业公司是那些轰轰烈烈失败的。实际上，这些才是失败中的精英。"
     },
     {
       "original": "The most common type is not the one that makes spectacular mistakes, but the one that doesn't do much of anything — the one we never even hear about, because it was some project a couple guys started on the side while working on their day jobs, but which never got anywhere and was gradually abandoned.Statistically, if you want to avoid failure, it would seem like the most important thing is to quit your day job.",
-      "translated": "[待翻译] The most common type is not the one that makes spe..."
+      "translated": "最常见的类型并不是那些犯下惊人错误的，而是那些几乎什么都不做的——那些我们甚至从未听说过的，因为它们是一些人在做主业的同时顺便启动的项目，但最终没有任何进展，逐渐被遗弃。从统计学上看，如果你想避免失败，似乎最重要的事情就是辞掉你的日常工作。"
     },
     {
       "original": "Most founders of failed startups don't quit their day jobs, and most founders of successful ones do. If startup failure were a disease, the CDC would be issuing bulletins warning people to avoid day jobs.Does that mean you should quit your day job?",
-      "translated": "[待翻译] Most founders of failed startups don't quit their ..."
+      "translated": "大多数失败的初创公司创始人没有辞掉他们的本职工作，而大多数成功的创始人则辞掉了。如果创业失败是一种疾病，CDC（疾病控制与预防中心）会发布公告警告人们不要从事本职工作。这是否意味着你应该辞掉你的工作？"
     },
     {
       "original": "Not necessarily. I'm guessing here, but I'd guess that many of these would-be founders may not have the kind of determination it takes to start a company, and that in the back of their minds, they know it.",
-      "translated": "[待翻译] Not necessarily. I'm guessing here, but I'd guess ..."
+      "translated": "不一定。我在这里只是猜测，但我认为，这些潜在的创业者中，许多人可能不具备创办公司所需的决心，而在他们内心深处，他们自己也心知肚明。"
     },
     {
       "original": "The reason they don't invest more time in their startup is that they know it's a bad investment. [12]I'd also guess there's some band of people who could have succeeded if they'd taken the leap and done it full-time, but didn't.",
-      "translated": "[待翻译] The reason they don't invest more time in their st..."
+      "translated": "他们没有在创业项目上投入更多时间的原因是他们知道这是一笔糟糕的投资。我也猜测有一些人，如果他们敢于全力以赴，是有可能成功的，但他们没有这么做。"
     },
     {
       "original": "I have no idea how wide this band is, but if the winner/borderline/hopeless progression has the sort of distribution you'd expect, the number of people who could have made it, if they'd quit their day job, is probably an order of magnitude larger than the number who do make it.",
-      "translated": "[待翻译] I have no idea how wide this band is, but if the w..."
+      "translated": "我不知道这个区间有多宽，但如果胜者/临界/无望者的分布如你所预期的那样，那么如果这些人放弃日常工作，能够成功的人数可能是实际成功人数的十倍。"
     },
     {
       "original": "[13]If that's true, most startups that could succeed fail because the founders don't devote their whole efforts to them. That certainly accords with what I see out in the world. Most startups fail because they don't make something people want, and the reason most don't is that they don't try hard enough.In other words, starting startups is just like everything else.",
-      "translated": "[待翻译] [13]If that's true, most startups that could succe..."
+      "translated": "如果这是真的，那么大多数可能成功的初创企业之所以失败，是因为创始人没有全身心地投入其中。这与我在现实世界中所见确实相符。大多数初创企业之所以失败，是因为它们没有创造出人们想要的产品，而大多数没有创造出人们想要的产品的原因是他们没有足够努力。换句话说，创办初创企业和其他事情一样。"
     },
     {
       "original": "The biggest mistake you can make is not to try hard enough. To the extent there's a secret to success, it's not to be in denial about that. Notes[1] This is not a complete list of the causes of failure, just those you can control.",
-      "translated": "[待翻译] The biggest mistake you can make is not to try har..."
+      "translated": "你所能犯的最大错误就是不够努力。如果说成功有什么秘诀的话，那就是不要对此视而不见。这并不是一个完整的失败原因列表，而只是那些你可以控制的因素。"
     },
     {
       "original": "There are also several you can't, notably ineptitude and bad luck.[2] Ironically, one variant of the Facebook that might work is a facebook exclusively for college students.[3] Steve Jobs tried to motivate people by saying \"Real artists ship.\" This is a fine sentence, but unfortunately not true.",
-      "translated": "[待翻译] There are also several you can't, notably ineptitu..."
+      "translated": "还有一些是你无法控制的，比如无能和霉运。[2] 有趣的是，一个可能成功的Facebook变种是专为大学生设计的Facebook。[3] 史蒂夫·乔布斯曾试图通过说“真正的艺术家会交付作品”来激励人们。这句话虽然很好，但遗憾的是并不完全正确。"
     },
     {
       "original": "Many famous works of art are unfinished. It's true in fields that have hard deadlines, like architecture and filmmaking, but even there people tend to be tweaking stuff till it's yanked out of their hands.[4] There's probably also a second factor: startup founders tend to be at the leading edge of technology, so problems they face are probably especially valuable.[5] You should take more than you think you'll need, maybe 50% to 100% more, because software takes longer to write and deals longer to close than you expect.[6] Since people sometimes call us VCs, I should add that we're not.",
-      "translated": "[待翻译] Many famous works of art are unfinished. It's true..."
+      "translated": "许多著名的艺术作品都是未完成的。这在有严格截止日期的领域如建筑和电影制作中确实存在，但即使在这些领域，人们也倾向于在作品被夺走之前一直在修改。可能还有第二个因素：创业公司的创始人往往处于技术的前沿，因此他们面临的问题可能特别有价值。你应该准备比你认为需要的多50%到100%的资源，因为软件编写和交易关闭所需的时间都比你预期的要长。由于有时人们称我们为风险投资家，我应该补充说明，我们并不是。"
     },
     {
       "original": "VCs invest large amounts of other people's money. We invest small amounts of our own, like angel investors.[7] Not linearly of course, or it would take forever to raise five million dollars. In practice it just feels like it takes forever.Though if you include the cases where VCs don't invest, it would literally take forever in the median case.",
-      "translated": "[待翻译] VCs invest large amounts of other people's money. ..."
+      "translated": "风险投资家投资大量他人的资金。我们则像天使投资人那样，投资较少的自有资金。当然，不是按线性比例，否则筹集五百万美元将永远没有尽头。实际上，感觉上就像是永远没有尽头。不过，如果包括那些风险投资家不投资的案例，在中位数情况下，确实会永远没有尽头。"
     },
     {
       "original": "And maybe we should, because the danger of chasing large investments is not just that they take a long time. That's the best case. The real danger is that you'll expend a lot of time and get nothing.[8] Some VCs will offer you an artificially low valuation to see if you have the balls to ask for more.",
-      "translated": "[待翻译] And maybe we should, because the danger of chasing..."
+      "translated": "也许我们应该这样做，因为追求大额投资的风险不仅在于它们耗时长。那还是最好的情况。真正的危险在于，你可能会耗费大量时间却一无所获。一些风险投资家会给你一个人为压低的估值，看看你是否有胆量要求更多。"
     },
     {
       "original": "It's lame that VCs play such games, but some do. If you're dealing with one of those you should push back on the valuation a bit.[9] Suppose YouTube's founders had gone to Google in 2005 and told them \"Google Video is badly designed.",
-      "translated": "[待翻译] It's lame that VCs play such games, but some do. I..."
+      "translated": "风投玩这种把戏确实很不地道，但确实有些人会这么做。如果你碰到了这样的风投，你应该在估值上坚持一下。[9] 假设 YouTube 的创始人在 2005 年找到谷歌，告诉他们“Google Video 的设计很糟糕。”"
     },
     {
       "original": "Give us $10 million and we'll tell you all the mistakes you made.\" They would have gotten the royal raspberry. Eighteen months later Google paid $1.6 billion for the same lesson, partly because they could then tell themselves that they were buying a phenomenon, or a community, or some vague thing like that.I don't mean to be hard on Google.",
-      "translated": "[待翻译] Give us $10 million and we'll tell you all the mis..."
+      "translated": "给我们1000万美元，我们就会告诉你你所有的错误。”他们本会得到一片嘘声。18个月后，谷歌为同样的教训支付了16亿美元，部分原因是他们可以告诉自己，他们购买的是一种现象，或一个社区，或一些类似的东西。我不是故意要对谷歌苛刻。"
     },
     {
       "original": "They did better than their competitors, who may have now missed the video boat entirely.[10] Yes, actually: dealing with the government. But phone companies are up there.[11] Many more than most people realize, because companies don't advertise this.",
-      "translated": "[待翻译] They did better than their competitors, who may ha..."
+      "translated": "他们比竞争对手做得更好，后者可能已经完全错过了视频的机遇。[10] 是的，确实如此：与政府打交道。但电话公司也名列前茅。[11] 比大多数人们意识到的要多得多，因为公司不会宣传这一点。"
     },
     {
       "original": "Did you know Apple originally had three founders?[12] I'm not dissing these people. I don't have the determination myself. I've twice come close to starting startups since Viaweb, and both times I bailed because I realized that without the spur of poverty I just wasn't willing to endure the stress of a startup.[13] So how do you know whether you're in the category of people who should quit their day job, or the presumably larger one who shouldn't?",
-      "translated": "[待翻译] Did you know Apple originally had three founders?[..."
+      "translated": "你知道苹果公司最初有三位创始人吗？[12] 我不是在贬低这些人。我自己也没有那样的决心。自 Viaweb 之后，我两次差点创业，但两次都因为意识到没有贫困的鞭策，我根本不愿意承受创业的压力而放弃了。[13] 那么，你如何知道自己是应该辞掉工作的那类人，还是应该是更大群体中不应该辞职的那类人呢？"
     },
     {
       "original": "I got to the point of saying that this was hard to judge for yourself and that you should seek outside advice, before realizing that that's what we do. We think of ourselves as investors, but viewed from the other direction Y Combinator is a service for advising people whether or not to quit their day job.",
-      "translated": "[待翻译] I got to the point of saying that this was hard to..."
+      "translated": "我意识到，在你认为很难自我判断是否应该寻求外部建议之前，我们实际上已经在这么做了。我们自认为是投资者，但从另一个角度来看，Y Combinator 是一项服务，旨在帮助人们决定是否应该辞去他们的日常工作。"
     },
     {
       "original": "We could be mistaken, and no doubt often are, but we do at least bet money on our conclusions.Thanks to Sam Altman, Jessica Livingston, Greg McAdoo, and Robert Morris for reading drafts of this. Japanese TranslationSpanish TranslationRomanian TranslationChinese TranslationArabic Translation",
-      "translated": "[待翻译] We could be mistaken, and no doubt often are, but ..."
+      "translated": "我们可能会犯错，无疑经常如此，但至少我们是根据自己的结论下注的。感谢Sam Altman、Jessica Livingston、Greg McAdoo和Robert Morris阅读本文的草稿。日语翻译西班牙语翻译罗马尼亚语翻译中文翻译阿拉伯语翻译"
     }
-  ]
+  ],
+  "translation_completed": "2025-07-29T01:27:58.265321",
+  "translation_stats": {
+    "total_paragraphs": 109,
+    "success_count": 109,
+    "success_rate": "100.0%"
+  }
 }

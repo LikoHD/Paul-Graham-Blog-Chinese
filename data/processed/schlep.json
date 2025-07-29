@@ -32,67 +32,73 @@
   "paragraphs": [
     {
       "original": "Want to start a startup? Get funded by Y Combinator. January 2012There are great startup ideas lying around unexploited right under our noses. One reason we don't see them is a phenomenon I call schlep blindness.",
-      "translated": "[待翻译] Want to start a startup? Get funded by Y Combinato..."
+      "translated": "想创业吗？那就让Y Combinator来资助你吧。2012年1月\n\n我们身边就存在着许多未被发掘的优秀创业点子。我们没有发现它们的一个原因是，我称之为“拖沓盲视”的现象。"
     },
     {
       "original": "Schlep was originally a Yiddish word but has passed into general use in the US. It means a tedious, unpleasant task.No one likes schleps, but hackers especially dislike them. Most hackers who start startups wish they could do it by just writing some clever software, putting it on a server somewhere, and watching the money roll in—without ever having to talk to users, or negotiate with other companies, or deal with other people's broken code.",
-      "translated": "[待翻译] Schlep was originally a Yiddish word but has passe..."
+      "translated": "“Schlep” 最初是一个意第绪语词汇，但现在在美国已经广泛使用。它指的是乏味且不愉快的任务。没有人喜欢“Schlep”，但黑客尤其不喜欢。大多数开始创业的黑客都希望他们能仅仅通过编写一些巧妙的软件，将其放在某个服务器上，然后看着钱滚滚而来——而无需与用户交流，或与其他公司谈判，或处理其他人的烂代码。"
     },
     {
       "original": "Maybe that's possible, but I haven't seen it.One of the many things we do at Y Combinator is teach hackers about the inevitability of schleps. No, you can't start a startup by just writing code. I remember going through this realization myself.",
-      "translated": "[待翻译] Maybe that's possible, but I haven't seen it.One o..."
+      "translated": "也许这是可能的，但我没见过。我们在 Y Combinator 做的许多事情之一就是教导黑客们认识到不可避免的艰辛。不，你不能仅通过编写代码就创办一家初创公司。我还记得自己经历过这种认识的过程。"
     },
     {
       "original": "There was a point in 1995 when I was still trying to convince myself I could start a company by just writing code. But I soon learned from experience that schleps are not merely inevitable, but pretty much what business consists of.",
-      "translated": "[待翻译] There was a point in 1995 when I was still trying ..."
+      "translated": "1995年的时候，我还试图说服自己，仅仅通过编写代码就能创办一家公司。但很快，我从经验中了解到，辛苦的工作不仅不可避免，而且几乎是商业的全部。"
     },
     {
       "original": "A company is defined by the schleps it will undertake. And schleps should be dealt with the same way you'd deal with a cold swimming pool: just jump in. Which is not to say you should seek out unpleasant work per se, but that you should never shrink from it if it's on the path to something great.The most dangerous thing about our dislike of schleps is that much of it is unconscious.",
-      "translated": "[待翻译] A company is defined by the schleps it will undert..."
+      "translated": "一家公司由它愿意承担的苦差事来定义。对待这些苦差事，你应该像对待一个冰冷的游泳池一样：直接跳进去。这并不是说你应该故意去寻找不愉快的工作，但如果你的目标是伟大的事业，就不应该回避这些苦差事。我们对苦差事的厌恶中最危险的一点是，这种厌恶往往是无意识的。"
     },
     {
       "original": "Your unconscious won't even let you see ideas that involve painful schleps. That's schlep blindness.The phenomenon isn't limited to startups. Most people don't consciously decide not to be in as good physical shape as Olympic athletes, for example.",
-      "translated": "[待翻译] Your unconscious won't even let you see ideas that..."
+      "translated": "你的潜意识甚至不会让你看到涉及痛苦跋涉的想法。这就是跋涉盲。这种现象并不局限于创业公司。例如，大多数人都不会自觉地决定不去像奥运运动员那样保持良好的体形。"
     },
     {
       "original": "Their unconscious mind decides for them, shrinking from the work involved.The most striking example I know of schlep blindness is Stripe, or rather Stripe's idea. For over a decade, every hacker who'd ever had to process payments online knew how painful the experience was.",
-      "translated": "[待翻译] Their unconscious mind decides for them, shrinking..."
+      "translated": "他们的潜意识为他们做出了决定，回避所需的工作。我所知的最显著的“懒惰盲点”例子是Stripe，或者说Stripe的想法。十多年以来，每一个曾经需要在线处理支付的黑客都知道这个过程有多么痛苦。"
     },
     {
       "original": "Thousands of people must have known about this problem. And yet when they started startups, they decided to build recipe sites, or aggregators for local events. Why? Why work on problems few care much about and no one will pay for, when you could fix one of the most important components of the world's infrastructure?",
-      "translated": "[待翻译] Thousands of people must have known about this pro..."
+      "translated": "成千上万的人一定知道这个问题。然而，当他们开始创业时，却决定建立食谱网站，或者本地活动的聚合平台。为什么？为什么要去解决那些几乎没人关心、也没人愿意为之付费的问题，而不去解决世界基础设施中最重要的组成部分之一呢？"
     },
     {
       "original": "Because schlep blindness prevented people from even considering the idea of fixing payments.Probably no one who applied to Y Combinator to work on a recipe site began by asking \"should we fix payments, or build a recipe site?\" and chose the recipe site.",
-      "translated": "[待翻译] Because schlep blindness prevented people from eve..."
+      "translated": "由于“懒得改”的心理，人们甚至没有考虑过修复支付系统的问题。大概没有哪个申请加入 Y Combinator 的团队会先问自己：“我们应该去修复支付系统，还是做一个菜谱网站？”然后选择了菜谱网站。"
     },
     {
       "original": "Though the idea of fixing payments was right there in plain sight, they never saw it, because their unconscious mind shrank from the complications involved. You'd have to make deals with banks. How do you do that?",
-      "translated": "[待翻译] Though the idea of fixing payments was right there..."
+      "translated": "尽管固定的支付方式明摆在那儿，但他们从未看到，因为他们的潜意识回避了其中的复杂性。你得和银行达成协议。这该怎么做呢？"
     },
     {
       "original": "Plus you're moving money, so you're going to have to deal with fraud, and people trying to break into your servers. Plus there are probably all sorts of regulations to comply with. It's a lot more intimidating to start a startup like this than a recipe site.That scariness makes ambitious ideas doubly valuable.",
-      "translated": "[待翻译] Plus you're moving money, so you're going to have ..."
+      "translated": "此外，你还需要处理资金流转，所以必须应对欺诈行为和试图入侵你服务器的人。再加上可能需要遵守的各种法规。与创建一个食谱网站相比，这样的创业项目要令人望而生畏得多。这种恐惧感使得雄心勃勃的想法更加珍贵。"
     },
     {
       "original": "In addition to their intrinsic value, they're like undervalued stocks in the sense that there's less demand for them among founders. If you pick an ambitious idea, you'll have less competition, because everyone else will have been frightened off by the challenges involved.",
-      "translated": "[待翻译] In addition to their intrinsic value, they're like..."
+      "translated": "除了它们的内在价值，这些想法还像被低估的股票一样，因为在创始人中对它们的需求较少。如果你选择一个雄心勃勃的点子，你会遇到的竞争较少，因为其他人会被其中的挑战吓退。"
     },
     {
       "original": "(This is also true of starting a startup generally.)How do you overcome schlep blindness? Frankly, the most valuable antidote to schlep blindness is probably ignorance. Most successful founders would probably say that if they'd known when they were starting their company about the obstacles they'd have to overcome, they might never have started it.",
-      "translated": "[待翻译] (This is also true of starting a startup generally..."
+      "translated": "（这同样适用于一般创业的情况。）如何克服惰性盲区？坦率地说，克服惰性盲区最有效的解药可能是无知。大多数成功的创始人可能会说，如果他们在创业之初就知道将会遇到的障碍，他们可能根本就不会开始。"
     },
     {
       "original": "Maybe that's one reason the most successful startups of all so often have young founders.In practice the founders grow with the problems. But no one seems able to foresee that, not even older, more experienced founders.",
-      "translated": "[待翻译] Maybe that's one reason the most successful startu..."
+      "translated": "也许这就是为什么最成功的初创公司往往有年轻的创始人。实际上，创始人是随着问题的解决而成长的。但似乎没有人能够预见到这一点，即使是那些年龄更大、经验更丰富的创始人也不例外。"
     },
     {
       "original": "So the reason younger founders have an advantage is that they make two mistakes that cancel each other out. They don't know how much they can grow, but they also don't know how much they'll need to. Older founders only make the first mistake.Ignorance can't solve everything though.",
-      "translated": "[待翻译] So the reason younger founders have an advantage i..."
+      "translated": "所以，年轻创始人有优势的原因在于他们会犯两个互相抵消的错误。他们不知道自己能成长到什么程度，但同时也低估了自己需要达到的程度。而年长的创始人只会犯第一个错误。不过，无知并不能解决一切问题。"
     },
     {
       "original": "Some ideas so obviously entail alarming schleps that anyone can see them. How do you see ideas like that? The trick I recommend is to take yourself out of the picture. Instead of asking \"what problem should I solve?\" ask \"what problem do I wish someone else would solve for me?\" If someone who had to process payments before Stripe had tried asking that, Stripe would have been one of the first things they wished for.It's too late now to be Stripe, but there's plenty still broken in the world, if you know how to see it.Thanks to Sam Altman, Paul Buchheit, Patrick Collison, Aaron Iba, Jessica Livingston, Emmett Shear, and Harj Taggar for reading drafts of this.",
-      "translated": "[待翻译] Some ideas so obviously entail alarming schleps th..."
+      "translated": "有些想法显然会带来令人担忧的麻烦，任何人都能看出来。你如何看待这类想法？我建议的诀窍是把自己抽离出来。不要问“我应该解决什么问题？”而是问“我希望有人能为我解决什么问题？”如果在Stripe出现之前，有人需要处理支付问题时问了这个问题，Stripe就是他们最先希望出现的服务之一。现在再想成为Stripe已经太晚了，但世界上还有很多问题亟待解决，只要你知道如何发现它们。感谢Sam Altman、Paul Buchheit、Patrick Collison、Aaron Iba、Jessica Livingston、Emmett Shear和Harj Taggar阅读本文的草稿。"
     }
-  ]
+  ],
+  "translation_completed": "2025-07-28T13:54:57.705931",
+  "translation_stats": {
+    "total_paragraphs": 16,
+    "success_count": 16,
+    "success_rate": "100.0%"
+  }
 }

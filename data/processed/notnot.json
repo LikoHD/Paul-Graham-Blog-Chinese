@@ -137,487 +137,493 @@
   "paragraphs": [
     {
       "original": "Want to start a startup? Get funded by Y Combinator. March 2007(This essay is derived from talks at the 2007 Startup School and the Berkeley CSUA.)We've now been doing Y Combinator long enough to have some data about success rates.",
-      "translated": "[待翻译] Want to start a startup? Get funded by Y Combinato..."
+      "translated": "想创业吗？那就争取得到 Y Combinator 的投资吧。2007年3月（本文源于2007年创业学校和伯克利CSUA的演讲）。到现在，我们已经运营 Y Combinator 足够长的时间，积累了一些关于成功率的数据。"
     },
     {
       "original": "Our first batch, in the summer of 2005, had eight startups in it. Of those eight, it now looks as if at least four succeeded. Three have been acquired: Reddit was a merger of two, Reddit and Infogami, and a third was acquired that we can't talk about yet.",
-      "translated": "[待翻译] Our first batch, in the summer of 2005, had eight ..."
+      "translated": "我们的第一批项目在2005年夏天启动，共有八家初创企业。在这些企业中，现在看来至少有四家取得了成功。其中有三家已经被收购：Reddit是由两家公司合并而成的，分别是Reddit和Infogami，还有一家被收购的公司目前还不能透露。"
     },
     {
       "original": "Another from that batch was Loopt, which is doing so well they could probably be acquired in about ten minutes if they wanted to.So about half the founders from that first summer, less than two years ago, are now rich, at least by their standards.",
-      "translated": "[待翻译] Another from that batch was Loopt, which is doing ..."
+      "translated": "另一个来自那一批的是 Loopt，他们做得非常好，如果他们愿意的话，可能在十分钟内就能被收购。所以，大约一半的第一批夏季创始人，不到两年前，现在都已经富裕了，至少按照他们的标准来说是这样。"
     },
     {
       "original": "(One thing you learn when you get rich is that there are many degrees of it.)I'm not ready to predict our success rate will stay as high as 50%. That first batch could have been an anomaly. But we should be able to do better than the oft-quoted (and probably made up) standard figure of 10%.",
-      "translated": "[待翻译] (One thing you learn when you get rich is that the..."
+      "translated": "（当你变得富裕时，你会学到的一件事是，富裕也有许多不同的层次。）我不敢预测我们的成功率会一直保持在50%这么高。第一批的成功可能是个特例。但我们应该能做得比经常被引用的（可能杜撰的）标准数字10%要好。"
     },
     {
       "original": "I'd feel safe aiming at 25%.Even the founders who fail don't seem to have such a bad time. Of those first eight startups, three are now probably dead. In two cases the founders just went on to do other things at the end of the summer.",
-      "translated": "[待翻译] I'd feel safe aiming at 25%.Even the founders who ..."
+      "translated": "我觉得设定25%的目标是安全的。即使是失败的创始人似乎也没有过得太糟。在最初的八家创业公司中，现在有三家可能已经倒闭了。在两个案例中，创始人在夏天结束时只是转去做其他事情了。"
     },
     {
       "original": "I don't think they were traumatized by the experience. The closest to a traumatic failure was Kiko, whose founders kept working on their startup for a whole year before being squashed by Google Calendar.",
-      "translated": "[待翻译] I don't think they were traumatized by the experie..."
+      "translated": "我认为他们并没有因为这次经历而受到创伤。最接近创伤性失败的是 Kiko，其创始人坚持了一整年才被谷歌日历击败。"
     },
     {
       "original": "But they ended up happy. They sold their software on eBay for a quarter of a million dollars. After they paid back their angel investors, they had about a year's salary each. [1] Then they immediately went on to start a new and much more exciting startup, Justin.TV.So here is an even more striking statistic: 0% of that first batch had a terrible experience.",
-      "translated": "[待翻译] But they ended up happy. They sold their software ..."
+      "translated": "但他们最终很开心。他们在eBay上以二十五万美元的价格卖掉了他们的软件。在偿还了天使投资者之后，他们每人得到了大约一年的薪水。[1] 然后他们立即着手开始了更令人兴奋的新项目——Justin.TV。所以这里有一个更加惊人的统计数据：第一批人中没有人有糟糕的经历。"
     },
     {
       "original": "They had ups and downs, like every startup, but I don't think any would have traded it for a job in a cubicle. And that statistic is probably not an anomaly. Whatever our long-term success rate ends up being, I think the rate of people who wish they'd gotten a regular job will stay close to 0%.The big mystery to me is: why don't more people start startups?",
-      "translated": "[待翻译] They had ups and downs, like every startup, but I ..."
+      "translated": "他们经历了起伏，就像每个初创公司一样，但我认为没有人会用这段经历去换一个格子间的职位。这个统计数据可能并不是个例。无论我们最终的长期成功率如何，我认为那些希望自己当初找了一份普通工作的人的比例将接近0%。对我来说，最大的谜团是：为什么没有更多的人去创办初创公司？"
     },
     {
       "original": "If nearly everyone who does it prefers it to a regular job, and a significant percentage get rich, why doesn't everyone want to do this? A lot of people think we get thousands of applications for each funding cycle.",
-      "translated": "[待翻译] If nearly everyone who does it prefers it to a reg..."
+      "translated": "如果几乎所有从事这项工作的人更喜欢它而不是一份普通工作，而且有相当一部分人因此变得富有，为什么不是每个人都想做这件事呢？很多人以为我们每轮资助都会收到成千上万的申请。"
     },
     {
       "original": "In fact we usually only get several hundred. Why don't more people apply? And while it must seem to anyone watching this world that startups are popping up like crazy, the number is small compared to the number of people with the necessary skills.",
-      "translated": "[待翻译] In fact we usually only get several hundred. Why d..."
+      "translated": "事实上，我们通常只能收到几百份申请。为什么没有更多人申请呢？虽然从旁观者的角度看，初创公司似乎如雨后春笋般涌现，但与拥有必要技能的人数相比，这个数字还是很小的。"
     },
     {
       "original": "The great majority of programmers still go straight from college to cubicle, and stay there.It seems like people are not acting in their own interest. What's going on? Well, I can answer that. Because of Y Combinator's position at the very start of the venture funding process, we're probably the world's leading experts on the psychology of people who aren't sure if they want to start a company.There's nothing wrong with being unsure.",
-      "translated": "[待翻译] The great majority of programmers still go straigh..."
+      "translated": "大多数程序员还是直接从大学毕业就进入了格子间工作，并且一直待在那里。看起来人们并没有按照自己的利益行事。这是怎么回事？我可以回答这个问题。由于Y Combinator位于风险投资过程的最前端，我们可能是世界上最了解那些不确定是否要创业的人的心理的专家。不确定并没有什么问题。"
     },
     {
       "original": "If you're a hacker thinking about starting a startup and hesitating before taking the leap, you're part of a grand tradition. Larry and Sergey seem to have felt the same before they started Google, and so did Jerry and Filo before they started Yahoo.",
-      "translated": "[待翻译] If you're a hacker thinking about starting a start..."
+      "translated": "如果你是一名黑客，正在考虑创办一家初创公司，但在迈出这一步之前犹豫不决，那么你属于一个伟大的传统。拉里和谢尔盖在创办谷歌之前似乎也有过同样的感觉，而杨致远和大卫·费洛在创办雅虎之前也是如此。"
     },
     {
       "original": "In fact, I'd guess the most successful startups are the ones started by uncertain hackers rather than gung-ho business guys.We have some evidence to support this. Several of the most successful startups we've funded told us later that they only decided to apply at the last moment.",
-      "translated": "[待翻译] In fact, I'd guess the most successful startups ar..."
+      "translated": "事实上，我猜测最成功的创业公司是由那些充满不确定性的黑客而不是充满激情的商业人士创办的。我们有一些证据支持这一点。我们资助的几家最成功的创业公司后来告诉我们，他们实际上是在最后一刻才决定申请的。"
     },
     {
       "original": "Some decided only hours before the deadline.The way to deal with uncertainty is to analyze it into components. Most people who are reluctant to do something have about eight different reasons mixed together in their heads, and don't know themselves which are biggest.",
-      "translated": "[待翻译] Some decided only hours before the deadline.The wa..."
+      "translated": "有些人是在截止日期前几小时才做出决定的。应对不确定性的方式是将其分解为各个组成部分。大多数犹豫不决的人头脑中有大约八个不同的理由混杂在一起，自己也不清楚哪些是最主要的。"
     },
     {
       "original": "Some will be justified and some bogus, but unless you know the relative proportion of each, you don't know whether your overall uncertainty is mostly justified or mostly bogus.So I'm going to list all the components of people's reluctance to start startups, and explain which are real.",
-      "translated": "[待翻译] Some will be justified and some bogus, but unless ..."
+      "translated": "有些人会感到合理，有些人则会觉得荒谬，但除非你知道每种情况所占的比例，否则你无法判断你的总体不确定性主要是合理的还是荒谬的。因此，我将列出人们不愿开始创业的所有原因，并解释哪些是真实存在的。"
     },
     {
       "original": "Then would-be founders can use this as a checklist to examine their own feelings.I admit my goal is to increase your self-confidence. But there are two things different here from the usual confidence-building exercise.",
-      "translated": "[待翻译] Then would-be founders can use this as a checklist..."
+      "translated": "然后，有志于创业的人可以使用这份清单来检查自己的感受。我承认我的目标是增强你的自信心。但是，这里有两个方面与通常的自信心建设活动不同。"
     },
     {
       "original": "One is that I'm motivated to be honest. Most people in the confidence-building business have already achieved their goal when you buy the book or pay to attend the seminar where they tell you how great you are.",
-      "translated": "[待翻译] One is that I'm motivated to be honest. Most peopl..."
+      "translated": "一是我有动力保持诚实。大多数从事信心建设行业的人在你购买他们的书籍或付费参加他们告诉你有多么优秀的工作坊时，就已经达到了他们的目的。"
     },
     {
       "original": "Whereas if I encourage people to start startups who shouldn't, I make my own life worse. If I encourage too many people to apply to Y Combinator, it just means more work for me, because I have to read all the applications.The other thing that's going to be different is my approach.",
-      "translated": "[待翻译] Whereas if I encourage people to start startups wh..."
+      "translated": "如果我鼓励那些不适合创业的人去创业，我的生活反而会变得更糟。如果我鼓励太多人申请Y Combinator，就意味着我得处理更多的申请，因为我得阅读所有的申请材料。另一个不同的地方是我的方法。"
     },
     {
       "original": "Instead of being positive, I'm going to be negative. Instead of telling you \"come on, you can do it\" I'm going to consider all the reasons you aren't doing it, and show why most (but not all) should be ignored.",
-      "translated": "[待翻译] Instead of being positive, I'm going to be negativ..."
+      "translated": "与其积极，我选择消极。我不说“加油，你能行”，而是要分析你为什么没有做到，指出大多数（但不是全部）原因其实可以忽略。"
     },
     {
       "original": "We'll start with the one everyone's born with.1. Too youngA lot of people think they're too young to start a startup. Many are right. The median age worldwide is about 27, so probably a third of the population can truthfully say they're too young.What's too young?",
-      "translated": "[待翻译] We'll start with the one everyone's born with.1. T..."
+      "translated": "我们先从每个人都天生拥有的说起。1. 太年轻 许多人认为自己太年轻，无法开始创业。确实，许多人是对的。全球的中位年龄约为27岁，所以可能有三分之一的人可以诚实地声称自己太年轻。那多大算太年轻呢？"
     },
     {
       "original": "One of our goals with Y Combinator was to discover the lower bound on the age of startup founders. It always seemed to us that investors were too conservative here—that they wanted to fund professors, when really they should be funding grad students or even undergrads.The main thing we've discovered from pushing the edge of this envelope is not where the edge is, but how fuzzy it is.",
-      "translated": "[待翻译] One of our goals with Y Combinator was to discover..."
+      "translated": "我们通过Y Combinator想要探索的一个目标是发现初创公司创始人年龄的下限。我们一直觉得投资者在这个问题上过于保守——他们更愿意资助教授，而实际上应该资助研究生甚至本科生。我们从这个探索中发现的主要事情并不是这个界限在哪里，而是这个界限有多么模糊。"
     },
     {
       "original": "The outer limit may be as low as 16. We don't look beyond 18 because people younger than that can't legally enter into contracts. But the most successful founder we've funded so far, Sam Altman, was 19 at the time.Sam Altman, however, is an outlying data point.",
-      "translated": "[待翻译] The outer limit may be as low as 16. We don't look..."
+      "translated": "外限可能低至16岁。我们不会考虑18岁以下的人，因为未满18岁的人无法合法签订合同。但我们迄今为止资助过的最成功的创始人，萨姆·阿尔特曼，在当时是19岁。然而，萨姆·阿尔特曼是一个例外的数据点。"
     },
     {
       "original": "When he was 19, he seemed like he had a 40 year old inside him. There are other 19 year olds who are 12 inside.There's a reason we have a distinct word \"adult\" for people over a certain age. There is a threshold you cross.",
-      "translated": "[待翻译] When he was 19, he seemed like he had a 40 year ol..."
+      "translated": "他19岁的时候，看起来内心住着一个40岁的人。而其他19岁的人可能内心只有12岁。我们之所以有一个专门的词“成人”来形容某个年龄以上的人，是因为有一个门槛，一旦跨过，你就成了真正的成年人。"
     },
     {
       "original": "It's conventionally fixed at 21, but different people cross it at greatly varying ages. You're old enough to start a startup if you've crossed this threshold, whatever your age.How do you tell? There are a couple tests adults use.",
-      "translated": "[待翻译] It's conventionally fixed at 21, but different peo..."
+      "translated": "通常设定为21岁，但不同的人达到这一门槛的年龄差异很大。只要你跨过了这个门槛，无论年龄多大，你都足够成熟去创办一家初创公司。怎么判断呢？成年人有一些检验方法。"
     },
     {
       "original": "I realized these tests existed after meeting Sam Altman, actually. I noticed that I felt like I was talking to someone much older. Afterward I wondered, what am I even measuring? What made him seem older?One test adults use is whether you still have the kid flake reflex.",
-      "translated": "[待翻译] I realized these tests existed after meeting Sam A..."
+      "translated": "我是在见到萨姆·阿尔特曼之后才意识到这些测试的存在。我注意到，我感觉像是在和一个年长得多的人交谈。之后我在想，我到底在衡量什么？是什么让他显得更老？成年人用来判断的一个测试是，你是否还保留着孩子般的逃避反应。"
     },
     {
       "original": "When you're a little kid and you're asked to do something hard, you can cry and say \"I can't do it\" and the adults will probably let you off. As a kid there's a magic button you can press by saying \"I'm just a kid\" that will get you out of most difficult situations.",
-      "translated": "[待翻译] When you're a little kid and you're asked to do so..."
+      "translated": "当你还是个小孩子，被要求做一些困难的事情时，你可以哭着说“我做不到”，大人们可能会放过你。作为一个孩子，你有一个魔法按钮，只要说“我就是个孩子”就能让你摆脱大多数困难的局面。"
     },
     {
       "original": "Whereas adults, by definition, are not allowed to flake. They still do, of course, but when they do they're ruthlessly pruned.The other way to tell an adult is by how they react to a challenge. Someone who's not yet an adult will tend to respond to a challenge from an adult in a way that acknowledges their dominance.",
-      "translated": "[待翻译] Whereas adults, by definition, are not allowed to ..."
+      "translated": "而成年人，按定义来说，是不允许放鸽子的。当然，他们有时也会这样做，但一旦这样做，就会被无情地剔除。另一种识别成年人的方式是看他们如何应对挑战。一个尚未成为成年人的人，在面对成年人的挑战时，往往会以承认对方权威的方式回应。"
     },
     {
       "original": "If an adult says \"that's a stupid idea,\" a kid will either crawl away with his tail between his legs, or rebel. But rebelling presumes inferiority as much as submission. The adult response to \"that's a stupid idea,\" is simply to look the other person in the eye and say \"Really?",
-      "translated": "[待翻译] If an adult says \"that's a stupid idea,\" a kid wil..."
+      "translated": "如果一个成年人说“那是个愚蠢的主意”，小孩要么灰溜溜地缩回去，要么反抗。但反抗和屈从一样，都假定了自己的低人一等。成年人对“那是个愚蠢的主意”的回应，只是简单地直视对方的眼睛说：“真的吗？”"
     },
     {
       "original": "Why do you think so?\"There are a lot of adults who still react childishly to challenges, of course. What you don't often find are kids who react to challenges like adults. When you do, you've found an adult, whatever their age.2.",
-      "translated": "[待翻译] Why do you think so?\"There are a lot of adults who..."
+      "translated": "你为什么这么认为？当然，有很多成年人在面对挑战时仍会做出孩子气的反应。但你很少见到孩子在面对挑战时能像成年人那样反应。当你遇到这样的孩子时，你就找到了一个成年人，无论他们的年龄多大。"
     },
     {
       "original": "Too inexperiencedI once wrote that startup founders should be at least 23, and that people should work for another company for a few years before starting their own. I no longer believe that, and what changed my mind is the example of the startups we've funded.I still think 23 is a better age than 21.",
-      "translated": "[待翻译] Too inexperiencedI once wrote that startup founder..."
+      "translated": "曾经太过缺乏经验，我曾写过初创公司的创始人至少应该23岁，并且人们应该在创办自己的公司之前为其他公司工作几年。我不再这么认为了，改变我想法的是我们资助的初创公司的例子。我仍然认为23岁比21岁更合适。"
     },
     {
       "original": "But the best way to get experience if you're 21 is to start a startup. So, paradoxically, if you're too inexperienced to start a startup, what you should do is start one. That's a way more efficient cure for inexperience than a normal job.",
-      "translated": "[待翻译] But the best way to get experience if you're 21 is..."
+      "translated": "但是，21岁时获取经验的最好方法是创办一家初创公司。所以，悖论的是，如果你因为太缺乏经验而不敢创办初创公司，你应该去创办一家。这比一份普通工作更能高效地弥补经验不足的问题。"
     },
     {
       "original": "In fact, getting a normal job may actually make you less able to start a startup, by turning you into a tame animal who thinks he needs an office to work in and a product manager to tell him what software to write.What really convinced me of this was the Kikos.",
-      "translated": "[待翻译] In fact, getting a normal job may actually make yo..."
+      "translated": "事实上，找一份普通的工作可能会让你更难开始创业，因为它会把你变成一只温顺的动物，认为自己需要在办公室工作，需要产品经理告诉他写什么软件。真正让我相信这一点的是 Kikos。"
     },
     {
       "original": "They started a startup right out of college. Their inexperience caused them to make a lot of mistakes. But by the time we funded their second startup, a year later, they had become extremely formidable.",
-      "translated": "[待翻译] They started a startup right out of college. Their..."
+      "translated": "他们一毕业就创办了一家初创公司。由于缺乏经验，他们犯了很多错误。但到了一年后我们资助他们的第二家初创公司时，他们已经变得非常强大。"
     },
     {
       "original": "They were certainly not tame animals. And there is no way they'd have grown so much if they'd spent that year working at Microsoft, or even Google. They'd still have been diffident junior programmers.So now I'd advise people to go ahead and start startups right out of college.",
-      "translated": "[待翻译] They were certainly not tame animals. And there is..."
+      "translated": "它们当然不是温顺的动物。如果它们在过去的一年里在微软，甚至谷歌工作，也不可能长得如此之大。它们依然会是胆怯的初级程序员。所以现在我会建议人们一毕业就去创办初创公司。"
     },
     {
       "original": "There's no better time to take risks than when you're young. Sure, you'll probably fail. But even failure will get you to the ultimate goal faster than getting a job.It worries me a bit to be saying this, because in effect we're advising people to educate themselves by failing at our expense, but it's the truth.3.",
-      "translated": "[待翻译] There's no better time to take risks than when you..."
+      "translated": "没有比年轻时更适合冒险的时候了。当然，你可能会失败。但即使失败，也会比找一份工作更快地让你达到最终目标。这样说让我有点担心，因为我们实际上是在建议人们通过失败来接受教育，而这些失败是由我们承担代价的，但这是事实。"
     },
     {
       "original": "Not determined enoughYou need a lot of determination to succeed as a startup founder. It's probably the single best predictor of success.Some people may not be determined enough to make it. It's hard for me to say for sure, because I'm so determined that I can't imagine what's going on in the heads of people who aren't.",
-      "translated": "[待翻译] Not determined enoughYou need a lot of determinati..."
+      "translated": "不够坚定\n要想成为一名成功的创业公司创始人，你需要有很强的决心。这可能是成功最关键的预测因素。有些人可能不够坚定，无法实现这一目标。我很难确切地说出来，因为我本人非常坚定，无法想象那些不够坚定的人心里在想些什么。"
     },
     {
       "original": "But I know they exist.Most hackers probably underestimate their determination. I've seen a lot become visibly more determined as they get used to running a startup. I can think of several we've funded who would have been delighted at first to be bought for $2 million, but are now set on world domination.How can you tell if you're determined enough, when Larry and Sergey themselves were unsure at first about starting a company?",
-      "translated": "[待翻译] But I know they exist.Most hackers probably undere..."
+      "translated": "但我清楚他们确实存在。大多数黑客可能低估了他们的决心。我见过很多创业者在习惯了运营初创公司之后，变得更加坚定。我想到我们资助过的几个人，最初对于以200万美元被收购会感到非常高兴，但现在他们却志在征服世界。当你连拉里和谢尔盖最初对创办公司都感到不确定时，如何判断自己是否足够坚定呢？"
     },
     {
       "original": "I'm guessing here, but I'd say the test is whether you're sufficiently driven to work on your own projects. Though they may have been unsure whether they wanted to start a company, it doesn't seem as if Larry and Sergey were meek little research assistants, obediently doing their advisors' bidding.",
-      "translated": "[待翻译] I'm guessing here, but I'd say the test is whether..."
+      "translated": "我在这里猜测，但我想测试的标准是你是否有足够的动力去自主开展项目。尽管他们可能不确定是否要创办一家公司，但拉里和谢尔盖看上去并不像是温顺的研究助理，唯命是从地执行导师的指示。"
     },
     {
       "original": "They started projects of their own. 4. Not smart enoughYou may need to be moderately smart to succeed as a startup founder. But if you're worried about this, you're probably mistaken. If you're smart enough to worry that you might not be smart enough to start a startup, you probably are.And in any case, starting a startup just doesn't require that much intelligence.",
-      "translated": "[待翻译] They started projects of their own. 4. Not smart e..."
+      "translated": "他们开始了自己的项目。4. 不够聪明你可能需要具备中等以上的智力才能成功成为一名初创企业的创始人。但如果你对此感到担忧，你可能错了。如果你足够聪明，会担心自己可能不够聪明去创办一家初创公司，那么你很可能已经足够聪明了。而且，无论如何，创办一家初创公司并不需要太多智力。"
     },
     {
       "original": "Some startups do. You have to be good at math to write Mathematica. But most companies do more mundane stuff where the decisive factor is effort, not brains. Silicon Valley can warp your perspective on this, because there's a cult of smartness here.",
-      "translated": "[待翻译] Some startups do. You have to be good at math to w..."
+      "translated": "有些初创公司确实如此。编写Mathematica需要擅长数学。但大多数公司做的都是更为平凡的工作，其中决定性因素是努力，而不是智力。硅谷可能会扭曲你对这一点的看法，因为这里有一种崇尚聪明的文化。"
     },
     {
       "original": "People who aren't smart at least try to act that way. But if you think it takes a lot of intelligence to get rich, try spending a couple days in some of the fancier bits of New York or LA.If you don't think you're smart enough to start a startup doing something technically difficult, just write enterprise software.",
-      "translated": "[待翻译] People who aren't smart at least try to act that w..."
+      "translated": "那些不聪明的人至少会努力表现得聪明。但如果你认为变富有需要大量的智慧，那就去纽约或洛杉矶的一些高档地方逛逛吧。如果你觉得自己不够聪明，无法开始一个技术难度高的创业项目，那就写企业软件好了。"
     },
     {
       "original": "Enterprise software companies aren't technology companies, they're sales companies, and sales depends mostly on effort.5. Know nothing about businessThis is another variable whose coefficient should be zero.",
-      "translated": "[待翻译] Enterprise software companies aren't technology co..."
+      "translated": "企业软件公司不是技术公司，它们是销售公司，而销售主要依赖于努力。5. 对业务一无所知这是另一个其系数应该为零的变量。"
     },
     {
       "original": "You don't need to know anything about business to start a startup. The initial focus should be the product. All you need to know in this phase is how to build things people want. If you succeed, you'll have to think about how to make money from it.",
-      "translated": "[待翻译] You don't need to know anything about business to ..."
+      "translated": "你不需要了解任何商业知识就可以开始创业。最初的重点应该是产品。在这个阶段，你只需要知道如何做出人们想要的东西。如果你成功了，你就需要考虑如何从中获利。"
     },
     {
       "original": "But this is so easy you can pick it up on the fly.I get a fair amount of flak for telling founders just to make something great and not worry too much about making money. And yet all the empirical evidence points that way: pretty much 100% of startups that make something popular manage to make money from it.",
-      "translated": "[待翻译] But this is so easy you can pick it up on the fly...."
+      "translated": "但这非常简单，你可以边做边学。我因为告诉创业者们只要做出优秀的产品，不要太担心赚钱的问题而受到不少批评。然而，所有的实证证据都指向这一点：几乎100%的做出受欢迎产品的初创公司都能从中赚到钱。"
     },
     {
       "original": "And acquirers tell me privately that revenue is not what they buy startups for, but their strategic value. Which means, because they made something people want. Acquirers know the rule holds for them too: if users love you, you can always make money from that somehow, and if they don't, the cleverest business model in the world won't save you.So why do so many people argue with me?",
-      "translated": "[待翻译] And acquirers tell me privately that revenue is no..."
+      "translated": "而收购方私下里告诉我，他们收购初创公司不是为了营收，而是为了其战略价值。这意味着，因为这些公司创造了一些人们真正需要的东西。收购方也明白这个道理：如果用户喜欢你，你总能找到某种方式从中获利；如果用户不喜欢，再聪明的商业模式也无法挽救你。那么，为什么还是有这么多人与我争论呢？"
     },
     {
       "original": "I think one reason is that they hate the idea that a bunch of twenty year olds could get rich from building something cool that doesn't make any money. They just don't want that to be possible. But how possible it is doesn't depend on how much they want it to be.For a while it annoyed me to hear myself described as some kind of irresponsible pied piper, leading impressionable young hackers down the road to ruin.",
-      "translated": "[待翻译] I think one reason is that they hate the idea that..."
+      "translated": "我认为其中一个原因是，他们厌恶一群二十岁出头的年轻人可以通过构建一些很酷但不赚钱的东西而变得富有。他们就是不想让这种事情成为可能。但这种事情的可能性并不取决于他们的愿望。有一段时间，听到自己被描述成某种不负责任的吹笛手，引领着那些容易受影响的年轻黑客走向毁灭的道路，我感到很不痛快。"
     },
     {
       "original": "But now I realize this kind of controversy is a sign of a good idea.The most valuable truths are the ones most people don't believe. They're like undervalued stocks. If you start with them, you'll have the whole field to yourself.",
-      "translated": "[待翻译] But now I realize this kind of controversy is a si..."
+      "translated": "但现在我意识到这种争议其实是一个好主意的标志。最有价值的真理往往是大多数人不相信的。它们就像被低估的股票。如果你从这些真理开始，你将独占整个领域。"
     },
     {
       "original": "So when you find an idea you know is good but most people disagree with, you should not merely ignore their objections, but push aggressively in that direction. In this case, that means you should seek out ideas that would be popular but seem hard to make money from.We'll bet a seed round you can't make something popular that we can't figure out how to make money from.6.",
-      "translated": "[待翻译] So when you find an idea you know is good but most..."
+      "translated": "所以，当你发现一个你认为很好但大多数人不同意的想法时，你不应该仅仅忽略他们的反对意见，而应该积极地朝那个方向努力。在这种情况下，这意味着你应该寻找那些受欢迎但似乎难以盈利的想法。我们将打个种子轮融资的赌，你无法做出一个我们无法找到盈利方式的热门产品。"
     },
     {
       "original": "No cofounderNot having a cofounder is a real problem. A startup is too much for one person to bear. And though we differ from other investors on a lot of questions, we all agree on this. All investors, without exception, are more likely to fund you with a cofounder than without.We've funded two single founders, but in both cases we suggested their first priority should be to find a cofounder.",
-      "translated": "[待翻译] No cofounderNot having a cofounder is a real probl..."
+      "translated": "没有联合创始人是一个真正的问题。初创公司对于一个人来说负担太重。尽管我们在很多问题上与其他投资者有所不同，但在这一点上我们意见一致。所有投资者，无一例外，都更愿意资助有联合创始人的团队。我们曾资助过两位单人创始人，但在两种情况下，我们都建议他们最优先的任务应该是找到一位联合创始人。"
     },
     {
       "original": "Both did. But we'd have preferred them to have cofounders before they applied. It's not super hard to get a cofounder for a project that's just been funded, and we'd rather have cofounders committed enough to sign up for something super hard.If you don't have a cofounder, what should you do?",
-      "translated": "[待翻译] Both did. But we'd have preferred them to have cof..."
+      "translated": "两人都参加了。但我们更希望他们在申请之前就有联合创始人。对于一个刚刚获得资金的项目来说，找到一个联合创始人并不是特别难，我们更希望有足够坚定的联合创始人来参与这样一项极具挑战性的工作。如果你没有联合创始人，你应该怎么做？"
     },
     {
       "original": "Get one. It's more important than anything else. If there's no one where you live who wants to start a startup with you, move where there are people who do. If no one wants to work with you on your current idea, switch to an idea people want to work on.If you're still in school, you're surrounded by potential cofounders.",
-      "translated": "[待翻译] Get one. It's more important than anything else. I..."
+      "translated": "找到一个合伙人。这比任何事情都重要。如果你所在的地方没有人愿意和你一起创业，就搬到有这样的人的地方去。如果没有人愿意和你一起做你现在的项目，就换一个大家都愿意参与的项目。如果你还在上学，你的周围就充满了潜在的合伙人。"
     },
     {
       "original": "A few years out it gets harder to find them. Not only do you have a smaller pool to draw from, but most already have jobs, and perhaps even families to support. So if you had friends in college you used to scheme about startups with, stay in touch with them as well as you can.",
-      "translated": "[待翻译] A few years out it gets harder to find them. Not o..."
+      "translated": "几年后，找到他们就更难了。不仅可选择的范围变小，而且大多数人都已经工作，甚至可能还有家庭需要养活。所以，如果你在大学时有朋友曾经一起策划过创业的事，尽量保持联系。"
     },
     {
       "original": "That may help keep the dream alive.It's possible you could meet a cofounder through something like a user's group or a conference. But I wouldn't be too optimistic. You need to work with someone to know whether you want them as a cofounder.",
-      "translated": "[待翻译] That may help keep the dream alive.It's possible y..."
+      "translated": "这可能有助于保持梦想的延续。你或许可以通过用户小组或会议遇到一位联合创始人。但不要太乐观。你需要与某人合作，才能知道是否想要他们成为你的联合创始人。"
     },
     {
       "original": "[2]The real lesson to draw from this is not how to find a cofounder, but that you should start startups when you're young and there are lots of them around.7. No ideaIn a sense, it's not a problem if you don't have a good idea, because most startups change their idea anyway.",
-      "translated": "[待翻译] [2]The real lesson to draw from this is not how to..."
+      "translated": "[2]从这一点中真正应该吸取的教训不是如何找到联合创始人，而是你应该在年轻且周围有许多创业机会时开始创业。7. 没有想法从某种意义上说，没有好的想法并不是问题，因为大多数创业公司都会改变他们的初始想法。"
     },
     {
       "original": "In the average Y Combinator startup, I'd guess 70% of the idea is new at the end of the first three months. Sometimes it's 100%.In fact, we're so sure the founders are more important than the initial idea that we're going to try something new this funding cycle.",
-      "translated": "[待翻译] In the average Y Combinator startup, I'd guess 70%..."
+      "translated": "在普通的 Y Combinator 创业公司中，我会猜在最初的三个月结束时，大约 70% 的想法是新的。有时这个比例会达到 100%。实际上，我们非常确信创始人比最初的想法更重要，因此在这个融资周期中，我们将尝试一些新的做法。"
     },
     {
       "original": "We're going to let people apply with no idea at all. If you want, you can answer the question on the application form that asks what you're going to do with \"We have no idea.\" If you seem really good we'll accept you anyway.",
-      "translated": "[待翻译] We're going to let people apply with no idea at al..."
+      "translated": "我们将允许人们在没有任何想法的情况下申请。如果你愿意，你可以在申请表上回答那个问你打算做什么的问题时写“我们毫无头绪。”如果你看起来真的很棒，我们还是会接受你的。"
     },
     {
       "original": "We're confident we can sit down with you and cook up some promising project.Really this just codifies what we do already. We put little weight on the idea. We ask mainly out of politeness. The kind of question on the application form that we really care about is the one where we ask what cool things you've made.",
-      "translated": "[待翻译] We're confident we can sit down with you and cook ..."
+      "translated": "我们有信心能和您坐下来，共同策划出一些有前景的项目。实际上，这只不过是我们一贯做法的正式表述。我们对这个想法本身并不太看重。我们提出这个问题主要是出于礼貌。我们在申请表中真正关心的问题是，您都制作过哪些酷炫的东西。"
     },
     {
       "original": "If what you've made is version one of a promising startup, so much the better, but the main thing we care about is whether you're good at making things. Being lead developer of a popular open source project counts almost as much.That solves the problem if you get funded by Y Combinator.",
-      "translated": "[待翻译] If what you've made is version one of a promising ..."
+      "translated": "如果你所创建的是一个有潜力的初创公司的第一版，那就更好了，但我们最关心的是你是否擅长创造事物。作为受欢迎的开源项目的首席开发人员也几乎同样重要。这样，如果你得到 Y Combinator 的资助，问题就解决了。"
     },
     {
       "original": "What about in the general case? Because in another sense, it is a problem if you don't have an idea. If you start a startup with no idea, what do you do next?So here's the brief recipe for getting startup ideas.",
-      "translated": "[待翻译] What about in the general case? Because in another..."
+      "translated": "那么在一般情况下呢？因为从另一个角度来看，如果你没有想法，那也是一个问题。如果你在没有任何想法的情况下开始创业，接下来该怎么做呢？所以，这里有一个简短的获取创业点子的秘诀。"
     },
     {
       "original": "Find something that's missing in your own life, and supply that need—no matter how specific to you it seems. Steve Wozniak built himself a computer; who knew so many other people would want them? A need that's narrow but genuine is a better starting point than one that's broad but hypothetical.",
-      "translated": "[待翻译] Find something that's missing in your own life, an..."
+      "translated": "找到你生活中缺失的东西，并满足这种需求——无论它看起来多么个人化。史蒂夫·沃兹尼亚克为自己制造了一台电脑；谁知道会有这么多人想要呢？一个狭窄但真实的需求比一个广泛但假设的需求是更好的起点。"
     },
     {
       "original": "So even if the problem is simply that you don't have a date on Saturday night, if you can think of a way to fix that by writing software, you're onto something, because a lot of other people have the same problem.8.",
-      "translated": "[待翻译] So even if the problem is simply that you don't ha..."
+      "translated": "所以，即使问题只是你周六晚上没有约会，如果你能想到通过编写软件来解决这个问题，你就找到了一个方向，因为很多人都有同样的问题。"
     },
     {
       "original": "No room for more startupsA lot of people look at the ever-increasing number of startups and think \"this can't continue.\" Implicit in their thinking is a fallacy: that there is some limit on the number of startups there could be.",
-      "translated": "[待翻译] No room for more startupsA lot of people look at t..."
+      "translated": "没有更多空间容纳初创企业了。很多人看到初创企业的数量不断增加，就会想：“这种情况不可能持续下去。” 他们这种想法中隐含着一个谬误：认为初创企业的数量存在某种上限。"
     },
     {
       "original": "But this is false. No one claims there's any limit on the number of people who can work for salary at 1000-person companies. Why should there be any limit on the number who can work for equity at 5-person companies?",
-      "translated": "[待翻译] But this is false. No one claims there's any limit..."
+      "translated": "但这是一种错误的观点。没有人认为有薪职位在1000人公司的数量是有限的。那么，为什么5人公司的股权职位数量应该受到限制呢？"
     },
     {
       "original": "[3]Nearly everyone who works is satisfying some kind of need. Breaking up companies into smaller units doesn't make those needs go away. Existing needs would probably get satisfied more efficiently by a network of startups than by a few giant, hierarchical organizations, but I don't think that would mean less opportunity, because satisfying current needs would lead to more.",
-      "translated": "[待翻译] [3]Nearly everyone who works is satisfying some ki..."
+      "translated": "几乎每个工作的人都是在满足某种需求。将公司拆分为更小的单元并不能使这些需求消失。现有的需求可能通过一系列初创企业网络比通过少数几个庞大的层级制组织得到更有效的满足，但我认为这并不意味着机会会减少，因为满足当前的需求会带来更多的需求。"
     },
     {
       "original": "Certainly this tends to be the case in individuals. Nor is there anything wrong with that. We take for granted things that medieval kings would have considered effeminate luxuries, like whole buildings heated to spring temperatures year round.",
-      "translated": "[待翻译] Certainly this tends to be the case in individuals..."
+      "translated": "当然，这种情况往往出现在个人身上。这也没有什么不对。我们认为理所当然的事情，中世纪的国王们可能会认为是女性化的奢侈品，比如整栋建筑全年都保持在春天般的温度。"
     },
     {
       "original": "And if things go well, our descendants will take for granted things we would consider shockingly luxurious. There is no absolute standard for material wealth. Health care is a component of it, and that alone is a black hole.",
-      "translated": "[待翻译] And if things go well, our descendants will take f..."
+      "translated": "如果一切顺利，我们的后代会把我们认为极其奢侈的事情视为理所当然。物质财富没有绝对的标准。医疗保健是其中的一个组成部分，而这一点本身就是一个无底洞。"
     },
     {
       "original": "For the foreseeable future, people will want ever more material wealth, so there is no limit to the amount of work available for companies, and for startups in particular.Usually the limited-room fallacy is not expressed directly.",
-      "translated": "[待翻译] For the foreseeable future, people will want ever ..."
+      "translated": "在可预见的未来，人们将不断追求更多的物质财富，因此公司，尤其是初创企业，将有无限的工作机会。通常，有限空间谬论不会直接表达出来。"
     },
     {
       "original": "Usually it's implicit in statements like \"there are only so many startups Google, Microsoft, and Yahoo can buy.\" Maybe, though the list of acquirers is a lot longer than that. And whatever you think of other acquirers, Google is not stupid.",
-      "translated": "[待翻译] Usually it's implicit in statements like \"there ar..."
+      "translated": "通常在“谷歌、微软和雅虎能收购的创业公司数量有限”这样的说法中，这一点是隐含的。不过，收购者的名单其实要长得多。而且，无论你对其他收购者有何看法，谷歌绝不是傻瓜。"
     },
     {
       "original": "The reason big companies buy startups is that they've created something valuable. And why should there be any limit to the number of valuable startups companies can acquire, any more than there is a limit to the amount of wealth individual people want?",
-      "translated": "[待翻译] The reason big companies buy startups is that they..."
+      "translated": "大公司收购初创企业的原因是这些企业创造出了有价值的东西。那么，为什么公司能够收购的有价值初创企业的数量应该有任何限制呢？这就像个人对财富的追求没有上限一样。"
     },
     {
       "original": "Maybe there would be practical limits on the number of startups any one acquirer could assimilate, but if there is value to be had, in the form of upside that founders are willing to forgo in return for an immediate payment, acquirers will evolve to consume it.",
-      "translated": "[待翻译] Maybe there would be practical limits on the numbe..."
+      "translated": "或许收购方能够同化初创企业的数量存在实际限制，但如果存在价值，即创始人愿意为换取即时付款而放弃的潜在收益，收购方将会进化以吸纳这些价值。"
     },
     {
       "original": "Markets are pretty smart that way.9. Family to supportThis one is real. I wouldn't advise anyone with a family to start a startup. I'm not saying it's a bad idea, just that I don't want to take responsibility for advising it.",
-      "translated": "[待翻译] Markets are pretty smart that way.9. Family to sup..."
+      "translated": "市场在这方面相当聪明。9. 需要养家糊口这一点确实存在。我不会建议有家庭的人去创办初创公司。我不是说这是个坏主意，只是我不愿意为这样的建议承担责任。"
     },
     {
       "original": "I'm willing to take responsibility for telling 22 year olds to start startups. So what if they fail? They'll learn a lot, and that job at Microsoft will still be waiting for them if they need it. But I'm not prepared to cross moms.What you can do, if you have a family and want to start a startup, is start a consulting business you can then gradually turn into a product business.",
-      "translated": "[待翻译] I'm willing to take responsibility for telling 22 ..."
+      "translated": "我愿意承担起鼓励22岁的年轻人创业的责任。即便他们失败了又如何？他们会学到很多东西，而且如果需要的话，微软的工作仍然会为他们敞开大门。但我不会去劝说妈妈们。如果你有家庭并且想要创业，可以先开始一家咨询公司，然后逐渐将其转型为产品公司。"
     },
     {
       "original": "Empirically the chances of pulling that off seem very small. You're never going to produce Google this way. But at least you'll never be without an income.Another way to decrease the risk is to join an existing startup instead of starting your own.",
-      "translated": "[待翻译] Empirically the chances of pulling that off seem v..."
+      "translated": "从实际经验来看，实现这一点的可能性似乎非常小。你不可能通过这种方式打造出像谷歌这样的公司。但至少你不会失去收入来源。另一种降低风险的方法是加入一家现有的创业公司，而不是自己创办一家。"
     },
     {
       "original": "Being one of the first employees of a startup is a lot like being a founder, in both the good ways and the bad. You'll be roughly 1/n^2 founder, where n is your employee number.As with the question of cofounders, the real lesson here is to start startups when you're young.10.",
-      "translated": "[待翻译] Being one of the first employees of a startup is a..."
+      "translated": "作为初创公司最早的员工之一，感觉很像创始人，既有好的一面，也有不好的一面。你的创始人地位大约是1/n^2，其中n是你的员工编号。就像关于联合创始人的问题一样，真正的教训是在你年轻时就开始创业。"
     },
     {
       "original": "Independently wealthyThis is my excuse for not starting a startup. Startups are stressful. Why do it if you don't need the money? For every \"serial entrepreneur,\" there are probably twenty sane ones who think \"Start another company?",
-      "translated": "[待翻译] Independently wealthyThis is my excuse for not sta..."
+      "translated": "财务自由这就是我不创办初创企业的借口。初创企业压力很大。如果不需要钱，为什么要这么做呢？每一个“连续创业者”背后，可能都有二十个理智的人在想：“再创办一家公司？”"
     },
     {
       "original": "Are you crazy?\"I've come close to starting new startups a couple times, but I always pull back because I don't want four years of my life to be consumed by random schleps. I know this business well enough to know you can't do it half-heartedly.",
-      "translated": "[待翻译] Are you crazy?\"I've come close to starting new sta..."
+      "translated": "你疯了？我几次差点就开始新的创业，但我总是退缩，因为我 不想让我的四年生命被一些随机的琐事消耗掉。我对这个 行业足够了解，知道不能半途而废。"
     },
     {
       "original": "What makes a good startup founder so dangerous is his willingness to endure infinite schleps.There is a bit of a problem with retirement, though. Like a lot of people, I like to work. And one of the many weird little problems you discover when you get rich is that a lot of the interesting people you'd like to work with are not rich.",
-      "translated": "[待翻译] What makes a good startup founder so dangerous is ..."
+      "translated": "使一位优秀的初创企业创始人如此危险的是他愿意忍受无尽的奔波。然而，退休有一点问题。像很多人一样，我喜欢工作。而且，当你变富有时，你会发现的一个奇怪的小问题就是，很多你想合作的有趣的人并不富有。"
     },
     {
       "original": "They need to work at something that pays the bills. Which means if you want to have them as colleagues, you have to work at something that pays the bills too, even though you don't need to. I think this is what drives a lot of serial entrepreneurs, actually.That's why I love working on Y Combinator so much.",
-      "translated": "[待翻译] They need to work at something that pays the bills..."
+      "translated": "他们需要做一份能养家糊口的工作。这意味着，如果你想和他们成为同事，你也需要做一份能养家糊口的工作，即使你并不需要这样做。我认为这其实是许多连续创业者的主要动力。这也是我为什么如此热爱在Y Combinator工作的原因。"
     },
     {
       "original": "It's an excuse to work on something interesting with people I like.11. Not ready for commitmentThis was my reason for not starting a startup for most of my twenties. Like a lot of people that age, I valued freedom most of all.",
-      "translated": "[待翻译] It's an excuse to work on something interesting wi..."
+      "translated": "这是一个借口，可以和我喜欢的人一起做一些有趣的事情。11. 不愿意承诺这是我在二十多岁的时候没有开始创业的主要原因。和那个年龄段的许多人一样，我最看重的是自由。"
     },
     {
       "original": "I was reluctant to do anything that required a commitment of more than a few months. Nor would I have wanted to do anything that completely took over my life the way a startup does. And that's fine. If you want to spend your time travelling around, or playing in a band, or whatever, that's a perfectly legitimate reason not to start a company.If you start a startup that succeeds, it's going to consume at least three or four years.",
-      "translated": "[待翻译] I was reluctant to do anything that required a com..."
+      "translated": "我不愿意做任何需要承诺超过几个月的事情。我也不希望做任何会像创业那样完全占据我生活的事情。这没有问题。如果你想把时间花在旅行、组乐队或其他事情上，这都是完全正当的理由，不必去创办公司。如果你创办的创业公司成功了，至少会耗费三到四年的时间。"
     },
     {
       "original": "(If it fails, you'll be done a lot quicker.) So you shouldn't do it if you're not ready for commitments on that scale. Be aware, though, that if you get a regular job, you'll probably end up working there for as long as a startup would take, and you'll find you have much less spare time than you might expect.",
-      "translated": "[待翻译] (If it fails, you'll be done a lot quicker.) So yo..."
+      "translated": "（如果失败了，你会更快结束。）所以，如果你没有准备好承担如此规模的承诺，就不应该去做。不过，你要知道，如果你找了一份普通工作，你可能会在那里工作和创业所需的时间一样长，而且你会发现自己的空闲时间比你预期的要少得多。"
     },
     {
       "original": "So if you're ready to clip on that ID badge and go to that orientation session, you may also be ready to start that startup.12. Need for structureI'm told there are people who need structure in their lives.",
-      "translated": "[待翻译] So if you're ready to clip on that ID badge and go..."
+      "translated": "所以，如果你已经准备好戴上那个身份徽章，去参加那个入职培训，你可能也准备好开始你的创业了。12. 对结构的需求我被告知，有些人需要生活中的结构。"
     },
     {
       "original": "This seems to be a nice way of saying they need someone to tell them what to do. I believe such people exist. There's plenty of empirical evidence: armies, religious cults, and so on. They may even be the majority.If you're one of these people, you probably shouldn't start a startup.",
-      "translated": "[待翻译] This seems to be a nice way of saying they need so..."
+      "translated": "这似乎是一种委婉的说法，表明他们需要有人来告诉他们该做什么。我相信这样的人确实存在。有很多实证：军队、宗教团体等。他们甚至可能是大多数。如果你是这样的人，你大概不应该开始创业。"
     },
     {
       "original": "In fact, you probably shouldn't even go to work for one. In a good startup, you don't get told what to do very much. There may be one person whose job title is CEO, but till the company has about twelve people no one should be telling anyone what to do.",
-      "translated": "[待翻译] In fact, you probably shouldn't even go to work fo..."
+      "translated": "事实上，你甚至不应该去为这样的公司工作。在一家好的创业公司里，几乎没有人会告诉你该做什么。公司里可能会有一个职位是首席执行官，但是在公司规模达到大约十二人之前，不应该有人对其他人指手画脚。"
     },
     {
       "original": "That's too inefficient. Each person should just do what they need to without anyone telling them.If that sounds like a recipe for chaos, think about a soccer team. Eleven people manage to work together in quite complicated ways, and yet only in occasional emergencies does anyone tell anyone else what to do.",
-      "translated": "[待翻译] That's too inefficient. Each person should just do..."
+      "translated": "这太低效了。每个人都应该自行完成他们需要做的事情，而不需要别人指派。如果这听起来像是制造混乱的处方，那就想想足球队吧。十一个人能够以相当复杂的方式协同工作，却只有在偶尔的紧急情况下，才有人会告诉其他人该做什么。"
     },
     {
       "original": "A reporter once asked David Beckham if there were any language problems at Real Madrid, since the players were from about eight different countries. He said it was never an issue, because everyone was so good they never had to talk.",
-      "translated": "[待翻译] A reporter once asked David Beckham if there were ..."
+      "translated": "一位记者曾问大卫·贝克汉姆，在皇家马德里是否曾因球员来自大约八个不同的国家而遇到语言障碍。贝克汉姆回答说这从来不是问题，因为每个人的技术都如此出色，以至于他们从不需要交谈。"
     },
     {
       "original": "They all just did the right thing.How do you tell if you're independent-minded enough to start a startup? If you'd bristle at the suggestion that you aren't, then you probably are.13. Fear of uncertaintyPerhaps some people are deterred from starting startups because they don't like the uncertainty.",
-      "translated": "[待翻译] They all just did the right thing.How do you tell ..."
+      "translated": "他们都做了正确的事。如何判断你是否足够独立思考以创办一家初创公司？如果你对别人暗示你不够独立时感到不悦，那么你很可能就是独立的。13. 对不确定性的恐惧也许有些人之所以不敢创办初创公司，是因为他们不喜欢不确定性。"
     },
     {
       "original": "If you go to work for Microsoft, you can predict fairly accurately what the next few years will be like—all too accurately, in fact. If you start a startup, anything might happen.Well, if you're troubled by uncertainty, I can solve that problem for you: if you start a startup, it will probably fail.",
-      "translated": "[待翻译] If you go to work for Microsoft, you can predict f..."
+      "translated": "如果你去微软工作，你可以相当准确地预测未来几年的情况——事实上，可能太过准确了。如果你创办一家创业公司，什么都有可能发生。好吧，如果你对不确定性感到困扰，我可以解决这个问题：如果你创办一家创业公司，它很可能失败。"
     },
     {
       "original": "Seriously, though, this is not a bad way to think about the whole experience. Hope for the best, but expect the worst. In the worst case, it will at least be interesting. In the best case you might get rich.No one will blame you if the startup tanks, so long as you made a serious effort.",
-      "translated": "[待翻译] Seriously, though, this is not a bad way to think ..."
+      "translated": "说真的，这样看待整个经历并不坏。希望最好的结果，但要做好最坏的准备。最坏的情况下，至少会很有趣。最好的情况下，你可能会发大财。只要你认真努力了，即使创业失败，也没人会指责你。"
     },
     {
       "original": "There may once have been a time when employers would regard that as a mark against you, but they wouldn't now. I asked managers at big companies, and they all said they'd prefer to hire someone who'd tried to start a startup and failed over someone who'd spent the same time working at a big company.Nor will investors hold it against you, as long as you didn't fail out of laziness or incurable stupidity.",
-      "translated": "[待翻译] There may once have been a time when employers wou..."
+      "translated": "曾经可能有一段时间，雇主会将此视为你的一个不利因素，但现在他们不会了。我询问了一些大公司的管理者，他们都表示更愿意雇用那些尝试过创业但失败的人，而不是在同一段时间内选择在大公司工作的人。只要你的失败不是由于懒惰或不可救药的愚蠢，投资者也不会因此而对你持有偏见。"
     },
     {
       "original": "I'm told there's a lot of stigma attached to failing in other places—in Europe, for example. Not here. In America, companies, like practically everything else, are disposable.14. Don't realize what you're avoidingOne reason people who've been out in the world for a year or two make better founders than people straight from college is that they know what they're avoiding.",
-      "translated": "[待翻译] I'm told there's a lot of stigma attached to faili..."
+      "translated": "我听说在其他地方，比如在欧洲，失败会有很多耻辱感。但在这里不是这样。在美国，公司就像几乎所有其他东西一样，是可以被抛弃的。人们从社会中出来一两年后比刚从大学毕业的人更适合成为创始人，其中一个原因是他们知道自己在避免什么。"
     },
     {
       "original": "If their startup fails, they'll have to get a job, and they know how much jobs suck.If you've had summer jobs in college, you may think you know what jobs are like, but you probably don't. Summer jobs at technology companies are not real jobs.",
-      "translated": "[待翻译] If their startup fails, they'll have to get a job,..."
+      "translated": "如果他们的创业失败，他们就不得不去找工作，而他们很清楚工作有多么糟糕。如果你在大学期间做过暑期工，你可能会以为自己知道工作是什么样的，但你可能并不了解。技术公司的暑期工作并不是真正的工作。"
     },
     {
       "original": "If you get a summer job as a waiter, that's a real job. Then you have to carry your weight. But software companies don't hire students for the summer as a source of cheap labor. They do it in the hope of recruiting them when they graduate.",
-      "translated": "[待翻译] If you get a summer job as a waiter, that's a real..."
+      "translated": "如果你在夏天找到一份服务员的工作，那确实是一份真正的工作。那时你必须尽自己的本分。但软件公司并不是为了廉价劳动力而在夏天雇佣学生。他们这样做是希望在这些学生毕业时能招聘到他们。"
     },
     {
       "original": "So while they're happy if you produce, they don't expect you to.That will change if you get a real job after you graduate. Then you'll have to earn your keep. And since most of what big companies do is boring, you're going to have to work on boring stuff.",
-      "translated": "[待翻译] So while they're happy if you produce, they don't ..."
+      "translated": "所以，虽然他们对你能产出成果感到高兴，但并不会对你有此期望。这种情况会在你毕业后找到真正的工作时发生变化。那时你将不得不自食其力。而且由于大公司做的大多数事情都很乏味，你将不得不处理一些乏味的工作。"
     },
     {
       "original": "Easy, compared to college, but boring. At first it may seem cool to get paid for doing easy stuff, after paying to do hard stuff in college. But that wears off after a few months. Eventually it gets demoralizing to work on dumb stuff, even if it's easy and you get paid a lot.And that's not the worst of it.",
-      "translated": "[待翻译] Easy, compared to college, but boring. At first it..."
+      "translated": "相比大学，工作更容易，但很无聊。起初，你可能会觉得做简单的事情还能赚钱挺酷的，毕竟在大学里你得花钱做难的事情。但这种感觉几个月后就会消退。最终，即使工作简单且收入丰厚，做那些愚蠢的事情也会让人感到沮丧。而这还不是最糟糕的。"
     },
     {
       "original": "The thing that really sucks about having a regular job is the expectation that you're supposed to be there at certain times. Even Google is afflicted with this, apparently. And what this means, as everyone who's had a regular job can tell you, is that there are going to be times when you have absolutely no desire to work on anything, and you're going to have to go to work anyway and sit in front of your screen and pretend to.",
-      "translated": "[待翻译] The thing that really sucks about having a regular..."
+      "translated": "真正让人感到糟糕的是，有一份固定工作就意味着你必须在特定的时间出现。即使是谷歌，似乎也难逃此劫。这意味着，正如所有有固定工作经历的人都知道的那样，有时候你完全不想做任何事情，但你还是得去上班，坐在电脑前假装在工作。"
     },
     {
       "original": "To someone who likes work, as most good hackers do, this is torture.In a startup, you skip all that. There's no concept of office hours in most startups. Work and life just get mixed together. But the good thing about that is that no one minds if you have a life at work.",
-      "translated": "[待翻译] To someone who likes work, as most good hackers do..."
+      "translated": "对于喜欢工作的人来说，就像大多数优秀的黑客那样，这简直就是折磨。在创业公司里，你就可以跳过这些。大多数创业公司都没有朝九晚五的概念。工作和生活就这样交织在一起。但好的一面是，如果你在工作中有自己的生活，没有人会在意。"
     },
     {
       "original": "In a startup you can do whatever you want most of the time. If you're a founder, what you want to do most of the time is work. But you never have to pretend to.If you took a nap in your office in a big company, it would seem unprofessional.",
-      "translated": "[待翻译] In a startup you can do whatever you want most of ..."
+      "translated": "在一家初创公司，大多数时候你可以随心所欲。如果你是创始人，大多数时候你最想做的就是工作。但你永远不必假装。如果你在一家大公司的办公室里小睡，那会显得不专业。"
     },
     {
       "original": "But if you're starting a startup and you fall asleep in the middle of the day, your cofounders will just assume you were tired.15. Parents want you to be a doctorA significant number of would-be startup founders are probably dissuaded from doing it by their parents.",
-      "translated": "[待翻译] But if you're starting a startup and you fall asle..."
+      "translated": "但如果你正在创业，而你在白天的某个时候睡着了，你的联合创始人只会以为你累了。15. 父母希望你成为医生。许多潜在的创业创始人可能因为父母的反对而放弃了创业。"
     },
     {
       "original": "I'm not going to say you shouldn't listen to them. Families are entitled to their own traditions, and who am I to argue with them? But I will give you a couple reasons why a safe career might not be what your parents really want for you.One is that parents tend to be more conservative for their kids than they would be for themselves.",
-      "translated": "[待翻译] I'm not going to say you shouldn't listen to them...."
+      "translated": "我不会说你不应该听他们的话。每个家庭都有自己的传统，我有什么资格去争辩呢？但我可以给你几个理由，说明为什么一份稳定的职业可能并不是你父母真正希望你拥有的。其中一个原因是，父母对孩子往往比对自己更保守。"
     },
     {
       "original": "This is actually a rational response to their situation. Parents end up sharing more of their kids' ill fortune than good fortune. Most parents don't mind this; it's part of the job; but it does tend to make them excessively conservative.",
-      "translated": "[待翻译] This is actually a rational response to their situ..."
+      "translated": "这实际上是他们对自身处境的一种理性回应。父母往往分担了更多孩子的不幸而非幸运。大多数父母对此并不介意；这是他们职责的一部分；但这确实会使他们变得过于保守。"
     },
     {
       "original": "And erring on the side of conservatism is still erring. In almost everything, reward is proportionate to risk. So by protecting their kids from risk, parents are, without realizing it, also protecting them from rewards.",
-      "translated": "[待翻译] And erring on the side of conservatism is still er..."
+      "translated": "而过于保守也是一种错误。在几乎所有的事情上，回报与风险成正比。因此，父母在保护孩子免受风险的同时，不知不觉中也保护他们远离了回报。"
     },
     {
       "original": "If they saw that, they'd want you to take more risks.The other reason parents may be mistaken is that, like generals, they're always fighting the last war. If they want you to be a doctor, odds are it's not just because they want you to help the sick, but also because it's a prestigious and lucrative career.",
-      "translated": "[待翻译] If they saw that, they'd want you to take more ris..."
+      "translated": "如果他们看到这种情况，就会希望你承担更多的风险。父母可能犯错的另一个原因是，像将军一样，他们总是在打上一场战争。如果他们希望你成为医生，很可能不仅是因为他们希望你去帮助病人，还因为这是一个有声望且收入丰厚的职业。"
     },
     {
       "original": "[4] But not so lucrative or prestigious as it was when their opinions were formed. When I was a kid in the seventies, a doctor was the thing to be. There was a sort of golden triangle involving doctors, Mercedes 450SLs, and tennis.",
-      "translated": "[待翻译] [4] But not so lucrative or prestigious as it was ..."
+      "translated": "但是，这远不如他们在形成这些看法时那么有吸引力或受人尊敬。在我七十年代的小孩时期，成为一名医生是最令人向往的职业。那时，医生、奔驰450SL和网球之间似乎存在着一种黄金三角关系。"
     },
     {
       "original": "All three vertices now seem pretty dated.The parents who want you to be a doctor may simply not realize how much things have changed. Would they be that unhappy if you were Steve Jobs instead? So I think the way to deal with your parents' opinions about what you should do is to treat them like feature requests.",
-      "translated": "[待翻译] All three vertices now seem pretty dated.The paren..."
+      "translated": "现在这三个顶点看起来都相当过时了。希望你成为医生的父母可能只是没有意识到事情已经发生了多大的变化。如果换成你是史蒂夫·乔布斯，他们还会那么不高兴吗？所以我认为应对父母对你应该做什么的意见的方法是把它们当作功能请求来对待。"
     },
     {
       "original": "Even if your only goal is to please them, the way to do that is not simply to give them what they ask for. Instead think about why they're asking for something, and see if there's a better way to give them what they need.16.",
-      "translated": "[待翻译] Even if your only goal is to please them, the way ..."
+      "translated": "即使你的唯一目标是让他们满意，实现这一目标的方式也不仅仅是给予他们所要求的。相反，思考他们为什么会提出这样的要求，并看看是否有更好的方式来满足他们的需求。"
     },
     {
       "original": "A job is the defaultThis leads us to the last and probably most powerful reason people get regular jobs: it's the default thing to do. Defaults are enormously powerful, precisely because they operate without any conscious choice.To almost everyone except criminals, it seems an axiom that if you need money, you should get a job.",
-      "translated": "[待翻译] A job is the defaultThis leads us to the last and ..."
+      "translated": "一份工作是默认的选择。这引导我们思考人们获得固定工作的原因中最后一个，或许也是最有力的一个原因：它是默认的选择。默认选项具有极大的影响力，正是因为它们无需经过任何有意识的选择。对几乎所有非犯罪分子的人来说，如果需要钱，就去找个工作，这似乎是一个不言而喻的公理。"
     },
     {
       "original": "Actually this tradition is not much more than a hundred years old. Before that, the default way to make a living was by farming. It's a bad plan to treat something only a hundred years old as an axiom.",
-      "translated": "[待翻译] Actually this tradition is not much more than a hu..."
+      "translated": "其实这一传统还不足一百年。在此之前，谋生的默认方式是务农。把仅仅一百年历史的东西当作公理，这并不是个好主意。"
     },
     {
       "original": "By historical standards, that's something that's changing pretty rapidly.We may be seeing another such change right now. I've read a lot of economic history, and I understand the startup world pretty well, and it now seems to me fairly likely that we're seeing the beginning of a change like the one from farming to manufacturing.And you know what?",
-      "translated": "[待翻译] By historical standards, that's something that's c..."
+      "translated": "按照历史标准，这种情况正在迅速改变。我们可能正在见证另一次这样的变化。我读过很多经济史，也相当了解初创企业界，现在我感觉我们很可能正在目睹类似于从农业到制造业的转变的开端。你知道吗？"
     },
     {
       "original": "If you'd been around when that change began (around 1000 in Europe) it would have seemed to nearly everyone that running off to the city to make your fortune was a crazy thing to do. Though serfs were in principle forbidden to leave their manors, it can't have been that hard to run away to a city.",
-      "translated": "[待翻译] If you'd been around when that change began (aroun..."
+      "translated": "如果你在那个变革开始时（大约公元1000年在欧洲）就在场，几乎每个人都会认为到城里去发财是件疯狂的事情。尽管农奴原则上被禁止离开他们的庄园，但实际上逃跑到城市并不会太难。"
     },
     {
       "original": "There were no guards patrolling the perimeter of the village. What prevented most serfs from leaving was that it seemed insanely risky. Leave one's plot of land? Leave the people you'd spent your whole life with, to live in a giant city of three or four thousand complete strangers?",
-      "translated": "[待翻译] There were no guards patrolling the perimeter of t..."
+      "translated": "村庄周围没有巡逻的守卫。大多数农奴之所以没有离开，是因为这看起来极其冒险。离开自己的土地？离开与自己共度一生的人，去到一个有三四千完全陌生人的大城市生活？"
     },
     {
       "original": "How would you live? How would you get food, if you didn't grow it?Frightening as it seemed to them, it's now the default with us to live by our wits. So if it seems risky to you to start a startup, think how risky it once seemed to your ancestors to live as we do now.",
-      "translated": "[待翻译] How would you live? How would you get food, if you..."
+      "translated": "你会如何生活？如果你不种植食物，你会如何获取食物？尽管这在他们看来是令人恐惧的，但如今我们已经习惯于依靠智慧生存。所以，如果你认为创办一家初创公司是有风险的，那么想想你的祖先曾经认为像我们这样生活也是有风险的。"
     },
     {
       "original": "Oddly enough, the people who know this best are the very ones trying to get you to stick to the old model. How can Larry and Sergey say you should come work as their employee, when they didn't get jobs themselves?Now we look back on medieval peasants and wonder how they stood it.",
-      "translated": "[待翻译] Oddly enough, the people who know this best are th..."
+      "translated": "有趣的是，最了解这一点的人恰恰是那些试图让你坚持旧模式的人。拉里和谢尔盖自己都没有去工作，他们怎么能说你应该来当他们的员工呢？现在我们回望中世纪的农民，不禁疑惑他们是怎么忍受那种生活的。"
     },
     {
       "original": "How grim it must have been to till the same fields your whole life with no hope of anything better, under the thumb of lords and priests you had to give all your surplus to and acknowledge as your masters.",
-      "translated": "[待翻译] How grim it must have been to till the same fields..."
+      "translated": "一生都在同一片田野上劳作，没有任何改善的希望，还要在领主和神父的压迫下生活，将所有的剩余产品交给他们，并承认他们是自己的主人，这该是多么凄凉的生活。"
     },
     {
       "original": "I wouldn't be surprised if one day people look back on what we consider a normal job in the same way. How grim it would be to commute every day to a cubicle in some soulless office complex, and be told what to do by someone you had to acknowledge as a boss—someone who could call you into their office and say \"take a seat,\" and you'd sit!",
-      "translated": "[待翻译] I wouldn't be surprised if one day people look bac..."
+      "translated": "我不会对有一天人们回顾我们现在认为的正常工作时感到惊讶。每天通勤到某个毫无生气的办公大楼里的隔间，被你不得不称呼为“老板”的人指使——这个人可以叫你进他们的办公室，说“请坐”，而你就会坐下来！这该是多么令人沮丧啊。"
     },
     {
       "original": "Imagine having to ask permission to release software to users. Imagine being sad on Sunday afternoons because the weekend was almost over, and tomorrow you'd have to get up and go to work. How did they stand it?It's exciting to think we may be on the cusp of another shift like the one from farming to manufacturing.",
-      "translated": "[待翻译] Imagine having to ask permission to release softwa..."
+      "translated": "想象一下，发布软件给用户之前需要征得许可。想象一下，周日下午因为周末即将结束而感到悲伤，明天又得早起去上班。他们是怎么忍受的？想到我们可能正处于从农业到制造业那样的重大转变的边缘，真是令人兴奋。"
     },
     {
       "original": "That's why I care about startups. Startups aren't interesting just because they're a way to make a lot of money. I couldn't care less about other ways to do that, like speculating in securities. At most those are interesting the way puzzles are.",
-      "translated": "[待翻译] That's why I care about startups. Startups aren't ..."
+      "translated": "这就是我关注初创企业的原因。初创企业之所以有趣，并不仅仅是因为它们是一种赚大钱的途径。我对其他赚钱的方式，比如证券交易投机，根本不在乎。顶多那些像谜题一样有些趣味而已。"
     },
     {
       "original": "There's more going on with startups. They may represent one of those rare, historic shifts in the way wealth is created.That's ultimately what drives us to work on Y Combinator. We want to make money, if only so we don't have to stop doing it, but that's not the main goal.",
-      "translated": "[待翻译] There's more going on with startups. They may repr..."
+      "translated": "初创企业正在经历更多的变化。它们可能代表着财富创造方式中那些罕见的历史性转变之一。这最终驱使我们投身于Y Combinator的工作。我们希望赚钱，哪怕只是为了能够持续进行这项工作，但这并不是我们的主要目标。"
     },
     {
       "original": "There have only been a handful of these great economic shifts in human history. It would be an amazing hack to make one happen faster. Notes[1] The only people who lost were us. The angels had convertible debt, so they had first claim on the proceeds of the auction.",
-      "translated": "[待翻译] There have only been a handful of these great econ..."
+      "translated": "在人类历史中，只有几次重大的经济变革。能够加速其中一次变革的发生将是一项了不起的创举。注[1] 唯一的输家是我们。天使投资者拥有可转换债务，因此在拍卖所得中享有优先权。"
     },
     {
       "original": "Y Combinator only got 38 cents on the dollar.[2] The best kind of organization for that might be an open source project, but those don't involve a lot of face to face meetings. Maybe it would be worth starting one that did.[3] There need to be some number of big companies to acquire the startups, so the number of big companies couldn't decrease to zero.[4] Thought experiment: If doctors did the same work, but as impoverished outcasts, which parents would still want their kids to be doctors?Thanks to Trevor Blackwell, Jessica Livingston, and Robert Morris for reading drafts of this, to the founders of Zenter for letting me use their web-based PowerPoint killer even though it isn't launched yet, and to Ming-Hay Luk of the Berkeley CSUA for inviting me to speak.",
-      "translated": "[待翻译] Y Combinator only got 38 cents on the dollar.[2] T..."
+      "translated": "Y Combinator 只收回了38美分的回报。[2] 对此，最合适的组织形式可能是一个开源项目，但这些项目通常不需要很多面对面的会议。也许，可以尝试启动一个需要更多面对面交流的项目。[3] 必须有一些大型公司来收购初创企业，因此大型公司的数量不能减少到零。[4] 假设医生做同样的工作，但作为贫困的边缘人，还有多少父母愿意让自己的孩子成为医生？感谢 Trevor Blackwell、Jessica Livingston 和 Robert Morris 阅读本文的草稿，感谢 Zenter 的创始人让我使用他们尚未发布的基于网络的 PowerPoint 替代品，感谢 Berkeley CSUA 的 Ming-Hay Luk 邀请我进行演讲。"
     },
     {
       "original": "Comment on this essay.Russian TranslationJapanese TranslationKorean Translation",
-      "translated": "[待翻译] Comment on this essay.Russian TranslationJapanese ..."
+      "translated": "评论这篇文章。俄文翻译日文翻译韩文翻译"
     }
-  ]
+  ],
+  "translation_completed": "2025-07-29T11:40:02.830371",
+  "translation_stats": {
+    "total_paragraphs": 121,
+    "success_count": 121,
+    "success_rate": "100.0%"
+  }
 }

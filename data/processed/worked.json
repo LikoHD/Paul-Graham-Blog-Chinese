@@ -282,1067 +282,1073 @@
   "paragraphs": [
     {
       "original": "February 2021Before college the two main things I worked on, outside of school, were writing and programming. I didn't write essays. I wrote what beginning writers were supposed to write then, and probably still are: short stories.",
-      "translated": "[待翻译] February 2021Before college the two main things I ..."
+      "translated": "2021年2月在上大学之前，我主要做的两件事，除学校的学习之外，就是写作和编程。我写的不是论文，而是像初学写作的人那时应该写的，可能现在也是：短篇小说。"
     },
     {
       "original": "My stories were awful. They had hardly any plot, just characters with strong feelings, which I imagined made them deep.The first programs I tried writing were on the IBM 1401 that our school district used for what was then called \"data processing.\" This was in 9th grade, so I was 13 or 14.",
-      "translated": "[待翻译] My stories were awful. They had hardly any plot, j..."
+      "translated": "我的故事糟糕透了。几乎没有情节，只有充满强烈情感的角色，我想象这使它们显得深刻。我最早尝试编写的程序是在我们学区用于当时称为“数据处理”的IBM 1401计算机上。那时我上九年级，所以大概是13或14岁。"
     },
     {
       "original": "The school district's 1401 happened to be in the basement of our junior high school, and my friend Rich Draves and I got permission to use it. It was like a mini Bond villain's lair down there, with all these alien-looking machines — CPU, disk drives, printer, card reader — sitting up on a raised floor under bright fluorescent lights.The language we used was an early version of Fortran.",
-      "translated": "[待翻译] The school district's 1401 happened to be in the b..."
+      "translated": "[翻译失败] The school district's 1401 happened to be in the b..."
     },
     {
       "original": "You had to type programs on punch cards, then stack them in the card reader and press a button to load the program into memory and run it. The result would ordinarily be to print something on the spectacularly loud printer.I was puzzled by the 1401.",
-      "translated": "[待翻译] You had to type programs on punch cards, then stac..."
+      "translated": "你必须在穿孔卡上输入程序，然后将它们堆叠在卡片阅读器中，按下按钮将程序加载到内存并运行。通常，结果会在那台响亮得惊人的打印机上打印出来。我对1401感到困惑。"
     },
     {
       "original": "I couldn't figure out what to do with it. And in retrospect there's not much I could have done with it. The only form of input to programs was data stored on punched cards, and I didn't have any data stored on punched cards.",
-      "translated": "[待翻译] I couldn't figure out what to do with it. And in r..."
+      "translated": "我那时不知道该如何处理它。事后想想，我也没什么办法。程序的唯一输入形式是存储在穿孔卡片上的数据，而我没有任何存储在穿孔卡片上的数据。"
     },
     {
       "original": "The only other option was to do things that didn't rely on any input, like calculate approximations of pi, but I didn't know enough math to do anything interesting of that type. So I'm not surprised I can't remember any programs I wrote, because they can't have done much.",
-      "translated": "[待翻译] The only other option was to do things that didn't..."
+      "translated": "唯一其他的选择就是做一些不需要任何输入的事情，比如计算圆周率的近似值，但我当时数学知识不够，无法做出任何有趣的事情。所以我不 surprise 我记不得我写过任何程序，因为那些程序肯定没什么大用。"
     },
     {
       "original": "My clearest memory is of the moment I learned it was possible for programs not to terminate, when one of mine didn't. On a machine without time-sharing, this was a social as well as a technical error, as the data center manager's expression made clear.With microcomputers, everything changed.",
-      "translated": "[待翻译] My clearest memory is of the moment I learned it w..."
+      "translated": "我最清晰的记忆是当我得知程序有可能不会终止的那一刻，当时我的一个程序就没有终止。在没有分时系统的机器上，这不仅是一个技术错误，也是一个社交错误，数据中心经理的表情就说明了这一点。有了微型计算机，一切都不一样了。"
     },
     {
       "original": "Now you could have a computer sitting right in front of you, on a desk, that could respond to your keystrokes as it was running instead of just churning through a stack of punch cards and then stopping.",
-      "translated": "[待翻译] Now you could have a computer sitting right in fro..."
+      "translated": "现在，你可以拥有一台放在桌上的计算机，它可以在运行过程中响应你的键盘输入，而不仅仅是在处理完一堆穿孔卡片后才停止。"
     },
     {
       "original": "[1]The first of my friends to get a microcomputer built it himself. It was sold as a kit by Heathkit. I remember vividly how impressed and envious I felt watching him sitting in front of it, typing programs right into the computer.Computers were expensive in those days and it took me years of nagging before I convinced my father to buy one, a TRS-80, in about 1980.",
-      "translated": "[待翻译] [1]The first of my friends to get a microcomputer ..."
+      "translated": "我的第一个拥有微型计算机的朋友是自己组装的。那是一套由Heathkit出售的套件。我还清楚地记得，当时看着他坐在计算机前，直接在机器上输入程序，我感到非常羡慕和钦佩。那时候计算机很贵，我花了好几年的时间才说服父亲买了一台，是一台TRS-80，大约是在1980年。"
     },
     {
       "original": "The gold standard then was the Apple II, but a TRS-80 was good enough. This was when I really started programming. I wrote simple games, a program to predict how high my model rockets would fly, and a word processor that my father used to write at least one book.",
-      "translated": "[待翻译] The gold standard then was the Apple II, but a TRS..."
+      "translated": "当时的黄金标准是苹果II，但TRS-80也足够好了。也就是从那时起，我真正开始编程。我编写了简单游戏，一个预测我的模型火箭能飞多高的程序，以及一个我父亲用来撰写至少一本书的文字处理软件。"
     },
     {
       "original": "There was only room in memory for about 2 pages of text, so he'd write 2 pages at a time and then print them out, but it was a lot better than a typewriter.Though I liked programming, I didn't plan to study it in college.",
-      "translated": "[待翻译] There was only room in memory for about 2 pages of..."
+      "translated": "内存只能容纳大约两页文本，所以他每次写两页，然后打印出来，这比打字机好多了。虽然我喜欢编程，但并不打算在大学里学习这门课程。"
     },
     {
       "original": "In college I was going to study philosophy, which sounded much more powerful. It seemed, to my naive high school self, to be the study of the ultimate truths, compared to which the things studied in other fields would be mere domain knowledge.",
-      "translated": "[待翻译] In college I was going to study philosophy, which ..."
+      "translated": "在大学里我本打算学习哲学，这听起来要强大得多。对于我那个天真的高中自我来说，哲学似乎是终极真理的研究，相比之下，其他领域所学的内容只是具体领域的知识。"
     },
     {
       "original": "What I discovered when I got to college was that the other fields took up so much of the space of ideas that there wasn't much left for these supposed ultimate truths. All that seemed left for philosophy were edge cases that people in other fields felt could safely be ignored.I couldn't have put this into words when I was 18.",
-      "translated": "[待翻译] What I discovered when I got to college was that t..."
+      "translated": "当我上大学时，我发现其他领域占据了思想空间的大部分，以至于留给这些所谓终极真理的空间所剩无几。似乎只剩下一些其他领域的人认为可以安全忽略的边缘案例留给哲学。我18岁时还无法用语言表达这一点。"
     },
     {
       "original": "All I knew at the time was that I kept taking philosophy courses and they kept being boring. So I decided to switch to AI.AI was in the air in the mid 1980s, but there were two things especially that made me want to work on it: a novel by Heinlein called The Moon is a Harsh Mistress, which featured an intelligent computer called Mike, and a PBS documentary that showed Terry Winograd using SHRDLU.",
-      "translated": "[待翻译] All I knew at the time was that I kept taking phil..."
+      "translated": "当时我只知道我一直在修哲学课程，但它们一直都很无聊。所以我决定转到人工智能领域。20世纪80年代中期，人工智能正处于风口，但有两件事特别让我想要从事这个领域的工作：海因莱因的一本小说《月亮是一个严厉的情人》，里面有一个叫迈克的智能计算机，还有一部PBS纪录片展示了特里·温诺格拉德使用SHRDLU的情景。"
     },
     {
       "original": "I haven't tried rereading The Moon is a Harsh Mistress, so I don't know how well it has aged, but when I read it I was drawn entirely into its world. It seemed only a matter of time before we'd have Mike, and when I saw Winograd using SHRDLU, it seemed like that time would be a few years at most.",
-      "translated": "[待翻译] I haven't tried rereading The Moon is a Harsh Mist..."
+      "translated": "我还没有重读《严厉的月球》（The Moon is a Harsh Mistress），所以不知道它经得起时间的考验与否，但当我阅读时，完全被它的世界所吸引。当时我觉得我们拥有迈克（Mike）只是时间问题，而当我看到温诺格拉德使用SHRDLU时，感觉那个时代最多几年就会到来。"
     },
     {
       "original": "All you had to do was teach SHRDLU more words.There weren't any classes in AI at Cornell then, not even graduate classes, so I started trying to teach myself. Which meant learning Lisp, since in those days Lisp was regarded as the language of AI.",
-      "translated": "[待翻译] All you had to do was teach SHRDLU more words.Ther..."
+      "translated": "你只需要教SHRDLU更多的词汇。当时康奈尔大学还没有人工智能课程，甚至连研究生课程都没有，所以我开始尝试自学。这意味着要学习Lisp，因为在那个时候Lisp被认为是一种人工智能语言。"
     },
     {
       "original": "The commonly used programming languages then were pretty primitive, and programmers' ideas correspondingly so. The default language at Cornell was a Pascal-like language called PL/I, and the situation was similar elsewhere.",
-      "translated": "[待翻译] The commonly used programming languages then were ..."
+      "translated": "当时常用的编程语言相当原始，程序员的想法也是如此。康奈尔大学默认使用的是一种类似Pascal的语言，称为PL/I，其他地方的情况也大致相同。"
     },
     {
       "original": "Learning Lisp expanded my concept of a program so fast that it was years before I started to have a sense of where the new limits were. This was more like it; this was what I had expected college to do.",
-      "translated": "[待翻译] Learning Lisp expanded my concept of a program so ..."
+      "translated": "学习Lisp迅速扩展了我对程序的概念，以至于过了好几年我才开始意识到新的边界在哪里。这才是我所期待的大学生活。"
     },
     {
       "original": "It wasn't happening in a class, like it was supposed to, but that was ok. For the next couple years I was on a roll. I knew what I was going to do.For my undergraduate thesis, I reverse-engineered SHRDLU.",
-      "translated": "[待翻译] It wasn't happening in a class, like it was suppos..."
+      "translated": "这并没有像预期的那样发生在课堂上，但没关系。在接下来的几年里，我一帆风顺。我知道自己要做什么。在我的本科论文中，我逆向工程了SHRDLU。"
     },
     {
       "original": "My God did I love working on that program. It was a pleasing bit of code, but what made it even more exciting was my belief — hard to imagine now, but not unique in 1985 — that it was already climbing the lower slopes of intelligence.I had gotten into a program at Cornell that didn't make you choose a major.",
-      "translated": "[待翻译] My God did I love working on that program. It was ..."
+      "translated": "天啊，我多么喜欢参与那个程序的工作。那是一段令人满意的代码，但更令人兴奋的是，我那时坚信——现在难以想象，但在1985年并不独特——它已经开始了智能的初步攀登。我进入了康奈尔大学的一个项目，这个项目不要求你选择专业。"
     },
     {
       "original": "You could take whatever classes you liked, and choose whatever you liked to put on your degree. I of course chose \"Artificial Intelligence.\" When I got the actual physical diploma, I was dismayed to find that the quotes had been included, which made them read as scare-quotes.",
-      "translated": "[待翻译] You could take whatever classes you liked, and cho..."
+      "translated": "你可以选修任何你喜欢的课程，并选择任何你喜欢的专业放在学位上。我当然选择了“人工智能”。当我拿到实际的纸质文凭时，我失望地发现那些引号也被包括进去了，这就让它们看起来像是表示怀疑的引号。"
     },
     {
       "original": "At the time this bothered me, but now it seems amusingly accurate, for reasons I was about to discover.I applied to 3 grad schools: MIT and Yale, which were renowned for AI at the time, and Harvard, which I'd visited because Rich Draves went there, and was also home to Bill Woods, who'd invented the type of parser I used in my SHRDLU clone.",
-      "translated": "[待翻译] At the time this bothered me, but now it seems amu..."
+      "translated": "当时这让我感到困扰，但现在看来却显得有趣地准确，原因即将揭晓。我申请了三所研究生院：MIT和耶鲁，当时以人工智能著称；还有哈佛，我去过那里，因为里奇·德雷夫斯在那里，而且那里还有比尔·伍兹，他发明了我在SHRDLU克隆中使用的那种解析器。"
     },
     {
       "original": "Only Harvard accepted me, so that was where I went.I don't remember the moment it happened, or if there even was a specific moment, but during the first year of grad school I realized that AI, as practiced at the time, was a hoax.",
-      "translated": "[待翻译] Only Harvard accepted me, so that was where I went..."
+      "translated": "只有哈佛大学录取了我，所以我去了那里。我不记得那个时刻具体是什么时候，甚至不确定是否有过那么一个具体的时刻，但在研究生第一年，我意识到当时实践的人工智能是一场骗局。"
     },
     {
       "original": "By which I mean the sort of AI in which a program that's told \"the dog is sitting on the chair\" translates this into some formal representation and adds it to the list of things it knows.What these programs really showed was that there's a subset of natural language that's a formal language.",
-      "translated": "[待翻译] By which I mean the sort of AI in which a program ..."
+      "translated": "我的意思是，这种人工智能程序在被告知“狗坐在椅子上”时，会将这句话转化为某种形式化的表示，并将其添加到已知事物的列表中。这些程序真正展示的是，自然语言中存在一个形式语言的子集。"
     },
     {
       "original": "But a very proper subset. It was clear that there was an unbridgeable gap between what they could do and actually understanding natural language. It was not, in fact, simply a matter of teaching SHRDLU more words.",
-      "translated": "[待翻译] But a very proper subset. It was clear that there ..."
+      "translated": "但那只是一个非常恰当的子集。显然，他们能做到的与真正理解自然语言之间存在着无法逾越的鸿沟。事实上，问题并不只是简单地教SHRDLU更多的词汇。"
     },
     {
       "original": "That whole way of doing AI, with explicit data structures representing concepts, was not going to work. Its brokenness did, as so often happens, generate a lot of opportunities to write papers about various band-aids that could be applied to it, but it was never going to get us Mike.So I looked around to see what I could salvage from the wreckage of my plans, and there was Lisp.",
-      "translated": "[待翻译] That whole way of doing AI, with explicit data str..."
+      "translated": "那种用明确的数据结构来表示概念的AI方法行不通。它的缺陷，正如经常发生的那样，确实产生了许多撰写论文的机会，讨论可以应用于其中的各种补丁，但这永远不会让我们达到Mike的水平。于是，我环顾四周，看看能从我的计划残局中挽救些什么，结果发现了Lisp。"
     },
     {
       "original": "I knew from experience that Lisp was interesting for its own sake and not just for its association with AI, even though that was the main reason people cared about it at the time. So I decided to focus on Lisp.",
-      "translated": "[待翻译] I knew from experience that Lisp was interesting f..."
+      "translated": "从经验中我知道，Lisp 本身就很有趣，而不仅仅是因为它与人工智能的关联，尽管这在当时是人们关注它的主要原因。所以我决定专注于 Lisp。"
     },
     {
       "original": "In fact, I decided to write a book about Lisp hacking. It's scary to think how little I knew about Lisp hacking when I started writing that book. But there's nothing like writing a book about something to help you learn it.",
-      "translated": "[待翻译] In fact, I decided to write a book about Lisp hack..."
+      "translated": "事实上，我决定写一本关于Lisp编程的书。回想起来，当我开始写这本书时，我对Lisp编程的了解是多么少，这真让人感到害怕。但是，没有什么比写一本书更能帮助你学习某样东西了。"
     },
     {
       "original": "The book, On Lisp, wasn't published till 1993, but I wrote much of it in grad school.Computer Science is an uneasy alliance between two halves, theory and systems. The theory people prove things, and the systems people build things.",
-      "translated": "[待翻译] The book, On Lisp, wasn't published till 1993, but..."
+      "translated": "这本书《On Lisp》直到1993年才出版，但我在研究生期间就写了很多内容。计算机科学是理论与系统这两个领域的不稳定联盟。理论研究者证明定理，而系统研究者构建实际的系统。"
     },
     {
       "original": "I wanted to build things. I had plenty of respect for theory — indeed, a sneaking suspicion that it was the more admirable of the two halves — but building things seemed so much more exciting.The problem with systems work, though, was that it didn't last.",
-      "translated": "[待翻译] I wanted to build things. I had plenty of respect ..."
+      "translated": "我想建造东西。我对理论充满敬意——事实上，内心深处总感觉理论是两者中更为高尚的一部分——但建造东西似乎要激动人心得多。不过，系统工作的问题是，它不会持久。"
     },
     {
       "original": "Any program you wrote today, no matter how good, would be obsolete in a couple decades at best. People might mention your software in footnotes, but no one would actually use it. And indeed, it would seem very feeble work.",
-      "translated": "[待翻译] Any program you wrote today, no matter how good, w..."
+      "translated": "你今天编写的所有程序，无论多么优秀，最多几十年后就会过时。人们可能会在脚注中提及你的软件，但没有人会真正使用它。事实上，它看起来会是非常薄弱的作品。"
     },
     {
       "original": "Only people with a sense of the history of the field would even realize that, in its time, it had been good.There were some surplus Xerox Dandelions floating around the computer lab at one point. Anyone who wanted one to play around with could have one.",
-      "translated": "[待翻译] Only people with a sense of the history of the fie..."
+      "translated": "只有对这个领域历史有所了解的人才会意识到，在那个时代，它曾是很好的。有一段时间，计算机实验室里有一些多余的施乐丹德莱恩。任何想要一台来把玩的人都可以拥有一台。"
     },
     {
       "original": "I was briefly tempted, but they were so slow by present standards; what was the point? No one else wanted one either, so off they went. That was what happened to systems work.I wanted not just to build things, but to build things that would last.In this dissatisfied state I went in 1988 to visit Rich Draves at CMU, where he was in grad school.",
-      "translated": "[待翻译] I was briefly tempted, but they were so slow by pr..."
+      "translated": "我曾短暂地心动，但按照现在的标准，它们实在是太慢了；买它们有什么意义呢？也没有其他人想要，所以它们就被处理掉了。这就是系统工作发生的事情。我不仅想要建造东西，还想要建造能够持久的东西。在这种不满的状态下，1988年我去了CMU拜访正在读研究生的Rich Draves。"
     },
     {
       "original": "One day I went to visit the Carnegie Institute, where I'd spent a lot of time as a kid. While looking at a painting there I realized something that might seem obvious, but was a big surprise to me. There, right on the wall, was something you could make that would last.",
-      "translated": "[待翻译] One day I went to visit the Carnegie Institute, wh..."
+      "translated": "有一天，我去参观了卡内基研究所，这是我小时候经常去的地方。在欣赏那里的一幅画时，我意识到一个可能显而易见，但对我而言却是巨大惊喜的事实。就在墙上，挂着一件可以永久保存的作品。"
     },
     {
       "original": "Paintings didn't become obsolete. Some of the best ones were hundreds of years old.And moreover this was something you could make a living doing. Not as easily as you could by writing software, of course, but I thought if you were really industrious and lived really cheaply, it had to be possible to make enough to survive.",
-      "translated": "[待翻译] Paintings didn't become obsolete. Some of the best..."
+      "translated": "绘画并没有过时。一些最出色的作品已经有几百年的历史了。而且，这是一门可以谋生的手艺。当然，不像编写软件那么容易，但我认为，如果你真的勤奋工作并且生活节俭，肯定可以赚到足够的钱来维持生计。"
     },
     {
       "original": "And as an artist you could be truly independent. You wouldn't have a boss, or even need to get research funding.I had always liked looking at paintings. Could I make them? I had no idea. I'd never imagined it was even possible.",
-      "translated": "[待翻译] And as an artist you could be truly independent. Y..."
+      "translated": "作为一名艺术家，你可以真正独立。你不会有老板，甚至不需要申请研究资金。我一直喜欢看画。我能做到吗？我不知道。我从未想过这甚至是可能的。"
     },
     {
       "original": "I knew intellectually that people made art — that it didn't just appear spontaneously — but it was as if the people who made it were a different species. They either lived long ago or were mysterious geniuses doing strange things in profiles in Life magazine.",
-      "translated": "[待翻译] I knew intellectually that people made art — that ..."
+      "translated": "我理智上知道艺术是人创作的——并不是凭空出现的——但创作艺术的人仿佛是另一种生物。他们要么生活在很久以前，要么是《生活》杂志上那些行踪诡秘的天才，做着奇怪的事情。"
     },
     {
       "original": "The idea of actually being able to make art, to put that verb before that noun, seemed almost miraculous.That fall I started taking art classes at Harvard. Grad students could take classes in any department, and my advisor, Tom Cheatham, was very easy going.",
-      "translated": "[待翻译] The idea of actually being able to make art, to pu..."
+      "translated": "实际上能够创作艺术，将那个动词置于那个名词之前，似乎几乎是奇迹般的。那年秋天，我开始在哈佛上艺术课。研究生可以在任何系选课，而我的导师汤姆·切特姆非常随和。"
     },
     {
       "original": "If he even knew about the strange classes I was taking, he never said anything.So now I was in a PhD program in computer science, yet planning to be an artist, yet also genuinely in love with Lisp hacking and working away at On Lisp.",
-      "translated": "[待翻译] If he even knew about the strange classes I was ta..."
+      "translated": "即使他知道我修的一些奇怪的课程，他从未说过什么。现在我正在攻读计算机科学的博士学位，却计划成为一名艺术家，同时也真心热爱Lisp编程，并且在《On Lisp》上埋头苦干。"
     },
     {
       "original": "In other words, like many a grad student, I was working energetically on multiple projects that were not my thesis.I didn't see a way out of this situation. I didn't want to drop out of grad school, but how else was I going to get out?",
-      "translated": "[待翻译] In other words, like many a grad student, I was wo..."
+      "translated": "换句话说，像许多研究生一样，我精力充沛地投身于多个与我的论文无关的项目中。我看不到解决这种状况的出路。我不想退学，但除此之外，我还能怎么做呢？"
     },
     {
       "original": "I remember when my friend Robert Morris got kicked out of Cornell for writing the internet worm of 1988, I was envious that he'd found such a spectacular way to get out of grad school.Then one day in April 1990 a crack appeared in the wall.",
-      "translated": "[待翻译] I remember when my friend Robert Morris got kicked..."
+      "translated": "我记得当我的朋友罗伯特·莫里斯因为编写1988年的互联网蠕虫而被康奈尔大学开除时，我嫉妒他找到了这样一种壮观的方式逃离研究生院。然后在1990年4月的一天，墙上出现了一道裂缝。"
     },
     {
       "original": "I ran into professor Cheatham and he asked if I was far enough along to graduate that June. I didn't have a word of my dissertation written, but in what must have been the quickest bit of thinking in my life, I decided to take a shot at writing one in the 5 weeks or so that remained before the deadline, reusing parts of On Lisp where I could, and I was able to respond, with no perceptible delay \"Yes, I think so.",
-      "translated": "[待翻译] I ran into professor Cheatham and he asked if I wa..."
+      "translated": "我碰到了切斯姆教授，他问我是否已经进展到可以在六月毕业的程度。我的论文一个字都没写，但在可能是我一生中最快的思考之后，我决定在截止日期前剩下的大约5周时间里尝试写一篇论文，尽可能地重用《On Lisp》中的部分内容，于是我毫不犹豫地回答：“是的，我想可以。”"
     },
     {
       "original": "I'll give you something to read in a few days.\"I picked applications of continuations as the topic. In retrospect I should have written about macros and embedded languages. There's a whole world there that's barely been explored.",
-      "translated": "[待翻译] I'll give you something to read in a few days.\"I p..."
+      "translated": "几天后我会给你点东西看。“我选择了续延的应用作为主题。回想起来，我本应该写宏和嵌入式语言的。那里有一个几乎未被探索的广阔世界。"
     },
     {
       "original": "But all I wanted was to get out of grad school, and my rapidly written dissertation sufficed, just barely.Meanwhile I was applying to art schools. I applied to two: RISD in the US, and the Accademia di Belli Arti in Florence, which, because it was the oldest art school, I imagined would be good.",
-      "translated": "[待翻译] But all I wanted was to get out of grad school, an..."
+      "translated": "但我只是想从研究生院毕业，我匆匆写就的论文勉强够用。与此同时，我正在申请艺术学校。我申请了两所：美国的罗德岛设计学院和佛罗伦萨的美术学院。因为后者是最古老的艺术学校，我想象它应该很不错。"
     },
     {
       "original": "RISD accepted me, and I never heard back from the Accademia, so off to Providence I went.I'd applied for the BFA program at RISD, which meant in effect that I had to go to college again. This was not as strange as it sounds, because I was only 25, and art schools are full of people of different ages.",
-      "translated": "[待翻译] RISD accepted me, and I never heard back from the ..."
+      "translated": "RISD录取了我，而我再也没有收到Accademia的回复，所以我去了普罗维登斯。我申请的是RISD的BFA项目，这意味着我实际上必须再次上大学。这听起来并不奇怪，因为我只有25岁，而艺术学校里充满了不同年龄的人。"
     },
     {
       "original": "RISD counted me as a transfer sophomore and said I had to do the foundation that summer. The foundation means the classes that everyone has to take in fundamental subjects like drawing, color, and design.Toward the end of the summer I got a big surprise: a letter from the Accademia, which had been delayed because they'd sent it to Cambridge England instead of Cambridge Massachusetts, inviting me to take the entrance exam in Florence that fall.",
-      "translated": "[待翻译] RISD counted me as a transfer sophomore and said I..."
+      "translated": "RISD 将我算作转学的二年级学生，并告知我必须在那个夏天完成基础课程。基础课程指的是每个人都必须修读的绘画、色彩和设计等基础科目。夏天快结束时，我收到了一个大惊喜：一封来自 Accademia 的信，这封信因为被误寄到了英国的剑桥而不是马萨诸塞州的剑桥，所以耽搁了。信中邀请我秋天去佛罗伦萨参加入学考试。"
     },
     {
       "original": "This was now only weeks away. My nice landlady let me leave my stuff in her attic. I had some money saved from consulting work I'd done in grad school; there was probably enough to last a year if I lived cheaply.",
-      "translated": "[待翻译] This was now only weeks away. My nice landlady let..."
+      "translated": "这现在已经只有几周的时间了。我的好心房东让我把东西放在她的阁楼上。我从研究生时期做咨询工作存了一些钱；如果我节俭生活的话，可能足够维持一年。"
     },
     {
       "original": "Now all I had to do was learn Italian.Only stranieri (foreigners) had to take this entrance exam. In retrospect it may well have been a way of excluding them, because there were so many stranieri attracted by the idea of studying art in Florence that the Italian students would otherwise have been outnumbered.",
-      "translated": "[待翻译] Now all I had to do was learn Italian.Only stranie..."
+      "translated": "现在我只需要学意大利语了。只有外国人（stranieri）需要参加这个入学考试。回想起来，这可能是一种排除他们的方法，因为有那么多外国人被佛罗伦萨学习艺术的想法所吸引，否则意大利学生就会被超过。"
     },
     {
       "original": "I was in decent shape at painting and drawing from the RISD foundation that summer, but I still don't know how I managed to pass the written exam. I remember that I answered the essay question by writing about Cezanne, and that I cranked up the intellectual level as high as I could to make the most of my limited vocabulary.",
-      "translated": "[待翻译] I was in decent shape at painting and drawing from..."
+      "translated": "那个夏天，我在罗德岛设计学院的基础课程中，绘画和素描都还不错，但我不明白自己是如何通过笔试的。我记得我在回答论文题目时写的是塞尚，而且我尽可能地提升了文章的理论水平，以最大限度地利用我有限的词汇。"
     },
     {
       "original": "[2]I'm only up to age 25 and already there are such conspicuous patterns. Here I was, yet again about to attend some august institution in the hopes of learning about some prestigious subject, and yet again about to be disappointed.",
-      "translated": "[待翻译] [2]I'm only up to age 25 and already there are suc..."
+      "translated": "我才25岁，就已经有了如此明显的模式。我又一次即将进入某所庄严的学府，希望能学习一些显赫的学科，却又要一次失望。"
     },
     {
       "original": "The students and faculty in the painting department at the Accademia were the nicest people you could imagine, but they had long since arrived at an arrangement whereby the students wouldn't require the faculty to teach anything, and in return the faculty wouldn't require the students to learn anything.",
-      "translated": "[待翻译] The students and faculty in the painting departmen..."
+      "translated": "美术学院绘画系的师生们都是非常和蔼可亲的人，但他们早就达成了一种默契：学生不要求教师传授任何东西，而教师也不要求学生学习任何东西。"
     },
     {
       "original": "And at the same time all involved would adhere outwardly to the conventions of a 19th century atelier. We actually had one of those little stoves, fed with kindling, that you see in 19th century studio paintings, and a nude model sitting as close to it as possible without getting burned.",
-      "translated": "[待翻译] And at the same time all involved would adhere out..."
+      "translated": "与此同时，所有参与者都会在外在表现上遵守19世纪画室的惯例。我们确实有一个那种你在19世纪画室画中看到的小火炉，用引火物供燃，还有一个裸体模特尽可能靠近它坐着，但又不会被烧伤。"
     },
     {
       "original": "Except hardly anyone else painted her besides me. The rest of the students spent their time chatting or occasionally trying to imitate things they'd seen in American art magazines.Our model turned out to live just down the street from me.",
-      "translated": "[待翻译] Except hardly anyone else painted her besides me. ..."
+      "translated": "除了我几乎没人给她画像。其他学生大部分时间都在聊天，或者偶尔试着模仿他们在美国艺术杂志上看到的东西。我们的模特原来就住在我家附近。"
     },
     {
       "original": "She made a living from a combination of modelling and making fakes for a local antique dealer. She'd copy an obscure old painting out of a book, and then he'd take the copy and maltreat it to make it look old.",
-      "translated": "[待翻译] She made a living from a combination of modelling ..."
+      "translated": "她靠为一家当地的古董商做模型和制造仿品为生。她会从书上临摹一幅鲜为人知的古画，然后由他把这幅临摹的画作加工，使其看起来像古董。"
     },
     {
       "original": "[3]While I was a student at the Accademia I started painting still lives in my bedroom at night. These paintings were tiny, because the room was, and because I painted them on leftover scraps of canvas, which was all I could afford at the time.",
-      "translated": "[待翻译] [3]While I was a student at the Accademia I starte..."
+      "translated": "在我在学院学习期间，我开始在卧室里夜间画静物。这些画很小，因为房间很小，而且我是在剩下的帆布碎片上画的，那时候我只能负担得起这些。"
     },
     {
       "original": "Painting still lives is different from painting people, because the subject, as its name suggests, can't move. People can't sit for more than about 15 minutes at a time, and when they do they don't sit very still.",
-      "translated": "[待翻译] Painting still lives is different from painting pe..."
+      "translated": "绘制静物与绘制人物不同，因为静物如其名，是不会动的。人不能连续坐超过大约15分钟，而且即使坐着也很难保持完全不动。"
     },
     {
       "original": "So the traditional m.o. for painting people is to know how to paint a generic person, which you then modify to match the specific person you're painting. Whereas a still life you can, if you want, copy pixel by pixel from what you're seeing.",
-      "translated": "[待翻译] So the traditional m.o. for painting people is to ..."
+      "translated": "所以，传统的画人方法是先学会画一个通用的人物形象，然后根据你所要画的具体人物进行修改。而静物画则可以根据需要，从你所看到的物体逐像素地复制。"
     },
     {
       "original": "You don't want to stop there, of course, or you get merely photographic accuracy, and what makes a still life interesting is that it's been through a head. You want to emphasize the visual cues that tell you, for example, that the reason the color changes suddenly at a certain point is that it's the edge of an object.",
-      "translated": "[待翻译] You don't want to stop there, of course, or you ge..."
+      "translated": "当然，你不会止步于此，否则只会得到 mere 照片般的准确性，而静物画之所以有趣，是因为它经过了艺术家的头脑加工。你要强调那些视觉线索，例如，颜色在某个点突然变化是因为那里是物体的边缘。"
     },
     {
       "original": "By subtly emphasizing such things you can make paintings that are more realistic than photographs not just in some metaphorical sense, but in the strict information-theoretic sense. [4]I liked painting still lives because I was curious about what I was seeing.",
-      "translated": "[待翻译] By subtly emphasizing such things you can make pai..."
+      "translated": "通过巧妙地强调这些细节，你可以创作出比照片更真实的画作，这不仅仅是在某种比喻意义上，而是在严格的信息论意义上。[4]我喜欢画静物，因为我对所看到的东西感到好奇。"
     },
     {
       "original": "In everyday life, we aren't consciously aware of much we're seeing. Most visual perception is handled by low-level processes that merely tell your brain \"that's a water droplet\" without telling you details like where the lightest and darkest points are, or \"that's a bush\" without telling you the shape and position of every leaf.",
-      "translated": "[待翻译] In everyday life, we aren't consciously aware of m..."
+      "translated": "在日常生活中，我们并没有意识到自己看到的许多东西。大多数视觉感知是由低级过程处理的，这些过程只是告诉大脑“那是一滴水”而不会告诉你光点最亮和最暗的部分在哪里，或者“那是一丛灌木”而不会告诉你每片叶子的形状和位置。"
     },
     {
       "original": "This is a feature of brains, not a bug. In everyday life it would be distracting to notice every leaf on every bush. But when you have to paint something, you have to look more closely, and when you do there's a lot to see.",
-      "translated": "[待翻译] This is a feature of brains, not a bug. In everyda..."
+      "translated": "这是大脑的特点，而不是缺陷。在日常生活中，注意到每一丛灌木上的每一片叶子会让人分心。但当你需要描绘某样东西时，你就必须更加仔细地观察，而当你这样做的时候，你会发现有很多细节可以观察。"
     },
     {
       "original": "You can still be noticing new things after days of trying to paint something people usually take for granted, just as you can after days of trying to write an essay about something people usually take for granted.This is not the only way to paint.",
-      "translated": "[待翻译] You can still be noticing new things after days of..."
+      "translated": "即使在尝试绘制人们通常视为理所当然的事物几天后，你仍然可能会发现新的东西，就像在尝试撰写关于人们通常视为理所当然的事物的论文几天后一样。这并不是绘画的唯一方式。"
     },
     {
       "original": "I'm not 100% sure it's even a good way to paint. But it seemed a good enough bet to be worth trying.Our teacher, professor Ulivi, was a nice guy. He could see I worked hard, and gave me a good grade, which he wrote down in a sort of passport each student had.",
-      "translated": "[待翻译] I'm not 100% sure it's even a good way to paint. B..."
+      "translated": "我不完全确定这是一种好的绘画方法。但看起来足够可行，值得一试。我们的老师，乌利维教授，是个很好的人。他看得出我努力了，给了我一个好成绩，还把这个成绩记录在每个学生都有的那种类似护照的小册子上。"
     },
     {
       "original": "But the Accademia wasn't teaching me anything except Italian, and my money was running out, so at the end of the first year I went back to the US.I wanted to go back to RISD, but I was now broke and RISD was very expensive, so I decided to get a job for a year and then return to RISD the next fall.",
-      "translated": "[待翻译] But the Accademia wasn't teaching me anything exce..."
+      "translated": "但学院并没有教我什么，除了意大利语，而我的钱也快用完了，所以在第一年结束时我回到了美国。我想回到罗德岛设计学院，但那时我已经身无分文，而罗德岛设计学院的学费非常昂贵，所以我决定先工作一年，然后在第二年秋天再回罗德岛设计学院。"
     },
     {
       "original": "I got one at a company called Interleaf, which made software for creating documents. You mean like Microsoft Word? Exactly. That was how I learned that low end software tends to eat high end software.",
-      "translated": "[待翻译] I got one at a company called Interleaf, which mad..."
+      "translated": "我在一家叫 Interleaf 的公司工作，他们制作文档创建软件。你是说像 Microsoft Word 那样的？没错。就是在那里我了解到低端软件往往会蚕食高端软件。"
     },
     {
       "original": "But Interleaf still had a few years to live yet. [5]Interleaf had done something pretty bold. Inspired by Emacs, they'd added a scripting language, and even made the scripting language a dialect of Lisp.",
-      "translated": "[待翻译] But Interleaf still had a few years to live yet. [..."
+      "translated": "但 Interleaf 仍然还有几年的生命力。[5] Interleaf 做了一件相当大胆的事情。受到 Emacs 的启发，他们添加了一种脚本语言，甚至将这种脚本语言设计成了 Lisp 的一种方言。"
     },
     {
       "original": "Now they wanted a Lisp hacker to write things in it. This was the closest thing I've had to a normal job, and I hereby apologize to my boss and coworkers, because I was a bad employee. Their Lisp was the thinnest icing on a giant C cake, and since I didn't know C and didn't want to learn it, I never understood most of the software.",
-      "translated": "[待翻译] Now they wanted a Lisp hacker to write things in i..."
+      "translated": "现在他们想要一位 Lisp 高手来用它编写程序。这是我最接近一份正常工作的一次，我在此向我的老板和同事们道歉，因为我不是一个好员工。他们的 Lisp 只是巨大的 C 语言代码库上最薄的一层糖霜，而由于我不懂 C 语言，也不愿意去学，所以我从来没能理解大部分的软件。"
     },
     {
       "original": "Plus I was terribly irresponsible. This was back when a programming job meant showing up every day during certain working hours. That seemed unnatural to me, and on this point the rest of the world is coming around to my way of thinking, but at the time it caused a lot of friction.",
-      "translated": "[待翻译] Plus I was terribly irresponsible. This was back w..."
+      "translated": "此外，我非常不负责任。那是在编程工作意味着每天在特定的工作时间内上班的时代。这对我来说显得很不自然，而在这方面，世界其他地方现在也开始逐渐接受我的观点，但在当时，这引发了很多冲突。"
     },
     {
       "original": "Toward the end of the year I spent much of my time surreptitiously working on On Lisp, which I had by this time gotten a contract to publish.The good part was that I got paid huge amounts of money, especially by art student standards.",
-      "translated": "[待翻译] Toward the end of the year I spent much of my time..."
+      "translated": "临近年底，我花了大量时间偷偷地撰写《On Lisp》，那时我已经拿到了出版合同。好的一面是，我赚了大笔的钱，尤其是以艺术生的标准来看。"
     },
     {
       "original": "In Florence, after paying my part of the rent, my budget for everything else had been $7 a day. Now I was getting paid more than 4 times that every hour, even when I was just sitting in a meeting. By living cheaply I not only managed to save enough to go back to RISD, but also paid off my college loans.I learned some useful things at Interleaf, though they were mostly about what not to do.",
-      "translated": "[待翻译] In Florence, after paying my part of the rent, my ..."
+      "translated": "在佛罗伦萨，付完房租后，我每天的其他开销预算只有7美元。现在，即使我只是坐在会议中，每小时的收入也超过了那个数字的四倍。通过节俭生活，我不仅攒够了回RISD的钱，还还清了学生贷款。虽然在Interleaf学到了一些有用的东西，但大多数是关于不该做什么的。"
     },
     {
       "original": "I learned that it's better for technology companies to be run by product people than sales people (though sales is a real skill and people who are good at it are really good at it), that it leads to bugs when code is edited by too many people, that cheap office space is no bargain if it's depressing, that planned meetings are inferior to corridor conversations, that big, bureaucratic customers are a dangerous source of money, and that there's not much overlap between conventional office hours and the optimal time for hacking, or conventional offices and the optimal place for it.But the most important thing I learned, and which I used in both Viaweb and Y Combinator, is that the low end eats the high end: that it's good to be the \"entry level\" option, even though that will be less prestigious, because if you're not, someone else will be, and will squash you against the ceiling.",
-      "translated": "[待翻译] I learned that it's better for technology companie..."
+      "translated": "我了解到，科技公司最好由产品人员而不是销售人员来运营（尽管销售是一项真正的技能，擅长此的人确实非常出色），代码被太多人修改会导致漏洞，廉价的办公空间如果让人沮丧就不是便宜货，计划的会议不如走廊里的交谈，大而官僚的客户是危险的资金来源，而且传统的工作时间与最佳编程时间几乎没有重叠，传统办公室也不是最佳的工作场所。但我学到的最重要的事情，也是我在Viaweb和Y Combinator都用到的，就是低端会侵蚀高端：即使这会降低声望，成为“入门级”选项也是好事，因为如果你不做，别人会做，并且会把你压在天花板上。"
     },
     {
       "original": "Which in turn means that prestige is a danger sign.When I left to go back to RISD the next fall, I arranged to do freelance work for the group that did projects for customers, and this was how I survived for the next several years.",
-      "translated": "[待翻译] Which in turn means that prestige is a danger sign..."
+      "translated": "这意味着声望是一个危险信号。当第二年秋天我离开回罗德岛设计学院时，我安排为那个为客户做项目的团队做自由职业工作，这也是我在接下来的几年里如何生存的。"
     },
     {
       "original": "When I came back to visit for a project later on, someone told me about a new thing called HTML, which was, as he described it, a derivative of SGML. Markup language enthusiasts were an occupational hazard at Interleaf and I ignored him, but this HTML thing later became a big part of my life.In the fall of 1992 I moved back to Providence to continue at RISD.",
-      "translated": "[待翻译] When I came back to visit for a project later on, ..."
+      "translated": "后来，当我回来为一个项目访问时，有人告诉我关于一种叫做HTML的新事物，他描述说这是SGML的衍生产品。在Interleaf， Markup语言爱好者是一种职业风险，所以我没有理会他。但这个HTML后来成了我生活中重要的一部分。1992年秋天，我回到普罗维登斯继续在罗德岛设计学院的学习。"
     },
     {
       "original": "The foundation had merely been intro stuff, and the Accademia had been a (very civilized) joke. Now I was going to see what real art school was like. But alas it was more like the Accademia than not.",
-      "translated": "[待翻译] The foundation had merely been intro stuff, and th..."
+      "translated": "基础课程只是入门的内容，而学院则是个（相当文明的）玩笑。现在我将见识到真正的艺术学院是什么样子。但可惜的是，它和学院差不多。"
     },
     {
       "original": "Better organized, certainly, and a lot more expensive, but it was now becoming clear that art school did not bear the same relationship to art that medical school bore to medicine. At least not the painting department.",
-      "translated": "[待翻译] Better organized, certainly, and a lot more expens..."
+      "translated": "更有条理了，当然也贵得多，但现在越来越清楚的是，艺术学校与艺术之间的关系并不像医学院与医学之间的关系。至少对绘画系来说是这样。"
     },
     {
       "original": "The textile department, which my next door neighbor belonged to, seemed to be pretty rigorous. No doubt illustration and architecture were too. But painting was post-rigorous. Painting students were supposed to express themselves, which to the more worldly ones meant to try to cook up some sort of distinctive signature style.A signature style is the visual equivalent of what in show business is known as a \"schtick\": something that immediately identifies the work as yours and no one else's.",
-      "translated": "[待翻译] The textile department, which my next door neighbo..."
+      "translated": "我隔壁邻居所在的纺织系似乎非常严格。毫无疑问，插画和建筑系也是如此。但绘画系则属于后严格时期。绘画专业的学生被期望表达自我，对于那些更加世故的学生来说，这意味着要努力创造出某种独特的签名式风格。签名式风格在视觉上相当于演艺界所说的“招牌”：一种能立刻让人认出作品属于你而绝非他人的东西。"
     },
     {
       "original": "For example, when you see a painting that looks like a certain kind of cartoon, you know it's by Roy Lichtenstein. So if you see a big painting of this type hanging in the apartment of a hedge fund manager, you know he paid millions of dollars for it.",
-      "translated": "[待翻译] For example, when you see a painting that looks li..."
+      "translated": "例如，当你看到一幅看起来像某种卡通的画时，你会知道这是罗伊·利希滕斯坦的作品。所以，如果你看到对冲基金经理的公寓里挂着这样一幅大型画作，你就知道他为此支付了数百万美元。"
     },
     {
       "original": "That's not always why artists have a signature style, but it's usually why buyers pay a lot for such work. [6]There were plenty of earnest students too: kids who \"could draw\" in high school, and now had come to what was supposed to be the best art school in the country, to learn to draw even better.",
-      "translated": "[待翻译] That's not always why artists have a signature sty..."
+      "translated": "这并不总是艺术家拥有标志性风格的原因，但通常是买家愿意为此类作品支付高价的原因。[6]还有很多认真的学生：高中时就能画画的孩子，如今来到了被认为是全国最好的艺术学院，学习如何画得更好。"
     },
     {
       "original": "They tended to be confused and demoralized by what they found at RISD, but they kept going, because painting was what they did. I was not one of the kids who could draw in high school, but at RISD I was definitely closer to their tribe than the tribe of signature style seekers.I learned a lot in the color class I took at RISD, but otherwise I was basically teaching myself to paint, and I could do that for free.",
-      "translated": "[待翻译] They tended to be confused and demoralized by what..."
+      "translated": "他们在罗德岛设计学院所遇到的一切让他们感到困惑和沮丧，但他们还是坚持了下来，因为绘画是他们的事业。我并不是高中时就能画画的孩子，但在罗德岛设计学院，我显然更接近那些画画的孩子，而不是追求独特风格的人。我在罗德岛设计学院上的色彩课中学到了很多，但除此之外，我基本上是在自学绘画，而自学是不需要花钱的。"
     },
     {
       "original": "So in 1993 I dropped out. I hung around Providence for a bit, and then my college friend Nancy Parmet did me a big favor. A rent-controlled apartment in a building her mother owned in New York was becoming vacant.",
-      "translated": "[待翻译] So in 1993 I dropped out. I hung around Providence..."
+      "translated": "所以1993年我退学了。我在普罗维登斯待了一段时间，后来我的大学朋友南希·帕梅特帮了我一个大忙。她母亲在纽约拥有一栋楼里的一套租金管制公寓即将空出来。"
     },
     {
       "original": "Did I want it? It wasn't much more than my current place, and New York was supposed to be where the artists were. So yes, I wanted it! [7]Asterix comics begin by zooming in on a tiny corner of Roman Gaul that turns out not to be controlled by the Romans.",
-      "translated": "[待翻译] Did I want it? It wasn't much more than my current..."
+      "translated": "我想要吗？它比我现在的地方大不了多少，但纽约可是艺术家们的聚集地。所以，我当然想要！[7]《阿斯特里克斯》漫画从罗马高卢的一个小角落开始， gradual zoom in 逐渐放大，最终发现这个角落并不受罗马人的控制。"
     },
     {
       "original": "You can do something similar on a map of New York City: if you zoom in on the Upper East Side, there's a tiny corner that's not rich, or at least wasn't in 1993. It's called Yorkville, and that was my new home.",
-      "translated": "[待翻译] You can do something similar on a map of New York ..."
+      "translated": "你可以在纽约市的地图上做类似的事情：如果你放大上东区，会发现有一个小小的角落并不富裕，或者至少在1993年时还不富裕。那里叫做约克维尔，也是我的新家。"
     },
     {
       "original": "Now I was a New York artist — in the strictly technical sense of making paintings and living in New York.I was nervous about money, because I could sense that Interleaf was on the way down. Freelance Lisp hacking work was very rare, and I didn't want to have to program in another language, which in those days would have meant C++ if I was lucky.",
-      "translated": "[待翻译] Now I was a New York artist — in the strictly tech..."
+      "translated": "现在我成为了一名纽约艺术家——严格来说，是指在纽约创作绘画并生活于此。我为钱感到焦虑，因为我能感觉到Interleaf正在走下坡路。自由职业的Lisp编程工作非常稀少，而且我不愿意用另一种语言编程，而在那个年代，如果运气好，那也意味着要用C++。"
     },
     {
       "original": "So with my unerring nose for financial opportunity, I decided to write another book on Lisp. This would be a popular book, the sort of book that could be used as a textbook. I imagined myself living frugally off the royalties and spending all my time painting.",
-      "translated": "[待翻译] So with my unerring nose for financial opportunity..."
+      "translated": "于是，凭借我对金融机会的敏锐嗅觉，我决定再写一本关于Lisp的书。这将是一本通俗的书，可以作为教科书使用。我想象着自己靠版税节俭度日，把所有的时间都用来画画。"
     },
     {
       "original": "(The painting on the cover of this book, ANSI Common Lisp, is one that I painted around this time.)The best thing about New York for me was the presence of Idelle and Julian Weber. Idelle Weber was a painter, one of the early photorealists, and I'd taken her painting class at Harvard.",
-      "translated": "[待翻译] (The painting on the cover of this book, ANSI Comm..."
+      "translated": "（这本书《ANSI Common Lisp》封面上的画是我在这个时期画的。）对我而言，纽约最好的事情就是伊戴尔和朱利安·韦伯的存在。伊戴尔·韦伯是一位画家，是早期的照相写实主义画家之一，我在哈佛时曾上过她的绘画课。"
     },
     {
       "original": "I've never known a teacher more beloved by her students. Large numbers of former students kept in touch with her, including me. After I moved to New York I became her de facto studio assistant.She liked to paint on big, square canvases, 4 to 5 feet on a side.",
-      "translated": "[待翻译] I've never known a teacher more beloved by her stu..."
+      "translated": "我从未见过像她这样深受学生爱戴的老师。许多昔日的学生都与她保持着联系，包括我。搬到纽约后，我成了她事实上的工作室助手。她喜欢在大的方形画布上作画，每边长4到5英尺。"
     },
     {
       "original": "One day in late 1994 as I was stretching one of these monsters there was something on the radio about a famous fund manager. He wasn't that much older than me, and was super rich. The thought suddenly occurred to me: why don't I become rich?",
-      "translated": "[待翻译] One day in late 1994 as I was stretching one of th..."
+      "translated": "1994年年末的一天，我在拉伸这些大家伙时，收音机里提到一位著名的基金经理。他比我大不了多少，却非常富有。我突然想到：我为什么不去变得富有呢？"
     },
     {
       "original": "Then I'll be able to work on whatever I want.Meanwhile I'd been hearing more and more about this new thing called the World Wide Web. Robert Morris showed it to me when I visited him in Cambridge, where he was now in grad school at Harvard.",
-      "translated": "[待翻译] Then I'll be able to work on whatever I want.Meanw..."
+      "translated": "然后我就可以随心所欲地工作了。与此同时，我越来越多地听到关于这个叫做万维网的新事物。罗伯特·莫里斯在剑桥向我展示了它，当时他正在哈佛大学读研究生。"
     },
     {
       "original": "It seemed to me that the web would be a big deal. I'd seen what graphical user interfaces had done for the popularity of microcomputers. It seemed like the web would do the same for the internet.If I wanted to get rich, here was the next train leaving the station.",
-      "translated": "[待翻译] It seemed to me that the web would be a big deal. ..."
+      "translated": "在我看来，网络将会是一件大事。我见证了图形用户界面如何推动微型计算机的普及。网络似乎也会对互联网产生同样的影响。如果我想致富，这就是下一班即将离站的列车。"
     },
     {
       "original": "I was right about that part. What I got wrong was the idea. I decided we should start a company to put art galleries online. I can't honestly say, after reading so many Y Combinator applications, that this was the worst startup idea ever, but it was up there.",
-      "translated": "[待翻译] I was right about that part. What I got wrong was ..."
+      "translated": "我在这方面是对的。但我错了的是这个想法。我决定我们应该创办一家公司，把艺术画廊放到网上。我不能诚实地说我读过那么多 Y Combinator 申请后，这是最糟糕的创业点子，但它确实排在前面。"
     },
     {
       "original": "Art galleries didn't want to be online, and still don't, not the fancy ones. That's not how they sell. I wrote some software to generate web sites for galleries, and Robert wrote some to resize images and set up an http server to serve the pages.",
-      "translated": "[待翻译] Art galleries didn't want to be online, and still ..."
+      "translated": "艺术画廊过去不想上网，现在也不想，尤其是那些高档的画廊。这并不是他们的销售方式。我编写了一些软件来为画廊生成网站，而罗伯特则编写了一些软件来调整图像大小并设置HTTP服务器以提供页面服务。"
     },
     {
       "original": "Then we tried to sign up galleries. To call this a difficult sale would be an understatement. It was difficult to give away. A few galleries let us make sites for them for free, but none paid us.Then some online stores started to appear, and I realized that except for the order buttons they were identical to the sites we'd been generating for galleries.",
-      "translated": "[待翻译] Then we tried to sign up galleries. To call this a..."
+      "translated": "然后我们尝试联系画廊进行注册。说这是一笔难做的生意还是轻描淡写，简直是难以出手。有几家画廊让我们免费为他们制作网站，但没有一家付给我们钱。后来一些在线商店开始出现，我意识到除了订单按钮外，这些网站与我们为画廊生成的网站完全相同。"
     },
     {
       "original": "This impressive-sounding thing called an \"internet storefront\" was something we already knew how to build.So in the summer of 1995, after I submitted the camera-ready copy of ANSI Common Lisp to the publishers, we started trying to write software to build online stores.",
-      "translated": "[待翻译] This impressive-sounding thing called an \"internet..."
+      "translated": "这个听起来很厉害的东西叫作“互联网店面”，其实我们早就知道如何搭建了。因此，在1995年夏天，我在向出版社提交了《ANSI Common Lisp》的定稿后，我们开始尝试编写软件来构建在线商店。"
     },
     {
       "original": "At first this was going to be normal desktop software, which in those days meant Windows software. That was an alarming prospect, because neither of us knew how to write Windows software or wanted to learn.",
-      "translated": "[待翻译] At first this was going to be normal desktop softw..."
+      "translated": "最初，这本打算是一款普通的桌面软件，在当时这意味着是一款Windows软件。这确实是一个令人担忧的前景，因为我们俩都不会编写Windows软件，也不想学。"
     },
     {
       "original": "We lived in the Unix world. But we decided we'd at least try writing a prototype store builder on Unix. Robert wrote a shopping cart, and I wrote a new site generator for stores — in Lisp, of course.We were working out of Robert's apartment in Cambridge.",
-      "translated": "[待翻译] We lived in the Unix world. But we decided we'd at..."
+      "translated": "我们生活在Unix世界中。但我们决定至少尝试在Unix上编写一个原型商店构建器。罗伯特编写了一个购物车，而我则用Lisp编写了一个新的商店站点生成器。我们是在罗伯特位于剑桥的公寓里工作的。"
     },
     {
       "original": "His roommate was away for big chunks of time, during which I got to sleep in his room. For some reason there was no bed frame or sheets, just a mattress on the floor. One morning as I was lying on this mattress I had an idea that made me sit up like a capital L.",
-      "translated": "[待翻译] His roommate was away for big chunks of time, duri..."
+      "translated": "他的室友经常长时间不在，那段时间我就可以睡在他的房间里。不知为什么，房间里没有床架和床单，只有一张放在地上的床垫。有一天早上，我躺在那张床垫上时突然有了一个主意，让我猛地坐了起来，像一个大写的L。"
     },
     {
       "original": "What if we ran the software on the server, and let users control it by clicking on links? Then we'd never have to write anything to run on users' computers. We could generate the sites on the same server we'd serve them from.",
-      "translated": "[待翻译] What if we ran the software on the server, and let..."
+      "translated": "如果我们把软件运行在服务器上，让用户通过点击链接来控制它，这样我们就不必为用户的电脑编写任何程序了。我们可以在同一台服务器上生成这些网站，然后将它们提供给用户。"
     },
     {
       "original": "Users wouldn't need anything more than a browser.This kind of software, known as a web app, is common now, but at the time it wasn't clear that it was even possible. To find out, we decided to try making a version of our store builder that you could control through the browser.",
-      "translated": "[待翻译] Users wouldn't need anything more than a browser.T..."
+      "translated": "用户将不再需要其他任何东西，只需一个浏览器即可。这种软件，被称为网络应用程序，现在很常见，但在当时还不清楚是否可行。为了验证这一点，我们决定尝试制作一个可以通过浏览器控制的商店构建器版本。"
     },
     {
       "original": "A couple days later, on August 12, we had one that worked. The UI was horrible, but it proved you could build a whole store through the browser, without any client software or typing anything into the command line on the server.Now we felt like we were really onto something.",
-      "translated": "[待翻译] A couple days later, on August 12, we had one that..."
+      "translated": "几天后，8月12日，我们做出了一个可以工作的版本。虽然用户界面很糟糕，但它证明了可以通过浏览器构建整个商店，而不需要任何客户端软件，也不需要在服务器的命令行中输入任何内容。现在我们感觉我们真的找到了方向。"
     },
     {
       "original": "I had visions of a whole new generation of software working this way. You wouldn't need versions, or ports, or any of that crap. At Interleaf there had been a whole group called Release Engineering that seemed to be at least as big as the group that actually wrote the software.",
-      "translated": "[待翻译] I had visions of a whole new generation of softwar..."
+      "translated": "我曾设想出现一整代全新方式工作的软件。你将不再需要版本、移植或任何这类麻烦。在Interleaf，有一个名为发布工程的整个团队，其规模似乎至少与实际编写软件的团队相当。"
     },
     {
       "original": "Now you could just update the software right on the server.We started a new company we called Viaweb, after the fact that our software worked via the web, and we got $10,000 in seed funding from Idelle's husband Julian.",
-      "translated": "[待翻译] Now you could just update the software right on th..."
+      "translated": "现在你可以在服务器上直接更新软件。我们成立了一家新公司，名为Viaweb，因为我们的软件是通过网络运行的，我们从伊黛尔的丈夫朱利安那里获得了10,000美元的种子资金。"
     },
     {
       "original": "In return for that and doing the initial legal work and giving us business advice, we gave him 10% of the company. Ten years later this deal became the model for Y Combinator's. We knew founders needed something like this, because we'd needed it ourselves.At this stage I had a negative net worth, because the thousand dollars or so I had in the bank was more than counterbalanced by what I owed the government in taxes.",
-      "translated": "[待翻译] In return for that and doing the initial legal wor..."
+      "translated": "作为回报，他为我们做了最初的法律工作并提供了商业建议，我们给了他公司10%的股份。十年后，这笔交易成为了Y Combinator模式的原型。我们知道创始人需要这样的东西，因为我们自己也曾需要。在这个阶段，我的净资产是负数，因为我银行里的几千美元被我欠政府的税款所抵消，甚至更多。"
     },
     {
       "original": "(Had I diligently set aside the proper proportion of the money I'd made consulting for Interleaf? No, I had not.) So although Robert had his graduate student stipend, I needed that seed funding to live on.We originally hoped to launch in September, but we got more ambitious about the software as we worked on it.",
-      "translated": "[待翻译] (Had I diligently set aside the proper proportion ..."
+      "translated": "（我是否勤勉地把为Interleaf做咨询赚的钱按正确的比例存起来？没有，我没有。）所以虽然罗伯特有他的研究生奖学金，但我需要那笔启动资金来维持生活。我们原本希望在九月推出，但在开发过程中我们对软件的目标变得更加雄心勃勃。"
     },
     {
       "original": "Eventually we managed to build a WYSIWYG site builder, in the sense that as you were creating pages, they looked exactly like the static ones that would be generated later, except that instead of leading to static pages, the links all referred to closures stored in a hash table on the server.It helped to have studied art, because the main goal of an online store builder is to make users look legit, and the key to looking legit is high production values.",
-      "translated": "[待翻译] Eventually we managed to build a WYSIWYG site buil..."
+      "translated": "最终，我们成功地构建了一个所见即所得的网站构建器，也就是说，在你创建页面时，它们看起来与之后生成的静态页面完全一样，只不过链接指向的不是静态页面，而是存储在服务器哈希表中的闭包。学习艺术很有帮助，因为在线商店构建器的主要目标是让用户看起来正规，而显得正规的关键在于高制作质量。"
     },
     {
       "original": "If you get page layouts and fonts and colors right, you can make a guy running a store out of his bedroom look more legit than a big company.(If you're curious why my site looks so old-fashioned, it's because it's still made with this software.",
-      "translated": "[待翻译] If you get page layouts and fonts and colors right..."
+      "translated": "如果你把页面布局、字体和颜色都处理得当，就能让一个在卧室里经营店铺的人显得比大公司还要正规。（如果你好奇我的网站为什么看起来这么过时，那是因为它仍然是用这个软件制作的。）"
     },
     {
       "original": "It may look clunky today, but in 1996 it was the last word in slick.)In September, Robert rebelled. \"We've been working on this for a month,\" he said, \"and it's still not done.\" This is funny in retrospect, because he would still be working on it almost 3 years later.",
-      "translated": "[待翻译] It may look clunky today, but in 1996 it was the l..."
+      "translated": "今天看来可能显得笨拙，但在1996年，它可是最时尚的。9月，罗伯特发起了反抗。“我们已经为此工作了一个月，”他说，“但还是没有完成。” 回过头来看，这很有趣，因为他几乎又为此工作了近三年。"
     },
     {
       "original": "But I decided it might be prudent to recruit more programmers, and I asked Robert who else in grad school with him was really good. He recommended Trevor Blackwell, which surprised me at first, because at that point I knew Trevor mainly for his plan to reduce everything in his life to a stack of notecards, which he carried around with him.",
-      "translated": "[待翻译] But I decided it might be prudent to recruit more ..."
+      "translated": "但我决定招募更多的程序员可能会更明智，于是问罗伯特，他研究生时期还有哪些人真的很出色。他推荐了特雷弗·布莱克威尔，这起初让我感到惊讶，因为我当时主要知道特雷弗是因为他计划把生活中的一切都简化为一叠记事卡，他随身携带。"
     },
     {
       "original": "But Rtm was right, as usual. Trevor turned out to be a frighteningly effective hacker.It was a lot of fun working with Robert and Trevor. They're the two most independent-minded people I know, and in completely different ways.",
-      "translated": "[待翻译] But Rtm was right, as usual. Trevor turned out to ..."
+      "translated": "但Rtm像往常一样是对的。特雷弗证明是一个令人恐惧的有效黑客。与罗伯特和特雷弗一起工作非常有趣。他们是两个我所认识的最具独立思想的人，而且方式完全不同。"
     },
     {
       "original": "If you could see inside Rtm's brain it would look like a colonial New England church, and if you could see inside Trevor's it would look like the worst excesses of Austrian Rococo.We opened for business, with 6 stores, in January 1996.",
-      "translated": "[待翻译] If you could see inside Rtm's brain it would look ..."
+      "translated": "如果你能看到Rtm的大脑内部，它会像一座殖民时期的纽英兰教堂；而如果你能看到Trevor的大脑内部，它则会像奥地利洛可可风格中最夸张的部分。我们于1996年1月开业，当时有6家店铺。"
     },
     {
       "original": "It was just as well we waited a few months, because although we worried we were late, we were actually almost fatally early. There was a lot of talk in the press then about ecommerce, but not many people actually wanted online stores.",
-      "translated": "[待翻译] It was just as well we waited a few months, becaus..."
+      "translated": "幸亏我们等了几个月，因为虽然我们担心自己晚了，但实际上几乎是过早了。那时媒体上有很多关于电子商务的讨论，但实际上很少有人真正想要开网上商店。"
     },
     {
       "original": "[8]There were three main parts to the software: the editor, which people used to build sites and which I wrote, the shopping cart, which Robert wrote, and the manager, which kept track of orders and statistics, and which Trevor wrote.",
-      "translated": "[待翻译] [8]There were three main parts to the software: th..."
+      "translated": "软件主要由三部分组成：编辑器，人们用它来构建网站，这部分由我编写；购物车，由罗伯特编写；以及管理器，用于跟踪订单和统计数据，这部分由特雷弗编写。"
     },
     {
       "original": "In its time, the editor was one of the best general-purpose site builders. I kept the code tight and didn't have to integrate with any other software except Robert's and Trevor's, so it was quite fun to work on.",
-      "translated": "[待翻译] In its time, the editor was one of the best genera..."
+      "translated": "在那个时期，这个编辑器是功能最全面的网站构建工具之一。我保持代码简洁，除了与罗伯特和特雷弗的软件外，不需要与其他任何软件集成，所以开发起来非常有趣。"
     },
     {
       "original": "If all I'd had to do was work on this software, the next 3 years would have been the easiest of my life. Unfortunately I had to do a lot more, all of it stuff I was worse at than programming, and the next 3 years were instead the most stressful.There were a lot of startups making ecommerce software in the second half of the 90s.",
-      "translated": "[待翻译] If all I'd had to do was work on this software, th..."
+      "translated": "如果我只需要专注于开发这个软件，接下来的三年将会是我生命中最轻松的时光。不幸的是，我还得做很多其他的事情，而这些事情我都比编程做得差，因此，接下来的三年反而成了我最压力山大的时期。在90年代后半期，有很多初创公司在开发电子商务软件。"
     },
     {
       "original": "We were determined to be the Microsoft Word, not the Interleaf. Which meant being easy to use and inexpensive. It was lucky for us that we were poor, because that caused us to make Viaweb even more inexpensive than we realized.",
-      "translated": "[待翻译] We were determined to be the Microsoft Word, not t..."
+      "translated": "我们决心要做成微软的Word，而不是Interleaf。这意味着要易于使用且价格低廉。我们穷得幸运，因为这使得Viaweb比我们预期的还要更加便宜。"
     },
     {
       "original": "We charged $100 a month for a small store and $300 a month for a big one. This low price was a big attraction, and a constant thorn in the sides of competitors, but it wasn't because of some clever insight that we set the price low.",
-      "translated": "[待翻译] We charged $100 a month for a small store and $300..."
+      "translated": "我们对小商店每月收费100美元，对大商店每月收费300美元。这个低价位非常吸引人，也一直是竞争对手的眼中钉，但我们设定低价并不是出于什么高明的见解。"
     },
     {
       "original": "We had no idea what businesses paid for things. $300 a month seemed like a lot of money to us.We did a lot of things right by accident like that. For example, we did what's now called \"doing things that don't scale,\" although at the time we would have described it as \"being so lame that we're driven to the most desperate measures to get users.\" The most common of which was building stores for them.",
-      "translated": "[待翻译] We had no idea what businesses paid for things. $3..."
+      "translated": "我们完全不知道企业为事情支付多少钱。每个月300美元对我们来说似乎是一大笔钱。我们无意中做对了很多事情。例如，我们现在所称的“做那些不具扩展性的事情”，尽管当时我们会将其描述为“太逊了，以至于不得不采取最绝望的措施来吸引用户”。最常见的做法是为他们建店。"
     },
     {
       "original": "This seemed particularly humiliating, since the whole raison d'etre of our software was that people could use it to make their own stores. But anything to get users.We learned a lot more about retail than we wanted to know.",
-      "translated": "[待翻译] This seemed particularly humiliating, since the wh..."
+      "translated": "这显得尤其令人羞辱，因为我们软件的整个存在理由就是让人们能够用它来开设自己的商店。但为了吸引用户，我们只能忍了。我们学到了比想要知道的还要多的零售知识。"
     },
     {
       "original": "For example, that if you could only have a small image of a man's shirt (and all images were small then by present standards), it was better to have a closeup of the collar than a picture of the whole shirt.",
-      "translated": "[待翻译] For example, that if you could only have a small i..."
+      "translated": "例如，如果你只能拥有一张男人衬衫的小图（而当时所有的图片按现在的标准来看都是小图），那么最好有一张领子的特写，而不是整件衬衫的图片。"
     },
     {
       "original": "The reason I remember learning this was that it meant I had to rescan about 30 images of men's shirts. My first set of scans were so beautiful too.Though this felt wrong, it was exactly the right thing to be doing.",
-      "translated": "[待翻译] The reason I remember learning this was that it me..."
+      "translated": "我记得学习这个的原因是我不得不重新扫描大约30张男士衬衫的图片。我第一次扫描的效果非常漂亮。虽然这感觉不对，但确实是应该做的事情。"
     },
     {
       "original": "Building stores for users taught us about retail, and about how it felt to use our software. I was initially both mystified and repelled by \"business\" and thought we needed a \"business person\" to be in charge of it, but once we started to get users, I was converted, in much the same way I was converted to fatherhood once I had kids.",
-      "translated": "[待翻译] Building stores for users taught us about retail, ..."
+      "translated": "为用户建立店铺让我们了解了零售行业，也体会到了使用我们软件的感受。最初，我对“商业”既感到困惑又排斥，认为我们需要一个“商人”来负责这一块，但随着用户数量的增加，我改变了看法，就像有了孩子后我对为人父母的态度发生了转变一样。"
     },
     {
       "original": "Whatever users wanted, I was all theirs. Maybe one day we'd have so many users that I couldn't scan their images for them, but in the meantime there was nothing more important to do.Another thing I didn't get at the time is that growth rate is the ultimate test of a startup.",
-      "translated": "[待翻译] Whatever users wanted, I was all theirs. Maybe one..."
+      "translated": "无论用户需要什么，我都会全力以赴。也许有一天我们的用户会多到我无法为他们扫描图片，但在这之前，没有什么比这更重要的事了。当时我还没有意识到，增长速度是对一家初创公司的终极考验。"
     },
     {
       "original": "Our growth rate was fine. We had about 70 stores at the end of 1996 and about 500 at the end of 1997. I mistakenly thought the thing that mattered was the absolute number of users. And that is the thing that matters in the sense that that's how much money you're making, and if you're not making enough, you might go out of business.",
-      "translated": "[待翻译] Our growth rate was fine. We had about 70 stores a..."
+      "translated": "我们的增长率很好。1996年底我们大约有70家门店，而到1997年底则增加到了大约500家。我错误地认为关键在于用户的绝对数量。从某种意义上说，这确实很重要，因为这决定了你的收入多少，如果你的收入不够，你可能会倒闭。"
     },
     {
       "original": "But in the long term the growth rate takes care of the absolute number. If we'd been a startup I was advising at Y Combinator, I would have said: Stop being so stressed out, because you're doing fine.",
-      "translated": "[待翻译] But in the long term the growth rate takes care of..."
+      "translated": "但从长远来看，增长率会照顾到绝对数字。如果我是在YC（Y Combinator）指导的一家初创公司，我就会说：不要再那么焦虑了，因为你做得很好。"
     },
     {
       "original": "You're growing 7x a year. Just don't hire too many more people and you'll soon be profitable, and then you'll control your own destiny.Alas I hired lots more people, partly because our investors wanted me to, and partly because that's what startups did during the Internet Bubble.",
-      "translated": "[待翻译] You're growing 7x a year. Just don't hire too many..."
+      "translated": "你们的年增长率是7倍。只要不再雇用太多人，你们很快就会盈利，然后你们就能掌控自己的命运。遗憾的是，我雇用了很多人，部分原因是我们的投资者希望我这样做，部分原因是在互联网泡沫期间，创业公司都是这样做的。"
     },
     {
       "original": "A company with just a handful of employees would have seemed amateurish. So we didn't reach breakeven until about when Yahoo bought us in the summer of 1998. Which in turn meant we were at the mercy of investors for the entire life of the company.",
-      "translated": "[待翻译] A company with just a handful of employees would h..."
+      "translated": "一个只有少数几名员工的公司看起来会显得很业余。所以我们直到1998年夏天雅虎收购我们时才实现盈亏平衡。这也意味着在整个公司存续期间，我们一直受制于投资者。"
     },
     {
       "original": "And since both we and our investors were noobs at startups, the result was a mess even by startup standards.It was a huge relief when Yahoo bought us. In principle our Viaweb stock was valuable. It was a share in a business that was profitable and growing rapidly.",
-      "translated": "[待翻译] And since both we and our investors were noobs at ..."
+      "translated": "由于我们和我们的投资者都是创业新手，结果即使按初创公司的标准来看也是一团糟。当雅虎收购我们时，真是松了一口气。原则上，我们的Viaweb股票是有价值的。它是我们业务的一部分股份，而这项业务既盈利又快速增长。"
     },
     {
       "original": "But it didn't feel very valuable to me; I had no idea how to value a business, but I was all too keenly aware of the near-death experiences we seemed to have every few months. Nor had I changed my grad student lifestyle significantly since we started.",
-      "translated": "[待翻译] But it didn't feel very valuable to me; I had no i..."
+      "translated": "但对我来说这并没有多少价值；我不知道如何评估一家企业，但对每隔几个月似乎就会出现的濒临倒闭的经历却有着深刻的感受。自我们开始以来，我的研究生生活方式也没有发生太大的变化。"
     },
     {
       "original": "So when Yahoo bought us it felt like going from rags to riches. Since we were going to California, I bought a car, a yellow 1998 VW GTI. I remember thinking that its leather seats alone were by far the most luxurious thing I owned.The next year, from the summer of 1998 to the summer of 1999, must have been the least productive of my life.",
-      "translated": "[待翻译] So when Yahoo bought us it felt like going from ra..."
+      "translated": "所以当雅虎收购我们时，感觉就像是从贫民变成了富翁。由于我们要去加利福尼亚，我买了一辆汽车，一辆黄色的1998款大众GTI。我还记得当时觉得，它的皮质座椅是我拥有的最奢华的东西。从1998年夏天到1999年夏天的那一年，可能是我一生中最不 productive 的一年。"
     },
     {
       "original": "I didn't realize it at the time, but I was worn out from the effort and stress of running Viaweb. For a while after I got to California I tried to continue my usual m.o. of programming till 3 in the morning, but fatigue combined with Yahoo's prematurely aged culture and grim cube farm in Santa Clara gradually dragged me down.",
-      "translated": "[待翻译] I didn't realize it at the time, but I was worn ou..."
+      "translated": "当时我没有意识到，但我已经因为运营Viaweb的辛勤和压力而疲惫不堪。到了加州后的一段时间里，我试图继续我惯常的做法，编程到凌晨三点，但疲劳加上雅虎那过早老化的文化和圣克拉拉阴郁的格子间逐渐把我拖垮了。"
     },
     {
       "original": "After a few months it felt disconcertingly like working at Interleaf.Yahoo had given us a lot of options when they bought us. At the time I thought Yahoo was so overvalued that they'd never be worth anything, but to my astonishment the stock went up 5x in the next year.",
-      "translated": "[待翻译] After a few months it felt disconcertingly like wo..."
+      "translated": "几个月后，感觉就像在 Interleaf 工作一样。雅虎收购我们时给了我们很多期权。当时我认为雅虎被高估了，这些期权永远不可能有什么价值，但令我惊讶的是，雅虎的股票在接下来的一年里涨了五倍。"
     },
     {
       "original": "I hung on till the first chunk of options vested, then in the summer of 1999 I left. It had been so long since I'd painted anything that I'd half forgotten why I was doing this. My brain had been entirely full of software and men's shirts for 4 years.",
-      "translated": "[待翻译] I hung on till the first chunk of options vested, ..."
+      "translated": "我一直等到首批股票期权兑现，然后在1999年夏天离开了。因为我已经有太久没有画画了，几乎都忘记了自己为什么要这样做。我的大脑在过去四年里完全被软件和男士衬衫占据。"
     },
     {
       "original": "But I had done this to get rich so I could paint, I reminded myself, and now I was rich, so I should go paint.When I said I was leaving, my boss at Yahoo had a long conversation with me about my plans.",
-      "translated": "[待翻译] But I had done this to get rich so I could paint, ..."
+      "translated": "但我提醒自己，我这样做是为了致富，然后可以去画画，现在我已经有钱了，所以我应该去画画。当我告诉雅虎的老板我要离开时，他和我进行了长时间的交谈，讨论了我的计划。"
     },
     {
       "original": "I told him all about the kinds of pictures I wanted to paint. At the time I was touched that he took such an interest in me. Now I realize it was because he thought I was lying. My options at that point were worth about $2 million a month.",
-      "translated": "[待翻译] I told him all about the kinds of pictures I wante..."
+      "translated": "我告诉他我想画的各种画。当时我很感动他对我如此感兴趣。现在我意识到那是因为他认为我在撒谎。当时我的选择每个月价值约200万美元。"
     },
     {
       "original": "If I was leaving that kind of money on the table, it could only be to go and start some new startup, and if I did, I might take people with me. This was the height of the Internet Bubble, and Yahoo was ground zero of it.",
-      "translated": "[待翻译] If I was leaving that kind of money on the table, ..."
+      "translated": "如果我放弃那样一笔钱，那也只能是为了去开创一家新的创业公司，而且如果我真这么做了，我可能会带上一些人一起。那正是互联网泡沫的鼎盛时期，而雅虎正是泡沫的中心。"
     },
     {
       "original": "My boss was at that moment a billionaire. Leaving then to start a new startup must have seemed to him an insanely, and yet also plausibly, ambitious plan.But I really was quitting to paint, and I started immediately.",
-      "translated": "[待翻译] My boss was at that moment a billionaire. Leaving ..."
+      "translated": "我的老板当时已经是一位亿万富翁。那时离开去创办一家新的初创公司，在他看来可能既疯狂又不失为一个雄心勃勃的计划。但我真的是为了画画而辞职的，并且我立即开始了。"
     },
     {
       "original": "There was no time to lose. I'd already burned 4 years getting rich. Now when I talk to founders who are leaving after selling their companies, my advice is always the same: take a vacation. That's what I should have done, just gone off somewhere and done nothing for a month or two, but the idea never occurred to me.So I tried to paint, but I just didn't seem to have any energy or ambition.",
-      "translated": "[待翻译] There was no time to lose. I'd already burned 4 ye..."
+      "translated": "不容耽搁。我已经花了4年时间来致富。现在，当我与那些卖了公司后准备离开的创始人交谈时，我的建议总是一样的：去度假。这也是我本应该做的，只是找个地方逍遥个一两个月，但这个想法从未在我脑海中出现。于是我试着画画，但似乎既没有精力也没有斗志。"
     },
     {
       "original": "Part of the problem was that I didn't know many people in California. I'd compounded this problem by buying a house up in the Santa Cruz Mountains, with a beautiful view but miles from anywhere. I stuck it out for a few more months, then in desperation I went back to New York, where unless you understand about rent control you'll be surprised to hear I still had my apartment, sealed up like a tomb of my old life.",
-      "translated": "[待翻译] Part of the problem was that I didn't know many pe..."
+      "translated": "问题的一部分在于我在加利福尼亚认识的人不多。我通过在圣克鲁斯山脉买了一栋房子加剧了这个问题，那里的景色很美，但离任何地方都有很远的距离。我坚持了几个月，然后在绝望中回到了纽约，在那里，除非你了解租金管制，否则你会惊讶地发现我仍然拥有我的公寓，它像我过去生活的墓室一样被封存起来。"
     },
     {
       "original": "Idelle was in New York at least, and there were other people trying to paint there, even though I didn't know any of them.When I got back to New York I resumed my old life, except now I was rich. It was as weird as it sounds.",
-      "translated": "[待翻译] Idelle was in New York at least, and there were ot..."
+      "translated": "伊黛尔至少在纽约，那里还有其他人在尝试绘画，尽管我一个都不认识。当我回到纽约后，我重新开始了以前的生活，只不过现在我变得有钱了。这感觉就像听起来一样奇怪。"
     },
     {
       "original": "I resumed all my old patterns, except now there were doors where there hadn't been. Now when I was tired of walking, all I had to do was raise my hand, and (unless it was raining) a taxi would stop to pick me up.",
-      "translated": "[待翻译] I resumed all my old patterns, except now there we..."
+      "translated": "我恢复了所有旧有的习惯，只是现在多了一些以前没有的门。现在当我走累了，只要抬手示意，就会有出租车停靠载我一程（除非下雨）。"
     },
     {
       "original": "Now when I walked past charming little restaurants I could go in and order lunch. It was exciting for a while. Painting started to go better. I experimented with a new kind of still life where I'd paint one painting in the old way, then photograph it and print it, blown up, on canvas, and then use that as the underpainting for a second still life, painted from the same objects (which hopefully hadn't rotted yet).Meanwhile I looked for an apartment to buy.",
-      "translated": "[待翻译] Now when I walked past charming little restaurants..."
+      "translated": "现在，当我走过那些迷人的小餐馆时，我可以进去点午餐。这让我兴奋了一阵子。绘画也开始变得更好。我尝试了一种新的静物画法，先用传统的方法画一幅画，然后拍摄并放大打印在画布上，再用这作为底稿，从相同的物体（希望它们还没有腐烂）中再画一幅静物画。同时，我还在寻找要购买的公寓。"
     },
     {
       "original": "Now I could actually choose what neighborhood to live in. Where, I asked myself and various real estate agents, is the Cambridge of New York? Aided by occasional visits to actual Cambridge, I gradually realized there wasn't one.",
-      "translated": "[待翻译] Now I could actually choose what neighborhood to l..."
+      "translated": "现在我实际上可以选择居住的社区了。我在心里和几位房地产经纪人问自己，纽约的剑桥在哪里？在几次实地访问真正的剑桥后，我逐渐意识到那里并不存在一个类似的社区。"
     },
     {
       "original": "Huh.Around this time, in the spring of 2000, I had an idea. It was clear from our experience with Viaweb that web apps were the future. Why not build a web app for making web apps? Why not let people edit code on our server through the browser, and then host the resulting applications for them?",
-      "translated": "[待翻译] Huh.Around this time, in the spring of 2000, I had..."
+      "translated": "嗯，大约在这个时候，2000年春天，我有了一个想法。从我们使用Viaweb的经验来看，很明显网络应用程序是未来的趋势。为什么不创建一个用于制作网络应用程序的网络应用程序呢？为什么不让人通过浏览器在我们的服务器上编辑代码，然后为我们托管生成的应用程序呢？"
     },
     {
       "original": "[9] You could run all sorts of services on the servers that these applications could use just by making an API call: making and receiving phone calls, manipulating images, taking credit card payments, etc.I got so excited about this idea that I couldn't think about anything else.",
-      "translated": "[待翻译] [9] You could run all sorts of services on the ser..."
+      "translated": "[9] 你可以在这些服务器上运行各种服务，应用程序只需通过调用API就能使用这些服务：如打电话、接听电话、处理图像、处理信用卡支付等。这个想法让我如此兴奋，以至于我无法思考其他任何事情。"
     },
     {
       "original": "It seemed obvious that this was the future. I didn't particularly want to start another company, but it was clear that this idea would have to be embodied as one, so I decided to move to Cambridge and start it.",
-      "translated": "[待翻译] It seemed obvious that this was the future. I didn..."
+      "translated": "这似乎是未来的趋势。我并不特别想再创办一家公司，但显然这个想法必须以公司形式实现，所以我决定搬到剑桥并开始创业。"
     },
     {
       "original": "I hoped to lure Robert into working on it with me, but there I ran into a hitch. Robert was now a postdoc at MIT, and though he'd made a lot of money the last time I'd lured him into working on one of my schemes, it had also been a huge time sink.",
-      "translated": "[待翻译] I hoped to lure Robert into working on it with me,..."
+      "translated": "我希望能诱使罗伯特和我一起工作，但在这里我遇到了障碍。罗伯特现在是麻省理工学院的博士后，虽然上次我诱使他参与我的计划时他赚了很多钱，但那也耗费了他大量时间。"
     },
     {
       "original": "So while he agreed that it sounded like a plausible idea, he firmly refused to work on it.Hmph. Well, I'd do it myself then. I recruited Dan Giffin, who had worked for Viaweb, and two undergrads who wanted summer jobs, and we got to work trying to build what it's now clear is about twenty companies and several open source projects worth of software.",
-      "translated": "[待翻译] So while he agreed that it sounded like a plausibl..."
+      "translated": "虽然他同意这听起来像是个可行的主意，但他坚决拒绝参与这项工作。哼，那我就自己来吧。我招募了曾为Viaweb工作的丹·吉芬，以及两名想找暑期工作的本科生，我们开始尝试构建现在看来大约相当于二十家公司的产品和多个开源项目的工作量。"
     },
     {
       "original": "The language for defining applications would of course be a dialect of Lisp. But I wasn't so naive as to assume I could spring an overt Lisp on a general audience; we'd hide the parentheses, like Dylan did.By then there was a name for the kind of company Viaweb was, an \"application service provider,\" or ASP.",
-      "translated": "[待翻译] The language for defining applications would of co..."
+      "translated": "当然，用于定义应用程序的语言将是一种Lisp方言。但我并不天真到认为可以向普通用户直接推广显式的Lisp；我们会像Dylan那样隐藏括号。那时，像Viaweb这样的公司已经有了一个名称，即“应用服务提供商”，或ASP。"
     },
     {
       "original": "This name didn't last long before it was replaced by \"software as a service,\" but it was current for long enough that I named this new company after it: it was going to be called Aspra.I started working on the application builder, Dan worked on network infrastructure, and the two undergrads worked on the first two services (images and phone calls).",
-      "translated": "[待翻译] This name didn't last long before it was replaced ..."
+      "translated": "这个名字并没有持续太久，就被“软件即服务”所取代，但它流行了足够长的时间，以至于我用它为这家新公司命名：公司原本打算叫作Aspra。我开始着手开发应用程序构建器，Dan负责网络基础设施，而两位本科生则负责开发前两个服务（图像和电话）。"
     },
     {
       "original": "But about halfway through the summer I realized I really didn't want to run a company — especially not a big one, which it was looking like this would have to be. I'd only started Viaweb because I needed the money.",
-      "translated": "[待翻译] But about halfway through the summer I realized I ..."
+      "translated": "但到了夏天过半的时候，我意识到自己真的不想经营一家公司——尤其是像这样一家看起来必须得做大的公司。我创办Viaweb只是为了赚钱。"
     },
     {
       "original": "Now that I didn't need money anymore, why was I doing this? If this vision had to be realized as a company, then screw the vision. I'd build a subset that could be done as an open source project.Much to my surprise, the time I spent working on this stuff was not wasted after all.",
-      "translated": "[待翻译] Now that I didn't need money anymore, why was I do..."
+      "translated": "既然我不再需要钱了，我为什么还要做这个？如果这个愿景必须以公司的形式实现，那这个愿景见鬼去吧。我会建立一个可以作为开源项目完成的子集。令我惊讶的是，我花在这些事情上的时间毕竟没有白费。"
     },
     {
       "original": "After we started Y Combinator, I would often encounter startups working on parts of this new architecture, and it was very useful to have spent so much time thinking about it and even trying to write some of it.The subset I would build as an open source project was the new Lisp, whose parentheses I now wouldn't even have to hide.",
-      "translated": "[待翻译] After we started Y Combinator, I would often encou..."
+      "translated": "在我们启动 Y Combinator 之后，我经常遇到一些初创公司在研究这个新架构的各个部分，而之前花大量时间思考甚至尝试编写这些部分的代码非常有帮助。我构建的开源项目子集是新的 Lisp，现在我甚至不必再隐藏那些括号了。"
     },
     {
       "original": "A lot of Lisp hackers dream of building a new Lisp, partly because one of the distinctive features of the language is that it has dialects, and partly, I think, because we have in our minds a Platonic form of Lisp that all existing dialects fall short of.",
-      "translated": "[待翻译] A lot of Lisp hackers dream of building a new Lisp..."
+      "translated": "许多Lisp程序员梦想着构建一种新的Lisp，部分原因在于这种语言的一个显著特点是它有方言，部分原因我认为是我们心目中有一种理想的Lisp形式，而现有的所有方言都未能完全达到。"
     },
     {
       "original": "I certainly did. So at the end of the summer Dan and I switched to working on this new dialect of Lisp, which I called Arc, in a house I bought in Cambridge.The following spring, lightning struck. I was invited to give a talk at a Lisp conference, so I gave one about how we'd used Lisp at Viaweb.",
-      "translated": "[待翻译] I certainly did. So at the end of the summer Dan a..."
+      "translated": "我当然做了。所以在那个夏天结束时，丹和我开始着手开发这种新的Lisp方言，我称之为Arc，在我买下的位于剑桥的一所房子里工作。第二年春天，机会来临。我被邀请在一个Lisp会议上发表演讲，所以我讲了我们在Viaweb如何使用Lisp的。"
     },
     {
       "original": "Afterward I put a postscript file of this talk online, on paulgraham.com, which I'd created years before using Viaweb but had never used for anything. In one day it got 30,000 page views. What on earth had happened?",
-      "translated": "[待翻译] Afterward I put a postscript file of this talk onl..."
+      "translated": "之后，我把这篇演讲的后记文件放到了paulgraham.com上，这个文件是我几年前用Viaweb创建的，但从未用过。结果在一天之内就获得了30,000次页面浏览。这究竟是怎么回事？"
     },
     {
       "original": "The referring urls showed that someone had posted it on Slashdot. [10]Wow, I thought, there's an audience. If I write something and put it on the web, anyone can read it. That may seem obvious now, but it was surprising then.",
-      "translated": "[待翻译] The referring urls showed that someone had posted ..."
+      "translated": "引用的URL显示有人在Slashdot上发布了它。[10]哇，我想，原来有这么个群体。如果我写点东西放到网上，任何人都可以阅读。这在现在看来可能显而易见，但在当时却令人惊讶。"
     },
     {
       "original": "In the print era there was a narrow channel to readers, guarded by fierce monsters known as editors. The only way to get an audience for anything you wrote was to get it published as a book, or in a newspaper or magazine.",
-      "translated": "[待翻译] In the print era there was a narrow channel to rea..."
+      "translated": "在印刷时代，通往读者的渠道狭窄，由被称为编辑的凶猛怪物把守。要想让你写的东西获得关注，唯一的途径就是将其出版成书，或者刊登在报纸或杂志上。"
     },
     {
       "original": "Now anyone could publish anything.This had been possible in principle since 1993, but not many people had realized it yet. I had been intimately involved with building the infrastructure of the web for most of that time, and a writer as well, and it had taken me 8 years to realize it.",
-      "translated": "[待翻译] Now anyone could publish anything.This had been po..."
+      "translated": "现在任何人都可以发布任何内容。这自1993年起在原则上就已成为可能，但当时还没有多少人意识到这一点。我在那段时间里一直深入参与构建网络的基础设施，同时也是一名作家，但花了8年时间才意识到这一点。"
     },
     {
       "original": "Even then it took me several years to understand the implications. It meant there would be a whole new generation of essays. [11]In the print era, the channel for publishing essays had been vanishingly small.",
-      "translated": "[待翻译] Even then it took me several years to understand t..."
+      "translated": "即使如此，我仍然花了好几年才理解其中的含义。这意味着将会有一代全新的散文出现。在印刷时代，发表散文的渠道几乎是微乎其微的。"
     },
     {
       "original": "Except for a few officially anointed thinkers who went to the right parties in New York, the only people allowed to publish essays were specialists writing about their specialties. There were so many essays that had never been written, because there had been no way to publish them.",
-      "translated": "[待翻译] Except for a few officially anointed thinkers who ..."
+      "translated": "除了少数几位官方认可的思想家能够在纽约的正确社交场合露面外，唯一被允许发表文章的人是撰写自己专业领域内容的专家。有太多本应写出来的文章因为没有发表渠道而从未面世。"
     },
     {
       "original": "Now they could be, and I was going to write them. [12]I've worked on several different things, but to the extent there was a turning point where I figured out what to work on, it was when I started publishing essays online.",
-      "translated": "[待翻译] Now they could be, and I was going to write them. ..."
+      "translated": "现在我可以写它们了。[12]我从事过多种不同的工作，但如果说有一个转折点让我明确了应该专注于什么，那就是当我开始在网上发表文章的时候。"
     },
     {
       "original": "From then on I knew that whatever else I did, I'd always write essays too.I knew that online essays would be a marginal medium at first. Socially they'd seem more like rants posted by nutjobs on their GeoCities sites than the genteel and beautifully typeset compositions published in The New Yorker.",
-      "translated": "[待翻译] From then on I knew that whatever else I did, I'd ..."
+      "translated": "从那时起，我知道不管我做些什么，我总会写文章。我知道，一开始在线文章只会是一种边缘媒介。从社会的角度来看，它们更像是疯子在自己的GeoCities网站上发布的抱怨，而不是《纽约客》中刊登的那些高雅而排版精美的作品。"
     },
     {
       "original": "But by this point I knew enough to find that encouraging instead of discouraging.One of the most conspicuous patterns I've noticed in my life is how well it has worked, for me at least, to work on things that weren't prestigious.",
-      "translated": "[待翻译] But by this point I knew enough to find that encou..."
+      "translated": "但到了这个时候，我已经知道得足够多，反而觉得这是在鼓励我。我一生中最显而易见的一个模式就是，对我而言，从事那些并不算体面的工作反而取得了很好的效果。"
     },
     {
       "original": "Still life has always been the least prestigious form of painting. Viaweb and Y Combinator both seemed lame when we started them. I still get the glassy eye from strangers when they ask what I'm writing, and I explain that it's an essay I'm going to publish on my web site.",
-      "translated": "[待翻译] Still life has always been the least prestigious f..."
+      "translated": "静物画一直是绘画中最不受重视的形式。Viaweb 和 Y Combinator 在我们创立之初都显得很不靠谱。当我向陌生人解释我正在写一篇准备发表在我网站上的文章时，他们仍然会露出茫然的眼神。"
     },
     {
       "original": "Even Lisp, though prestigious intellectually in something like the way Latin is, also seems about as hip.It's not that unprestigious types of work are good per se. But when you find yourself drawn to some kind of work despite its current lack of prestige, it's a sign both that there's something real to be discovered there, and that you have the right kind of motives.",
-      "translated": "[待翻译] Even Lisp, though prestigious intellectually in so..."
+      "translated": "即使 Lisp，尽管在某种程度上像拉丁语一样具有智力上的声望，也显得相当过时。这并不是说低声望的工作本身就有好处。但当你发现自己被某种工作所吸引，尽管它目前缺乏声望，这既是一个信号，表明那里有真正的东西可以被发现，也表明你的动机是正确的。"
     },
     {
       "original": "Impure motives are a big danger for the ambitious. If anything is going to lead you astray, it will be the desire to impress people. So while working on things that aren't prestigious doesn't guarantee you're on the right track, it at least guarantees you're not on the most common type of wrong one.Over the next several years I wrote lots of essays about all kinds of different topics.",
-      "translated": "[待翻译] Impure motives are a big danger for the ambitious...."
+      "translated": "不纯的动机对有雄心的人来说是一个巨大的危险。如果有什么会把你引向歧途，那一定是想给人留下印象的欲望。所以，虽然从事不那么有声望的工作并不能保证你走在正确的道路上，但它至少能保证你不会走上最常见的错误道路。在接下来的几年里，我写了许多关于各种不同主题的散文。"
     },
     {
       "original": "O'Reilly reprinted a collection of them as a book, called Hackers & Painters after one of the essays in it. I also worked on spam filters, and did some more painting. I used to have dinners for a group of friends every thursday night, which taught me how to cook for groups.",
-      "translated": "[待翻译] O'Reilly reprinted a collection of them as a book,..."
+      "translated": "O'Reilly 将其中的一部分文章结集出版，书名取自其中一篇文章《黑客与画家》。我还从事过垃圾邮件过滤器的工作，并且画了更多的画。我以前每周四晚上都会为一群朋友准备晚餐，这让我学会了如何为团体烹饪。"
     },
     {
       "original": "And I bought another building in Cambridge, a former candy factory (and later, twas said, porn studio), to use as an office.One night in October 2003 there was a big party at my house. It was a clever idea of my friend Maria Daniels, who was one of the thursday diners.",
-      "translated": "[待翻译] And I bought another building in Cambridge, a form..."
+      "translated": "我在剑桥又买了一栋楼，这栋楼以前是一家糖果厂（后来据说还曾被用作色情片工作室），打算用作办公室。2003年10月的一天晚上，我在家里举办了一场大型派对。这是我的朋友玛丽亚·丹尼尔斯的主意，她也是每周四聚餐的成员之一。"
     },
     {
       "original": "Three separate hosts would all invite their friends to one party. So for every guest, two thirds of the other guests would be people they didn't know but would probably like. One of the guests was someone I didn't know but would turn out to like a lot: a woman called Jessica Livingston.",
-      "translated": "[待翻译] Three separate hosts would all invite their friend..."
+      "translated": "三位不同的主人会邀请他们的朋友参加同一个派对。因此，对每位客人来说，其他客人中有三分之二的人是他们不认识但可能会喜欢的人。其中一位客人是一位我之前不认识但后来非常喜欢的女士，名叫杰西卡·利文斯顿。"
     },
     {
       "original": "A couple days later I asked her out.Jessica was in charge of marketing at a Boston investment bank. This bank thought it understood startups, but over the next year, as she met friends of mine from the startup world, she was surprised how different reality was.",
-      "translated": "[待翻译] A couple days later I asked her out.Jessica was in..."
+      "translated": "几天后，我向她提出了约会。杰西卡在波士顿的一家投资银行负责市场营销。这家银行自认为了解初创企业，但在接下来的一年里，随着她结识了我来自创业圈的朋友，她惊讶地发现现实与想象中的差异如此之大。"
     },
     {
       "original": "And how colorful their stories were. So she decided to compile a book of interviews with startup founders.When the bank had financial problems and she had to fire half her staff, she started looking for a new job.",
-      "translated": "[待翻译] And how colorful their stories were. So she decide..."
+      "translated": "她们的故事是多么丰富多彩。因此，她决定编撰一本采访初创公司创始人的书。当银行出现财务问题，她不得不裁员一半时，她开始寻找新的工作。"
     },
     {
       "original": "In early 2005 she interviewed for a marketing job at a Boston VC firm. It took them weeks to make up their minds, and during this time I started telling her about all the things that needed to be fixed about venture capital.",
-      "translated": "[待翻译] In early 2005 she interviewed for a marketing job ..."
+      "translated": "2005年初，她面试了一家位于波士顿的风险投资公司的市场营销职位。他们花了几个星期才做出决定，在这段时间里，我开始告诉她关于风险投资需要改进的各个方面。"
     },
     {
       "original": "They should make a larger number of smaller investments instead of a handful of giant ones, they should be funding younger, more technical founders instead of MBAs, they should let the founders remain as CEO, and so on.One of my tricks for writing essays had always been to give talks.",
-      "translated": "[待翻译] They should make a larger number of smaller invest..."
+      "translated": "他们应该进行更多的小额投资，而不是少数几笔巨额投资；应该资助更年轻、更具技术背景的创始人，而不是MBA；应该让创始人继续担任CEO，等等。我写文章的一个诀窍一直是通过做演讲来构思。"
     },
     {
       "original": "The prospect of having to stand up in front of a group of people and tell them something that won't waste their time is a great spur to the imagination. When the Harvard Computer Society, the undergrad computer club, asked me to give a talk, I decided I would tell them how to start a startup.",
-      "translated": "[待翻译] The prospect of having to stand up in front of a g..."
+      "translated": "不得不站在一群人面前，告诉他们一些不会浪费他们时间的事情，这极大地激发了想象力。当哈佛计算机协会，这个本科生计算机俱乐部，邀请我做一次演讲时，我决定告诉他们如何创业。"
     },
     {
       "original": "Maybe they'd be able to avoid the worst of the mistakes we'd made.So I gave this talk, in the course of which I told them that the best sources of seed funding were successful startup founders, because then they'd be sources of advice too.",
-      "translated": "[待翻译] Maybe they'd be able to avoid the worst of the mis..."
+      "translated": "也许他们能够避免我们犯过的最严重的错误。所以我做了这次演讲，在演讲中我告诉他们，最好的种子资金来源是成功的创业公司创始人，因为这样他们也能成为建议的来源。"
     },
     {
       "original": "Whereupon it seemed they were all looking expectantly at me. Horrified at the prospect of having my inbox flooded by business plans (if I'd only known), I blurted out \"But not me!\" and went on with the talk.",
-      "translated": "[待翻译] Whereupon it seemed they were all looking expectan..."
+      "translated": "于是，他们似乎都满怀期待地看着我。一想到我的收件箱将被商业计划书淹没（如果我当时知道的话），我惊慌失措地脱口而出：“但不包括我！”然后继续我的演讲。"
     },
     {
       "original": "But afterward it occurred to me that I should really stop procrastinating about angel investing. I'd been meaning to since Yahoo bought us, and now it was 7 years later and I still hadn't done one angel investment.Meanwhile I had been scheming with Robert and Trevor about projects we could work on together.",
-      "translated": "[待翻译] But afterward it occurred to me that I should real..."
+      "translated": "但后来我想到，我确实应该停止对天使投资的拖延。自从雅虎收购我们之后，我一直打算这么做，但现在已经是7年后了，我还一项天使投资都没做。与此同时，我一直和罗伯特和特雷弗策划我们可以合作的项目。"
     },
     {
       "original": "I missed working with them, and it seemed like there had to be something we could collaborate on.As Jessica and I were walking home from dinner on March 11, at the corner of Garden and Walker streets, these three threads converged.",
-      "translated": "[待翻译] I missed working with them, and it seemed like the..."
+      "translated": "我怀念和他们一起工作，感觉我们应该能合作做点什么。3月11日，我和杰西卡从晚餐回家的路上，在花园街和沃克街的拐角处，这三条线索交汇在了一起。"
     },
     {
       "original": "Screw the VCs who were taking so long to make up their minds. We'd start our own investment firm and actually implement the ideas we'd been talking about. I'd fund it, and Jessica could quit her job and work for it, and we'd get Robert and Trevor as partners too.",
-      "translated": "[待翻译] Screw the VCs who were taking so long to make up t..."
+      "translated": "Screw那些迟迟不作决定的风险投资人。我们要自己成立一家投资公司，真正实施我们一直讨论的想法。我来出资，杰西卡可以辞掉工作为我们工作，我们还要让罗伯特和特雷弗成为合伙人。"
     },
     {
       "original": "[13]Once again, ignorance worked in our favor. We had no idea how to be angel investors, and in Boston in 2005 there were no Ron Conways to learn from. So we just made what seemed like the obvious choices, and some of the things we did turned out to be novel.There are multiple components to Y Combinator, and we didn't figure them all out at once.",
-      "translated": "[待翻译] [13]Once again, ignorance worked in our favor. We ..."
+      "translated": "[13]再一次，无知对我们有利。我们完全不知道如何成为天使投资人，而在2005年的波士顿，也没有罗恩·康韦这样的人可以学习。所以我们只是做出了看似显而易见的选择，而我们所做的一些事情后来证明是新颖的。Y Combinator 有多个组成部分，而我们并不是一开始就全部想清楚的。"
     },
     {
       "original": "The part we got first was to be an angel firm. In those days, those two words didn't go together. There were VC firms, which were organized companies with people whose job it was to make investments, but they only did big, million dollar investments.",
-      "translated": "[待翻译] The part we got first was to be an angel firm. In ..."
+      "translated": "我们最初的部分是成为一家天使投资公司。在那个年代，这两个词并不常一起使用。有风险投资公司，这些是有组织的公司，雇有专门负责投资的人，但他们只做大型的百万美元级别的投资。"
     },
     {
       "original": "And there were angels, who did smaller investments, but these were individuals who were usually focused on other things and made investments on the side. And neither of them helped founders enough in the beginning.",
-      "translated": "[待翻译] And there were angels, who did smaller investments..."
+      "translated": "还有一些天使投资人，他们进行较小的投资，但这些人通常专注于其他事情，投资只是他们的副业。而他们中的任何一个在初创时期都没有给创始人提供足够的帮助。"
     },
     {
       "original": "We knew how helpless founders were in some respects, because we remembered how helpless we'd been. For example, one thing Julian had done for us that seemed to us like magic was to get us set up as a company.",
-      "translated": "[待翻译] We knew how helpless founders were in some respect..."
+      "translated": "我们知道创始人在某些方面是多么无助，因为我们还记得自己曾经有多么无助。例如，朱利安为我们做的一件看似神奇的事情就是帮我们成立了公司。"
     },
     {
       "original": "We were fine writing fairly difficult software, but actually getting incorporated, with bylaws and stock and all that stuff, how on earth did you do that? Our plan was not only to make seed investments, but to do for startups everything Julian had done for us.YC was not organized as a fund.",
-      "translated": "[待翻译] We were fine writing fairly difficult software, bu..."
+      "translated": "我们写相当复杂的软件还行，但真正去注册公司，有章程、股票等等这一切，天哪，你是怎么做到的？我们的计划不仅是进行种子投资，还要为初创公司做朱利安为我们做的一切。YC并不是以基金的形式组织的。"
     },
     {
       "original": "It was cheap enough to run that we funded it with our own money. That went right by 99% of readers, but professional investors are thinking \"Wow, that means they got all the returns.\" But once again, this was not due to any particular insight on our part.",
-      "translated": "[待翻译] It was cheap enough to run that we funded it with ..."
+      "translated": "它的成本足够低，以至于我们用自己的资金就能运作。这一点几乎被99%的读者忽略了，但专业的投资者则在想：“哇，这意味着他们获得了所有的回报。”但再次强调，这并不是因为我们有任何特别的洞察力。"
     },
     {
       "original": "We didn't know how VC firms were organized. It never occurred to us to try to raise a fund, and if it had, we wouldn't have known where to start. [14]The most distinctive thing about YC is the batch model: to fund a bunch of startups all at once, twice a year, and then to spend three months focusing intensively on trying to help them.",
-      "translated": "[待翻译] We didn't know how VC firms were organized. It nev..."
+      "translated": "我们不知道风投公司是如何运作的。我们从未想过要筹集资金，即使想到了，也不知道从何做起。[14] YC 最独特的地方在于其批次模式：每年两次同时资助一批初创公司，然后在接下来的三个月里集中精力尽力帮助它们。"
     },
     {
       "original": "That part we discovered by accident, not merely implicitly but explicitly due to our ignorance about investing. We needed to get experience as investors. What better way, we thought, than to fund a whole bunch of startups at once?",
-      "translated": "[待翻译] That part we discovered by accident, not merely im..."
+      "translated": "那部分是我们偶然发现的，不仅隐含地，而且明显地由于我们对投资的无知。我们需要积累作为投资者的经验。我们想，还有什么比同时资助一大批初创公司更好的方法呢？"
     },
     {
       "original": "We knew undergrads got temporary jobs at tech companies during the summer. Why not organize a summer program where they'd start startups instead? We wouldn't feel guilty for being in a sense fake investors, because they would in a similar sense be fake founders.",
-      "translated": "[待翻译] We knew undergrads got temporary jobs at tech comp..."
+      "translated": "我们知道本科生在暑假期间会在科技公司做临时工作。为什么不组织一个暑期项目，让他们创办初创企业呢？我们不会因为充当所谓的假投资者而感到内疚，因为他们也将在某种意义上成为假创始人。"
     },
     {
       "original": "So while we probably wouldn't make much money out of it, we'd at least get to practice being investors on them, and they for their part would probably have a more interesting summer than they would working at Microsoft.We'd use the building I owned in Cambridge as our headquarters.",
-      "translated": "[待翻译] So while we probably wouldn't make much money out ..."
+      "translated": "所以，虽然我们可能不会从中赚到多少钱，但至少可以实践一下当投资者的感觉，而他们也因此可能会度过一个比在微软工作更有趣的夏天。我们会用我在剑桥的那栋楼作为总部。"
     },
     {
       "original": "We'd all have dinner there once a week — on tuesdays, since I was already cooking for the thursday diners on thursdays — and after dinner we'd bring in experts on startups to give talks.We knew undergrads were deciding then about summer jobs, so in a matter of days we cooked up something we called the Summer Founders Program, and I posted an announcement on my site, inviting undergrads to apply.",
-      "translated": "[待翻译] We'd all have dinner there once a week — on tuesda..."
+      "translated": "我们每周都会在那里吃一次晚餐——定在星期二，因为我已经在星期四为那些来吃饭的人做饭了——晚餐后，我们会请来创业方面的专家来做演讲。我们知道，本科生们那个时候正在决定暑期工作，所以几天之内我们就策划了一个名为“暑期创始人计划”的项目，我在我的网站上发布了一个公告，邀请本科生申请。"
     },
     {
       "original": "I had never imagined that writing essays would be a way to get \"deal flow,\" as investors call it, but it turned out to be the perfect source. [15] We got 225 applications for the Summer Founders Program, and we were surprised to find that a lot of them were from people who'd already graduated, or were about to that spring.",
-      "translated": "[待翻译] I had never imagined that writing essays would be ..."
+      "translated": "我从未想过写文章会成为获取“项目来源”的途径，正如投资者所说的那样，但事实证明这是完美的来源。[15] 我们为夏季创始人计划收到了225份申请，令我们惊讶的是，其中很多申请者已经毕业，或者即将在那个春天毕业。"
     },
     {
       "original": "Already this SFP thing was starting to feel more serious than we'd intended.We invited about 20 of the 225 groups to interview in person, and from those we picked 8 to fund. They were an impressive group.",
-      "translated": "[待翻译] Already this SFP thing was starting to feel more s..."
+      "translated": "这个SFP项目已经开始显得比我们预期的要严肃得多。我们邀请了大约225个团体中的20个来进行面对面访谈，从中我们选择了8个进行资助。他们是一个非常出色的团体。"
     },
     {
       "original": "That first batch included reddit, Justin Kan and Emmett Shear, who went on to found Twitch, Aaron Swartz, who had already helped write the RSS spec and would a few years later become a martyr for open access, and Sam Altman, who would later become the second president of YC.",
-      "translated": "[待翻译] That first batch included reddit, Justin Kan and E..."
+      "translated": "第一批成员包括reddit、Justin Kan和Emmett Shear，他们后来创建了Twitch，Aaron Swartz，他已经帮助撰写了RSS规范，并在几年后成为开放获取的殉道者，以及Sam Altman，他后来成为了YC的第二任总裁。"
     },
     {
       "original": "I don't think it was entirely luck that the first batch was so good. You had to be pretty bold to sign up for a weird thing like the Summer Founders Program instead of a summer job at a legit place like Microsoft or Goldman Sachs.The deal for startups was based on a combination of the deal we did with Julian ($10k for 10%) and what Robert said MIT grad students got for the summer ($6k).",
-      "translated": "[待翻译] I don't think it was entirely luck that the first ..."
+      "translated": "我认为第一批这么出色不仅仅是因为运气。你得相当大胆，才会选择参加像夏季创始人计划这样的怪异项目，而不是在微软或高盛这样的正规公司找一份暑期工作。初创企业的条件是基于我们与Julian达成的协议（10%的股份换取1万美元）以及Robert所说的MIT研究生暑期所得（6000美元）。"
     },
     {
       "original": "We invested $6k per founder, which in the typical two-founder case was $12k, in return for 6%. That had to be fair, because it was twice as good as the deal we ourselves had taken. Plus that first summer, which was really hot, Jessica brought the founders free air conditioners.",
-      "translated": "[待翻译] We invested $6k per founder, which in the typical ..."
+      "translated": "我们每位创始人投资了6000美元，对于典型的两位创始人的情况，即12000美元，以换取6%的股份。这必须是公平的，因为这个条件比我们自己拿到的要好两倍。此外，那个夏天非常炎热，杰西卡还给创始人们带来了免费的空调。"
     },
     {
       "original": "[16]Fairly quickly I realized that we had stumbled upon the way to scale startup funding. Funding startups in batches was more convenient for us, because it meant we could do things for a lot of startups at once, but being part of a batch was better for the startups too.",
-      "translated": "[待翻译] [16]Fairly quickly I realized that we had stumbled..."
+      "translated": "很快我意识到，我们偶然找到了扩大初创企业融资规模的方法。批量资助初创企业对我们来说更加方便，因为它意味着我们可以一次性为许多初创企业提供服务，而成为批次的一部分对这些初创企业本身也有好处。"
     },
     {
       "original": "It solved one of the biggest problems faced by founders: the isolation. Now you not only had colleagues, but colleagues who understood the problems you were facing and could tell you how they were solving them.As YC grew, we started to notice other advantages of scale.",
-      "translated": "[待翻译] It solved one of the biggest problems faced by fou..."
+      "translated": "它解决了创始人面临的一个最大问题：孤立。现在你不仅有了同事，而且这些同事理解你所面临的问题，并能告诉你他们是如何解决这些问题的。随着YC的壮大，我们开始注意到规模带来的其他优势。"
     },
     {
       "original": "The alumni became a tight community, dedicated to helping one another, and especially the current batch, whose shoes they remembered being in. We also noticed that the startups were becoming one another's customers.",
-      "translated": "[待翻译] The alumni became a tight community, dedicated to ..."
+      "translated": "校友们形成了一个紧密的社区，致力于互相帮助，特别是帮助当前这一批新人，他们记得自己也曾是新人。我们还注意到，这些初创公司也开始成为彼此的客户。"
     },
     {
       "original": "We used to refer jokingly to the \"YC GDP,\" but as YC grows this becomes less and less of a joke. Now lots of startups get their initial set of customers almost entirely from among their batchmates.I had not originally intended YC to be a full-time job.",
-      "translated": "[待翻译] We used to refer jokingly to the \"YC GDP,\" but as ..."
+      "translated": "我们过去开玩笑地提到“YC GDP”，但随着 YC 的发展，这越来越不像个笑话了。现在许多初创公司几乎完全从同一批次的同伴中获得他们的第一批客户。我最初并没有打算把 YC 当成全职工作。"
     },
     {
       "original": "I was going to do three things: hack, write essays, and work on YC. As YC grew, and I grew more excited about it, it started to take up a lot more than a third of my attention. But for the first few years I was still able to work on other things.In the summer of 2006, Robert and I started working on a new version of Arc.",
-      "translated": "[待翻译] I was going to do three things: hack, write essays..."
+      "translated": "我原本打算做三件事：编程、写文章和从事YC的工作。随着YC的发展，我对它的热情也日益增长，它开始占据我超过三分之一的注意力。但在最初的几年里，我仍然能够兼顾其他事情。2006年夏天，我和罗伯特开始着手开发Arc的新版本。"
     },
     {
       "original": "This one was reasonably fast, because it was compiled into Scheme. To test this new Arc, I wrote Hacker News in it. It was originally meant to be a news aggregator for startup founders and was called Startup News, but after a few months I got tired of reading about nothing but startups.",
-      "translated": "[待翻译] This one was reasonably fast, because it was compi..."
+      "translated": "这个程序运行得相当快，因为它是用 Scheme 编译的。为了测试这种新的 Arc 语言，我用它编写了 Hacker News。它最初是打算作为一个为初创公司创始人提供新闻的聚合器，并被称为 Startup News，但几个月后，我开始厌倦了只读关于初创公司的新闻。"
     },
     {
       "original": "Plus it wasn't startup founders we wanted to reach. It was future startup founders. So I changed the name to Hacker News and the topic to whatever engaged one's intellectual curiosity.HN was no doubt good for YC, but it was also by far the biggest source of stress for me.",
-      "translated": "[待翻译] Plus it wasn't startup founders we wanted to reach..."
+      "translated": "而且我们想要接触的不仅仅是初创公司的创始人，而是未来的创始人。所以我把名字改成了“黑客新闻”（Hacker News），话题也变成了任何能激发智力好奇心的内容。毫无疑问，HN 对 YC 有很大的帮助，但对我来说，它也是压力最大的来源。"
     },
     {
       "original": "If all I'd had to do was select and help founders, life would have been so easy. And that implies that HN was a mistake. Surely the biggest source of stress in one's work should at least be something close to the core of the work.",
-      "translated": "[待翻译] If all I'd had to do was select and help founders,..."
+      "translated": "如果我只需要选择并帮助创始人，生活就会容易得多。这意味着 HN 是个错误。毕竟，工作中最大的压力来源至少应该是与工作的核心内容接近的。"
     },
     {
       "original": "Whereas I was like someone who was in pain while running a marathon not from the exertion of running, but because I had a blister from an ill-fitting shoe. When I was dealing with some urgent problem during YC, there was about a 60% chance it had to do with HN, and a 40% chance it had do with everything else combined.",
-      "translated": "[待翻译] Whereas I was like someone who was in pain while r..."
+      "translated": "我就像一个在跑马拉松时感到疼痛的人，但这种疼痛不是来自跑步的劳累，而是因为穿着不合脚的鞋磨出了水泡。在YC期间，当我处理一些紧急问题时，大约有60%的可能是与HN有关，而40%的可能是与所有其他事情有关。"
     },
     {
       "original": "[17]As well as HN, I wrote all of YC's internal software in Arc. But while I continued to work a good deal in Arc, I gradually stopped working on Arc, partly because I didn't have time to, and partly because it was a lot less attractive to mess around with the language now that we had all this infrastructure depending on it.",
-      "translated": "[待翻译] [17]As well as HN, I wrote all of YC's internal so..."
+      "translated": "除了HN，我还用Arc编写了YC的所有内部软件。虽然我继续用Arc做了大量工作，但逐渐停止了对Arc的开发，部分原因是没有时间，部分原因是现在有这么多基础设施依赖于它，摆弄这种语言的吸引力大大降低了。"
     },
     {
       "original": "So now my three projects were reduced to two: writing essays and working on YC.YC was different from other kinds of work I've done. Instead of deciding for myself what to work on, the problems came to me.",
-      "translated": "[待翻译] So now my three projects were reduced to two: writ..."
+      "translated": "所以现在我的三个项目减少到了两个：写文章和从事YC的工作。YC与其他我做过的项目不同。我不再是自己决定要做什么，而是问题主动找上门来。"
     },
     {
       "original": "Every 6 months there was a new batch of startups, and their problems, whatever they were, became our problems. It was very engaging work, because their problems were quite varied, and the good founders were very effective.",
-      "translated": "[待翻译] Every 6 months there was a new batch of startups, ..."
+      "translated": "每隔6个月就会有一批新的初创公司，无论他们面临什么问题，都会成为我们的问题。这是一项非常投入的工作，因为这些问题种类繁多，而优秀的创始人非常高效。"
     },
     {
       "original": "If you were trying to learn the most you could about startups in the shortest possible time, you couldn't have picked a better way to do it.There were parts of the job I didn't like. Disputes between cofounders, figuring out when people were lying to us, fighting with people who maltreated the startups, and so on.",
-      "translated": "[待翻译] If you were trying to learn the most you could abo..."
+      "translated": "如果你打算在最短的时间内尽可能多地了解初创企业，你选择的方式再好不过了。这份工作中有些部分我不喜欢，比如联合创始人之间的争端、判断人们是否对我们撒谎、与那些虐待初创企业的人斗争等。"
     },
     {
       "original": "But I worked hard even at the parts I didn't like. I was haunted by something Kevin Hale once said about companies: \"No one works harder than the boss.\" He meant it both descriptively and prescriptively, and it was the second part that scared me.",
-      "translated": "[待翻译] But I worked hard even at the parts I didn't like...."
+      "translated": "但我甚至在不喜欢的部分也努力工作。凯文·黑尔曾说过关于公司的一句话一直萦绕在我心头：“没有人比老板更努力工作。”他这句话既有描述性，也有规范性，而正是后一部分让我感到害怕。"
     },
     {
       "original": "I wanted YC to be good, so if how hard I worked set the upper bound on how hard everyone else worked, I'd better work very hard.One day in 2010, when he was visiting California for interviews, Robert Morris did something astonishing: he offered me unsolicited advice.",
-      "translated": "[待翻译] I wanted YC to be good, so if how hard I worked se..."
+      "translated": "我希望YC能够变得出色，所以如果我工作的努力程度决定了其他人努力的上限，那我最好非常努力地工作。2010年的某天，罗伯特·莫里斯来加州参加面试时，做了一件令人惊讶的事：他主动给我提了一些建议。"
     },
     {
       "original": "I can only remember him doing that once before. One day at Viaweb, when I was bent over double from a kidney stone, he suggested that it would be a good idea for him to take me to the hospital. That was what it took for Rtm to offer unsolicited advice.",
-      "translated": "[待翻译] I can only remember him doing that once before. On..."
+      "translated": "我只记得他之前这样做过一次。有一天在 Viaweb，我因为肾结石痛得弯下了腰，他建议最好带我去医院。这可是 Rtm 主动提建议的情况。"
     },
     {
       "original": "So I remember his exact words very clearly. \"You know,\" he said, \"you should make sure Y Combinator isn't the last cool thing you do.\"At the time I didn't understand what he meant, but gradually it dawned on me that he was saying I should quit.",
-      "translated": "[待翻译] So I remember his exact words very clearly. \"You k..."
+      "translated": "所以我清楚地记得他当时说的话。“你知道，”他说，“你应该确保Y Combinator不是你做的最后一件酷事。”当时我并不明白他的意思，但渐渐地我意识到，他是在暗示我应该辞职。"
     },
     {
       "original": "This seemed strange advice, because YC was doing great. But if there was one thing rarer than Rtm offering advice, it was Rtm being wrong. So this set me thinking. It was true that on my current trajectory, YC would be the last thing I did, because it was only taking up more of my attention.",
-      "translated": "[待翻译] This seemed strange advice, because YC was doing g..."
+      "translated": "这似乎是个奇怪的建议，因为YC进展得非常好。但如果说有一件事比Rtm提供建议更罕见的话，那就是Rtm犯错。因此，这让我开始思考。确实，按照我当前的轨迹，YC将会是我做的最后一件事，因为它正占据越来越多的我的注意力。"
     },
     {
       "original": "It had already eaten Arc, and was in the process of eating essays too. Either YC was my life's work or I'd have to leave eventually. And it wasn't, so I would.In the summer of 2012 my mother had a stroke, and the cause turned out to be a blood clot caused by colon cancer.",
-      "translated": "[待翻译] It had already eaten Arc, and was in the process o..."
+      "translated": "它已经吞掉了Arc，现在又在吞噬论文。要么YC是我的毕生事业，要么我最终不得不离开。而它并非我的毕生事业，所以我选择了离开。2012年夏天，我母亲中风了，后来发现病因是结肠癌导致的血栓。"
     },
     {
       "original": "The stroke destroyed her balance, and she was put in a nursing home, but she really wanted to get out of it and back to her house, and my sister and I were determined to help her do it. I used to fly up to Oregon to visit her regularly, and I had a lot of time to think on those flights.",
-      "translated": "[待翻译] The stroke destroyed her balance, and she was put ..."
+      "translated": "中风破坏了她的平衡能力，她被送进了养老院，但她真的想从那里出来，回到自己的家里，我和妹妹下定决心要帮助她实现这个愿望。我过去常常定期飞往俄勒冈州去看望她，在那些飞行途中，我有大量时间思考。"
     },
     {
       "original": "On one of them I realized I was ready to hand YC over to someone else.I asked Jessica if she wanted to be president, but she didn't, so we decided we'd try to recruit Sam Altman. We talked to Robert and Trevor and we agreed to make it a complete changing of the guard.",
-      "translated": "[待翻译] On one of them I realized I was ready to hand YC o..."
+      "translated": "在其中一次，我意识到自己已经准备好将YC交给别人了。我问Jessica是否愿意担任总裁，但她不愿意，所以我们决定尝试招募Sam Altman。我们和Robert及Trevor谈过，一致同意进行一次彻底的交接。"
     },
     {
       "original": "Up till that point YC had been controlled by the original LLC we four had started. But we wanted YC to last for a long time, and to do that it couldn't be controlled by the founders. So if Sam said yes, we'd let him reorganize YC.",
-      "translated": "[待翻译] Up till that point YC had been controlled by the o..."
+      "translated": "直到那时，YC 一直由我们四个人创立的原始 LLC 控制。但我们希望 YC 能够长期发展，要做到这一点，它不能由创始人控制。所以如果 Sam 同意，我们就让他重组 YC。"
     },
     {
       "original": "Robert and I would retire, and Jessica and Trevor would become ordinary partners.When we asked Sam if he wanted to be president of YC, initially he said no. He wanted to start a startup to make nuclear reactors.",
-      "translated": "[待翻译] Robert and I would retire, and Jessica and Trevor ..."
+      "translated": "罗伯特和我将会退休，而杰西卡和特雷弗将成为普通合伙人。当我们问山姆是否想担任YC的总裁时，他最初拒绝了。他想创办一家创业公司来制造核反应堆。"
     },
     {
       "original": "But I kept at it, and in October 2013 he finally agreed. We decided he'd take over starting with the winter 2014 batch. For the rest of 2013 I left running YC more and more to Sam, partly so he could learn the job, and partly because I was focused on my mother, whose cancer had returned.She died on January 15, 2014.",
-      "translated": "[待翻译] But I kept at it, and in October 2013 he finally a..."
+      "translated": "但我坚持了下来，2013年10月，他终于同意了。我们决定他从2014年冬季批次开始接手。2013年剩下的时间里，我逐渐将YC的运营工作更多地交给萨姆，一方面是为了让他熟悉工作，另一方面是因为我需要更多地照顾我的母亲，她的癌症复发了。她于2014年1月15日去世。"
     },
     {
       "original": "We knew this was coming, but it was still hard when it did.I kept working on YC till March, to help get that batch of startups through Demo Day, then I checked out pretty completely. (I still talk to alumni and to new startups working on things I'm interested in, but that only takes a few hours a week.)What should I do next?",
-      "translated": "[待翻译] We knew this was coming, but it was still hard whe..."
+      "translated": "我们预料到这一天会来，但当它真的到来时，还是很难接受。我一直工作到三月，帮助那批初创公司顺利通过展示日，之后我几乎完全退出了。（我仍然会和校友以及对我的兴趣领域有研究的新初创公司交流，但这每周只需要花费几个小时。）接下来我应该做什么？"
     },
     {
       "original": "Rtm's advice hadn't included anything about that. I wanted to do something completely different, so I decided I'd paint. I wanted to see how good I could get if I really focused on it. So the day after I stopped working on YC, I started painting.",
-      "translated": "[待翻译] Rtm's advice hadn't included anything about that. ..."
+      "translated": "Rtm 的建议里完全没有提到这一点。我想要做些完全不同的事情，所以我决定开始画画。我想看看如果我全身心投入，究竟能达到怎样的水平。因此，在我停止 YC 的工作后的第二天，我就开始画画了。"
     },
     {
       "original": "I was rusty and it took a while to get back into shape, but it was at least completely engaging. [18]I spent most of the rest of 2014 painting. I'd never been able to work so uninterruptedly before, and I got to be better than I had been.",
-      "translated": "[待翻译] I was rusty and it took a while to get back into s..."
+      "translated": "我有些生疏，花了些时间才重新进入状态，但至少整个过程非常投入。[18]2014年的大部分时间我都在画画。我以前从未能如此不间断地工作过，而且我的技艺也比以前有所提高。"
     },
     {
       "original": "Not good enough, but better. Then in November, right in the middle of a painting, I ran out of steam. Up till that point I'd always been curious to see how the painting I was working on would turn out, but suddenly finishing this one seemed like a chore.",
-      "translated": "[待翻译] Not good enough, but better. Then in November, rig..."
+      "translated": "不够好，但更好。然后在十一月，正当我画到一半时，我失去了动力。直到那时，我总是对正在绘制的作品最终会是什么样子感到好奇，但突然间，完成这幅画变成了一项任务。"
     },
     {
       "original": "So I stopped working on it and cleaned my brushes and haven't painted since. So far anyway.I realize that sounds rather wimpy. But attention is a zero sum game. If you can choose what to work on, and you choose a project that's not the best one (or at least a good one) for you, then it's getting in the way of another project that is.",
-      "translated": "[待翻译] So I stopped working on it and cleaned my brushes ..."
+      "translated": "所以我停止了这项工作，清理了我的画笔，从那以后就再也没有画过。至少目前是这样。我知道这听起来有点软弱。但注意力是一种零和游戏。如果你可以选择要做什么，而你选择的项目并不是最适合你的（或者至少不是一个好项目），那么它就会妨碍你去做另一个更适合你的项目。"
     },
     {
       "original": "And at 50 there was some opportunity cost to screwing around.I started writing essays again, and wrote a bunch of new ones over the next few months. I even wrote a couple that weren't about startups.",
-      "translated": "[待翻译] And at 50 there was some opportunity cost to screw..."
+      "translated": "到了50岁，胡乱消磨时间的机会成本就高了。我重新开始写文章，接下来的几个月里写了很多新的文章。我甚至还写了几篇与创业无关的文章。"
     },
     {
       "original": "Then in March 2015 I started working on Lisp again.The distinctive thing about Lisp is that its core is a language defined by writing an interpreter in itself. It wasn't originally intended as a programming language in the ordinary sense.",
-      "translated": "[待翻译] Then in March 2015 I started working on Lisp again..."
+      "translated": "然后在2015年3月，我开始重新使用Lisp进行工作。Lisp的独特之处在于，其核心是通过用自身编写解释器来定义的一种语言。它最初并不是作为普通意义上的编程语言而设计的。"
     },
     {
       "original": "It was meant to be a formal model of computation, an alternative to the Turing machine. If you want to write an interpreter for a language in itself, what's the minimum set of predefined operators you need?",
-      "translated": "[待翻译] It was meant to be a formal model of computation, ..."
+      "translated": "它本应是一种计算的形式化模型，作为图灵机的替代。如果你想要用一种语言为其自身编写解释器，那么你需要的最少预定义操作符集是什么？"
     },
     {
       "original": "The Lisp that John McCarthy invented, or more accurately discovered, is an answer to that question. [19]McCarthy didn't realize this Lisp could even be used to program computers till his grad student Steve Russell suggested it.",
-      "translated": "[待翻译] The Lisp that John McCarthy invented, or more accu..."
+      "translated": "约翰·麦卡锡发明的，或者更准确地说是发现的Lisp语言，就是对这一问题的回答。[19]麦卡锡最初并没有意识到Lisp可以用来编写计算机程序，直到他的研究生史蒂夫·罗素提出这个建议。"
     },
     {
       "original": "Russell translated McCarthy's interpreter into IBM 704 machine language, and from that point Lisp started also to be a programming language in the ordinary sense. But its origins as a model of computation gave it a power and elegance that other languages couldn't match.",
-      "translated": "[待翻译] Russell translated McCarthy's interpreter into IBM..."
+      "translated": "[翻译失败] Russell translated McCarthy's interpreter into IBM..."
     },
     {
       "original": "It was this that attracted me in college, though I didn't understand why at the time.McCarthy's 1960 Lisp did nothing more than interpret Lisp expressions. It was missing a lot of things you'd want in a programming language.",
-      "translated": "[待翻译] It was this that attracted me in college, though I..."
+      "translated": "正是这一点在大学时吸引了我，尽管当时我不明白为什么。麦卡锡在1960年创建的Lisp语言所做的只是解释Lisp表达式。它缺少了许多你希望在编程语言中看到的功能。"
     },
     {
       "original": "So these had to be added, and when they were, they weren't defined using McCarthy's original axiomatic approach. That wouldn't have been feasible at the time. McCarthy tested his interpreter by hand-simulating the execution of programs.",
-      "translated": "[待翻译] So these had to be added, and when they were, they..."
+      "translated": "因此，这些必须被添加进来，而当它们被添加时，并没有使用麦卡锡最初的公理化方法来定义。当时这样做是不可行的。麦卡锡通过手工模拟程序的执行来测试他的解释器。"
     },
     {
       "original": "But it was already getting close to the limit of interpreters you could test that way — indeed, there was a bug in it that McCarthy had overlooked. To test a more complicated interpreter, you'd have had to run it, and computers then weren't powerful enough.Now they are, though.",
-      "translated": "[待翻译] But it was already getting close to the limit of i..."
+      "translated": "但这种方法已经接近可以测试的解释器的极限——事实上，其中有一个麦卡锡忽略的bug。要测试更复杂的解释器，你不得不运行它，而当时的计算机性能还不足以胜任。现在则不同了。"
     },
     {
       "original": "Now you could continue using McCarthy's axiomatic approach till you'd defined a complete programming language. And as long as every change you made to McCarthy's Lisp was a discoveredness-preserving transformation, you could, in principle, end up with a complete language that had this quality.",
-      "translated": "[待翻译] Now you could continue using McCarthy's axiomatic ..."
+      "translated": "现在你可以继续使用麦卡锡的公理化方法，直到定义出一种完整的编程语言。只要你在修改麦卡锡的Lisp时所做的每一次变更都是保持发现性不变的转换，那么原则上，你最终可以得到一种具有这种特性的完整语言。"
     },
     {
       "original": "Harder to do than to talk about, of course, but if it was possible in principle, why not try? So I decided to take a shot at it. It took 4 years, from March 26, 2015 to October 12, 2019. It was fortunate that I had a precisely defined goal, or it would have been hard to keep at it for so long.I wrote this new Lisp, called Bel, in itself in Arc.",
-      "translated": "[待翻译] Harder to do than to talk about, of course, but if..."
+      "translated": "当然，说起来容易做起来难，但如果理论上可行，为什么不试试呢？所以我决定尝试一下。这花了我4年的时间，从2015年3月26日到2019年10月12日。幸运的是，我有一个明确定义的目标，否则很难坚持这么长时间。我用Arc编写了这种新的Lisp语言，称为Bel。"
     },
     {
       "original": "That may sound like a contradiction, but it's an indication of the sort of trickery I had to engage in to make this work. By means of an egregious collection of hacks I managed to make something close enough to an interpreter written in itself that could actually run.",
-      "translated": "[待翻译] That may sound like a contradiction, but it's an i..."
+      "translated": "这听起来可能自相矛盾，但这确实表明了我为了实现这一目标所不得不采取的一些手段。通过一系列极其巧妙的技巧，我成功地创建了一个足够接近用自身语言编写的解释器，使其能够实际运行。"
     },
     {
       "original": "Not fast, but fast enough to test.I had to ban myself from writing essays during most of this time, or I'd never have finished. In late 2015 I spent 3 months writing essays, and when I went back to working on Bel I could barely understand the code.",
-      "translated": "[待翻译] Not fast, but fast enough to test.I had to ban mys..."
+      "translated": "不快，但足够快来进行测试。在这段时间里，我不得不禁止自己写论文，否则我永远也完不成。2015年底，我花了3个月时间写论文，当我回到Bel项目时，我几乎无法理解代码了。"
     },
     {
       "original": "Not so much because it was badly written as because the problem is so convoluted. When you're working on an interpreter written in itself, it's hard to keep track of what's happening at what level, and errors can be practically encrypted by the time you get them.So I said no more essays till Bel was done.",
-      "translated": "[待翻译] Not so much because it was badly written as becaus..."
+      "translated": "并不是因为它写得有多糟糕，而是因为这个问题太复杂了。当你在用自身语言编写解释器时，很难跟上不同层级上发生的事情，而错误在你接收到时几乎就像是被加密了一样。所以我决定不再写文章，直到Bel完成为止。"
     },
     {
       "original": "But I told few people about Bel while I was working on it. So for years it must have seemed that I was doing nothing, when in fact I was working harder than I'd ever worked on anything. Occasionally after wrestling for hours with some gruesome bug I'd check Twitter or HN and see someone asking \"Does Paul Graham still code?\"Working on Bel was hard but satisfying.",
-      "translated": "[待翻译] But I told few people about Bel while I was workin..."
+      "translated": "但我几乎没告诉过几个人关于Bel的事，所以多年来，人们可能以为我什么都没做，而事实上，我正比以往任何时候都更加努力地工作。有时候，我会在与某个棘手的bug斗争数小时后，查看Twitter或Hacker News，看到有人在问“Paul Graham还编程吗？”虽然Bel的开发既艰难又令人满意。"
     },
     {
       "original": "I worked on it so intensively that at any given time I had a decent chunk of the code in my head and could write more there. I remember taking the boys to the coast on a sunny day in 2015 and figuring out how to deal with some problem involving continuations while I watched them play in the tide pools.",
-      "translated": "[待翻译] I worked on it so intensively that at any given ti..."
+      "translated": "我投入了大量的精力，以至于在任何时候我都能将一大部分代码牢记在心，并且可以在脑中编写更多的代码。我还记得在2015年的一个晴天，带着孩子们去海边，当时我在看他们玩潮汐池时，想出了如何解决与延续有关的问题。"
     },
     {
       "original": "It felt like I was doing life right. I remember that because I was slightly dismayed at how novel it felt. The good news is that I had more moments like this over the next few years.In the summer of 2016 we moved to England.",
-      "translated": "[待翻译] It felt like I was doing life right. I remember th..."
+      "translated": "感觉我的生活很顺。我记得这一点，因为这种感觉让我有些惊讶。好消息是，在接下来的几年里，我有更多这样的时刻。2016年夏天，我们搬到了英格兰。"
     },
     {
       "original": "We wanted our kids to see what it was like living in another country, and since I was a British citizen by birth, that seemed the obvious choice. We only meant to stay for a year, but we liked it so much that we still live there.",
-      "translated": "[待翻译] We wanted our kids to see what it was like living ..."
+      "translated": "我们希望孩子们能体验在另一个国家生活的感觉，而我生来就是英国公民，所以那里似乎是个显而易见的选择。我们本打算只待一年，但非常喜欢那里，所以至今仍住在那里。"
     },
     {
       "original": "So most of Bel was written in England.In the fall of 2019, Bel was finally finished. Like McCarthy's original Lisp, it's a spec rather than an implementation, although like McCarthy's Lisp it's a spec expressed as code.Now that I could write essays again, I wrote a bunch about topics I'd had stacked up.",
-      "translated": "[待翻译] So most of Bel was written in England.In the fall ..."
+      "translated": "所以，大部分的Bel是在英格兰写的。2019年秋天，Bel终于完成了。像麦卡锡最初的Lisp一样，它是一个规范而非实现，尽管像麦卡锡的Lisp一样，它的规范是以代码形式表达的。现在我又能写文章了，我写了一大批之前积压下来的主题。"
     },
     {
       "original": "I kept writing essays through 2020, but I also started to think about other things I could work on. How should I choose what to do? Well, how had I chosen what to work on in the past? I wrote an essay for myself to answer that question, and I was surprised how long and messy the answer turned out to be.",
-      "translated": "[待翻译] I kept writing essays through 2020, but I also sta..."
+      "translated": "2020 年我一直写着文章，但我也开始思考可以做些什么其他的事情。我应该如何选择要做什么呢？好吧，过去我是如何选择要做什么的呢？我写了一篇文章来回答这个问题，结果发现答案既长又复杂，让我感到惊讶。"
     },
     {
       "original": "If this surprised me, who'd lived it, then I thought perhaps it would be interesting to other people, and encouraging to those with similarly messy lives. So I wrote a more detailed version for others to read, and this is the last sentence of it.",
-      "translated": "[待翻译] If this surprised me, who'd lived it, then I thoug..."
+      "translated": "如果这让我这个亲身经历的人都感到惊讶，那么我想也许这对其他人来说会很有趣，对那些生活同样混乱的人也会有所鼓舞。于是我写了一个更详细的版本供他人阅读，而这便是那个版本的最后一句话。"
     },
     {
       "original": "Notes[1] My experience skipped a step in the evolution of computers: time-sharing machines with interactive OSes. I went straight from batch processing to microcomputers, which made microcomputers seem all the more exciting.[2] Italian words for abstract concepts can nearly always be predicted from their English cognates (except for occasional traps like polluzione).",
-      "translated": "[待翻译] Notes[1] My experience skipped a step in the evolu..."
+      "translated": "注释[1] 我的经历跳过了计算机发展的一个阶段：具有交互式操作系统的分时机器。我直接从批处理过渡到了微型计算机，这让微型计算机显得更加令人兴奋。[2] 意大利语中的抽象概念词汇几乎总是可以从其英语同源词中预测出来（除了偶尔的陷阱词，如 polluzione）。"
     },
     {
       "original": "It's the everyday words that differ. So if you string together a lot of abstract concepts with a few simple verbs, you can make a little Italian go a long way.[3] I lived at Piazza San Felice 4, so my walk to the Accademia went straight down the spine of old Florence: past the Pitti, across the bridge, past Orsanmichele, between the Duomo and the Baptistery, and then up Via Ricasoli to Piazza San Marco.",
-      "translated": "[待翻译] It's the everyday words that differ. So if you str..."
+      "translated": "日常用词有所不同。因此，如果你用几个简单的动词串联起许多抽象概念，一点意大利语就能派上大用场。我住在圣费利切广场4号，所以去学院的路上会直接穿过老佛罗伦萨的主干道：经过皮蒂宫，穿过桥梁，路过奥尔萨米凯莱，穿过大教堂和洗礼堂之间，然后沿着里卡索利街走到圣马可广场。"
     },
     {
       "original": "I saw Florence at street level in every possible condition, from empty dark winter evenings to sweltering summer days when the streets were packed with tourists.[4] You can of course paint people like still lives if you want to, and they're willing.",
-      "translated": "[待翻译] I saw Florence at street level in every possible c..."
+      "translated": "我在各种条件下从街面上看到了佛罗伦萨，从空旷阴暗的冬夜到人潮汹涌的炎炎夏日。[4] 当然，如果你想，也可以像画静物一样画人，只要他们愿意。"
     },
     {
       "original": "That sort of portrait is arguably the apex of still life painting, though the long sitting does tend to produce pained expressions in the sitters.[5] Interleaf was one of many companies that had smart people and built impressive technology, and yet got crushed by Moore's Law.",
-      "translated": "[待翻译] That sort of portrait is arguably the apex of stil..."
+      "translated": "这种肖像画可以说是静物画的顶峰，尽管长时间的坐着往往会使被画者露出痛苦的表情。Interleaf 是众多拥有聪明人士并建立了令人印象深刻的技术的公司之一，但最终还是被摩尔定律碾压。"
     },
     {
       "original": "In the 1990s the exponential growth in the power of commodity (i.e. Intel) processors rolled up high-end, special-purpose hardware and software companies like a bulldozer.[6] The signature style seekers at RISD weren't specifically mercenary.",
-      "translated": "[待翻译] In the 1990s the exponential growth in the power o..."
+      "translated": "在20世纪90年代，商品化处理器（如英特尔处理器）的性能呈指数级增长，像推土机一样碾压了高端、专用的硬件和软件公司。[6] 里士满设计学院的那些追求独特风格的人并不是特意为了金钱。"
     },
     {
       "original": "In the art world, money and coolness are tightly coupled. Anything expensive comes to be seen as cool, and anything seen as cool will soon become equally expensive.[7] Technically the apartment wasn't rent-controlled but rent-stabilized, but this is a refinement only New Yorkers would know or care about.",
-      "translated": "[待翻译] In the art world, money and coolness are tightly c..."
+      "translated": "在艺术界，金钱和酷炫紧密相连。任何昂贵的东西都会被视为酷炫，而任何被视为酷炫的东西很快也会变得同样昂贵。从技术上讲，这套公寓并不是受租金管制的，而是租金稳定的，但这一点只有纽约人才会知道或在乎。"
     },
     {
       "original": "The point is that it was really cheap, less than half market price.[8] Most software you can launch as soon as it's done. But when the software is an online store builder and you're hosting the stores, if you don't have any users yet, that fact will be painfully obvious.",
-      "translated": "[待翻译] The point is that it was really cheap, less than h..."
+      "translated": "要点是它真的很便宜，不到市场价格的一半。[8] 大多数软件一旦完成就可以立即启动。但当软件是一个在线商店构建器，而你又在托管这些商店时，如果你还没有任何用户，这一点将显而易见地令人痛苦。"
     },
     {
       "original": "So before we could launch publicly we had to launch privately, in the sense of recruiting an initial set of users and making sure they had decent-looking stores.[9] We'd had a code editor in Viaweb for users to define their own page styles.",
-      "translated": "[待翻译] So before we could launch publicly we had to launc..."
+      "translated": "所以在公开发布之前，我们必须先私下启动，即招募一批初始用户，并确保他们的店铺看起来体面。[9] 我们在 Viaweb 中有一个代码编辑器，供用户自定义页面样式。"
     },
     {
       "original": "They didn't know it, but they were editing Lisp expressions underneath. But this wasn't an app editor, because the code ran when the merchants' sites were generated, not when shoppers visited them.[10] This was the first instance of what is now a familiar experience, and so was what happened next, when I read the comments and found they were full of angry people.",
-      "translated": "[待翻译] They didn't know it, but they were editing Lisp ex..."
+      "translated": "他们并不知道，他们在编辑的是Lisp表达式。但这并不是一个应用程序编辑器，因为代码是在商家的网站生成时运行的，而不是在购物者访问时运行的。[10] 这是现在熟悉体验的第一次实例，接下来发生的事情也是如此，当我阅读评论时，发现里面充满了愤怒的人。"
     },
     {
       "original": "How could I claim that Lisp was better than other languages? Weren't they all Turing complete? People who see the responses to essays I write sometimes tell me how sorry they feel for me, but I'm not exaggerating when I reply that it has always been like this, since the very beginning.",
-      "translated": "[待翻译] How could I claim that Lisp was better than other ..."
+      "translated": "我怎么能说 Lisp 比其他语言更好呢？它们不是都是图灵完备的吗？有时看到我写的文章的人会告诉我他们为我感到难过，但当我回复说这种情况从一开始就一直如此时，我并没有夸张。"
     },
     {
       "original": "It comes with the territory. An essay must tell readers things they don't already know, and some people dislike being told such things.[11] People put plenty of stuff on the internet in the 90s of course, but putting something online is not the same as publishing it online.",
-      "translated": "[待翻译] It comes with the territory. An essay must tell re..."
+      "translated": "这在所难免。一篇文章必须告诉读者他们还不知道的事情，而有些人不喜欢被告诉这些事情。[11] 当然，人们在90年代就往互联网上放了很多东西，但把东西放到网上并不等同于在线出版。"
     },
     {
       "original": "Publishing online means you treat the online version as the (or at least a) primary version.[12] There is a general lesson here that our experience with Y Combinator also teaches: Customs continue to constrain you long after the restrictions that caused them have disappeared.",
-      "translated": "[待翻译] Publishing online means you treat the online versi..."
+      "translated": "在线发布意味着你将在线版本视为（或至少是）主要版本。[12] 这里有一个普遍的教训，我们的 Y Combinator 经验也证明了这一点：即使导致这些习俗的限制早已消失，习俗仍然会继续约束你。"
     },
     {
       "original": "Customary VC practice had once, like the customs about publishing essays, been based on real constraints. Startups had once been much more expensive to start, and proportionally rare. Now they could be cheap and common, but the VCs' customs still reflected the old world, just as customs about writing essays still reflected the constraints of the print era.Which in turn implies that people who are independent-minded (i.e.",
-      "translated": "[待翻译] Customary VC practice had once, like the customs a..."
+      "translated": "传统的风险投资（VC）实践，就像发表论文的惯例一样，曾基于实际的限制。初创公司曾经成本高昂，且相对稀少。现在，它们可以变得既便宜又普遍，但风险投资家的习惯仍然反映着旧世界的情况，就像关于撰写论文的惯例仍然反映着印刷时代的限制一样。这反过来意味着，那些独立思考的人（即"
     },
     {
       "original": "less influenced by custom) will have an advantage in fields affected by rapid change (where customs are more likely to be obsolete).Here's an interesting point, though: you can't always predict which fields will be affected by rapid change.",
-      "translated": "[待翻译] less influenced by custom) will have an advantage ..."
+      "translated": "受传统习俗影响较小的人将在受快速变化影响的领域中拥有优势（在这些领域，传统习俗更可能变得过时）。然而，这里有一个有趣的观点：你无法总是预测哪些领域会受到快速变化的影响。"
     },
     {
       "original": "Obviously software and venture capital will be, but who would have predicted that essay writing would be?[13] Y Combinator was not the original name. At first we were called Cambridge Seed. But we didn't want a regional name, in case someone copied us in Silicon Valley, so we renamed ourselves after one of the coolest tricks in the lambda calculus, the Y combinator.I picked orange as our color partly because it's the warmest, and partly because no VC used it.",
-      "translated": "[待翻译] Obviously software and venture capital will be, bu..."
+      "translated": "显然，软件和风险投资会是这样，但谁能预料到写论文也会是这样呢？[13] Y Combinator 并不是最初的名字。起初我们被称为 Cambridge Seed。但我们不希望使用一个地区性的名字，以免有人在硅谷复制我们的模式，所以我们改名为 Y Combinator，这是 lambda 演算中最酷的技巧之一。我选择橙色作为我们的颜色，部分是因为它是暖色调中最温暖的，部分是因为没有风险投资公司使用这种颜色。"
     },
     {
       "original": "In 2005 all the VCs used staid colors like maroon, navy blue, and forest green, because they were trying to appeal to LPs, not founders. The YC logo itself is an inside joke: the Viaweb logo had been a white V on a red circle, so I made the YC logo a white Y on an orange square.[14] YC did become a fund for a couple years starting in 2009, because it was getting so big I could no longer afford to fund it personally.",
-      "translated": "[待翻译] In 2005 all the VCs used staid colors like maroon,..."
+      "translated": "2005年，所有的风险投资公司都使用深酒红、藏蓝和森林绿这样的稳重颜色，因为他们试图吸引的是有限合伙人，而不是创始人。YC的标志本身是一个内部玩笑：Viaweb的标志是一个白色V字在红色圆圈上，所以我把YC的标志设计成一个白色Y字在橙色方块上。[14] 从2009年开始，YC确实变成了一只基金，持续了几年，因为规模越来越大，我再也无法个人负担了。"
     },
     {
       "original": "But after Heroku got bought we had enough money to go back to being self-funded.[15] I've never liked the term \"deal flow,\" because it implies that the number of new startups at any given time is fixed.",
-      "translated": "[待翻译] But after Heroku got bought we had enough money to..."
+      "translated": "但是在 Heroku 被收购后，我们有了足够的资金可以重新自筹资金。[15] 我一直不喜欢“交易流”这个词，因为它暗示了在任何特定时间新创企业的数量是固定的。"
     },
     {
       "original": "This is not only false, but it's the purpose of YC to falsify it, by causing startups to be founded that would not otherwise have existed.[16] She reports that they were all different shapes and sizes, because there was a run on air conditioners and she had to get whatever she could, but that they were all heavier than she could carry now.[17] Another problem with HN was a bizarre edge case that occurs when you both write essays and run a forum.",
-      "translated": "[待翻译] This is not only false, but it's the purpose of YC..."
+      "translated": "这不仅是错误的，而且YC的目的就是通过促使那些本来不会存在的初创公司成立来证明这一点的错误性。[16] 她报告说，这些空调都是各种形状和大小的，因为当时空调供不应求，她不得不拿到什么用什么，但它们都比她现在能搬动的要重。[17] HN的另一个问题是，当你既写文章又管理一个论坛时，会出现一种奇怪的边缘情况。"
     },
     {
       "original": "When you run a forum, you're assumed to see if not every conversation, at least every conversation involving you. And when you write essays, people post highly imaginative misinterpretations of them on forums.",
-      "translated": "[待翻译] When you run a forum, you're assumed to see if not..."
+      "translated": "当你运营一个论坛时，人们会认为你即使不能看到每一个对话，至少也能看到涉及你自己的对话。而当你写文章时，人们会在论坛上发表极具想象力的误读。"
     },
     {
       "original": "Individually these two phenomena are tedious but bearable, but the combination is disastrous. You actually have to respond to the misinterpretations, because the assumption that you're present in the conversation means that not responding to any sufficiently upvoted misinterpretation reads as a tacit admission that it's correct.",
-      "translated": "[待翻译] Individually these two phenomena are tedious but b..."
+      "translated": "这两种现象单独来看虽然令人厌烦但尚可忍受，但它们结合起来就灾难性了。你实际上不得不回应那些误解，因为假设你参与了对话，不回应任何足够被点赞的误解会被视为默认它是正确的。"
     },
     {
       "original": "But that in turn encourages more; anyone who wants to pick a fight with you senses that now is their chance.[18] The worst thing about leaving YC was not working with Jessica anymore. We'd been working on YC almost the whole time we'd known each other, and we'd neither tried nor wanted to separate it from our personal lives, so leaving was like pulling up a deeply rooted tree.[19] One way to get more precise about the concept of invented vs discovered is to talk about space aliens.",
-      "translated": "[待翻译] But that in turn encourages more; anyone who wants..."
+      "translated": "但这反过来又会鼓励更多的人；任何想和你挑起争端的人都感觉到现在是他们的机会。离开YC最糟糕的事就是不再和杰西卡一起工作。我们几乎从认识彼此的那一刻起就开始一起做YC，而且我们既没有尝试也没有想要将它与我们的个人生活分开，所以离开就像拔起一棵深根的树。要更精确地区分“发明”与“发现”这两个概念，可以通过谈论外星人来讨论。"
     },
     {
       "original": "Any sufficiently advanced alien civilization would certainly know about the Pythagorean theorem, for example. I believe, though with less certainty, that they would also know about the Lisp in McCarthy's 1960 paper.But if so there's no reason to suppose that this is the limit of the language that might be known to them.",
-      "translated": "[待翻译] Any sufficiently advanced alien civilization would..."
+      "translated": "任何足够先进的外星文明肯定知道毕达哥拉斯定理，例如。我虽然不太确定，但相信他们也会知道麦卡锡1960年论文中的Lisp语言。但即便如此，也没有理由认为这就是他们可能掌握的语言的极限。"
     },
     {
       "original": "Presumably aliens need numbers and errors and I/O too. So it seems likely there exists at least one path out of McCarthy's Lisp along which discoveredness is preserved.Thanks to Trevor Blackwell, John Collison, Patrick Collison, Daniel Gackle, Ralph Hazell, Jessica Livingston, Robert Morris, and Harj Taggar for reading drafts of this.",
-      "translated": "[待翻译] Presumably aliens need numbers and errors and I/O ..."
+      "translated": "假设外星人也需要数字、错误和输入输出。因此，似乎存在至少一条路径，可以沿着这条路从麦卡锡的Lisp语言中走出来，同时保持发现性的特性。感谢Trevor Blackwell、John Collison、Patrick Collison、Daniel Gackle、Ralph Hazell、Jessica Livingston、Robert Morris和Harj Taggar阅读本文的草稿。"
     }
-  ]
+  ],
+  "translation_completed": "2025-07-29T02:15:25.734029",
+  "translation_stats": {
+    "total_paragraphs": 266,
+    "success_count": 264,
+    "success_rate": "99.2%"
+  }
 }

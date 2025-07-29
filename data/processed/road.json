@@ -256,963 +256,969 @@
   "paragraphs": [
     {
       "original": "September 2001 (This article explains why much of the next generation of software may be server-based, what that will mean for programmers, and why this new kind of software is a great opportunity for startups.",
-      "translated": "[待翻译] September 2001 (This article explains why much of ..."
+      "translated": "2001年9月（本文解释了为什么下一代软件中的很大一部分可能是基于服务器的，这将对程序员意味着什么，以及为什么这种新型软件对初创公司来说是一个巨大的机会。）"
     },
     {
       "original": "It's derived from a talk at BBN Labs.) In the summer of 1995, my friend Robert Morris and I decided to start a startup. The PR campaign leading up to Netscape's IPO was running full blast then, and there was a lot of talk in the press about online commerce.",
-      "translated": "[待翻译] It's derived from a talk at BBN Labs.) In the summ..."
+      "translated": "这是源自1995年夏天在BBN实验室的一次演讲。那年夏天，我的朋友罗伯特·莫里斯和我决定创办一家创业公司。当时，网景公司IPO的公关活动正进行得如火如荼，媒体上也有很多关于在线商务的讨论。"
     },
     {
       "original": "At the time there might have been thirty actual stores on the Web, all made by hand. If there were going to be a lot of online stores, there would need to be software for making them, so we decided to write some.For the first week or so we intended to make this an ordinary desktop application.",
-      "translated": "[待翻译] At the time there might have been thirty actual st..."
+      "translated": "当时网上可能只有三十家真正的商店，都是手工制作的。如果要有很多网上商店，就需要有制作它们的软件，所以我们决定编写一些。在最初的几天里，我们打算把它做成一个普通的桌面应用程序。"
     },
     {
       "original": "Then one day we had the idea of making the software run on our Web server, using the browser as an interface. We tried rewriting the software to work over the Web, and it was clear that this was the way to go.",
-      "translated": "[待翻译] Then one day we had the idea of making the softwar..."
+      "translated": "后来有一天，我们有了一个想法，让软件在我们的Web服务器上运行，使用浏览器作为界面。我们尝试将软件改写为通过网络运行，很明显，这是正确的方向。"
     },
     {
       "original": "If we wrote our software to run on the server, it would be a lot easier for the users and for us as well.This turned out to be a good plan. Now, as Yahoo Store, this software is the most popular online store builder, with about 14,000 users.When we started Viaweb, hardly anyone understood what we meant when we said that the software ran on the server.",
-      "translated": "[待翻译] If we wrote our software to run on the server, it ..."
+      "translated": "如果我们把软件编写成在服务器上运行，那么对用户和对我们自己都会方便很多。事实证明这是一个好主意。现在，作为雅虎商店，这款软件已经成为最受欢迎的在线商店构建工具，拥有大约14,000名用户。当我们开始创建Viaweb时，几乎没有人理解我们所说的软件在服务器上运行是什么意思。"
     },
     {
       "original": "It was not until Hotmail was launched a year later that people started to get it. Now everyone knows that this is a valid approach. There is a name now for what we were: an Application Service Provider, or ASP.I think that a lot of the next generation of software will be written on this model.",
-      "translated": "[待翻译] It was not until Hotmail was launched a year later..."
+      "translated": "直到 Hotmail 在一年后推出，人们才开始理解这一点。现在，大家都知道这是一种有效的做法。我们现在有了一个名称：应用服务提供商，或简称 ASP。我认为，下一代软件中的许多将基于这种模式进行开发。"
     },
     {
       "original": "Even Microsoft, who have the most to lose, seem to see the inevitablity of moving some things off the desktop. If software moves off the desktop and onto servers, it will mean a very different world for developers.",
-      "translated": "[待翻译] Even Microsoft, who have the most to lose, seem to..."
+      "translated": "即使是最有可能遭受损失的微软，似乎也看到了将某些东西从桌面转移到服务器的必然性。如果软件从桌面转移到服务器，这将意味着开发者面临一个截然不同的世界。"
     },
     {
       "original": "This article describes the surprising things we saw, as some of the first visitors to this new world. To the extent software does move onto servers, what I'm describing here is the future.The Next Thing?When we look back on the desktop software era, I think we'll marvel at the inconveniences people put up with, just as we marvel now at what early car owners put up with.",
-      "translated": "[待翻译] This article describes the surprising things we sa..."
+      "translated": "本文描述了我们作为首批访问这个新世界的人所看到的一些令人惊讶的事物。随着软件逐渐转移到服务器上，我在这里描述的正是未来。下一件大事？当我们回顾桌面软件时代时，我想我们会对人们所忍受的不便感到惊讶，就像我们现在对早期汽车车主所忍受的不便感到惊讶一样。"
     },
     {
       "original": "For the first twenty or thirty years, you had to be a car expert to own a car. But cars were such a big win that lots of people who weren't car experts wanted to have them as well.Computers are in this phase now.",
-      "translated": "[待翻译] For the first twenty or thirty years, you had to b..."
+      "translated": "在最初的二三十年里，拥有汽车需要是一个汽车专家。但汽车的好处显而易见，许多非汽车专家的人也想要拥有它们。现在，计算机正处于这个阶段。"
     },
     {
       "original": "When you own a desktop computer, you end up learning a lot more than you wanted to know about what's happening inside it. But more than half the households in the US own one. My mother has a computer that she uses for email and for keeping accounts.",
-      "translated": "[待翻译] When you own a desktop computer, you end up learni..."
+      "translated": "[翻译失败] When you own a desktop computer, you end up learni..."
     },
     {
       "original": "About a year ago she was alarmed to receive a letter from Apple, offering her a discount on a new version of the operating system. There's something wrong when a sixty-five year old woman who wants to use a computer for email and accounts has to think about installing new operating systems.",
-      "translated": "[待翻译] About a year ago she was alarmed to receive a lett..."
+      "translated": "大约一年前，她收到苹果公司的一封信，提供她在新版本操作系统上的折扣，这让她感到震惊。当一位六十五岁的老太太，只想用电脑收发邮件和处理账目，却还要考虑安装新的操作系统时，这显然是有问题的。"
     },
     {
       "original": "Ordinary users shouldn't even know the words \"operating system,\" much less \"device driver\" or \"patch.\"There is now another way to deliver software that will save users from becoming system administrators.",
-      "translated": "[待翻译] Ordinary users shouldn't even know the words \"oper..."
+      "translated": "普通用户甚至不应该知道“操作系统”这个词，更不用说“设备驱动程序”或“补丁”了。现在有一种新的软件交付方式，可以避免用户成为系统管理员。"
     },
     {
       "original": "Web-based applications are programs that run on Web servers and use Web pages as the user interface. For the average user this new kind of software will be easier, cheaper, more mobile, more reliable, and often more powerful than desktop software.With Web-based software, most users won't have to think about anything except the applications they use.",
-      "translated": "[待翻译] Web-based applications are programs that run on We..."
+      "translated": "基于网络的应用程序是在网络服务器上运行并使用网页作为用户界面的程序。对于普通用户而言，这种新型软件将比桌面软件更容易使用、价格更便宜、更便携、更可靠，而且通常功能更强大。使用基于网络的软件，大多数用户只需关注他们使用的应用程序即可。"
     },
     {
       "original": "All the messy, changing stuff will be sitting on a server somewhere, maintained by the kind of people who are good at that kind of thing. And so you won't ordinarily need a computer, per se, to use software.",
-      "translated": "[待翻译] All the messy, changing stuff will be sitting on a..."
+      "translated": "所有杂乱无章、不断变化的内容都会存放在某个服务器上，由擅长此类工作的人员进行维护。因此，您通常不需要专门使用计算机来使用软件。"
     },
     {
       "original": "All you'll need will be something with a keyboard, a screen, and a Web browser. Maybe it will have wireless Internet access. Maybe it will also be your cell phone. Whatever it is, it will be consumer electronics: something that costs about $200, and that people choose mostly based on how the case looks.",
-      "translated": "[待翻译] All you'll need will be something with a keyboard,..."
+      "translated": "你所需要的只是一台带有键盘、屏幕和网络浏览器的设备。或许它还会有无线网络连接。或许它就是你的手机。不管是什么，它都将是消费电子产品：价格大约200美元，人们主要根据外壳的外观来选择。"
     },
     {
       "original": "You'll pay more for Internet services than you do for the hardware, just as you do now with telephones. [1]It will take about a tenth of a second for a click to get to the server and back, so users of heavily interactive software, like Photoshop, will still want to have the computations happening on the desktop.",
-      "translated": "[待翻译] You'll pay more for Internet services than you do ..."
+      "translated": "你为互联网服务支付的费用将比硬件多，就像你现在使用电话一样。点击到达服务器再返回将需要大约十分之一秒的时间，因此像使用Photoshop这样的高度交互式软件的用户，仍然希望计算任务在桌面端完成。"
     },
     {
       "original": "But if you look at the kind of things most people use computers for, a tenth of a second latency would not be a problem. My mother doesn't really need a desktop computer, and there are a lot of people like her.The Win for UsersNear my house there is a car with a bumper sticker that reads \"death before inconvenience.\" Most people, most of the time, will take whatever choice requires least work.",
-      "translated": "[待翻译] But if you look at the kind of things most people ..."
+      "translated": "但如果你看看大多数人使用计算机做的事情，十分之一秒的延迟根本不是问题。我母亲其实并不需要一台台式电脑，像她这样的人有很多。用户的选择靠近我家有一辆汽车，车尾贴着一张标语：“宁死勿累”。大多数时候，大多数人都会选择最省事的选项。"
     },
     {
       "original": "If Web-based software wins, it will be because it's more convenient. And it looks as if it will be, for users and developers both.To use a purely Web-based application, all you need is a browser connected to the Internet.",
-      "translated": "[待翻译] If Web-based software wins, it will be because it'..."
+      "translated": "如果基于Web的软件能够获胜，那将是因为它更加便捷。而从目前来看，无论是对用户还是开发者而言，它都有望实现这一点。要使用纯Web应用程序，你只需要一个连接到互联网的浏览器。"
     },
     {
       "original": "So you can use a Web-based application anywhere. When you install software on your desktop computer, you can only use it on that computer. Worse still, your files are trapped on that computer. The inconvenience of this model becomes more and more evident as people get used to networks.The thin end of the wedge here was Web-based email.",
-      "translated": "[待翻译] So you can use a Web-based application anywhere. W..."
+      "translated": "因此，你可以随时随地使用基于Web的应用程序。而当你在台式电脑上安装软件时，只能在那台电脑上使用。更糟糕的是，你的文件会被困在那台电脑上。随着人们越来越习惯于网络，这种模式的不便之处变得越来越明显。这里的一个切入点是基于Web的电子邮件。"
     },
     {
       "original": "Millions of people now realize that you should have access to email messages no matter where you are. And if you can see your email, why not your calendar? If you can discuss a document with your colleagues, why can't you edit it?",
-      "translated": "[待翻译] Millions of people now realize that you should hav..."
+      "translated": "现在，数以百万计的人意识到，无论你身在何处，都应该能够访问电子邮件。既然你能查看电子邮件，为什么不能查看日历呢？既然你能与同事讨论文件，为什么不能编辑它呢？"
     },
     {
       "original": "Why should any of your data be trapped on some computer sitting on a faraway desk?The whole idea of \"your computer\" is going away, and being replaced with \"your data.\" You should be able to get at your data from any computer.",
-      "translated": "[待翻译] Why should any of your data be trapped on some com..."
+      "translated": "为什么你的数据要被困在远方桌面上的某台电脑里？“你的电脑”这一概念正在消失，取而代之的是“你的数据”。你应该能够从任何一台电脑访问你的数据。"
     },
     {
       "original": "Or rather, any client, and a client doesn't have to be a computer.Clients shouldn't store data; they should be like telephones. In fact they may become telephones, or vice versa. And as clients get smaller, you have another reason not to keep your data on them: something you carry around with you can be lost or stolen.",
-      "translated": "[待翻译] Or rather, any client, and a client doesn't have t..."
+      "translated": "或者更准确地说，任何客户端，而客户端不一定是一台计算机。客户端不应该存储数据；它们应该像电话一样。事实上，它们可能会变成电话，或者反过来也一样。随着客户端变得越来越小，你又多了一个理由不在它们上面保存数据：随身携带的东西可能会丢失或被盗。"
     },
     {
       "original": "Leaving your PDA in a taxi is like a disk crash, except that your data is handed to someone else instead of being vaporized.With purely Web-based software, neither your data nor the applications are kept on the client.",
-      "translated": "[待翻译] Leaving your PDA in a taxi is like a disk crash, e..."
+      "translated": "把你的PDA忘在出租车里就像磁盘崩溃一样，只不过你的数据是交到了别人手里，而不是被销毁。使用纯基于Web的软件，既不会在客户端保存数据，也不会保存应用程序。"
     },
     {
       "original": "So you don't have to install anything to use it. And when there's no installation, you don't have to worry about installation going wrong. There can't be incompatibilities between the application and your operating system, because the software doesn't run on your operating system.Because it needs no installation, it will be easy, and common, to try Web-based software before you \"buy\" it.",
-      "translated": "[待翻译] So you don't have to install anything to use it. A..."
+      "translated": "因此，你无需安装任何东西即可使用它。没有安装过程，你就不用担心安装出错。应用程序和你的操作系统之间不会存在不兼容问题，因为软件并不在你的操作系统上运行。由于无需安装，试用基于Web的软件会变得简单而普遍，甚至在你“购买”之前。"
     },
     {
       "original": "You should expect to be able to test-drive any Web-based application for free, just by going to the site where it's offered. At Viaweb our whole site was like a big arrow pointing users to the test drive.After trying the demo, signing up for the service should require nothing more than filling out a brief form (the briefer the better).",
-      "translated": "[待翻译] You should expect to be able to test-drive any Web..."
+      "translated": "你应该能够免费试用任何基于Web的应用程序，只需访问提供该应用的网站。在Viaweb，我们的整个网站就像是一个大箭头，指引用户进行试用。试用演示后，注册服务不应该比填写一个简短的表格更麻烦（越简短越好）。"
     },
     {
       "original": "And that should be the last work the user has to do. With Web-based software, you should get new releases without paying extra, or doing any work, or possibly even knowing about it.Upgrades won't be the big shocks they are now.",
-      "translated": "[待翻译] And that should be the last work the user has to d..."
+      "translated": "这应该是用户需要做的最后一项工作。使用基于Web的软件，您应该可以免费获得新版本，无需额外付费，无需做任何工作，甚至可能完全不知道更新的事情。升级将不再像现在这样令人震惊。"
     },
     {
       "original": "Over time applications will quietly grow more powerful. This will take some effort on the part of the developers. They will have to design software so that it can be updated without confusing the users.",
-      "translated": "[待翻译] Over time applications will quietly grow more powe..."
+      "translated": "随着时间的推移，应用程序将悄无声息地变得更为强大。这需要开发人员付出一些努力。他们必须设计软件，使其能够在不使用户感到困惑的情况下进行更新。"
     },
     {
       "original": "That's a new problem, but there are ways to solve it.With Web-based applications, everyone uses the same version, and bugs can be fixed as soon as they're discovered. So Web-based software should have far fewer bugs than desktop software.",
-      "translated": "[待翻译] That's a new problem, but there are ways to solve ..."
+      "translated": "这是一个新问题，但有解决方法。对于基于Web的应用程序，每个人使用的是同一个版本，一旦发现错误可以立即修复。因此，基于Web的软件应该比桌面软件有更少的错误。"
     },
     {
       "original": "At Viaweb, I doubt we ever had ten known bugs at any one time. That's orders of magnitude better than desktop software.Web-based applications can be used by several people at the same time. This is an obvious win for collaborative applications, but I bet users will start to want this in most applications once they realize it's possible.",
-      "translated": "[待翻译] At Viaweb, I doubt we ever had ten known bugs at a..."
+      "translated": "在Viaweb，我怀疑我们任何时候已知的bug数量从未超过十个。这比桌面软件要好上几个数量级。基于Web的应用程序可以同时被多个人使用。这对协作应用程序来说显然是个优势，但我敢打赌，一旦用户意识到这是可能的，他们就会希望大多数应用程序都能实现这一点。"
     },
     {
       "original": "It will often be useful to let two people edit the same document, for example. Viaweb let multiple users edit a site simultaneously, more because that was the right way to write the software than because we expected users to want to, but it turned out that many did.When you use a Web-based application, your data will be safer.",
-      "translated": "[待翻译] It will often be useful to let two people edit the..."
+      "translated": "让两个人同时编辑同一个文档通常会很有用，例如。Viaweb 允许多个用户同时编辑一个网站，更多的是因为这是编写软件的正确方式，而不是因为我们预期用户会有这样的需求，但结果发现许多用户确实有这样的需求。当你使用基于 Web 的应用程序时，你的数据会更安全。"
     },
     {
       "original": "Disk crashes won't be a thing of the past, but users won't hear about them anymore. They'll happen within server farms. And companies offering Web-based applications will actually do backups-- not only because they'll have real system administrators worrying about such things, but because an ASP that does lose people's data will be in big, big trouble.",
-      "translated": "[待翻译] Disk crashes won't be a thing of the past, but use..."
+      "translated": "磁盘崩溃不会成为历史，但用户将不再听说这些事情。它们将在服务器农场内部发生。而提供基于Web的应用程序的公司将实际上会进行备份——不仅因为它们会有真正的系统管理员来关注这些问题，还因为任何丢失用户数据的ASP都将面临巨大的麻烦。"
     },
     {
       "original": "When people lose their own data in a disk crash, they can't get that mad, because they only have themselves to be mad at. When a company loses their data for them, they'll get a lot madder.Finally, Web-based software should be less vulnerable to viruses.",
-      "translated": "[待翻译] When people lose their own data in a disk crash, t..."
+      "translated": "当人们因为硬盘故障丢失了自己的数据时，他们不会太生气，因为他们只能生自己的气。而当公司为他们丢失了数据时，他们就会非常生气。最后，基于网页的软件应该更不容易受到病毒的侵袭。"
     },
     {
       "original": "If the client doesn't run anything except a browser, there's less chance of running viruses, and no data locally to damage. And a program that attacked the servers themselves should find them very well defended.",
-      "translated": "[待翻译] If the client doesn't run anything except a browse..."
+      "translated": "如果客户端除了浏览器之外不运行任何其他程序，那么运行病毒的机会就会减少，而且本地没有数据可以被破坏。而试图攻击服务器本身的程序应该会发现服务器防御得非常严密。"
     },
     {
       "original": "[2]For users, Web-based software will be less stressful. I think if you looked inside the average Windows user you'd find a huge and pretty much untapped desire for software meeting that description.",
-      "translated": "[待翻译] [2]For users, Web-based software will be less stre..."
+      "translated": "对于用户来说，基于网络的软件将减少压力。我认为，如果你深入了解普通的Windows用户，你会发现他们对符合这种描述的软件有着巨大且几乎未被开发的需求。"
     },
     {
       "original": "Unleashed, it could be a powerful force.City of CodeTo developers, the most conspicuous difference between Web-based and desktop software is that a Web-based application is not a single piece of code.",
-      "translated": "[待翻译] Unleashed, it could be a powerful force.City of Co..."
+      "translated": "一旦释放，它将成为一股强大的力量。代码之城对开发者而言，基于Web的软件与桌面软件最显著的区别在于，基于Web的应用程序并不是单一的代码块。"
     },
     {
       "original": "It will be a collection of programs of different types rather than a single big binary. And so designing Web-based software is like desiging a city rather than a building: as well as buildings you need roads, street signs, utilities, police and fire departments, and plans for both growth and various kinds of disasters.At Viaweb, software included fairly big applications that users talked to directly, programs that those programs used, programs that ran constantly in the background looking for problems, programs that tried to restart things if they broke, programs that ran occasionally to compile statistics or build indexes for searches, programs we ran explicitly to garbage-collect resources or to move or restore data, programs that pretended to be users (to measure performance or expose bugs), programs for diagnosing network troubles, programs for doing backups, interfaces to outside services, software that drove an impressive collection of dials displaying real-time server statistics (a hit with visitors, but indispensable for us too), modifications (including bug fixes) to open-source software, and a great many configuration files and settings.",
-      "translated": "[待翻译] It will be a collection of programs of different t..."
+      "translated": "这将是一系列不同类型的程序集合，而不是单一的大二进制文件。因此，设计基于Web的软件就像设计一座城市，而不仅仅是一座建筑：除了建筑本身，还需要道路、路标、公共设施、警察和消防部门，以及针对增长和各种灾难的规划。在Viaweb，软件包括用户直接交互的相对较大的应用程序、这些应用程序使用的程序、持续在后台运行以查找问题的程序、如果系统出故障会尝试重启的程序、偶尔运行以编译统计数据或构建搜索索引的程序、我们明确运行以回收资源或移动和恢复数据的程序、假装是用户（以衡量性能或暴露错误）的程序、用于诊断网络问题的程序、用于备份的程序、与外部服务的接口、驱动令人印象深刻的仪表盘集合的软件（显示实时服务器统计信息，对访客来说很有吸引力，对我们来说也是必不可少的）、对开源软件的修改（包括错误修复）以及大量的配置文件和设置。"
     },
     {
       "original": "Trevor Blackwell wrote a spectacular program for moving stores to new servers across the country, without shutting them down, after we were bought by Yahoo. Programs paged us, sent faxes and email to users, conducted transactions with credit card processors, and talked to one another through sockets, pipes, http requests, ssh, udp packets, shared memory, and files.",
-      "translated": "[待翻译] Trevor Blackwell wrote a spectacular program for m..."
+      "translated": "特雷弗·布莱克威尔编写了一个惊人的程序，用于在全国范围内将商店迁移到新服务器，而无需关闭它们，这发生在我们被雅虎收购之后。这些程序会向我们发送分页信息，向用户发送传真和电子邮件，与信用卡处理器进行交易，并通过套接字、管道、HTTP请求、SSH、UDP数据包、共享内存和文件相互通信。"
     },
     {
       "original": "Some of Viaweb even consisted of the absence of programs, since one of the keys to Unix security is not to run unnecessary utilities that people might use to break into your servers.It did not end with software.",
-      "translated": "[待翻译] Some of Viaweb even consisted of the absence of pr..."
+      "translated": "Viaweb 的一部分甚至是由缺少程序构成的，因为 Unix 安全性的一个关键在于不运行可能被用来入侵服务器的不必要的工具。这并不止于软件。"
     },
     {
       "original": "We spent a lot of time thinking about server configurations. We built the servers ourselves, from components-- partly to save money, and partly to get exactly what we wanted. We had to think about whether our upstream ISP had fast enough connections to all the backbones.",
-      "translated": "[待翻译] We spent a lot of time thinking about server confi..."
+      "translated": "我们花了很多时间考虑服务器配置。我们自己组装服务器，从各个部件开始——部分是为了节省成本，部分是为了获得我们想要的配置。我们不得不考虑我们的上行ISP是否有足够快的连接到所有主干网。"
     },
     {
       "original": "We serially dated RAID suppliers.But hardware is not just something to worry about. When you control it you can do more for users. With a desktop application, you can specify certain minimum hardware, but you can't add more.",
-      "translated": "[待翻译] We serially dated RAID suppliers.But hardware is n..."
+      "translated": "我们陆续考察了RAID供应商。但硬件不仅是一个需要担心的问题。当你掌控它时，你可以为用户做更多的事情。对于桌面应用，你可以指定某些最低硬件要求，但你无法添加更多。"
     },
     {
       "original": "If you administer the servers, you can in one step enable all your users to page people, or send faxes, or send commands by phone, or process credit cards, etc, just by installing the relevant hardware.",
-      "translated": "[待翻译] If you administer the servers, you can in one step..."
+      "translated": "如果您管理服务器，只需一步即可通过安装相关硬件来启用所有用户进行寻呼、发送传真、通过电话发送命令或处理信用卡等操作。"
     },
     {
       "original": "We always looked for new ways to add features with hardware, not just because it pleased users, but also as a way to distinguish ourselves from competitors who (either because they sold desktop software, or resold Web-based applications through ISPs) didn't have direct control over the hardware.Because the software in a Web-based application will be a collection of programs rather than a single binary, it can be written in any number of different languages.",
-      "translated": "[待翻译] We always looked for new ways to add features with..."
+      "translated": "我们一直在寻找通过硬件添加新功能的方法，不仅仅是因为这会让用户满意，也是为了与竞争对手区分开来。这些竞争对手要么销售桌面软件，要么通过互联网服务提供商重新销售基于网络的应用程序，因此他们无法直接控制硬件。由于基于网络的应用程序中的软件是由一系列程序而非单一的二进制文件组成，因此可以使用多种不同的编程语言来编写。"
     },
     {
       "original": "When you're writing desktop software, you're practically forced to write the application in the same language as the underlying operating system-- meaning C and C++. And so these languages (especially among nontechnical people like managers and VCs) got to be considered as the languages for \"serious\" software development.",
-      "translated": "[待翻译] When you're writing desktop software, you're pract..."
+      "translated": "当你编写桌面软件时，几乎被迫使用与底层操作系统相同的语言来编写应用程序——这意味着使用C和C++。因此，这些语言（尤其是在非技术人员如经理和风险投资家看来）被认为用于“严肃”的软件开发。"
     },
     {
       "original": "But that was just an artifact of the way desktop software had to be delivered. For server-based software you can use any language you want. [3] Today a lot of the top hackers are using languages far removed from C and C++: Perl, Python, and even Lisp.With server-based software, no one can tell you what language to use, because you control the whole system, right down to the hardware.",
-      "translated": "[待翻译] But that was just an artifact of the way desktop s..."
+      "translated": "但这只是桌面软件分发方式的一个产物。对于基于服务器的软件，你可以使用任何你想用的语言。[3] 如今，许多顶尖的黑客使用的语言与C和C++相去甚远：Perl、Python，甚至Lisp。在基于服务器的软件中，没有人能告诉你该使用哪种语言，因为你控制着整个系统，一直到底层的硬件。"
     },
     {
       "original": "Different languages are good for different tasks. You can use whichever is best for each. And when you have competitors, \"you can\" means \"you must\" (we'll return to this later), because if you don't take advantage of this possibility, your competitors will.Most of our competitors used C and C++, and this made their software visibly inferior because (among other things), they had no way around the statelessness of CGI scripts.",
-      "translated": "[待翻译] Different languages are good for different tasks. ..."
+      "translated": "不同的语言适合不同的任务。你可以使用最适合每项任务的语言。而当你有竞争对手时，“你可以”就意味着“你必须”（我们稍后再回到这一点），因为如果你不利用这种可能性，你的竞争对手会这样做。我们的大多数竞争对手使用C和C++，这使得他们的软件明显逊色，因为（除了其他原因外）他们无法解决CGI脚本的无状态性问题。"
     },
     {
       "original": "If you were going to change something, all the changes had to happen on one page, with an Update button at the bottom. As I've written elsewhere, by using Lisp, which many people still consider a research language, we could make the Viaweb editor behave more like desktop software.ReleasesOne of the most important changes in this new world is the way you do releases.",
-      "translated": "[待翻译] If you were going to change something, all the cha..."
+      "translated": "如果你要进行更改，所有的更改都必须在同一个页面上完成，并在页面底部设置一个“更新”按钮。正如我在其他地方所写的，通过使用许多人仍然认为是研究语言的 Lisp，我们能够让 Viaweb 编辑器的行为更像桌面软件。发布方式在这个新世界中最重要的变化之一就是你如何进行发布。"
     },
     {
       "original": "In the desktop software business, doing a release is a huge trauma, in which the whole company sweats and strains to push out a single, giant piece of code. Obvious comparisons suggest themselves, both to the process and the resulting product.With server-based software, you can make changes almost as you would in a program you were writing for yourself.",
-      "translated": "[待翻译] In the desktop software business, doing a release ..."
+      "translated": "在桌面软件业务中，发布新版本是一件极其耗时耗力的事情，整个公司都会全力以赴，推出一个庞大而复杂的代码包。这个过程和最终产品的性质，很容易让人联想到某些明显的类比。而对于基于服务器的软件，你可以几乎像为自己编写程序那样随时进行修改。"
     },
     {
       "original": "You release software as a series of incremental changes instead of an occasional big explosion. A typical desktop software company might do one or two releases a year. At Viaweb we often did three to five releases a day.When you switch to this new model, you realize how much software development is affected by the way it is released.",
-      "translated": "[待翻译] You release software as a series of incremental ch..."
+      "translated": "你以一系列增量变更的方式发布软件，而不是偶尔的大规模更新。典型的桌面软件公司一年可能只发布一到两次。而在Viaweb，我们经常一天发布三到五次。当你转向这种新模式时，你会意识到软件开发在多大程度上受到发布方式的影响。"
     },
     {
       "original": "Many of the nastiest problems you see in the desktop software business are due to catastrophic nature of releases.When you release only one new version a year, you tend to deal with bugs wholesale. Some time before the release date you assemble a new version in which half the code has been torn out and replaced, introducing countless bugs.",
-      "translated": "[待翻译] Many of the nastiest problems you see in the deskt..."
+      "translated": "桌面软件业务中出现的许多最棘手的问题，都是由于发布版本的灾难性本质造成的。当你每年只发布一个新版本时，往往会对漏洞采取大规模处理。在发布日期之前的一段时间，你会组装一个新版本，其中一半的代码被移除并替换，从而引入了无数的漏洞。"
     },
     {
       "original": "Then a squad of QA people step in and start counting them, and the programmers work down the list, fixing them. They do not generally get to the end of the list, and indeed, no one is sure where the end is.",
-      "translated": "[待翻译] Then a squad of QA people step in and start counti..."
+      "translated": "然后，一组质量保证人员介入，开始统计这些问题，程序员则按照列表逐一修复。通常他们无法修复完所有问题，事实上，没有人知道这个列表的尽头在哪里。"
     },
     {
       "original": "It's like fishing rubble out of a pond. You never really know what's happening inside the software. At best you end up with a statistical sort of correctness.With server-based software, most of the change is small and incremental.",
-      "translated": "[待翻译] It's like fishing rubble out of a pond. You never ..."
+      "translated": "这就像从池塘里捞碎石。你永远不知道软件内部到底发生了什么。最多你只能得到一种统计意义上的正确性。对于基于服务器的软件，大多数变化都是小的和渐进的。"
     },
     {
       "original": "That in itself is less likely to introduce bugs. It also means you know what to test most carefully when you're about to release software: the last thing you changed. You end up with a much firmer grip on the code.",
-      "translated": "[待翻译] That in itself is less likely to introduce bugs. I..."
+      "translated": "这本身就不大可能引入错误。这也意味着当你准备发布软件时，你知道需要最仔细测试的是什么：你最后更改的部分。这样你对代码的掌控会更加牢固。"
     },
     {
       "original": "As a general rule, you do know what's happening inside it. You don't have the source code memorized, of course, but when you read the source you do it like a pilot scanning the instrument panel, not like a detective trying to unravel some mystery.Desktop software breeds a certain fatalism about bugs.",
-      "translated": "[待翻译] As a general rule, you do know what's happening in..."
+      "translated": "一般来说，你确实知道它内部发生了什么。当然，你不会把源代码背得滚瓜烂熟，但当你阅读源代码时，就像飞行员扫视仪表盘一样，而不是像侦探试图解开某个谜团那样。桌面软件培养了一种对漏洞的宿命论态度。"
     },
     {
       "original": "You know that you're shipping something loaded with bugs, and you've even set up mechanisms to compensate for it (e.g. patch releases). So why worry about a few more? Soon you're releasing whole features you know are broken.",
-      "translated": "[待翻译] You know that you're shipping something loaded wit..."
+      "translated": "你知道你发布的产品充满了bug，并且你甚至已经建立了补偿机制（例如发布补丁）。那么，为什么还要为多出的几个bug担心呢？很快，你就会发布整个你明知有问题的功能。"
     },
     {
       "original": "Apple did this earlier this year. They felt under pressure to release their new OS, whose release date had already slipped four times, but some of the software (support for CDs and DVDs) wasn't ready.",
-      "translated": "[待翻译] Apple did this earlier this year. They felt under ..."
+      "translated": "苹果在今年早些时候就是这样做的。他们感到压力很大，必须发布新的操作系统，该系统的发布日期已经推迟了四次，但部分软件（对CD和DVD的支持）尚未准备就绪。"
     },
     {
       "original": "The solution? They released the OS without the unfinished parts, and users will have to install them later.With Web-based software, you never have to release software before it works, and you can release it as soon as it does work.The industry veteran may be thinking, it's a fine-sounding idea to say that you never have to release software before it works, but what happens when you've promised to deliver a new version of your software by a certain date?",
-      "translated": "[待翻译] The solution? They released the OS without the unf..."
+      "translated": "解决方案？他们发布了操作系统，但去掉了未完成的部分，用户之后需要自行安装。对于基于网络的软件，你无需在软件尚未完善时就发布，而可以在软件真正可用时再发布。行业老手可能会想，说在软件可用前从不发布听起来是个好主意，但如果已经承诺在某个日期前交付新版本的软件，那该怎么办？"
     },
     {
       "original": "With Web-based software, you wouldn't make such a promise, because there are no versions. Your software changes gradually and continuously. Some changes might be bigger than others, but the idea of versions just doesn't naturally fit onto Web-based software.If anyone remembers Viaweb this might sound odd, because we were always announcing new versions.",
-      "translated": "[待翻译] With Web-based software, you wouldn't make such a ..."
+      "translated": "使用基于Web的软件，你不会做出这样的承诺，因为不存在版本的概念。你的软件会逐渐且持续地变化。某些变化可能会比其他的变化更大，但版本的概念并不自然适用于基于Web的软件。如果有人还记得Viaweb，这听起来可能会有些奇怪，因为我们在不断宣布新版本。"
     },
     {
       "original": "This was done entirely for PR purposes. The trade press, we learned, thinks in version numbers. They will give you major coverage for a major release, meaning a new first digit on the version number, and generally a paragraph at most for a point release, meaning a new digit after the decimal point.Some of our competitors were offering desktop software and actually had version numbers.",
-      "translated": "[待翻译] This was done entirely for PR purposes. The trade ..."
+      "translated": "这完全是出于公关目的。我们了解到，贸易媒体在思考时会关注版本号。对于主要版本的发布，即版本号的第一个数字发生变化，他们会给予大幅报道；而对于次要版本的发布，即小数点后的数字发生变化，他们通常最多只会写一段话。我们的一些竞争对手提供桌面软件，并且确实有版本号。"
     },
     {
       "original": "And for these releases, the mere fact of which seemed to us evidence of their backwardness, they would get all kinds of publicity. We didn't want to miss out, so we started giving version numbers to our software too.",
-      "translated": "[待翻译] And for these releases, the mere fact of which see..."
+      "translated": "而对于这些发布，它们的存在本身就似乎证明了他们的落后，他们却能获得各种宣传。我们不想错过机会，所以也开始给我们的软件加上版本号。"
     },
     {
       "original": "When we wanted some publicity, we'd make a list of all the features we'd added since the last \"release,\" stick a new version number on the software, and issue a press release saying that the new version was available immediately.",
-      "translated": "[待翻译] When we wanted some publicity, we'd make a list of..."
+      "translated": "当我们想要一些宣传时，我们会列出自上次“发布”以来添加的所有功能，给软件加上一个新的版本号，然后发布新闻稿，宣布新版本立即可用。"
     },
     {
       "original": "Amazingly, no one ever called us on it.By the time we were bought, we had done this three times, so we were on Version 4. Version 4.1 if I remember correctly. After Viaweb became Yahoo Store, there was no longer such a desperate need for publicity, so although the software continued to evolve, the whole idea of version numbers was quietly dropped.BugsThe other major technical advantage of Web-based software is that you can reproduce most bugs.",
-      "translated": "[待翻译] Amazingly, no one ever called us on it.By the time..."
+      "translated": "令人惊讶的是，从未有人对我们提出质疑。到我们被收购时，我们已经这样做了三次，所以我们在第四个版本。如果我没记错的话，应该是4.1版。自从Viaweb成为Yahoo Store后，对宣传的迫切需求已经不再那么强烈，因此尽管软件继续发展，版本号的概念却悄悄地被放弃了。错误\n另一个Web软件的主要技术优势是，你可以重现大多数错误。"
     },
     {
       "original": "You have the users' data right there on your disk. If someone breaks your software, you don't have to try to guess what's going on, as you would with desktop software: you should be able to reproduce the error while they're on the phone with you.",
-      "translated": "[待翻译] You have the users' data right there on your disk...."
+      "translated": "你手头的磁盘上就有用户的数据。如果有人破坏了你的软件，你不必像处理桌面软件那样去猜测发生了什么：你应该能够在他们打电话给你的时候重现错误。"
     },
     {
       "original": "You might even know about it already, if you have code for noticing errors built into your application.Web-based software gets used round the clock, so everything you do is immediately put through the wringer.",
-      "translated": "[待翻译] You might even know about it already, if you have ..."
+      "translated": "你可能已经知道了，如果你的应用程序中内置了错误检测代码。基于Web的软件是全天候使用的，所以你做的每一件事都会立即经受考验。"
     },
     {
       "original": "Bugs turn up quickly.Software companies are sometimes accused of letting the users debug their software. And that is just what I'm advocating. For Web-based software it's actually a good plan, because the bugs are fewer and transient.",
-      "translated": "[待翻译] Bugs turn up quickly.Software companies are someti..."
+      "translated": "漏洞很快就会出现。软件公司有时会被指责让用户来调试他们的软件。而这正是我所提倡的。对于基于网络的软件，这实际上是一个很好的策略，因为漏洞较少且通常是暂时的。"
     },
     {
       "original": "When you release software gradually you get far fewer bugs to start with. And when you can reproduce errors and release changes instantly, you can find and fix most bugs as soon as they appear. We never had enough bugs at any one time to bother with a formal bug-tracking system.You should test changes before you release them, of course, so no major bugs should get released.",
-      "translated": "[待翻译] When you release software gradually you get far fe..."
+      "translated": "当你逐步发布软件时，一开始出现的漏洞会少得多。而且，当你能够即时重现错误并发布更改时，可以在漏洞出现时立即发现并修复。我们任何时候都没有足够的漏洞需要使用正式的漏洞跟踪系统。当然，你应该在发布前测试更改，所以不应该有重大的漏洞被发布。"
     },
     {
       "original": "Those few that inevitably slip through will involve borderline cases and will only affect the few users that encounter them before someone calls in to complain. As long as you fix bugs right away, the net effect, for the average user, is far fewer bugs.",
-      "translated": "[待翻译] Those few that inevitably slip through will involv..."
+      "translated": "那些不可避免漏网的问题通常涉及边缘案例，只会影响在有人投诉前遇到这些问题的少数用户。只要你立即修复漏洞，对于普通用户来说，总体效果是遇到的漏洞要少得多。"
     },
     {
       "original": "I doubt the average Viaweb user ever saw a bug.Fixing fresh bugs is easier than fixing old ones. It's usually fairly quick to find a bug in code you just wrote. When it turns up you often know what's wrong before you even look at the source, because you were already worrying about it subconsciously.",
-      "translated": "[待翻译] I doubt the average Viaweb user ever saw a bug.Fix..."
+      "translated": "我怀疑普通的Viaweb用户从未见过bug。修复新出现的bug比修复旧的bug要容易。通常，在你刚刚编写的代码中找到一个bug是相当快的。当它出现时，你往往在查看源代码之前就已经知道问题所在，因为你已经在潜意识中为此感到担忧。"
     },
     {
       "original": "Fixing a bug in something you wrote six months ago (the average case if you release once a year) is a lot more work. And since you don't understand the code as well, you're more likely to fix it in an ugly way, or even introduce more bugs.",
-      "translated": "[待翻译] Fixing a bug in something you wrote six months ago..."
+      "translated": "修复六个月前编写的代码中的一个错误（如果你每年发布一次，这是平均情况）要耗费更多精力。而且由于你对代码的理解不如以前，你更有可能以一种不优雅的方式修复它，甚至可能引入更多错误。"
     },
     {
       "original": "[4]When you catch bugs early, you also get fewer compound bugs. Compound bugs are two separate bugs that interact: you trip going downstairs, and when you reach for the handrail it comes off in your hand.",
-      "translated": "[待翻译] [4]When you catch bugs early, you also get fewer c..."
+      "translated": "当你及早发现错误时，复合错误也会减少。复合错误是指两个独立的错误相互作用：比如你下楼时绊倒了，而当你抓扶手时，扶手却从你手中脱落。"
     },
     {
       "original": "In software this kind of bug is the hardest to find, and also tends to have the worst consequences. [5] The traditional \"break everything and then filter out the bugs\" approach inherently yields a lot of compound bugs.",
-      "translated": "[待翻译] In software this kind of bug is the hardest to fin..."
+      "translated": "在软件中，这种错误是最难发现的，而且往往会导致最严重的后果。[5] 传统的“先破坏一切然后过滤出错误”的方法本质上会产生大量的复合错误。"
     },
     {
       "original": "And software that's released in a series of small changes inherently tends not to. The floors are constantly being swept clean of any loose objects that might later get stuck in something.It helps if you use a technique called functional programming.",
-      "translated": "[待翻译] And software that's released in a series of small ..."
+      "translated": "并且，以一系列小改动发布软件本质上不会导致问题积累。地板上的松散物品会被不断清扫，防止它们后来卡在某个地方。如果使用一种称为函数式编程的技术会更有帮助。"
     },
     {
       "original": "Functional programming means avoiding side-effects. It's something you're more likely to see in research papers than commercial software, but for Web-based applications it turns out to be really useful.",
-      "translated": "[待翻译] Functional programming means avoiding side-effects..."
+      "translated": "函数式编程意味着避免副作用。虽然你更可能在研究论文中看到它，而不是在商业软件中，但对于基于Web的应用程序而言，它却非常有用。"
     },
     {
       "original": "It's hard to write entire programs as purely functional code, but you can write substantial chunks this way. It makes those parts of your software easier to test, because they have no state, and that is very convenient in a situation where you are constantly making and testing small modifications.",
-      "translated": "[待翻译] It's hard to write entire programs as purely funct..."
+      "translated": "很难将整个程序完全用纯函数式代码编写，但你可以用这种方式编写相当大的部分。这样做会使软件的这些部分更容易测试，因为它们没有状态，这在你不断进行和测试小修改的情况下非常方便。"
     },
     {
       "original": "I wrote much of Viaweb's editor in this style, and we made our scripting language, RTML, a purely functional language.People from the desktop software business will find this hard to credit, but at Viaweb bugs became almost a game.",
-      "translated": "[待翻译] I wrote much of Viaweb's editor in this style, and..."
+      "translated": "我用这种风格编写了Viaweb编辑器的大部分代码，并且我们把脚本语言RTML设计成一种纯函数式语言。来自桌面软件行业的人可能会觉得难以置信，但在Viaweb，bug几乎变成了一种游戏。"
     },
     {
       "original": "Since most released bugs involved borderline cases, the users who encountered them were likely to be advanced users, pushing the envelope. Advanced users are more forgiving about bugs, especially since you probably introduced them in the course of adding some feature they were asking for.",
-      "translated": "[待翻译] Since most released bugs involved borderline cases..."
+      "translated": "由于大多数已发布的错误涉及边缘情况，遇到这些错误的用户很可能是高级用户，他们在探索软件的极限。高级用户对错误更为宽容，尤其是当这些错误是在添加他们所要求的功能时引入的。"
     },
     {
       "original": "In fact, because bugs were rare and you had to be doing sophisticated things to see them, advanced users were often proud to catch one. They would call support in a spirit more of triumph than anger, as if they had scored points off us.SupportWhen you can reproduce errors, it changes your approach to customer support.",
-      "translated": "[待翻译] In fact, because bugs were rare and you had to be ..."
+      "translated": "事实上，由于这些错误很少见，而且只有在进行复杂操作时才会出现，高级用户往往以捕获一个错误为荣。他们打电话给技术支持时，更多的是带着一种胜利而非愤怒的情绪，好像他们从我们这里得到了分数一样。当你能够复现错误时，这会改变你处理客户支持的方式。"
     },
     {
       "original": "At most software companies, support is offered as a way to make customers feel better. They're either calling you about a known bug, or they're just doing something wrong and you have to figure out what.",
-      "translated": "[待翻译] At most software companies, support is offered as ..."
+      "translated": "在大多数软件公司中，支持服务的提供是为了让客户感觉更好。他们要么是因为已知的漏洞而联系你，要么就是他们自己操作不当，而你需要找出问题所在。"
     },
     {
       "original": "In either case there's not much you can learn from them. And so you tend to view support calls as a pain in the ass that you want to isolate from your developers as much as possible.This was not how things worked at Viaweb.",
-      "translated": "[待翻译] In either case there's not much you can learn from..."
+      "translated": "在这两种情况下，你都学不到多少东西。因此，你往往会将技术支持电话视为一种麻烦，尽可能地将其与开发人员隔离开来。但在 Viaweb，事情并不是这样的。"
     },
     {
       "original": "At Viaweb, support was free, because we wanted to hear from customers. If someone had a problem, we wanted to know about it right away so that we could reproduce the error and release a fix.So at Viaweb the developers were always in close contact with support.",
-      "translated": "[待翻译] At Viaweb, support was free, because we wanted to ..."
+      "translated": "在 Viaweb，支持是免费的，因为我们希望听到客户的反馈。如果有人遇到问题，我们希望立即得知，以便重现错误并发布修复。因此，在 Viaweb，开发者始终与支持团队保持密切联系。"
     },
     {
       "original": "The customer support people were about thirty feet away from the programmers, and knew that they could always interrupt anything with a report of a genuine bug. We would leave a board meeting to fix a serious bug.Our approach to support made everyone happier.",
-      "translated": "[待翻译] The customer support people were about thirty feet..."
+      "translated": "客户支持人员距离程序员大约三十英尺，他们知道如果发现真正的bug，可以随时中断任何工作进行报告。我们甚至会从董事会会议中抽身来修复严重的bug。我们的支持方式让每个人都更加满意。"
     },
     {
       "original": "The customers were delighted. Just imagine how it would feel to call a support line and be treated as someone bringing important news. The customer support people liked it because it meant they could help the users, instead of reading scripts to them.",
-      "translated": "[待翻译] The customers were delighted. Just imagine how it ..."
+      "translated": "客户们非常高兴。试想一下，当你打电话给客服热线时，对方把你当作带来重要消息的人对待，那会是一种怎样的感受。客服人员也很喜欢这种方式，因为这意味着他们可以真正帮助用户，而不是只是照本宣科。"
     },
     {
       "original": "And the programmers liked it because they could reproduce bugs instead of just hearing vague second-hand reports about them.Our policy of fixing bugs on the fly changed the relationship between customer support people and hackers.",
-      "translated": "[待翻译] And the programmers liked it because they could re..."
+      "translated": "程序员们喜欢这种方式，因为它们可以重现错误，而不仅仅是听到模糊的二手报告。我们即刻修复错误的政策改变了客服人员与黑客之间的关系。"
     },
     {
       "original": "At most software companies, support people are underpaid human shields, and hackers are little copies of God the Father, creators of the world. Whatever the procedure for reporting bugs, it is likely to be one-directional: support people who hear about bugs fill out some form that eventually gets passed on (possibly via QA) to programmers, who put it on their list of things to do.",
-      "translated": "[待翻译] At most software companies, support people are und..."
+      "translated": "在大多数软件公司，支持人员的薪水偏低，而黑客则被视为神的复制品，是世界的创造者。无论报告错误的程序如何，它很可能是单向的：听到错误的支持人员填写一些表格，这些表格最终会传递给（可能是通过质量保证部门）程序员，后者将其添加到待办事项列表中。"
     },
     {
       "original": "It was very different at Viaweb. Within a minute of hearing about a bug from a customer, the support people could be standing next to a programmer hearing him say \"Shit, you're right, it's a bug.\" It delighted the support people to hear that \"you're right\" from the hackers.",
-      "translated": "[待翻译] It was very different at Viaweb. Within a minute o..."
+      "translated": "在Viaweb，情况就大不相同了。顾客报告了一个错误后，支持人员在一分钟内就能站在程序员旁边，听到他说：“见鬼，你是对的，这是个bug。”支持人员听到黑客们说“你是对的”感到非常高兴。"
     },
     {
       "original": "They used to bring us bugs with the same expectant air as a cat bringing you a mouse it has just killed. It also made them more careful in judging the seriousness of a bug, because now their honor was on the line.After we were bought by Yahoo, the customer support people were moved far away from the programmers.",
-      "translated": "[待翻译] They used to bring us bugs with the same expectant..."
+      "translated": "他们过去带着 bug 来找我们时，那表情就像一只猫刚捉到老鼠拿来给你看一样。这也使得他们在判断 bug 的严重性时更加小心，因为现在他们的名誉已经押在了上面。自从我们被雅虎收购后，客户服务人员就被调到了离程序员很远的地方。"
     },
     {
       "original": "It was only then that we realized that they were effectively QA and to some extent marketing as well. In addition to catching bugs, they were the keepers of the knowledge of vaguer, buglike things, like features that confused users.",
-      "translated": "[待翻译] It was only then that we realized that they were e..."
+      "translated": "直到那时我们才意识到，他们实际上是负责质量保证的，而且在一定程度上还承担了市场推广的职责。除了捕捉漏洞，他们还负责了解那些更模糊、类似漏洞的问题，比如让用户感到困惑的功能。"
     },
     {
       "original": "[6] They were also a kind of proxy focus group; we could ask them which of two new features users wanted more, and they were always right.MoraleBeing able to release software immediately is a big motivator.",
-      "translated": "[待翻译] [6] They were also a kind of proxy focus group; we..."
+      "translated": "[6] 他们也像是一种代理焦点小组；我们可以询问他们用户更想要哪项新功能，而他们的判断总是正确的。士气能够立即发布软件是一个很大的激励。"
     },
     {
       "original": "Often as I was walking to work I would think of some change I wanted to make to the software, and do it that day. This worked for bigger features as well. Even if something was going to take two weeks to write (few projects took longer), I knew I could see the effect in the software as soon as it was done.If I'd had to wait a year for the next release, I would have shelved most of these ideas, for a while at least.",
-      "translated": "[待翻译] Often as I was walking to work I would think of so..."
+      "translated": "经常在我去上班的路上，我会想到一些想要对软件做出的改动，并在当天就实施。这种方法对较大的功能改进也同样有效。即使某个项目需要两周的时间来完成（很少有项目会更长），我知道一旦完成就能立即在软件中看到效果。如果我不得不等待一年才能等到下一个版本发布，我可能会把这些想法搁置一段时间。"
     },
     {
       "original": "The thing about ideas, though, is that they lead to more ideas. Have you ever noticed that when you sit down to write something, half the ideas that end up in it are ones you thought of while writing it?",
-      "translated": "[待翻译] The thing about ideas, though, is that they lead t..."
+      "translated": "关于想法的一点是，它们会引出更多的想法。你是否曾经注意到，当你坐下来写东西时，最终写进去的一半想法都是在写作过程中突然想到的？"
     },
     {
       "original": "The same thing happens with software. Working to implement one idea gives you more ideas. So shelving an idea costs you not only that delay in implementing it, but also all the ideas that implementing it would have led to.",
-      "translated": "[待翻译] The same thing happens with software. Working to i..."
+      "translated": "同样的事情也发生在软件开发上。着手实现一个想法会给你带来更多的想法。因此，搁置一个想法不仅会导致其实现的延迟，还会失去因其实现而可能产生的所有其他想法。"
     },
     {
       "original": "In fact, shelving an idea probably even inhibits new ideas: as you start to think of some new feature, you catch sight of the shelf and think \"but I already have a lot of new things I want to do for the next release.\"What big companies do instead of implementing features is plan them.",
-      "translated": "[待翻译] In fact, shelving an idea probably even inhibits n..."
+      "translated": "事实上，搁置一个想法可能甚至会抑制新想法的产生：当你开始思考某个新功能时，你看到那个搁架，就会想“但我已经有很多想要在下一个版本中实现的新东西了。”大型公司所做的不是实现这些功能，而是对它们进行规划。"
     },
     {
       "original": "At Viaweb we sometimes ran into trouble on this account. Investors and analysts would ask us what we had planned for the future. The truthful answer would have been, we didn't have any plans. We had general ideas about things we wanted to improve, but if we knew how we would have done it already.",
-      "translated": "[待翻译] At Viaweb we sometimes ran into trouble on this ac..."
+      "translated": "在Viaweb，我们有时会因为这个问题遇到麻烦。投资者和分析师会问我们对未来有什么计划。而真实的答案是，我们没有任何计划。我们对想要改进的一些事情有一些大致的想法，但如果知道怎么做的话，我们早就已经实施了。"
     },
     {
       "original": "What were we going to do in the next six months? Whatever looked like the biggest win. I don't know if I ever dared give this answer, but that was the truth. Plans are just another word for ideas on the shelf.",
-      "translated": "[待翻译] What were we going to do in the next six months? W..."
+      "translated": "我们接下来六个月打算做什么？无论看起来最有成效的事情是什么。我不知道我是否有勇气给出这个答案，但这是事实。计划不过是束之高阁的想法的另一种说法。"
     },
     {
       "original": "When we thought of good ideas, we implemented them.At Viaweb, as at many software companies, most code had one definite owner. But when you owned something you really owned it: no one except the owner of a piece of software had to approve (or even know about) a release.",
-      "translated": "[待翻译] When we thought of good ideas, we implemented them..."
+      "translated": "当我们想到好主意时，我们就去实施。在Viaweb，就像在许多软件公司一样，大多数代码都有一个明确的所有者。但当你拥有某样东西时，你是真正拥有它：除了软件的所有者之外，没有人需要批准（甚至知道）一个发布的版本。"
     },
     {
       "original": "There was no protection against breakage except the fear of looking like an idiot to one's peers, and that was more than enough. I may have given the impression that we just blithely plowed forward writing code.",
-      "translated": "[待翻译] There was no protection against breakage except th..."
+      "translated": "除了害怕在同龄人面前显得像个傻瓜外，没有其他防止出错的保护措施，而这一点已经足够了。我可能给人留下了我们只是轻率地往前编写代码的印象。"
     },
     {
       "original": "We did go fast, but we thought very carefully before we released software onto those servers. And paying attention is more important to reliability than moving slowly. Because he pays close attention, a Navy pilot can land a 40,000 lb.",
-      "translated": "[待翻译] We did go fast, but we thought very carefully befo..."
+      "translated": "我们确实进展迅速，但在将软件发布到那些服务器之前，我们非常谨慎地思考。关注细节对于可靠性来说比行动缓慢更为重要。因为海军飞行员高度专注，他可以驾驶重达40,000磅的飞机安全着陆。"
     },
     {
       "original": "aircraft at 140 miles per hour on a pitching carrier deck, at night, more safely than the average teenager can cut a bagel.This way of writing software is a double-edged sword of course. It works a lot better for a small team of good, trusted programmers than it would for a big company of mediocre ones, where bad ideas are caught by committees instead of the people that had them.Brooks in ReverseFortunately, Web-based software does require fewer programmers.",
-      "translated": "[待翻译] aircraft at 140 miles per hour on a pitching carri..."
+      "translated": "在颠簸的航母甲板上，以每小时140英里的速度，在夜晚，比普通青少年切面包圈还要安全。当然，这种编写软件的方式是一把双刃剑。对于一小群优秀且值得信赖的程序员来说，这种方法的效果要好得多，而对于一家由平庸程序员组成的大公司来说，糟糕的想法会被委员会而不是提出这些想法的人发现。幸运的是，基于网络的软件确实需要更少的程序员。"
     },
     {
       "original": "I once worked for a medium-sized desktop software company that had over 100 people working in engineering as a whole. Only 13 of these were in product development. All the rest were working on releases, ports, and so on.",
-      "translated": "[待翻译] I once worked for a medium-sized desktop software ..."
+      "translated": "我曾经在一家中型桌面软件公司工作，该公司工程部门共有100多人。其中只有13人从事产品开发，其余的则负责版本发布、移植等工作。"
     },
     {
       "original": "With Web-based software, all you need (at most) are the 13 people, because there are no releases, ports, and so on.Viaweb was written by just three people. [7] I was always under pressure to hire more, because we wanted to get bought, and we knew that buyers would have a hard time paying a high price for a company with only three programmers.",
-      "translated": "[待翻译] With Web-based software, all you need (at most) ar..."
+      "translated": "使用基于Web的软件，你最多只需要13个人，因为没有发布、端口等问题。Viaweb就是由仅仅三个人编写出来的。[7] 我一直面临着招聘更多人的压力，因为我们希望被收购，我们知道买家很难为只有三名程序员的公司支付高价。"
     },
     {
       "original": "(Solution: we hired more, but created new projects for them.)When you can write software with fewer programmers, it saves you more than money. As Fred Brooks pointed out in The Mythical Man-Month, adding people to a project tends to slow it down.",
-      "translated": "[待翻译] (Solution: we hired more, but created new projects..."
+      "translated": "（解决方案：我们雇佣了更多的人，但为他们创建了新的项目。）当你可以用更少的程序员编写软件时，节省的不仅仅是金钱。正如弗雷德·布鲁克斯在《人月神话》中指出的，向项目中增加人员往往会减慢项目的进度。"
     },
     {
       "original": "The number of possible connections between developers grows exponentially with the size of the group. The larger the group, the more time they'll spend in meetings negotiating how their software will work together, and the more bugs they'll get from unforeseen interactions.",
-      "translated": "[待翻译] The number of possible connections between develop..."
+      "translated": "开发者之间的可能连接数量随着团队规模的增大呈指数级增长。团队越大，他们花在会议上讨论软件如何协同工作的时间就越多，由于未预见的交互而产生的错误也就越多。"
     },
     {
       "original": "Fortunately, this process also works in reverse: as groups get smaller, software development gets exponentially more efficient. I can't remember the programmers at Viaweb ever having an actual meeting.",
-      "translated": "[待翻译] Fortunately, this process also works in reverse: a..."
+      "translated": "幸运的是，这个过程也可以反向进行：随着团队规模的缩小，软件开发的效率会呈指数级提升。我记不得 Viaweb 的程序员们曾经开过正式的会议。"
     },
     {
       "original": "We never had more to say at any one time than we could say as we were walking to lunch.If there is a downside here, it is that all the programmers have to be to some degree system administrators as well.",
-      "translated": "[待翻译] We never had more to say at any one time than we c..."
+      "translated": "我们任何时候说的话都不会比走路去吃午餐时说的多。如果这里有什么缺点的话，那就是所有的程序员都必须在某种程度上兼任系统管理员。"
     },
     {
       "original": "When you're hosting software, someone has to be watching the servers, and in practice the only people who can do this properly are the ones who wrote the software. At Viaweb our system had so many components and changed so frequently that there was no definite border between software and infrastructure.",
-      "translated": "[待翻译] When you're hosting software, someone has to be wa..."
+      "translated": "当你托管软件时，必须有人监控服务器，而实际上，唯一能够妥善完成这项工作的人是编写软件的人。在Viaweb，我们的系统组件如此之多，变化如此频繁，以至于软件和基础设施之间没有明确的界限。"
     },
     {
       "original": "Arbitrarily declaring such a border would have constrained our design choices. And so although we were constantly hoping that one day (\"in a couple months\") everything would be stable enough that we could hire someone whose job was just to worry about the servers, it never happened.I don't think it could be any other way, as long as you're still actively developing the product.",
-      "translated": "[待翻译] Arbitrarily declaring such a border would have con..."
+      "translated": "[翻译失败] Arbitrarily declaring such a border would have con..."
     },
     {
       "original": "Web-based software is never going to be something you write, check in, and go home. It's a live thing, running on your servers right now. A bad bug might not just crash one user's process; it could crash them all.",
-      "translated": "[待翻译] Web-based software is never going to be something ..."
+      "translated": "基于网络的软件永远不会是你写完、提交、然后就可以回家不管的那种。它是一个活生生的实体，正在你的服务器上运行。一个严重的错误不仅仅可能导致一个用户的进程崩溃；它可能会导致所有用户的进程崩溃。"
     },
     {
       "original": "If a bug in your code corrupts some data on disk, you have to fix it. And so on. We found that you don't have to watch the servers every minute (after the first year or so), but you definitely want to keep an eye on things you've changed recently.",
-      "translated": "[待翻译] If a bug in your code corrupts some data on disk, ..."
+      "translated": "如果你代码中的错误导致磁盘上的某些数据损坏，你必须修复它。依此类推。我们发现，在最初的几年之后，你不必每分钟都盯着服务器，但你肯定需要留意最近更改过的内容。"
     },
     {
       "original": "You don't release code late at night and then go home.Watching UsersWith server-based software, you're in closer touch with your code. You can also be in closer touch with your users. Intuit is famous for introducing themselves to customers at retail stores and asking to follow them home.",
-      "translated": "[待翻译] You don't release code late at night and then go h..."
+      "translated": "你不应该在深夜发布代码然后回家。通过基于服务器的软件，你可以更紧密地与你的代码保持联系。同时，你也可以更紧密地与你的用户保持联系。Intuit 因为在零售店自我介绍并请求跟随顾客回家而闻名。"
     },
     {
       "original": "If you've ever watched someone use your software for the first time, you know what surprises must have awaited them.Software should do what users think it will. But you can't have any idea what users will be thinking, believe me, until you watch them.",
-      "translated": "[待翻译] If you've ever watched someone use your software f..."
+      "translated": "如果你曾经观察过某人第一次使用你的软件，你就知道他们肯定经历了不少意外。软件应该按照用户的预期来运行。但相信我，除非你观察他们，否则你根本无法预料用户会怎么想。"
     },
     {
       "original": "And server-based software gives you unprecedented information about their behavior. You're not limited to small, artificial focus groups. You can see every click made by every user. You have to consider carefully what you're going to look at, because you don't want to violate users' privacy, but even the most general statistical sampling can be very useful.When you have the users on your server, you don't have to rely on benchmarks, for example.",
-      "translated": "[待翻译] And server-based software gives you unprecedented ..."
+      "translated": "基于服务器的软件为您提供了前所未有的用户行为信息。您不再局限于小型、人为的焦点小组。您可以跟踪每一位用户的每一次点击。当然，您需要谨慎考虑要查看哪些数据，因为您不希望侵犯用户的隐私，但即使是最广泛的统计抽样也极为有用。当用户在您的服务器上时，您不必依赖基准测试等方法。"
     },
     {
       "original": "Benchmarks are simulated users. With server-based software, you can watch actual users. To decide what to optimize, just log into a server and see what's consuming all the CPU. And you know when to stop optimizing too: we eventually got the Viaweb editor to the point where it was memory-bound rather than CPU-bound, and since there was nothing we could do to decrease the size of users' data (well, nothing easy), we knew we might as well stop there.Efficiency matters for server-based software, because you're paying for the hardware.",
-      "translated": "[待翻译] Benchmarks are simulated users. With server-based ..."
+      "translated": "基准测试是模拟的用户。对于基于服务器的软件，你可以观察实际的用户。要决定优化什么，只需登录服务器，看看是什么占用了所有的CPU资源。你也会知道何时停止优化：我们最终将Viaweb编辑器优化到内存限制而不是CPU限制，由于我们无法减少用户数据的大小（好吧，没有简单的方法），我们知道可以就此打住了。效率对于基于服务器的软件很重要，因为你要为硬件付费。"
     },
     {
       "original": "The number of users you can support per server is the divisor of your capital cost, so if you can make your software very efficient you can undersell competitors and still make a profit. At Viaweb we got the capital cost per user down to about $5.",
-      "translated": "[待翻译] The number of users you can support per server is ..."
+      "translated": "每个服务器可以支持的用户数量是您资本成本的除数，因此，如果您能让您的软件非常高效，就可以以低于竞争对手的价格出售并仍然获利。在 Viaweb，我们把每个用户的资本成本降低到了大约 5 美元。"
     },
     {
       "original": "It would be less now, probably less than the cost of sending them the first month's bill. Hardware is free now, if your software is reasonably efficient.Watching users can guide you in design as well as optimization.",
-      "translated": "[待翻译] It would be less now, probably less than the cost ..."
+      "translated": "现在会更少，可能还不到给他们发送第一个月账单的成本。如果软件效率合理，硬件现在是免费的。观察用户可以指导你进行设计和优化。"
     },
     {
       "original": "Viaweb had a scripting language called RTML that let advanced users define their own page styles. We found that RTML became a kind of suggestion box, because users only used it when the predefined page styles couldn't do what they wanted.",
-      "translated": "[待翻译] Viaweb had a scripting language called RTML that l..."
+      "translated": "Viaweb 有一种脚本语言叫做 RTML，它允许高级用户定义自己的页面样式。我们发现，RTML 成为了一个建议箱，因为用户只有在预定义的页面样式无法满足他们的需求时才会使用它。"
     },
     {
       "original": "Originally the editor put button bars across the page, for example, but after a number of users used RTML to put buttons down the left side, we made that an option (in fact the default) in the predefined page styles.Finally, by watching users you can often tell when they're in trouble.",
-      "translated": "[待翻译] Originally the editor put button bars across the p..."
+      "translated": "最初，编辑器在页面上横向放置了按钮栏，但经过一些用户使用 RTML 将按钮放置在左侧后，我们将这一选项（实际上是默认选项）加入到了预定义的页面样式中。最后，通过观察用户，你通常可以判断出他们何时遇到困难。"
     },
     {
       "original": "And since the customer is always right, that's a sign of something you need to fix. At Viaweb the key to getting users was the online test drive. It was not just a series of slides built by marketing people.",
-      "translated": "[待翻译] And since the customer is always right, that's a s..."
+      "translated": "既然顾客永远是对的，这表明你需要解决某些问题。在Viaweb，吸引用户的关键是在线试用。这不仅仅是由营销人员制作的一系列幻灯片。"
     },
     {
       "original": "In our test drive, users actually used the software. It took about five minutes, and at the end of it they had built a real, working store. The test drive was the way we got nearly all our new users.",
-      "translated": "[待翻译] In our test drive, users actually used the softwar..."
+      "translated": "在我们的试用中，用户实际使用了该软件。整个过程大约需要五分钟，结束后他们建立了一个真实且可运行的商店。试用是吸引我们几乎所有新用户的方式。"
     },
     {
       "original": "I think it will be the same for most Web-based applications. If users can get through a test drive successfully, they'll like the product. If they get confused or bored, they won't. So anything we could do to get more people through the test drive would increase our growth rate.I studied click trails of people taking the test drive and found that at a certain step they would get confused and click on the browser's Back button.",
-      "translated": "[待翻译] I think it will be the same for most Web-based app..."
+      "translated": "我认为对于大多数基于Web的应用程序来说都是如此。如果用户能够顺利通过试用，他们就会喜欢这个产品。如果他们感到困惑或无聊，就不会。因此，我们能做的任何事情，以使更多的人通过试用，都会增加我们的增长率。我研究了参加试用的人们的点击路径，发现他们在某个步骤会感到困惑并点击浏览器的后退按钮。"
     },
     {
       "original": "(If you try writing Web-based applications, you'll find that the Back button becomes one of your most interesting philosophical problems.) So I added a message at that point, telling users that they were nearly finished, and reminding them not to click on the Back button.",
-      "translated": "[待翻译] (If you try writing Web-based applications, you'll..."
+      "translated": "（如果你尝试编写基于Web的应用程序，你会发现后退按钮成了一个最有趣哲学问题。）因此，我在那个环节添加了一条消息，告诉用户他们快要完成了，并提醒他们不要点击后退按钮。"
     },
     {
       "original": "Another great thing about Web-based software is that you get instant feedback from changes: the number of people completing the test drive rose immediately from 60% to 90%. And since the number of new users was a function of the number of completed test drives, our revenue growth increased by 50%, just from that change.MoneyIn the early 1990s I read an article in which someone said that software was a subscription business.",
-      "translated": "[待翻译] Another great thing about Web-based software is th..."
+      "translated": "基于Web的软件的另一个优点是，你可以即时获得更改的反馈：完成试用的人数立即从60%上升到了90%。由于新用户的数量是完成试用人数的函数，因此仅凭这一变化，我们的收入增长就提高了50%。在20世纪90年代初，我读到一篇文章，其中有人提到软件是一种订阅业务。"
     },
     {
       "original": "At first this seemed a very cynical statement. But later I realized that it reflects reality: software development is an ongoing process. I think it's cleaner if you openly charge subscription fees, instead of forcing people to keep buying and installing new versions so that they'll keep paying you.",
-      "translated": "[待翻译] At first this seemed a very cynical statement. But..."
+      "translated": "起初，这似乎是一个非常愤世嫉俗的说法。但后来我意识到，这实际上反映了现实：软件开发是一个持续的过程。我认为， openly 收取订阅费用比强迫人们不断购买和安装新版本以继续支付费用要更为透明。"
     },
     {
       "original": "And fortunately, subscriptions are the natural way to bill for Web-based applications.Hosting applications is an area where companies will play a role that is not likely to be filled by freeware. Hosting applications is a lot of stress, and has real expenses.",
-      "translated": "[待翻译] And fortunately, subscriptions are the natural way..."
+      "translated": "幸运的是，订阅制是为基于Web的应用程序计费的自然方式。托管应用程序是一个企业将扮演重要角色的领域，而这一角色不太可能由免费软件来填补。托管应用程序充满压力，并且存在实际的开销。"
     },
     {
       "original": "No one is going to want to do it for free.For companies, Web-based applications are an ideal source of revenue. Instead of starting each quarter with a blank slate, you have a recurring revenue stream.",
-      "translated": "[待翻译] No one is going to want to do it for free.For comp..."
+      "translated": "没有人会愿意免费做这件事。对于公司来说，基于网络的应用程序是一个理想的收入来源。这样，你就不会每个季度都从零开始，而是有了持续的收入流。"
     },
     {
       "original": "Because your software evolves gradually, you don't have to worry that a new model will flop; there never need be a new model, per se, and if you do something to the software that users hate, you'll know right away.",
-      "translated": "[待翻译] Because your software evolves gradually, you don't..."
+      "translated": "因为您的软件是逐步演进的，所以不必担心新模型会失败；严格来说，不必有新的模型，而且如果您对软件做出了用户讨厌的改变，您会立刻知道。"
     },
     {
       "original": "You have no trouble with uncollectable bills; if someone won't pay you can just turn off the service. And there is no possibility of piracy.That last \"advantage\" may turn out to be a problem. Some amount of piracy is to the advantage of software companies.",
-      "translated": "[待翻译] You have no trouble with uncollectable bills; if s..."
+      "translated": "你不会因为无法收回的账单而烦恼；如果有人不付款，你可以直接停止服务。而且，不可能发生盗版问题。然而，最后一个“优势”可能会变成问题。某种程度的盗版对软件公司是有利的。"
     },
     {
       "original": "If some user really would not have bought your software at any price, you haven't lost anything if he uses a pirated copy. In fact you gain, because he is one more user helping to make your software the standard-- or who might buy a copy later, when he graduates from high school.When they can, companies like to do something called price discrimination, which means charging each customer as much as they can afford.",
-      "translated": "[待翻译] If some user really would not have bought your sof..."
+      "translated": "如果某些用户真的不会以任何价格购买你的软件，那么他使用盗版副本时，你实际上并没有损失。事实上，你还可能有所收获，因为他成为了帮助你的软件成为标准的又一个用户——或者他可能在高中毕业后购买一份。当条件允许时，公司喜欢做一种叫做价格歧视的事情，这意味着向每位顾客收取他们所能负担的最高价格。"
     },
     {
       "original": "[8] Software is particularly suitable for price discrimination, because the marginal cost is close to zero. This is why some software costs more to run on Suns than on Intel boxes: a company that uses Suns is not interested in saving money and can safely be charged more.",
-      "translated": "[待翻译] [8] Software is particularly suitable for price di..."
+      "translated": "软件特别适合实行价格歧视，因为其边际成本接近于零。这就是为什么有些软件在Sun系统上运行的费用比在Intel系统上高：使用Sun系统的公司不关心节省成本，因此可以安全地向其收取更高的费用。"
     },
     {
       "original": "Piracy is effectively the lowest tier of price discrimination. I think that software companies understand this and deliberately turn a blind eye to some kinds of piracy. [9] With server-based software they are going to have to come up with some other solution.Web-based software sells well, especially in comparison to desktop software, because it's easy to buy.",
-      "translated": "[待翻译] Piracy is effectively the lowest tier of price dis..."
+      "translated": "盗版实际上是最低层次的价格歧视。我认为软件公司明白这一点，并故意对某些类型的盗版视而不见。[9] 对于基于服务器的软件，他们将不得不想出其他解决方案。基于网络的软件销售得很好，尤其是与桌面软件相比，因为它购买起来很方便。"
     },
     {
       "original": "You might think that people decide to buy something, and then buy it, as two separate steps. That's what I thought before Viaweb, to the extent I thought about the question at all. In fact the second step can propagate back into the first: if something is hard to buy, people will change their mind about whether they wanted it.",
-      "translated": "[待翻译] You might think that people decide to buy somethin..."
+      "translated": "你可能认为人们决定购买某样东西，然后去购买，这是两个独立的步骤。在我接触 Viaweb 之前，我对此问题有所思考时也是这么认为的。实际上，第二个步骤可以反作用于第一个步骤：如果某样东西很难买到，人们就会改变主意，不再想要它了。"
     },
     {
       "original": "And vice versa: you'll sell more of something when it's easy to buy. I buy more books because Amazon exists. Web-based software is just about the easiest thing in the world to buy, especially if you have just done an online demo.",
-      "translated": "[待翻译] And vice versa: you'll sell more of something when..."
+      "translated": "[翻译失败] And vice versa: you'll sell more of something when..."
     },
     {
       "original": "Users should not have to do much more than enter a credit card number. (Make them do more at your peril.) Sometimes Web-based software is offered through ISPs acting as resellers. This is a bad idea.",
-      "translated": "[待翻译] Users should not have to do much more than enter a..."
+      "translated": "用户不应该做更多的事情，比如输入信用卡号。（让他们做更多的事情，风险自负。）有时，基于网络的软件是通过充当转售商的互联网服务提供商提供的。这是一个糟糕的主意。"
     },
     {
       "original": "You have to be administering the servers, because you need to be constantly improving both hardware and software. If you give up direct control of the servers, you give up most of the advantages of developing Web-based applications.Several of our competitors shot themselves in the foot this way-- usually, I think, because they were overrun by suits who were excited about this huge potential channel, and didn't realize that it would ruin the product they hoped to sell through it.",
-      "translated": "[待翻译] You have to be administering the servers, because ..."
+      "translated": "你必须管理这些服务器，因为你需要不断改进硬件和软件。如果你放弃对服务器的直接控制，你就放弃了开发基于网络的应用程序的大部分优势。我们的几个竞争对手就是这样自毁前程的——通常我认为是因为他们被那些对这个巨大潜在渠道感到兴奋的管理层所控制，却没有意识到这将毁掉他们希望通过该渠道销售的产品。"
     },
     {
       "original": "Selling Web-based software through ISPs is like selling sushi through vending machines.CustomersWho will the customers be? At Viaweb they were initially individuals and smaller companies, and I think this will be the rule with Web-based applications.",
-      "translated": "[待翻译] Selling Web-based software through ISPs is like se..."
+      "translated": "通过ISP销售基于Web的软件就像通过自动售货机销售寿司。谁会是顾客呢？在Viaweb，顾客最初是个体和较小的公司，我认为对于基于Web的应用程序，这将成为一种普遍规则。"
     },
     {
       "original": "These are the users who are ready to try new things, partly because they're more flexible, and partly because they want the lower costs of new technology.Web-based applications will often be the best thing for big companies too (though they'll be slow to realize it).",
-      "translated": "[待翻译] These are the users who are ready to try new thing..."
+      "translated": "这些用户乐于尝试新事物，部分原因在于他们更加灵活，部分原因在于他们希望利用新技术带来的更低的成本。对于大型公司而言，基于网络的应用程序通常也将是最佳选择（尽管他们可能会很慢才意识到这一点）。"
     },
     {
       "original": "The best intranet is the Internet. If a company uses true Web-based applications, the software will work better, the servers will be better administered, and employees will have access to the system from anywhere.The argument against this approach usually hinges on security: if access is easier for employees, it will be for bad guys too.",
-      "translated": "[待翻译] The best intranet is the Internet. If a company us..."
+      "translated": "最好的内网就是互联网。如果公司使用真正的基于Web的应用程序，软件将运行得更好，服务器将得到更好的管理，员工可以从任何地方访问系统。反对这种做法的论点通常集中在安全问题上：如果员工访问更容易，不法分子也会更容易入侵。"
     },
     {
       "original": "Some larger merchants were reluctant to use Viaweb because they thought customers' credit card information would be safer on their own servers. It was not easy to make this point diplomatically, but in fact the data was almost certainly safer in our hands than theirs.",
-      "translated": "[待翻译] Some larger merchants were reluctant to use Viaweb..."
+      "translated": "一些较大的商家不愿意使用Viaweb，因为他们认为客户的信用卡信息保存在自己的服务器上会更安全。虽然难以委婉地表达这一点，但实际上，数据由我们保管几乎肯定会比他们自己保管更安全。"
     },
     {
       "original": "Who can hire better people to manage security, a technology startup whose whole business is running servers, or a clothing retailer? Not only did we have better people worrying about security, we worried more about it.",
-      "translated": "[待翻译] Who can hire better people to manage security, a t..."
+      "translated": "谁能够聘请更好的人才来管理安全，是那家整个业务都在运行服务器的科技初创公司，还是一家服装零售商？不仅是我们的安全人才更优秀，我们对安全的重视程度也更高。"
     },
     {
       "original": "If someone broke into the clothing retailer's servers, it would affect at most one merchant, could probably be hushed up, and in the worst case might get one person fired. If someone broke into ours, it could affect thousands of merchants, would probably end up as news on CNet, and could put us out of business.If you want to keep your money safe, do you keep it under your mattress at home, or put it in a bank?",
-      "translated": "[待翻译] If someone broke into the clothing retailer's serv..."
+      "translated": "如果有人侵入了服装零售商的服务器，最多也就影响到一家商家，可能还能掩盖过去，最坏的情况下可能会有一人被解雇。如果有人侵入了我们的服务器，可能会影响成千上万的商家，很可能会上CNet的新闻，甚至可能导致我们破产。如果你想保证自己的钱安全，你是愿意把钱放在家里的床垫下，还是存到银行里？"
     },
     {
       "original": "This argument applies to every aspect of server administration: not just security, but uptime, bandwidth, load management, backups, etc. Our existence depended on doing these things right. Server problems were the big no-no for us, like a dangerous toy would be for a toy maker, or a salmonella outbreak for a food processor.A big company that uses Web-based applications is to that extent outsourcing IT.",
-      "translated": "[待翻译] This argument applies to every aspect of server ad..."
+      "translated": "这一论点适用于服务器管理的各个方面：不仅仅是安全性，还包括正常运行时间、带宽、负载管理、备份等。我们的生存依赖于把这些事情做好。服务器问题对我们来说是大忌，就像危险的玩具对玩具制造商或沙门氏菌爆发对食品加工者一样。使用基于Web的应用程序的大公司在某种程度上是在外包IT。"
     },
     {
       "original": "Drastic as it sounds, I think this is generally a good idea. Companies are likely to get better service this way than they would from in-house system administrators. System administrators can become cranky and unresponsive because they're not directly exposed to competitive pressure: a salesman has to deal with customers, and a developer has to deal with competitors' software, but a system administrator, like an old bachelor, has few external forces to keep him in line.",
-      "translated": "[待翻译] Drastic as it sounds, I think this is generally a ..."
+      "translated": "听起来虽然激烈，但我认为这通常是个好主意。公司通过这种方式可能会获得比内部系统管理员更好的服务。系统管理员可能会变得暴躁和不响应，因为他们没有直接面对竞争压力：销售人员必须应对客户，开发人员必须应对竞争对手的软件，而系统管理员就像老单身汉一样，很少有外部力量来约束他们。"
     },
     {
       "original": "[10] At Viaweb we had external forces in plenty to keep us in line. The people calling us were customers, not just co-workers. If a server got wedged, we jumped; just thinking about it gives me a jolt of adrenaline, years later.So Web-based applications will ordinarily be the right answer for big companies too.",
-      "translated": "[待翻译] [10] At Viaweb we had external forces in plenty to..."
+      "translated": "[10] 在Viaweb，我们有充足的外部力量让我们保持在正轨上。给我们打电话的人是客户，而不仅仅是同事。如果服务器出现故障，我们就会立即采取行动；即使多年后，想到这一点仍会让我肾上腺素激增。因此，对于大公司来说，基于Web的应用程序通常也是正确的选择。"
     },
     {
       "original": "They will be the last to realize it, however, just as they were with desktop computers. And partly for the same reason: it will be worth a lot of money to convince big companies that they need something more expensive.There is always a tendency for rich customers to buy expensive solutions, even when cheap solutions are better, because the people offering expensive solutions can spend more to sell them.",
-      "translated": "[待翻译] They will be the last to realize it, however, just..."
+      "translated": "然而，他们将是最后一批意识到这一点的人，就像当初对台式电脑一样。部分原因也相同：说服大公司他们需要更昂贵的东西将非常有利可图。富裕的客户总是倾向于购买昂贵的解决方案，即使便宜的解决方案更好，因为提供昂贵解决方案的人可以花费更多来推销它们。"
     },
     {
       "original": "At Viaweb we were always up against this. We lost several high-end merchants to Web consulting firms who convinced them they'd be better off if they paid half a million dollars for a custom-made online store on their own server.",
-      "translated": "[待翻译] At Viaweb we were always up against this. We lost ..."
+      "translated": "在 Viaweb，我们总是面临这样的问题。我们失去了几位高端商户，他们被一些网络咨询公司说服，认为如果他们花费五十万美元在自己的服务器上定制一个在线商店会更好。"
     },
     {
       "original": "They were, as a rule, not better off, as more than one discovered when Christmas shopping season came around and loads rose on their server. Viaweb was a lot more sophisticated than what most of these merchants got, but we couldn't afford to tell them.",
-      "translated": "[待翻译] They were, as a rule, not better off, as more than..."
+      "translated": "他们通常并没有更好，这一点在圣诞节购物季到来时服务器负载激增时被许多人发现。Viaweb 比这些商家所用的大多数系统要先进得多，但我们负担不起告诉他们的成本。"
     },
     {
       "original": "At $300 a month, we couldn't afford to send a team of well-dressed and authoritative-sounding people to make presentations to customers.A large part of what big companies pay extra for is the cost of selling expensive things to them.",
-      "translated": "[待翻译] At $300 a month, we couldn't afford to send a team..."
+      "translated": "每月300美元，我们无法负担派出一群衣着得体、言辞权威的人去为客户做演示。大公司额外支付的很大一部分费用是用于向他们出售昂贵物品的销售成本。"
     },
     {
       "original": "(If the Defense Department pays a thousand dollars for toilet seats, it's partly because it costs a lot to sell toilet seats for a thousand dollars.) And this is one reason intranet software will continue to thrive, even though it is probably a bad idea.",
-      "translated": "[待翻译] (If the Defense Department pays a thousand dollars..."
+      "translated": "（如果国防部以一千美元的价格购买马桶座圈，部分原因在于以一千美元的价格出售马桶座圈成本很高。）这就是为什么内部网软件将继续繁荣，即使它可能是一个糟糕的主意。"
     },
     {
       "original": "It's simply more expensive. There is nothing you can do about this conundrum, so the best plan is to go for the smaller customers first. The rest will come in time.Son of ServerRunning software on the server is nothing new.",
-      "translated": "[待翻译] It's simply more expensive. There is nothing you c..."
+      "translated": "这仅仅是个成本问题。对于这个困境，你无能为力，所以最好的策略是先从规模较小的客户入手。随着时间的推移，其他客户自然会跟进。服务器端运行软件并不是什么新鲜事。"
     },
     {
       "original": "In fact it's the old model: mainframe applications are all server-based. If server-based software is such a good idea, why did it lose last time? Why did desktop computers eclipse mainframes?At first desktop computers didn't look like much of a threat.",
-      "translated": "[待翻译] In fact it's the old model: mainframe applications..."
+      "translated": "事实上，这是旧模式：大型机应用程序都是基于服务器的。如果基于服务器的软件如此优秀，为什么上次会失败？为什么桌面计算机取代了大型机？起初，桌面计算机看起来并不像什么威胁。"
     },
     {
       "original": "The first users were all hackers-- or hobbyists, as they were called then. They liked microcomputers because they were cheap. For the first time, you could have your own computer. The phrase \"personal computer\" is part of the language now, but when it was first used it had a deliberately audacious sound, like the phrase \"personal satellite\" would today.Why did desktop computers take over?",
-      "translated": "[待翻译] The first users were all hackers-- or hobbyists, a..."
+      "translated": "最早的用户都是黑客——或者当时称为业余爱好者。他们喜欢微型计算机是因为它们便宜。这是第一次，你可以拥有自己的计算机。“个人计算机”这个词汇现在已经是常用语了，但当它第一次被使用时，听起来故意有些大胆，就像今天说“个人卫星”一样。为什么台式计算机能够占据主导地位？"
     },
     {
       "original": "I think it was because they had better software. And I think the reason microcomputer software was better was that it could be written by small companies.I don't think many people realize how fragile and tentative startups are in the earliest stage.",
-      "translated": "[待翻译] I think it was because they had better software. A..."
+      "translated": "我认为这是因为他们的软件更好。而我认为微机软件更好的原因是，它可以由小公司编写。我认为很多人没有意识到初创企业在早期阶段是多么脆弱和不确定。"
     },
     {
       "original": "Many startups begin almost by accident-- as a couple guys, either with day jobs or in school, writing a prototype of something that might, if it looks promising, turn into a company. At this larval stage, any significant obstacle will stop the startup dead in its tracks.",
-      "translated": "[待翻译] Many startups begin almost by accident-- as a coup..."
+      "translated": "许多初创公司几乎都是偶然开始的——由几个要么有正式工作要么在上学的人，编写某个可能有前景的原型，如果看起来有希望，可能会发展成一家公司。在这个萌芽阶段，任何重大障碍都会使初创公司停滞不前。"
     },
     {
       "original": "Writing mainframe software required too much commitment up front. Development machines were expensive, and because the customers would be big companies, you'd need an impressive-looking sales force to sell it to them.",
-      "translated": "[待翻译] Writing mainframe software required too much commi..."
+      "translated": "编写大型机软件需要在前期投入大量精力。开发机器价格昂贵，而且由于客户将是大型公司，你需要一个看起来很专业的销售团队来向他们推销。"
     },
     {
       "original": "Starting a startup to write mainframe software would be a much more serious undertaking than just hacking something together on your Apple II in the evenings. And so you didn't get a lot of startups writing mainframe applications.The arrival of desktop computers inspired a lot of new software, because writing applications for them seemed an attainable goal to larval startups.",
-      "translated": "[待翻译] Starting a startup to write mainframe software wou..."
+      "translated": "创建一家初创公司来编写大型机软件将是一项比晚上在你的苹果II上随意编写程序严肃得多的事业。因此，编写大型机应用程序的初创公司并不多。桌面计算机的出现激发了大量的新软件，因为为这些计算机编写应用程序对初创公司来说似乎是一个可实现的目标。"
     },
     {
       "original": "Development was cheap, and the customers would be individual people that you could reach through computer stores or even by mail-order.The application that pushed desktop computers out into the mainstream was VisiCalc, the first spreadsheet.",
-      "translated": "[待翻译] Development was cheap, and the customers would be ..."
+      "translated": "开发成本低廉，客户是可以通过电脑店甚至邮购接触到的个人。推动个人电脑进入主流的应用是VisiCalc，首个电子表格软件。"
     },
     {
       "original": "It was written by two guys working in an attic, and yet did things no mainframe software could do. [11] VisiCalc was such an advance, in its time, that people bought Apple IIs just to run it. And this was the beginning of a trend: desktop computers won because startups wrote software for them.It looks as if server-based software will be good this time around, because startups will write it.",
-      "translated": "[待翻译] It was written by two guys working in an attic, an..."
+      "translated": "这是由两个在阁楼里工作的人编写出来的，却能完成大型机软件无法完成的任务。[11] VisiCalc 在当时是一个如此大的进步，以至于人们购买 Apple II 只是为了运行它。而这也标志着一个趋势的开始：桌面计算机之所以赢得市场，是因为初创公司为它们编写了软件。看来这次基于服务器的软件将会很好，因为初创公司将会编写它。"
     },
     {
       "original": "Computers are so cheap now that you can get started, as we did, using a desktop computer as a server. Inexpensive processors have eaten the workstation market (you rarely even hear the word now) and are most of the way through the server market; Yahoo's servers, which deal with loads as high as any on the Internet, all have the same inexpensive Intel processors that you have in your desktop machine.",
-      "translated": "[待翻译] Computers are so cheap now that you can get starte..."
+      "translated": "现在计算机如此便宜，你可以像我们一样，用一台台式机作为服务器开始。廉价的处理器已经占领了工作站市场（你甚至很少再听到这个词了），并且几乎已经渗透到服务器市场；雅虎的服务器，处理着互联网上最高的负载之一，全部使用的是与你台式机中相同的廉价英特尔处理器。"
     },
     {
       "original": "And once you've written the software, all you need to sell it is a Web site. Nearly all our users came direct to our site through word of mouth and references in the press. [12]Viaweb was a typical larval startup.",
-      "translated": "[待翻译] And once you've written the software, all you need..."
+      "translated": "一旦你编写好了软件，要出售它只需要一个网站。我们的大多数用户都是通过口碑和媒体的推荐直接来到我们网站的。[12]Viaweb 是一个典型的初期创业公司。"
     },
     {
       "original": "We were terrified of starting a company, and for the first few months comforted ourselves by treating the whole thing as an experiment that we might call off at any moment. Fortunately, there were few obstacles except technical ones.",
-      "translated": "[待翻译] We were terrified of starting a company, and for t..."
+      "translated": "我们对创办公司感到非常害怕，头几个月里，我们安慰自己，把整个事情当作一个随时可能叫停的实验。幸运的是，除了技术上的障碍外，几乎没有其他障碍。"
     },
     {
       "original": "While we were writing the software, our Web server was the same desktop machine we used for development, connected to the outside world by a dialup line. Our only expenses in that phase were food and rent.There is all the more reason for startups to write Web-based software now, because writing desktop software has become a lot less fun.",
-      "translated": "[待翻译] While we were writing the software, our Web server..."
+      "translated": "在编写软件时，我们的Web服务器就是我们用于开发的那台台式机，通过拨号线路连接到外部世界。那时我们唯一的开支就是食物和房租。现在，更有理由让初创公司编写基于Web的软件了，因为编写桌面软件已经变得没那么有趣了。"
     },
     {
       "original": "If you want to write desktop software now you do it on Microsoft's terms, calling their APIs and working around their buggy OS. And if you manage to write something that takes off, you may find that you were merely doing market research for Microsoft.If a company wants to make a platform that startups will build on, they have to make it something that hackers themselves will want to use.",
-      "translated": "[待翻译] If you want to write desktop software now you do i..."
+      "translated": "如果你想现在开发桌面软件，就必须按照微软的条件来，调用他们的API，并且绕过他们操作系统中的bug。如果你开发的软件大受欢迎，可能会发现你只不过是为微软做了市场调研。如果一家公司想要打造一个初创企业可以构建的平台，他们必须让它成为黑客们自己也会想使用的东西。"
     },
     {
       "original": "That means it has to be inexpensive and well-designed. The Mac was popular with hackers when it first came out, and a lot of them wrote software for it. [13] You see this less with Windows, because hackers don't use it.",
-      "translated": "[待翻译] That means it has to be inexpensive and well-desig..."
+      "translated": "这意味着它必须价格低廉且设计精良。Mac 问世之初就受到了黑客的喜爱，很多人为它编写了软件。[13] 你很少会在 Windows 上看到这种情况，因为黑客不使用它。"
     },
     {
       "original": "The kind of people who are good at writing software tend to be running Linux or FreeBSD now.I don't think we would have started a startup to write desktop software, because desktop software has to run on Windows, and before we could write software for Windows we'd have to use it.",
-      "translated": "[待翻译] The kind of people who are good at writing softwar..."
+      "translated": "擅长编写软件的人现在通常使用 Linux 或 FreeBSD。我认为我们不会开始一家创业公司来编写桌面软件，因为桌面软件必须在 Windows 上运行，而我们在编写 Windows 软件之前必须得先使用它。"
     },
     {
       "original": "The Web let us do an end-run around Windows, and deliver software running on Unix direct to users through the browser. That is a liberating prospect, a lot like the arrival of PCs twenty-five years ago.MicrosoftBack when desktop computers arrived, IBM was the giant that everyone was afraid of.",
-      "translated": "[待翻译] The Web let us do an end-run around Windows, and d..."
+      "translated": "网络让我们绕过了Windows，通过浏览器直接向用户交付运行在Unix上的软件。这是一个解放性的前景，很像25年前个人电脑的出现。微软那时候，当桌面电脑到来时，IBM是每个人都很害怕的巨无霸。"
     },
     {
       "original": "It's hard to imagine now, but I remember the feeling very well. Now the frightening giant is Microsoft, and I don't think they are as blind to the threat facing them as IBM was. After all, Microsoft deliberately built their business in IBM's blind spot.I mentioned earlier that my mother doesn't really need a desktop computer.",
-      "translated": "[待翻译] It's hard to imagine now, but I remember the feeli..."
+      "translated": "现在很难想象，但我还记得那种感觉非常清楚。现在这个令人恐惧的巨无霸是微软，我觉得他们并不像IBM那样对面临的威胁视而不见。毕竟，微软是故意在IBM的盲点上建立自己的业务的。我前面提到过，我妈妈其实并不需要一台台式电脑。"
     },
     {
       "original": "Most users probably don't. That's a problem for Microsoft, and they know it. If applications run on remote servers, no one needs Windows. What will Microsoft do? Will they be able to use their control of the desktop to prevent, or constrain, this new generation of software?My guess is that Microsoft will develop some kind of server/desktop hybrid, where the operating system works together with servers they control.",
-      "translated": "[待翻译] Most users probably don't. That's a problem for Mi..."
+      "translated": "大多数用户可能不会。这对微软来说是个问题，他们也意识到了这一点。如果应用程序运行在远程服务器上，那么就没人需要Windows了。微软会怎么做？他们能否利用对桌面的控制来阻止或限制这新一代的软件？我猜测微软会开发某种服务器/桌面混合模式，使操作系统能够与他们控制的服务器协同工作。"
     },
     {
       "original": "At a minimum, files will be centrally available for users who want that. I don't expect Microsoft to go all the way to the extreme of doing the computations on the server, with only a browser for a client, if they can avoid it.",
-      "translated": "[待翻译] At a minimum, files will be centrally available fo..."
+      "translated": "至少，文件将集中提供给需要的用户。我不认为微软会走极端，除非迫不得已，否则他们不会将所有计算都放在服务器上，而客户端仅使用浏览器。"
     },
     {
       "original": "If you only need a browser for a client, you don't need Microsoft on the client, and if Microsoft doesn't control the client, they can't push users towards their server-based applications.I think Microsoft will have a hard time keeping the genie in the bottle.",
-      "translated": "[待翻译] If you only need a browser for a client, you don't..."
+      "translated": "如果你只需要一个浏览器作为客户端，那么就不需要在客户端上使用微软的产品，而如果微软不能控制客户端，他们就无法引导用户使用其基于服务器的应用程序。我认为微软将很难把精灵关回瓶子里。"
     },
     {
       "original": "There will be too many different types of clients for them to control them all. And if Microsoft's applications only work with some clients, competitors will be able to trump them by offering applications that work from any client.",
-      "translated": "[待翻译] There will be too many different types of clients ..."
+      "translated": "将会有太多不同类型的客户端，他们无法全部控制。而且，如果微软的应用程序只兼容某些客户端，竞争对手就会通过提供可以从任何客户端运行的应用程序来超越他们。"
     },
     {
       "original": "[14]In a world of Web-based applications, there is no automatic place for Microsoft. They may succeed in making themselves a place, but I don't think they'll dominate this new world as they did the world of desktop applications.It's not so much that a competitor will trip them up as that they will trip over themselves.",
-      "translated": "[待翻译] [14]In a world of Web-based applications, there is..."
+      "translated": "在基于网络的应用程序的世界里，微软并没有自动占有的一席之地。他们可能会成功为自己创造一个位置，但我认为他们不会像在桌面应用程序世界中那样主宰这个新世界。与其说是竞争对手会让他们跌倒，不如说是他们自己会绊倒自己。"
     },
     {
       "original": "With the rise of Web-based software, they will be facing not just technical problems but their own wishful thinking. What they need to do is cannibalize their existing business, and I can't see them facing that.",
-      "translated": "[待翻译] With the rise of Web-based software, they will be ..."
+      "translated": "随着基于Web的软件的兴起，他们将不仅面临技术问题，还有他们自身的美好愿望。他们需要做的是牺牲现有的业务，而我看不到他们会这样做。"
     },
     {
       "original": "The same single-mindedness that has brought them this far will now be working against them. IBM was in exactly the same situation, and they could not master it. IBM made a late and half-hearted entry into the microcomputer business because they were ambivalent about threatening their cash cow, mainframe computing.",
-      "translated": "[待翻译] The same single-mindedness that has brought them t..."
+      "translated": "使他们走到这一步的同样专注现在将对他们不利。IBM 曾经处于完全相同的情况，但他们未能掌握局面。IBM 进入微型计算机业务时已经太晚，而且态度 lukewarm，因为他们对威胁到自己的现金牛——大型机业务——感到矛盾。"
     },
     {
       "original": "Microsoft will likewise be hampered by wanting to save the desktop. A cash cow can be a damned heavy monkey on your back.I'm not saying that no one will dominate server-based applications. Someone probably will eventually.",
-      "translated": "[待翻译] Microsoft will likewise be hampered by wanting to ..."
+      "translated": "微软同样会因为想保住桌面市场而受到限制。一个摇钱树可能会成为背上沉重的负担。我并不是说没有人会主宰基于服务器的应用程序。最终可能有人会做到。"
     },
     {
       "original": "But I think that there will be a good long period of cheerful chaos, just as there was in the early days of microcomputers. That was a good time for startups. Lots of small companies flourished, and did it by making cool things.Startups but More SoThe classic startup is fast and informal, with few people and little money.",
-      "translated": "[待翻译] But I think that there will be a good long period ..."
+      "translated": "但我认为将会有很长一段时间的愉快混乱，就像早期微型计算机时代那样。那对初创公司来说是个好时期。许多小公司蓬勃发展，它们通过制造酷炫的产品来实现这一点。初创公司，但更加如此。典型的初创公司快速而灵活，人员少，资金有限。"
     },
     {
       "original": "Those few people work very hard, and technology magnifies the effect of the decisions they make. If they win, they win big.In a startup writing Web-based applications, everything you associate with startups is taken to an extreme.",
-      "translated": "[待翻译] Those few people work very hard, and technology ma..."
+      "translated": "这几个人工作非常努力，而技术放大了他们决策的效果。如果他们成功了，就会大获全胜。在一家开发基于Web应用的初创公司，你所认为的初创公司的一切特点都被推向了极致。"
     },
     {
       "original": "You can write and launch a product with even fewer people and even less money. You have to be even faster, and you can get away with being more informal. You can literally launch your product as three guys sitting in the living room of an apartment, and a server collocated at an ISP.",
-      "translated": "[待翻译] You can write and launch a product with even fewer..."
+      "translated": "你可以用更少的人和更少的钱来编写和推出产品。你必须更快，而且可以更加非正式。你甚至可以像三个坐在公寓客厅里的人，以及托管在ISP的服务器那样启动你的产品。"
     },
     {
       "original": "We did.Over time the teams have gotten smaller, faster, and more informal. In 1960, software development meant a roomful of men with horn rimmed glasses and narrow black neckties, industriously writing ten lines of code a day on IBM coding forms.",
-      "translated": "[待翻译] We did.Over time the teams have gotten smaller, fa..."
+      "translated": "我们确实做到了。随着时间的推移，团队变得越来越小、更快速、也更加非正式。1960年，软件开发意味着一屋子戴着厚框眼镜、系着窄黑领带的男士，勤奋地每天在IBM编码表上编写十行代码。"
     },
     {
       "original": "In 1980, it was a team of eight to ten people wearing jeans to the office and typing into vt100s. Now it's a couple of guys sitting in a living room with laptops. (And jeans turn out not to be the last word in informality.)Startups are stressful, and this, unfortunately, is also taken to an extreme with Web-based applications.",
-      "translated": "[待翻译] In 1980, it was a team of eight to ten people wear..."
+      "translated": "1980年，那是一支由八到十个人组成的团队，穿着牛仔裤上班，在vt100终端上打字。现在，变成了几个人坐在客厅里，用笔记本电脑工作。（而牛仔裤并不是非正式的终极选择。）创业公司压力很大，不幸的是，对于基于Web的应用程序开发来说，这种压力更是被推向了极致。"
     },
     {
       "original": "Many software companies, especially at the beginning, have periods where the developers slept under their desks and so on. The alarming thing about Web-based software is that there is nothing to prevent this becoming the default.",
-      "translated": "[待翻译] Many software companies, especially at the beginni..."
+      "translated": "许多软件公司，尤其是在起步阶段，都会有开发人员在办公桌下睡觉的情况。关于基于网络的软件，令人担忧的是，没有什么可以阻止这种情况成为常态。"
     },
     {
       "original": "The stories about sleeping under desks usually end: then at last we shipped it and we all went home and slept for a week. Web-based software never ships. You can work 16-hour days for as long as you want to.",
-      "translated": "[待翻译] The stories about sleeping under desks usually end..."
+      "translated": "关于在桌子下睡觉的故事通常以这样结尾：最后我们终于发布了产品，大家都回家睡了一个星期。而基于网络的软件却永远不会“发布”。你可以连续工作16个小时，想持续多久都行。"
     },
     {
       "original": "And because you can, and your competitors can, you tend to be forced to. You can, so you must. It's Parkinson's Law running in reverse.The worst thing is not the hours but the responsibility. Programmers and system administrators traditionally each have their own separate worries.",
-      "translated": "[待翻译] And because you can, and your competitors can, you..."
+      "translated": "而且因为你能够，你的竞争对手也能够，所以你往往被迫这样做。你能，所以你必须。这是帕金森定律的反向运行。最糟糕的不是时间，而是责任。程序员和系统管理员传统上各有各自的担忧。"
     },
     {
       "original": "Programmers have to worry about bugs, and system administrators have to worry about infrastructure. Programmers may spend a long day up to their elbows in source code, but at some point they get to go home and forget about it.",
-      "translated": "[待翻译] Programmers have to worry about bugs, and system a..."
+      "translated": "程序员需要担心的是代码中的错误，而系统管理员则需要关注基础设施。程序员可能会花费一整天的时间沉浸在源代码中，但最终他们可以回家，不再去想这些问题。"
     },
     {
       "original": "System administrators never quite leave the job behind, but when they do get paged at 4:00 AM, they don't usually have to do anything very complicated. With Web-based applications, these two kinds of stress get combined.",
-      "translated": "[待翻译] System administrators never quite leave the job be..."
+      "translated": "系统管理员永远不会完全摆脱工作，但当他们在凌晨4点被叫醒时，通常不需要处理非常复杂的事情。而对于基于Web的应用程序，这两种压力就结合在了一起。"
     },
     {
       "original": "The programmers become system administrators, but without the sharply defined limits that ordinarily make the job bearable.At Viaweb we spent the first six months just writing software. We worked the usual long hours of an early startup.",
-      "translated": "[待翻译] The programmers become system administrators, but ..."
+      "translated": "程序员们成为了系统管理员，但缺少了通常让这份工作变得可以忍受的明确界限。在Viaweb，我们花了最初的六个月时间仅仅编写软件。我们像大多数初创公司一样，工作时间很长。"
     },
     {
       "original": "In a desktop software company, this would have been the part where we were working hard, but it felt like a vacation compared to the next phase, when we took users onto our server. The second biggest benefit of selling Viaweb to Yahoo (after the money) was to be able to dump ultimate responsibility for the whole thing onto the shoulders of a big company.Desktop software forces users to become system administrators.",
-      "translated": "[待翻译] In a desktop software company, this would have bee..."
+      "translated": "在一家桌面软件公司，这本是我们努力工作的阶段，但与接下来把用户迁移到我们服务器的阶段相比，这简直像是度假。把 Viaweb 卖给雅虎的第二大好处（仅次于金钱）就是可以把整个项目的最终责任转移到一家大公司的肩上。桌面软件迫使用户成为系统管理员。"
     },
     {
       "original": "Web-based software forces programmers to. There is less stress in total, but more for the programmers. That's not necessarily bad news. If you're a startup competing with a big company, it's good news.",
-      "translated": "[待翻译] Web-based software forces programmers to. There is..."
+      "translated": "基于Web的软件迫使程序员承受更大的压力。虽然总体压力减少，但对程序员来说压力更大了。这并不一定是坏事。如果你是一家与大公司竞争的初创企业，这反而是个好消息。"
     },
     {
       "original": "[15] Web-based applications offer a straightforward way to outwork your competitors. No startup asks for more.Just Good EnoughOne thing that might deter you from writing Web-based applications is the lameness of Web pages as a UI.",
-      "translated": "[待翻译] [15] Web-based applications offer a straightforwar..."
+      "translated": "[15] 基于Web的应用程序提供了一种简单直接的方法来超越竞争对手。没有初创公司会要求更多。只要足够好就行。可能阻止你编写基于Web的应用程序的一件事是Web页面作为用户界面的不足。"
     },
     {
       "original": "That is a problem, I admit. There were a few things we would have really liked to add to HTML and HTTP. What matters, though, is that Web pages are just good enough.There is a parallel here with the first microcomputers.",
-      "translated": "[待翻译] That is a problem, I admit. There were a few thing..."
+      "translated": "这是一个问题，我承认。确实有些我们非常希望添加到HTML和HTTP中的东西。然而，重要的是网页已经足够好用了。这里可以与第一代微型计算机相提并论。"
     },
     {
       "original": "The processors in those machines weren't actually intended to be the CPUs of computers. They were designed to be used in things like traffic lights. But guys like Ed Roberts, who designed the Altair, realized that they were just good enough.",
-      "translated": "[待翻译] The processors in those machines weren't actually ..."
+      "translated": "那些机器中的处理器实际上并不是为了成为计算机的CPU而设计的。它们原本是用于交通灯等设备的。但是像埃德·罗伯茨这样设计了阿尔泰尔的人意识到，这些处理器已经足够好用了。"
     },
     {
       "original": "You could combine one of these chips with some memory (256 bytes in the first Altair), and front panel switches, and you'd have a working computer. Being able to have your own computer was so exciting that there were plenty of people who wanted to buy them, however limited.Web pages weren't designed to be a UI for applications, but they're just good enough.",
-      "translated": "[待翻译] You could combine one of these chips with some mem..."
+      "translated": "你可以将其中一块芯片与一些内存（第一台Altair有256字节的内存）和前面板开关结合起来，你就拥有一台可以工作的计算机了。能够拥有自己的计算机如此令人兴奋，以至于尽管功能有限，还是有很多人愿意购买。网页最初并不是为了成为应用程序的用户界面而设计的，但它们足够好用。"
     },
     {
       "original": "And for a significant number of users, software that you can use from any browser will be enough of a win in itself to outweigh any awkwardness in the UI. Maybe you can't write the best-looking spreadsheet using HTML, but you can write a spreadsheet that several people can use simultaneously from different locations without special client software, or that can incorporate live data feeds, or that can page you when certain conditions are triggered.",
-      "translated": "[待翻译] And for a significant number of users, software th..."
+      "translated": "对于相当多的用户来说，能够从任何浏览器使用的软件本身就足以弥补用户界面的任何不便。也许你无法用HTML编写出最漂亮的电子表格，但你可以编写一个电子表格，让几个人可以从不同地点同时使用而无需特殊客户端软件，或者可以整合实时数据流，或者在某些条件触发时向你发送通知。"
     },
     {
       "original": "More importantly, you can write new kinds of applications that don't even have names yet. VisiCalc was not merely a microcomputer version of a mainframe application, after all-- it was a new type of application.Of course, server-based applications don't have to be Web-based.",
-      "translated": "[待翻译] More importantly, you can write new kinds of appli..."
+      "translated": "更重要的是，你可以编写目前甚至还没有名称的新类型应用程序。毕竟，VisiCalc 不仅仅是一个微型计算机版本的大型机应用程序——它是一种全新的应用程序。当然，基于服务器的应用程序并不一定要基于Web。"
     },
     {
       "original": "You could have some other kind of client. But I'm pretty sure that's a bad idea. It would be very convenient if you could assume that everyone would install your client-- so convenient that you could easily convince yourself that they all would-- but if they don't, you're hosed.",
-      "translated": "[待翻译] You could have some other kind of client. But I'm ..."
+      "translated": "你可以使用其他类型的客户端。但我相当确定那是个坏主意。如果能假设每个人都将安装你的客户端，那将非常方便——方便到你很容易说服自己认为他们都会安装——但如果他们没有安装，你就麻烦了。"
     },
     {
       "original": "Because Web-based software assumes nothing about the client, it will work anywhere the Web works. That's a big advantage already, and the advantage will grow as new Web devices proliferate. Users will like you because your software just works, and your life will be easier because you won't have to tweak it for every new client.",
-      "translated": "[待翻译] Because Web-based software assumes nothing about t..."
+      "translated": "由于基于Web的软件对客户端没有任何假设，因此它可以在Web工作的任何地方运行。这已经是一个很大的优势，随着新型Web设备的不断涌现，这一优势将进一步扩大。用户会喜欢你，因为你的软件能够顺利运行，而你的生活也会更轻松，因为你不必为每一个新的客户端进行调整。"
     },
     {
       "original": "[16]I feel like I've watched the evolution of the Web as closely as anyone, and I can't predict what's going to happen with clients. Convergence is probably coming, but where? I can't pick a winner. One thing I can predict is conflict between AOL and Microsoft.",
-      "translated": "[待翻译] [16]I feel like I've watched the evolution of the ..."
+      "translated": "我觉得自己对网络的演变关注得不比任何人少，但仍然无法预测客户端领域将如何发展。融合可能会到来，但会在哪里发生呢？我无法确定胜者。唯一可以预见的是，美国在线（AOL）和微软（Microsoft）之间将会产生冲突。"
     },
     {
       "original": "Whatever Microsoft's .NET turns out to be, it will probably involve connecting the desktop to servers. Unless AOL fights back, they will either be pushed aside or turned into a pipe between Microsoft client and server software.",
-      "translated": "[待翻译] Whatever Microsoft's .NET turns out to be, it will..."
+      "translated": "无论微软的 .NET 最终会是什么，它很可能涉及将桌面与服务器连接。除非 AOL 反击，否则他们要么会被边缘化，要么变成微软客户端与服务器软件之间的管道。"
     },
     {
       "original": "If Microsoft and AOL get into a client war, the only thing sure to work on both will be browsing the Web, meaning Web-based applications will be the only kind that work everywhere.How will it all play out?",
-      "translated": "[待翻译] If Microsoft and AOL get into a client war, the on..."
+      "translated": "如果微软和美国在线展开客户端大战，唯一能在两者上都能顺利运行的就只有浏览网页，这意味着基于网页的应用程序将成为唯一能在任何地方运行的应用。这一切将如何发展？"
     },
     {
       "original": "I don't know. And you don't have to know if you bet on Web-based applications. No one can break that without breaking browsing. The Web may not be the only way to deliver software, but it's one that works now and will continue to work for a long time.",
-      "translated": "[待翻译] I don't know. And you don't have to know if you be..."
+      "translated": "我不知道。如果你押注基于Web的应用程序，你也不需要知道。没有人能在不破坏浏览的情况下破解这一点。Web可能不是交付软件的唯一途径，但它现在有效，并且将在很长一段时间内继续有效。"
     },
     {
       "original": "Web-based applications are cheap to develop, and easy for even the smallest startup to deliver. They're a lot of work, and of a particularly stressful kind, but that only makes the odds better for startups.Why Not?E.",
-      "translated": "[待翻译] Web-based applications are cheap to develop, and e..."
+      "translated": "基于网络的应用程序开发成本低廉，即使是小型初创公司也能轻松提供。它们是一项繁琐的工作，而且压力很大，但这反而增加了初创公司成功的几率。为什么不呢？E."
     },
     {
       "original": "B. White was amused to learn from a farmer friend that many electrified fences don't have any current running through them. The cows apparently learn to stay away from them, and after that you don't need the current.",
-      "translated": "[待翻译] B. White was amused to learn from a farmer friend ..."
+      "translated": "B. 怀特从一位农民朋友那里得知，许多带电的围栏实际上并没有通电。显然，牛学会了远离这些围栏，之后就不再需要电流了。"
     },
     {
       "original": "\"Rise up, cows!\" he wrote, \"Take your liberty while despots snore!\"If you're a hacker who has thought of one day starting a startup, there are probably two things keeping you from doing it. One is that you don't know anything about business.",
-      "translated": "[待翻译] \"Rise up, cows!\" he wrote, \"Take your liberty whil..."
+      "translated": "“起来，牛们！”他写道，“在独裁者打鼾时夺取自由！”如果你是一名曾想过有朝一日要创办一家初创公司的黑客，那么可能有两件事阻碍了你。一是你对商业一无所知。"
     },
     {
       "original": "The other is that you're afraid of competition. Neither of these fences have any current in them.There are only two things you have to know about business: build something users love, and make more than you spend.",
-      "translated": "[待翻译] The other is that you're afraid of competition. Ne..."
+      "translated": "[翻译失败] The other is that you're afraid of competition. Ne..."
     },
     {
       "original": "If you get these two right, you'll be ahead of most startups. You can figure out the rest as you go.You may not at first make more than you spend, but as long as the gap is closing fast enough you'll be ok.",
-      "translated": "[待翻译] If you get these two right, you'll be ahead of mos..."
+      "translated": "如果你能做到这两点，你就会领先于大多数初创公司。其余的部分你可以边做边学。你一开始可能赚得没有花得多，但只要这个差距在迅速缩小，你就没问题。"
     },
     {
       "original": "If you start out underfunded, it will at least encourage a habit of frugality. The less you spend, the easier it is to make more than you spend. Fortunately, it can be very cheap to launch a Web-based application.",
-      "translated": "[待翻译] If you start out underfunded, it will at least enc..."
+      "translated": "如果你一开始资金不足，至少这会培养节俭的习惯。你花得越少，就越容易赚得比花得多。幸运的是，启动一个基于网络的应用程序可以非常便宜。"
     },
     {
       "original": "We launched on under $10,000, and it would be even cheaper today. We had to spend thousands on a server, and thousands more to get SSL. (The only company selling SSL software at the time was Netscape.) Now you can rent a much more powerful server, with SSL included, for less than we paid for bandwidth alone.",
-      "translated": "[待翻译] We launched on under $10,000, and it would be even..."
+      "translated": "我们的启动资金不到10,000美元，如果今天启动的话，成本会更低。当时我们不得不花费数千美元购买服务器，又花了数千美元购买SSL。（当时唯一出售SSL软件的公司是Netscape。）现在，你可以租用一个功能更强大的服务器，并且SSL服务包含在内，费用甚至低于我们当时单独支付的带宽费用。"
     },
     {
       "original": "You could launch a Web-based application now for less than the cost of a fancy office chair.As for building something users love, here are some general tips. Start by making something clean and simple that you would want to use yourself.",
-      "translated": "[待翻译] You could launch a Web-based application now for l..."
+      "translated": "你现在可以以低于一把高档办公椅的价格推出一个基于网络的应用程序。至于打造用户喜爱的产品，这里有一些建议。首先，从制作一个简洁易用、你自己也愿意使用的产品开始。"
     },
     {
       "original": "Get a version 1.0 out fast, then continue to improve the software, listening closely to the users as you do. The customer is always right, but different customers are right about different things; the least sophisticated users show you what you need to simplify and clarify, and the most sophisticated tell you what features you need to add.",
-      "translated": "[待翻译] Get a version 1.0 out fast, then continue to impro..."
+      "translated": "快速推出1.0版本，然后继续改进软件，同时密切倾听用户的意见。顾客永远是对的，但不同的顾客对不同的方面是对的；最不 sophistication 的用户会告诉你需要简化和澄清的地方，而最 sophisticated 的用户会告诉你需要添加哪些功能。"
     },
     {
       "original": "The best thing software can be is easy, but the way to do this is to get the defaults right, not to limit users' choices. Don't get complacent if your competitors' software is lame; the standard to compare your software to is what it could be, not what your current competitors happen to have.",
-      "translated": "[待翻译] The best thing software can be is easy, but the wa..."
+      "translated": "软件最好的状态是易用，但实现这一点的方法是正确设置默认值，而不是限制用户的选择。即使竞争对手的软件表现不佳，也不要自满；你应该将软件与它可能达到的标准相比较，而不是与当前竞争对手的产品相比较。"
     },
     {
       "original": "Use your software yourself, all the time. Viaweb was supposed to be an online store builder, but we used it to make our own site too. Don't listen to marketing people or designers or product managers just because of their job titles.",
-      "translated": "[待翻译] Use your software yourself, all the time. Viaweb w..."
+      "translated": "始终使用你自己的软件。Viaweb 本应是一个在线商店构建器，但我们用它来构建我们自己的网站。不要仅仅因为某人的职位是营销人员、设计师或产品经理就听从他们的意见。"
     },
     {
       "original": "If they have good ideas, use them, but it's up to you to decide; software has to be designed by hackers who understand design, not designers who know a little about software. If you can't design software as well as implement it, don't start a startup.Now let's talk about competition.",
-      "translated": "[待翻译] If they have good ideas, use them, but it's up to ..."
+      "translated": "如果有好的想法，就采用，但决定权在你；软件必须由理解设计的黑客来设计，而不是那些对软件略知一二的设计师。如果你不能同时设计和实现软件，就不要开始创业。现在让我们来谈谈竞争。"
     },
     {
       "original": "What you're afraid of is not presumably groups of hackers like you, but actual companies, with offices and business plans and salesmen and so on, right? Well, they are more afraid of you than you are of them, and they're right.",
-      "translated": "[待翻译] What you're afraid of is not presumably groups of ..."
+      "translated": "你所害怕的并不是像你这样的黑客群体，而是真正有办公室、商业计划和销售人员的公司，对吗？然而，他们比你更害怕你，而且他们是正确的。"
     },
     {
       "original": "It's a lot easier for a couple of hackers to figure out how to rent office space or hire sales people than it is for a company of any size to get software written. I've been on both sides, and I know.",
-      "translated": "[待翻译] It's a lot easier for a couple of hackers to figur..."
+      "translated": "对于几个黑客来说，找到如何租用办公空间或雇用销售人员的方法要比一个任何规模的公司编写软件容易得多。我亲身经历过这两方面，所以我很清楚。"
     },
     {
       "original": "When Viaweb was bought by Yahoo, I suddenly found myself working for a big company, and it was like trying to run through waist-deep water.I don't mean to disparage Yahoo. They had some good hackers, and the top management were real butt-kickers.",
-      "translated": "[待翻译] When Viaweb was bought by Yahoo, I suddenly found ..."
+      "translated": "当Viaweb被雅虎收购时，我突然发现自己为一家大公司工作，这感觉就像在齐腰深的水中跑步。我无意贬低雅虎。他们有一些优秀的黑客，高层管理者也是真正的雷厉风行之人。"
     },
     {
       "original": "For a big company, they were exceptional. But they were still only about a tenth as productive as a small startup. No big company can do much better than that. What's scary about Microsoft is that a company so big can develop software at all.",
-      "translated": "[待翻译] For a big company, they were exceptional. But they..."
+      "translated": "对于一家大公司来说，他们表现得已经很出色了。但他们仍然只有小型创业公司生产力的十分之一。没有哪家大公司能做得比这更好。微软令人害怕的地方在于，这么大的一家公司居然还能开发软件。"
     },
     {
       "original": "They're like a mountain that can walk.Don't be intimidated. You can do as much that Microsoft can't as they can do that you can't. And no one can stop you. You don't have to ask anyone's permission to develop Web-based applications.",
-      "translated": "[待翻译] They're like a mountain that can walk.Don't be int..."
+      "translated": "他们就像一座会行走的山。不要被吓倒。你可以做微软做不到的事情，就像他们能做你做不到的事情一样。没有人能阻止你。你无需征得任何人的许可就可以开发基于网络的应用程序。"
     },
     {
       "original": "You don't have to do licensing deals, or get shelf space in retail stores, or grovel to have your application bundled with the OS. You can deliver software right to the browser, and no one can get between you and potential users without preventing them from browsing the Web.You may not believe it, but I promise you, Microsoft is scared of you.",
-      "translated": "[待翻译] You don't have to do licensing deals, or get shelf..."
+      "translated": "你不必去做许可证交易，也不必在零售店争取货架空间，更不必低声下气地请求将你的应用程序捆绑在操作系统中。你可以直接将软件交付到浏览器，没有人能在不阻止人们浏览网页的情况下插手你和潜在用户之间的联系。你可能不相信，但我向你保证，微软害怕你。"
     },
     {
       "original": "The complacent middle managers may not be, but Bill is, because he was you once, back in 1975, the last time a new way of delivering software appeared.Notes[1] Realizing that much of the money is in the services, companies building lightweight clients have usually tried to combine the hardware with an online service.",
-      "translated": "[待翻译] The complacent middle managers may not be, but Bil..."
+      "translated": "那些自满的中层管理者可能不是，但比尔是，因为他曾经是你，回到1975年，那时新的软件交付方式刚刚出现。意识到大部分利润来自服务，开发轻量级客户端的公司通常会尝试将硬件与在线服务结合。"
     },
     {
       "original": "This approach has not worked well, partly because you need two different kinds of companies to build consumer electronics and to run an online service, and partly because users hate the idea. Giving away the razor and making money on the blades may work for Gillette, but a razor is much smaller commitment than a Web terminal.",
-      "translated": "[待翻译] This approach has not worked well, partly because ..."
+      "translated": "这种方法效果不佳，部分原因是需要两种不同类型的公司来分别制造消费电子设备和运营在线服务，部分原因是用户不喜欢这个想法。免费提供剃须刀并通过刀片盈利的模式对吉列可能有效，但剃须刀的投入远小于网络终端。"
     },
     {
       "original": "Cell phone handset makers are satisfied to sell hardware without trying to capture the service revenue as well. That should probably be the model for Internet clients too. If someone just sold a nice-looking little box with a Web browser that you could use to connect through any ISP, every technophobe in the country would buy one.[2] Security always depends more on not screwing up than any design decision, but the nature of server-based software will make developers pay more attention to not screwing up.",
-      "translated": "[待翻译] Cell phone handset makers are satisfied to sell ha..."
+      "translated": "手机制造商满足于出售硬件，而不试图获取服务收入。这种模式也应该适用于互联网客户端。如果有人出售一个外观漂亮的小盒子，里面装有网络浏览器，可以连接任何互联网服务提供商，那么全国每个技术恐惧者都会买一个。安全更多地取决于不犯错误，而不是任何设计决定，但基于服务器的软件的本质将促使开发人员更加注意避免犯错。"
     },
     {
       "original": "Compromising a server could cause such damage that ASPs (that want to stay in business) are likely to be careful about security.[3] In 1995, when we started Viaweb, Java applets were supposed to be the technology everyone was going to use to develop server-based applications.",
-      "translated": "[待翻译] Compromising a server could cause such damage that..."
+      "translated": "入侵服务器可能会造成如此严重的损害，以至于ASP（希望继续经营的）在安全问题上会非常谨慎。1995年，当我们开始创建Viaweb时，Java小程序被认为是每个人都将用于开发基于服务器的应用程序的技术。"
     },
     {
       "original": "Applets seemed to us an old-fashioned idea. Download programs to run on the client? Simpler just to go all the way and run the programs on the server. We wasted little time on applets, but countless other startups must have been lured into this tar pit.",
-      "translated": "[待翻译] Applets seemed to us an old-fashioned idea. Downlo..."
+      "translated": "小程序在我们看来是一个过时的想法。下载程序到客户端运行？倒不如直接在服务器上运行这些程序来得简单。我们几乎没有在这上面浪费时间，但无数其他初创公司可能已被这个陷阱所吸引。"
     },
     {
       "original": "Few can have escaped alive, or Microsoft could not have gotten away with dropping Java in the most recent version of Explorer.[4] This point is due to Trevor Blackwell, who adds \"the cost of writing software goes up more than linearly with its size.",
-      "translated": "[待翻译] Few can have escaped alive, or Microsoft could not..."
+      "translated": "很少有人能幸免于难，否则微软也无法在最新版本的IE中弃用Java。[4] 这一点是由特雷弗·布莱克威尔提出的，他补充说：“编写软件的成本随着其规模的增大而呈非线性增长。”"
     },
     {
       "original": "Perhaps this is mainly due to fixing old bugs, and the cost can be more linear if all bugs are found quickly.\"[5] The hardest kind of bug to find may be a variant of compound bug where one bug happens to compensate for another.",
-      "translated": "[待翻译] Perhaps this is mainly due to fixing old bugs, and..."
+      "translated": "这可能主要是由于修复旧的错误，如果所有错误都能迅速被发现，成本可能会更加线性。[5] 最难发现的错误可能是一种复合错误的变体，其中一个错误恰好弥补了另一个错误。"
     },
     {
       "original": "When you fix one bug, the other becomes visible. But it will seem as if the fix is at fault, since that was the last thing you changed.[6] Within Viaweb we once had a contest to describe the worst thing about our software.",
-      "translated": "[待翻译] When you fix one bug, the other becomes visible. B..."
+      "translated": "当你修复一个错误时，另一个错误就会显现出来。但这看起来像是修复导致的问题，因为你最近做的改变就是它。在 Viaweb，我们曾经举办过一个比赛，来描述我们软件中最糟糕的问题。"
     },
     {
       "original": "Two customer support people tied for first prize with entries I still shiver to recall. We fixed both problems immediately.[7] Robert Morris wrote the ordering system, which shoppers used to place orders.",
-      "translated": "[待翻译] Two customer support people tied for first prize w..."
+      "translated": "两位客户服务人员以令人难忘的参赛作品并列第一。我们立即解决了这两个问题。[7] 罗伯特·莫里斯编写了购物者用来下单的订单系统。"
     },
     {
       "original": "Trevor Blackwell wrote the image generator and the manager, which merchants used to retrieve orders, view statistics, and configure domain names etc. I wrote the editor, which merchants used to build their sites.",
-      "translated": "[待翻译] Trevor Blackwell wrote the image generator and the..."
+      "translated": "特雷弗·布莱克威尔编写了图像生成器和管理器，商家用这些工具来检索订单、查看统计信息和配置域名等。我编写了编辑器，商家用它来构建他们的网站。"
     },
     {
       "original": "The ordering system and image generator were written in C and C++, the manager mostly in Perl, and the editor in Lisp.[8] Price discrimination is so pervasive (how often have you heard a retailer claim that their buying power meant lower prices for you?) that I was surprised to find it was outlawed in the U.S.",
-      "translated": "[待翻译] The ordering system and image generator were writt..."
+      "translated": "订单系统和图像生成器是用C和C++编写的，管理器主要是用Perl编写的，编辑器则是用Lisp编写的。[8] 价格歧视如此普遍（你有多少次听到零售商声称他们的采购能力意味着你能够享受更低的价格？），以至于我惊讶地发现它在美国是非法的。"
     },
     {
       "original": "by the Robinson-Patman Act of 1936. This law does not appear to be vigorously enforced.[9] In No Logo, Naomi Klein says that clothing brands favored by \"urban youth\" do not try too hard to prevent shoplifting because in their target market the shoplifters are also the fashion leaders.[10] Companies often wonder what to outsource and what not to.",
-      "translated": "[待翻译] by the Robinson-Patman Act of 1936. This law does ..."
+      "translated": "根据1936年的《罗宾逊-帕特曼法》。这项法律似乎并未得到严格执行。在《无标识》一书中，娜奥米·克莱因提到，受“城市青年”喜爱的服装品牌并不会太努力地防止偷窃，因为在他们的目标市场中，偷窃者同时也是时尚引领者。公司经常在考虑什么可以外包，什么不可以外包。"
     },
     {
       "original": "One possible answer: outsource any job that's not directly exposed to competitive pressure, because outsourcing it will thereby expose it to competitive pressure.[11] The two guys were Dan Bricklin and Bob Frankston.",
-      "translated": "[待翻译] One possible answer: outsource any job that's not ..."
+      "translated": "一个可能的答案是：将任何不受市场竞争直接影响的工作外包，因为这样做会使这些工作暴露在市场竞争之下。这两个人是丹·布里克林和鲍勃·弗兰克斯特。"
     },
     {
       "original": "Dan wrote a prototype in Basic in a couple days, then over the course of the next year they worked together (mostly at night) to make a more powerful version written in 6502 machine language. Dan was at Harvard Business School at the time and Bob nominally had a day job writing software.",
-      "translated": "[待翻译] Dan wrote a prototype in Basic in a couple days, t..."
+      "translated": "丹在几天内用Basic编写了一个原型，然后在接下来的一年里，他们（主要在晚上）一起工作，用6502汇编语言制作了一个更强大的版本。当时丹在哈佛商学院，而鲍勃名义上有一份编写软件的白天工作。"
     },
     {
       "original": "\"There was no great risk in doing a business,\" Bob wrote, \"If it failed it failed. No big deal.\"[12] It's not quite as easy as I make it sound. It took a painfully long time for word of mouth to get going, and we did not start to get a lot of press coverage until we hired a PR firm (admittedly the best in the business) for $16,000 per month.",
-      "translated": "[待翻译] \"There was no great risk in doing a business,\" Bob..."
+      "translated": "“做生意并没有什么大风险，”鲍勃写道，“如果失败了，那就失败了。没什么大不了的。”这并不像我说的那么简单。口碑的建立花了很长时间，而且直到我们以每月16,000美元的价格聘请了一家公关公司（诚然，是业内最好的）之后，我们才开始获得大量的媒体报道。"
     },
     {
       "original": "However, it was true that the only significant channel was our own Web site.[13] If the Mac was so great, why did it lose? Cost, again. Microsoft concentrated on the software business, and unleashed a swarm of cheap component suppliers on Apple hardware.",
-      "translated": "[待翻译] However, it was true that the only significant cha..."
+      "translated": "然而，确实只有我们自己的网站是唯一的显著渠道。[13] 如果Mac如此优秀，为什么它会失败？再次，是因为成本。微软专注于软件业务，而对苹果的硬件则释放了一群低成本的组件供应商。"
     },
     {
       "original": "It did not help, either, that suits took over during a critical period.[14] One thing that would help Web-based applications, and help keep the next generation of software from being overshadowed by Microsoft, would be a good open-source browser.",
-      "translated": "[待翻译] It did not help, either, that suits took over duri..."
+      "translated": "这也无济于事，因为在关键时刻，西装革履的人接管了局面。[14] 有助于基于Web的应用程序发展，也有助于防止下一代软件被微软盖过风头的事情，就是有一个好的开源浏览器。"
     },
     {
       "original": "Mozilla is open-source but seems to have suffered from having been corporate software for so long. A small, fast browser that was actively maintained would be a great thing in itself, and would probably also encourage companies to build little Web appliances.Among other things, a proper open-source browser would cause HTTP and HTML to continue to evolve (as e.g.",
-      "translated": "[待翻译] Mozilla is open-source but seems to have suffered ..."
+      "translated": "Mozilla 是开源的，但似乎由于长期作为企业软件而受到影响。一个小型、快速且积极维护的浏览器本身将是一件很棒的事情，而且很可能还会鼓励公司构建小型网络设备。除此之外，一个真正的开源浏览器还将促使 HTTP 和 HTML 继续发展（例如："
     },
     {
       "original": "Perl has). It would help Web-based applications greatly to be able to distinguish between selecting a link and following it; all you'd need to do this would be a trivial enhancement of HTTP, to allow multiple urls in a request.",
-      "translated": "[待翻译] Perl has). It would help Web-based applications gr..."
+      "translated": "Perl 也有这样的功能。如果网络应用程序能够区分选择链接和跟随链接，那将大有帮助；为此，只需对 HTTP 进行简单的增强，允许在请求中包含多个 URL。"
     },
     {
       "original": "Cascading menus would also be good.If you want to change the world, write a new Mosaic. Think it's too late? In 1998 a lot of people thought it was too late to launch a new search engine, but Google proved them wrong.",
-      "translated": "[待翻译] Cascading menus would also be good.If you want to ..."
+      "translated": "级联菜单也会很好。如果你想改变世界，就编写一个新的Mosaic。认为太晚了吗？1998年，很多人认为推出新的搜索引擎已经太晚了，但谷歌证明他们是错的。"
     },
     {
       "original": "There is always room for something new if the current options suck enough. Make sure it works on all the free OSes first-- new things start with their users.[15] Trevor Blackwell, who probably knows more about this from personal experience than anyone, writes:\"I would go farther in saying that because server-based software is so hard on the programmers, it causes a fundamental economic shift away from large companies.",
-      "translated": "[待翻译] There is always room for something new if the curr..."
+      "translated": "总有空间接纳新事物，如果现有的选择足够糟糕的话。确保它首先能在所有免费的操作系统上运行——新事物总是从用户开始的。[15] 特雷弗·布莱克威尔，可能比任何人都更从个人经验中了解这一点，写道：“我还要进一步说，由于基于服务器的软件对程序员来说非常困难，这导致了经济上的根本性转变，远离大型公司。”"
     },
     {
       "original": "It requires the kind of intensity and dedication from programmers that they will only be willing to provide when it's their own company. Software companies can hire skilled people to work in a not-too-demanding environment, and can hire unskilled people to endure hardships, but they can't hire highly skilled people to bust their asses.",
-      "translated": "[待翻译] It requires the kind of intensity and dedication f..."
+      "translated": "这需要程序员投入那种只有在自己的公司时才会有的强度和 dedication。软件公司可以聘请有技能的人在不太苛刻的环境中工作，也可以聘请没有技能的人来忍受艰辛，但它们无法聘请高技能的人去拼命。"
     },
     {
       "original": "Since capital is no longer needed, big companies have little to bring to the table.\"[16] In the original version of this essay, I advised avoiding Javascript. That was a good plan in 2001, but Javascript now works.",
-      "translated": "[待翻译] Since capital is no longer needed, big companies h..."
+      "translated": "由于不再需要资本，大公司能提供的东西很少。\"[16] 在这篇论文的初版中，我建议避免使用JavaScript。2001年时这样做是明智的，但如今JavaScript已经可以正常使用了。"
     },
     {
       "original": "Thanks to Sarah Harlin, Trevor Blackwell, Robert Morris, Eric Raymond, Ken Anderson, and Dan Giffin for reading drafts of this paper; to Dan Bricklin and Bob Frankston for information about VisiCalc; and again to Ken Anderson for inviting me to speak at BBN.",
-      "translated": "[待翻译] Thanks to Sarah Harlin, Trevor Blackwell, Robert M..."
+      "translated": "感谢萨拉·哈林、特雷弗·布莱克威尔、罗伯特·莫里斯、埃里克·雷蒙德、肯·安德森和丹·吉芬阅读本文的草稿；感谢丹·布里克林和鲍勃·弗兰克斯顿提供关于VisiCalc的信息；再次感谢肯·安德森邀请我到BBN演讲。"
     },
     {
       "original": "You'll find this essay and 14 others in Hackers & Painters. Some Technical DetailsJapanese TranslationMicrosoft finally agreesGates Email",
-      "translated": "[待翻译] You'll find this essay and 14 others in Hackers & ..."
+      "translated": "你可以在《黑客与画家》中找到这篇论文以及另外14篇。一些技术细节日文翻译微软终于同意盖茨邮件"
     }
-  ]
+  ],
+  "translation_completed": "2025-07-29T00:32:31.251299",
+  "translation_stats": {
+    "total_paragraphs": 240,
+    "success_count": 236,
+    "success_rate": "98.3%"
+  }
 }

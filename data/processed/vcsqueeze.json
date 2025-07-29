@@ -45,119 +45,125 @@
   "paragraphs": [
     {
       "original": "November 2005In the next few years, venture capital funds will find themselves squeezed from four directions. They're already stuck with a seller's market, because of the huge amounts they raised at the end of the Bubble and still haven't invested.",
-      "translated": "[待翻译] November 2005In the next few years, venture capita..."
+      "translated": "2005年11月 在接下来的几年里，风险投资基金将发现自己从四个方面受到挤压。由于在互联网泡沫末期筹集了大量资金但尚未投资出去，他们已经陷入了卖方市场。"
     },
     {
       "original": "This by itself is not the end of the world. In fact, it's just a more extreme version of the norm in the VC business: too much money chasing too few deals.Unfortunately, those few deals now want less and less money, because it's getting so cheap to start a startup.",
-      "translated": "[待翻译] This by itself is not the end of the world. In fac..."
+      "translated": "这本身并不是世界末日。事实上，这只不过是风投行业常态的极端版本：太多的钱追逐太少的交易。不幸的是，现在这些为数不多的交易越来越不需要太多资金，因为创办一家初创公司的成本变得越来越低。"
     },
     {
       "original": "The four causes: open source, which makes software free; Moore's law, which makes hardware geometrically closer to free; the Web, which makes promotion free if you're good; and better languages, which make development a lot cheaper.When we started our startup in 1995, the first three were our biggest expenses.",
-      "translated": "[待翻译] The four causes: open source, which makes software..."
+      "translated": "四大原因：开源，使软件免费；摩尔定律，使硬件成本几何级下降接近免费；互联网，如果你足够优秀，可以免费进行推广；以及更优秀的编程语言，大大降低了开发成本。1995年我们创办公司时，前三个因素是我们最大的支出。"
     },
     {
       "original": "We had to pay $5000 for the Netscape Commerce Server, the only software that then supported secure http connections. We paid $3000 for a server with a 90 MHz processor and 32 meg of memory. And we paid a PR firm about $30,000 to promote our launch.Now you could get all three for nothing.",
-      "translated": "[待翻译] We had to pay $5000 for the Netscape Commerce Serv..."
+      "translated": "我们必须支付5000美元购买Netscape Commerce Server，这是当时唯一支持安全HTTP连接的软件。我们还支付了3000美元购买了一台配备90 MHz处理器和32兆内存的服务器。此外，我们还支付了一家公关公司大约30000美元来宣传我们的上线。现在，这三样东西你都可以免费获得。"
     },
     {
       "original": "You can get the software for free; people throw away computers more powerful than our first server; and if you make something good you can generate ten times as much traffic by word of mouth online than our first PR firm got through the print media.And of course another big change for the average startup is that programming languages have improved-- or rather, the median language has.",
-      "translated": "[待翻译] You can get the software for free; people throw aw..."
+      "translated": "你可以免费获得软件；人们丢弃的电脑比我们第一台服务器还要强大；如果你做出好的东西，通过网络的口口相传，你可以产生的流量是我们第一公关公司通过印刷媒体获得的十倍。当然，对于普通初创公司来说，另一个重大变化是编程语言的进步——或者说，中位数语言的进步。"
     },
     {
       "original": "At most startups ten years ago, software development meant ten programmers writing code in C++. Now the same work might be done by one or two using Python or Ruby.During the Bubble, a lot of people predicted that startups would outsource their development to India.",
-      "translated": "[待翻译] At most startups ten years ago, software developme..."
+      "translated": "十年前，大多数初创公司的软件开发意味着有十个程序员用C++编写代码。现在，同样的工作可能只需一两个人用Python或Ruby就能完成。在互联网泡沫期间，许多人预测初创公司会将开发工作外包给印度。"
     },
     {
       "original": "I think a better model for the future is David Heinemeier Hansson, who outsourced his development to a more powerful language instead. A lot of well-known applications are now, like BaseCamp, written by just one programmer.",
-      "translated": "[待翻译] I think a better model for the future is David Hei..."
+      "translated": "我认为未来更好的模式是大卫·海涅迈尔·汉森，他将开发外包给了更强大的语言。许多知名的应用，比如 BaseCamp，现在都是由一位程序员独立完成的。"
     },
     {
       "original": "And one guy is more than 10x cheaper than ten, because (a) he won't waste any time in meetings, and (b) since he's probably a founder, he can pay himself nothing.Because starting a startup is so cheap, venture capitalists now often want to give startups more money than the startups want to take.",
-      "translated": "[待翻译] And one guy is more than 10x cheaper than ten, bec..."
+      "translated": "而且，一个人的成本比十个人的成本要低10倍以上，因为（a）他不会在会议上浪费时间，（b）由于他很可能是创始人，可以不给自己发工资。因为创办一家初创公司的成本非常低，风投现在经常希望给初创公司提供的资金比这些公司想要接受的还要多。"
     },
     {
       "original": "VCs like to invest several million at a time. But as one VC told me after a startup he funded would only take about half a million, \"I don't know what we're going to do. Maybe we'll just have to give some of it back.\" Meaning give some of the fund back to the institutional investors who supplied it, because it wasn't going to be possible to invest it all.Into this already bad situation comes the third problem: Sarbanes-Oxley.",
-      "translated": "[待翻译] VCs like to invest several million at a time. But ..."
+      "translated": "风投喜欢一次投资数百万。但是一位风投在资助的一家初创公司只接受了大约五十万美元后告诉我，“我不知道该怎么办。也许我们只能退还一部分资金。” 意思是将部分资金退还给提供资金的机构投资者，因为他们无法将所有资金都投资出去。在这种已经很糟糕的情况下，又出现了第三个问题：《萨班斯-奥克斯利法案》。"
     },
     {
       "original": "Sarbanes-Oxley is a law, passed after the Bubble, that drastically increases the regulatory burden on public companies. And in addition to the cost of compliance, which is at least two million dollars a year, the law introduces frightening legal exposure for corporate officers.",
-      "translated": "[待翻译] Sarbanes-Oxley is a law, passed after the Bubble, ..."
+      "translated": "萨班斯-奥克斯利法案是互联网泡沫破裂后通过的一项法律，极大地增加了上市公司的监管负担。除了每年至少两百万美元的合规成本外，该法律还为公司高管带来了可怕的法律责任。"
     },
     {
       "original": "An experienced CFO I know said flatly: \"I would not want to be CFO of a public company now.\"You might think that responsible corporate governance is an area where you can't go too far. But you can go too far in any law, and this remark convinced me that Sarbanes-Oxley must have.",
-      "translated": "[待翻译] An experienced CFO I know said flatly: \"I would no..."
+      "translated": "我认识的一位经验丰富的首席财务官直截了当地说：“我现在不想担任上市公司的首席财务官。”你可能会认为，负责任的公司治理是一个怎么强调都不为过的领域。但任何法律都有可能矫枉过正，这句话让我相信，萨班斯-奥克斯利法确实已经过头了。"
     },
     {
       "original": "This CFO is both the smartest and the most upstanding money guy I know. If Sarbanes-Oxley deters people like him from being CFOs of public companies, that's proof enough that it's broken.Largely because of Sarbanes-Oxley, few startups go public now.",
-      "translated": "[待翻译] This CFO is both the smartest and the most upstand..."
+      "translated": "这位首席财务官是我认识的最聪明、最正直的财务专家。如果《萨班斯-奥克斯利法案》让像他这样的人不愿意担任上市公司的首席财务官，这足以证明该法案存在问题。很大程度上由于《萨班斯-奥克斯利法案》，现在很少有初创公司上市。"
     },
     {
       "original": "For all practical purposes, succeeding now equals getting bought. Which means VCs are now in the business of finding promising little 2-3 man startups and pumping them up into companies that cost $100 million to acquire.",
-      "translated": "[待翻译] For all practical purposes, succeeding now equals ..."
+      "translated": "从实际目的来看，现在成功等同于被收购。这意味着风险投资家现在致力于寻找有潜力的小型2-3人创业公司，并将它们打造成为价值1亿美元的公司以待收购。"
     },
     {
       "original": "They didn't mean to be in this business; it's just what their business has evolved into.Hence the fourth problem: the acquirers have begun to realize they can buy wholesale. Why should they wait for VCs to make the startups they want more expensive?",
-      "translated": "[待翻译] They didn't mean to be in this business; it's just..."
+      "translated": "他们并不是有意要涉足这一行业，这只是他们的业务演变的结果。因此，第四个问题是：收购方开始意识到他们可以批量购买。为什么他们要等着风险投资使他们想要的初创公司变得更加昂贵呢？"
     },
     {
       "original": "Most of what the VCs add, acquirers don't want anyway. The acquirers already have brand recognition and HR departments. What they really want is the software and the developers, and that's what the startup is in the early phase: concentrated software and developers.Google, typically, seems to have been the first to figure this out.",
-      "translated": "[待翻译] Most of what the VCs add, acquirers don't want any..."
+      "translated": "风险投资人在初创公司中增加的大部分内容，收购方其实并不需要。收购方已经拥有品牌认知和人力资源部门。他们真正想要的是软件和开发人员，而这正是初创公司在早期阶段所拥有的：集中的软件和开发人员。谷歌似乎通常是最早意识到这一点的公司。"
     },
     {
       "original": "\"Bring us your startups early,\" said Google's speaker at the Startup School. They're quite explicit about it: they like to acquire startups at just the point where they would do a Series A round. (The Series A round is the first round of real VC funding; it usually happens in the first year.) It is a brilliant strategy, and one that other big technology companies will no doubt try to duplicate.",
-      "translated": "[待翻译] \"Bring us your startups early,\" said Google's spea..."
+      "translated": "“尽早把你们的初创公司带给我们，”谷歌在创业学校的一位演讲者说。他们对此非常明确：他们喜欢在初创公司即将进行A轮融资时将其收购。（A轮融资是首次真正的风险投资；通常发生在公司成立的第一年。）这是一个非常聪明的策略，其他大型科技公司无疑也会试图效仿。"
     },
     {
       "original": "Unless they want to have still more of their lunch eaten by Google.Of course, Google has an advantage in buying startups: a lot of the people there are rich, or expect to be when their options vest. Ordinary employees find it very hard to recommend an acquisition; it's just too annoying to see a bunch of twenty year olds get rich when you're still working for salary.",
-      "translated": "[待翻译] Unless they want to have still more of their lunch..."
+      "translated": "除非他们希望自己的午餐被谷歌吞噬得更多。当然，谷歌在收购初创公司方面有优势：那里有很多人已经富有，或者期望在自己的期权兑现时变得富有。普通员工很难推荐收购；看到一群二十多岁的年轻人一夜暴富，而自己还在为薪水工作，这实在太令人恼火。"
     },
     {
       "original": "Even if it's the right thing for your company to do.The Solution(s)Bad as things look now, there is a way for VCs to save themselves. They need to do two things, one of which won't surprise them, and another that will seem an anathema.Let's start with the obvious one: lobby to get Sarbanes-Oxley loosened.",
-      "translated": "[待翻译] Even if it's the right thing for your company to d..."
+      "translated": "即使这是贵公司应该做的事情。解决方案尽管目前形势严峻，风投公司仍有自救之道。他们需要做两件事，其中一件对他们来说并不意外，而另一件则可能会让他们觉得难以接受。让我们先从显而易见的一点开始：游说放松萨班斯-奥克斯利法案的限制。"
     },
     {
       "original": "This law was created to prevent future Enrons, not to destroy the IPO market. Since the IPO market was practically dead when it passed, few saw what bad effects it would have. But now that technology has recovered from the last bust, we can see clearly what a bottleneck Sarbanes-Oxley has become.Startups are fragile plants—seedlings, in fact.",
-      "translated": "[待翻译] This law was created to prevent future Enrons, not..."
+      "translated": "这部法律的制定是为了防止未来出现像安然这样的事件，而不是为了摧毁首次公开募股市场。由于该法律通过时首次公开募股市场几乎已经死亡，因此很少有人预见到它会产生什么不良影响。但现在技术已经从上次的衰退中恢复过来，我们可以清楚地看到《萨班斯-奥克斯利法案》已经成为了一个瓶颈。初创企业是脆弱的植物——实际上是幼苗。"
     },
     {
       "original": "These seedlings are worth protecting, because they grow into the trees of the economy. Much of the economy's growth is their growth. I think most politicians realize that. But they don't realize just how fragile startups are, and how easily they can become collateral damage of laws meant to fix some other problem.Still more dangerously, when you destroy startups, they make very little noise.",
-      "translated": "[待翻译] These seedlings are worth protecting, because they..."
+      "translated": "这些幼苗值得保护，因为它们会成长为经济的树木。经济的大部分增长就是它们的增长。我认为大多数政客都意识到了这一点。但他们没有意识到初创企业是多么脆弱，以及这些企业在旨在解决其他问题的法律中是多么容易成为附带损害。更危险的是，当你摧毁初创企业时，它们几乎不会发出任何声音。"
     },
     {
       "original": "If you step on the toes of the coal industry, you'll hear about it. But if you inadvertantly squash the startup industry, all that happens is that the founders of the next Google stay in grad school instead of starting a company.My second suggestion will seem shocking to VCs: let founders cash out partially in the Series A round.",
-      "translated": "[待翻译] If you step on the toes of the coal industry, you'..."
+      "translated": "如果你踩到煤炭行业的脚趾，你会听到他们的声音。但如果你无意中打压了初创行业，结果只是下一个谷歌的创始人选择留在研究生院而不是创办公司。我的第二个建议对风险投资者来说可能会感到震惊：允许创始人在A轮融资中部分套现。"
     },
     {
       "original": "At the moment, when VCs invest in a startup, all the stock they get is newly issued and all the money goes to the company. They could buy some stock directly from the founders as well.Most VCs have an almost religious rule against doing this.",
-      "translated": "[待翻译] At the moment, when VCs invest in a startup, all t..."
+      "translated": "目前，当风险投资公司投资初创企业时，他们获得的所有股票都是新发行的，而所有的资金都流向了公司。他们也可以直接从创始人那里购买一些股票。然而，大多数风险投资公司对此几乎有一种宗教般的禁忌。"
     },
     {
       "original": "They don't want founders to get a penny till the company is sold or goes public. VCs are obsessed with control, and they worry that they'll have less leverage over the founders if the founders have any money.This is a dumb plan.",
-      "translated": "[待翻译] They don't want founders to get a penny till the c..."
+      "translated": "他们不希望创始人们在公司被出售或上市之前拿到一分钱。风险投资家们热衷于控制，他们担心如果创始人们有了钱，就会失去对他们的控制。这是一个愚蠢的计划。"
     },
     {
       "original": "In fact, letting the founders sell a little stock early would generally be better for the company, because it would cause the founders' attitudes toward risk to be aligned with the VCs'. As things currently work, their attitudes toward risk tend to be diametrically opposed: the founders, who have nothing, would prefer a 100% chance of $1 million to a 20% chance of $10 million, while the VCs can afford to be \"rational\" and prefer the latter.Whatever they say, the reason founders are selling their companies early instead of doing Series A rounds is that they get paid up front.",
-      "translated": "[待翻译] In fact, letting the founders sell a little stock ..."
+      "translated": "事实上，让创始人提前出售部分股份通常对公司的利益更有利，因为这会使创始人的风险态度与风险投资家的风险态度保持一致。按照目前的情况，他们的风险态度往往是截然相反的：创始人一无所有，因此更倾向于100%的机会获得100万美元，而不是20%的机会获得1000万美元；而风险投资家则可以“理性”地选择后者。无论他们怎么说，创始人选择提前出售公司而不是进行A轮融资的原因是他们可以提前获得报酬。"
     },
     {
       "original": "That first million is just worth so much more than the subsequent ones. If founders could sell a little stock early, they'd be happy to take VC money and bet the rest on a bigger outcome.So why not let the founders have that first million, or at least half million?",
-      "translated": "[待翻译] That first million is just worth so much more than..."
+      "translated": "那第一个一百万的价值远远超过后续的百万。如果创业者能在早期出售少量股份，他们会很乐意接受风投资金，并将剩余的资金押注在更大的成果上。那么为什么不让他们获得那第一个一百万，或者至少一半呢？"
     },
     {
       "original": "The VCs would get same number of shares for the money. So what if some of the money would go to the founders instead of the company?Some VCs will say this is unthinkable—that they want all their money to be put to work growing the company.",
-      "translated": "[待翻译] The VCs would get same number of shares for the mo..."
+      "translated": "风险投资方将以相同金额获得相同数量的股份。所以，如果部分资金流向创始人而不是公司，又如何呢？有些风险投资方会认为这是不可接受的——他们希望自己的所有资金都能用于公司的增长。"
     },
     {
       "original": "But the fact is, the huge size of current VC investments is dictated by the structure of VC funds, not the needs of startups. Often as not these large investments go to work destroying the company rather than growing it.The angel investors who funded our startup let the founders sell some stock directly to them, and it was a good deal for everyone.",
-      "translated": "[待翻译] But the fact is, the huge size of current VC inves..."
+      "translated": "但事实是，目前风险投资的巨额规模是由风投基金的结构决定的，而不是初创企业的需求。这些大额投资往往适得其反，破坏公司而非助其成长。为我们的初创企业提供资金的天使投资者让创始人可以直接向他们出售一些股票，这对所有人来说都是一个好交易。"
     },
     {
       "original": "The angels made a huge return on that investment, so they're happy. And for us founders it blunted the terrifying all-or-nothingness of a startup, which in its raw form is more a distraction than a motivator.If VCs are frightened at the idea of letting founders partially cash out, let me tell them something still more frightening: you are now competing directly with Google.",
-      "translated": "[待翻译] The angels made a huge return on that investment, ..."
+      "translated": "天使投资者在这项投资上获得了巨大的回报，所以他们很高兴。对于我们创始人来说，这减弱了创业公司那种可怕的“要么全有要么全无”的局面，这种局面在其原始形式下更多的是分散注意力而不是激励。如果风险投资家对让创始人部分套现感到害怕，那让我告诉他们更可怕的事情：你们现在正直接与谷歌竞争。"
     },
     {
       "original": "Thanks to Trevor Blackwell, Sarah Harlin, Jessica Livingston, and Robert Morris for reading drafts of this.Romanian TranslationHebrew TranslationJapanese Translation If you liked this, you may also like Hackers & Painters.",
-      "translated": "[待翻译] Thanks to Trevor Blackwell, Sarah Harlin, Jessica ..."
+      "translated": "感谢特雷弗·布莱克威尔、萨拉·哈林、杰西卡·利文斯顿和罗伯特·莫里斯阅读本文的草稿。罗马尼亚语翻译希伯来语翻译日语翻译如果你喜欢这篇文章，你可能也会喜欢《黑客与画家》。"
     }
-  ]
+  ],
+  "translation_completed": "2025-07-28T14:48:03.057063",
+  "translation_stats": {
+    "total_paragraphs": 29,
+    "success_count": 29,
+    "success_rate": "100.0%"
+  }
 }

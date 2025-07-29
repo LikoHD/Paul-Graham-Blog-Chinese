@@ -36,83 +36,89 @@
   "paragraphs": [
     {
       "original": "March 2005All the best hackers I know are gradually switching to Macs. My friend Robert said his whole research group at MIT recently bought themselves Powerbooks. These guys are not the graphic designers and grandmas who were buying Macs at Apple's low point in the mid 1990s.",
-      "translated": "[待翻译] March 2005All the best hackers I know are graduall..."
+      "translated": "2005年3月，我认识的所有顶尖黑客都在逐渐转向使用Mac。我的朋友罗伯特说，他们整个MIT的研究小组最近都给自己买了Powerbook。这些人可不是苹果公司在90年代中期陷入低谷时购买Mac的那些图形设计师和祖母。"
     },
     {
       "original": "They're about as hardcore OS hackers as you can get.The reason, of course, is OS X. Powerbooks are beautifully designed and run FreeBSD. What more do you need to know?I got a Powerbook at the end of last year.",
-      "translated": "[待翻译] They're about as hardcore OS hackers as you can ge..."
+      "translated": "他们可以说是操作系统黑客中的佼佼者。当然，原因就是OS X。Powerbook设计精美，运行FreeBSD。你还需要知道些什么呢？去年年底我买了一台Powerbook。"
     },
     {
       "original": "When my IBM Thinkpad's hard disk died soon after, it became my only laptop. And when my friend Trevor showed up at my house recently, he was carrying a Powerbook identical to mine.For most of us, it's not a switch to Apple, but a return.",
-      "translated": "[待翻译] When my IBM Thinkpad's hard disk died soon after, ..."
+      "translated": "当我的IBM ThinkPad的硬盘不久后坏掉时，它成了我唯一的笔记本电脑。最近当我的朋友特雷弗来我家时，他拿着一台和我的一模一样的Powerbook。对我们大多数人来说，这并不是转向苹果，而是一种回归。"
     },
     {
       "original": "Hard as this was to believe in the mid 90s, the Mac was in its time the canonical hacker's computer.In the fall of 1983, the professor in one of my college CS classes got up and announced, like a prophet, that there would soon be a computer with half a MIPS of processing power that would fit under an airline seat and cost so little that we could save enough to buy one from a summer job.",
-      "translated": "[待翻译] Hard as this was to believe in the mid 90s, the Ma..."
+      "translated": "尽管这在90年代中期难以置信，但Mac在其时代是典型的黑客计算机。1983年秋天，我在大学的一门计算机科学课程的教授站起来，像先知一样宣布，不久将有一台计算机，其处理能力达到半MIPS，可以放在飞机座椅下方，而且价格如此低廉，我们可以通过暑期工作赚够钱来购买一台。"
     },
     {
       "original": "The whole room gasped. And when the Mac appeared, it was even better than we'd hoped. It was small and powerful and cheap, as promised. But it was also something we'd never considered a computer could be: fabulously well designed.I had to have one.",
-      "translated": "[待翻译] The whole room gasped. And when the Mac appeared, ..."
+      "translated": "整个房间的人都倒吸了一口凉气。当那台Mac出现时，它比我们期待的还要好。它小巧、强大且价格实惠，正如所承诺的那样。但更让人惊喜的是，它还有一种我们从未想过计算机可以具有的设计：极其出色。我一定要拥有一台。"
     },
     {
       "original": "And I wasn't alone. In the mid to late 1980s, all the hackers I knew were either writing software for the Mac, or wanted to. Every futon sofa in Cambridge seemed to have the same fat white book lying open on it.",
-      "translated": "[待翻译] And I wasn't alone. In the mid to late 1980s, all ..."
+      "translated": "而且我并不是孤军奋战。在1980年代中期到晚期，我认识的所有黑客要么在为Mac编写软件，要么渴望这么做。剑桥的每张 futon 沙发上似乎都放着同一本厚厚的白皮书，摊开着。"
     },
     {
       "original": "If you turned it over, it said \"Inside Macintosh.\" Then came Linux and FreeBSD, and hackers, who follow the most powerful OS wherever it leads, found themselves switching to Intel boxes. If you cared about design, you could buy a Thinkpad, which was at least not actively repellent, if you could get the Intel and Microsoft stickers off the front.",
-      "translated": "[待翻译] If you turned it over, it said \"Inside Macintosh.\"..."
+      "translated": "如果你把它翻过来，上面写着“Inside Macintosh”。接着是Linux和FreeBSD的出现，而那些追随最强大操作系统的黑客们发现自己转而使用Intel的机器。如果你在意设计，可以买一台Thinkpad，至少它不会让人感到反感，只要你能把前面的Intel和Microsoft贴纸撕掉。"
     },
     {
       "original": "[1]With OS X, the hackers are back. When I walked into the Apple store in Cambridge, it was like coming home. Much was changed, but there was still that Apple coolness in the air, that feeling that the show was being run by someone who really cared, instead of random corporate deal-makers.So what, the business world may say.",
-      "translated": "[待翻译] [1]With OS X, the hackers are back. When I walked ..."
+      "translated": "有了 OS X，黑客们又回来了。当我走进剑桥的苹果商店时，感觉就像回到了家。虽然许多东西都变了，但空气中仍然弥漫着那种苹果特有的酷感，那种感觉就像这个展览是由一个真正关心它的人在管理，而不是一些随机的公司交易撮合者。所以又怎样呢，商界可能会说。"
     },
     {
       "original": "Who cares if hackers like Apple again? How big is the hacker market, after all?Quite small, but important out of proportion to its size. When it comes to computers, what hackers are doing now, everyone will be doing in ten years.",
-      "translated": "[待翻译] Who cares if hackers like Apple again? How big is ..."
+      "translated": "谁在乎黑客是否又喜欢苹果了？毕竟，黑客市场的规模有多大呢？其实很小，但其重要性远超其规模。说到计算机，现在黑客在做的事情，十年后大家都会做。"
     },
     {
       "original": "Almost all technology, from Unix to bitmapped displays to the Web, became popular first within CS departments and research labs, and gradually spread to the rest of the world.I remember telling my father back in 1986 that there was a new kind of computer called a Sun that was a serious Unix machine, but so small and cheap that you could have one of your own to sit in front of, instead of sitting in front of a VT100 connected to a single central Vax.",
-      "translated": "[待翻译] Almost all technology, from Unix to bitmapped disp..."
+      "translated": "几乎所有技术，从Unix到位图显示再到网络，最初都是在计算机科学系和研究实验室中流行起来，然后逐渐传播到世界的其他地方。我还记得在1986年时告诉我的父亲，有一种新型的计算机叫Sun，它是一台真正的Unix机器，但体积小且价格便宜，你可以拥有自己的个人机器来使用，而不是坐在连接到单一中央Vax的VT100终端前。"
     },
     {
       "original": "Maybe, I suggested, he should buy some stock in this company. I think he really wishes he'd listened.In 1994 my friend Koling wanted to talk to his girlfriend in Taiwan, and to save long-distance bills he wrote some software that would convert sound to data packets that could be sent over the Internet.",
-      "translated": "[待翻译] Maybe, I suggested, he should buy some stock in th..."
+      "translated": "也许，我建议他应该买一些这家公司的股票。我想他现在真的后悔没有听我的。1994年，我的朋友科林想和他的台湾女友通话，为了节省长途电话费，他编写了一些软件，可以将声音转换成数据包通过互联网发送。"
     },
     {
       "original": "We weren't sure at the time whether this was a proper use of the Internet, which was still then a quasi-government entity. What he was doing is now called VoIP, and it is a huge and rapidly growing business.If you want to know what ordinary people will be doing with computers in ten years, just walk around the CS department at a good university.",
-      "translated": "[待翻译] We weren't sure at the time whether this was a pro..."
+      "translated": "当时我们不确定这是否是互联网的正当使用，因为那时互联网仍是一个准政府机构。他所做的事情现在被称为VoIP，这是一个庞大且快速增长的业务。如果你想了解十年后普通人会用电脑做什么，只要到一所好大学的计算机科学系逛一逛就行了。"
     },
     {
       "original": "Whatever they're doing, you'll be doing.In the matter of \"platforms\" this tendency is even more pronounced, because novel software originates with great hackers, and they tend to write it first for whatever computer they personally use.",
-      "translated": "[待翻译] Whatever they're doing, you'll be doing.In the mat..."
+      "translated": "无论他们在做什么，你都会在做同样的事情。在“平台”问题上，这种倾向更为明显，因为新软件通常是由优秀的黑客开发的，而他们往往会首先为他们自己使用的计算机编写这些软件。"
     },
     {
       "original": "And software sells hardware. Many if not most of the initial sales of the Apple II came from people who bought one to run VisiCalc. And why did Bricklin and Frankston write VisiCalc for the Apple II?",
-      "translated": "[待翻译] And software sells hardware. Many if not most of t..."
+      "translated": "软件带动了硬件的销售。苹果二号的初期销售中，许多甚至大多数都是因为人们想运行VisiCalc而购买的。那么，布里克林和弗兰克斯坦为什么为苹果二号编写VisiCalc呢？"
     },
     {
       "original": "Because they personally liked it. They could have chosen any machine to make into a star.If you want to attract hackers to write software that will sell your hardware, you have to make it something that they themselves use.",
-      "translated": "[待翻译] Because they personally liked it. They could have ..."
+      "translated": "因为他们个人喜欢它。他们本可以选择任何一台机器来打造明星产品。如果你想吸引黑客编写能销售你硬件的软件，就必须让他们自己也使用这个产品。"
     },
     {
       "original": "It's not enough to make it \"open.\" It has to be open and good.And open and good is what Macs are again, finally. The intervening years have created a situation that is, as far as I know, without precedent: Apple is popular at the low end and the high end, but not in the middle.",
-      "translated": "[待翻译] It's not enough to make it \"open.\" It has to be op..."
+      "translated": "仅仅让它“开放”是不够的。它必须既开放又好。而既开放又好，正是Mac终于再次做到的。这中间的几年造就了一种据我所知前所未有的局面：苹果在低端和高端市场都很受欢迎，但在中端市场却不吃香。"
     },
     {
       "original": "My seventy year old mother has a Mac laptop. My friends with PhDs in computer science have Mac laptops. [2] And yet Apple's overall market share is still small.Though unprecedented, I predict this situation is also temporary.So Dad, there's this company called Apple.",
-      "translated": "[待翻译] My seventy year old mother has a Mac laptop. My fr..."
+      "translated": "我70岁的妈妈有一台Mac笔记本电脑。我那些计算机科学博士的朋友也有Mac笔记本电脑。[2] 然而，苹果的整体市场份额仍然很小。尽管前所未有，但我预测这种情况也是暂时的。所以，爸爸，有这么一家公司叫苹果。"
     },
     {
       "original": "They make a new kind of computer that's as well designed as a Bang & Olufsen stereo system, and underneath is the best Unix machine you can buy. Yes, the price to earnings ratio is kind of high, but I think a lot of people are going to want these.",
-      "translated": "[待翻译] They make a new kind of computer that's as well de..."
+      "translated": "他们制造了一种新型计算机，外观设计如同 Bang & Olufsen 的立体声音响系统，而其内部则是你能买到的最好的 Unix 机器。是的，市盈率有点高，但我认为很多人会想要这种计算机。"
     },
     {
       "original": "Notes[1] These horrible stickers are much like the intrusive ads popular on pre-Google search engines. They say to the customer: you are unimportant. We care about Intel and Microsoft, not you.[2] Y Combinator is (we hope) visited mostly by hackers.",
-      "translated": "[待翻译] Notes[1] These horrible stickers are much like the..."
+      "translated": "注释[1] 这些讨厌的贴纸就像谷歌前的搜索引擎上流行的 intrusive 广告一样。它们向客户传达的信息是：你无关紧要。我们在乎的是英特尔和微软，而不是你。[2] Y Combinator（我们希望）主要由黑客访问。"
     },
     {
       "original": "The proportions of OSes are: Windows 66.4%, Macintosh 18.8%, Linux 11.4%, and FreeBSD 1.5%. The Mac number is a big change from what it would have been five years ago.Italian TranslationRussian TranslationChinese Translation",
-      "translated": "[待翻译] The proportions of OSes are: Windows 66.4%, Macint..."
+      "translated": "操作系统所占比例为：Windows 66.4%，Macintosh 18.8%，Linux 11.4%，FreeBSD 1.5%。Mac 的比例与五年前相比有了很大变化。"
     }
-  ]
+  ],
+  "translation_completed": "2025-07-28T14:01:38.022893",
+  "translation_stats": {
+    "total_paragraphs": 20,
+    "success_count": 20,
+    "success_rate": "100.0%"
+  }
 }

@@ -90,305 +90,305 @@
   "paragraphs": [
     {
       "original": "Want to start a startup? Get funded by Y Combinator. March 2012One of the more surprising things I've noticed while working on Y Combinator is how frightening the most ambitious startup ideas are. In this essay I'm going to demonstrate this phenomenon by describing some.",
-      "translated": "[翻译失败] Want to start a startup? Get funded by Y Combinato..."
+      "translated": "想创办一家初创公司吗？获得 Y Combinator 的投资。2012 年 3 月\n\n在我为 Y Combinator 工作期间，我发现一个更令人惊讶的现象是，最雄心勃勃的初创公司想法有多么可怕。在这篇文章中，我将通过描述一些这样的想法来展示这一现象。"
     },
     {
       "original": "Any one of them could make you a billionaire. That might sound like an attractive prospect, and yet when I describe these ideas you may notice you find yourself shrinking away from them.Don't worry, it's not a sign of weakness.",
-      "translated": "[翻译失败] Any one of them could make you a billionaire. That..."
+      "translated": "它们中的任何一个都能让你成为亿万富翁。这听起来可能是一个很有吸引力的前景，但当你听到这些想法时，你可能会发现自己在退缩。别担心，这并不是软弱的表现。"
     },
     {
       "original": "Arguably it's a sign of sanity. The biggest startup ideas are terrifying. And not just because they'd be a lot of work. The biggest ideas seem to threaten your identity: you wonder if you'd have enough ambition to carry them through.There's a scene in Being John Malkovich where the nerdy hero encounters a very attractive, sophisticated woman.",
-      "translated": "[翻译失败] Arguably it's a sign of sanity. The biggest startu..."
+      "translated": "可以说这是一种理智的表现。最大的创业点子令人望而生畏。不仅仅是因为它们需要大量的工作。最大的点子似乎威胁到了你的身份：你会怀疑自己是否有足够的野心将它们付诸实践。在电影《成为约翰·马尔科维奇》中，有一个场景是书呆子主角遇到了一个非常吸引人、 sophistication 的女性。"
     },
     {
       "original": "She says to him: Here's the thing: If you ever got me, you wouldn't have a clue what to do with me. That's what these ideas say to us.This phenomenon is one of the most important things you can understand about startups.",
-      "translated": "[翻译失败] She says to him: Here's the thing: If you ever got..."
+      "translated": "她对他说：事情是这样的：如果你真的得到了我，你根本就不知道该怎么对待我。这些想法就是这样对我们说的。这种现象是你需要理解的关于初创企业最重要的一点。"
     },
     {
       "original": "[1] You'd expect big startup ideas to be attractive, but actually they tend to repel you. And that has a bunch of consequences. It means these ideas are invisible to most people who try to think of startup ideas, because their subconscious filters them out.",
-      "translated": "[翻译失败] [1] You'd expect big startup ideas to be attractiv..."
+      "translated": "[1] 你可能会认为宏大的创业点子会很有吸引力，但实际上它们往往会让人望而却步。而这带来了一系列的后果。这意味着这些点子对大多数试图思考创业点子的人来说是不可见的，因为他们的潜意识会把这些点子过滤掉。"
     },
     {
       "original": "Even the most ambitious people are probably best off approaching them obliquely.1. A New Search EngineThe best ideas are just on the right side of impossible. I don't know if this one is possible, but there are signs it might be.",
-      "translated": "[翻译失败] Even the most ambitious people are probably best o..."
+      "translated": "即使是最有野心的人，也最好采取间接的方式。1. 一个新的搜索引擎最好的想法往往只是刚刚好可行。我不知道这个想法是否可行，但有一些迹象表明它可能是可行的。"
     },
     {
       "original": "Making a new search engine means competing with Google, and recently I've noticed some cracks in their fortress.The point when it became clear to me that Microsoft had lost their way was when they decided to get into the search business.",
-      "translated": "[翻译失败] Making a new search engine means competing with Go..."
+      "translated": "创建一个新的搜索引擎意味着要与谷歌竞争，而最近我注意到他们的堡垒出现了一些裂痕。当微软决定进入搜索业务时，我清楚地意识到他们已经迷失了方向。"
     },
     {
       "original": "That was not a natural move for Microsoft. They did it because they were afraid of Google, and Google was in the search business. But this meant (a) Google was now setting Microsoft's agenda, and (b) Microsoft's agenda consisted of stuff they weren't good at.Microsoft : Google :: Google : Facebook.That does not by itself mean there's room for a new search engine, but lately when using Google search I've found myself nostalgic for the old days, when Google was true to its own slightly aspy self.",
-      "translated": "[翻译失败] That was not a natural move for Microsoft. They di..."
+      "translated": "这并不是微软的自然之举。他们这样做是因为害怕谷歌，而谷歌在搜索业务上有着重要地位。但这意味着（a）谷歌现在正在主导微软的议程，（b）微软的议程包括了他们不擅长的领域。微软对谷歌的关系就像谷歌对脸书的关系。这本身并不意味着有新搜索引擎的市场空间，但最近在使用谷歌搜索时，我发现自己怀念起过去的日子，那时候谷歌还忠实于自己那略带书卷气的本色。"
     },
     {
       "original": "Google used to give me a page of the right answers, fast, with no clutter. Now the results seem inspired by the Scientologist principle that what's true is what's true for you. And the pages don't have the clean, sparse feel they used to.",
-      "translated": "[翻译失败] Google used to give me a page of the right answers..."
+      "translated": "谷歌过去常常迅速地给我提供一页正确的答案，没有杂乱的信息。现在，搜索结果似乎受到科学教义原则的启发，即什么是真实的取决于你认为什么是真实的。而且，页面也不再像以前那样简洁明了。"
     },
     {
       "original": "Google search results used to look like the output of a Unix utility. Now if I accidentally put the cursor in the wrong place, anything might happen.The way to win here is to build the search engine all the hackers use.",
-      "translated": "[翻译失败] Google search results used to look like the output..."
+      "translated": "谷歌搜索结果过去看起来像是Unix工具的输出。现在，如果我不小心把光标放在错误的位置，任何事情都有可能发生。在这里获胜的方法是建立所有黑客都使用的搜索引擎。"
     },
     {
       "original": "A search engine whose users consisted of the top 10,000 hackers and no one else would be in a very powerful position despite its small size, just as Google was when it was that search engine. And for the first time in over a decade the idea of switching seems thinkable to me.Since anyone capable of starting this company is one of those 10,000 hackers, the route is at least straightforward: make the search engine you yourself want.",
-      "translated": "[翻译失败] A search engine whose users consisted of the top 1..."
+      "translated": "一个用户仅由顶尖的10,000名黑客组成的搜索引擎，尽管规模不大，但会处于非常有利的位置，就像当初的谷歌一样。十多年来，我第一次觉得更换搜索引擎的想法变得可行。由于任何能够创办这家公司的人都属于这10,000名黑客之一，因此路径至少是明确的：创建你自己想要的搜索引擎。"
     },
     {
       "original": "Feel free to make it excessively hackerish. Make it really good for code search, for example. Would you like search queries to be Turing complete? Anything that gets you those 10,000 users is ipso facto good.Don't worry if something you want to do will constrain you in the long term, because if you don't get that initial core of users, there won't be a long term.",
-      "translated": "[翻译失败] Feel free to make it excessively hackerish. Make i..."
+      "translated": "请尽量使其充满黑客风格。例如，使其非常适用于代码搜索。你希望搜索查询是图灵完备的吗？任何能帮助你获得那10,000个用户的方法都是当然好的。不要担心某些你想要做的事情会在长远来看限制你，因为如果你没有获得那最初的用户核心，就不会有长远的发展。"
     },
     {
       "original": "If you can just build something that you and your friends genuinely prefer to Google, you're already about 10% of the way to an IPO, just as Facebook was (though they probably didn't realize it) when they got all the Harvard undergrads.2.",
-      "translated": "[翻译失败] If you can just build something that you and your ..."
+      "translated": "如果你能创建一个你和你的朋友真正优于谷歌的产品，你已经走到了通往首次公开募股（IPO）的路上大约10%的路程，就像Facebook在吸引所有哈佛本科生时所处的情况一样（尽管他们可能没有意识到这一点）。"
     },
     {
       "original": "Replace EmailEmail was not designed to be used the way we use it now. Email is not a messaging protocol. It's a todo list. Or rather, my inbox is a todo list, and email is the way things get onto it.",
-      "translated": "[翻译失败] Replace EmailEmail was not designed to be used the..."
+      "translated": "替换电子邮件\n\n电子邮件并非为如今的使用方式而设计。电子邮件不是一个消息协议。它是一个待办事项列表。或者说，我的收件箱是一个待办事项列表，而电子邮件是将事项加入其中的方式。"
     },
     {
       "original": "But it is a disastrously bad todo list.I'm open to different types of solutions to this problem, but I suspect that tweaking the inbox is not enough, and that email has to be replaced with a new protocol.",
-      "translated": "[翻译失败] But it is a disastrously bad todo list.I'm open to..."
+      "translated": "但这是一个糟糕透顶的待办事项列表。我愿意接受解决这个问题的不同方法，但我怀疑仅仅调整收件箱是不够的，电子邮件必须被一个新的协议所取代。"
     },
     {
       "original": "This new protocol should be a todo list protocol, not a messaging protocol, although there is a degenerate case where what someone wants you to do is: read the following text.As a todo list protocol, the new protocol should give more power to the recipient than email does.",
-      "translated": "[翻译失败] This new protocol should be a todo list protocol, ..."
+      "translated": "这个新协议应该是一个待办事项协议，而不是消息协议，尽管存在一种退化的情况，即某人希望你做的事情是：阅读以下文本。作为待办事项协议，新协议应该给予接收者比电子邮件更多的权力。"
     },
     {
       "original": "I want there to be more restrictions on what someone can put on my todo list. And when someone can put something on my todo list, I want them to tell me more about what they want from me. Do they want me to do something beyond just reading some text?",
-      "translated": "[翻译失败] I want there to be more restrictions on what someo..."
+      "translated": "我希望对别人能往我的待办事项列表中添加的内容有更多的限制。当有人往我的待办事项列表中添加内容时，我希望他们能告诉我更多他们需要我做什么。他们是否希望我除了阅读某些文本之外还要做更多的事情？"
     },
     {
       "original": "How important is it? (There obviously has to be some mechanism to prevent people from saying everything is important.) When does it have to be done?This is one of those ideas that's like an irresistible force meeting an immovable object.",
-      "translated": "[翻译失败] How important is it? (There obviously has to be so..."
+      "translated": "有多重要？（显然必须有一些机制来防止人们说一切都重要。）必须在什么时候完成？这是一个不可抗拒的力量遇到一个不可动摇的物体的想法。"
     },
     {
       "original": "On one hand, entrenched protocols are impossible to replace. On the other, it seems unlikely that people in 100 years will still be living in the same email hell we do now. And if email is going to get replaced eventually, why not now?If you do it right, you may be able to avoid the usual chicken and egg problem new protocols face, because some of the most powerful people in the world will be among the first to switch to it.",
-      "translated": "[翻译失败] On one hand, entrenched protocols are impossible t..."
+      "translated": "一方面，根深蒂固的协议不可能被取代。另一方面，似乎不可能100年后人们仍然生活在我们现在的电子邮件地狱中。如果电子邮件最终会被替代，为什么不是现在呢？如果你做得正确，你可能能够避免新协议通常面临的先有鸡还是先有蛋的问题，因为世界上一些最有影响力的人将是第一批转换到新协议的用户。"
     },
     {
       "original": "They're all at the mercy of email too.Whatever you build, make it fast. GMail has become painfully slow. [2] If you made something no better than GMail, but fast, that alone would let you start to pull users away from GMail.GMail is slow because Google can't afford to spend a lot on it.",
-      "translated": "[翻译失败] They're all at the mercy of email too.Whatever you..."
+      "translated": "他们都受制于电子邮件。无论你构建什么，都要确保它快速。GMail 已经变得非常慢。[2] 如果你开发的东西虽然不比 GMail 好，但速度快，这就能让你开始从 GMail 那里吸引用户。GMail 慢是因为谷歌不能在这方面投入太多资金。"
     },
     {
       "original": "But people will pay for this. I'd have no problem paying $50 a month. Considering how much time I spend in email, it's kind of scary to think how much I'd be justified in paying. At least $1000 a month.",
-      "translated": "[翻译失败] But people will pay for this. I'd have no problem ..."
+      "translated": "但人们会为此付费。我每个月付50美元没问题。考虑到我在电子邮件上花费的时间，想想我应该付多少钱还真有点吓人。至少每月1000美元。"
     },
     {
       "original": "If I spend several hours a day reading and writing email, that would be a cheap way to make my life better.3. Replace UniversitiesPeople are all over this idea lately, and I think they're onto something.",
-      "translated": "[翻译失败] If I spend several hours a day reading and writing..."
+      "translated": "如果我每天花几个小时阅读和撰写电子邮件，这将是一种廉价的方式来改善我的生活。3. 取代大学最近人们非常关注这个想法，我认为他们确实抓住了某些东西。"
     },
     {
       "original": "I'm reluctant to suggest that an institution that's been around for a millennium is finished just because of some mistakes they made in the last few decades, but certainly in the last few decades US universities seem to have been headed down the wrong path.",
-      "translated": "[翻译失败] I'm reluctant to suggest that an institution that'..."
+      "translated": "我不愿因为近几十年的一些错误就断定一个存在了千年的机构已经走到了尽头，但确实，在过去的几十年里，美国的大学似乎走上了错误的道路。"
     },
     {
       "original": "One could do a lot better for a lot less money.I don't think universities will disappear. They won't be replaced wholesale. They'll just lose the de facto monopoly on certain types of learning that they once had.",
-      "translated": "[翻译失败] One could do a lot better for a lot less money.I d..."
+      "translated": "人们可以用更少的钱做得更好。我认为大学不会消失。它们不会被完全取代。只是会在某些类型的学习上失去曾经的实际垄断地位。"
     },
     {
       "original": "There will be many different ways to learn different things, and some may look quite different from universities. Y Combinator itself is arguably one of them.Learning is such a big problem that changing the way people do it will have a wave of secondary effects.",
-      "translated": "[翻译失败] There will be many different ways to learn differe..."
+      "translated": "将会有许多不同的学习方式，其中一些可能与大学大相径庭。Y Combinator 本身可以说就是其中之一。学习是一个如此重要的问题，改变人们的学习方式将带来一系列的次生效应。"
     },
     {
       "original": "For example, the name of the university one went to is treated by a lot of people (correctly or not) as a credential in its own right. If learning breaks up into many little pieces, credentialling may separate from it.",
-      "translated": "[翻译失败] For example, the name of the university one went t..."
+      "translated": "例如，人们（正确与否）往往将一个人所上的大学的名字视为一种资历。如果学习被分解成许多小部分，那么认证可能就会与学习过程分离。"
     },
     {
       "original": "There may even need to be replacements for campus social life (and oddly enough, YC even has aspects of that).You could replace high schools too, but there you face bureaucratic obstacles that would slow down a startup.",
-      "translated": "[翻译失败] There may even need to be replacements for campus ..."
+      "translated": "甚至可能需要替代校园社交生活（有趣的是，YC在这方面也有一些特点）。你也可以替代高中，但在那里你会遇到会拖慢初创公司发展的官僚障碍。"
     },
     {
       "original": "Universities seem the place to start.4. Internet DramaHollywood has been slow to embrace the Internet. That was a mistake, because I think we can now call a winner in the race between delivery mechanisms, and it is the Internet, not cable.A lot of the reason is the horribleness of cable clients, also known as TVs.",
-      "translated": "[翻译失败] Universities seem the place to start.4. Internet D..."
+      "translated": "大学似乎是一个很好的起点。4. 网络剧好莱坞在拥抱互联网方面行动迟缓。这是一个错误，因为现在我们可以宣布，在内容分发方式的竞争中，互联网已经胜出，而不是有线电视。其中很多原因在于有线电视客户端，也就是电视本身的糟糕表现。"
     },
     {
       "original": "Our family didn't wait for Apple TV. We hated our last TV so much that a few months ago we replaced it with an iMac bolted to the wall. It's a little inconvenient to control it with a wireless mouse, but the overall experience is much better than the nightmare UI we had to deal with before.Some of the attention people currently devote to watching movies and TV can be stolen by things that seem completely unrelated, like social networking apps.",
-      "translated": "[翻译失败] Our family didn't wait for Apple TV. We hated our ..."
+      "translated": "我们家并没有等待Apple TV。我们对上一台电视厌恶至极，几个月前用一台固定在墙上的iMac替换了它。用无线鼠标控制它有点不方便，但整体体验比之前那个糟糕的用户界面好太多了。人们现在花在观看电影和电视上的一部分注意力，可能会被一些看似完全不相关的东西，比如社交网络应用，所吸引。"
     },
     {
       "original": "More can be stolen by things that are a little more closely related, like games. But there will probably always remain some residual demand for conventional drama, where you sit passively and watch as a plot happens.",
-      "translated": "[翻译失败] More can be stolen by things that are a little mor..."
+      "translated": "更多东西可能被那些关系更密切的事物，比如游戏，所取代。但传统戏剧，那种你被动地坐着观看剧情发展的形式，可能始终会保留一些残余的需求。"
     },
     {
       "original": "So how do you deliver drama via the Internet? Whatever you make will have to be on a larger scale than Youtube clips. When people sit down to watch a show, they want to know what they're going to get: either part of a series with familiar characters, or a single longer \"movie\" whose basic premise they know in advance.There are two ways delivery and payment could play out.",
-      "translated": "[翻译失败] So how do you deliver drama via the Internet? What..."
+      "translated": "那么，如何通过互联网传递戏剧呢？你制作的内容必须比 Youtube 视频更宏大。当人们坐下来观看节目时，他们希望知道自己将看到什么：要么是熟悉角色的系列剧的一部分，要么是他们事先知道基本剧情的单部较长的“电影”。内容的分发和付费有两种可能的方式。"
     },
     {
       "original": "Either some company like Netflix or Apple will be the app store for entertainment, and you'll reach audiences through them. Or the would-be app stores will be too overreaching, or too technically inflexible, and companies will arise to supply payment and streaming a la carte to the producers of drama.",
-      "translated": "[翻译失败] Either some company like Netflix or Apple will be ..."
+      "translated": "要么像 Netflix 或 Apple 这样的公司将成为娱乐应用商店，你将通过它们接触到观众。要么这些潜在的应用商店会过于野心勃勃，或技术上不够灵活，从而会有公司涌现出来，为戏剧制作商提供按需支付和流媒体服务。"
     },
     {
       "original": "If that's the way things play out, there will also be a need for such infrastructure companies.5. The Next Steve JobsI was talking recently to someone who knew Apple well, and I asked him if the people now running the company would be able to keep creating new things the way Apple had under Steve Jobs.",
-      "translated": "[翻译失败] If that's the way things play out, there will also..."
+      "translated": "如果事情真的如此发展，这类基础设施公司也是必不可少的。5. 下一个史蒂夫·乔布斯我最近和一个对苹果公司非常了解的人交谈，我问他，现在管理公司的人是否能够像史蒂夫·乔布斯时代的苹果那样不断创造新产品。"
     },
     {
       "original": "His answer was simply \"no.\" I already feared that would be the answer. I asked more to see how he'd qualify it. But he didn't qualify it at all. No, there will be no more great new stuff beyond whatever's currently in the pipeline.",
-      "translated": "[翻译失败] His answer was simply \"no.\" I already feared that ..."
+      "translated": "他的回答简单明了：“不。”我早预料到会是这个答案。我问得更多是想看看他会如何解释。但他完全没有做任何解释。不，除了目前正在研发中的项目外，不会再有新的重大成果了。"
     },
     {
       "original": "Apple's revenues may continue to rise for a long time, but as Microsoft shows, revenue is a lagging indicator in the technology business.So if Apple's not going to make the next iPad, who is? None of the existing players.",
-      "translated": "[翻译失败] Apple's revenues may continue to rise for a long t..."
+      "translated": "苹果的收入可能会在很长一段时间内继续增长，但正如微软所展示的那样，收入在科技行业是一个滞后指标。那么，如果苹果不再推出下一代iPad，谁会推出呢？现有的任何玩家都不会。"
     },
     {
       "original": "None of them are run by product visionaries, and empirically you can't seem to get those by hiring them. Empirically the way you get a product visionary as CEO is for him to found the company and not get fired.",
-      "translated": "[翻译失败] None of them are run by product visionaries, and e..."
+      "translated": "他们中没有一个是产品远见者，而从实际经验来看，你似乎无法通过聘请他们来获得这些远见者。实际上，要让一个产品远见者成为首席执行官，方法是他创立了公司并且没有被解雇。"
     },
     {
       "original": "So the company that creates the next wave of hardware is probably going to have to be a startup.I realize it sounds preposterously ambitious for a startup to try to become as big as Apple. But no more ambitious than it was for Apple to become as big as Apple, and they did it.",
-      "translated": "[翻译失败] So the company that creates the next wave of hardw..."
+      "translated": "因此，创造下一波硬件浪潮的公司很可能是一家初创企业。我明白，对于一家初创企业来说，试图变得像苹果那样庞大听起来野心勃勃到近乎荒谬。但并不比苹果当初变得如此庞大时的野心更大，而他们确实做到了。"
     },
     {
       "original": "Plus a startup taking on this problem now has an advantage the original Apple didn't: the example of Apple. Steve Jobs has shown us what's possible. That helps would-be successors both directly, as Roger Bannister did, by showing how much better you can do than people did before, and indirectly, as Augustus did, by lodging the idea in users' minds that a single person could unroll the future for them.",
-      "translated": "[翻译失败] Plus a startup taking on this problem now has an a..."
+      "translated": "现在，一家初创公司来解决这个问题相比于最初的苹果公司有一个优势：苹果的例子。史蒂夫·乔布斯向我们展示了什么是可能的。这不仅像罗杰·班尼斯特那样直接帮助了潜在的继任者，通过展示你可以比前人做得更好，而且还像奥古斯都那样间接地帮助了他们，将一个理念植入用户心中，即一个人可以为他们展开未来。"
     },
     {
       "original": "[3]Now Steve is gone there's a vacuum we can all feel. If a new company led boldly into the future of hardware, users would follow. The CEO of that company, the \"next Steve Jobs,\" might not measure up to Steve Jobs.",
-      "translated": "[翻译失败] [3]Now Steve is gone there's a vacuum we can all f..."
+      "translated": "现在史蒂夫走了，留下了一个我们都能感受到的真空。如果有一家新公司能够大胆地引领硬件的未来，用户就会追随。这家公司的首席执行官，也就是“下一个史蒂夫·乔布斯”，可能无法与史蒂夫·乔布斯相提并论。"
     },
     {
       "original": "But he wouldn't have to. He'd just have to do a better job than Samsung and HP and Nokia, and that seems pretty doable.6. Bring Back Moore's LawThe last 10 years have reminded us what Moore's Law actually says.",
-      "translated": "[翻译失败] But he wouldn't have to. He'd just have to do a be..."
+      "translated": "但他不必如此。他只需要比三星、惠普和诺基亚做得更好，而这一点似乎相当可行。6. 恢复摩尔定律过去10年让我们重新认识到摩尔定律的实际含义。"
     },
     {
       "original": "Till about 2002 you could safely misinterpret it as promising that clock speeds would double every 18 months. Actually what it says is that circuit densities will double every 18 months. It used to seem pedantic to point that out.",
-      "translated": "[翻译失败] Till about 2002 you could safely misinterpret it a..."
+      "translated": "直到大约2002年之前，你还可以安全地将其误解为时钟速度每18个月翻一番。实际上，它说的是电路密度每18个月会翻一番。过去指出这一点似乎显得过于苛求。"
     },
     {
       "original": "Not any more. Intel can no longer give us faster CPUs, just more of them.This Moore's Law is not as good as the old one. Moore's Law used to mean that if your software was slow, all you had to do was wait, and the inexorable progress of hardware would solve your problems.",
-      "translated": "[翻译失败] Not any more. Intel can no longer give us faster C..."
+      "translated": "不再如此。英特尔现在无法再给我们提供更快的CPU，而只能提供更多数量的CPU。这个摩尔定律已不如从前。曾经，摩尔定律意味着，如果您的软件运行缓慢，您只需耐心等待，硬件的不断进步就会解决您的问题。"
     },
     {
       "original": "Now if your software is slow you have to rewrite it to do more things in parallel, which is a lot more work than waiting.It would be great if a startup could give us something of the old Moore's Law back, by writing software that could make a large number of CPUs look to the developer like one very fast CPU.",
-      "translated": "[翻译失败] Now if your software is slow you have to rewrite i..."
+      "translated": "现在，如果你的软件运行缓慢，你就不得不重写它以实现更多的并行处理，而这要比等待更费事。如果有一家初创公司能够通过编写软件，让大量CPU对开发者而言看起来像一个非常快的CPU，从而恢复一些摩尔定律带来的好处，那将是非常棒的。"
     },
     {
       "original": "There are several ways to approach this problem. The most ambitious is to try to do it automatically: to write a compiler that will parallelize our code for us. There's a name for this compiler, the sufficiently smart compiler, and it is a byword for impossibility.",
-      "translated": "[翻译失败] There are several ways to approach this problem. T..."
+      "translated": "有几种方法可以解决这个问题。最雄心勃勃的方法是尝试自动实现：编写一个编译器，为我们自动并行化代码。这种编译器有一个专门的名称，称为“足够智能的编译器”，它已成为不可能性的代名词。"
     },
     {
       "original": "But is it really impossible? Is there no configuration of the bits in memory of a present day computer that is this compiler? If you really think so, you should try to prove it, because that would be an interesting result.",
-      "translated": "[翻译失败] But is it really impossible? Is there no configura..."
+      "translated": "但这真的不可能吗？难道当今计算机的内存中就没有一种位的配置能够成为这个编译器吗？如果你真的这么认为，你应该试着证明它，因为那将是一个有趣的结果。"
     },
     {
       "original": "And if it's not impossible but simply very hard, it might be worth trying to write it. The expected value would be high even if the chance of succeeding was low.The reason the expected value is so high is web services.",
-      "translated": "[翻译失败] And if it's not impossible but simply very hard, i..."
+      "translated": "如果这并非不可能，只是非常困难，那么尝试着去写它可能是值得的。即使成功的几率很低，其预期价值也会很高。预期价值之所以如此之高，原因在于网络服务。"
     },
     {
       "original": "If you could write software that gave programmers the convenience of the way things were in the old days, you could offer it to them as a web service. And that would in turn mean that you got practically all the users.Imagine there was another processor manufacturer that could still translate increased circuit densities into increased clock speeds.",
-      "translated": "[翻译失败] If you could write software that gave programmers ..."
+      "translated": "如果你能够编写出一种软件，让程序员享受到过去的便捷，你就可以将它作为一项网络服务提供给他们。而这反过来意味着，你几乎可以吸引所有的用户。想象一下，如果还有一家处理器制造商能够将提高的电路密度转化为更高的时钟频率。"
     },
     {
       "original": "They'd take most of Intel's business. And since web services mean that no one sees their processors anymore, by writing the sufficiently smart compiler you could create a situation indistinguishable from you being that manufacturer, at least for the server market.The least ambitious way of approaching the problem is to start from the other end, and offer programmers more parallelizable Lego blocks to build programs out of, like Hadoop and MapReduce.",
-      "translated": "[翻译失败] They'd take most of Intel's business. And since we..."
+      "translated": "他们会夺走英特尔的大部分业务。而且，由于网络服务意味着没有人再能看到他们的处理器，通过编写足够智能的编译器，你就可以创建一种情况，至少对服务器市场而言，这种情况与你成为该制造商并无二致。解决这个问题最不雄心勃勃的方法是从另一端入手，为程序员提供更多的并行化“乐高积木”来构建程序，比如Hadoop和MapReduce。"
     },
     {
       "original": "Then the programmer still does much of the work of optimization.There's an intriguing middle ground where you build a semi-automatic weapon—where there's a human in the loop. You make something that looks to the user like the sufficiently smart compiler, but inside has people, using highly developed optimization tools to find and eliminate bottlenecks in users' programs.",
-      "translated": "[翻译失败] Then the programmer still does much of the work of..."
+      "translated": "然后，程序员仍然承担着大部分优化工作。有一个有趣的中间地带，就是构建一个半自动的工具——即在流程中有人工参与。你制作出一种对用户来说像是足够智能的编译器的东西，但内部却有人使用高度发达的优化工具来查找并消除用户程序中的瓶颈。"
     },
     {
       "original": "These people might be your employees, or you might create a marketplace for optimization.An optimization marketplace would be a way to generate the sufficiently smart compiler piecemeal, because participants would immediately start writing bots.",
-      "translated": "[翻译失败] These people might be your employees, or you might..."
+      "translated": "这些人可能是你的员工，或者你可以创建一个优化市场。优化市场将是一种分阶段生成足够智能的编译器的方法，因为参与者会立即开始编写机器人。"
     },
     {
       "original": "It would be a curious state of affairs if you could get to the point where everything could be done by bots, because then you'd have made the sufficiently smart compiler, but no one person would have a complete copy of it.I realize how crazy all this sounds.",
-      "translated": "[翻译失败] It would be a curious state of affairs if you coul..."
+      "translated": "如果事情发展到所有的事情都能由机器人完成，那将是一种奇怪的状态，因为那时你已经创建了一个足够智能的编译器，但没有人会拥有它的完整副本。我知道这听起来有多疯狂。"
     },
     {
       "original": "In fact, what I like about this idea is all the different ways in which it's wrong. The whole idea of focusing on optimization is counter to the general trend in software development for the last several decades.",
-      "translated": "[翻译失败] In fact, what I like about this idea is all the di..."
+      "translated": "事实上，我喜欢这个想法的地方就在于它在各个方面都不对。专注于优化的整个理念与过去几十年软件开发的总体趋势背道而驰。"
     },
     {
       "original": "Trying to write the sufficiently smart compiler is by definition a mistake. And even if it weren't, compilers are the sort of software that's supposed to be created by open source projects, not companies.",
-      "translated": "[翻译失败] Trying to write the sufficiently smart compiler is..."
+      "translated": "试图编写足够智能的编译器从定义上来说就是个错误。即使这并不是错误，编译器也应该是由开源项目而非公司来创建的这类软件。"
     },
     {
       "original": "Plus if this works it will deprive all the programmers who take pleasure in making multithreaded apps of so much amusing complexity. The forum troll I have by now internalized doesn't even know where to begin in raising objections to this project.",
-      "translated": "[翻译失败] Plus if this works it will deprive all the program..."
+      "translated": "此外，如果这行得通，就会剥夺那些乐于开发多线程应用的程序员们许多有趣的复杂性。我内心深处的那个论坛捣蛋鬼甚至连从哪里开始反对这个项目都不知道。"
     },
     {
       "original": "Now that's what I call a startup idea.7. Ongoing DiagnosisBut wait, here's another that could face even greater resistance: ongoing, automatic medical diagnosis.One of my tricks for generating startup ideas is to imagine the ways in which we'll seem backward to future generations.",
-      "translated": "[翻译失败] Now that's what I call a startup idea.7. Ongoing D..."
+      "translated": "这才能称得上是一个创业点子。7. 持续诊断但等等，还有一个可能面临更大阻力的点子：持续自动医疗诊断。我生成创业点子的一个技巧是想象未来几代人会认为我们哪些方面显得落后。"
     },
     {
       "original": "And I'm pretty sure that to people 50 or 100 years in the future, it will seem barbaric that people in our era waited till they had symptoms to be diagnosed with conditions like heart disease and cancer.For example, in 2004 Bill Clinton found he was feeling short of breath.",
-      "translated": "[翻译失败] And I'm pretty sure that to people 50 or 100 years..."
+      "translated": "我相信，对于50年或100年后的世人来说，我们这个时代的人们要等到出现症状才被诊断出心脏病和癌症等疾病，这将显得非常野蛮。例如，2004年，比尔·克林顿发现自己呼吸困难。"
     },
     {
       "original": "Doctors discovered that several of his arteries were over 90% blocked and 3 days later he had a quadruple bypass. It seems reasonable to assume Bill Clinton has the best medical care available. And yet even he had to wait till his arteries were over 90% blocked to learn that the number was over 90%.",
-      "translated": "[翻译失败] Doctors discovered that several of his arteries we..."
+      "translated": "医生发现他的几条动脉堵塞超过90%，3天后他接受了四重旁路手术。可以合理地认为，比尔·克林顿能够得到最好的医疗照顾。然而，即使是他也不得不等到动脉堵塞超过90%时，才知道堵塞程度超过了90%。"
     },
     {
       "original": "Surely at some point in the future we'll know these numbers the way we now know something like our weight. Ditto for cancer. It will seem preposterous to future generations that we wait till patients have physical symptoms to be diagnosed with cancer.",
-      "translated": "[翻译失败] Surely at some point in the future we'll know thes..."
+      "translated": "将来某一天，我们一定会像现在知道自己的体重一样清楚这些数字。癌症也是如此。未来的人们会觉得我们等到病人出现身体症状才诊断出癌症是荒谬的。"
     },
     {
       "original": "Cancer will show up on some sort of radar screen immediately.(Of course, what shows up on the radar screen may be different from what we think of now as cancer. I wouldn't be surprised if at any given time we have ten or even hundreds of microcancers going at once, none of which normally amount to anything.)A lot of the obstacles to ongoing diagnosis will come from the fact that it's going against the grain of the medical profession.",
-      "translated": "[翻译失败] Cancer will show up on some sort of radar screen i..."
+      "translated": "癌症会立即出现在某种雷达屏幕上。（当然，出现在雷达屏幕上的东西可能与我们现在认为的癌症不同。我不会对在任何时候我们体内同时存在十个甚至数百个微小癌症感到惊讶，这些通常不会有什么大问题。）持续诊断的许多障碍将来自这一做法与医学职业的常规相悖。"
     },
     {
       "original": "The way medicine has always worked is that patients come to doctors with problems, and the doctors figure out what's wrong. A lot of doctors don't like the idea of going on the medical equivalent of what lawyers call a \"fishing expedition,\" where you go looking for problems without knowing what you're looking for.",
-      "translated": "[翻译失败] The way medicine has always worked is that patient..."
+      "translated": "医学一直以来的运作方式是，患者带着问题来看医生，而医生则要找出问题所在。许多医生不喜欢像律师所说的“钓鱼式调查”这样的做法，即在不清楚要寻找什么问题的情况下盲目寻找。"
     },
     {
       "original": "They call the things that get discovered this way \"incidentalomas,\" and they are something of a nuisance.For example, a friend of mine once had her brain scanned as part of a study. She was horrified when the doctors running the study discovered what appeared to be a large tumor.",
-      "translated": "[翻译失败] They call the things that get discovered this way ..."
+      "translated": "他们把这种无意中发现的病灶称为“偶发瘤”，这确实是个麻烦。比如，我的一位朋友曾经作为研究的一部分接受了脑部扫描。当研究的医生发现了一个看似巨大的肿瘤时，她感到非常惊恐。"
     },
     {
       "original": "After further testing, it turned out to be a harmless cyst. But it cost her a few days of terror. A lot of doctors worry that if you start scanning people with no symptoms, you'll get this on a giant scale: a huge number of false alarms that make patients panic and require expensive and perhaps even dangerous tests to resolve.",
-      "translated": "[翻译失败] After further testing, it turned out to be a harml..."
+      "translated": "经过进一步检查，结果是一个无害的囊肿。但这让她度过了几天的恐惧。许多医生担心，如果开始对没有症状的人进行扫描，这种情况将会大规模出现：大量的假警报会使患者恐慌，并需要进行昂贵甚至可能是危险的检查来解决。"
     },
     {
       "original": "But I think that's just an artifact of current limitations. If people were scanned all the time and we got better at deciding what was a real problem, my friend would have known about this cyst her whole life and known it was harmless, just as we do a birthmark.There is room for a lot of startups here.",
-      "translated": "[翻译失败] But I think that's just an artifact of current lim..."
+      "translated": "但我觉得这只是当前限制的结果。如果人们能够一直被监测，而且我们能够更好地判断什么是真正的问题，我的朋友就会知道她一生中都存在这个囊肿，并且知道它是无害的，就像我们对待胎记一样。这里有很多初创企业的机会。"
     },
     {
       "original": "In addition to the technical obstacles all startups face, and the bureaucratic obstacles all medical startups face, they'll be going against thousands of years of medical tradition. But it will happen, and it will be a great thing—so great that people in the future will feel as sorry for us as we do for the generations that lived before anaesthesia and antibiotics.TacticsLet me conclude with some tactical advice.",
-      "translated": "[翻译失败] In addition to the technical obstacles all startup..."
+      "translated": "除了所有初创公司面临的技術障礙，以及所有醫療創業公司面臨的官僚障礙之外，他們還將對抗數千年的醫學傳統。但這將會發生，並且將是一件偉大的事情——如此偉大，以至于未來的人們會為我們感到遺憾，就像我們為那些生活在麻醉和抗生素之前的世代感到遺憾一樣。\n\n戰術建議\n讓我以一些戰術建議作為結尾。"
     },
     {
       "original": "If you want to take on a problem as big as the ones I've discussed, don't make a direct frontal attack on it. Don't say, for example, that you're going to replace email. If you do that you raise too many expectations.",
-      "translated": "[翻译失败] If you want to take on a problem as big as the one..."
+      "translated": "如果你想要解决我所讨论的这类大问题，不要直接正面进攻。例如，不要说你要取代电子邮件。这样做会引发过多的期望。"
     },
     {
       "original": "Your employees and investors will constantly be asking \"are we there yet?\" and you'll have an army of haters waiting to see you fail. Just say you're building todo-list software. That sounds harmless.",
-      "translated": "[翻译失败] Your employees and investors will constantly be as..."
+      "translated": "你的员工和投资者会不断问“我们到了吗？”而你会有一大群反对者等着看你失败。只要说你在开发待办事项软件。这听起来无害。"
     },
     {
       "original": "People can notice you've replaced email when it's a fait accompli. [4]Empirically, the way to do really big things seems to be to start with deceptively small things. Want to dominate microcomputer software?",
-      "translated": "[翻译失败] People can notice you've replaced email when it's ..."
+      "translated": "人们只有在既成事实后才会注意到你已经更换了电子邮件。[4]从经验来看，要做成大事似乎要从看似微不足道的小事开始。想主导微型计算机软件吗？"
     },
     {
       "original": "Start by writing a Basic interpreter for a machine with a few thousand users. Want to make the universal web site? Start by building a site for Harvard undergrads to stalk one another.Empirically, it's not just for other people that you need to start small.",
-      "translated": "[翻译失败] Start by writing a Basic interpreter for a machine..."
+      "translated": "先为一台有几千用户的机器编写一个Basic解释器。想创建一个万能的网站？先从为哈佛本科生搭建一个互相窥探的网站开始。根据经验，不仅仅是为他人，你也需要从小处着手。"
     },
     {
       "original": "You need to for your own sake. Neither Bill Gates nor Mark Zuckerberg knew at first how big their companies were going to get. All they knew was that they were onto something. Maybe it's a bad idea to have really big ambitions initially, because the bigger your ambition, the longer it's going to take, and the further you project into the future, the more likely you'll get it wrong.I think the way to use these big ideas is not to try to identify a precise point in the future and then ask yourself how to get from here to there, like the popular image of a visionary.",
-      "translated": "[翻译失败] You need to for your own sake. Neither Bill Gates ..."
+      "translated": "你需要为了自己去做。比尔·盖茨和马克·扎克伯格起初都不知道他们的公司会变得多大。他们只知道他们在做一件有意义的事情。或许，最初有非常宏大的抱负是个糟糕的主意，因为你的抱负越大，实现起来所需的时间就越长，你对未来规划得越远，出错的可能性就越大。我认为，使用这些宏大想法的方法不是试图确定未来的一个精确点，然后问自己如何从现在到达那里，就像人们通常想象的那样，一个有远见的人。"
     },
     {
       "original": "You'll be better off if you operate like Columbus and just head in a general westerly direction. Don't try to construct the future like a building, because your current blueprint is almost certainly mistaken.",
-      "translated": "[翻译失败] You'll be better off if you operate like Columbus ..."
+      "translated": "你最好像哥伦布那样，只朝大致的西方向前进。不要试图像建造房屋那样去构建未来，因为你的现行蓝图几乎肯定是错误的。"
     },
     {
       "original": "Start with something you know works, and when you expand, expand westward.The popular image of the visionary is someone with a clear view of the future, but empirically it may be better to have a blurry one.Notes[1] It's also one of the most important things VCs fail to understand about startups.",
-      "translated": "[翻译失败] Start with something you know works, and when you ..."
+      "translated": "从你确信有效的事情开始，当你扩展时，向西扩展。人们普遍认为远见者是对未来有清晰认识的人，但根据经验，或许模糊的未来观更好。注[1] 这也是风险投资家最不理解创业公司的一点。"
     },
     {
       "original": "Most expect founders to walk in with a clear plan for the future, and judge them based on that. Few consciously realize that in the biggest successes there is the least correlation between the initial plan and what the startup eventually becomes.[2] This sentence originally read \"GMail is painfully slow.\" Thanks to Paul Buchheit for the correction.[3] Roger Bannister is famous as the first person to run a mile in under 4 minutes.",
-      "translated": "[翻译失败] Most expect founders to walk in with a clear plan ..."
+      "translated": "大多数人期望创始人带着清晰的未来计划走进来，并根据这个计划来评判他们。很少有人有意识地认识到，在最成功的企业中，最初的计划与创业公司最终成为的样子之间的关联性最小。[2] 这句话最初写的是“GMail 慢得让人痛苦。” 感谢 Paul Buchheit 的更正。[3] 罗杰·班尼斯特因成为第一个在4分钟内跑完一英里的人而闻名。"
     },
     {
       "original": "But his world record only lasted 46 days. Once he showed it could be done, lots of others followed. Ten years later Jim Ryun ran a 3:59 mile as a high school junior.[4] If you want to be the next Apple, maybe you don't even want to start with consumer electronics.",
-      "translated": "[翻译失败] But his world record only lasted 46 days. Once he ..."
+      "translated": "但他的世界纪录只保持了46天。一旦他证明了这是可能的，很多人纷纷效仿。十年后，吉姆·瑞恩在高中三年级时跑出了3分59秒的英里记录。[4]如果你想成为下一个苹果公司，也许你甚至不想从消费电子领域起步。"
     },
     {
       "original": "Maybe at first you make something hackers use. Or you make something popular but apparently unimportant, like a headset or router. All you need is a bridgehead. Thanks to Sam Altman, Trevor Blackwell, Paul Buchheit, Patrick Collison, Aaron Iba, Jessica Livingston, Robert Morris, Harj Taggar and Garry Tan for reading drafts of this.",
-      "translated": "[翻译失败] Maybe at first you make something hackers use. Or ..."
+      "translated": "也许一开始你制作了一些黑客使用的东西。或者你制作了一些流行但显然不重要的产品，比如耳机或路由器。你所需要的只是一个立足点。感谢 Sam Altman、Trevor Blackwell、Paul Buchheit、Patrick Collison、Aaron Iba、Jessica Livingston、Robert Morris、Harj Taggar 和 Garry Tan 阅读本文的草稿。"
     }
   ],
-  "translation_completed": "2025-07-27T12:23:16.772265",
+  "translation_completed": "2025-07-27T23:19:32.043707",
   "translation_stats": {
     "total_paragraphs": 74,
-    "success_count": 0,
-    "success_rate": "0.0%"
+    "success_count": 74,
+    "success_rate": "100.0%"
   }
 }

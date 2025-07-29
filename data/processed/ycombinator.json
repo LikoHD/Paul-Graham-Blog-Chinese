@@ -55,159 +55,165 @@
   "paragraphs": [
     {
       "original": "March 2008, rev May 2013(This essay grew out of something I wrote for myself to figure out what we do. Even though Y Combinator is now 3 years old, we're still trying to understand its implications.) I was annoyed recently to read a description of Y Combinator that said \"Y Combinator does seed funding for startups.\" What was especially annoying about it was that I wrote it.",
-      "translated": "[待翻译] March 2008, rev May 2013(This essay grew out of so..."
+      "translated": "2008年3月，2013年5月修订（这篇论文源于我为自己写的一篇文章，目的是弄清楚我们到底在做什么。即使Y Combinator现在已经成立了3年，我们仍在努力理解它的意义。）最近，当我读到对Y Combinator的一段描述，说“Y Combinator为初创公司提供种子资金”时，我感到很不高兴。尤其令我感到不快的是，这段话是我自己写的。"
     },
     {
       "original": "This doesn't really convey what we do. And the reason it's inaccurate is that, paradoxically, funding very early stage startups is not mainly about funding.Saying YC does seed funding for startups is a description in terms of earlier models.",
-      "translated": "[待翻译] This doesn't really convey what we do. And the rea..."
+      "translated": "这并不能真正传达我们所做的工作。之所以不准确，是因为，矛盾的是，为非常早期的初创企业提供资金并不主要是关于资金。说YC为初创企业提供种子资金，这是用早期模式来描述的。"
     },
     {
       "original": "It's like calling a car a horseless carriage.When you scale animals you can't just keep everything in proportion. For example, volume grows as the cube of linear dimension, but surface area only as the square.",
-      "translated": "[待翻译] It's like calling a car a horseless carriage.When ..."
+      "translated": "这就像是把汽车称为无马马车。当你放大动物的尺寸时，不能简单地保持所有部分的比例不变。例如，体积是随着线性尺寸的立方增长的，而表面积则只随着线性尺寸的平方增长。"
     },
     {
       "original": "So as animals get bigger they have trouble radiating heat. That's why mice and rabbits are furry and elephants and hippos aren't. You can't make a mouse by scaling down an elephant.YC represents a new, smaller kind of animal—so much smaller that all the rules are different.Before us, most companies in the startup funding business were venture capital funds.",
-      "translated": "[待翻译] So as animals get bigger they have trouble radiati..."
+      "translated": "所以，随着动物体型的增大，它们散热就会变得困难。这就是为什么老鼠和兔子有毛发，而大象和河马却没有。你不能通过缩小大象来制造老鼠。YC 代表了一种新的、更小的动物——小到所有的规则都不同了。在我们之前，大多数从事初创企业融资的公司都是风险投资基金。"
     },
     {
       "original": "VCs generally fund later stage companies than we do. And they supply so much money that, even though the other things they do may be very valuable, it's not that inaccurate to regard VCs as sources of money.",
-      "translated": "[待翻译] VCs generally fund later stage companies than we d..."
+      "translated": "风险投资公司通常资助比我们更后期的公司。他们提供的资金如此之多，以至于即使他们做的其他事情可能非常有价值，将风险投资公司视为资金来源也并不算太不准确。"
     },
     {
       "original": "Good VCs are \"smart money,\" but they're still money.All good investors supply a combination of money and help. But these scale differently, just as volume and surface area do. Late stage investors supply huge amounts of money and comparatively little help: when a company about to go public gets a mezzanine round of $50 million, the deal tends to be almost entirely about money.",
-      "translated": "[待翻译] Good VCs are \"smart money,\" but they're still mone..."
+      "translated": "优秀的风险投资家是“聪明的钱”，但他们归根结底还是钱。所有好的投资者都会提供资金和帮助的组合。但这两者的作用方式不同，就像体积和表面积一样。后期投资者提供大量资金和相对较少的帮助：当一家即将上市的公司获得5000万美元的夹层融资时，这笔交易基本上完全与资金有关。"
     },
     {
       "original": "As you move earlier in the venture funding process, the ratio of help to money increases, because earlier stage companies have different needs. Early stage companies need less money because they're smaller and cheaper to run, but they need more help because life is so precarious for them.",
-      "translated": "[待翻译] As you move earlier in the venture funding process..."
+      "translated": "在风险投资过程的早期阶段，帮助与资金的比例会上升，因为早期的公司有不同的需求。早期公司需要的资金较少，因为它们规模较小，运营成本较低，但它们需要更多的帮助，因为它们的生存环境非常不确定。"
     },
     {
       "original": "So when VCs do a series A round for, say, $2 million, they generally expect to offer a significant amount of help along with the money.Y Combinator occupies the earliest end of the spectrum. We're at least one and generally two steps before VC funding.",
-      "translated": "[待翻译] So when VCs do a series A round for, say, $2 milli..."
+      "translated": "所以，当风险投资公司在A轮融资中投资，比如说200万美元时，他们通常期望除了资金外还能提供大量的帮助。Y Combinator 处于这个投资谱系的最前端。我们至少比风险投资前一个阶段，通常甚至是前两个阶段。"
     },
     {
       "original": "(Though some startups go straight from YC to VC, the most common trajectory is to do an angel round first.) And what happens at Y Combinator is as different from what happens in a series A round as a series A round is from a mezzanine financing.At our end, money is almost a negligible factor.",
-      "translated": "[待翻译] (Though some startups go straight from YC to VC, t..."
+      "translated": "（尽管一些初创公司会直接从YC跳到VC，但最常见的路径是先进行一轮天使投资。）在Y Combinator发生的事情与A轮融资中的情况截然不同，就像A轮融资与夹层融资之间的差异一样大。在我们这里，资金几乎是一个可以忽略不计的因素。"
     },
     {
       "original": "The startup usually consists of just the founders. Their living expenses are the company's main expense, and since most founders are under 30, their living expenses are low. But at this early stage companies need a lot of help.",
-      "translated": "[待翻译] The startup usually consists of just the founders...."
+      "translated": "初创公司通常只有创始人组成。他们的生活费用是公司的主要开支，由于大多数创始人年龄在30岁以下，所以他们的生活费用较低。但在这个早期阶段，公司需要大量的帮助。"
     },
     {
       "original": "Practically every question is still unanswered. Some companies we've funded have been working on their software for a year or more, but others haven't decided what to work on, or even who the founders should be.When PR people and journalists recount the histories of startups after they've become big, they always underestimate how uncertain things were at first.",
-      "translated": "[待翻译] Practically every question is still unanswered. So..."
+      "translated": "几乎每个问题仍然没有答案。我们资助的一些公司已经在他们的软件上工作了一年多，但其他公司还没有决定要做什么，甚至谁应该是创始人。当公关人员和记者在创业公司变得庞大之后回顾它们的历史时，他们总是低估最初事情的不确定性。"
     },
     {
       "original": "They're not being deliberately misleading. When you look at a company like Google, it's hard to imagine they could once have been small and helpless. Sure, at one point they were a just a couple guys in a garage—but even then their greatness was assured, and all they had to do was roll forward along the railroad tracks of destiny.Far from it.",
-      "translated": "[待翻译] They're not being deliberately misleading. When yo..."
+      "translated": "他们并不是故意误导。当你看到像谷歌这样的公司时，很难想象它曾经也可以是小而无助的。当然，曾经有一段时间他们只是车库里的两个人——但即使在那时，他们的伟大已经注定，他们所要做的就是沿着命运的铁轨前行。事实远非如此。"
     },
     {
       "original": "A lot of startups with just as promising beginnings end up failing. Google has such momentum now that it would be hard for anyone to stop them. But all it would have taken in the beginning would have been for two Google employees to focus on the wrong things for six months, and the company could have died.We know, because we've been there, just how vulnerable startups are in the earliest phases.",
-      "translated": "[待翻译] A lot of startups with just as promising beginning..."
+      "translated": "许多初创公司尽管起点同样充满希望，最终还是失败了。谷歌如今势头正盛，几乎无人能挡。但在创业初期，只要谷歌的两名员工在六个月的时间里专注于错误的事情，公司就可能夭折。我们深知，因为在创业的最初阶段，初创公司是多么脆弱。"
     },
     {
       "original": "Curiously enough, that's why founders tend to get so rich from them. Reward is always proportionate to risk, and very early stage startups are insanely risky.What we really do at Y Combinator is get startups launched straight.",
-      "translated": "[待翻译] Curiously enough, that's why founders tend to get ..."
+      "translated": "有趣的是，这正是创始人从中变得如此富有的原因。回报总是与风险成正比，而早期的初创公司风险极高。我们在 Y Combinator 真正做的事情是帮助初创公司顺利启动。"
     },
     {
       "original": "One of many metaphors you could use for YC is a steam catapult on an aircraft carrier. We get startups airborne. Barely airborne, but enough that they can accelerate fast.When you're launching planes they have to be set up properly or you're just launching projectiles.",
-      "translated": "[待翻译] One of many metaphors you could use for YC is a st..."
+      "translated": "你可以用来形容YC的一个比喻是航空母舰上的蒸汽弹射器。我们让初创公司起飞。虽然只是勉强起飞，但足以使它们能够快速加速。当飞机起飞时，必须正确设置，否则你发射的就只是炮弹了。"
     },
     {
       "original": "They have to be pointed straight down the deck; the wings have to be trimmed properly; the engines have to be at full power; the pilot has to be ready. These are the kind of problems we deal with. After we fund startups we work closely with them for three months—so closely in fact that we insist they move to where we are.",
-      "translated": "[待翻译] They have to be pointed straight down the deck; th..."
+      "translated": "它们必须直指甲板；机翼必须调整得当；发动机必须全功率运行；飞行员必须做好准备。我们处理的就是这类问题。在我们投资初创公司后，我们会与他们紧密合作三个月——实际上，我们要求他们搬到我们所在的地方。"
     },
     {
       "original": "And what we do in those three months is make sure everything is set up for launch. If there are tensions between cofounders we help sort them out. We get all the paperwork set up properly so there are no nasty surprises later.",
-      "translated": "[待翻译] And what we do in those three months is make sure ..."
+      "translated": "在这三个月里，我们确保一切为启动做好准备。如果联合创始人之间存在矛盾，我们会帮助解决。我们会把所有文件正确地准备好，以避免以后出现不愉快的意外。"
     },
     {
       "original": "If the founders aren't sure what to focus on first, we try to figure that out. If there is some obstacle right in front of them, we either try to remove it, or shift the startup sideways. The goal is to get every distraction out of the way so the founders can use that time to build (or finish building) something impressive.",
-      "translated": "[待翻译] If the founders aren't sure what to focus on first..."
+      "translated": "如果创始人不确定首先应该关注什么，我们会努力弄清楚。如果他们面前有什么障碍，我们会尽量移除它，或者让初创公司换个方向发展。目标是消除所有干扰，让创始人能够利用这段时间来构建（或完成构建）一些令人印象深刻的东西。"
     },
     {
       "original": "And then near the end of the three months we push the button on the steam catapult in the form of Demo Day, where the current group of startups present to pretty much every investor in Silicon Valley.Launching companies isn't identical with launching products.",
-      "translated": "[待翻译] And then near the end of the three months we push ..."
+      "translated": "在为期三个月的项目接近尾声时，我们会启动“演示日”这个蒸汽弹射器，届时当前这批初创公司将向几乎整个硅谷的投资人进行展示。启动公司并不等同于推出产品。"
     },
     {
       "original": "Though we do spend a lot of time on launch strategies for products, there are some things that take too long to build for a startup to launch them before raising their next round of funding. Several of the most promising startups we've funded haven't launched their products yet, but are definitely launched as companies.In the earliest stage, startups not only have more questions to answer, but they tend to be different kinds of questions.",
-      "translated": "[待翻译] Though we do spend a lot of time on launch strateg..."
+      "translated": "尽管我们在产品上市策略上投入了大量时间，但有些事情的构建时间过长，以至于初创公司在筹集下一轮资金之前无法推出。我们资助的一些最有前景的初创公司尚未推出其产品，但作为公司，它们已经正式成立。在最早期阶段，初创公司不仅需要回答的问题更多，而且这些问题的性质也往往不同。"
     },
     {
       "original": "In later stage startups the questions are about deals, or hiring, or organization. In the earliest phase they tend to be about technology and design. What do you make? That's the first problem to solve.",
-      "translated": "[待翻译] In later stage startups the questions are about de..."
+      "translated": "在后期的创业公司中，问题通常涉及交易、招聘或组织结构。而在最初阶段，问题往往集中在技术和设计上。你们制作什么？这是首先要解决的问题。"
     },
     {
       "original": "That's why our motto is \"Make something people want.\" This is always a good thing for companies to do, but it's even more important early on, because it sets the bounds for every other question. Who you hire, how much money you raise, how you market yourself—they all depend on what you're making.Because the early problems are so much about technology and design, you probably need to be hackers to do what we do.",
-      "translated": "[待翻译] That's why our motto is \"Make something people wan..."
+      "translated": "这就是为什么我们的座右铭是“创造人们想要的东西。”这对公司来说总是一件好事，但在初创阶段尤为重要，因为它为所有其他问题设定了界限。你雇佣谁，筹集多少资金，如何营销自己——这一切都取决于你在创造什么。由于早期的问题大多与技术和设计相关，你可能需要是黑客才能做我们所做的事情。"
     },
     {
       "original": "While some VCs have technical backgrounds, I don't know any who still write code. Their expertise is mostly in business—as it should be, because that's the kind of expertise you need in the phase between series A and (if you're lucky) IPO.We're so different from VCs that we're really a different kind of animal.",
-      "translated": "[待翻译] While some VCs have technical backgrounds, I don't..."
+      "translated": "虽然一些风险投资人有技术背景，但我知道没有谁还在写代码。他们的专长主要在商业方面——这正是应该的，因为在这个阶段，从A轮融资到（如果幸运的话）首次公开募股，你需要的就是这种专长。我们与风险投资人如此不同，以至于我们实际上是另一种类型的动物。"
     },
     {
       "original": "Can we claim founders are better off as a result of this new type of venture firm? I'm pretty sure the answer is yes, because YC is an improved version of what happened to our startup, and our case was not atypical.",
-      "translated": "[待翻译] Can we claim founders are better off as a result o..."
+      "translated": "我们能否声称这种新型风险投资公司让创始人过得更好？我相当确信答案是肯定的，因为YC是我们创业经历的升级版，而我们的案例并非特例。"
     },
     {
       "original": "We started Viaweb with $10,000 in seed money from our friend Julian. He was a lawyer and arranged all our paperwork, so we could just code. We spent three months building a version 1, which we then presented to investors to raise more money.",
-      "translated": "[待翻译] We started Viaweb with $10,000 in seed money from ..."
+      "translated": "我们用朋友朱利安提供的10,000美元种子资金启动了Viaweb。他是一名律师，帮我们处理了所有的文件工作，这样我们就可以专心编码。我们花了三个月时间开发了一个1.0版本，然后向投资者展示以筹集更多资金。"
     },
     {
       "original": "Sounds familiar, doesn't it? But YC improves on that significantly. Julian knew a lot about law and business, but his advice ended there; he was not a startup guy. So we made some basic mistakes early on.",
-      "translated": "[待翻译] Sounds familiar, doesn't it? But YC improves on th..."
+      "translated": "听起来很熟悉，对吧？但YC在这方面有了显著的改进。Julian对法律和商业了解很多，但他的建议仅限于此；他并不是创业公司的人。因此，我们在早期犯了一些基本的错误。"
     },
     {
       "original": "And when we presented to investors, we presented to only 2, because that was all we knew. If we'd had our later selves to encourage and advise us, and Demo Day to present at, we would have been in much better shape.",
-      "translated": "[待翻译] And when we presented to investors, we presented t..."
+      "translated": "当我们向投资者展示时，我们只向两位投资者做了展示，因为我们只认识他们。如果我们有后来的自己来鼓励和提供建议，以及有演示日可以展示的话，我们的状态会好得多。"
     },
     {
       "original": "We probably could have raised money at 3 to 5 times the valuation we did.If we take 7% of a company we fund, the founders only have to do 7.5% better in their next round of funding to end up net ahead.",
-      "translated": "[待翻译] We probably could have raised money at 3 to 5 time..."
+      "translated": "我们本可以以目前估值的3到5倍筹集资金。如果我们接受一家公司7%的股份，创始人只需要在下一轮融资中表现好7.5%就能净赚。"
     },
     {
       "original": "We certainly manage that.So who is our 7% coming out of? If the founders end up net ahead it's not coming out of them. So is it coming out of later stage investors? Well, they do end up paying more. But I think they pay more because the company is actually more valuable.",
-      "translated": "[待翻译] We certainly manage that.So who is our 7% coming o..."
+      "translated": "我们当然可以做到这一点。那么，我们的7%是从哪里出来的呢？如果创始人的净收益是增加的，那么这部分成本并不是从他们那里出来的。那么，是不是从后期投资者那里来的呢？确实，他们最终付出的更多。但我认为，他们付出更多是因为公司的实际价值更高。"
     },
     {
       "original": "And later stage investors have no problem with that. The returns of a VC fund depend on the quality of the companies they invest in, not how cheaply they can buy stock in them.If what we do is useful, why wasn't anyone doing it before?",
-      "translated": "[待翻译] And later stage investors have no problem with tha..."
+      "translated": "后期投资者对此没有任何问题。风险投资基金的回报取决于他们所投资公司的质量，而不是他们能以多低的价格购买股票。如果我们所做的工作是有价值的，那么为什么之前没有人这样做呢？"
     },
     {
       "original": "There are two answers to that. One is that people were doing it before, just haphazardly on a smaller scale. Before us, seed funding came primarily from individual angel investors. Larry and Sergey, for example, got their seed funding from Andy Bechtolsheim, one of the founders of Sun.",
-      "translated": "[待翻译] There are two answers to that. One is that people ..."
+      "translated": "对此有两个答案。一个是人们在我们之前就已经在做了，只是规模较小且较为随意。在我们之前，种子资金主要来自个人天使投资者。例如，拉里和谢尔盖的种子资金就来自安迪·贝克托尔希姆，他是太阳微系统公司的一位创始人。"
     },
     {
       "original": "And because he was a startup guy he probably gave them useful advice. But raising money from angel investors is a hit or miss thing. It's a sideline for most of them, so they only do a handful of deals a year and they don't spend a lot of time on the startups they invest in.",
-      "translated": "[待翻译] And because he was a startup guy he probably gave ..."
+      "translated": "因为他是个创业人士，所以他可能给了他们一些有用的建议。但向天使投资者融资是一件碰运气的事情。对大多数人来说，这只是他们的副业，所以他们每年只做少数几笔投资，也不会花太多时间在他们投资的创业公司上。"
     },
     {
       "original": "And they're hard to reach, because they don't want random startups pestering them with business plans. The Google guys were lucky because they knew someone who knew Bechtolsheim. It generally takes a personal introduction with angels.The other reason no one was doing quite what we do is that till recently it was a lot more expensive to start a startup.",
-      "translated": "[待翻译] And they're hard to reach, because they don't want..."
+      "translated": "他们很难接触，因为他们不希望一些初创公司随意用商业计划书来打扰他们。谷歌的创始人很幸运，因为他们认识一个认识贝托尔希姆的人。通常情况下，与天使投资人接触需要个人引荐。另一个原因是，直到最近，创办一家初创公司的成本要高得多。"
     },
     {
       "original": "You'll notice we haven't funded any biotech startups. That's still expensive. But advancing technology has made web startups so cheap that you really can get a company airborne for $15,000. If you understand how to operate a steam catapult, at least.So in effect what's happened is that a new ecological niche has opened up, and Y Combinator is the new kind of animal that has moved into it.",
-      "translated": "[待翻译] You'll notice we haven't funded any biotech startu..."
+      "translated": "你会注意到我们还没有资助任何生物技术初创公司。这仍然很昂贵。但技术的进步使网络初创公司的成本变得如此低廉，以至于你真的可以用15,000美元就让一家公司起步运行。当然，前提是你懂得如何操作蒸汽弹射器。所以，实际上发生的是一个新的生态位已经打开，而Y Combinator就是进入这一生态位的新种类动物。"
     },
     {
       "original": "We're not a replacement for venture capital funds. We occupy a new, adjacent niche. And conditions in our niche are really quite different. It's not just that the problems we face are different; the whole structure of the business is different.",
-      "translated": "[待翻译] We're not a replacement for venture capital funds...."
+      "translated": "我们并不是风险投资基金的替代品。我们占据了一个新的、相邻的细分市场。而我们这个细分市场的条件确实大不相同。不仅仅是面临的问题不同，整个业务的结构也不同。"
     },
     {
       "original": "VCs are playing a zero-sum game. They're all competing for a slice of a fixed amount of \"deal flow,\" and that explains a lot of their behavior. Whereas our m.o. is to create new deal flow, by encouraging hackers who would have gotten jobs to start their own startups instead.",
-      "translated": "[待翻译] VCs are playing a zero-sum game. They're all compe..."
+      "translated": "风险投资人在玩一个零和游戏。他们都在争夺有限的“交易流”，这解释了他们很多的行为。而我们的策略是创造新的交易流，通过鼓励那些本可以找到工作的黑客们去创建自己的初创公司。"
     },
     {
       "original": "We compete more with employers than VCs.It's not surprising something like this would happen. Most fields become more specialized—more articulated—as they develop, and startups are certainly an area in which there has been a lot of development over the past couple decades.",
-      "translated": "[待翻译] We compete more with employers than VCs.It's not s..."
+      "translated": "我们与雇主的竞争多于与风险投资的竞争。发生这种事情并不令人意外。大多数领域在发展过程中都会变得更加专业化——更加细分——而初创企业在过去几十年中无疑经历了大量的发展。"
     },
     {
       "original": "The venture business in its present form is only about forty years old. It stands to reason it would evolve.And it's natural that the new niche would at first be described, even by its inhabitants, in terms of the old one.",
-      "translated": "[待翻译] The venture business in its present form is only a..."
+      "translated": "目前形式的风险投资业务只有大约四十年的历史。理所当然，它会发展变化。新领域最初被用旧领域的术语来描述，即使是其内部人士也是如此，这是很自然的。"
     },
     {
       "original": "But really Y Combinator is not in the startup funding business. Really we're more of a small, furry steam catapult.Thanks to Trevor Blackwell, Jessica Livingston, and Robert Morris for reading drafts of this.",
-      "translated": "[待翻译] But really Y Combinator is not in the startup fund..."
+      "translated": "但事实上，Y Combinator 并不是在从事初创公司的融资业务。实际上，我们更像是一台小型、毛茸茸的蒸汽弹射器。感谢 Trevor Blackwell、Jessica Livingston 和 Robert Morris 阅读本文的草稿。"
     }
-  ]
+  ],
+  "translation_completed": "2025-07-28T15:15:07.372500",
+  "translation_stats": {
+    "total_paragraphs": 39,
+    "success_count": 39,
+    "success_rate": "100.0%"
+  }
 }

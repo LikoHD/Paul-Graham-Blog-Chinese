@@ -69,215 +69,221 @@
   "paragraphs": [
     {
       "original": "January 2003(This article is derived from a keynote talk at the fall 2002 meeting of NEPLS.)Visitors to this country are often surprised to find that Americans like to begin a conversation by asking \"what do you do?\" I've never liked this question.",
-      "translated": "[待翻译] January 2003(This article is derived from a keynot..."
+      "translated": "2003年1月（本文源自2002年秋季NEPLS会议的主题演讲）。来这个国家的访客常常惊讶地发现，美国人喜欢通过问“你是做什么的？”来开始一段对话。我向来不喜欢这个问题。"
     },
     {
       "original": "I've rarely had a neat answer to it. But I think I have finally solved the problem. Now, when someone asks me what I do, I look them straight in the eye and say \"I'm designing a new dialect of Lisp.\" I recommend this answer to anyone who doesn't like being asked what they do.",
-      "translated": "[待翻译] I've rarely had a neat answer to it. But I think I..."
+      "translated": "我很少能给出一个简洁的答案。但我认为我终于解决了这个问题。现在，当有人问我做什么时，我会直视他们的眼睛，说：“我正在设计一种新的Lisp方言。” 我推荐这个答案给任何不喜欢被问到他们做什么的人。"
     },
     {
       "original": "The conversation will turn immediately to other topics.I don't consider myself to be doing research on programming languages. I'm just designing one, in the same way that someone might design a building or a chair or a new typeface.",
-      "translated": "[待翻译] The conversation will turn immediately to other to..."
+      "translated": "谈话会立即转向其他话题。我不认为自己是在研究编程语言。我仅仅是设计一种编程语言，就像有人可能会设计一栋建筑、一把椅子或一种新的字体一样。"
     },
     {
       "original": "I'm not trying to discover anything new. I just want to make a language that will be good to program in. In some ways, this assumption makes life a lot easier.The difference between design and research seems to be a question of new versus good.",
-      "translated": "[待翻译] I'm not trying to discover anything new. I just wa..."
+      "translated": "我并不是想要发现什么新的东西。我只是想创造一门编程起来得心应手的语言。在某些方面，这种假设让事情变得容易多了。设计与研究之间的区别似乎在于新与好之间的选择。"
     },
     {
       "original": "Design doesn't have to be new, but it has to be good. Research doesn't have to be good, but it has to be new. I think these two paths converge at the top: the best design surpasses its predecessors by using new ideas, and the best research solves problems that are not only new, but actually worth solving.",
-      "translated": "[待翻译] Design doesn't have to be new, but it has to be go..."
+      "translated": "设计不必求新，但必须求好。研究不必求好，但必须求新。我认为这两条道路在顶端交汇：最好的设计通过运用新思想超越前人，而最好的研究不仅解决新问题，还解决真正值得解决的问题。"
     },
     {
       "original": "So ultimately we're aiming for the same destination, just approaching it from different directions.What I'm going to talk about today is what your target looks like from the back. What do you do differently when you treat programming languages as a design problem instead of a research topic?The biggest difference is that you focus more on the user.",
-      "translated": "[待翻译] So ultimately we're aiming for the same destinatio..."
+      "translated": "所以最终我们都是朝着同一个目标前进，只是方向不同。今天我要谈的是从背后看你的目标是什么样子。当你把编程语言视为一个设计问题而不是研究课题时，你会有哪些不同的做法？最大的不同在于你会更多地关注用户。"
     },
     {
       "original": "Design begins by asking, who is this for and what do they need from it? A good architect, for example, does not begin by creating a design that he then imposes on the users, but by studying the intended users and figuring out what they need.Notice I said \"what they need,\" not \"what they want.\" I don't mean to give the impression that working as a designer means working as a sort of short-order cook, making whatever the client tells you to.",
-      "translated": "[待翻译] Design begins by asking, who is this for and what ..."
+      "translated": "设计始于提问：这是为谁设计的？他们需要它提供什么？例如，一位优秀的建筑师不会一开始就设计出一个方案然后强加给用户，而是通过研究目标用户来弄清楚他们的需求。请注意，我说的是“他们需要什么”，而不是“他们想要什么”。我并不是想要给你一种印象，即作为一名设计师意味着像快餐厨师那样，客户让你做什么你就做什么。"
     },
     {
       "original": "This varies from field to field in the arts, but I don't think there is any field in which the best work is done by the people who just make exactly what the customers tell them to.The customer is always right in the sense that the measure of good design is how well it works for the user.",
-      "translated": "[待翻译] This varies from field to field in the arts, but I..."
+      "translated": "这在艺术的各个领域中各不相同，但我认为没有任何一个领域中，最好的作品是由那些完全按照客户要求做事的人完成的。客户永远是对的，这表现在好的设计在于它为用户服务的效果如何。"
     },
     {
       "original": "If you make a novel that bores everyone, or a chair that's horribly uncomfortable to sit in, then you've done a bad job, period. It's no defense to say that the novel or the chair is designed according to the most advanced theoretical principles.And yet, making what works for the user doesn't mean simply making what the user tells you to.",
-      "translated": "[待翻译] If you make a novel that bores everyone, or a chai..."
+      "translated": "如果你写了一本让所有人都觉得无聊的小说，或者做了一把坐起来极其不舒服的椅子，那么你就是做得很糟糕，没得辩解。不能用小说或椅子是按照最先进的理论原则设计的来作为辩护。然而，为用户设计有用的产品并不意味着简单地按照用户告诉你的去做。"
     },
     {
       "original": "Users don't know what all the choices are, and are often mistaken about what they really want.The answer to the paradox, I think, is that you have to design for the user, but you have to design what the user needs, not simply what he says he wants.",
-      "translated": "[待翻译] Users don't know what all the choices are, and are..."
+      "translated": "用户并不知道所有的选择，而且往往对自己真正想要的东西有误解。我认为解决这个悖论的答案是，你必须为用户设计，但设计的应该是用户需要的东西，而不仅仅是他们所说的他们想要的东西。"
     },
     {
       "original": "It's much like being a doctor. You can't just treat a patient's symptoms. When a patient tells you his symptoms, you have to figure out what's actually wrong with him, and treat that.This focus on the user is a kind of axiom from which most of the practice of good design can be derived, and around which most design issues center.If good design must do what the user needs, who is the user?",
-      "translated": "[待翻译] It's much like being a doctor. You can't just trea..."
+      "translated": "这很像当医生。你不能只治疗病人的症状。当病人告诉你他的症状时，你必须找出他到底哪里出了问题，并治疗那个问题。这种以用户为中心的理念是良好设计实践的基本公理，大多数设计问题也都围绕这一点展开。如果良好的设计必须满足用户的需求，那么用户是谁呢？"
     },
     {
       "original": "When I say that design must be for users, I don't mean to imply that good design aims at some kind of lowest common denominator. You can pick any group of users you want. If you're designing a tool, for example, you can design it for anyone from beginners to experts, and what's good design for one group might be bad for another.",
-      "translated": "[待翻译] When I say that design must be for users, I don't ..."
+      "translated": "当我说设计必须以用户为中心时，并不意味着好的设计应该迎合某种最低标准。你可以选择任何你想要的用户群体。例如，如果你在设计一个工具，你可以针对从初学者到专家的任何人群，而对一个群体来说是好的设计，对另一个群体来说可能是不好的。"
     },
     {
       "original": "The point is, you have to pick some group of users. I don't think you can even talk about good or bad design except with reference to some intended user.You're most likely to get good design if the intended users include the designer himself.",
-      "translated": "[待翻译] The point is, you have to pick some group of users..."
+      "translated": "关键在于，你必须选择某一组用户。我认为，如果不参考某个预期的用户群体，就无法讨论设计的好坏。如果你自己也是预期用户之一，那么最有可能获得良好的设计。"
     },
     {
       "original": "When you design something for a group that doesn't include you, it tends to be for people you consider to be less sophisticated than you, not more sophisticated.That's a problem, because looking down on the user, however benevolently, seems inevitably to corrupt the designer.",
-      "translated": "[待翻译] When you design something for a group that doesn't..."
+      "translated": "当你为一个不包括你自己的群体设计东西时，往往会为那些你认为不如你精明的人设计，而不是比你更精明的人。这是一个问题，因为即使是以仁慈的态度看待用户，似乎也必然会腐蚀设计师。"
     },
     {
       "original": "I suspect that very few housing projects in the US were designed by architects who expected to live in them. You can see the same thing in programming languages. C, Lisp, and Smalltalk were created for their own designers to use.",
-      "translated": "[待翻译] I suspect that very few housing projects in the US..."
+      "translated": "我怀疑美国很少有住房项目是由期望住在其中的建筑师设计的。你可以在编程语言中看到同样的情况。C、Lisp 和 Smalltalk 都是由它们的设计者为自己使用而创建的。"
     },
     {
       "original": "Cobol, Ada, and Java, were created for other people to use.If you think you're designing something for idiots, the odds are that you're not designing something good, even for idiots. Even if you're designing something for the most sophisticated users, though, you're still designing for humans.",
-      "translated": "[待翻译] Cobol, Ada, and Java, were created for other peopl..."
+      "translated": "Cobol、Ada 和 Java 是为其他人使用而创建的。如果你认为你是在为傻瓜设计，那么你很可能设计不出好东西，即使是对傻瓜来说也是如此。然而，即使你是在为最 sophisticated 的用户设计，你仍然是在为人设计。"
     },
     {
       "original": "It's different in research. In math you don't choose abstractions because they're easy for humans to understand; you choose whichever make the proof shorter. I think this is true for the sciences generally.",
-      "translated": "[待翻译] It's different in research. In math you don't choo..."
+      "translated": "在研究中，情况有所不同。在数学中，你不会因为某种抽象概念对人类来说容易理解而选择它；你会选择那些能使证明过程更简短的抽象概念。我认为这一点对科学领域普遍适用。"
     },
     {
       "original": "Scientific ideas are not meant to be ergonomic.Over in the arts, things are very different. Design is all about people. The human body is a strange thing, but when you're designing a chair, that's what you're designing for, and there's no way around it.",
-      "translated": "[待翻译] Scientific ideas are not meant to be ergonomic.Ove..."
+      "translated": "科学思想并非为了人体工学而设计。而在艺术领域，情况则大相径庭。设计全部围绕人展开。人体是一件奇怪的事物，但当你在设计一把椅子时，你所设计的就是为了人体，这一点无法回避。"
     },
     {
       "original": "All the arts have to pander to the interests and limitations of humans. In painting, for example, all other things being equal a painting with people in it will be more interesting than one without. It is not merely an accident of history that the great paintings of the Renaissance are all full of people.",
-      "translated": "[待翻译] All the arts have to pander to the interests and l..."
+      "translated": "所有的艺术都必须迎合人类的兴趣和局限。例如，在绘画中，其他条件相同的情况下，有人物的画作会比没有人物的更有趣。文艺复兴时期的伟大画作都充满了人物，这并非仅仅是历史的偶然。"
     },
     {
       "original": "If they hadn't been, painting as a medium wouldn't have the prestige that it does.Like it or not, programming languages are also for people, and I suspect the human brain is just as lumpy and idiosyncratic as the human body.",
-      "translated": "[待翻译] If they hadn't been, painting as a medium wouldn't..."
+      "translated": "如果绘画媒介没有这种地位，那么它也不会有现在的声望。无论喜欢与否，编程语言也是为人类设计的，我怀疑人脑和人体一样，充满了不规则和特异性。"
     },
     {
       "original": "Some ideas are easy for people to grasp and some aren't. For example, we seem to have a very limited capacity for dealing with detail. It's this fact that makes programing languages a good idea in the first place; if we could handle the detail, we could just program in machine language.Remember, too, that languages are not primarily a form for finished programs, but something that programs have to be developed in.",
-      "translated": "[待翻译] Some ideas are easy for people to grasp and some a..."
+      "translated": "有些想法人们很容易理解，而有些则不然。例如，我们处理细节的能力似乎非常有限。正是这一事实使编程语言从一开始就成为了一个好主意；如果我们能够处理这些细节，我们可以直接用机器语言编程。还要记住，语言不仅仅是为了完成的程序提供形式，而是程序必须在其中开发的工具。"
     },
     {
       "original": "Anyone in the arts could tell you that you might want different mediums for the two situations. Marble, for example, is a nice, durable medium for finished ideas, but a hopelessly inflexible one for developing new ideas.A program, like a proof, is a pruned version of a tree that in the past has had false starts branching off all over it.",
-      "translated": "[待翻译] Anyone in the arts could tell you that you might w..."
+      "translated": "任何从事艺术的人都会告诉你，对于这两种情况，你可能需要不同的媒介。例如，大理石是一种很好的、耐用的成品媒介，但对于发展新想法来说，它却是一种毫无希望的僵硬媒介。一个程序，就像一个证明一样，是过去曾有许多失败起点的树的一个简化版本。"
     },
     {
       "original": "So the test of a language is not simply how clean the finished program looks in it, but how clean the path to the finished program was. A design choice that gives you elegant finished programs may not give you an elegant design process.",
-      "translated": "[待翻译] So the test of a language is not simply how clean ..."
+      "translated": "因此，对一门语言的检验不仅仅在于最终程序看起来是否整洁，还在于达到最终程序的过程是否整洁。一个能让你写出优雅程序的设计选择，未必能让你有一个优雅的设计过程。"
     },
     {
       "original": "For example, I've written a few macro-defining macros full of nested backquotes that look now like little gems, but writing them took hours of the ugliest trial and error, and frankly, I'm still not entirely sure they're correct.We often act as if the test of a language were how good finished programs look in it.",
-      "translated": "[待翻译] For example, I've written a few macro-defining mac..."
+      "translated": "例如，我编写了一些宏定义宏，里面充满了嵌套的反引号，现在看起来就像是小宝石，但编写它们花费了我数小时最糟糕的试错，老实说，我仍然不能完全确定它们是正确的。我们常常表现得好像评判一门语言的标准是用它编写的完成的程序看起来有多好。"
     },
     {
       "original": "It seems so convincing when you see the same program written in two languages, and one version is much shorter. When you approach the problem from the direction of the arts, you're less likely to depend on this sort of test.",
-      "translated": "[待翻译] It seems so convincing when you see the same progr..."
+      "translated": "当你看到同一个程序用两种语言编写，其中一个版本短得多时，这看起来非常有说服力。当你从艺术的角度来解决问题时，你就不太可能依赖这种测试。"
     },
     {
       "original": "You don't want to end up with a programming language like marble.For example, it is a huge win in developing software to have an interactive toplevel, what in Lisp is called a read-eval-print loop. And when you have one this has real effects on the design of the language.",
-      "translated": "[待翻译] You don't want to end up with a programming langua..."
+      "translated": "你不希望最终得到一种像大理石一样的编程语言。例如，在开发软件时，拥有一个交互式的顶级环境（在Lisp中称为读取-求值-打印循环）是一个巨大的优势。而当你拥有这样的环境时，它会对语言的设计产生真正的影响。"
     },
     {
       "original": "It would not work well for a language where you have to declare variables before using them, for example. When you're just typing expressions into the toplevel, you want to be able to set x to some value and then start doing things to x.",
-      "translated": "[待翻译] It would not work well for a language where you ha..."
+      "translated": "对于那些需要在使用变量之前声明的编程语言来说，这种方法就不那么适用了。当你在顶层直接输入表达式时，你希望能够将 x 设定为某个值，然后开始对 x 进行操作。"
     },
     {
       "original": "You don't want to have to declare the type of x first. You may dispute either of the premises, but if a language has to have a toplevel to be convenient, and mandatory type declarations are incompatible with a toplevel, then no language that makes type declarations mandatory could be convenient to program in.In practice, to get good design you have to get close, and stay close, to your users.",
-      "translated": "[待翻译] You don't want to have to declare the type of x fi..."
+      "translated": "你不想先声明 x 的类型。你可能会对这两个前提中的任何一个提出异议，但如果说一种语言要方便使用就必须有顶层结构，而强制类型声明与顶层结构不兼容，那么任何强制类型声明的语言都不可能方便编程。实际上，要获得良好的设计，你必须接近用户并保持这种接近。"
     },
     {
       "original": "You have to calibrate your ideas on actual users constantly, especially in the beginning. One of the reasons Jane Austen's novels are so good is that she read them out loud to her family. That's why she never sinks into self-indulgently arty descriptions of landscapes, or pretentious philosophizing.",
-      "translated": "[待翻译] You have to calibrate your ideas on actual users c..."
+      "translated": "你必须不断根据实际用户来校正你的想法，尤其是在开始阶段。简·奥斯汀的小说之所以如此出色，原因之一是她会把作品念给家人听。这就是为什么她从不沉溺于自我陶醉的艺术性风景描写，也不做矫揉造作的哲学思考。"
     },
     {
       "original": "(The philosophy's there, but it's woven into the story instead of being pasted onto it like a label.) If you open an average \"literary\" novel and imagine reading it out loud to your friends as something you'd written, you'll feel all too keenly what an imposition that kind of thing is upon the reader.In the software world, this idea is known as Worse is Better.",
-      "translated": "[待翻译] (The philosophy's there, but it's woven into the s..."
+      "translated": "哲学是存在的，但它被编织进了故事中，而不是像标签一样贴在外面。如果你打开一本普通的“文学”小说，想象自己把它读给朋友听，作为自己写的东西，你会非常清楚地感受到这种东西对读者来说是多么的强加。在软件界，这种理念被称为“更糟即是更好”。"
     },
     {
       "original": "Actually, there are several ideas mixed together in the concept of Worse is Better, which is why people are still arguing about whether worse is actually better or not. But one of the main ideas in that mix is that if you're building something new, you should get a prototype in front of users as soon as possible.The alternative approach might be called the Hail Mary strategy.",
-      "translated": "[待翻译] Actually, there are several ideas mixed together i..."
+      "translated": "实际上，“够差即可”这一概念中混合了多种思想，这也是人们仍在争论“够差”是否真的“更好”的原因。但其中一种主要思想是，如果你正在开发新的东西，应该尽快将原型展示给用户。而另一种方法或许可以称为“孤注一掷”策略。"
     },
     {
       "original": "Instead of getting a prototype out quickly and gradually refining it, you try to create the complete, finished, product in one long touchdown pass. As far as I know, this is a recipe for disaster. Countless startups destroyed themselves this way during the Internet bubble.",
-      "translated": "[待翻译] Instead of getting a prototype out quickly and gra..."
+      "translated": "与其快速推出原型并逐步完善，你试图一次性完成整个成品，就像一记长距离达阵传球。据我所知，这是自寻绝路。无数初创公司在互联网泡沫期间就是这样自我毁灭的。"
     },
     {
       "original": "I've never heard of a case where it worked.What people outside the software world may not realize is that Worse is Better is found throughout the arts. In drawing, for example, the idea was discovered during the Renaissance.",
-      "translated": "[待翻译] I've never heard of a case where it worked.What pe..."
+      "translated": "我从未听说过有哪个案例是成功的。软件界外的人可能不知道，Worse is Better（差即是好）这一理念在艺术领域也是随处可见。例如，在绘画中，这一理念是在文艺复兴时期被发现的。"
     },
     {
       "original": "Now almost every drawing teacher will tell you that the right way to get an accurate drawing is not to work your way slowly around the contour of an object, because errors will accumulate and you'll find at the end that the lines don't meet.",
-      "translated": "[待翻译] Now almost every drawing teacher will tell you tha..."
+      "translated": "现在几乎每位绘画老师都会告诉你，正确的绘画方法不是缓慢地沿着物体的轮廓线描绘，因为误差会逐渐累积，到最后你会发现线条无法闭合。"
     },
     {
       "original": "Instead you should draw a few quick lines in roughly the right place, and then gradually refine this initial sketch.In most fields, prototypes have traditionally been made out of different materials.",
-      "translated": "[待翻译] Instead you should draw a few quick lines in rough..."
+      "translated": "你应该先快速地在大致正确的位置画几条线，然后逐渐完善这个初步的草图。在大多数领域，原型传统上都是用不同的材料制作的。"
     },
     {
       "original": "Typefaces to be cut in metal were initially designed with a brush on paper. Statues to be cast in bronze were modelled in wax. Patterns to be embroidered on tapestries were drawn on paper with ink wash.",
-      "translated": "[待翻译] Typefaces to be cut in metal were initially design..."
+      "translated": "最初，用于金属雕刻的字体是用毛笔在纸上设计的。青铜铸造的雕像则是用蜡塑形的。要在挂毯上刺绣的图案则是用墨水在纸上绘制的。"
     },
     {
       "original": "Buildings to be constructed from stone were tested on a smaller scale in wood.What made oil paint so exciting, when it first became popular in the fifteenth century, was that you could actually make the finished work from the prototype.",
-      "translated": "[待翻译] Buildings to be constructed from stone were tested..."
+      "translated": "用石头建造的建筑物先用木头按较小的比例进行测试。当油彩在15世纪首次流行时，令人兴奋的是，你可以直接用原型制作完成的作品。"
     },
     {
       "original": "You could make a preliminary drawing if you wanted to, but you weren't held to it; you could work out all the details, and even make major changes, as you finished the painting.You can do this in software too.",
-      "translated": "[待翻译] You could make a preliminary drawing if you wanted..."
+      "translated": "你可以先做一个初步的草图，但这并不是必须的；你可以在完成绘画的过程中逐步完善所有细节，甚至进行大的修改。在软件开发中也可以这样做。"
     },
     {
       "original": "A prototype doesn't have to be just a model; you can refine it into the finished product. I think you should always do this when you can. It lets you take advantage of new insights you have along the way.",
-      "translated": "[待翻译] A prototype doesn't have to be just a model; you c..."
+      "translated": "原型不必仅仅是一个模型；你可以将其完善为最终产品。我认为你应该在可能时总是这样做。这让你能够利用沿途获得的新见解。"
     },
     {
       "original": "But perhaps even more important, it's good for morale.Morale is key in design. I'm surprised people don't talk more about it. One of my first drawing teachers told me: if you're bored when you're drawing something, the drawing will look boring.",
-      "translated": "[待翻译] But perhaps even more important, it's good for mor..."
+      "translated": "但也许更重要的是，这有助于提升士气。士气在设计中至关重要。我感到惊讶的是人们并没有更多地讨论这一点。我的第一位绘画老师曾告诉我：如果你在绘画时感到无聊，那么这幅画看起来也会很无聊。"
     },
     {
       "original": "For example, suppose you have to draw a building, and you decide to draw each brick individually. You can do this if you want, but if you get bored halfway through and start making the bricks mechanically instead of observing each one, the drawing will look worse than if you had merely suggested the bricks.Building something by gradually refining a prototype is good for morale because it keeps you engaged.",
-      "translated": "[待翻译] For example, suppose you have to draw a building, ..."
+      "translated": "例如，假设你需要画一栋建筑物，你决定逐一画出每块砖。你当然可以这样做，但如果你在中途感到无聊，开始机械地画砖，而不是观察每一块砖，那么这幅画看起来会比你只是大致勾勒出砖块的样子要差。通过逐步完善原型来建造东西有利于保持士气，因为它能让你保持参与感。"
     },
     {
       "original": "In software, my rule is: always have working code. If you're writing something that you'll be able to test in an hour, then you have the prospect of an immediate reward to motivate you. The same is true in the arts, and particularly in oil painting.",
-      "translated": "[待翻译] In software, my rule is: always have working code...."
+      "translated": "在软件开发中，我的原则是：始终拥有可运行的代码。如果你正在编写的内容可以在一小时内进行测试，那么你就有机会获得即时的回报来激励自己。同样的道理也适用于艺术领域，尤其是在油画创作中。"
     },
     {
       "original": "Most painters start with a blurry sketch and gradually refine it. If you work this way, then in principle you never have to end the day with something that actually looks unfinished. Indeed, there is even a saying among painters: \"A painting is never finished, you just stop working on it.\" This idea will be familiar to anyone who has worked on software.Morale is another reason that it's hard to design something for an unsophisticated user.",
-      "translated": "[待翻译] Most painters start with a blurry sketch and gradu..."
+      "translated": "大多数画家都是从一个模糊的草图开始，然后逐渐完善。如果你用这种方式工作，那么原则上你永远不会在一天结束时留下一些看起来未完成的东西。确实，画家之间有一句谚语：“一幅画永远不会真正完成，你只是停止了对它的创作。”这个想法对于任何从事软件工作的人来说都不会陌生。士气是另一个原因，使得为不成熟的用户设计东西变得困难。"
     },
     {
       "original": "It's hard to stay interested in something you don't like yourself. To make something good, you have to be thinking, \"wow, this is really great,\" not \"what a piece of shit; those fools will love it.\"Design means making things for humans.",
-      "translated": "[待翻译] It's hard to stay interested in something you don'..."
+      "translated": "很难对不喜欢的东西保持兴趣。要做出好的东西，你必须想着“哇，这真是太棒了”，而不是“这破玩意儿；那些傻瓜会喜欢的”。设计意味着为人类创造东西。"
     },
     {
       "original": "But it's not just the user who's human. The designer is human too.Notice all this time I've been talking about \"the designer.\" Design usually has to be under the control of a single person to be any good.",
-      "translated": "[待翻译] But it's not just the user who's human. The design..."
+      "translated": "但不仅仅是用户是人，设计师也是人。请注意，我一直都在谈论“设计师”。设计通常需要由一个人来掌控，才能做得好。"
     },
     {
       "original": "And yet it seems to be possible for several people to collaborate on a research project. This seems to me one of the most interesting differences between research and design.There have been famous instances of collaboration in the arts, but most of them seem to have been cases of molecular bonding rather than nuclear fusion.",
-      "translated": "[待翻译] And yet it seems to be possible for several people..."
+      "translated": "然而，似乎多人可以共同合作完成一个研究项目。这在我看来是研究与设计之间最有趣的区别之一。在艺术领域，确实有一些著名的合作案例，但大多数似乎更像是分子间的结合，而非原子核的融合。"
     },
     {
       "original": "In an opera it's common for one person to write the libretto and another to write the music. And during the Renaissance, journeymen from northern Europe were often employed to do the landscapes in the backgrounds of Italian paintings.",
-      "translated": "[待翻译] In an opera it's common for one person to write th..."
+      "translated": "在歌剧中，常见一个人编写剧本，另一个人作曲。而在文艺复兴时期，来自北欧的工匠常常被雇用来绘制意大利画作背景中的风景。"
     },
     {
       "original": "But these aren't true collaborations. They're more like examples of Robert Frost's \"good fences make good neighbors.\" You can stick instances of good design together, but within each individual project, one person has to be in control.I'm not saying that good design requires that one person think of everything.",
-      "translated": "[待翻译] But these aren't true collaborations. They're more..."
+      "translated": "但这些并不是真正的合作。它们更像是罗伯特·弗罗斯特所说的“好篱笆造就好邻居”。你可以将良好的设计实例拼接在一起，但在每个独立的项目中，必须有一个人来掌控全局。我并不是说好的设计需要一个人想到所有的事情。"
     },
     {
       "original": "There's nothing more valuable than the advice of someone whose judgement you trust. But after the talking is done, the decision about what to do has to rest with one person.Why is it that research can be done by collaborators and design can't?",
-      "translated": "[待翻译] There's nothing more valuable than the advice of s..."
+      "translated": "没有什么比你信任的人的建议更宝贵的了。但是，当讨论结束后，关于做什么的决定必须由一个人来做。为什么研究可以由合作者共同完成，而设计却不行呢？"
     },
     {
       "original": "This is an interesting question. I don't know the answer. Perhaps, if design and research converge, the best research is also good design, and in fact can't be done by collaborators. A lot of the most famous scientists seem to have worked alone.",
-      "translated": "[待翻译] This is an interesting question. I don't know the ..."
+      "translated": "这是一个有趣的问题。我不知道答案。也许，如果设计和研究能够交汇，那么最好的研究同时也是优秀的设计，并且实际上无法由合作者完成。许多最著名的科学家似乎都是独自工作的。"
     },
     {
       "original": "But I don't know enough to say whether there is a pattern here. It could be simply that many famous scientists worked when collaboration was less common.Whatever the story is in the sciences, true collaboration seems to be vanishingly rare in the arts.",
-      "translated": "[待翻译] But I don't know enough to say whether there is a ..."
+      "translated": "但我不足以判断这里是否存在某种模式。或许这只是因为许多著名的科学家工作时，合作还不是很普遍。无论科学界的情况如何，真正的合作在艺术领域似乎几乎消失了。"
     },
     {
       "original": "Design by committee is a synonym for bad design. Why is that so? Is there some way to beat this limitation?I'm inclined to think there isn't-- that good design requires a dictator. One reason is that good design has to be all of a piece.",
-      "translated": "[待翻译] Design by committee is a synonym for bad design. W..."
+      "translated": "委员会设计是糟糕设计的同义词。为什么会这样？有没有什么方法可以克服这一局限？我认为这很难——好的设计需要一个独裁者。其中一个原因是，好的设计必须是一个整体。"
     },
     {
       "original": "Design is not just for humans, but for individual humans. If a design represents an idea that fits in one person's head, then the idea will fit in the user's head too.Related:Japanese TranslationTaste for MakersRomanian TranslationSpanish Translation",
-      "translated": "[待翻译] Design is not just for humans, but for individual ..."
+      "translated": "设计不仅是为了人类，而是为了具体的个人。如果一个设计所代表的想法能够被一个人理解，那么这个想法也能够被用户理解。相关链接：日语翻译 版式鉴赏 罗马尼亚语翻译 西班牙语翻译"
     }
-  ]
+  ],
+  "translation_completed": "2025-07-27T23:10:53.992255",
+  "translation_stats": {
+    "total_paragraphs": 53,
+    "success_count": 53,
+    "success_rate": "100.0%"
+  }
 }

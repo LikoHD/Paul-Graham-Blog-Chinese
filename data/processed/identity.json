@@ -33,77 +33,77 @@
   "paragraphs": [
     {
       "original": "February 2009I finally realized today why politics and religion yield such uniquely useless discussions.As a rule, any mention of religion on an online forum degenerates into a religious argument. Why?",
-      "translated": "[翻译失败] February 2009I finally realized today why politics..."
+      "translated": "2009年2月，今天我终于明白为什么政治和宗教会产生如此独特且无用的讨论。一般来说，在网络论坛上提及宗教往往会演变成宗教争论。为什么呢？"
     },
     {
       "original": "Why does this happen with religion and not with Javascript or baking or other topics people talk about on forums?What's different about religion is that people don't feel they need to have any particular expertise to have opinions about it.",
-      "translated": "[翻译失败] Why does this happen with religion and not with Ja..."
+      "translated": "为什么这种情况发生在宗教上，而不在JavaScript、烘焙或其他人们在论坛上讨论的话题上？宗教的不同之处在于，人们觉得自己不需要有任何特定的专业知识就可以对它发表意见。"
     },
     {
       "original": "All they need is strongly held beliefs, and anyone can have those. No thread about Javascript will grow as fast as one about religion, because people feel they have to be over some threshold of expertise to post comments about that.",
-      "translated": "[翻译失败] All they need is strongly held beliefs, and anyone..."
+      "translated": "他们只需要坚定的信念，而任何人都可以拥有这些信念。关于 Javascript 的讨论不会像关于宗教的讨论那样迅速扩大，因为人们觉得他们必须达到一定的专业水平才能发表评论。"
     },
     {
       "original": "But on religion everyone's an expert.Then it struck me: this is the problem with politics too. Politics, like religion, is a topic where there's no threshold of expertise for expressing an opinion. All you need is strong convictions.Do religion and politics have something in common that explains this similarity?",
-      "translated": "[翻译失败] But on religion everyone's an expert.Then it struc..."
+      "translated": "但谈到宗教，每个人都是专家。随后我想到：政治也有同样的问题。政治，像宗教一样，是一个发表意见无需任何专业门槛的话题。你所需要的只是坚定的信念。宗教和政治是否有什么共同点可以解释这种相似性？"
     },
     {
       "original": "One possible explanation is that they deal with questions that have no definite answers, so there's no back pressure on people's opinions. Since no one can be proven wrong, every opinion is equally valid, and sensing this, everyone lets fly with theirs.But this isn't true.",
-      "translated": "[翻译失败] One possible explanation is that they deal with qu..."
+      "translated": "一种可能的解释是，他们处理的问题没有明确的答案，因此对人们的观点没有反作用。由于没有人能被证明是错的，每个观点都同样有效，感知到这一点，每个人都畅所欲言。但这并不是事实。"
     },
     {
       "original": "There are certainly some political questions that have definite answers, like how much a new government policy will cost. But the more precise political questions suffer the same fate as the vaguer ones.I think what religion and politics have in common is that they become part of people's identity, and people can never have a fruitful argument about something that's part of their identity.",
-      "translated": "[翻译失败] There are certainly some political questions that ..."
+      "translated": "当然，有些政治问题确实有明确的答案，比如一项新的政府政策将花费多少。但越精确的政治问题与那些模糊的问题一样，都面临着同样的困境。我认为宗教和政治的共同点在于，它们成为了人们身份的一部分，而人们永远无法就与其身份相关的事情进行富有成效的争论。"
     },
     {
       "original": "By definition they're partisan.Which topics engage people's identity depends on the people, not the topic. For example, a discussion about a battle that included citizens of one or more of the countries involved would probably degenerate into a political argument.",
-      "translated": "[翻译失败] By definition they're partisan.Which topics engage..."
+      "translated": "按定义，它们是具有倾向性的。哪些话题会触动人们的认同感取决于人本身，而不是话题本身。例如，关于某场战争的讨论，如果涉及一个或多个参战国的公民，很可能会演变成政治争论。"
     },
     {
       "original": "But a discussion today about a battle that took place in the Bronze Age probably wouldn't. No one would know what side to be on. So it's not politics that's the source of the trouble, but identity. When people say a discussion has degenerated into a religious war, what they really mean is that it has started to be driven mostly by people's identities.",
-      "translated": "[翻译失败] But a discussion today about a battle that took pl..."
+      "translated": "但是，今天讨论一场发生在青铜时代的战斗可能就不会引起争议。没有人会知道该站哪一边。所以问题的根源不是政治，而是身份。当人们说一场讨论已经演变成为宗教战争时，他们真正想表达的是这场讨论开始主要由人们的身份所驱动。"
     },
     {
       "original": "[1]Because the point at which this happens depends on the people rather than the topic, it's a mistake to conclude that because a question tends to provoke religious wars, it must have no answer. For example, the question of the relative merits of programming languages often degenerates into a religious war, because so many programmers identify as X programmers or Y programmers.",
-      "translated": "[翻译失败] [1]Because the point at which this happens depends..."
+      "translated": "[1]因为这种情况的发生取决于人而不是话题，所以不能因为一个问题容易引发宗教战争就认为它没有答案。例如，关于编程语言优劣的问题常常退化为宗教战争，因为太多程序员自认为是X语言程序员或Y语言程序员。"
     },
     {
       "original": "This sometimes leads people to conclude the question must be unanswerable—that all languages are equally good. Obviously that's false: anything else people make can be well or badly designed; why should this be uniquely impossible for programming languages?",
-      "translated": "[翻译失败] This sometimes leads people to conclude the questi..."
+      "translated": "这有时会让人们得出结论，认为这个问题无法回答——即所有语言都是等效的。显然这是错误的：人们创造的其他东西可以设计得非常好或非常糟糕；为什么唯独编程语言会不可能有优劣之分呢？"
     },
     {
       "original": "And indeed, you can have a fruitful discussion about the relative merits of programming languages, so long as you exclude people who respond from identity.More generally, you can have a fruitful discussion about a topic only if it doesn't engage the identities of any of the participants.",
-      "translated": "[翻译失败] And indeed, you can have a fruitful discussion abo..."
+      "translated": "确实，你可以就编程语言的相对优点进行富有成果的讨论，只要你排除那些从身份角度回应的人。更广泛地说，只有当讨论不触及任何参与者的身份时，你才能就一个话题进行富有成果的讨论。"
     },
     {
       "original": "What makes politics and religion such minefields is that they engage so many people's identities. But you could in principle have a useful conversation about them with some people. And there are other topics that might seem harmless, like the relative merits of Ford and Chevy pickup trucks, that you couldn't safely talk about with others.The most intriguing thing about this theory, if it's right, is that it explains not merely which kinds of discussions to avoid, but how to have better ideas.",
-      "translated": "[翻译失败] What makes politics and religion such minefields i..."
+      "translated": "使政治和宗教成为雷区的原因在于它们触动了许多人的身份认同。但原则上，你可以与某些人就这些话题进行有意义的对话。而有些看似无害的话题，比如福特和雪佛兰皮卡的优劣比较，却可能无法安全地与其他人讨论。如果这一理论正确，那么最引人入胜的是，它不仅解释了应该避免哪些类型的讨论，还揭示了如何产生更好的想法。"
     },
     {
       "original": "If people can't think clearly about anything that has become part of their identity, then all other things being equal, the best plan is to let as few things into your identity as possible. [2]Most people reading this will already be fairly tolerant.",
-      "translated": "[翻译失败] If people can't think clearly about anything that ..."
+      "translated": "如果人们不能清晰地思考任何已经成为他们身份一部分的事物，那么在其他条件相同的情况下，最好的计划就是尽量减少让事物成为你身份的一部分。[2]大多数读到这的人已经相当宽容了。"
     },
     {
       "original": "But there is a step beyond thinking of yourself as x but tolerating y: not even to consider yourself an x. The more labels you have for yourself, the dumber they make you.Notes[1] When that happens, it tends to happen fast, like a core going critical.",
-      "translated": "[翻译失败] But there is a step beyond thinking of yourself as..."
+      "translated": "但还有一种超越了将自己视为x而容忍y的境界：那就是根本不再将自己视为x。你给自己贴的标签越多，这些标签就越会让你变得愚蠢。当这种情况发生时，它往往会像核反应堆达到临界状态一样迅速。"
     },
     {
       "original": "The threshold for participating goes down to zero, which brings in more people. And they tend to say incendiary things, which draw more and angrier counterarguments.[2] There may be some things it's a net win to include in your identity.",
-      "translated": "[翻译失败] The threshold for participating goes down to zero,..."
+      "translated": "参与的门槛降为零，这吸引了更多的人加入。而这些人往往倾向于发表煽动性的言论，从而引发更多且更激烈的反驳。[2] 也许有些事情纳入身份认同总体上是有利的。"
     },
     {
       "original": "For example, being a scientist. But arguably that is more of a placeholder than an actual label—like putting NMI on a form that asks for your middle initial—because it doesn't commit you to believing anything in particular.",
-      "translated": "[翻译失败] For example, being a scientist. But arguably that ..."
+      "translated": "例如，成为一名科学家。但可以说，这更多的是一个占位符，而不是一个实际的标签——就像在要求填写中间名首字母的表格上写NMI一样——因为它并没有让你必须相信任何特定的事物。"
     },
     {
       "original": "A scientist isn't committed to believing in natural selection in the same way a biblical literalist is committed to rejecting it. All he's committed to is following the evidence wherever it leads.Considering yourself a scientist is equivalent to putting a sign in a cupboard saying \"this cupboard must be kept empty.\" Yes, strictly speaking, you're putting something in the cupboard, but not in the ordinary sense.Thanks to Sam Altman, Trevor Blackwell, Paul Buchheit, and Robert Morris for reading drafts of this.Russian TranslationPortuguese TranslationRomanian Translation",
-      "translated": "[翻译失败] A scientist isn't committed to believing in natura..."
+      "translated": "科学家对自然选择的信仰并不像圣经字面主义者拒绝它那样坚定。他所承诺的只是跟随证据，无论它指向何方。认为自己是科学家，就像在橱柜里放一个牌子写着“这个橱柜必须保持空着”。是的，严格来说，你确实往橱柜里放了东西，但不是通常意义上的东西。感谢Sam Altman、Trevor Blackwell、Paul Buchheit和Robert Morris阅读本文的草稿。俄文翻译葡萄牙文翻译罗马尼亚文翻译"
     }
   ],
-  "translation_completed": "2025-07-27T10:51:21.015810",
+  "translation_completed": "2025-07-28T11:43:23.500614",
   "translation_stats": {
     "total_paragraphs": 17,
-    "success_count": 0,
-    "success_rate": "0.0%"
+    "success_count": 17,
+    "success_rate": "100.0%"
   }
 }

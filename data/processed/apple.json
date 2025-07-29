@@ -60,185 +60,185 @@
   "paragraphs": [
     {
       "original": "Want to start a startup? Get funded by Y Combinator. November 2009I don't think Apple realizes how badly the App Store approval process is broken. Or rather, I don't think they realize how much it matters that it's broken.The way Apple runs the App Store has harmed their reputation with programmers more than anything else they've ever done.",
-      "translated": "[翻译失败] Want to start a startup? Get funded by Y Combinato..."
+      "translated": "想创业吗？那就争取得到 Y Combinator 的投资吧。2009 年 11 月我认为苹果公司并没有意识到 App Store 的审核流程有多么糟糕。或者更准确地说，我认为他们并没有意识到这个问题的严重性。苹果公司在运营 App Store 方式上对程序员的声誉损害超过了他们所做的任何其他事情。"
     },
     {
       "original": "Their reputation with programmers used to be great. It used to be the most common complaint you heard about Apple was that their fans admired them too uncritically. The App Store has changed that. Now a lot of programmers have started to see Apple as evil.How much of the goodwill Apple once had with programmers have they lost over the App Store?",
-      "translated": "[翻译失败] Their reputation with programmers used to be great..."
+      "translated": "他们曾经在程序员中享有极高的声誉。过去，你最常听到关于苹果的抱怨是，他们的粉丝对他们过于盲目崇拜。App Store改变了这一点。现在，许多程序员开始视苹果为邪恶。苹果因为App Store失去了多少曾经在程序员中的好感？"
     },
     {
       "original": "A third? Half? And that's just so far. The App Store is an ongoing karma leak.* * *How did Apple get into this mess? Their fundamental problem is that they don't understand software.They treat iPhone apps the way they treat the music they sell through iTunes.",
-      "translated": "[翻译失败] A third? Half? And that's just so far. The App Sto..."
+      "translated": "三分之一？一半？而且这只是到目前为止。App Store 是一个持续的业力泄漏。* * * 苹果是怎么陷入这种困境的？他们根本的问题在于不理解软件。他们对待 iPhone 应用的方式就像对待通过 iTunes 出售的音乐一样。"
     },
     {
       "original": "Apple is the channel; they own the user; if you want to reach users, you do it on their terms. The record labels agreed, reluctantly. But this model doesn't work for software. It doesn't work for an intermediary to own the user.",
-      "translated": "[翻译失败] Apple is the channel; they own the user; if you wa..."
+      "translated": "苹果是渠道；他们拥有用户；如果你想接触用户，就必须按照他们的规则来。唱片公司勉强同意了。但这种模式对软件行业行不通。中间商不能拥有用户。"
     },
     {
       "original": "The software business learned that in the early 1980s, when companies like VisiCorp showed that although the words \"software\" and \"publisher\" fit together, the underlying concepts don't. Software isn't like music or books.",
-      "translated": "[翻译失败] The software business learned that in the early 19..."
+      "translated": "软件业在20世纪80年代初就认识到，当像VisiCorp这样的公司表明，尽管“软件”和“发行商”这两个词可以放在一起，但它们背后的观念却并不相符。软件不像音乐或书籍。"
     },
     {
       "original": "It's too complicated for a third party to act as an intermediary between developer and user. And yet that's what Apple is trying to be with the App Store: a software publisher. And a particularly overreaching one at that, with fussy tastes and a rigidly enforced house style.If software publishing didn't work in 1980, it works even less now that software development has evolved from a small number of big releases to a constant stream of small ones.",
-      "translated": "[翻译失败] It's too complicated for a third party to act as a..."
+      "translated": "让第三方在开发者和用户之间充当中介太复杂了。然而，苹果正试图通过App Store成为这样的中介：一个软件发行商。而且，它是一个特别过度干预的发行商，有着挑剔的品味和严格强制执行的统一风格。如果软件发行在1980年行不通，那么在软件开发已经从少数几次大版本发布演变为持续不断的小版本更新的今天，这种方式就更加行不通了。"
     },
     {
       "original": "But Apple doesn't understand that either. Their model of product development derives from hardware. They work on something till they think it's finished, then they release it. You have to do that with hardware, but because software is so easy to change, its design can benefit from evolution.",
-      "translated": "[翻译失败] But Apple doesn't understand that either. Their mo..."
+      "translated": "但苹果并不理解这一点。他们的产品开发模式源自硬件。他们会一直打磨某个产品，直到认为它已经完成，然后才发布。对于硬件来说，这样做是必要的，但由于软件很容易更改，其设计可以从进化中受益。"
     },
     {
       "original": "The standard way to develop applications now is to launch fast and iterate. Which means it's a disaster to have long, random delays each time you release a new version.Apparently Apple's attitude is that developers should be more careful when they submit a new version to the App Store.",
-      "translated": "[翻译失败] The standard way to develop applications now is to..."
+      "translated": "现在开发应用的标准方式是快速启动并不断迭代。这意味着每次发布新版本时出现长时间的随机延迟将是一场灾难。显然，苹果的态度是开发者在向App Store提交新版本时应该更加小心。"
     },
     {
       "original": "They would say that. But powerful as they are, they're not powerful enough to turn back the evolution of technology. Programmers don't use launch-fast-and-iterate out of laziness. They use it because it yields the best results.",
-      "translated": "[翻译失败] They would say that. But powerful as they are, the..."
+      "translated": "他们当然会这么说。但尽管他们势力强大，却还不足以扭转技术发展的潮流。程序员采用快速发布并迭代的方法并不是因为懒惰，而是因为这种方法能产生最佳效果。"
     },
     {
       "original": "By obstructing that process, Apple is making them do bad work, and programmers hate that as much as Apple would.How would Apple like it if when they discovered a serious bug in OS X, instead of releasing a software update immediately, they had to submit their code to an intermediary who sat on it for a month and then rejected it because it contained an icon they didn't like?By breaking software development, Apple gets the opposite of what they intended: the version of an app currently available in the App Store tends to be an old and buggy one.",
-      "translated": "[翻译失败] By obstructing that process, Apple is making them ..."
+      "translated": "通过阻碍这一过程，苹果使得开发者的工作质量下降，而开发者对此的厌恶程度就如同苹果自己会厌恶一样。试想一下，如果苹果在发现OS X中的严重漏洞后，不是立即发布软件更新，而是必须将代码提交给一个中间商，后者将其搁置一个月，然后因为代码中包含他们不喜欢的图标而拒绝它，苹果会作何感想？通过破坏软件开发，苹果得到了与其初衷相反的结果：目前在App Store中可用的应用版本往往是一个旧的且存在诸多漏洞的版本。"
     },
     {
       "original": "One developer told me: As a result of their process, the App Store is full of half-baked applications. I make a new version almost every day that I release to beta users. The version on the App Store feels old and crappy.",
-      "translated": "[翻译失败] One developer told me: As a result of their proces..."
+      "translated": "一位开发者告诉我：由于他们的流程，App Store 里充满了半成品应用。我几乎每天都会发布一个新版本给测试用户。而 App Store 上的版本感觉既陈旧又糟糕。"
     },
     {
       "original": "I'm sure that a lot of developers feel this way: One emotion is \"I'm not really proud about what's in the App Store\", and it's combined with the emotion \"Really, it's Apple's fault.\" Another wrote: I believe that they think their approval process helps users by ensuring quality.",
-      "translated": "[翻译失败] I'm sure that a lot of developers feel this way: O..."
+      "translated": "我相信很多开发者都有这种感觉：一种情绪是“我对App Store里的内容并不感到特别自豪”，这种情绪与“说真的，这都是苹果的错”交织在一起。另一位开发者写道：我相信他们认为他们的审核流程通过确保质量来帮助用户。"
     },
     {
       "original": "In reality, bugs like ours get through all the time and then it can take 4-8 weeks to get that bug fix approved, leaving users to think that iPhone apps sometimes just don't work. Worse for Apple, these apps work just fine on other platforms that have immediate approval processes.",
-      "translated": "[翻译失败] In reality, bugs like ours get through all the tim..."
+      "translated": "实际上，像我们这样的 bug 经常会通过审核，然后需要 4-8 周才能获得 bug 修复的批准，这会让用户觉得 iPhone 应用有时就是不灵。对苹果来说更糟糕的是，这些应用在其他有即时审批流程的平台上运行得非常好。"
     },
     {
       "original": "Actually I suppose Apple has a third misconception: that all the complaints about App Store approvals are not a serious problem. They must hear developers complaining. But partners and suppliers are always complaining.",
-      "translated": "[翻译失败] Actually I suppose Apple has a third misconception..."
+      "translated": "实际上，我认为苹果还有一个误解：认为所有关于App Store审批的投诉都不是严重的问题。他们肯定听到了开发者的抱怨。但是，合作伙伴和供应商总是会抱怨。"
     },
     {
       "original": "It would be a bad sign if they weren't; it would mean you were being too easy on them. Meanwhile the iPhone is selling better than ever. So why do they need to fix anything?They get away with maltreating developers, in the short term, because they make such great hardware.",
-      "translated": "[翻译失败] It would be a bad sign if they weren't; it would m..."
+      "translated": "如果他们不这样做，那将是一个不好的信号；这意味着你对他们太宽容了。同时，iPhone 的销售情况比以往任何时候都要好。那么，他们为什么需要改正什么呢？在短期内，他们能够对开发者不好，是因为他们制造了如此优秀的硬件。"
     },
     {
       "original": "I just bought a new 27\" iMac a couple days ago. It's fabulous. The screen's too shiny, and the disk is surprisingly loud, but it's so beautiful that you can't make yourself care.So I bought it, but I bought it, for the first time, with misgivings.",
-      "translated": "[翻译失败] I just bought a new 27\" iMac a couple days ago. It..."
+      "translated": "我前几天刚买了一台新的27英寸iMac。它很棒。屏幕太反光了，硬盘的声音也出人意料地大，但它的美丽让你无法在意这些缺点。所以我买了它，但这一次，我带着一些疑虑买了它。"
     },
     {
       "original": "I felt the way I'd feel buying something made in a country with a bad human rights record. That was new. In the past when I bought things from Apple it was an unalloyed pleasure. Oh boy! They make such great stuff.",
-      "translated": "[翻译失败] I felt the way I'd feel buying something made in a..."
+      "translated": "我感到就像在一个人权记录糟糕的国家购买产品一样。这种感觉是新的。过去，当我从苹果购买东西时，是一种纯粹的快乐。天啊！他们制作的东西真是太棒了。"
     },
     {
       "original": "This time it felt like a Faustian bargain. They make such great stuff, but they're such assholes. Do I really want to support this company?* * *Should Apple care what people like me think? What difference does it make if they alienate a small minority of their users?There are a couple reasons they should care.",
-      "translated": "[翻译失败] This time it felt like a Faustian bargain. They ma..."
+      "translated": "这次感觉像是浮士德式的交易。他们做出这么好的产品，但他们的态度真是糟糕透了。我真的想要支持这家公司吗？* * *苹果应该在乎像我这样的人的想法吗？如果他们疏远了一小部分用户，这有什么区别吗？他们应该在乎的原因有几个。"
     },
     {
       "original": "One is that these users are the people they want as employees. If your company seems evil, the best programmers won't work for you. That hurt Microsoft a lot starting in the 90s. Programmers started to feel sheepish about working there.",
-      "translated": "[翻译失败] One is that these users are the people they want a..."
+      "translated": "一是这些用户正是他们想要的员工。如果你的公司显得不道德，最优秀的程序员就不会为你工作。这从90年代开始对微软造成了很大伤害。程序员开始对自己的工作感到羞愧。"
     },
     {
       "original": "It seemed like selling out. When people from Microsoft were talking to other programmers and they mentioned where they worked, there were a lot of self-deprecating jokes about having gone over to the dark side.",
-      "translated": "[翻译失败] It seemed like selling out. When people from Micro..."
+      "translated": "这看起来像是背叛。当微软的员工与其他程序员交谈并提到他们工作的地方时，有很多自嘲的玩笑，说自己投奔了“黑暗面”。"
     },
     {
       "original": "But the real problem for Microsoft wasn't the embarrassment of the people they hired. It was the people they never got. And you know who got them? Google and Apple. If Microsoft was the Empire, they were the Rebel Alliance.",
-      "translated": "[翻译失败] But the real problem for Microsoft wasn't the emba..."
+      "translated": "但对微软来说，真正的问题并不是他们聘用的人所带来的尴尬。而是那些他们从未得到的人。你知道谁得到了他们吗？谷歌和苹果。如果微软是帝国，那么它们就是反抗军。"
     },
     {
       "original": "And it's largely because they got more of the best people that Google and Apple are doing so much better than Microsoft today.Why are programmers so fussy about their employers' morals? Partly because they can afford to be.",
-      "translated": "[翻译失败] And it's largely because they got more of the best..."
+      "translated": "而这在很大程度上是因为谷歌和苹果吸引了更多顶尖人才，所以它们今天的表现远超微软。为什么程序员对自己的雇主道德如此挑剔？部分原因是他们有能力这样做。"
     },
     {
       "original": "The best programmers can work wherever they want. They don't have to work for a company they have qualms about.But the other reason programmers are fussy, I think, is that evil begets stupidity. An organization that wins by exercising power starts to lose the ability to win by doing better work.",
-      "translated": "[翻译失败] The best programmers can work wherever they want. ..."
+      "translated": "最好的程序员可以随心所欲地工作。他们不必为一家有顾虑的公司效力。但我觉得，程序员挑剔的另一个原因是，邪恶滋生愚蠢。一个靠行使权力取胜的组织开始失去通过更好的工作来取胜的能力。"
     },
     {
       "original": "And it's not fun for a smart person to work in a place where the best ideas aren't the ones that win. I think the reason Google embraced \"Don't be evil\" so eagerly was not so much to impress the outside world as to inoculate themselves against arrogance.",
-      "translated": "[翻译失败] And it's not fun for a smart person to work in a p..."
+      "translated": "对于一个聪明的人来说，在一个最好的想法不能获胜的地方工作并不是一件有趣的事。我认为谷歌如此热衷于“不作恶”的原因，与其说是想给外界留下深刻印象，不如说是为了防止自己变得傲慢。"
     },
     {
       "original": "[1]That has worked for Google so far. They've become more bureaucratic, but otherwise they seem to have held true to their original principles. With Apple that seems less the case. When you look at the famous 1984 ad now, it's easier to imagine Apple as the dictator on the screen than the woman with the hammer.",
-      "translated": "[翻译失败] [1]That has worked for Google so far. They've beco..."
+      "translated": "[1]到目前为止，这种方法对谷歌来说是有效的。他们变得更官僚化了，但在其他方面，他们似乎仍然忠于最初的原则。而对于苹果来说，情况似乎并非如此。现在当你再看那则著名的1984年广告时，更容易将苹果想象成屏幕上的独裁者，而不是挥锤的女性。"
     },
     {
       "original": "[2] In fact, if you read the dictator's speech it sounds uncannily like a prophecy of the App Store. We have triumphed over the unprincipled dissemination of facts.We have created, for the first time in all history, a garden of pure ideology, where each worker may bloom secure from the pests of contradictory and confusing truths.",
-      "translated": "[翻译失败] [2] In fact, if you read the dictator's speech it ..."
+      "translated": "事实上，如果你读了独裁者的演讲，它听起来就像是对App Store的预言。我们战胜了事实的无原则传播。我们历史上首次创造了一个纯粹意识形态的花园，在这里，每个工作者都可以在不受矛盾和令人困惑的真相这些害虫的侵害下茁壮成长。"
     },
     {
       "original": "The other reason Apple should care what programmers think of them is that when you sell a platform, developers make or break you. If anyone should know this, Apple should. VisiCalc made the Apple II.And programmers build applications for the platforms they use.",
-      "translated": "[翻译失败] The other reason Apple should care what programmer..."
+      "translated": "苹果还应该关注程序员对其看法的另一个原因是，当销售一个平台时，开发者可以成就你也可以毁了你。如果谁应该明白这一点，那就是苹果。VisiCalc 造就了苹果II。而程序员会为他们使用的平台构建应用程序。"
     },
     {
       "original": "Most applications—most startups, probably—grow out of personal projects. Apple itself did. Apple made microcomputers because that's what Steve Wozniak wanted for himself. He couldn't have afforded a minicomputer.",
-      "translated": "[翻译失败] Most applications—most startups, probably—grow out..."
+      "translated": "大多数应用程序——大多数初创企业也是如此——都源自个人项目。苹果公司本身就是这样。苹果制造微型计算机是因为史蒂夫·沃兹尼亚克自己想要这样的计算机。他买不起小型计算机。"
     },
     {
       "original": "[3] Microsoft likewise started out making interpreters for little microcomputers because Bill Gates and Paul Allen were interested in using them. It's a rare startup that doesn't build something the founders use.The main reason there are so many iPhone apps is that so many programmers have iPhones.",
-      "translated": "[翻译失败] [3] Microsoft likewise started out making interpre..."
+      "translated": "[3] 微软同样是从为小型微计算机编写解释器开始的，因为比尔·盖茨和保罗·艾伦对使用它们感兴趣。很少有创业公司不构建创始人自己会使用的东西。iPhone 应用程序如此之多的主要原因就是有那么多程序员拥有 iPhone。"
     },
     {
       "original": "They may know, because they read it in an article, that Blackberry has such and such market share. But in practice it's as if RIM didn't exist. If they're going to build something, they want to be able to use it themselves, and that means building an iPhone app.So programmers continue to develop iPhone apps, even though Apple continues to maltreat them.",
-      "translated": "[翻译失败] They may know, because they read it in an article,..."
+      "translated": "他们可能知道，因为他们在一篇文章中读到，黑莓占有一定的市场份额。但在实际中，就好像RIM（黑莓公司）不存在一样。如果他们要开发什么，他们希望能够自己使用，这意味着要开发iPhone应用。因此，尽管苹果公司继续对他们不好，程序员们还是继续开发iPhone应用。"
     },
     {
       "original": "They're like someone stuck in an abusive relationship. They're so attracted to the iPhone that they can't leave. But they're looking for a way out. One wrote: While I did enjoy developing for the iPhone, the control they place on the App Store does not give me the drive to develop applications as I would like.",
-      "translated": "[翻译失败] They're like someone stuck in an abusive relations..."
+      "translated": "他们就像陷入虐待关系中的人，对iPhone的吸引力让他们无法离开。但他们正在寻找出路。有人写道：虽然我喜欢为iPhone开发应用，但他们在App Store上施加的控制让我没有动力按照自己的意愿开发应用程序。"
     },
     {
       "original": "In fact I don't intend to make any more iPhone applications unless absolutely necessary. [4] Can anything break this cycle? No device I've seen so far could. Palm and RIM haven't a hope. The only credible contender is Android.",
-      "translated": "[翻译失败] In fact I don't intend to make any more iPhone app..."
+      "translated": "事实上，除非绝对必要，否则我并不打算再开发任何iPhone应用程序。[4] 有什么能打破这个循环吗？我至今还没看到任何设备能做到。Palm和RIM毫无希望。唯一可信的竞争对手是Android。"
     },
     {
       "original": "But Android is an orphan; Google doesn't really care about it, not the way Apple cares about the iPhone. Apple cares about the iPhone the way Google cares about search.* * *Is the future of handheld devices one locked down by Apple?",
-      "translated": "[翻译失败] But Android is an orphan; Google doesn't really ca..."
+      "translated": "但安卓就像是个孤儿；谷歌并不是真的关心它，不像苹果对iPhone那样关心。苹果对iPhone的关心程度，就像谷歌对搜索的关心一样。* * *手持设备的未来会被苹果锁定吗？"
     },
     {
       "original": "It's a worrying prospect. It would be a bummer to have another grim monoculture like we had in the 1990s. In 1995, writing software for end users was effectively identical with writing Windows applications.",
-      "translated": "[翻译失败] It's a worrying prospect. It would be a bummer to ..."
+      "translated": "这是一个令人担忧的前景。再次出现像90年代那样的单一文化将是一件糟糕的事情。1995年，为最终用户编写软件实际上等同于编写Windows应用程序。"
     },
     {
       "original": "Our horror at that prospect was the single biggest thing that drove us to start building web apps.At least we know now what it would take to break Apple's lock. You'd have to get iPhones out of programmers' hands.",
-      "translated": "[翻译失败] Our horror at that prospect was the single biggest..."
+      "translated": "我们对这种前景的恐惧是我们开始构建网页应用的最大动力。至少我们现在知道要打破苹果的垄断需要什么了。你得让程序员们不再使用iPhone。"
     },
     {
       "original": "If programmers used some other device for mobile web access, they'd start to develop apps for that instead.How could you make a device programmers liked better than the iPhone? It's unlikely you could make something better designed.",
-      "translated": "[翻译失败] If programmers used some other device for mobile w..."
+      "translated": "如果程序员使用其他设备进行移动网络访问，他们就会开始为那个设备开发应用程序。你如何能做出一个比iPhone更受程序员喜欢的设备？你不太可能设计出比它更好的产品。"
     },
     {
       "original": "Apple leaves no room there. So this alternative device probably couldn't win on general appeal. It would have to win by virtue of some appeal it had to programmers specifically.One way to appeal to programmers is with software.",
-      "translated": "[翻译失败] Apple leaves no room there. So this alternative de..."
+      "translated": "苹果在这方面没有留下任何空间。因此，这种替代设备可能无法凭借普遍的吸引力获胜。它必须通过某些专门吸引程序员的特点来赢得市场。吸引程序员的一个方法是通过软件。"
     },
     {
       "original": "If you could think of an application programmers had to have, but that would be impossible in the circumscribed world of the iPhone, you could presumably get them to switch.That would definitely happen if programmers started to use handhelds as development machines—if handhelds displaced laptops the way laptops displaced desktops.",
-      "translated": "[翻译失败] If you could think of an application programmers h..."
+      "translated": "如果你能想到一个应用，程序员必须拥有，但在 iPhone 这个受限的世界里却无法实现，那么你可能会让他们转而使用其他设备。如果程序员开始将手持设备用作开发机器——就像笔记本电脑取代台式机那样取代笔记本电脑，这种情况肯定会发生。"
     },
     {
       "original": "You need more control of a development machine than Apple will let you have over an iPhone.Could anyone make a device that you'd carry around in your pocket like a phone, and yet would also work as a development machine?",
-      "translated": "[翻译失败] You need more control of a development machine tha..."
+      "translated": "你需要对开发机有比苹果允许你在iPhone上更多的控制。是否有人能制造出一种设备，你像手机一样随身携带，同时还能作为开发机使用？"
     },
     {
       "original": "It's hard to imagine what it would look like. But I've learned never to say never about technology. A phone-sized device that would work as a development machine is no more miraculous by present standards than the iPhone itself would have seemed by the standards of 1995.My current development machine is a MacBook Air, which I use with an external monitor and keyboard in my office, and by itself when traveling.",
-      "translated": "[翻译失败] It's hard to imagine what it would look like. But ..."
+      "translated": "很难想象那会是什么样子。但我从不轻易对技术说不。按现在的标准来看，一个手机大小的设备能够作为开发工具使用，并不比1995年时的iPhone显得更神奇。我目前的开发工具是一台MacBook Air，我在办公室时会连接外部显示器和键盘使用，而外出时则单独使用它。"
     },
     {
       "original": "If there was a version half the size I'd prefer it. That still wouldn't be small enough to carry around everywhere like a phone, but we're within a factor of 4 or so. Surely that gap is bridgeable. In fact, let's make it an RFS.",
-      "translated": "[翻译失败] If there was a version half the size I'd prefer it..."
+      "translated": "如果有一个体积减半的版本，我会更喜欢。这样虽然还是不能像手机那样随身携带，但差距已经缩小到大约4倍左右。这个差距肯定是可以弥补的。事实上，让我们把它做成一个RFS。"
     },
     {
       "original": "Wanted: Woman with hammer.Notes[1] When Google adopted \"Don't be evil,\" they were still so small that no one would have expected them to be, yet. [2] The dictator in the 1984 ad isn't Microsoft, incidentally; it's IBM.",
-      "translated": "[翻译失败] Wanted: Woman with hammer.Notes[1] When Google ado..."
+      "translated": "通缉：持锤女子。注[1] 当谷歌采纳“不作恶”时，他们还很小，没有人会认为他们已经达到了这样的规模。[2] 顺便说一下，1984年广告中的独裁者并不是微软，而是IBM。"
     },
     {
       "original": "IBM seemed a lot more frightening in those days, but they were friendlier to developers than Apple is now.[3] He couldn't even afford a monitor. That's why the Apple I used a TV as a monitor.[4] Several people I talked to mentioned how much they liked the iPhone SDK.",
-      "translated": "[翻译失败] IBM seemed a lot more frightening in those days, b..."
+      "translated": "那时候，IBM看起来更加可怕，但他们对开发者比现在的苹果友好得多。[3] 他甚至买不起显示器，这就是为什么Apple I使用电视机作为显示器。[4] 我交谈过的几个人都提到他们非常喜欢iPhone SDK。"
     },
     {
       "original": "The problem is not Apple's products but their policies. Fortunately policies are software; Apple can change them instantly if they want to. Handy that, isn't it?Thanks to Sam Altman, Trevor Blackwell, Ross Boucher, James Bracy, Gabor Cselle, Patrick Collison, Jason Freedman, John Gruber, Joe Hewitt, Jessica Livingston, Robert Morris, Teng Siong Ong, Nikhil Pandit, Savraj Singh, and Jared Tame for reading drafts of this.Russian Translation",
-      "translated": "[翻译失败] The problem is not Apple's products but their poli..."
+      "translated": "问题不在于苹果的产品，而在于他们的政策。幸运的是，政策就像软件一样；苹果如果愿意，可以立即改变它们。这不是很方便吗？感谢 Sam Altman、Trevor Blackwell、Ross Boucher、James Bracy、Gabor Cselle、Patrick Collison、Jason Freedman、John Gruber、Joe Hewitt、Jessica Livingston、Robert Morris、Teng Siong Ong、Nikhil Pandit、Savraj Singh 和 Jared Tame 阅读本文的草稿。俄文翻译"
     }
   ],
-  "translation_completed": "2025-07-27T12:25:20.188104",
+  "translation_completed": "2025-07-27T23:29:07.194171",
   "translation_stats": {
     "total_paragraphs": 44,
-    "success_count": 0,
-    "success_rate": "0.0%"
+    "success_count": 44,
+    "success_rate": "100.0%"
   }
 }

@@ -285,9 +285,16 @@ def translate_single_article(article_id, data_dir, api_key):
     
     return translate_article(article_file, translator)
 
+from dotenv import load_dotenv
+
 if __name__ == "__main__":
+    load_dotenv()
     # API密钥
-    API_KEY = "sk-eldyazgvnveplwgemudldehsftzrcwiiyufyijefpmntmqud"
+    API_KEY = os.getenv("TRANSLATE_API_KEY")
+
+    if not API_KEY:
+        print("错误: 未找到 API 密钥。请在 .env 文件中设置 TRANSLATE_API_KEY。")
+        sys.exit(1)
     
     # 数据目录
     DATA_DIR = "data"

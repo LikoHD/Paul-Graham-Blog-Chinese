@@ -61,183 +61,189 @@
   "paragraphs": [
     {
       "original": "September 2022I recently told applicants to Y Combinator that the best advice I could give for getting in, per word, was Explain what you've learned from users. That tests a lot of things: whether you're paying attention to users, how well you understand them, and even how much they need what you're making.Afterward I asked myself the same question.",
-      "translated": "[待翻译] September 2022I recently told applicants to Y Comb..."
+      "translated": "2022年9月，我最近告诉申请Y Combinator的人，我能够给出的最佳建议，按字数来算，就是解释你从用户那里学到了什么。这测试了很多方面：你是否关注用户，你对他们的理解程度，以及他们对你所做产品的需求程度。之后，我也问了自己同样的问题。"
     },
     {
       "original": "What have I learned from YC's users, the startups we've funded?The first thing that came to mind was that most startups have the same problems. No two have exactly the same problems, but it's surprising how much the problems remain the same, regardless of what they're making.",
-      "translated": "[待翻译] What have I learned from YC's users, the startups ..."
+      "translated": "从YC的用户，我们资助的初创公司那里，我学到了什么？首先想到的是，大多数初创公司面临的问题是相似的。没有两个公司的问题是完全一样的，但令人惊讶的是，无论它们在做什么，这些问题都惊人地相似。"
     },
     {
       "original": "Once you've advised 100 startups all doing different things, you rarely encounter problems you haven't seen before.This fact is one of the things that makes YC work. But I didn't know it when we started YC.",
-      "translated": "[待翻译] Once you've advised 100 startups all doing differe..."
+      "translated": "一旦你为100家初创公司提供了咨询，这些公司做的事情各不相同，你就很少会遇到以前没有见过的问题。这个事实是YC成功的原因之一。但在我们刚开始YC的时候，我并不知道这一点。"
     },
     {
       "original": "I only had a few data points: our own startup, and those started by friends. It was a surprise to me how often the same problems recur in different forms. Many later stage investors might never realize this, because later stage investors might not advise 100 startups in their whole career, but a YC partner will get this much experience in the first year or two.That's one advantage of funding large numbers of early stage companies rather than smaller numbers of later-stage ones.",
-      "translated": "[待翻译] I only had a few data points: our own startup, and..."
+      "translated": "我只有几个数据点：我们自己的初创公司，以及朋友创办的公司。令我惊讶的是，同样的问题在不同的情境下频繁出现。许多后期投资者可能永远不会意识到这一点，因为后期投资者在整个职业生涯中可能不会指导100家初创公司，但YC的合伙人可能在头一两年就能获得如此丰富的经验。这就是为什么资助大量早期公司而不是少量后期公司具有优势之一。"
     },
     {
       "original": "You get a lot of data. Not just because you're looking at more companies, but also because more goes wrong.But knowing (nearly) all the problems startups can encounter doesn't mean that advising them can be automated, or reduced to a formula.",
-      "translated": "[待翻译] You get a lot of data. Not just because you're loo..."
+      "translated": "你获得了很多数据。这不仅是因为你关注的公司更多了，还因为出问题的情况也更多了。但了解（几乎）所有初创公司可能遇到的问题并不意味着可以将对它们的指导自动化，或者简化为一个公式。"
     },
     {
       "original": "There's no substitute for individual office hours with a YC partner. Each startup is unique, which means they have to be advised by specific partners who know them well. [1]We learned that the hard way, in the notorious \"batch that broke YC\" in the summer of 2012.",
-      "translated": "[待翻译] There's no substitute for individual office hours ..."
+      "translated": "没有任何东西可以替代与YC合伙人的个别指导时间。每个初创公司都是独一无二的，这意味着它们必须由熟悉它们的特定合伙人来指导。[1]我们在这方面有过惨痛的教训，特别是在2012年夏天那个臭名昭著的“打破YC”的批次中。"
     },
     {
       "original": "Up till that point we treated the partners as a pool. When a startup requested office hours, they got the next available slot posted by any partner. That meant every partner had to know every startup.",
-      "translated": "[待翻译] Up till that point we treated the partners as a po..."
+      "translated": "直到那时，我们都是将合作伙伴视为一个整体。当初创公司请求办公时间时，他们会得到任何合作伙伴发布的下一个可用时段。这意味着每位合作伙伴都必须了解每家初创公司。"
     },
     {
       "original": "This worked fine up to 60 startups, but when the batch grew to 80, everything broke. The founders probably didn't realize anything was wrong, but the partners were confused and unhappy because halfway through the batch they still didn't know all the companies yet.",
-      "translated": "[待翻译] This worked fine up to 60 startups, but when the b..."
+      "translated": "这在初创企业数量达到60家时还运作良好，但当数量增加到80家时，一切开始出问题。创始人们可能没有意识到有什么不对，但合伙人们却感到困惑和不满，因为在这一批项目进行到一半时，他们仍然不了解所有的公司。"
     },
     {
       "original": "[2]At first I was puzzled. How could things be fine at 60 startups and broken at 80? It was only a third more. Then I realized what had happened. We were using an O(n2) algorithm. So of course it blew up.The solution we adopted was the classic one in these situations.",
-      "translated": "[待翻译] [2]At first I was puzzled. How could things be fin..."
+      "translated": "一开始我感到困惑。60家创业公司时一切顺利，怎么到了80家就出问题了呢？这只不过多了三分之一而已。后来我意识到问题所在。我们使用的是一个O(n²)的算法。所以当然会出问题。我们采取的解决方案是这类情况下的经典方法。"
     },
     {
       "original": "We sharded the batch into smaller groups of startups, each overseen by a dedicated group of partners. That fixed the problem, and has worked fine ever since. But the batch that broke YC was a powerful demonstration of how individualized the process of advising startups has to be.Another related surprise is how bad founders can be at realizing what their problems are.",
-      "translated": "[待翻译] We sharded the batch into smaller groups of startu..."
+      "translated": "我们将这一批初创公司分成了更小的小组，每个小组由一组专门的合伙人负责监督。这解决了问题，从此以后一直运行良好。但这一批差点让YC崩溃的初创公司，强有力地证明了指导初创公司的过程必须高度个性化。另一个相关的意外是，创始人往往很难认识到自己的问题所在。"
     },
     {
       "original": "Founders will sometimes come in to talk about some problem, and we'll discover another much bigger one in the course of the conversation. For example (and this case is all too common), founders will come in to talk about the difficulties they're having raising money, and after digging into their situation, it turns out the reason is that the company is doing badly, and investors can tell.",
-      "translated": "[待翻译] Founders will sometimes come in to talk about some..."
+      "translated": "创始人有时会来谈论某个问题，而在谈话过程中，我们会发现另一个更大的问题。例如（这种情况非常普遍），创始人会来讨论他们在筹集资金方面遇到的困难，但在深入了解他们的情况后，才发现问题的根源在于公司经营不佳，而投资者已经察觉到了这一点。"
     },
     {
       "original": "Or founders will come in worried that they still haven't cracked the problem of user acquisition, and the reason turns out to be that their product isn't good enough. There have been times when I've asked \"Would you use this yourself, if you hadn't built it?\" and the founders, on thinking about it, said \"No.\" Well, there's the reason you're having trouble getting users.Often founders know what their problems are, but not their relative importance.",
-      "translated": "[待翻译] Or founders will come in worried that they still h..."
+      "translated": "创始人会担心他们还没有解决用户获取的问题，而原因往往是他们的产品不够好。有时候，我会问：“如果你没有参与开发，你自己会使用这个产品吗？”创始人在思考后，回答说：“不会。”那么，这就是你难以吸引用户的原因。通常，创始人知道他们的问题所在，但不清楚这些问题的相对重要性。"
     },
     {
       "original": "[3] They'll come in to talk about three problems they're worrying about. One is of moderate importance, one doesn't matter at all, and one will kill the company if it isn't addressed immediately. It's like watching one of those horror movies where the heroine is deeply upset that her boyfriend cheated on her, and only mildly curious about the door that's mysteriously ajar.",
-      "translated": "[待翻译] [3] They'll come in to talk about three problems t..."
+      "translated": "他们将会进来谈论他们担心的三个问题。一个是中等重要性，一个完全无关紧要，而另一个如果不立即解决将会摧毁公司。这就像看那些恐怖电影，女主角因为男友出轨而深感不安，却对那扇神秘半开的门只是略微好奇。"
     },
     {
       "original": "You want to say: never mind about your boyfriend, think about that door! Fortunately in office hours you can. So while startups still die with some regularity, it's rarely because they wandered into a room containing a murderer.",
-      "translated": "[待翻译] You want to say: never mind about your boyfriend, ..."
+      "translated": "你想说的是：别管你男朋友了，想想那扇门吧！好在在上班时间你可以这么做。所以，尽管创业公司还是会定期倒闭，但很少是因为它们误入了一个有杀人犯的房间。"
     },
     {
       "original": "The YC partners can warn them where the murderers are.Not that founders listen. That was another big surprise: how often founders don't listen to us. A couple weeks ago I talked to a partner who had been working for YC for a couple batches and was starting to see the pattern.",
-      "translated": "[待翻译] The YC partners can warn them where the murderers ..."
+      "translated": "YC的合伙人们可以警告他们凶手在哪里。但创始人并不总是听从。这又是一个大的意外：创始人不听我们意见的频率有多高。几周前，我和一位已经为YC工作了几批项目、开始看到模式的合伙人交谈。"
     },
     {
       "original": "\"They come back a year later,\" she said, \"and say 'We wish we'd listened to you.'\"It took me a long time to figure out why founders don't listen. At first I thought it was mere stubbornness. That's part of the reason, but another and probably more important reason is that so much about startups is counterintuitive.",
-      "translated": "[待翻译] \"They come back a year later,\" she said, \"and say ..."
+      "translated": "“他们一年后回来，”她说，“说‘我们真希望当初听了你的话。’我花了很多时间才弄明白为什么创始人不听建议。起初我认为这只是固执。这确实是其中一部分原因，但另一个可能更重要的原因是，关于创业公司的很多事情都是反直觉的。”"
     },
     {
       "original": "And when you tell someone something counterintuitive, what it sounds to them is wrong. So the reason founders don't listen to us is that they don't believe us. At least not till experience teaches them otherwise.",
-      "translated": "[待翻译] And when you tell someone something counterintuiti..."
+      "translated": "当你告诉某人一些反直觉的事情时，他们听起来会觉得这是错的。所以创始人不听我们的话，是因为他们不相信我们。至少在经验教会他们之前是这样。"
     },
     {
       "original": "[4]The reason startups are so counterintuitive is that they're so different from most people's other experiences. No one knows what it's like except those who've done it. Which is why YC partners should usually have been founders themselves.",
-      "translated": "[待翻译] [4]The reason startups are so counterintuitive is ..."
+      "translated": "创业公司之所以如此反直觉，是因为它们与大多数人的其他经历截然不同。只有亲身经历过的人才知道那是什么感觉。这也是为什么YC的合伙人通常自己也是创业者。"
     },
     {
       "original": "But strangely enough, the counterintuitiveness of startups turns out to be another of the things that make YC work. If it weren't counterintuitive, founders wouldn't need our advice about how to do it.Focus is doubly important for early stage startups, because not only do they have a hundred different problems, they don't have anyone to work on them except the founders.",
-      "translated": "[待翻译] But strangely enough, the counterintuitiveness of ..."
+      "translated": "但奇怪的是，创业公司的反直觉性成了让YC奏效的另一个因素。如果这些事情不是反直觉的，创始人就不会需要我们关于如何操作的建议。对于早期创业公司而言，专注尤为重要，因为它们不仅有一百个不同的问题需要解决，而且除了创始人之外，没有人可以处理这些问题。"
     },
     {
       "original": "If the founders focus on things that don't matter, there's no one focusing on the things that do. So the essence of what happens at YC is to figure out which problems matter most, then cook up ideas for solving them — ideally at a resolution of a week or less — and then try those ideas and measure how well they worked.",
-      "translated": "[待翻译] If the founders focus on things that don't matter,..."
+      "translated": "如果创始人关注的是不重要的事情，那么就没有人去关注真正重要的事情。因此，YC的核心在于确定哪些问题是最重要的，然后想出解决这些问题的方法——理想情况下，这些方法的实施周期不超过一周——然后尝试这些方法，并衡量它们的效果。"
     },
     {
       "original": "The focus is on action, with measurable, near-term results.This doesn't imply that founders should rush forward regardless of the consequences. If you correct course at a high enough frequency, you can be simultaneously decisive at a micro scale and tentative at a macro scale.",
-      "translated": "[待翻译] The focus is on action, with measurable, near-term..."
+      "translated": "重点在于行动，取得可衡量的短期成果。这并不意味着创始人应该不顾后果地贸然行事。如果你以足够高的频率调整方向，你可以在微观层面上果断决策，同时在宏观层面上保持谨慎。"
     },
     {
       "original": "The result is a somewhat winding path, but executed very rapidly, like the path a running back takes downfield. And in practice there's less backtracking than you might expect. Founders usually guess right about which direction to run in, especially if they have someone experienced like a YC partner to bounce their hypotheses off.",
-      "translated": "[待翻译] The result is a somewhat winding path, but execute..."
+      "translated": "结果是一条 somewhat winding path，但执行得非常迅速，就像跑卫在场上的行进路线。实际上，回溯的情况比你想象的要少。创始人通常能正确判断前进的方向，特别是如果他们有像 YC 合伙人这样有经验的人可以验证他们的假设。"
     },
     {
       "original": "And when they guess wrong, they notice fast, because they'll talk about the results at office hours the next week. [5]A small improvement in navigational ability can make you a lot faster, because it has a double effect: the path is shorter, and you can travel faster along it when you're more certain it's the right one.",
-      "translated": "[待翻译] And when they guess wrong, they notice fast, becau..."
+      "translated": "当他们猜错时，会很快注意到，因为下周的办公时间他们会讨论结果。[5]导航能力的微小提升可以让你快很多，因为这具有双重效果：路径更短，当你更有把握这是正确的路径时，你可以更快地前进。"
     },
     {
       "original": "That's where a lot of YC's value lies, in helping founders get an extra increment of focus that lets them move faster. And since moving fast is the essence of a startup, YC in effect makes startups more startup-like.Speed defines startups.",
-      "translated": "[待翻译] That's where a lot of YC's value lies, in helping ..."
+      "translated": "这就是 YC 的价值所在，帮助创始人获得额外的专注，使他们能够更快地前进。而由于快速行动是创业公司的本质，YC 实际上让创业公司更加具备创业公司的特性。速度定义了创业公司。"
     },
     {
       "original": "Focus enables speed. YC improves focus.Why are founders uncertain about what to do? Partly because startups almost by definition are doing something new, which means no one knows how to do it yet, or in most cases even what \"it\" is.",
-      "translated": "[待翻译] Focus enables speed. YC improves focus.Why are fou..."
+      "translated": "专注带来速度。YC 提升专注力。为什么创始人对自己的行动感到不确定？部分原因在于，创业公司几乎从定义上说就是在做新的事情，这意味着还没有人知道如何去做，或者在大多数情况下，甚至还不清楚“它”是什么。"
     },
     {
       "original": "Partly because startups are so counterintuitive generally. And partly because many founders, especially young and ambitious ones, have been trained to win the wrong way. That took me years to figure out.",
-      "translated": "[待翻译] Partly because startups are so counterintuitive ge..."
+      "translated": "部分原因是初创企业本身就非常反直觉。另一部分原因是，许多创始人，尤其是年轻且有抱负的创始人，被训练以错误的方式去赢得胜利。我花了好几年才明白这一点。"
     },
     {
       "original": "The educational system in most countries trains you to win by hacking the test instead of actually doing whatever it's supposed to measure. But that stops working when you start a startup. So part of what YC does is to retrain founders to stop trying to hack the test.",
-      "translated": "[待翻译] The educational system in most countries trains yo..."
+      "translated": "大多数国家的教育体系都训练你通过考试来取胜，而不是真正去做它本应衡量的事情。但当你开始创业时，这种方法就不再奏效了。因此，YC的一部分工作就是重新训练创始人，让他们停止试图通过考试来取胜。"
     },
     {
       "original": "(It takes a surprisingly long time. A year in, you still see them reverting to their old habits.)YC is not simply more experienced founders passing on their knowledge. It's more like specialization than apprenticeship.",
-      "translated": "[待翻译] (It takes a surprisingly long time. A year in, you..."
+      "translated": "（这需要相当长的时间。即使一年后，你仍然会看到他们恢复旧习惯。）YC 不仅仅是更有经验的创始人传授知识，更像是专业化而非学徒制。"
     },
     {
       "original": "The knowledge of the YC partners and the founders have different shapes: It wouldn't be worthwhile for a founder to acquire the encyclopedic knowledge of startup problems that a YC partner has, just as it wouldn't be worthwhile for a YC partner to acquire the depth of domain knowledge that a founder has.",
-      "translated": "[待翻译] The knowledge of the YC partners and the founders ..."
+      "translated": "YC的合作伙伴和创始人的知识结构各不相同：创始人没有必要去获取YC合作伙伴那种百科全书式的创业问题知识，就像YC合作伙伴没有必要去获取创始人那种深入的领域知识一样。"
     },
     {
       "original": "That's why it can still be valuable for an experienced founder to do YC, just as it can still be valuable for an experienced athlete to have a coach.The other big thing YC gives founders is colleagues, and this may be even more important than the advice of partners.",
-      "translated": "[待翻译] That's why it can still be valuable for an experie..."
+      "translated": "这就是为什么有经验的创始人仍然可以从YC中获益，就像有经验的运动员仍然需要教练一样。YC为创始人提供的另一个重要资源是同行，这一点甚至可能比合伙人提供的建议更为重要。"
     },
     {
       "original": "If you look at history, great work clusters around certain places and institutions: Florence in the late 15th century, the University of Göttingen in the late 19th, The New Yorker under Ross, Bell Labs, Xerox PARC.",
-      "translated": "[待翻译] If you look at history, great work clusters around..."
+      "translated": "如果你回顾历史，会发现伟大的作品往往集中在某些地方和机构：15世纪末的佛罗伦萨，19世纪末的哥廷根大学，《纽约客》在罗斯时期，贝尔实验室，施乐帕洛阿尔托研究中心。"
     },
     {
       "original": "However good you are, good colleagues make you better. Indeed, very ambitious people probably need colleagues more than anyone else, because they're so starved for them in everyday life.Whether or not YC manages one day to be listed alongside those famous clusters, it won't be for lack of trying.",
-      "translated": "[待翻译] However good you are, good colleagues make you bet..."
+      "translated": "无论你多么优秀，好的同事会让你变得更好。事实上，非常有抱负的人可能比任何人都更需要同事，因为他们在日常生活中太缺乏这样的伙伴。无论YC将来是否能被列入那些著名的集群之中，都不会是因为缺乏努力。"
     },
     {
       "original": "We were very aware of this historical phenomenon and deliberately designed YC to be one. By this point it's not bragging to say that it's the biggest cluster of great startup founders. Even people trying to attack YC concede that.Colleagues and startup founders are two of the most powerful forces in the world, so you'd expect it to have a big effect to combine them.",
-      "translated": "[待翻译] We were very aware of this historical phenomenon a..."
+      "translated": "我们非常清楚这一历史现象，并有意将YC设计为其中之一。到这个时候，说它是最优秀的创业家聚集地之一已经不是在吹嘘了。即使是对YC持批评态度的人也不得不承认这一点。同事和创业家是世界上最强大的两种力量，因此将它们结合起来必然会产生巨大的影响。"
     },
     {
       "original": "Before YC, to the extent people thought about the question at all, most assumed they couldn't be combined — that loneliness was the price of independence. That was how it felt to us when we started our own startup in Boston in the 1990s.",
-      "translated": "[待翻译] Before YC, to the extent people thought about the ..."
+      "translated": "在YC之前，人们对这个问题有所思考的话，大多认为它们无法结合——孤独是独立的代价。上世纪90年代，我们在波士顿创办自己的初创公司时，就是这种感觉。"
     },
     {
       "original": "We had a handful of older people we could go to for advice (of varying quality), but no peers. There was no one we could commiserate with about the misbehavior of investors, or speculate with about the future of technology.",
-      "translated": "[待翻译] We had a handful of older people we could go to fo..."
+      "translated": "我们有一些年长的人可以去寻求建议（质量参差不齐），但没有同龄人。没有人可以和我们一同抱怨投资者的不当行为，或者一起猜测技术的未来。"
     },
     {
       "original": "I often tell founders to make something they themselves want, and YC is certainly that: it was designed to be exactly what we wanted when we were starting a startup.One thing we wanted was to be able to get seed funding without having to make the rounds of random rich people.",
-      "translated": "[待翻译] I often tell founders to make something they thems..."
+      "translated": "我经常告诉创始人要做出他们自己想要的东西，而YC正是如此：它被设计成我们初创时 exactly 想要的样子。我们想要的一件事是能够在不需要向一帮有钱人游说的情况下获得种子资金。"
     },
     {
       "original": "That has become a commodity now, at least in the US. But great colleagues can never become a commodity, because the fact that they cluster in some places means they're proportionally absent from the rest.Something magical happens where they do cluster though.",
-      "translated": "[待翻译] That has become a commodity now, at least in the U..."
+      "translated": "那已经变成一种商品了，至少在美国是这样。但是，优秀的同事永远不会变成商品，因为他们聚集在某些地方就意味着在其他地方他们相对稀缺。然而，在他们聚集的地方，会发生一些神奇的事情。"
     },
     {
       "original": "The energy in the room at a YC dinner is like nothing else I've experienced. We would have been happy just to have one or two other startups to talk to. When you have a whole roomful it's another thing entirely.YC founders aren't just inspired by one another.",
-      "translated": "[待翻译] The energy in the room at a YC dinner is like noth..."
+      "translated": "YC晚宴上的氛围是我从未体验过的。即使只有一两家初创公司可以交流，我们也会感到非常高兴。当满屋子都是这样的人时，感觉就完全不同了。YC的创始人不仅仅是相互激励。"
     },
     {
       "original": "They also help one another. That's the happiest thing I've learned about startup founders: how generous they can be in helping one another. We noticed this in the first batch and consciously designed YC to magnify it.",
-      "translated": "[待翻译] They also help one another. That's the happiest th..."
+      "translated": "他们也互相帮助。这是我从初创企业创始人身上学到的最令人开心的事情：他们能够如此慷慨地互相帮助。我们在第一批参与者中就注意到了这一点，并有意识地设计了YC来放大这种精神。"
     },
     {
       "original": "The result is something far more intense than, say, a university. Between the partners, the alumni, and their batchmates, founders are surrounded by people who want to help them, and can.Notes[1] This is why I've never liked it when people refer to YC as a \"bootcamp.\" It's intense like a bootcamp, but the opposite in structure.",
-      "translated": "[待翻译] The result is something far more intense than, say..."
+      "translated": "结果远比大学更加激烈。在合作伙伴、校友和同批学员之间，创始人们被一群愿意并且能够帮助他们的人所包围。这就是为什么我从来不喜欢人们把YC称为“ bootcamp（训练营）”的原因。YC的强度确实像训练营，但在结构上却截然不同。"
     },
     {
       "original": "Instead of everyone doing the same thing, they're each talking to YC partners to figure out what their specific startup needs.[2] When I say the summer 2012 batch was broken, I mean it felt to the partners that something was wrong.",
-      "translated": "[待翻译] Instead of everyone doing the same thing, they're ..."
+      "translated": "大家并不是都在做同样的事情，而是每个人都在与YC的合伙人交谈，以确定他们各自的创业公司具体需要什么。[2] 当我说2012年夏季的那批创业者出了问题时，我是指合伙人感觉到有些不对劲。"
     },
     {
       "original": "Things weren't yet so broken that the startups had a worse experience. In fact that batch did unusually well.[3] This situation reminds me of the research showing that people are much better at answering questions than they are at judging how accurate their answers are.",
-      "translated": "[待翻译] Things weren't yet so broken that the startups had..."
+      "translated": "事情还没有糟糕到让这些初创公司经历更差的地步。事实上，那一批公司表现得异常出色。[3] 这种情况让我想起了一个研究，该研究显示人们在回答问题方面远比判断他们答案的准确性要好。"
     },
     {
       "original": "The two phenomena feel very similar.[4] The Airbnbs were particularly good at listening — partly because they were flexible and disciplined, but also because they'd had such a rough time during the preceding year.",
-      "translated": "[待翻译] The two phenomena feel very similar.[4] The Airbnb..."
+      "translated": "这两种现象感觉非常相似。[4] Airbnb特别善于倾听——部分原因是他们既灵活又有纪律，但也因为他们前一年经历了非常艰难的时期。"
     },
     {
       "original": "They were ready to listen.[5] The optimal unit of decisiveness depends on how long it takes to get results, and that depends on the type of problem you're solving. When you're negotiating with investors, it could be a couple days, whereas if you're building hardware it could be months.",
-      "translated": "[待翻译] They were ready to listen.[5] The optimal unit of ..."
+      "translated": "他们已经准备好倾听。[5] 决策的最佳单位取决于获得结果所需的时间，而这一点又取决于你所解决的问题类型。当你与投资者谈判时，可能只需要几天时间，而如果你是在制造硬件，可能需要几个月。"
     },
     {
       "original": "Thanks to Trevor Blackwell, Jessica Livingston, Harj Taggar, and Garry Tan for reading drafts of this.",
-      "translated": "[待翻译] Thanks to Trevor Blackwell, Jessica Livingston, Ha..."
+      "translated": "感谢特雷弗·布莱克威尔、杰西卡·利文斯顿、哈吉·塔格和加里·谭阅读本文的草稿。"
     }
-  ]
+  ],
+  "translation_completed": "2025-07-28T15:31:17.764247",
+  "translation_stats": {
+    "total_paragraphs": 45,
+    "success_count": 45,
+    "success_rate": "100.0%"
+  }
 }

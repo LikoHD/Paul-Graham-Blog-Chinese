@@ -112,387 +112,393 @@
   "paragraphs": [
     {
       "original": "Want to start a startup? Get funded by Y Combinator. May 2005(This essay is derived from a talk at the Berkeley CSUA.)The three big powers on the Internet now are Yahoo, Google, and Microsoft. Average age of their founders: 24.",
-      "translated": "[待翻译] Want to start a startup? Get funded by Y Combinato..."
+      "translated": "想创业吗？获得Y Combinator的投资吧。2005年5月（本文源自在伯克利CSUA的一次演讲）。现在互联网上的三大巨头是雅虎、谷歌和微软。他们的创始人平均年龄：24岁。"
     },
     {
       "original": "So it is pretty well established now that grad students can start successful companies. And if grad students can do it, why not undergrads?Like everything else in technology, the cost of starting a startup has decreased dramatically.",
-      "translated": "[待翻译] So it is pretty well established now that grad stu..."
+      "translated": "现在基本上已经确定，研究生可以创办成功的企业。既然研究生能做到，为什么本科生不行呢？就像技术领域的其他事情一样，创办初创公司的成本已经大幅降低。"
     },
     {
       "original": "Now it's so low that it has disappeared into the noise. The main cost of starting a Web-based startup is food and rent. Which means it doesn't cost much more to start a company than to be a total slacker.",
-      "translated": "[待翻译] Now it's so low that it has disappeared into the n..."
+      "translated": "现在它已经低到湮没在噪音中了。启动一个基于Web的初创公司的主要成本就是食物和房租。这意味着，创业的成本几乎不会比当一个彻底的懒人高多少。"
     },
     {
       "original": "You can probably start a startup on ten thousand dollars of seed funding, if you're prepared to live on ramen.The less it costs to start a company, the less you need the permission of investors to do it.",
-      "translated": "[待翻译] You can probably start a startup on ten thousand d..."
+      "translated": "你可以用一万美元的种子资金开始创业，如果你准备好过简朴的生活，靠吃泡面度日。创业成本越低，你就越不需要投资者的许可来开展业务。"
     },
     {
       "original": "So a lot of people will be able to start companies now who never could have before.The most interesting subset may be those in their early twenties. I'm not so excited about founders who have everything investors want except intelligence, or everything except energy.",
-      "translated": "[待翻译] So a lot of people will be able to start companies..."
+      "translated": "因此，现在许多以前无法创业的人将能够开始自己的公司。最有趣的一群人可能是二十出头的年轻人。我对那些除了聪明之外拥有投资者所需一切条件的创始人，或者除了精力之外拥有投资者所需一切条件的创始人并不特别感兴趣。"
     },
     {
       "original": "The most promising group to be liberated by the new, lower threshold are those who have everything investors want except experience.Market RateI once claimed that nerds were unpopular in secondary school mainly because they had better things to do than work full-time at being popular.",
-      "translated": "[待翻译] The most promising group to be liberated by the ne..."
+      "translated": "最有可能因新降低的门槛而受益的群体是那些拥有投资者所需的一切，唯独缺乏经验的人。市场利率我曾说过，书呆子在中学不受欢迎，主要原因是他们有比全职讨好他人更有意义的事情要做。"
     },
     {
       "original": "Some said I was just telling people what they wanted to hear. Well, I'm now about to do that in a spectacular way: I think undergraduates are undervalued.Or more precisely, I think few realize the huge spread in the value of 20 year olds.",
-      "translated": "[待翻译] Some said I was just telling people what they want..."
+      "translated": "有人说我只不过是告诉人们他们想听的话。好吧，我现在将以一种壮观的方式来做这件事：我认为本科生被低估了。或者更准确地说，我认为很少有人意识到20岁年轻人的价值差异之大。"
     },
     {
       "original": "Some, it's true, are not very capable. But others are more capable than all but a handful of 30 year olds. [1]Till now the problem has always been that it's difficult to pick them out. Every VC in the world, if they could go back in time, would try to invest in Microsoft.",
-      "translated": "[待翻译] Some, it's true, are not very capable. But others ..."
+      "translated": "确实，有些人能力不强。但另一些人的能力却超过了绝大多数30岁的人。[1]直到现在，问题一直都在于很难挑选出这些人才。全世界的每一个风险投资家，如果可以回到过去，都会试图投资微软。"
     },
     {
       "original": "But which would have then? How many would have understood that this particular 19 year old was Bill Gates?It's hard to judge the young because (a) they change rapidly, (b) there is great variation between them, and (c) they're individually inconsistent.",
-      "translated": "[待翻译] But which would have then? How many would have und..."
+      "translated": "但是，当时有谁会想到呢？有多少人能够看出这个19岁的小伙子就是比尔·盖茨？评判年轻人很难，因为（a）他们变化很快，（b）彼此之间差异很大，（c）每个人的表现也不一致。"
     },
     {
       "original": "That last one is a big problem. When you're young, you occasionally say and do stupid things even when you're smart. So if the algorithm is to filter out people who say stupid things, as many investors and employers unconsciously do, you're going to get a lot of false positives.Most organizations who hire people right out of college are only aware of the average value of 22 year olds, which is not that high.",
-      "translated": "[待翻译] That last one is a big problem. When you're young,..."
+      "translated": "最后一个问题是很大的。当你年轻时，即使你很聪明，偶尔也会说一些蠢话，做一些蠢事。所以，如果算法是为了过滤掉说蠢话的人，正如许多投资者和雇主无意识中所做的那样，你将会得到很多误判。大多数直接从大学毕业就招聘人员的组织，只意识到22岁年轻人的平均价值，而这并不高。"
     },
     {
       "original": "And so the idea for most of the twentieth century was that everyone had to begin as a trainee in some entry-level job. Organizations realized there was a lot of variation in the incoming stream, but instead of pursuing this thought they tended to suppress it, in the belief that it was good for even the most promising kids to start at the bottom, so they didn't get swelled heads.The most productive young people will always be undervalued by large organizations, because the young have no performance to measure yet, and any error in guessing their ability will tend toward the mean.What's an especially productive 22 year old to do?",
-      "translated": "[待翻译] And so the idea for most of the twentieth century ..."
+      "translated": "因此，20世纪的普遍观念是，每个人都必须从某个入门级的工作做起。组织意识到新入职员工之间的差异很大，但它们倾向于抑制这种差异，认为即使是最有潜力的年轻人也应该从底层做起，以免他们变得自以为是。最有生产力的年轻人总是会被大型组织低估，因为年轻人还没有任何业绩可以衡量，而且对他们的能力做出任何错误判断都会倾向于平均值。那么，一个特别有生产力的22岁年轻人该怎么办呢？"
     },
     {
       "original": "One thing you can do is go over the heads of organizations, directly to the users. Any company that hires you is, economically, acting as a proxy for the customer. The rate at which they value you (though they may not consciously realize it) is an attempt to guess your value to the user.",
-      "translated": "[待翻译] One thing you can do is go over the heads of organ..."
+      "translated": "你可以采取的一个方法是越过组织，直接面向用户。任何雇佣你的公司，从经济角度来说，都是在代表客户行事。他们对你的估值（尽管他们可能并未意识到这一点）实际上是试图猜测你对用户的价值。"
     },
     {
       "original": "But there's a way to appeal their judgement. If you want, you can opt to be valued directly by users, by starting your own company.The market is a lot more discerning than any employer. And it is completely non-discriminatory.",
-      "translated": "[待翻译] But there's a way to appeal their judgement. If yo..."
+      "translated": "但是有一种方法可以申诉他们的判决。如果你愿意，可以选择通过创办自己的公司来直接接受用户的评价。市场比任何雇主都要更加有鉴别力，并且是完全不带偏见的。"
     },
     {
       "original": "On the Internet, nobody knows you're a dog. And more to the point, nobody knows you're 22. All users care about is whether your site or software gives them what they want. They don't care if the person behind it is a high school kid.If you're really productive, why not make employers pay market rate for you?",
-      "translated": "[待翻译] On the Internet, nobody knows you're a dog. And mo..."
+      "translated": "在互联网上，没有人知道你是一条狗。更确切地说，没有人知道你22岁。用户关心的只是你的网站或软件是否能满足他们的需求。他们不在乎背后的人是不是一个高中生。如果你真的很有生产力，为什么不让他们按市场价支付报酬呢？"
     },
     {
       "original": "Why go work as an ordinary employee for a big company, when you could start a startup and make them buy it to get you?When most people hear the word \"startup,\" they think of the famous ones that have gone public.",
-      "translated": "[待翻译] Why go work as an ordinary employee for a big comp..."
+      "translated": "为什么要去大公司做一个普通的员工，当你完全可以创办一家创业公司，让他们来收购你的公司从而获得你呢？当大多数人听到“创业公司”这个词时，他们想到的是那些已经上市的著名公司。"
     },
     {
       "original": "But most startups that succeed do it by getting bought. And usually the acquirer doesn't just want the technology, but the people who created it as well.Often big companies buy startups before they're profitable.",
-      "translated": "[待翻译] But most startups that succeed do it by getting bo..."
+      "translated": "但大多数成功的创业公司是通过被收购实现的。通常，收购方不仅看中技术，还看中创造这些技术的人。很多时候，大公司会在创业公司实现盈利之前就将其收购。"
     },
     {
       "original": "Obviously in such cases they're not after revenues. What they want is the development team and the software they've built so far. When a startup gets bought for 2 or 3 million six months in, it's really more of a hiring bonus than an acquisition.I think this sort of thing will happen more and more, and that it will be better for everyone.",
-      "translated": "[待翻译] Obviously in such cases they're not after revenues..."
+      "translated": "显然，在这种情况下，他们并不是为了收入。他们真正想要的是开发团队以及迄今为止所构建的软件。当一家创业公司在成立六个月后以两三百万美元的价格被收购时，这实际上更像是招聘奖金，而不是真正的收购。我认为这种事情会越来越多，而且对所有人都有好处。"
     },
     {
       "original": "It's obviously better for the people who start the startup, because they get a big chunk of money up front. But I think it will be better for the acquirers too. The central problem in big companies, and the main reason they're so much less productive than small companies, is the difficulty of valuing each person's work.",
-      "translated": "[待翻译] It's obviously better for the people who start the..."
+      "translated": "对于创业公司创始人来说，显然更有利，因为他们可以一开始就获得一大笔资金。但我认为这对收购方也有好处。大公司面临的核心问题，也是它们的生产效率远低于小公司的主要原因，是难以评估每个人的工作价值。"
     },
     {
       "original": "Buying larval startups solves that problem for them: the acquirer doesn't pay till the developers have proven themselves. Acquirers are protected on the downside, but still get most of the upside.Product DevelopmentBuying startups also solves another problem afflicting big companies: they can't do product development.",
-      "translated": "[待翻译] Buying larval startups solves that problem for the..."
+      "translated": "购买初创企业的幼苗状态就能解决这个问题：收购方在开发人员证明自己之前无需支付费用。收购方在下行风险上得到了保护，但仍能获得大部分上行收益。产品开发购买初创企业还能解决另一个困扰大公司的问题：它们无法进行产品开发。"
     },
     {
       "original": "Big companies are good at extracting the value from existing products, but bad at creating new ones.Why? It's worth studying this phenomenon in detail, because this is the raison d'etre of startups.To start with, most big companies have some kind of turf to protect, and this tends to warp their development decisions.",
-      "translated": "[待翻译] Big companies are good at extracting the value fro..."
+      "translated": "大公司擅长从现有产品中提取价值，但不善于创造新产品。为什么？值得详细研究这一现象，因为这是创业公司的存在理由。首先，大多数大公司都有某些需要保护的领地，这往往会扭曲它们的发展决策。"
     },
     {
       "original": "For example, Web-based applications are hot now, but within Microsoft there must be a lot of ambivalence about them, because the very idea of Web-based software threatens the desktop. So any Web-based application that Microsoft ends up with, will probably, like Hotmail, be something developed outside the company.Another reason big companies are bad at developing new products is that the kind of people who do that tend not to have much power in big companies (unless they happen to be the CEO).",
-      "translated": "[待翻译] For example, Web-based applications are hot now, b..."
+      "translated": "例如，基于Web的应用程序现在很热门，但微软内部对此肯定有很多矛盾情绪，因为Web应用程序的概念本身就威胁到了桌面应用。所以，微软最终得到的任何基于Web的应用程序，很可能像Hotmail一样，是公司外部开发的。大公司不善于开发新产品的原因之一是，那些能够开发新产品的人在大公司里通常没有多少权力（除非他们碰巧是首席执行官）。"
     },
     {
       "original": "Disruptive technologies are developed by disruptive people. And they either don't work for the big company, or have been outmaneuvered by yes-men and have comparatively little influence.Big companies also lose because they usually only build one of each thing.",
-      "translated": "[待翻译] Disruptive technologies are developed by disruptiv..."
+      "translated": "颠覆性技术是由具有颠覆性思维的人开发的。这些人要么不愿意为大公司工作，要么被那些只会说好话的人排挤，因此在公司中的影响力相对较小。大公司也会因此而失败，因为它们通常每种产品只生产一种。"
     },
     {
       "original": "When you only have one Web browser, you can't do anything really risky with it. If ten different startups design ten different Web browsers and you take the best, you'll probably get something better.The more general version of this problem is that there are too many new ideas for companies to explore them all.",
-      "translated": "[待翻译] When you only have one Web browser, you can't do a..."
+      "translated": "当你只有一个网页浏览器时，你无法用它做任何真正有风险的事情。如果十个不同的创业公司设计了十个不同的网页浏览器，你选择最好的一个，你可能会得到更好的东西。这个问题的更普遍版本是，有太多的新想法，公司无法全部探索。"
     },
     {
       "original": "There might be 500 startups right now who think they're making something Microsoft might buy. Even Microsoft probably couldn't manage 500 development projects in-house.Big companies also don't pay people the right way.",
-      "translated": "[待翻译] There might be 500 startups right now who think th..."
+      "translated": "现在可能有500家初创公司认为自己正在开发微软可能会收购的产品。即使微软恐怕也无法内部管理500个开发项目。大公司也不以正确的方式支付员工报酬。"
     },
     {
       "original": "People developing a new product at a big company get paid roughly the same whether it succeeds or fails. People at a startup expect to get rich if the product succeeds, and get nothing if it fails. [2] So naturally the people at the startup work a lot harder.The mere bigness of big companies is an obstacle.",
-      "translated": "[待翻译] People developing a new product at a big company g..."
+      "translated": "在大公司开发新产品的人员，无论产品成功与否，得到的报酬大致相同。而在初创公司，人们期望如果产品成功就能发大财，如果失败就一无所获。因此，自然而然地，初创公司的人员会更加努力工作。大公司的庞大本身就是一个障碍。"
     },
     {
       "original": "In startups, developers are often forced to talk directly to users, whether they want to or not, because there is no one else to do sales and support. It's painful doing sales, but you learn much more from trying to sell people something than reading what they said in focus groups.And then of course, big companies are bad at product development because they're bad at everything.",
-      "translated": "[待翻译] In startups, developers are often forced to talk d..."
+      "translated": "在初创公司，开发者常常被迫直接与用户交流，无论他们是否愿意，因为没有其他人来做销售和支持。做销售很痛苦，但你从尝试向人们推销东西中学到的东西比从焦点小组的反馈中读到的要多得多。当然，大公司在产品开发上表现不佳，因为他们几乎所有事情都做不好。"
     },
     {
       "original": "Everything happens slower in big companies than small ones, and product development is something that has to happen fast, because you have to go through a lot of iterations to get something good.TrendI think the trend of big companies buying startups will only accelerate.",
-      "translated": "[待翻译] Everything happens slower in big companies than sm..."
+      "translated": "大公司在各个方面的事情进展都比小公司慢，而产品开发必须快速进行，因为要经过多次迭代才能做出好的产品。我认为大型公司收购初创企业的趋势只会加速。"
     },
     {
       "original": "One of the biggest remaining obstacles is pride. Most companies, at least unconsciously, feel they ought to be able to develop stuff in house, and that buying startups is to some degree an admission of failure.",
-      "translated": "[待翻译] One of the biggest remaining obstacles is pride. M..."
+      "translated": "最大的障碍之一是自尊。大多数公司，至少在潜意识里，认为自己应该能够内部开发所需的东西，而购买初创公司某种程度上等于是承认失败。"
     },
     {
       "original": "And so, as people generally do with admissions of failure, they put it off for as long as possible. That makes the acquisition very expensive when it finally happens.What companies should do is go out and discover startups when they're young, before VCs have puffed them up into something that costs hundreds of millions to acquire.",
-      "translated": "[待翻译] And so, as people generally do with admissions of ..."
+      "translated": "因此，就像人们通常对待失败的承认一样，他们会尽可能地拖延。这使得最终的收购变得非常昂贵。公司应该做的是，在创业公司还年轻、风险投资公司还没有将它们炒到需要花费数亿美元才能收购的地步之前，就去发现它们。"
     },
     {
       "original": "Much of what VCs add, the acquirer doesn't need anyway.Why don't acquirers try to predict the companies they're going to have to buy for hundreds of millions, and grab them early for a tenth or a twentieth of that?",
-      "translated": "[待翻译] Much of what VCs add, the acquirer doesn't need an..."
+      "translated": "许多风险投资公司所提供的，收购方其实并不需要。为什么收购方不尝试预测他们将来不得不以数亿美元收购的公司，并趁早以十分之一或二十分之一的价格拿下它们呢？"
     },
     {
       "original": "Because they can't predict the winners in advance? If they're only paying a twentieth as much, they only have to predict a twentieth as well. Surely they can manage that.I think companies that acquire technology will gradually learn to go after earlier stage startups.",
-      "translated": "[待翻译] Because they can't predict the winners in advance?..."
+      "translated": "因为他们无法提前预测赢家吗？如果他们支付的金额只有五分之一，那么他们只需要预测对五分之一就行了。他们肯定能做到这一点。我认为收购技术的公司会逐渐学会去追逐更早期的初创企业。"
     },
     {
       "original": "They won't necessarily buy them outright. The solution may be some hybrid of investment and acquisition: for example, to buy a chunk of the company and get an option to buy the rest later.When companies buy startups, they're effectively fusing recruiting and product development.",
-      "translated": "[待翻译] They won't necessarily buy them outright. The solu..."
+      "translated": "他们不一定完全买断。解决方案可能是一种投资与收购的混合形式：例如，先购买公司的一部分股份，并获得日后购买剩余股份的期权。当公司收购初创企业时，实际上是在将招聘和产品开发有效结合。"
     },
     {
       "original": "And I think that's more efficient than doing the two separately, because you always get people who are really committed to what they're working on.Plus this method yields teams of developers who already work well together.",
-      "translated": "[待翻译] And I think that's more efficient than doing the t..."
+      "translated": "而且我认为这样做比分开进行更高效，因为总能找到一些对工作非常投入的人。此外，这种方法还能形成已经合作默契的开发团队。"
     },
     {
       "original": "Any conflicts between them have been ironed out under the very hot iron of running a startup. By the time the acquirer gets them, they're finishing one another's sentences. That's valuable in software, because so many bugs occur at the boundaries between different people's code.InvestorsThe increasing cheapness of starting a company doesn't just give hackers more power relative to employers.",
-      "translated": "[待翻译] Any conflicts between them have been ironed out un..."
+      "translated": "他们之间的任何冲突都在创业的烈火下被化解了。当收购方得到他们时，他们已经能够彼此心照不宣地完成对方的话。这在软件开发中非常有价值，因为很多错误往往发生在不同人编写的代码之间的边界上。投资者方面，创业成本的不断降低不仅使黑客相对雇主拥有更多权力。"
     },
     {
       "original": "It also gives them more power relative to investors.The conventional wisdom among VCs is that hackers shouldn't be allowed to run their own companies. The founders are supposed to accept MBAs as their bosses, and themselves take on some title like Chief Technical Officer.",
-      "translated": "[待翻译] It also gives them more power relative to investor..."
+      "translated": "这也使他们在与投资者的关系中获得了更大的权力。风险投资界的普遍看法是，黑客不应该被允许经营自己的公司。创始人应该接受MBA作为他们的上司，而自己则担任诸如首席技术官之类的职位。"
     },
     {
       "original": "There may be cases where this is a good idea. But I think founders will increasingly be able to push back in the matter of control, because they just don't need the investors' money as much as they used to.Startups are a comparatively new phenomenon.",
-      "translated": "[待翻译] There may be cases where this is a good idea. But ..."
+      "translated": "在某些情况下，这可能是一个好主意。但我认为，创始人将越来越能够就控制权问题进行抗争，因为他们不像以前那样需要投资者的资金。初创企业是一个相对较新的现象。"
     },
     {
       "original": "Fairchild Semiconductor is considered the first VC-backed startup, and they were founded in 1959, less than fifty years ago. Measured on the time scale of social change, what we have now is pre-beta.",
-      "translated": "[待翻译] Fairchild Semiconductor is considered the first VC..."
+      "translated": "Fairchild 半导体被认为是首个获得风险投资支持的初创公司，他们成立于1959年，距今还不到五十年。从社会变革的时间尺度来看，我们现在的情况还处于预测试阶段。"
     },
     {
       "original": "So we shouldn't assume the way startups work now is the way they have to work.Fairchild needed a lot of money to get started. They had to build actual factories. What does the first round of venture funding for a Web-based startup get spent on today?",
-      "translated": "[待翻译] So we shouldn't assume the way startups work now i..."
+      "translated": "所以我们不应该认为现在初创公司的工作方式是它们唯一的工作方式。费尔柴尔德公司需要大量的资金来启动。他们不得不建造实际的工厂。那么，如今基于网络的初创公司在第一轮融资中获得的资金会被用在什么地方呢？"
     },
     {
       "original": "More money can't get software written faster; it isn't needed for facilities, because those can now be quite cheap; all money can really buy you is sales and marketing. A sales force is worth something, I'll admit.",
-      "translated": "[待翻译] More money can't get software written faster; it i..."
+      "translated": "更多的钱并不能让软件开发得更快；它对设施来说也不是必需的，因为现在这些设施可以相当便宜；钱真正能买到的只有销售和营销。我承认，销售团队确实有价值。"
     },
     {
       "original": "But marketing is increasingly irrelevant. On the Internet, anything genuinely good will spread by word of mouth.Investors' power comes from money. When startups need less money, investors have less power over them.",
-      "translated": "[待翻译] But marketing is increasingly irrelevant. On the I..."
+      "translated": "但营销越来越不重要。在互联网上，任何真正好的东西都会通过口口相传而传播。投资者的权力来自于资金。当初创企业需要的资金减少时，投资者对它们的控制力也会减弱。"
     },
     {
       "original": "So future founders may not have to accept new CEOs if they don't want them. The VCs will have to be dragged kicking and screaming down this road, but like many things people have to be dragged kicking and screaming toward, it may actually be good for them.Google is a sign of the way things are going.",
-      "translated": "[待翻译] So future founders may not have to accept new CEOs..."
+      "translated": "因此，未来的创始人可能不必在不情愿的情况下接受新的首席执行官。风险投资家们可能会被拖着不情愿地走上这条路，但就像许多人们不得不被拖着不情愿地去做的事情一样，这实际上可能对他们有好处。谷歌就是这一趋势的标志。"
     },
     {
       "original": "As a condition of funding, their investors insisted they hire someone old and experienced as CEO. But from what I've heard the founders didn't just give in and take whoever the VCs wanted. They delayed for an entire year, and when they did finally take a CEO, they chose a guy with a PhD in computer science.It sounds to me as if the founders are still the most powerful people in the company, and judging by Google's performance, their youth and inexperience doesn't seem to have hurt them.",
-      "translated": "[待翻译] As a condition of funding, their investors insiste..."
+      "translated": "作为获得资金的条件，投资者坚持要求他们聘请一位年长且有经验的CEO。但据我所知，创始人们没有只是屈服于VCs的意愿，而是拖延了一整年，最终在选择CEO时，他们选了一位计算机科学的博士。在我看来，创始人们似乎仍然是公司中最有权势的人，而从谷歌的表现来看，他们的年轻和缺乏经验似乎并没有对他们造成不利影响。"
     },
     {
       "original": "Indeed, I suspect Google has done better than they would have if the founders had given the VCs what they wanted, when they wanted it, and let some MBA take over as soon as they got their first round of funding.I'm not claiming the business guys installed by VCs have no value.",
-      "translated": "[待翻译] Indeed, I suspect Google has done better than they..."
+      "translated": "确实，我怀疑谷歌的表现比其创始人如果按照风险投资家的要求，在他们想要的时候给予，并且在获得第一轮融资后就让某个MBA接管公司时会更好。我并不是说风险投资家安插的商业人士没有价值。"
     },
     {
       "original": "Certainly they have. But they don't need to become the founders' bosses, which is what that title CEO means. I predict that in the future the executives installed by VCs will increasingly be COOs rather than CEOs.",
-      "translated": "[待翻译] Certainly they have. But they don't need to become..."
+      "translated": "当然，他们可以。但他们不必成为创始人的老板，而CEO这个头衔所指的就是这个意思。我预测，在未来，由风险投资公司任命的高管将越来越多地担任首席运营官（COO）而不是首席执行官（CEO）。"
     },
     {
       "original": "The founders will run engineering directly, and the rest of the company through the COO.The Open CageWith both employers and investors, the balance of power is slowly shifting towards the young. And yet they seem the last to realize it.",
-      "translated": "[待翻译] The founders will run engineering directly, and th..."
+      "translated": "创始人将直接管理工程部门，而公司的其他部分则由首席运营官负责。随着雇主和投资者权力的天平逐渐向年轻人倾斜，但他们似乎是最晚意识到这一点的人。"
     },
     {
       "original": "Only the most ambitious undergrads even consider starting their own company when they graduate. Most just want to get a job.Maybe this is as it should be. Maybe if the idea of starting a startup is intimidating, you filter out the uncommitted.",
-      "translated": "[待翻译] Only the most ambitious undergrads even consider s..."
+      "translated": "只有最雄心勃勃的本科生才会考虑在毕业时创办自己的公司。大多数人只是想找到一份工作。也许这本该如此。也许如果创办一家初创公司的想法让人望而生畏，那么就可以筛选掉那些不够坚定的人。"
     },
     {
       "original": "But I suspect the filter is set a little too high. I think there are people who could, if they tried, start successful startups, and who instead let themselves be swept into the intake ducts of big companies.Have you ever noticed that when animals are let out of cages, they don't always realize at first that the door's open?",
-      "translated": "[待翻译] But I suspect the filter is set a little too high...."
+      "translated": "但我怀疑筛选标准设置得有点太高了。我认为有些人如果努力的话，是可以创办成功的企业，但他们却让自己被大公司吸引进去了。你有没有注意到，当动物被从笼子里放出来时，它们一开始并不总是意识到门是开着的？"
     },
     {
       "original": "Often they have to be poked with a stick to get them out. Something similar happened with blogs. People could have been publishing online in 1995, and yet blogging has only really taken off in the last couple years.",
-      "translated": "[待翻译] Often they have to be poked with a stick to get th..."
+      "translated": "通常需要用棍子捅它们才能把它们弄出来。类似的事情也发生在博客上。人们早在1995年就可以在线发布内容，但博客却只是在最近几年才真正流行起来。"
     },
     {
       "original": "In 1995 we thought only professional writers were entitled to publish their ideas, and that anyone else who did was a crank. Now publishing online is becoming so popular that everyone wants to do it, even print journalists.",
-      "translated": "[待翻译] In 1995 we thought only professional writers were ..."
+      "translated": "1995年，我们认为只有专业作家才有资格发表他们的想法，其他人如果这样做就是异想天开。如今，网上发表文章变得如此流行，以至于每个人都想尝试，甚至连印刷媒体的记者也不例外。"
     },
     {
       "original": "But blogging has not taken off recently because of any technical innovation; it just took eight years for everyone to realize the cage was open.I think most undergrads don't realize yet that the economic cage is open.",
-      "translated": "[待翻译] But blogging has not taken off recently because of..."
+      "translated": "但博客最近的兴起并非由于任何技术革新；只是花了八年时间，大家才意识到笼子是开着的。我认为大多数本科生还没有意识到经济的笼子也是开着的。"
     },
     {
       "original": "A lot have been told by their parents that the route to success is to get a good job. This was true when their parents were in college, but it's less true now. The route to success is to build something valuable, and you don't have to be working for an existing company to do that.",
-      "translated": "[待翻译] A lot have been told by their parents that the rou..."
+      "translated": "很多人从小就被父母告知，成功的道路是找到一份好工作。当他们的父母上大学时，这确实是这样，但如今这已经不那么准确了。成功的道路在于创造有价值的事物，而你并不一定要在现有公司工作才能做到这一点。"
     },
     {
       "original": "Indeed, you can often do it better if you're not.When I talk to undergrads, what surprises me most about them is how conservative they are. Not politically, of course. I mean they don't seem to want to take risks.",
-      "translated": "[待翻译] Indeed, you can often do it better if you're not.W..."
+      "translated": "确实，有时候你不做的时候反而能做得更好。当我与本科生交谈时，最令我惊讶的是他们有多么保守。当然，我不是指政治上。我的意思是，他们似乎不愿意冒险。"
     },
     {
       "original": "This is a mistake, because the younger you are, the more risk you can take.RiskRisk and reward are always proportionate. For example, stocks are riskier than bonds, and over time always have greater returns.",
-      "translated": "[待翻译] This is a mistake, because the younger you are, th..."
+      "translated": "这是一个错误，因为越年轻，就越能承担风险。风险与回报总是成正比的。例如，股票比债券风险更大，但长期来看，回报也更高。"
     },
     {
       "original": "So why does anyone invest in bonds? The catch is that phrase \"over time.\" Stocks will generate greater returns over thirty years, but they might lose value from year to year. So what you should invest in depends on how soon you need the money.",
-      "translated": "[待翻译] So why does anyone invest in bonds? The catch is t..."
+      "translated": "那么，为什么还有人投资债券呢？关键在于“长期”这个词。股票在三十年的时间里会产生更高的回报，但它们的价值可能会逐年波动。因此，你应该投资什么取决于你何时需要这笔钱。"
     },
     {
       "original": "If you're young, you should take the riskiest investments you can find.All this talk about investing may seem very theoretical. Most undergrads probably have more debts than assets. They may feel they have nothing to invest.",
-      "translated": "[待翻译] If you're young, you should take the riskiest inve..."
+      "translated": "如果你年轻，就应该寻找你能找到的最冒险的投资。所有这些关于投资的讨论可能看起来非常理论化。大多数本科生可能负债多于资产。他们可能会觉得自己没有什么可以投资的。"
     },
     {
       "original": "But that's not true: they have their time to invest, and the same rule about risk applies there. Your early twenties are exactly the time to take insane career risks.The reason risk is always proportionate to reward is that market forces make it so.",
-      "translated": "[待翻译] But that's not true: they have their time to inves..."
+      "translated": "但事实并非如此：他们有时间进行投资，同样的风险规则也适用于此。你二十出头的年纪正是承担疯狂职业风险的最佳时机。风险与回报总是成正比的原因是市场力量使其如此。"
     },
     {
       "original": "People will pay extra for stability. So if you choose stability-- by buying bonds, or by going to work for a big company-- it's going to cost you.Riskier career moves pay better on average, because there is less demand for them.",
-      "translated": "[待翻译] People will pay extra for stability. So if you cho..."
+      "translated": "人们会为稳定性支付额外的费用。因此，如果你选择稳定性——比如购买债券，或者为一家大公司工作——这将会让你付出代价。风险更高的职业选择平均来说回报更高，因为对这些选择的需求较少。"
     },
     {
       "original": "Extreme choices like starting a startup are so frightening that most people won't even try. So you don't end up having as much competition as you might expect, considering the prizes at stake.The math is brutal.",
-      "translated": "[待翻译] Extreme choices like starting a startup are so fri..."
+      "translated": "像创办初创企业这样极端的选择是如此令人畏惧，以至于大多数人都不会去尝试。因此，考虑到潜在的奖励，你最终面临的竞争并不会像你预期的那么多。这个数字是残酷的。"
     },
     {
       "original": "While perhaps 9 out of 10 startups fail, the one that succeeds will pay the founders more than 10 times what they would have made in an ordinary job. [3] That's the sense in which startups pay better \"on average.\"Remember that.",
-      "translated": "[待翻译] While perhaps 9 out of 10 startups fail, the one t..."
+      "translated": "尽管可能每10家初创公司中有9家会失败，但成功的那一家将给创始人带来的收益将超过他们在普通工作中所能赚取的10倍。[3] 这就是初创公司在“平均”意义上报酬更高的意思。记住这一点。"
     },
     {
       "original": "If you start a startup, you'll probably fail. Most startups fail. It's the nature of the business. But it's not necessarily a mistake to try something that has a 90% chance of failing, if you can afford the risk.",
-      "translated": "[待翻译] If you start a startup, you'll probably fail. Most..."
+      "translated": "如果你开始创业，你很可能会失败。大多数初创公司都会失败。这是行业的本质。但如果你能承担风险，尝试一件有90%失败概率的事情并不一定是错误的。"
     },
     {
       "original": "Failing at 40, when you have a family to support, could be serious. But if you fail at 22, so what? If you try to start a startup right out of college and it tanks, you'll end up at 23 broke and a lot smarter.",
-      "translated": "[待翻译] Failing at 40, when you have a family to support, ..."
+      "translated": "40岁失败，当你有家庭要养活时，这可能会很严重。但如果你22岁失败，那又怎样？如果你一毕业就尝试创业，即使失败了，到23岁时你也会身无分文但变得更加聪明。"
     },
     {
       "original": "Which, if you think about it, is roughly what you hope to get from a graduate program.Even if your startup does tank, you won't harm your prospects with employers. To make sure I asked some friends who work for big companies.",
-      "translated": "[待翻译] Which, if you think about it, is roughly what you ..."
+      "translated": "如果你仔细想想，这大概就是你希望通过研究生课程获得的东西。即使你的创业公司失败了，也不会对你的就业前景造成损害。为了确保这一点，我询问了一些在大公司工作的朋友。"
     },
     {
       "original": "I asked managers at Yahoo, Google, Amazon, Cisco and Microsoft how they'd feel about two candidates, both 24, with equal ability, one who'd tried to start a startup that tanked, and another who'd spent the two years since college working as a developer at a big company.",
-      "translated": "[待翻译] I asked managers at Yahoo, Google, Amazon, Cisco a..."
+      "translated": "我询问了雅虎、谷歌、亚马逊、思科和微软的经理们，如果面对两位24岁的候选人，能力相当，一位曾尝试创业但失败了，另一位自大学毕业后在一家大公司担任了两年的开发人员，他们更倾向于哪一位。"
     },
     {
       "original": "Every one responded that they'd prefer the guy who'd tried to start his own company. Zod Nazem, who's in charge of engineering at Yahoo, said: I actually put more value on the guy with the failed startup.",
-      "translated": "[待翻译] Every one responded that they'd prefer the guy who..."
+      "translated": "每个人都表示他们更喜欢那个尝试自己创业的人。Yahoo 的工程负责人 Zod Nazem 说：实际上，我更看重那个创业失败的人。"
     },
     {
       "original": "And you can quote me! So there you have it. Want to get hired by Yahoo? Start your own company.The Man is the CustomerIf even big employers think highly of young hackers who start companies, why don't more do it?",
-      "translated": "[待翻译] And you can quote me! So there you have it. Want t..."
+      "translated": "你可以引用我！所以，就是这样。想被雅虎雇用吗？自己开公司。顾客就是上帝。如果连大雇主都看好创办公司的年轻黑客，为什么这样做的人不多呢？"
     },
     {
       "original": "Why are undergrads so conservative? I think it's because they've spent so much time in institutions.The first twenty years of everyone's life consists of being piped from one institution to another. You probably didn't have much choice about the secondary schools you went to.",
-      "translated": "[待翻译] Why are undergrads so conservative? I think it's b..."
+      "translated": "为什么本科生如此保守？我认为这是因为他们在机构中度过了太多时间。每个人生命的前二十年基本上是从一个机构被引导到另一个机构。你对于所上的中学可能没有太多选择。"
     },
     {
       "original": "And after high school it was probably understood that you were supposed to go to college. You may have had a few different colleges to choose between, but they were probably pretty similar. So by this point you've been riding on a subway line for twenty years, and the next stop seems to be a job.Actually college is where the line ends.",
-      "translated": "[待翻译] And after high school it was probably understood t..."
+      "translated": "高中毕业后，大概所有人都认为你应该上大学。你可能有几个不同的大学可以选择，但它们大概都差不多。所以到这个时候，你已经在这条地铁线上行驶了二十年，下一站似乎就是工作。实际上，大学才是这条线路的终点。"
     },
     {
       "original": "Superficially, going to work for a company may feel like just the next in a series of institutions, but underneath, everything is different. The end of school is the fulcrum of your life, the point where you go from net consumer to net producer.The other big change is that now, you're steering.",
-      "translated": "[待翻译] Superficially, going to work for a company may fee..."
+      "translated": "表面上，去一家公司工作可能只是人生中一系列机构经历的延续，但实际上，一切都大不相同。学校的结束是你人生的支点，是你从净消费者转变为净生产者的转折点。另一个重大变化是，现在你开始掌舵了。"
     },
     {
       "original": "You can go anywhere you want. So it may be worth standing back and understanding what's going on, instead of just doing the default thing.All through college, and probably long before that, most undergrads have been thinking about what employers want.",
-      "translated": "[待翻译] You can go anywhere you want. So it may be worth s..."
+      "translated": "你可以去任何你想去的地方。因此，退后一步，理解正在发生的事情，而不是仅仅做默认的事情，可能是值得的。在整个大学期间，甚至可能在此之前，大多数本科生一直在考虑雇主想要什么。"
     },
     {
       "original": "But what really matters is what customers want, because they're the ones who give employers the money to pay you.So instead of thinking about what employers want, you're probably better off thinking directly about what users want.",
-      "translated": "[待翻译] But what really matters is what customers want, be..."
+      "translated": "但真正重要的是客户的需求，因为他们是支付雇主工资的人。所以，与其考虑雇主想要什么，你还不如直接考虑用户想要什么。"
     },
     {
       "original": "To the extent there's any difference between the two, you can even use that to your advantage if you start a company of your own. For example, big companies like docile conformists. But this is merely an artifact of their bigness, not something customers need.Grad SchoolI didn't consciously realize all this when I was graduating from college-- partly because I went straight to grad school.",
-      "translated": "[待翻译] To the extent there's any difference between the t..."
+      "translated": "在两者之间存在的任何差异，如果你自己创业的话，甚至可以将其转化为优势。例如，大公司喜欢温顺的顺从者。但这只是他们庞大的副产品，并不是客户所需要的。我大学毕业时并没有完全意识到这些——部分原因是直接读了研究生。"
     },
     {
       "original": "Grad school can be a pretty good deal, even if you think of one day starting a startup. You can start one when you're done, or even pull the ripcord part way through, like the founders of Yahoo and Google.Grad school makes a good launch pad for startups, because you're collected together with a lot of smart people, and you have bigger chunks of time to work on your own projects than an undergrad or corporate employee would.",
-      "translated": "[待翻译] Grad school can be a pretty good deal, even if you..."
+      "translated": "研究生院可以是一个相当不错的选择，即使你打算将来创办一家初创公司。你可以在毕业后开始，或者像雅虎和谷歌的创始人那样，在中途选择退出。研究生院是初创公司的良好起点，因为你与许多聪明的人聚集在一起，并且比本科生或企业员工有更多的时间来从事自己的项目。"
     },
     {
       "original": "As long as you have a fairly tolerant advisor, you can take your time developing an idea before turning it into a company. David Filo and Jerry Yang started the Yahoo directory in February 1994 and were getting a million hits a day by the fall, but they didn't actually drop out of grad school and start a company till March 1995.You could also try the startup first, and if it doesn't work, then go to grad school.",
-      "translated": "[待翻译] As long as you have a fairly tolerant advisor, you..."
+      "translated": "只要你有一个相当宽容的导师，你就可以花时间去发展一个想法，然后再将其变成一家公司。David Filo 和 Jerry Yang 在 1994 年 2 月开始了 Yahoo 目录，到秋天时每天已有百万次的点击量，但他们直到 1995 年 3 月才真正从研究生院退学并创办公司。你也可以先尝试创业，如果不行，再回去读研究生。"
     },
     {
       "original": "When startups tank they usually do it fairly quickly. Within a year you'll know if you're wasting your time.If it fails, that is. If it succeeds, you may have to delay grad school a little longer. But you'll have a much more enjoyable life once there than you would on a regular grad student stipend.ExperienceAnother reason people in their early twenties don't start startups is that they feel they don't have enough experience.",
-      "translated": "[待翻译] When startups tank they usually do it fairly quick..."
+      "translated": "当创业公司失败时，通常会很快失败。一年内你就会知道是否在浪费时间。如果失败了，那是这样。如果成功了，你可能得把研究生院的入学时间推迟得更久一些。但一旦到了那里，你的生活会比拿着普通研究生奖学金时更加愉快。经验另一个二十出头的人不创业的原因是他们觉得自己经验不足。"
     },
     {
       "original": "Most investors feel the same.I remember hearing a lot of that word \"experience\" when I was in college. What do people really mean by it? Obviously it's not the experience itself that's valuable, but something it changes in your brain.",
-      "translated": "[待翻译] Most investors feel the same.I remember hearing a ..."
+      "translated": "大多数投资者都有同感。我记得在大学时经常听到“经验”这个词。人们究竟指的是什么？显然，有价值的并不是经验本身，而是它在你大脑中引起的变化。"
     },
     {
       "original": "What's different about your brain after you have \"experience,\" and can you make that change happen faster?I now have some data on this, and I can tell you what tends to be missing when people lack experience.",
-      "translated": "[待翻译] What's different about your brain after you have \"..."
+      "translated": "有了“经验”之后，你的大脑会有什么不同，你能否让这种变化更快发生？我现在有一些关于这方面的数据，可以告诉你当人们缺乏经验时，通常缺少的是什么。"
     },
     {
       "original": "I've said that every startup needs three things: to start with good people, to make something users want, and not to spend too much money. It's the middle one you get wrong when you're inexperienced.",
-      "translated": "[待翻译] I've said that every startup needs three things: t..."
+      "translated": "我已经说过，每个初创企业需要三样东西：首先要有优秀的人才，其次要开发用户需要的产品，最后不要花太多钱。当你经验不足时，最容易出错的就是中间那一点。"
     },
     {
       "original": "There are plenty of undergrads with enough technical skill to write good software, and undergrads are not especially prone to waste money. If they get something wrong, it's usually not realizing they have to make something people want.This is not exclusively a failing of the young.",
-      "translated": "[待翻译] There are plenty of undergrads with enough technic..."
+      "translated": "有很多本科生具备足够的技术能力来编写优秀的软件，而且本科生并不特别容易浪费钱。如果他们出了错，通常是因为没有意识到必须制作人们想要的东西。这不仅仅是年轻人的缺点。"
     },
     {
       "original": "It's common for startup founders of all ages to build things no one wants.Fortunately, this flaw should be easy to fix. If undergrads were all bad programmers, the problem would be a lot harder. It can take years to learn how to program.",
-      "translated": "[待翻译] It's common for startup founders of all ages to bu..."
+      "translated": "各个年龄段的初创公司创始人普遍会创建出没有人需要的东西。幸运的是，这个问题应该很容易解决。如果大学生都是糟糕的程序员，那么问题就会复杂得多。学习编程可能需要数年的时间。"
     },
     {
       "original": "But I don't think it takes years to learn how to make things people want. My hypothesis is that all you have to do is smack hackers on the side of the head and tell them: Wake up. Don't sit here making up a priori theories about what users need.",
-      "translated": "[待翻译] But I don't think it takes years to learn how to m..."
+      "translated": "但是我认为，学习如何制作人们需要的东西并不需要花费数年时间。我的假设是，你只需要敲敲那些程序员的头，告诉他们：醒醒吧。不要坐在那里凭空想象用户需要什么。"
     },
     {
       "original": "Go find some users and see what they need.Most successful startups not only do something very specific, but solve a problem people already know they have.The big change that \"experience\" causes in your brain is learning that you need to solve people's problems.",
-      "translated": "[待翻译] Go find some users and see what they need.Most suc..."
+      "translated": "去找一些用户，看看他们需要什么。大多数成功的初创公司不仅做非常具体的事情，还解决人们已经知道的问题。\"经验\"给你的大脑带来的最大变化就是学会了解决人们的问题。"
     },
     {
       "original": "Once you grasp that, you advance quickly to the next step, which is figuring out what those problems are. And that takes some effort, because the way software actually gets used, especially by the people who pay the most for it, is not at all what you might expect.",
-      "translated": "[待翻译] Once you grasp that, you advance quickly to the ne..."
+      "translated": "一旦你掌握了这一点，就可以迅速进入下一步，那就是找出这些问题是什么。而这需要一些努力，因为软件实际被使用的方式，尤其是被那些支付最多费用的人使用的方式，并不是你可能想象的那样。"
     },
     {
       "original": "For example, the stated purpose of Powerpoint is to present ideas. Its real role is to overcome people's fear of public speaking. It allows you to give an impressive-looking talk about nothing, and it causes the audience to sit in a dark room looking at slides, instead of a bright one looking at you.This kind of thing is out there for anyone to see.",
-      "translated": "[待翻译] For example, the stated purpose of Powerpoint is t..."
+      "translated": "例如，Powerpoint 声称的目的是呈现想法。它的真实作用是克服人们在公开演讲时的恐惧。它允许你对一无所知的主题发表看似引人注目的演讲，并且它会让观众坐在黑暗的房间里看着幻灯片，而不是在明亮的房间里看着你。这种事情对任何人都显而易见。"
     },
     {
       "original": "The key is to know to look for it-- to realize that having an idea for a startup is not like having an idea for a class project. The goal in a startup is not to write a cool piece of software. It's to make something people want.",
-      "translated": "[待翻译] The key is to know to look for it-- to realize tha..."
+      "translated": "关键是意识到要去寻找——要明白，有一个创业点子并不像有一个课堂项目的点子。创业的目标不是编写一个很酷的软件。而是要做出人们想要的东西。"
     },
     {
       "original": "And to do that you have to look at users-- forget about hacking, and just look at users. This can be quite a mental adjustment, because little if any of the software you write in school even has users.",
-      "translated": "[待翻译] And to do that you have to look at users-- forget ..."
+      "translated": "要做到这一点，你就必须关注用户——不要考虑黑客攻击，只需关注用户。这可能需要一个思维方式的转变，因为你在学校编写的软件几乎没有或根本没有用户。"
     },
     {
       "original": "A few steps before a Rubik's Cube is solved, it still looks like a mess. I think there are a lot of undergrads whose brains are in a similar position: they're only a few steps away from being able to start successful startups, if they wanted to, but they don't realize it.",
-      "translated": "[待翻译] A few steps before a Rubik's Cube is solved, it st..."
+      "translated": "在魔方即将复原的几步之前，它看起来仍然一团糟。我认为有很多本科生的大脑也处于类似的状态：他们距离能够开始成功的创业只差几步之遥，但他们并没有意识到这一点。"
     },
     {
       "original": "They have more than enough technical skill. They just haven't realized yet that the way to create wealth is to make what users want, and that employers are just proxies for users in which risk is pooled.If you're young and smart, you don't need either of those.",
-      "translated": "[待翻译] They have more than enough technical skill. They j..."
+      "translated": "他们拥有足够的技术能力。他们只是还没有意识到，创造财富的方式是满足用户的需求，而雇主只是风险共担的用户代理人。如果你年轻且聪明，你并不需要这两者。"
     },
     {
       "original": "You don't need someone else to tell you what users want, because you can figure it out yourself. And you don't want to pool risk, because the younger you are, the more risk you should take.A Public Service MessageI'd like to conclude with a joint message from me and your parents.",
-      "translated": "[待翻译] You don't need someone else to tell you what users..."
+      "translated": "你不需要别人来告诉你用户想要什么，因为你可以自己弄清楚。而且你不应该分散风险，因为你越年轻，就应该承担更多的风险。这是一则公益信息。我想以我和你父母的联合信息来结束。"
     },
     {
       "original": "Don't drop out of college to start a startup. There's no rush. There will be plenty of time to start companies after you graduate. In fact, it may be just as well to go work for an existing company for a couple years after you graduate, to learn how companies work.And yet, when I think about it, I can't imagine telling Bill Gates at 19 that he should wait till he graduated to start a company.",
-      "translated": "[待翻译] Don't drop out of college to start a startup. Ther..."
+      "translated": "不要为了创业而辍学。不必急于一时。毕业之后你有的是时间创业。事实上，毕业之后先去一家现有的公司工作几年，了解公司运作也不失为一个好主意。然而，当我细想时，我实在无法想象自己会在19岁的比尔·盖茨面前告诉他应该等到毕业后再去创业。"
     },
     {
       "original": "He'd have told me to get lost. And could I have honestly claimed that he was harming his future-- that he was learning less by working at ground zero of the microcomputer revolution than he would have if he'd been taking classes back at Harvard?",
-      "translated": "[待翻译] He'd have told me to get lost. And could I have ho..."
+      "translated": "他肯定会叫我滚开。而且我怎么能诚实地声称他是在损害自己的未来——他在微型计算机革命的中心工作，学到的东西比在哈佛上课还要少呢？"
     },
     {
       "original": "No, probably not.And yes, while it is probably true that you'll learn some valuable things by going to work for an existing company for a couple years before starting your own, you'd learn a thing or two running your own company during that time too.The advice about going to work for someone else would get an even colder reception from the 19 year old Bill Gates.",
-      "translated": "[待翻译] No, probably not.And yes, while it is probably tru..."
+      "translated": "不，大概不会。是的，虽然你可能确实会在为现有公司工作几年后再开始自己的事业时学到一些有价值的东西，但在这段时间里，自己经营公司也能学到不少。19岁的比尔·盖茨对去为别人工作的建议恐怕会更加不以为然。"
     },
     {
       "original": "So I'm supposed to finish college, then go work for another company for two years, and then I can start my own? I have to wait till I'm 23? That's four years. That's more than twenty percent of my life so far.",
-      "translated": "[待翻译] So I'm supposed to finish college, then go work fo..."
+      "translated": "所以我得先完成大学学业，然后去另一家公司工作两年，然后才能开始自己的事业？我得等到23岁？这得四年时间。这已经超过我迄今为止生命的百分之二十了。"
     },
     {
       "original": "Plus in four years it will be way too late to make money writing a Basic interpreter for the Altair.And he'd be right. The Apple II was launched just two years later. In fact, if Bill had finished college and gone to work for another company as we're suggesting, he might well have gone to work for Apple.",
-      "translated": "[待翻译] Plus in four years it will be way too late to make..."
+      "translated": "再过四年，为Altair编写Basic解释器来赚钱就太晚了。他说的没错。苹果II号仅仅两年后就推出了。事实上，如果比尔完成了大学学业，并像我们建议的那样去另一家公司工作，他很可能就会去苹果公司工作。"
     },
     {
       "original": "And while that would probably have been better for all of us, it wouldn't have been better for him.So while I stand by our responsible advice to finish college and then go work for a while before starting a startup, I have to admit it's one of those things the old tell the young, but don't expect them to listen to.",
-      "translated": "[待翻译] And while that would probably have been better for..."
+      "translated": "尽管那样可能对我们所有人都更好，但对他来说却未必如此。因此，虽然我坚持我们负责任的建议，即先完成大学学业，然后工作一段时间再开始创业，但我必须承认，这是一件老一辈对年轻一代说的事，但却不指望他们会听从。"
     },
     {
       "original": "We say this sort of thing mainly so we can claim we warned you. So don't say I didn't warn you. Notes[1] The average B-17 pilot in World War II was in his early twenties. (Thanks to Tad Marko for pointing this out.)[2] If a company tried to pay employees this way, they'd be called unfair.",
-      "translated": "[待翻译] We say this sort of thing mainly so we can claim w..."
+      "translated": "我们说这种话主要是为了能说自己警告过你。所以不要说我没有警告过你。注释[1] 第二次世界大战期间，平均B-17飞行员的年龄在二十出头。（感谢Tad Marko指出这一点。）[2] 如果一家公司试图用这种方式支付员工薪酬，他们会被称为不公平。"
     },
     {
       "original": "And yet when they buy some startups and not others, no one thinks of calling that unfair. [3] The 1/10 success rate for startups is a bit of an urban legend. It's suspiciously neat. My guess is the odds are slightly worse.Thanks to Jessica Livingston for reading drafts of this, to the friends I promised anonymity to for their opinions about hiring, and to Karen Nguyen and the Berkeley CSUA for organizing this talk.Russian TranslationRomanian TranslationJapanese Translation If you liked this, you may also like Hackers & Painters.",
-      "translated": "[待翻译] And yet when they buy some startups and not others..."
+      "translated": "然而，当他们收购某些初创公司而不收购其他公司时，没有人会认为这是不公平的。[3] 初创公司1/10的成功率有点像都市传说。这个数字看起来太整齐了。我猜实际的成功率可能还要低一些。感谢杰西卡·利文斯顿阅读本文的草稿，感谢那些我希望保持匿名的朋友对招聘问题的看法，感谢阮凯伦和伯克利计算机科学联盟组织这次演讲。俄文翻译罗马尼亚文翻译日文翻译如果你喜欢这篇文章，你可能也会喜欢《黑客与画家》。"
     }
-  ]
+  ],
+  "translation_completed": "2025-07-29T11:08:01.708528",
+  "translation_stats": {
+    "total_paragraphs": 96,
+    "success_count": 96,
+    "success_rate": "100.0%"
+  }
 }

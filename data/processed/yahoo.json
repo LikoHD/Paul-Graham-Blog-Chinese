@@ -56,163 +56,169 @@
   "paragraphs": [
     {
       "original": "Want to start a startup? Get funded by Y Combinator. August 2010When I went to work for Yahoo after they bought our startup in 1998, it felt like the center of the world. It was supposed to be the next big thing.",
-      "translated": "[待翻译] Want to start a startup? Get funded by Y Combinato..."
+      "translated": "想创业吗？获得Y Combinator的投资。2010年8月，1998年雅虎收购了我们公司后我去那里工作时，感觉那里就像是世界的中心。它被认为将是下一个大事件。"
     },
     {
       "original": "It was supposed to be what Google turned out to be.What went wrong? The problems that hosed Yahoo go back a long time, practically to the beginning of the company. They were already very visible when I got there in 1998.",
-      "translated": "[待翻译] It was supposed to be what Google turned out to be..."
+      "translated": "它本应成为谷歌最终成为的样子。那么，出了什么问题？雅虎的问题可以追溯到很久以前，几乎是从公司成立之初就开始了。这些问题在我1998年加入时已经非常明显。"
     },
     {
       "original": "Yahoo had two problems Google didn't: easy money, and ambivalence about being a technology company.MoneyThe first time I met Jerry Yang, we thought we were meeting for different reasons. He thought we were meeting so he could check us out in person before buying us.",
-      "translated": "[待翻译] Yahoo had two problems Google didn't: easy money, ..."
+      "translated": "雅虎有两个谷歌没有的问题：轻松获得的资金和对是否成为一家科技公司持矛盾态度。资金问题：我第一次见到杨致远时，我们双方以为见面的原因各不相同。他以为我们见面是为了让他在收购我们之前亲自考察一下。"
     },
     {
       "original": "I thought we were meeting so we could show him our new technology, Revenue Loop. It was a way of sorting shopping search results. Merchants bid a percentage of sales for traffic, but the results were sorted not by the bid but by the bid times the average amount a user would buy.",
-      "translated": "[待翻译] I thought we were meeting so we could show him our..."
+      "translated": "我以为我们见面是为了向他展示我们的新技术——Revenue Loop。这是一种对购物搜索结果进行排序的方法。商家为流量出价，出价比例是销售额的一部分，但结果的排序并不是根据出价，而是根据出价乘以用户平均购买金额。"
     },
     {
       "original": "It was like the algorithm Google uses now to sort ads, but this was in the spring of 1998, before Google was founded.Revenue Loop was the optimal sort for shopping search, in the sense that it sorted in order of how much money Yahoo would make from each link.",
-      "translated": "[待翻译] It was like the algorithm Google uses now to sort ..."
+      "translated": "这就像谷歌现在用于排序广告的算法，但这是在1998年春天，谷歌还没成立的时候。Revenue Loop 是购物搜索的最佳排序方法，因为它按照雅虎从每个链接中获得的收入多少来排序。"
     },
     {
       "original": "But it wasn't just optimal in that sense. Ranking search results by user behavior also makes search better. Users train the search: you can start out finding matches based on mere textual similarity, and as users buy more stuff the search results get better and better.Jerry didn't seem to care.",
-      "translated": "[待翻译] But it wasn't just optimal in that sense. Ranking ..."
+      "translated": "但这不仅仅是从这个意义上来说是最优的。根据用户行为对搜索结果进行排序也会让搜索变得更好。用户在训练搜索系统：一开始，搜索结果可能只是基于文本相似性来匹配，但随着用户购买更多商品，搜索结果会变得越来越好。杰里似乎并不在意。"
     },
     {
       "original": "I was confused. I was showing him technology that extracted the maximum value from search traffic, and he didn't care? I couldn't tell whether I was explaining it badly, or he was just very poker faced.I didn't realize the answer till later, after I went to work at Yahoo.",
-      "translated": "[待翻译] I was confused. I was showing him technology that ..."
+      "translated": "我感到困惑。我向他展示了一种能够从搜索流量中提取最大价值的技术，他却毫不在意？我无法判断是我解释得不好，还是他只是面不改色。直到后来我在雅虎工作时，我才意识到答案。"
     },
     {
       "original": "It was neither of my guesses. The reason Yahoo didn't care about a technique that extracted the full value of traffic was that advertisers were already overpaying for it. If Yahoo merely extracted the actual value, they'd have made less.Hard as it is to believe now, the big money then was in banner ads.",
-      "translated": "[待翻译] It was neither of my guesses. The reason Yahoo did..."
+      "translated": "都不是我猜测的原因。雅虎不重视那种能够完全提取流量价值的技术，是因为广告商已经为流量支付了过高的费用。如果雅虎只是提取实际价值，他们赚得反而会更少。现在看来难以置信，但当时的大钱是来自横幅广告。"
     },
     {
       "original": "Advertisers were willing to pay ridiculous amounts for banner ads. So Yahoo's sales force had evolved to exploit this source of revenue. Led by a large and terrifyingly formidable man called Anil Singh, Yahoo's sales guys would fly out to Procter & Gamble and come back with million dollar orders for banner ad impressions.The prices seemed cheap compared to print, which was what advertisers, for lack of any other reference, compared them to.",
-      "translated": "[待翻译] Advertisers were willing to pay ridiculous amounts..."
+      "translated": "广告商愿意为横幅广告支付荒谬的高额费用。因此，雅虎的销售团队逐渐演变，以利用这一收入来源。在一位名叫阿尼尔·辛格的高大且令人畏惧的领导的带领下，雅虎的销售人员会飞往宝洁公司，然后带着价值百万美元的横幅广告展示订单归来。与印刷广告相比，这些价格似乎便宜得多，而广告商由于缺乏其他参照物，通常将横幅广告与印刷广告进行比较。"
     },
     {
       "original": "But they were expensive compared to what they were worth. So these big, dumb companies were a dangerous source of revenue to depend on. But there was another source even more dangerous: other Internet startups.By 1998, Yahoo was the beneficiary of a de facto Ponzi scheme.",
-      "translated": "[待翻译] But they were expensive compared to what they were..."
+      "translated": "但它们的价格相对于其价值来说过于昂贵。因此，这些大型、愚蠢的公司成为依赖的危险收入来源。然而，还有一个更加危险的收入来源：其他互联网初创企业。到1998年，雅虎实际上已成为一个事实上的庞氏骗局的受益者。"
     },
     {
       "original": "Investors were excited about the Internet. One reason they were excited was Yahoo's revenue growth. So they invested in new Internet startups. The startups then used the money to buy ads on Yahoo to get traffic.",
-      "translated": "[待翻译] Investors were excited about the Internet. One rea..."
+      "translated": "投资者对互联网感到兴奋。让他们兴奋的一个原因是雅虎的收入增长。因此，他们投资了新的互联网初创企业。这些初创企业随后利用这笔资金在雅虎购买广告以吸引流量。"
     },
     {
       "original": "Which caused yet more revenue growth for Yahoo, and further convinced investors the Internet was worth investing in. When I realized this one day, sitting in my cubicle, I jumped up like Archimedes in his bathtub, except instead of \"Eureka!\" I was shouting \"Sell!\"Both the Internet startups and the Procter & Gambles were doing brand advertising.",
-      "translated": "[待翻译] Which caused yet more revenue growth for Yahoo, an..."
+      "translated": "这进一步推动了雅虎的收入增长，并更加坚定了投资者对互联网投资的信心。有一天，当我坐在我的隔间里意识到这一点时，我像阿基米德从浴缸里跳出来一样跳了起来，只不过我喊的不是“尤里卡！”而是“卖出！”无论是互联网初创公司还是宝洁这样的大公司都在做品牌广告。"
     },
     {
       "original": "They didn't care about targeting. They just wanted lots of people to see their ads. So traffic became the thing to get at Yahoo. It didn't matter what type. [1]It wasn't just Yahoo. All the search engines were doing it.",
-      "translated": "[待翻译] They didn't care about targeting. They just wanted..."
+      "translated": "他们并不关心目标受众。他们只是希望有大量的人能看到他们的广告。因此，流量成了雅虎追求的目标。流量的类型并不重要。[1]这不仅仅是雅虎。所有的搜索引擎都在这么做。"
     },
     {
       "original": "This was why they were trying to get people to start calling them \"portals\" instead of \"search engines.\" Despite the actual meaning of the word portal, what they meant by it was a site where users would find what they wanted on the site itself, instead of just passing through on their way to other destinations, as they did at a search engine.I remember telling David Filo in late 1998 or early 1999 that Yahoo should buy Google, because I and most of the other programmers in the company were using it instead of Yahoo for search.",
-      "translated": "[待翻译] This was why they were trying to get people to sta..."
+      "translated": "这就是为什么他们试图让人们开始称它们为“门户网站”而不是“搜索引擎”。尽管“门户网站”这个词的实际含义，他们所指的是用户可以在该网站上找到他们想要的内容，而不仅仅是作为通向其他目的地的中转站，就像在搜索引擎上那样。我记得在1998年底或1999年初告诉大卫·菲洛，雅虎应该收购谷歌，因为我和公司里的大多数其他程序员已经用它来代替雅虎进行搜索。"
     },
     {
       "original": "He told me that it wasn't worth worrying about. Search was only 6% of our traffic, and we were growing at 10% a month. It wasn't worth doing better.I didn't say \"But search traffic is worth more than other traffic!\" I said \"Oh, ok.\" Because I didn't realize either how much search traffic was worth.",
-      "translated": "[待翻译] He told me that it wasn't worth worrying about. Se..."
+      "translated": "他告诉我这不值得担心。搜索引擎流量只占我们总流量的6%，而我们每月的增长率为10%。不值得在这方面做得更好。我没有说“但搜索引擎流量的价值高于其他流量！”我只是说“哦，好的。”因为我也没有意识到搜索引擎流量的价值有多大。"
     },
     {
       "original": "I'm not sure even Larry and Sergey did then. If they had, Google presumably wouldn't have expended any effort on enterprise search.If circumstances had been different, the people running Yahoo might have realized sooner how important search was.",
-      "translated": "[待翻译] I'm not sure even Larry and Sergey did then. If th..."
+      "translated": "我甚至不确定拉里和谢尔盖当时是否意识到了这一点。如果他们意识到了，谷歌大概就不会在企业搜索上花费任何精力了。如果情况不同，雅虎的管理层可能会更早意识到搜索的重要性。"
     },
     {
       "original": "But they had the most opaque obstacle in the world between them and the truth: money. As long as customers were writing big checks for banner ads, it was hard to take search seriously. Google didn't have that to distract them.HackersBut Yahoo also had another problem that made it hard to change directions.",
-      "translated": "[待翻译] But they had the most opaque obstacle in the world..."
+      "translated": "但他们之间与真相之间存在着世界上最不透明的障碍：金钱。只要客户愿意为横幅广告支付大笔支票，就很难认真对待搜索。谷歌没有这样的干扰。但雅虎还有另一个问题，使其难以改变方向。"
     },
     {
       "original": "They'd been thrown off balance from the start by their ambivalence about being a technology company.One of the weirdest things about Yahoo when I went to work there was the way they insisted on calling themselves a \"media company.\" If you walked around their offices, it seemed like a software company.",
-      "translated": "[待翻译] They'd been thrown off balance from the start by t..."
+      "translated": "从一开始，他们就因为对自己是否是一家技术公司感到矛盾而失去了平衡。我刚去雅虎工作时，最奇怪的一件事就是他们坚持称自己为“媒体公司”。如果你在他们的办公室里走一圈，看起来更像是一个软件公司。"
     },
     {
       "original": "The cubicles were full of programmers writing code, product managers thinking about feature lists and ship dates, support people (yes, there were actually support people) telling users to restart their browsers, and so on, just like a software company.",
-      "translated": "[待翻译] The cubicles were full of programmers writing code..."
+      "translated": "隔间里充满了编写代码的程序员、思考功能列表和发布日期的产品经理、支持人员（是的，真的有支持人员）告诉用户重启浏览器，等等，就像一家软件公司。"
     },
     {
       "original": "So why did they call themselves a media company?One reason was the way they made money: by selling ads. In 1995 it was hard to imagine a technology company making money that way. Technology companies made money by selling their software to users.",
-      "translated": "[待翻译] So why did they call themselves a media company?On..."
+      "translated": "那么，他们为什么称自己为媒体公司呢？其中一个原因是他们的盈利方式：通过出售广告。1995年，很难想象一家技术公司会通过这种方式赚钱。技术公司是通过向用户销售软件来盈利的。"
     },
     {
       "original": "Media companies sold ads. So they must be a media company.Another big factor was the fear of Microsoft. If anyone at Yahoo considered the idea that they should be a technology company, the next thought would have been that Microsoft would crush them.It's hard for anyone much younger than me to understand the fear Microsoft still inspired in 1995.",
-      "translated": "[待翻译] Media companies sold ads. So they must be a media ..."
+      "translated": "媒体公司出售广告。所以他们一定是媒体公司。另一个重要因素是对微软的恐惧。如果雅虎的任何人曾经考虑过他们应该成为一家科技公司，那么接下来的想法就是微软会将他们碾压。对于比我年轻很多的人来说，很难理解1995年微软仍然令人恐惧的程度。"
     },
     {
       "original": "Imagine a company with several times the power Google has now, but way meaner. It was perfectly reasonable to be afraid of them. Yahoo watched them crush the first hot Internet company, Netscape. It was reasonable to worry that if they tried to be the next Netscape, they'd suffer the same fate.",
-      "translated": "[待翻译] Imagine a company with several times the power Goo..."
+      "translated": "想象一家公司，其力量是现在谷歌的数倍，但更加冷酷无情。害怕他们是非常合理的。雅虎目睹了他们如何碾压第一个热门互联网公司网景。担心如果自己试图成为下一个网景，将会遭受同样的命运，这也是合理的。"
     },
     {
       "original": "How were they to know that Netscape would turn out to be Microsoft's last victim?It would have been a clever move to pretend to be a media company to throw Microsoft off their scent. But unfortunately Yahoo actually tried to be one, sort of.",
-      "translated": "[待翻译] How were they to know that Netscape would turn out..."
+      "translated": "他们怎么可能知道网景会成为微软的最后一个受害者呢？假装成一家媒体公司来让微软放松警惕本来是一个聪明的举动。但不幸的是，雅虎实际上真的尝试过这样做，某种程度上。"
     },
     {
       "original": "Project managers at Yahoo were called \"producers,\" for example, and the different parts of the company were called \"properties.\" But what Yahoo really needed to be was a technology company, and by trying to be something else, they ended up being something that was neither here nor there.",
-      "translated": "[待翻译] Project managers at Yahoo were called \"producers,\"..."
+      "translated": "例如，雅虎的项目经理被称为“制作人”，公司内部的不同部分则被称为“资产”。但雅虎真正需要成为的是一家技术公司，而试图成为其他东西的结果，却使它变成了一个不上不下的存在。"
     },
     {
       "original": "That's why Yahoo as a company has never had a sharply defined identity.The worst consequence of trying to be a media company was that they didn't take programming seriously enough. Microsoft (back in the day), Google, and Facebook have all had hacker-centric cultures.",
-      "translated": "[待翻译] That's why Yahoo as a company has never had a shar..."
+      "translated": "这就是为什么雅虎作为一家公司从未有过明确的身份定位。试图成为一家媒体公司的最糟糕后果是，他们没有足够重视编程。微软（当年）、谷歌和脸书都有以黑客为中心的文化。"
     },
     {
       "original": "But Yahoo treated programming as a commodity. At Yahoo, user-facing software was controlled by product managers and designers. The job of programmers was just to take the work of the product managers and designers the final step, by translating it into code.One obvious result of this practice was that when Yahoo built things, they often weren't very good.",
-      "translated": "[待翻译] But Yahoo treated programming as a commodity. At Y..."
+      "translated": "但雅虎将编程视为一种商品。在雅虎，面向用户的产品由产品经理和设计师控制。程序员的工作仅仅是将产品经理和设计师的工作最后一步转化为代码。这种做法的一个明显结果是，当雅虎开发产品时，它们往往质量不高。"
     },
     {
       "original": "But that wasn't the worst problem. The worst problem was that they hired bad programmers.Microsoft (back in the day), Google, and Facebook have all been obsessed with hiring the best programmers. Yahoo wasn't.",
-      "translated": "[待翻译] But that wasn't the worst problem. The worst probl..."
+      "translated": "但那还不是最严重的问题。最严重的问题是他们雇佣了糟糕的程序员。微软（当时）、谷歌和脸书都热衷于招聘最优秀的程序员。雅虎却没有。"
     },
     {
       "original": "They preferred good programmers to bad ones, but they didn't have the kind of single-minded, almost obnoxiously elitist focus on hiring the smartest people that the big winners have had. And when you consider how much competition there was for programmers when they were hiring, during the Bubble, it's not surprising that the quality of their programmers was uneven.In technology, once you have bad programmers, you're doomed.",
-      "translated": "[待翻译] They preferred good programmers to bad ones, but t..."
+      "translated": "他们更喜欢优秀的程序员而不是糟糕的程序员，但他们并没有像那些大赢家那样，单方面地、近乎傲慢地专注于招聘最聪明的人。考虑到在招聘时正值互联网泡沫期间，对程序员的竞争有多么激烈，他们程序员的质量参差不齐也就不足为奇了。在技术行业，一旦有了糟糕的程序员，你就注定要失败。"
     },
     {
       "original": "I can't think of an instance where a company has sunk into technical mediocrity and recovered. Good programmers want to work with other good programmers. So once the quality of programmers at your company starts to drop, you enter a death spiral from which there is no recovery.",
-      "translated": "[待翻译] I can't think of an instance where a company has s..."
+      "translated": "我想不出有哪家公司在技术上陷入平庸后还能重新振作的例子。优秀的程序员都希望和其他优秀的程序员一起工作。因此，一旦你公司的程序员素质开始下滑，你就会陷入一个无法挽回的恶性循环。"
     },
     {
       "original": "[2]At Yahoo this death spiral started early. If there was ever a time when Yahoo was a Google-style talent magnet, it was over by the time I got there in 1998.The company felt prematurely old. Most technology companies eventually get taken over by suits and middle managers.",
-      "translated": "[待翻译] [2]At Yahoo this death spiral started early. If th..."
+      "translated": "在雅虎，这种衰落的螺旋很早就开始了。如果说雅虎曾经有过像谷歌那样吸引人才的时期，那么到1998年我加入时，那个时期已经结束了。公司给人一种未老先衰的感觉。大多数科技公司最终都会被西装革履的高管和中层管理人员接管。"
     },
     {
       "original": "At Yahoo it felt as if they'd deliberately accelerated this process. They didn't want to be a bunch of hackers. They wanted to be suits. A media company should be run by suits.The first time I visited Google, they had about 500 people, the same number Yahoo had when I went to work there.",
-      "translated": "[待翻译] At Yahoo it felt as if they'd deliberately acceler..."
+      "translated": "在雅虎，感觉他们有意加速了这一过程。他们不想成为一群黑客。他们想成为西装革履的商人。一家媒体公司应该由西装革履的商人来管理。我第一次访问谷歌时，他们大约有500人，这个数字和我刚开始在雅虎工作时的员工数相同。"
     },
     {
       "original": "But boy did things seem different. It was still very much a hacker-centric culture. I remember talking to some programmers in the cafeteria about the problem of gaming search results (now known as SEO), and they asked \"what should we do?\" Programmers at Yahoo wouldn't have asked that.",
-      "translated": "[待翻译] But boy did things seem different. It was still ve..."
+      "translated": "但情况看起来确实不同了。依然非常是一个以黑客为中心的文化。我记得在食堂和一些程序员讨论关于游戏搜索结果的问题（现在称为SEO），他们问：“我们应该怎么办？” 雅虎的程序员是不会这样问的。"
     },
     {
       "original": "Theirs was not to reason why; theirs was to build what product managers spec'd. I remember coming away from Google thinking \"Wow, it's still a startup.\"There's not much we can learn from Yahoo's first fatal flaw.",
-      "translated": "[待翻译] Theirs was not to reason why; theirs was to build ..."
+      "translated": "他们的任务不是质疑原因；他们的任务是按照产品经理的规格构建产品。我还记得从谷歌出来时在想“哇，它仍然像一家初创公司。”我们从雅虎的第一个致命错误中能学到的东西并不多。"
     },
     {
       "original": "It's probably too much to hope any company could avoid being damaged by depending on a bogus source of revenue. But startups can learn an important lesson from the second one. In the software business, you can't afford not to have a hacker-centric culture.Probably the most impressive commitment I've heard to having a hacker-centric culture came from Mark Zuckerberg, when he spoke at Startup School in 2007.",
-      "translated": "[待翻译] It's probably too much to hope any company could a..."
+      "translated": "或许希望任何公司都能避免因依赖虚假收入来源而受损，这要求过高了。但初创公司可以从第二个例子中学到重要的一课。在软件行业，你不能没有以黑客为中心的文化。我所听过的对以黑客为中心文化最令人印象深刻的承诺，大概就是马克·扎克伯格在2007年创业学校演讲时所表达的。"
     },
     {
       "original": "He said that in the early days Facebook made a point of hiring programmers even for jobs that would not ordinarily consist of programming, like HR and marketing.So which companies need to have a hacker-centric culture?",
-      "translated": "[待翻译] He said that in the early days Facebook made a poi..."
+      "translated": "他说，在早期，Facebook 即使对于通常不涉及编程的工作，比如人力资源和市场营销，也会特意招聘程序员。那么，哪些公司需要拥有以黑客为中心的文化呢？"
     },
     {
       "original": "Which companies are \"in the software business\" in this respect? As Yahoo discovered, the area covered by this rule is bigger than most people realize. The answer is: any company that needs to have good software.Why would great programmers want to work for a company that didn't have a hacker-centric culture, as long as there were others that did?",
-      "translated": "[待翻译] Which companies are \"in the software business\" in ..."
+      "translated": "哪些公司可以被认为是在“软件行业”中？正如雅虎所发现的，这个规则的适用范围比大多数人想象的要广。答案是：任何需要拥有优质软件的公司。只要还有其他公司具备以黑客为中心的文化，优秀的程序员为什么愿意为没有这种文化的公司工作呢？"
     },
     {
       "original": "I can imagine two reasons: if they were paid a huge amount, or if the domain was interesting and none of the companies in it were hacker-centric. Otherwise you can't attract good programmers to work in a suit-centric culture.",
-      "translated": "[待翻译] I can imagine two reasons: if they were paid a hug..."
+      "translated": "我可以想象两个原因：一是如果他们得到了巨额报酬，二是如果这个领域很有趣，而且其中没有一家公司是以黑客为中心的。否则，你无法吸引优秀的程序员到以西装文化为中心的公司工作。"
     },
     {
       "original": "And without good programmers you won't get good software, no matter how many people you put on a task, or how many procedures you establish to ensure \"quality.\"Hacker culture often seems kind of irresponsible.",
-      "translated": "[待翻译] And without good programmers you won't get good so..."
+      "translated": "没有优秀的程序员，你就不会得到好的软件，无论你在任务上投入多少人力，或者建立多少程序来确保“质量”。黑客文化常常显得有些不负责任。"
     },
     {
       "original": "That's why people proposing to destroy it use phrases like \"adult supervision.\" That was the phrase they used at Yahoo. But there are worse things than seeming irresponsible. Losing, for example. Notes[1] The closest we got to targeting when I was there was when we created pets.yahoo.com in order to provoke a bidding war between 3 pet supply startups for the spot as top sponsor.[2] In theory you could beat the death spiral by buying good programmers instead of hiring them.",
-      "translated": "[待翻译] That's why people proposing to destroy it use phra..."
+      "translated": "这就是为什么提议摧毁它的人会使用“成人监管”这样的短语。在雅虎，他们就是这么用的。但比显得不负责任更糟糕的事情是失败。注[1] 当我还在那里时，我们最接近定向的做法是创建了pets.yahoo.com，目的是在三家宠物用品创业公司之间引发竞标大战，争夺顶级赞助商的位置。[2] 从理论上讲，你可以通过购买优秀的程序员而不是雇佣他们来避免死亡螺旋。"
     },
     {
       "original": "You can get programmers who would never have come to you as employees by buying their startups. But so far the only companies smart enough to do this are companies smart enough not to need to.Thanks to Trevor Blackwell, Jessica Livingston, and Geoff Ralston for reading drafts of this.",
-      "translated": "[待翻译] You can get programmers who would never have come ..."
+      "translated": "你可以通过收购他们的初创公司来获得那些永远不会作为员工加入你的程序员。但到目前为止，只有足够聪明的公司才会这样做，而这些公司又足够聪明，不需要这样做。感谢特雷弗·布莱克威尔、杰西卡·利文斯顿和杰弗里·拉尔斯顿阅读本文的草稿。"
     }
-  ]
+  ],
+  "translation_completed": "2025-07-28T15:16:46.731642",
+  "translation_stats": {
+    "total_paragraphs": 40,
+    "success_count": 40,
+    "success_rate": "100.0%"
+  }
 }

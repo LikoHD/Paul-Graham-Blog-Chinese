@@ -126,443 +126,449 @@
   "paragraphs": [
     {
       "original": "Want to start a startup? Get funded by Y Combinator. May 2002 \"We were after the C++ programmers. We managed to drag a lot of them about halfway to Lisp.\"- Guy Steele, co-author of the Java spec In the software business there is an ongoing struggle between the pointy-headed academics, and another equally formidable force, the pointy-haired bosses.",
-      "translated": "[待翻译] Want to start a startup? Get funded by Y Combinato..."
+      "translated": "想创业吗？那就争取得到 Y Combinator 的资助吧。2002 年 5 月 “我们的目标是 C++ 程序员。我们设法让他们中的一大部分走到了 Lisp 的一半路程。” —— Guy Steele，《Java 规范》的合著者 在软件行业中，一直存在着尖顶学术派和同样强大的尖发上司之间的较量。"
     },
     {
       "original": "Everyone knows who the pointy-haired boss is, right? I think most people in the technology world not only recognize this cartoon character, but know the actual person in their company that he is modelled upon.The pointy-haired boss miraculously combines two qualities that are common by themselves, but rarely seen together: (a) he knows nothing whatsoever about technology, and (b) he has very strong opinions about it.Suppose, for example, you need to write a piece of software.",
-      "translated": "[待翻译] Everyone knows who the pointy-haired boss is, righ..."
+      "translated": "大家都知道尖头老板是谁，对吧？我想科技界大多数人不仅认识这个卡通人物，还知道他们公司里那个以此为原型的真实人物。尖头老板神奇地结合了两种很常见但很少同时出现在一个人身上的特质：（a）他对技术一无所知，（b）但他对此有着非常强烈的意见。例如，假设你需要编写一段软件。"
     },
     {
       "original": "The pointy-haired boss has no idea how this software has to work, and can't tell one programming language from another, and yet he knows what language you should write it in. Exactly. He thinks you should write it in Java.Why does he think this?",
-      "translated": "[待翻译] The pointy-haired boss has no idea how this softwa..."
+      "translated": "这位尖头发的老板根本不知道这个软件该怎么运作，也无法区分不同的编程语言，然而他却知道你应该用哪种语言来编写。没错，他认为你应该用Java来编写。他为什么会这么想？"
     },
     {
       "original": "Let's take a look inside the brain of the pointy-haired boss. What he's thinking is something like this. Java is a standard. I know it must be, because I read about it in the press all the time. Since it is a standard, I won't get in trouble for using it.",
-      "translated": "[待翻译] Let's take a look inside the brain of the pointy-h..."
+      "translated": "让我们看看那位尖头老板的脑子里在想什么。他的想法大致是这样的：Java 是一个标准。我知道这一定是个标准，因为我经常在新闻上看到。既然它是标准，那我用它就不会有麻烦。"
     },
     {
       "original": "And that also means there will always be lots of Java programmers, so if the programmers working for me now quit, as programmers working for me mysteriously always do, I can easily replace them.Well, this doesn't sound that unreasonable.",
-      "translated": "[待翻译] And that also means there will always be lots of J..."
+      "translated": "这也意味着总是会有大量的Java程序员，所以如果我现在手下的程序员离职了，而他们总是神秘地离职，我可以很容易地找到替代者。好吧，这听起来也不太不合理。"
     },
     {
       "original": "But it's all based on one unspoken assumption, and that assumption turns out to be false. The pointy-haired boss believes that all programming languages are pretty much equivalent. If that were true, he would be right on target.",
-      "translated": "[待翻译] But it's all based on one unspoken assumption, and..."
+      "translated": "但这一切都基于一个未明言的假设，而这个假设被证明是错误的。尖头老板认为所有编程语言基本上是等价的。如果这是真的，他的观点就完全正确了。"
     },
     {
       "original": "If languages are all equivalent, sure, use whatever language everyone else is using.But all languages are not equivalent, and I think I can prove this to you without even getting into the differences between them.",
-      "translated": "[待翻译] If languages are all equivalent, sure, use whateve..."
+      "translated": "如果所有语言都是等价的，那当然，使用大家都使用的语言就好。但所有语言并非等价，我认为即使不讨论它们之间的差异，我也可以证明这一点。"
     },
     {
       "original": "If you asked the pointy-haired boss in 1992 what language software should be written in, he would have answered with as little hesitation as he does today. Software should be written in C++. But if languages are all equivalent, why should the pointy-haired boss's opinion ever change?",
-      "translated": "[待翻译] If you asked the pointy-haired boss in 1992 what l..."
+      "translated": "如果你在1992年问那个尖头老板软件应该用什么语言编写，他会毫不迟疑地给出和今天一样的答案。软件应该用C++编写。但如果所有语言都是等价的，为什么尖头老板的观点会改变呢？"
     },
     {
       "original": "In fact, why should the developers of Java have even bothered to create a new language?Presumably, if you create a new language, it's because you think it's better in some way than what people already had.",
-      "translated": "[待翻译] In fact, why should the developers of Java have ev..."
+      "translated": "事实上，Java 的开发者为什么要费心去创造一种新语言呢？显然，如果你要创造一种新语言，那是因为你认为它在某些方面比已有的语言更好。"
     },
     {
       "original": "And in fact, Gosling makes it clear in the first Java white paper that Java was designed to fix some problems with C++. So there you have it: languages are not all equivalent. If you follow the trail through the pointy-haired boss's brain to Java and then back through Java's history to its origins, you end up holding an idea that contradicts the assumption you started with.So, who's right?",
-      "translated": "[待翻译] And in fact, Gosling makes it clear in the first J..."
+      "translated": "实际上，戈斯林在第一篇Java白皮书中明确指出，Java的设计是为了修正C++中的一些问题。所以，语言并非都是等价的。如果你沿着这条线索，从那位尖头老板的大脑中追溯到Java，再通过Java的历史回到它的起源，最终你会得到一个与你开始时的假设相矛盾的观点。那么，谁是对的呢？"
     },
     {
       "original": "James Gosling, or the pointy-haired boss? Not surprisingly, Gosling is right. Some languages are better, for certain problems, than others. And you know, that raises some interesting questions. Java was designed to be better, for certain problems, than C++.",
-      "translated": "[待翻译] James Gosling, or the pointy-haired boss? Not surp..."
+      "translated": "詹姆斯·高斯林，还是那个尖头老板？不出所料，高斯林是正确的。某些语言在解决特定问题时比其他语言更好。你知道，这引发了一些有趣的问题。Java 被设计成在解决某些问题时比 C++ 更好。"
     },
     {
       "original": "What problems? When is Java better and when is C++? Are there situations where other languages are better than either of them?Once you start considering this question, you have opened a real can of worms.",
-      "translated": "[待翻译] What problems? When is Java better and when is C++..."
+      "translated": "什么问题？Java 在什么时候更好，什么时候 C++ 更好？是否存在其他语言在这两种语言之上更有优势的情况？一旦你开始考虑这个问题，你就打开了一罐真正的蠕虫。"
     },
     {
       "original": "If the pointy-haired boss had to think about the problem in its full complexity, it would make his brain explode. As long as he considers all languages equivalent, all he has to do is choose the one that seems to have the most momentum, and since that is more a question of fashion than technology, even he can probably get the right answer.",
-      "translated": "[待翻译] If the pointy-haired boss had to think about the p..."
+      "translated": "如果尖头老板不得不全面思考这个问题，他的大脑可能会爆炸。只要他认为所有语言都是等价的，他只需要选择看起来势头最猛的一种，而既然这更多是时尚问题而非技术问题，即使是他也可能做出正确的选择。"
     },
     {
       "original": "But if languages vary, he suddenly has to solve two simultaneous equations, trying to find an optimal balance between two things he knows nothing about: the relative suitability of the twenty or so leading languages for the problem he needs to solve, and the odds of finding programmers, libraries, etc.",
-      "translated": "[待翻译] But if languages vary, he suddenly has to solve tw..."
+      "translated": "但如果语言不同，他突然需要解决两个同时存在的问题，试图在他一无所知的两件事之间找到最佳平衡：大约二十种主要语言对于他需要解决的问题的相对适用性，以及找到程序员、库等资源的可能性。"
     },
     {
       "original": "for each. If that's what's on the other side of the door, it is no surprise that the pointy-haired boss doesn't want to open it.The disadvantage of believing that all programming languages are equivalent is that it's not true.",
-      "translated": "[待翻译] for each. If that's what's on the other side of th..."
+      "translated": "对于每个。如果门的另一边就是这个样子，尖头老板不想打开它也就不足为奇了。认为所有编程语言都等价的缺点是，这种观点并不正确。"
     },
     {
       "original": "But the advantage is that it makes your life a lot simpler. And I think that's the main reason the idea is so widespread. It is a comfortable idea.We know that Java must be pretty good, because it is the cool, new programming language.",
-      "translated": "[待翻译] But the advantage is that it makes your life a lot..."
+      "translated": "但优点是它让你的生活简单很多。我认为这是这个想法如此普及的主要原因。这是一个令人舒适的想法。我们知道Java一定很好，因为它是一种酷炫的新编程语言。"
     },
     {
       "original": "Or is it? If you look at the world of programming languages from a distance, it looks like Java is the latest thing. (From far enough away, all you can see is the large, flashing billboard paid for by Sun.) But if you look at this world up close, you find that there are degrees of coolness.",
-      "translated": "[待翻译] Or is it? If you look at the world of programming ..."
+      "translated": "或者不是这样？如果你从远处观察编程语言的世界，会觉得Java是最新的东西。（从足够远的地方看，你只能看到Sun公司付费的大闪广告牌。）但如果你近距离观察这个世界，你会发现其中还有不同的酷炫程度。"
     },
     {
       "original": "Within the hacker subculture, there is another language called Perl that is considered a lot cooler than Java. Slashdot, for example, is generated by Perl. I don't think you would find those guys using Java Server Pages.",
-      "translated": "[待翻译] Within the hacker subculture, there is another lan..."
+      "translated": "在黑客亚文化中，有一种语言叫做Perl，被认为比Java酷多了。比如，Slashdot就是用Perl生成的。我想你不会看到那些人使用Java服务器页面。"
     },
     {
       "original": "But there is another, newer language, called Python, whose users tend to look down on Perl, and more waiting in the wings.If you look at these languages in order, Java, Perl, Python, you notice an interesting pattern.",
-      "translated": "[待翻译] But there is another, newer language, called Pytho..."
+      "translated": "但还有一种较新的语言，名为Python，其用户往往对Perl不屑一顾，而且还有更多的语言在等待着登场。如果你按顺序考察这些语言，Java、Perl、Python，你会发现一个有趣的模式。"
     },
     {
       "original": "At least, you notice this pattern if you are a Lisp hacker. Each one is progressively more like Lisp. Python copies even features that many Lisp hackers consider to be mistakes. You could translate simple Lisp programs into Python line for line.",
-      "translated": "[待翻译] At least, you notice this pattern if you are a Lis..."
+      "translated": "至少，如果你是一个 Lisp 程序员，你会注意到这种模式。每一种语言都越来越像 Lisp。Python 甚至复制了许多 Lisp 程序员认为是错误的特性。你可以将简单的 Lisp 程序逐行翻译成 Python。"
     },
     {
       "original": "It's 2002, and programming languages have almost caught up with 1958.Catching Up with MathWhat I mean is that Lisp was first discovered by John McCarthy in 1958, and popular programming languages are only now catching up with the ideas he developed then.Now, how could that be true?",
-      "translated": "[待翻译] It's 2002, and programming languages have almost c..."
+      "translated": "现在是2002年，编程语言几乎追上了1958年的水平。我的意思是，Lisp 是由约翰·麦卡锡在1958年首次发现的，而流行的编程语言现在才刚刚赶上他当时提出的思想。那么，这怎么可能是真的呢？"
     },
     {
       "original": "Isn't computer technology something that changes very rapidly? I mean, in 1958, computers were refrigerator-sized behemoths with the processing power of a wristwatch. How could any technology that old even be relevant, let alone superior to the latest developments?I'll tell you how.",
-      "translated": "[待翻译] Isn't computer technology something that changes v..."
+      "translated": "计算机技术不正是变化非常迅速的吗？我是说，1958年的时候，计算机还是像冰箱那么大的庞然大物，处理能力却只相当于一块手表。像这样古老的技术怎么可能还有任何相关性，更不用说超越最新的发展了。我来告诉你原因。"
     },
     {
       "original": "It's because Lisp was not really designed to be a programming language, at least not in the sense we mean today. What we mean by a programming language is something we use to tell a computer what to do.",
-      "translated": "[待翻译] It's because Lisp was not really designed to be a ..."
+      "translated": "这是因为Lisp实际上并不是设计为一种编程语言，至少不是我们今天所指的那种编程语言。我们所说的编程语言，是指我们用来告诉计算机该做什么的东西。"
     },
     {
       "original": "McCarthy did eventually intend to develop a programming language in this sense, but the Lisp that we actually ended up with was based on something separate that he did as a theoretical exercise-- an effort to define a more convenient alternative to the Turing Machine.",
-      "translated": "[待翻译] McCarthy did eventually intend to develop a progra..."
+      "translated": "麦卡锡最终确实打算在这个意义上开发一种编程语言，但我们最终得到的Lisp实际上是基于他作为理论练习所做的另一件事——试图定义一种比图灵机更方便的替代方案。"
     },
     {
       "original": "As McCarthy said later, Another way to show that Lisp was neater than Turing machines was to write a universal Lisp function and show that it is briefer and more comprehensible than the description of a universal Turing machine.",
-      "translated": "[待翻译] As McCarthy said later, Another way to show that L..."
+      "translated": "正如麦卡锡后来所说，另一种证明Lisp比图灵机更简洁的方法是编写一个通用的Lisp函数，并展示它比通用图灵机的描述更为简明易懂。"
     },
     {
       "original": "This was the Lisp function eval..., which computes the value of a Lisp expression.... Writing eval required inventing a notation representing Lisp functions as Lisp data, and such a notation was devised for the purposes of the paper with no thought that it would be used to express Lisp programs in practice.",
-      "translated": "[待翻译] This was the Lisp function eval..., which computes..."
+      "translated": "这是Lisp函数eval……，它计算Lisp表达式的值……编写eval需要发明一种表示Lisp函数为Lisp数据的记法，而这种记法是为了论文的目的而设计的，当时并没有考虑到它会被用于实际表达Lisp程序。"
     },
     {
       "original": "What happened next was that, some time in late 1958, Steve Russell, one of McCarthy's grad students, looked at this definition of eval and realized that if he translated it into machine language, the result would be a Lisp interpreter.This was a big surprise at the time.",
-      "translated": "[待翻译] What happened next was that, some time in late 195..."
+      "translated": "接下来发生的是，在1958年末的某个时候，麦卡锡的一名研究生史蒂夫·拉塞尔看到了eval的定义，意识到如果将其翻译成机器语言，结果将是一个Lisp解释器。这在当时是一个很大的惊喜。"
     },
     {
       "original": "Here is what McCarthy said about it later in an interview: Steve Russell said, look, why don't I program this eval..., and I said to him, ho, ho, you're confusing theory with practice, this eval is intended for reading, not for computing.",
-      "translated": "[待翻译] Here is what McCarthy said about it later in an in..."
+      "translated": "这是麦卡锡在后来的一次采访中所说的话：史蒂夫·拉塞尔说，看，为什么我不编写这个 eval…，我对他说，哈哈，你把理论和实践混淆了，这个 eval 是用来阅读的，不是用来计算的。"
     },
     {
       "original": "But he went ahead and did it. That is, he compiled the eval in my paper into [IBM] 704 machine code, fixing bugs, and then advertised this as a Lisp interpreter, which it certainly was. So at that point Lisp had essentially the form that it has today....",
-      "translated": "[待翻译] But he went ahead and did it. That is, he compiled..."
+      "translated": "但他还是做了。也就是说，他把我的论文中的 eval 编译成了 [IBM] 704 机器码，修复了错误，然后将其宣传为一个 Lisp 解释器，这无疑也是。从那时起，Lisp 基本上就具备了它今天的形式。"
     },
     {
       "original": "Suddenly, in a matter of weeks I think, McCarthy found his theoretical exercise transformed into an actual programming language-- and a more powerful one than he had intended.So the short explanation of why this 1950s language is not obsolete is that it was not technology but math, and math doesn't get stale.",
-      "translated": "[待翻译] Suddenly, in a matter of weeks I think, McCarthy f..."
+      "translated": "突然，就在几周的时间里，麦卡锡发现他的理论练习变成了一门真正的编程语言——而且比他预期的更强大。因此，简而言之，这种20世纪50年代的语言之所以没有过时，是因为它不是技术，而是数学，而数学不会过时。"
     },
     {
       "original": "The right thing to compare Lisp to is not 1950s hardware, but, say, the Quicksort algorithm, which was discovered in 1960 and is still the fastest general-purpose sort.There is one other language still surviving from the 1950s, Fortran, and it represents the opposite approach to language design.",
-      "translated": "[待翻译] The right thing to compare Lisp to is not 1950s ha..."
+      "translated": "将Lisp进行比较的应该是像1960年发现的快速排序算法，而不是1950年代的硬件，快速排序至今仍是最快的通用排序算法。1950年代还有一种幸存至今的语言，那就是Fortran，它代表了语言设计的另一种方法。"
     },
     {
       "original": "Lisp was a piece of theory that unexpectedly got turned into a programming language. Fortran was developed intentionally as a programming language, but what we would now consider a very low-level one.Fortran I, the language that was developed in 1956, was a very different animal from present-day Fortran.",
-      "translated": "[待翻译] Lisp was a piece of theory that unexpectedly got t..."
+      "translated": "Lisp 本是一种理论，意外地被转变成了一种编程语言。Fortran 则是有意作为一种编程语言开发的，但按照现在的标准来看，它是一种非常低级别的语言。1956 年开发的 Fortran I 与当今的 Fortran 有着很大的不同。"
     },
     {
       "original": "Fortran I was pretty much assembly language with math. In some ways it was less powerful than more recent assembly languages; there were no subroutines, for example, only branches. Present-day Fortran is now arguably closer to Lisp than to Fortran I.Lisp and Fortran were the trunks of two separate evolutionary trees, one rooted in math and one rooted in machine architecture.",
-      "translated": "[待翻译] Fortran I was pretty much assembly language with m..."
+      "translated": "Fortran I 几乎就是带有数学功能的汇编语言。在某些方面，它甚至不如后来的汇编语言强大；例如，没有子程序，只有跳转。如今的 Fortran 在某种程度上可以说更接近 Lisp 而不是 Fortran I。Lisp 和 Fortran 是两个不同进化树的主干，一个根植于数学，另一个根植于机器架构。"
     },
     {
       "original": "These two trees have been converging ever since. Lisp started out powerful, and over the next twenty years got fast. So-called mainstream languages started out fast, and over the next forty years gradually got more powerful, until now the most advanced of them are fairly close to Lisp.",
-      "translated": "[待翻译] These two trees have been converging ever since. L..."
+      "translated": "这两棵树自那时起就开始趋同。Lisp 一开始就很强大，在接下来的二十年里变得更快。所谓主流语言一开始就很快速，在接下来的四十年里逐渐变得更加强大，直到现在最先进的语言已经相当接近 Lisp。"
     },
     {
       "original": "Close, but they are still missing a few things....What Made Lisp DifferentWhen it was first developed, Lisp embodied nine new ideas. Some of these we now take for granted, others are only seen in more advanced languages, and two are still unique to Lisp.",
-      "translated": "[待翻译] Close, but they are still missing a few things......."
+      "translated": "接近了，但他们还是缺少一些东西……是什么让Lisp与众不同当它最初被开发时，Lisp体现了九个新的理念。其中一些我们现在认为理所当然，一些只在更高级的语言中见到，而有两个至今仍为Lisp独有。"
     },
     {
       "original": "The nine ideas are, in order of their adoption by the mainstream, Conditionals. A conditional is an if-then-else construct. We take these for granted now, but Fortran I didn't have them. It had only a conditional goto closely based on the underlying machine instruction.",
-      "translated": "[待翻译] The nine ideas are, in order of their adoption by ..."
+      "translated": "这九个想法按照被主流采纳的顺序是：条件语句。条件语句是一种如果-那么-否则的结构。我们现在认为这是理所当然的，但在Fortran I中并没有这种结构。它只有基于底层机器指令的条件跳转。"
     },
     {
       "original": "A function type. In Lisp, functions are a data type just like integers or strings. They have a literal representation, can be stored in variables, can be passed as arguments, and so on. Recursion. Lisp was the first programming language to support it.",
-      "translated": "[待翻译] A function type. In Lisp, functions are a data typ..."
+      "translated": "函数类型。在 Lisp 中，函数是一种数据类型，就像整数或字符串一样。它们有字面量表示，可以存储在变量中，可以作为参数传递，等等。递归。Lisp 是第一个支持递归的编程语言。"
     },
     {
       "original": "Dynamic typing. In Lisp, all variables are effectively pointers. Values are what have types, not variables, and assigning or binding variables means copying pointers, not what they point to. Garbage-collection.",
-      "translated": "[待翻译] Dynamic typing. In Lisp, all variables are effecti..."
+      "translated": "动态类型。在 Lisp 中，所有变量实际上都是指针。类型是值所具有的，而不是变量，赋值或绑定变量意味着复制指针，而不是指针所指向的内容。垃圾回收。"
     },
     {
       "original": "Programs composed of expressions. Lisp programs are trees of expressions, each of which returns a value. This is in contrast to Fortran and most succeeding languages, which distinguish between expressions and statements.It was natural to have this distinction in Fortran I because you could not nest statements.",
-      "translated": "[待翻译] Programs composed of expressions. Lisp programs ar..."
+      "translated": "程序由表达式组成。Lisp 程序是表达式的树形结构，每个表达式都会返回一个值。这与 Fortran 和大多数后续语言不同，后者区分表达式和语句。在 Fortran I 中有这种区分是很自然的，因为你不能嵌套语句。"
     },
     {
       "original": "And so while you needed expressions for math to work, there was no point in making anything else return a value, because there could not be anything waiting for it.This limitation went away with the arrival of block-structured languages, but by then it was too late.",
-      "translated": "[待翻译] And so while you needed expressions for math to wo..."
+      "translated": "因此，虽然你需要数学表达式来工作，但没有必要让其他任何东西返回值，因为不会有东西在等待它。这种限制随着块结构语言的出现而消失，但那时已经太晚了。"
     },
     {
       "original": "The distinction between expressions and statements was entrenched. It spread from Fortran into Algol and then to both their descendants. A symbol type. Symbols are effectively pointers to strings stored in a hash table.",
-      "translated": "[待翻译] The distinction between expressions and statements..."
+      "translated": "表达式和语句之间的区别被牢固确立。这一区别从Fortran传播到Algol，然后又影响了它们的后代。符号类型。符号实际上是存储在哈希表中的字符串的指针。"
     },
     {
       "original": "So you can test equality by comparing a pointer, instead of comparing each character. A notation for code using trees of symbols and constants. The whole language there all the time. There is no real distinction between read-time, compile-time, and runtime.",
-      "translated": "[待翻译] So you can test equality by comparing a pointer, i..."
+      "translated": "因此，你可以通过比较指针来测试相等性，而不需要比较每个字符。这是一种使用符号和常量树来表示代码的记法。整个语言始终存在。读取时、编译时和运行时之间没有真正的区别。"
     },
     {
       "original": "You can compile or run code while reading, read or run code while compiling, and read or compile code at runtime.Running code at read-time lets users reprogram Lisp's syntax; running code at compile-time is the basis of macros; compiling at runtime is the basis of Lisp's use as an extension language in programs like Emacs; and reading at runtime enables programs to communicate using s-expressions, an idea recently reinvented as XML.",
-      "translated": "[待翻译] You can compile or run code while reading, read or..."
+      "translated": "你可以在阅读时编译或运行代码，编译时阅读或运行代码，以及在运行时阅读或编译代码。在读取时运行代码使用户能够重新定义Lisp的语法；在编译时运行代码是宏的基础；在运行时编译是Lisp作为扩展语言（如Emacs中）使用的基础；而在运行时读取代码使得程序能够使用s-表达式进行通信，这一想法最近被重新发明为XML。"
     },
     {
       "original": "When Lisp first appeared, these ideas were far removed from ordinary programming practice, which was dictated largely by the hardware available in the late 1950s. Over time, the default language, embodied in a succession of popular languages, has gradually evolved toward Lisp.",
-      "translated": "[待翻译] When Lisp first appeared, these ideas were far rem..."
+      "translated": "Lisp 首次出现时，这些理念与20世纪50年代末期硬件所决定的常规编程实践相去甚远。随着时间的推移，主流语言，即一系列流行语言所体现的语言，逐渐向 Lisp 靠拢。"
     },
     {
       "original": "Ideas 1-5 are now widespread. Number 6 is starting to appear in the mainstream. Python has a form of 7, though there doesn't seem to be any syntax for it.As for number 8, this may be the most interesting of the lot.",
-      "translated": "[待翻译] Ideas 1-5 are now widespread. Number 6 is starting..."
+      "translated": "1-5 的想法现在已经非常普遍。第 6 个开始出现在主流中。Python 有第 7 种形式，但似乎没有任何语法来实现它。至于第 8 个，这可能是其中最有趣的一个。"
     },
     {
       "original": "Ideas 8 and 9 only became part of Lisp by accident, because Steve Russell implemented something McCarthy had never intended to be implemented. And yet these ideas turn out to be responsible for both Lisp's strange appearance and its most distinctive features.",
-      "translated": "[待翻译] Ideas 8 and 9 only became part of Lisp by accident..."
+      "translated": "第8和第9个想法只是偶然间成为了Lisp的一部分，因为Steve Russell实现了一些McCarthy原本并不打算实现的东西。然而，这些想法不仅造就了Lisp独特的外观，还赋予了它最独特的特性。"
     },
     {
       "original": "Lisp looks strange not so much because it has a strange syntax as because it has no syntax; you express programs directly in the parse trees that get built behind the scenes when other languages are parsed, and these trees are made of lists, which are Lisp data structures.Expressing the language in its own data structures turns out to be a very powerful feature.",
-      "translated": "[待翻译] Lisp looks strange not so much because it has a st..."
+      "translated": "Lisp 看起来奇怪，并不是因为它有奇怪的语法，而是因为它几乎没有语法；你在编写程序时直接使用的是在解析其他语言时后台构建的语法树，而这些树是由列表组成的，列表是 Lisp 的数据结构。用它自己的数据结构来表达语言，事实证明是一个非常强大的特性。"
     },
     {
       "original": "Ideas 8 and 9 together mean that you can write programs that write programs. That may sound like a bizarre idea, but it's an everyday thing in Lisp. The most common way to do it is with something called a macro.The term \"macro\" does not mean in Lisp what it means in other languages.",
-      "translated": "[待翻译] Ideas 8 and 9 together mean that you can write pro..."
+      "translated": "第8和第9个观点合起来意味着你可以编写能够生成程序的程序。这听起来可能像是一个奇怪的想法，但在Lisp中，这是日常的事情。最常见的做法是使用一种叫做宏的东西。在Lisp中，“宏”这个术语的含义与其他语言中的不同。"
     },
     {
       "original": "A Lisp macro can be anything from an abbreviation to a compiler for a new language. If you want to really understand Lisp, or just expand your programming horizons, I would learn more about macros.Macros (in the Lisp sense) are still, as far as I know, unique to Lisp.",
-      "translated": "[待翻译] A Lisp macro can be anything from an abbreviation ..."
+      "translated": "Lisp 宏可以是一个简写，也可以是新语言的编译器。如果你想真正理解 Lisp，或者只是拓宽编程视野，我建议你多了解一些宏。据我所知，宏（在 Lisp 的意义上）仍然是 Lisp 独有的。"
     },
     {
       "original": "This is partly because in order to have macros you probably have to make your language look as strange as Lisp. It may also be because if you do add that final increment of power, you can no longer claim to have invented a new language, but only a new dialect of Lisp.I mention this mostly as a joke, but it is quite true.",
-      "translated": "[待翻译] This is partly because in order to have macros you..."
+      "translated": "这 partly 是因为，要想有宏，你可能得让你的语言看起来和 Lisp 一样奇怪。也可能是因为，如果你确实增加了那最后一点威力，你就不能再声称发明了一门新语言，而只能说是 Lisp 的一个新方言。我这么说主要是开个玩笑，但确实如此。"
     },
     {
       "original": "If you define a language that has car, cdr, cons, quote, cond, atom, eq, and a notation for functions expressed as lists, then you can build all the rest of Lisp out of it. That is in fact the defining quality of Lisp: it was in order to make this so that McCarthy gave Lisp the shape it has.Where Languages MatterSo suppose Lisp does represent a kind of limit that mainstream languages are approaching asymptotically-- does that mean you should actually use it to write software?",
-      "translated": "[待翻译] If you define a language that has car, cdr, cons, ..."
+      "translated": "如果你定义了一种包含 car、cdr、cons、quote、cond、atom、eq 以及使用列表表示函数的符号的语言，那么你就可以用它构建出 Lisp 的其余部分。事实上，这就是 Lisp 的定义特性：正是为了达到这一目的，麦卡锡才赋予了 Lisp 如此的形态。所以，假设 Lisp 确实代表了一种主流语言渐近接近的极限——这是否意味着你应该实际使用它来编写软件呢？"
     },
     {
       "original": "How much do you lose by using a less powerful language? Isn't it wiser, sometimes, not to be at the very edge of innovation? And isn't popularity to some extent its own justification? Isn't the pointy-haired boss right, for example, to want to use a language for which he can easily hire programmers?There are, of course, projects where the choice of programming language doesn't matter much.",
-      "translated": "[待翻译] How much do you lose by using a less powerful lang..."
+      "translated": "使用一种功能较弱的语言会损失多少？有时候，不处于创新的最前沿不是更明智吗？而且，某种程度上，流行本身不就是一种合理性吗？例如，尖头发的老板想使用一种容易雇佣程序员的语言，这难道不对吗？当然，有些项目中，编程语言的选择并不那么重要。"
     },
     {
       "original": "As a rule, the more demanding the application, the more leverage you get from using a powerful language. But plenty of projects are not demanding at all. Most programming probably consists of writing little glue programs, and for little glue programs you can use any language that you're already familiar with and that has good libraries for whatever you need to do.",
-      "translated": "[待翻译] As a rule, the more demanding the application, the..."
+      "translated": "一般来说，应用程序的要求越高，使用强大的语言就能获得更多的优势。但许多项目其实并不苛求。大多数编程可能只是编写一些小的粘合程序，而对于这些小程序，你可以使用自己已经熟悉的任何语言，只要它有你需要的功能的良好库即可。"
     },
     {
       "original": "If you just need to feed data from one Windows app to another, sure, use Visual Basic.You can write little glue programs in Lisp too (I use it as a desktop calculator), but the biggest win for languages like Lisp is at the other end of the spectrum, where you need to write sophisticated programs to solve hard problems in the face of fierce competition.",
-      "translated": "[待翻译] If you just need to feed data from one Windows app..."
+      "translated": "如果你只是需要将数据从一个 Windows 应用程序传输到另一个，当然可以使用 Visual Basic。你也可以用 Lisp 编写一些小的粘合程序（我用它作为桌面计算器），但对于像 Lisp 这样的语言来说，最大的优势在于另一端，即你需要编写复杂的程序来解决在激烈竞争中遇到的难题。"
     },
     {
       "original": "A good example is the airline fare search program that ITA Software licenses to Orbitz. These guys entered a market already dominated by two big, entrenched competitors, Travelocity and Expedia, and seem to have just humiliated them technologically.The core of ITA's application is a 200,000 line Common Lisp program that searches many orders of magnitude more possibilities than their competitors, who apparently are still using mainframe-era programming techniques.",
-      "translated": "[待翻译] A good example is the airline fare search program ..."
+      "translated": "一个很好的例子是ITA软件授权给Orbitz的航空票价搜索程序。这家公司在已经由两大巨头Travelocity和Expedia主导的市场中进入，似乎在技术上彻底击败了它们。ITA应用程序的核心是一个20万行的Common Lisp程序，能够搜索比竞争对手多几个数量级的可能性，而这些竞争对手似乎仍在使用大型机时代的编程技术。"
     },
     {
       "original": "(Though ITA is also in a sense using a mainframe-era programming language.) I have never seen any of ITA's code, but according to one of their top hackers they use a lot of macros, and I am not surprised to hear it.Centripetal ForcesI'm not saying there is no cost to using uncommon technologies.",
-      "translated": "[待翻译] (Though ITA is also in a sense using a mainframe-e..."
+      "translated": "（虽然 ITA 在某种意义上也使用了一种大型机时代的编程语言。）我从未见过 ITA 的任何代码，但据他们的一位顶级黑客所说，他们使用了很多宏，对此我并不感到意外。向心力我并不是说使用不常见的技术没有成本。"
     },
     {
       "original": "The pointy-haired boss is not completely mistaken to worry about this. But because he doesn't understand the risks, he tends to magnify them.I can think of three problems that could arise from using less common languages.",
-      "translated": "[待翻译] The pointy-haired boss is not completely mistaken ..."
+      "translated": "尖头老板担心这一点并不是完全没有道理。但由于他不了解风险，往往会夸大这些风险。我可以想到使用不太常见的语言可能会出现三个问题。"
     },
     {
       "original": "Your programs might not work well with programs written in other languages. You might have fewer libraries at your disposal. And you might have trouble hiring programmers.How much of a problem is each of these?",
-      "translated": "[待翻译] Your programs might not work well with programs wr..."
+      "translated": "你的程序可能无法很好地与其他语言编写的程序协同工作。你可能拥有的库较少。并且你可能会在招聘程序员时遇到困难。这些问题各自有多严重？"
     },
     {
       "original": "The importance of the first varies depending on whether you have control over the whole system. If you're writing software that has to run on a remote user's machine on top of a buggy, closed operating system (I mention no names), there may be advantages to writing your application in the same language as the OS.",
-      "translated": "[待翻译] The importance of the first varies depending on wh..."
+      "translated": "重要性的首要方面因你是否掌控整个系统而异。如果你编写的是需要在远程用户的机器上运行的软件，并且该机器上运行的是一个有缺陷且封闭的操作系统（这里不点名），那么用与操作系统相同语言编写你的应用程序可能会有一些优势。"
     },
     {
       "original": "But if you control the whole system and have the source code of all the parts, as ITA presumably does, you can use whatever languages you want. If any incompatibility arises, you can fix it yourself.In server-based applications you can get away with using the most advanced technologies, and I think this is the main cause of what Jonathan Erickson calls the \"programming language renaissance.\" This is why we even hear about new languages like Perl and Python.",
-      "translated": "[待翻译] But if you control the whole system and have the s..."
+      "translated": "但是，如果你控制了整个系统并拥有所有部分的源代码，就像 ITA 据说做的那样，你可以使用任何你想要的语言。如果出现任何不兼容问题，你可以自己修复。在基于服务器的应用程序中，你可以使用最先进的技术，我认为这是 Jonathan Erickson 所说的“编程语言复兴”的主要原因。这就是为什么我们甚至会听到像 Perl 和 Python 这样的新语言。"
     },
     {
       "original": "We're not hearing about these languages because people are using them to write Windows apps, but because people are using them on servers. And as software shifts off the desktop and onto servers (a future even Microsoft seems resigned to), there will be less and less pressure to use middle-of-the-road technologies.As for libraries, their importance also depends on the application.",
-      "translated": "[待翻译] We're not hearing about these languages because pe..."
+      "translated": "我们之所以听到这些语言，不是因为人们用它们来编写Windows应用程序，而是因为人们在服务器上使用它们。随着软件从桌面转移到服务器（就连微软似乎也接受了这一未来趋势），使用中庸技术的压力将会越来越小。至于库，它们的重要性也取决于应用程序。"
     },
     {
       "original": "For less demanding problems, the availability of libraries can outweigh the intrinsic power of the language. Where is the breakeven point? Hard to say exactly, but wherever it is, it is short of anything you'd be likely to call an application.",
-      "translated": "[待翻译] For less demanding problems, the availability of l..."
+      "translated": "对于要求不高的问题，库的可用性可以超过语言本身的强大功能。这个平衡点在哪里？很难确切地说，但无论在哪里，都不会是你可能称之为应用程序的那种程度。"
     },
     {
       "original": "If a company considers itself to be in the software business, and they're writing an application that will be one of their products, then it will probably involve several hackers and take at least six months to write.",
-      "translated": "[待翻译] If a company considers itself to be in the softwar..."
+      "translated": "如果一家公司认为自己从事的是软件业务，并且正在开发一款将成为其产品之一的应用程序，那么这通常会涉及多名程序员，并且至少需要六个月的时间来完成。"
     },
     {
       "original": "In a project of that size, powerful languages probably start to outweigh the convenience of pre-existing libraries.The third worry of the pointy-haired boss, the difficulty of hiring programmers, I think is a red herring.",
-      "translated": "[待翻译] In a project of that size, powerful languages prob..."
+      "translated": "在这样规模的项目中，强大的语言可能会开始超越现有库的便利性。尖头老板的第三个担忧，即招聘程序员的困难，我认为是一个假问题。"
     },
     {
       "original": "How many hackers do you need to hire, after all? Surely by now we all know that software is best developed by teams of less than ten people. And you shouldn't have trouble hiring hackers on that scale for any language anyone has ever heard of.",
-      "translated": "[待翻译] How many hackers do you need to hire, after all? S..."
+      "translated": "毕竟，你需要雇用多少黑客呢？当然，现在我们都知道最好的软件是由不到十人的团队开发的。而且，对于任何人们听说过的编程语言，雇用这样规模的黑客不应该有什么困难。"
     },
     {
       "original": "If you can't find ten Lisp hackers, then your company is probably based in the wrong city for developing software.In fact, choosing a more powerful language probably decreases the size of the team you need, because (a) if you use a more powerful language you probably won't need as many hackers, and (b) hackers who work in more advanced languages are likely to be smarter.I'm not saying that you won't get a lot of pressure to use what are perceived as \"standard\" technologies.",
-      "translated": "[待翻译] If you can't find ten Lisp hackers, then your comp..."
+      "translated": "如果你找不到十个Lisp程序员，那么你的公司可能位于一个不适合开发软件的城市。事实上，选择一种更强大的语言可能会减少你所需要的团队规模，因为（a）如果你使用一种更强大的语言，你可能不需要那么多的程序员，而（b）使用更先进语言的程序员往往更聪明。我不是说你不会面临很大的压力去使用被认为是“标准”的技术。"
     },
     {
       "original": "At Viaweb (now Yahoo Store), we raised some eyebrows among VCs and potential acquirers by using Lisp. But we also raised eyebrows by using generic Intel boxes as servers instead of \"industrial strength\" servers like Suns, for using a then-obscure open-source Unix variant called FreeBSD instead of a real commercial OS like Windows NT, for ignoring a supposed e-commerce standard called SET that no one now even remembers, and so on.You can't let the suits make technical decisions for you.",
-      "translated": "[待翻译] At Viaweb (now Yahoo Store), we raised some eyebro..."
+      "translated": "在 Viaweb（现为 Yahoo Store），我们因为使用 Lisp 而让一些风险投资家和潜在收购者感到惊讶。但我们也因为使用普通的英特尔服务器而不是像 Sun 这样的“工业级”服务器，使用当时鲜为人知的开源 Unix 变体 FreeBSD 而不是像 Windows NT 这样的真正商业操作系统，以及忽略了一个现在几乎没人记得的所谓电子商务标准 SET 等等，而让一些人感到惊讶。你不能让那些不懂技术的人为你做技术决策。"
     },
     {
       "original": "Did it alarm some potential acquirers that we used Lisp? Some, slightly, but if we hadn't used Lisp, we wouldn't have been able to write the software that made them want to buy us. What seemed like an anomaly to them was in fact cause and effect.If you start a startup, don't design your product to please VCs or potential acquirers.",
-      "translated": "[待翻译] Did it alarm some potential acquirers that we used..."
+      "translated": "我们使用Lisp是否让一些潜在的收购者感到担忧？确实有少数人稍微担心了一下，但如果我们不使用Lisp，就无法编写出让他们想要收购我们的软件。在他们看来似乎是异常的情况，实际上是因果关系。如果你要创办一家初创公司，不要为了取悦风险投资家或潜在的收购者而设计你的产品。"
     },
     {
       "original": "Design your product to please the users. If you win the users, everything else will follow. And if you don't, no one will care how comfortingly orthodox your technology choices were.The Cost of Being AverageHow much do you lose by using a less powerful language?",
-      "translated": "[待翻译] Design your product to please the users. If you wi..."
+      "translated": "设计你的产品以取悦用户。如果你赢得了用户，其他一切都会随之而来。而如果你没有赢得用户，没有人会在意你的技术选择有多么让人安心地遵循传统。平庸的代价使用一种功能较弱的语言会让你损失多少？"
     },
     {
       "original": "There is actually some data out there about that.The most convenient measure of power is probably code size. The point of high-level languages is to give you bigger abstractions-- bigger bricks, as it were, so you don't need as many to build a wall of a given size.",
-      "translated": "[待翻译] There is actually some data out there about that.T..."
+      "translated": "实际上关于这一点有一些数据。最方便的衡量标准可能是代码量。高级语言的目的是给你提供更大的抽象——可以说是更大的砖块，这样你就不需要那么多的砖块来建造一堵特定大小的墙。"
     },
     {
       "original": "So the more powerful the language, the shorter the program (not simply in characters, of course, but in distinct elements).How does a more powerful language enable you to write shorter programs? One technique you can use, if the language will let you, is something called bottom-up programming.",
-      "translated": "[待翻译] So the more powerful the language, the shorter the..."
+      "translated": "因此，语言越强大，程序就越短（当然，不是指字符数量，而是指不同的元素）。更强大的语言是如何让你编写更短的程序的？如果你所使用的语言允许，可以采用一种称为自底向上编程的技术。"
     },
     {
       "original": "Instead of simply writing your application in the base language, you build on top of the base language a language for writing programs like yours, then write your program in it. The combined code can be much shorter than if you had written your whole program in the base language-- indeed, this is how most compression algorithms work.",
-      "translated": "[待翻译] Instead of simply writing your application in the ..."
+      "translated": "与其直接用基础语言编写应用程序，你可以在基础语言之上构建一种用于编写类似程序的语言，然后用这种语言来编写你的程序。这样组合后的代码可能会比你完全用基础语言编写整个程序时短得多——事实上，这正是大多数压缩算法的工作原理。"
     },
     {
       "original": "A bottom-up program should be easier to modify as well, because in many cases the language layer won't have to change at all.Code size is important, because the time it takes to write a program depends mostly on its length.",
-      "translated": "[待翻译] A bottom-up program should be easier to modify as ..."
+      "translated": "自下而上的程序也应该更容易修改，因为在许多情况下，语言层根本不需要改变。代码量很重要，因为编写程序所需的时间主要取决于其长度。"
     },
     {
       "original": "If your program would be three times as long in another language, it will take three times as long to write-- and you can't get around this by hiring more people, because beyond a certain size new hires are actually a net lose.",
-      "translated": "[待翻译] If your program would be three times as long in an..."
+      "translated": "如果你的程序用另一种语言编写会长三倍，那么编写它所需的时间也会是三倍——而且你不能通过雇佣更多的人来解决这个问题，因为超过一定规模后，新招聘的人员实际上会成为负担。"
     },
     {
       "original": "Fred Brooks described this phenomenon in his famous book The Mythical Man-Month, and everything I've seen has tended to confirm what he said.So how much shorter are your programs if you write them in Lisp?",
-      "translated": "[待翻译] Fred Brooks described this phenomenon in his famou..."
+      "translated": "Fred Brooks 在他的著名著作《人月神话》中描述了这一现象，我所见到的一切都倾向于证实他的说法。那么，如果你用 Lisp 编写程序，程序能缩短多少呢？"
     },
     {
       "original": "Most of the numbers I've heard for Lisp versus C, for example, have been around 7-10x. But a recent article about ITA in New Architect magazine said that \"one line of Lisp can replace 20 lines of C,\" and since this article was full of quotes from ITA's president, I assume they got this number from ITA.",
-      "translated": "[待翻译] Most of the numbers I've heard for Lisp versus C, ..."
+      "translated": "我听到的关于Lisp与C的大多数数字大约是7到10倍。但最近《New Architect》杂志上关于ITA的一篇文章说，“一行Lisp代码可以替代20行C代码”，由于这篇文章中引用了大量ITA总裁的话，我假设这个数字来自ITA。"
     },
     {
       "original": "If so then we can put some faith in it; ITA's software includes a lot of C and C++ as well as Lisp, so they are speaking from experience.My guess is that these multiples aren't even constant. I think they increase when you face harder problems and also when you have smarter programmers.",
-      "translated": "[待翻译] If so then we can put some faith in it; ITA's soft..."
+      "translated": "如果是这样，我们就可以对其抱有信心；ITA的软件中包含了大量C和C++以及Lisp，所以他们是从实际经验出发来说的。我认为这些倍数甚至不是常数。我认为，当你面对更难的问题时，以及当你拥有更聪明的程序员时，这些倍数会增加。"
     },
     {
       "original": "A really good hacker can squeeze more out of better tools.As one data point on the curve, at any rate, if you were to compete with ITA and chose to write your software in C, they would be able to develop software twenty times faster than you.",
-      "translated": "[待翻译] A really good hacker can squeeze more out of bette..."
+      "translated": "一个真正优秀的黑客可以从更好的工具中榨取出更多潜力。至少从一个数据点来看，如果你要与ITA竞争，并选择用C语言编写你的软件，他们能够比你快二十倍地开发软件。"
     },
     {
       "original": "If you spent a year on a new feature, they'd be able to duplicate it in less than three weeks. Whereas if they spent just three months developing something new, it would be five years before you had it too.And you know what?",
-      "translated": "[待翻译] If you spent a year on a new feature, they'd be ab..."
+      "translated": "如果你花了一年时间开发一个新功能，他们可以在不到三周的时间内复制出来。而如果他们只花了三个月开发了一些新的东西，那么你可能要五年后才能做到同样的事情。你知道吗？"
     },
     {
       "original": "That's the best-case scenario. When you talk about code-size ratios, you're implicitly assuming that you can actually write the program in the weaker language. But in fact there are limits on what programmers can do.",
-      "translated": "[待翻译] That's the best-case scenario. When you talk about..."
+      "translated": "这是最理想的情况。当你谈到代码量比例时，你实际上是在假设可以用较弱的语言编写程序。但事实上，程序员的能力是有局限性的。"
     },
     {
       "original": "If you're trying to solve a hard problem with a language that's too low-level, you reach a point where there is just too much to keep in your head at once.So when I say it would take ITA's imaginary competitor five years to duplicate something ITA could write in Lisp in three months, I mean five years if nothing goes wrong.",
-      "translated": "[待翻译] If you're trying to solve a hard problem with a la..."
+      "translated": "如果你试图用一种层次过低的语言来解决一个难题，你会到达一个点，那时你将无法同时在脑海中处理过多的内容。所以，当我说ITA的假想竞争对手需要五年时间来复制ITA用Lisp在三个月内就能完成的东西时，我的意思是，如果一切顺利的话，也需要五年。"
     },
     {
       "original": "In fact, the way things work in most companies, any development project that would take five years is likely never to get finished at all.I admit this is an extreme case. ITA's hackers seem to be unusually smart, and C is a pretty low-level language.",
-      "translated": "[待翻译] In fact, the way things work in most companies, an..."
+      "translated": "事实上，大多数公司的情况是，任何需要五年时间的开发项目很可能根本就完不成。我承认这是一个极端的例子。ITA的程序员似乎特别聪明，而C是一种相当底层的语言。"
     },
     {
       "original": "But in a competitive market, even a differential of two or three to one would be enough to guarantee that you'd always be behind.A RecipeThis is the kind of possibility that the pointy-haired boss doesn't even want to think about.",
-      "translated": "[待翻译] But in a competitive market, even a differential o..."
+      "translated": "但在竞争激烈的市场中，即使是一两倍的差距也足以确保你始终落后。这种可能性是那位尖头老板连想都不愿意去想的。"
     },
     {
       "original": "And so most of them don't. Because, you know, when it comes down to it, the pointy-haired boss doesn't mind if his company gets their ass kicked, so long as no one can prove it's his fault. The safest plan for him personally is to stick close to the center of the herd.Within large organizations, the phrase used to describe this approach is \"industry best practice.\" Its purpose is to shield the pointy-haired boss from responsibility: if he chooses something that is \"industry best practice,\" and the company loses, he can't be blamed.",
-      "translated": "[待翻译] And so most of them don't. Because, you know, when..."
+      "translated": "因此，大多数人都不会这么做。因为，你知道，归根结底，尖头老板并不介意他的公司被人打得落花流水，只要没有人能证明这是他的错。对他个人来说，最安全的策略是紧紧跟随群体的中心。在大型组织中，用来描述这种做法的术语是“行业最佳实践”。其目的是保护尖头老板免于承担责任：如果他选择了“行业最佳实践”的东西，而公司失败了，他就不会被问责。"
     },
     {
       "original": "He didn't choose, the industry did.I believe this term was originally used to describe accounting methods and so on. What it means, roughly, is don't do anything weird. And in accounting that's probably a good idea.",
-      "translated": "[待翻译] He didn't choose, the industry did.I believe this ..."
+      "translated": "他不是自己选择的，而是行业选择了他。我相信这个术语最初是用来描述会计方法等的。它的大致意思是，不要做任何奇怪的事情。而在会计行业中，这样做可能是明智的。"
     },
     {
       "original": "The terms \"cutting-edge\" and \"accounting\" do not sound good together. But when you import this criterion into decisions about technology, you start to get the wrong answers.Technology often should be cutting-edge.",
-      "translated": "[待翻译] The terms \"cutting-edge\" and \"accounting\" do not s..."
+      "translated": "“尖端”和“会计”这两个词听起来并不搭调。但当你将这一标准引入技术决策时，就开始得到错误的答案。技术往往应该是尖端的。"
     },
     {
       "original": "In programming languages, as Erann Gat has pointed out, what \"industry best practice\" actually gets you is not the best, but merely the average. When a decision causes you to develop software at a fraction of the rate of more aggressive competitors, \"best practice\" is a misnomer.",
-      "translated": "[待翻译] In programming languages, as Erann Gat has pointed..."
+      "translated": "在编程语言中，正如埃兰·加特所指出的，所谓的“行业最佳实践”实际上给你带来的不是最好的，而只是平均水平。当一个决定导致你以远低于更具侵略性竞争对手的速度开发软件时，“最佳实践”就成了一个误称。"
     },
     {
       "original": "So here we have two pieces of information that I think are very valuable. In fact, I know it from my own experience. Number 1, languages vary in power. Number 2, most managers deliberately ignore this.",
-      "translated": "[待翻译] So here we have two pieces of information that I t..."
+      "translated": "所以我们这里有两条我认为非常有价值的信息。事实上，这些是我从个人经验中知道的。第一，语言的能力各不相同。第二，大多数管理者故意忽视这一点。"
     },
     {
       "original": "Between them, these two facts are literally a recipe for making money. ITA is an example of this recipe in action. If you want to win in a software business, just take on the hardest problem you can find, use the most powerful language you can get, and wait for your competitors' pointy-haired bosses to revert to the mean.",
-      "translated": "[待翻译] Between them, these two facts are literally a reci..."
+      "translated": "这两个事实结合起来，简直就是赚钱的秘诀。ITA 就是这一秘诀的实际应用例证。如果你想在软件行业取得成功，只需选择你能找到的最难的问题，使用你能得到的最强大的语言，然后等待你竞争对手的那些头脑简单的老板们业绩回归平庸。"
     },
     {
       "original": "Appendix: PowerAs an illustration of what I mean about the relative power of programming languages, consider the following problem. We want to write a function that generates accumulators-- a function that takes a number n, and returns a function that takes another number i and returns n incremented by i.(That's incremented by, not plus.",
-      "translated": "[待翻译] Appendix: PowerAs an illustration of what I mean a..."
+      "translated": "附录：能力\n\n为了说明我关于编程语言相对能力的观点，考虑以下问题。我们想要编写一个生成累加器的函数——一个接受数字 n 的函数，并返回另一个接受数字 i 的函数，该函数返回 n 增加 i 后的结果。（是增加，而不是加上。"
     },
     {
       "original": "An accumulator has to accumulate.)In Common Lisp this would be (defun foo (n) (lambda (i) (incf n i))) and in Perl 5, sub foo { my ($n) = @_; sub {$n += shift} } which has more elements than the Lisp version because you have to extract parameters manually in Perl.In Smalltalk the code is slightly longer than in Lisp foo: n |s| s := n.",
-      "translated": "[待翻译] An accumulator has to accumulate.)In Common Lisp t..."
+      "translated": "累加器必须进行累加。在 Common Lisp 中，这将是 (defun foo (n) (lambda (i) (incf n i)))，而在 Perl 5 中，sub foo { my ($n) = @_; sub {$n += shift} }，这比 Lisp 版本包含更多元素，因为你在 Perl 中必须手动提取参数。在 Smalltalk 中，代码比 Lisp 稍长：foo: n |s| s := n."
     },
     {
       "original": "^[:i| s := s+i. ] because although in general lexical variables work, you can't do an assignment to a parameter, so you have to create a new variable s.In Javascript the example is, again, slightly longer, because Javascript retains the distinction between statements and expressions, so you need explicit return statements to return values: function foo(n) { return function (i) { return n += i } } (To be fair, Perl also retains this distinction, but deals with it in typical Perl fashion by letting you omit returns.)If you try to translate the Lisp/Perl/Smalltalk/Javascript code into Python you run into some limitations.",
-      "translated": "[待翻译] ^[:i| s := s+i. ] because although in general lexi..."
+      "translated": "^[:i| s := s+i. ] 因为虽然通常词法变量可以工作，但你不能对参数进行赋值，所以你必须创建一个新变量 s。在 JavaScript 中，这个例子再次略显冗长，因为 JavaScript 保留了语句和表达式之间的区别，因此你需要显式的返回语句来返回值：function foo(n) { return function (i) { return n += i } } （公平地说，Perl 也保留了这种区别，但通常以 Perl 的方式处理，允许你省略返回语句。）如果你尝试将 Lisp/Perl/Smalltalk/JavaScript 代码翻译成 Python，你会遇到一些限制。"
     },
     {
       "original": "Because Python doesn't fully support lexical variables, you have to create a data structure to hold the value of n. And although Python does have a function data type, there is no literal representation for one (unless the body is only a single expression) so you need to create a named function to return.",
-      "translated": "[待翻译] Because Python doesn't fully support lexical varia..."
+      "translated": "由于 Python 并不完全支持词法变量，你需要创建一个数据结构来保存 n 的值。虽然 Python 确实有函数数据类型，但除非函数体只是一个单一表达式，否则没有字面量表示形式，因此你需要创建一个命名函数来返回。"
     },
     {
       "original": "This is what you end up with: def foo(n): s = [n] def bar(i): s[0] += i return s[0] return bar Python users might legitimately ask why they can't just write def foo(n): return lambda i: return n += i or even def foo(n): lambda i: n += i and my guess is that they probably will, one day.",
-      "translated": "[待翻译] This is what you end up with: def foo(n): s = [n] ..."
+      "translated": "你最终得到的是：def foo(n): s = [n] def bar(i): s[0] += i return s[0] return bar Python 用户可能会合理地问，为什么他们不能直接写 def foo(n): return lambda i: n += i 或者甚至 def foo(n): lambda i: n += i 而我的猜测是，他们可能有一天会这样做的。"
     },
     {
       "original": "(But if they don't want to wait for Python to evolve the rest of the way into Lisp, they could always just...) In OO languages, you can, to a limited extent, simulate a closure (a function that refers to variables defined in enclosing scopes) by defining a class with one method and a field to replace each variable from an enclosing scope.",
-      "translated": "[待翻译] (But if they don't want to wait for Python to evol..."
+      "translated": "（但如果他们不愿意等待 Python 完全进化成 Lisp，他们完全可以……）在面向对象语言中，可以通过定义一个类，该类包含一个方法和一个字段来替代每个外部作用域中的变量，从而在一定程度上模拟闭包（即引用外部作用域中变量的函数）。"
     },
     {
       "original": "This makes the programmer do the kind of code analysis that would be done by the compiler in a language with full support for lexical scope, and it won't work if more than one function refers to the same variable, but it is enough in simple cases like this.Python experts seem to agree that this is the preferred way to solve the problem in Python, writing either def foo(n): class acc: def __init__(self, s): self.s = s def inc(self, i): self.s += i return self.s return acc(n).inc or class foo: def __init__(self, n): self.n = n def __call__(self, i): self.n += i return self.n I include these because I wouldn't want Python advocates to say I was misrepresenting the language, but both seem to me more complex than the first version.",
-      "translated": "[待翻译] This makes the programmer do the kind of code anal..."
+      "translated": "这使得程序员必须进行在完全支持词法作用域的语言中由编译器完成的那种代码分析，而且如果多个函数引用同一个变量，这种方法就不起作用，但在像这样的简单情况下就足够了。Python 专家似乎一致认为，这是在 Python 中解决该问题的首选方法，编写如下代码之一：def foo(n): class acc: def __init__(self, s): self.s = s def inc(self, i): self.s += i return self.s return acc(n).inc 或 class foo: def __init__(self, n): self.n = n def __call__(self, i): self.n += i return self.n 我包括这些示例是因为我不想让 Python 支持者说我误解了这门语言，但对我来说，这两种方法都比第一个版本更复杂。"
     },
     {
       "original": "You're doing the same thing, setting up a separate place to hold the accumulator; it's just a field in an object instead of the head of a list. And the use of these special, reserved field names, especially __call__, seems a bit of a hack.In the rivalry between Perl and Python, the claim of the Python hackers seems to be that that Python is a more elegant alternative to Perl, but what this case shows is that power is the ultimate elegance: the Perl program is simpler (has fewer elements), even if the syntax is a bit uglier.How about other languages?",
-      "translated": "[待翻译] You're doing the same thing, setting up a separate..."
+      "translated": "你做的也是一样的事情，设置一个单独的地方来存放累加器；只不过它是对象中的一个字段，而不是列表的头部。而这些特殊保留字段名的使用，尤其是__call__，似乎有点像一种权宜之计。在Perl和Python的竞争中，Python黑客们的主张似乎是Python是Perl的一种更优雅的替代品，但这个例子表明，力量才是最终的优雅：Perl程序更简单（元素更少），即使语法有点丑陋。其他语言呢？"
     },
     {
       "original": "In the other languages mentioned in this talk-- Fortran, C, C++, Java, and Visual Basic-- it is not clear whether you can actually solve this problem. Ken Anderson says that the following code is about as close as you can get in Java: public interface Inttoint { public int call(int i); } public static Inttoint foo(final int n) { return new Inttoint() { int s = n; public int call(int i) { s = s + i; return s; }}; } This falls short of the spec because it only works for integers.",
-      "translated": "[待翻译] In the other languages mentioned in this talk-- Fo..."
+      "translated": "在这次讨论中提到的其他语言——Fortran、C、C++、Java 和 Visual Basic——是否能够解决这个问题还不清楚。Ken Anderson 说，以下代码是用 Java 能够实现的最接近的方法：public interface IntToInt { public int call(int i); } public static IntToInt foo(final int n) { return new IntToInt() { int s = n; public int call(int i) { s = s + i; return s; }}; } 这种方法未能完全符合规范，因为它只对整数有效。"
     },
     {
       "original": "After many email exchanges with Java hackers, I would say that writing a properly polymorphic version that behaves like the preceding examples is somewhere between damned awkward and impossible. If anyone wants to write one I'd be very curious to see it, but I personally have timed out.It's not literally true that you can't solve this problem in other languages, of course.",
-      "translated": "[待翻译] After many email exchanges with Java hackers, I wo..."
+      "translated": "经过多次与Java黑客的邮件交流后，我可以说，编写一个像前面示例那样行为正确的多态版本，难度介于极其棘手和不可能之间。如果有人愿意尝试编写一个，我非常好奇想看看，但就我个人而言，我已经放弃尝试了。当然，说你不能用其他语言解决这个问题并不完全准确。"
     },
     {
       "original": "The fact that all these languages are Turing-equivalent means that, strictly speaking, you can write any program in any of them. So how would you do it? In the limit case, by writing a Lisp interpreter in the less powerful language.That sounds like a joke, but it happens so often to varying degrees in large programming projects that there is a name for the phenomenon, Greenspun's Tenth Rule: Any sufficiently complicated C or Fortran program contains an ad hoc informally-specified bug-ridden slow implementation of half of Common Lisp.",
-      "translated": "[待翻译] The fact that all these languages are Turing-equiv..."
+      "translated": "所有这些语言都是图灵等价的，这意味着，严格来说，你可以在任何一种语言中编写任何程序。那么，你该怎么做呢？在极限情况下，可以通过在较弱的语言中编写一个 Lisp 解释器来实现。这听起来像一个笑话，但在大型编程项目中，这种情况以不同程度频繁发生，以至于这种现象有了一个名称，即格林斯潘第十定律：任何足够复杂的 C 或 Fortran 程序都包含了一个临时的、非正式指定的、有缺陷的、缓慢的 Common Lisp 一半功能的实现。"
     },
     {
       "original": "If you try to solve a hard problem, the question is not whether you will use a powerful enough language, but whether you will (a) use a powerful language, (b) write a de facto interpreter for one, or (c) yourself become a human compiler for one.",
-      "translated": "[待翻译] If you try to solve a hard problem, the question i..."
+      "translated": "如果你试图解决一个难题，问题不在于你是否会使用足够强大的语言，而在于你是否会（a）使用一种强大的语言，（b）编写一个事实上的解释器，或（c）自己成为一个该语言的人类编译器。"
     },
     {
       "original": "We see this already begining to happen in the Python example, where we are in effect simulating the code that a compiler would generate to implement a lexical variable.This practice is not only common, but institutionalized.",
-      "translated": "[待翻译] We see this already begining to happen in the Pyth..."
+      "translated": "我们已经在Python示例中看到这种情况开始出现，实际上我们是在模拟编译器生成的代码，以实现词法变量。这种做法不仅普遍，而且已被制度化。"
     },
     {
       "original": "For example, in the OO world you hear a good deal about \"patterns\". I wonder if these patterns are not sometimes evidence of case (c), the human compiler, at work. When I see patterns in my programs, I consider it a sign of trouble.",
-      "translated": "[待翻译] For example, in the OO world you hear a good deal ..."
+      "translated": "例如，在面向对象的世界里，你经常能听到关于“设计模式”的讨论。我怀疑这些设计模式有时是否不是案例(c)中的“人类编译器”在起作用的证据。当我在我编写的程序中看到设计模式时，我会将其视为一个麻烦的迹象。"
     },
     {
       "original": "The shape of a program should reflect only the problem it needs to solve. Any other regularity in the code is a sign, to me at least, that I'm using abstractions that aren't powerful enough-- often that I'm generating by hand the expansions of some macro that I need to write.Notes The IBM 704 CPU was about the size of a refrigerator, but a lot heavier.",
-      "translated": "[待翻译] The shape of a program should reflect only the pro..."
+      "translated": "程序的结构应该仅仅反映它需要解决的问题。代码中的任何其他规律性，至少对我来说，都是一个信号，表明我使用的抽象不够强大——通常是我需要编写某个宏的手动展开。注：IBM 704 的 CPU 大约有一个冰箱那么大，但要重得多。"
     },
     {
       "original": "The CPU weighed 3150 pounds, and the 4K of RAM was in a separate box weighing another 4000 pounds. The Sub-Zero 690, one of the largest household refrigerators, weighs 656 pounds. Steve Russell also wrote the first (digital) computer game, Spacewar, in 1962.",
-      "translated": "[待翻译] The CPU weighed 3150 pounds, and the 4K of RAM was..."
+      "translated": "CPU 重达 3150 磅，而 4K 的 RAM 则位于另一个重达 4000 磅的独立箱体内。Sub-Zero 690，一款最大的家用冰箱，重 656 磅。Steve Russell 还在 1962 年编写了第一款（数字）计算机游戏《太空战争》。"
     },
     {
       "original": "If you want to trick a pointy-haired boss into letting you write software in Lisp, you could try telling him it's XML. Here is the accumulator generator in other Lisp dialects: Scheme: (define (foo n) (lambda (i) (set!",
-      "translated": "[待翻译] If you want to trick a pointy-haired boss into let..."
+      "translated": "如果你想哄骗一个尖头老板让你用 Lisp 写软件，你可以试试告诉他这是 XML。以下是其他 Lisp 方言的累加器生成器：Scheme: (define (foo n) (lambda (i) (set!"
     },
     {
       "original": "n (+ n i)) n)) Goo: (df foo (n) (op incf n _))) Arc: (def foo (n) [++ n _]) Erann Gat's sad tale about \"industry best practice\" at JPL inspired me to address this generally misapplied phrase. Peter Norvig found that 16 of the 23 patterns in Design Patterns were \"invisible or simpler\" in Lisp.",
-      "translated": "[待翻译] n (+ n i)) n)) Goo: (df foo (n) (op incf n _))) Ar..."
+      "translated": "n (+ n i)) n)) Goo: (df foo (n) (op incf n _))) Arc: (def foo (n) [++ n _]) 埃拉恩·加特关于“行业最佳实践”在喷气推进实验室的悲惨故事激发了我对此通常被误用的短语进行讨论。彼得·诺维克发现，在《设计模式》中的23个模式中，有16个在Lisp中是“看不见的或更简单的”。"
     },
     {
       "original": "Thanks to the many people who answered my questions about various languages and/or read drafts of this, including Ken Anderson, Trevor Blackwell, Erann Gat, Dan Giffin, Sarah Harlin, Jeremy Hylton, Robert Morris, Peter Norvig, Guy Steele, and Anton van Straaten.",
-      "translated": "[待翻译] Thanks to the many people who answered my question..."
+      "translated": "感谢许多回答了我关于各种语言的问题和/或阅读了本文草稿的人，包括Ken Anderson、Trevor Blackwell、Erann Gat、Dan Giffin、Sarah Harlin、Jeremy Hylton、Robert Morris、Peter Norvig、Guy Steele和Anton van Straaten。"
     },
     {
       "original": "They bear no blame for any opinions expressed. Related:Many people have responded to this talk, so I have set up an additional page to deal with the issues they have raised: Re: Revenge of the Nerds.It also set off an extensive and often useful discussion on the LL1 mailing list.",
-      "translated": "[待翻译] They bear no blame for any opinions expressed. Rel..."
+      "translated": "他们对所表达的任何观点不负责任。相关：许多人对这次演讲做出了回应，因此我建立了一个额外的页面来处理他们提出的问题：关于《书呆子的复仇》。这也引发了一次广泛且常常有益的讨论，发生在LL1邮件列表上。"
     },
     {
       "original": "See particularly the mail by Anton van Straaten on semantic compression.Some of the mail on LL1 led me to try to go deeper into the subject of language power in Succinctness is Power.A larger set of canonical implementations of the accumulator generator benchmark are collected together on their own page.Japanese Translation, Spanish Translation, Chinese Translation You'll find this essay and 14 others in Hackers & Painters.",
-      "translated": "[待翻译] See particularly the mail by Anton van Straaten on..."
+      "translated": "特别参见 Anton van Straaten 关于语义压缩的邮件。LL1 上的一些邮件促使我更深入地探讨了语言威力在精简性即力量中的作用。收集了更多关于累加器生成器基准测试的典型实现，并将它们放在一个专门的页面上。日语翻译，西班牙语翻译，中文翻译。你可以在《黑客与画家》中找到这篇论文和其他14篇论文。"
     }
-  ]
+  ],
+  "translation_completed": "2025-07-29T11:22:18.093580",
+  "translation_stats": {
+    "total_paragraphs": 110,
+    "success_count": 110,
+    "success_rate": "100.0%"
+  }
 }

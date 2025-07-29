@@ -111,383 +111,389 @@
   "paragraphs": [
     {
       "original": "April 2003(This essay is derived from a keynote talk at PyCon 2003.)It's hard to predict what life will be like in a hundred years. There are only a few things we can say with certainty. We know that everyone will drive flying cars, that zoning laws will be relaxed to allow buildings hundreds of stories tall, that it will be dark most of the time, and that women will all be trained in the martial arts.",
-      "translated": "[待翻译] April 2003(This essay is derived from a keynote ta..."
+      "translated": "2003年4月（本文源自2003年PyCon大会的主旨演讲。）很难预测一百年后的 生活会是什么样子。我们只能确定几件事情。我们知道每个人都将驾驶飞行汽车，分区法规将放宽，允许建造数百层高的建筑，大部分时间都会很暗，而且所有女性都将接受武术训练。"
     },
     {
       "original": "Here I want to zoom in on one detail of this picture. What kind of programming language will they use to write the software controlling those flying cars?This is worth thinking about not so much because we'll actually get to use these languages as because, if we're lucky, we'll use languages on the path from this point to that.I think that, like species, languages will form evolutionary trees, with dead-ends branching off all over.",
-      "translated": "[待翻译] Here I want to zoom in on one detail of this pictu..."
+      "translated": "在这里，我想聚焦于这幅图的一个细节。他们将使用什么样的编程语言来编写控制那些飞行汽车的软件呢？这值得思考，倒不是因为我们真的会用到这些语言，而是因为，如果我们幸运的话，我们会使用从这一点到那一点路径上的语言。我认为，就像物种一样，语言将会形成进化树，到处都会出现死胡同。"
     },
     {
       "original": "We can see this happening already. Cobol, for all its sometime popularity, does not seem to have any intellectual descendants. It is an evolutionary dead-end-- a Neanderthal language.I predict a similar fate for Java.",
-      "translated": "[待翻译] We can see this happening already. Cobol, for all ..."
+      "translated": "我们已经可以看到这种情况的发生。尽管COBOL曾经一度非常流行，但似乎没有任何智力上的后裔。它是一个进化的死胡同——一种尼安德特语言。我预测Java也会有类似的命运。"
     },
     {
       "original": "People sometimes send me mail saying, \"How can you say that Java won't turn out to be a successful language? It's already a successful language.\" And I admit that it is, if you measure success by shelf space taken up by books on it (particularly individual books on it), or by the number of undergrads who believe they have to learn it to get a job.",
-      "translated": "[待翻译] People sometimes send me mail saying, \"How can you..."
+      "translated": "有时候人们会给我发邮件说：“你怎么能说 Java 不会成为一种成功的语言呢？它已经很成功了。”我承认，如果你以关于它的书籍占用的书架空间（特别是关于它的个别书籍）或者认为必须学习它才能找到工作的本科生数量来衡量成功的话，它确实如此。"
     },
     {
       "original": "When I say Java won't turn out to be a successful language, I mean something more specific: that Java will turn out to be an evolutionary dead-end, like Cobol.This is just a guess. I may be wrong. My point here is not to dis Java, but to raise the issue of evolutionary trees and get people asking, where on the tree is language X?",
-      "translated": "[待翻译] When I say Java won't turn out to be a successful ..."
+      "translated": "当我说Java不会成为一种成功的语言时，我的意思是更加具体的：Java最终会成为一个进化的死胡同，就像Cobol一样。这只是一个猜测。我可能是错的。我在这里的目的是不是要贬低Java，而是要提出进化树的问题，让人们思考，语言X在树上的位置在哪里？"
     },
     {
       "original": "The reason to ask this question isn't just so that our ghosts can say, in a hundred years, I told you so. It's because staying close to the main branches is a useful heuristic for finding languages that will be good to program in now.At any given time, you're probably happiest on the main branches of an evolutionary tree.",
-      "translated": "[待翻译] The reason to ask this question isn't just so that..."
+      "translated": "提出这个问题不仅仅是为了让我们的幽灵在一百年后说：“我告诉过你们了。”而是因为贴近主干是一种有用的启发式方法，可以找到现在适合编程的语言。在任何给定的时间，你很可能在进化树的主干上最为满意。"
     },
     {
       "original": "Even when there were still plenty of Neanderthals, it must have sucked to be one. The Cro-Magnons would have been constantly coming over and beating you up and stealing your food.The reason I want to know what languages will be like in a hundred years is so that I know what branch of the tree to bet on now.The evolution of languages differs from the evolution of species because branches can converge.",
-      "translated": "[待翻译] Even when there were still plenty of Neanderthals,..."
+      "translated": "即使在尼安德特人还大量存在时，做一个尼安德特人也一定很糟糕。克罗马农人会不断地过来打你，抢你的食物。我想知道一百年后的语言会是什么样的，是为了现在就知道该押注于哪一分支。语言的进化与物种的进化不同，因为分支可以汇聚。"
     },
     {
       "original": "The Fortran branch, for example, seems to be merging with the descendants of Algol. In theory this is possible for species too, but it's not likely to have happened to any bigger than a cell.Convergence is more likely for languages partly because the space of possibilities is smaller, and partly because mutations are not random.",
-      "translated": "[待翻译] The Fortran branch, for example, seems to be mergi..."
+      "translated": "例如，Fortran 分支似乎正在与 Algol 的后代合并。理论上，物种之间也有可能发生这种情况，但不太可能发生在比细胞更大的生物上。语言之间更可能出现趋同，部分原因是可能性的空间较小，部分原因是变异并非随机。"
     },
     {
       "original": "Language designers deliberately incorporate ideas from other languages.It's especially useful for language designers to think about where the evolution of programming languages is likely to lead, because they can steer accordingly.",
-      "translated": "[待翻译] Language designers deliberately incorporate ideas ..."
+      "translated": "语言设计者有意地从其他语言中汲取思想。对于语言设计者来说，思考编程语言的演进方向尤其重要，因为这样他们可以据此进行引导。"
     },
     {
       "original": "In that case, \"stay on a main branch\" becomes more than a way to choose a good language. It becomes a heuristic for making the right decisions about language design.Any programming language can be divided into two parts: some set of fundamental operators that play the role of axioms, and the rest of the language, which could in principle be written in terms of these fundamental operators.I think the fundamental operators are the most important factor in a language's long term survival.",
-      "translated": "[待翻译] In that case, \"stay on a main branch\" becomes more..."
+      "translated": "在这种情况下，“坚持主线”不仅是一种选择好语言的方法，还成为了一种关于语言设计做出正确决策的启发式原则。任何编程语言都可以分为两部分：一组充当公理的基本操作符，以及语言的其余部分，原则上这部分可以用这些基本操作符来表示。我认为，这些基本操作符是一个语言长期生存的最重要因素。"
     },
     {
       "original": "The rest you can change. It's like the rule that in buying a house you should consider location first of all. Everything else you can fix later, but you can't fix the location.I think it's important not just that the axioms be well chosen, but that there be few of them.",
-      "translated": "[待翻译] The rest you can change. It's like the rule that i..."
+      "translated": "其余的你可以改变。这就像买房时首先应该考虑位置一样。其他的一切你都可以后来再修正，但位置是无法改变的。我认为，不仅公理的选择要恰当，而且公理的数量也要尽可能少。"
     },
     {
       "original": "Mathematicians have always felt this way about axioms-- the fewer, the better-- and I think they're onto something.At the very least, it has to be a useful exercise to look closely at the core of a language to see if there are any axioms that could be weeded out.",
-      "translated": "[待翻译] Mathematicians have always felt this way about axi..."
+      "translated": "数学家们一直对公理持有这样的态度——越少越好——我认为他们这样做是有道理的。至少，仔细审视语言的核心，看看是否可以剔除一些公理，这应该是一项有益的练习。"
     },
     {
       "original": "I've found in my long career as a slob that cruft breeds cruft, and I've seen this happen in software as well as under beds and in the corners of rooms.I have a hunch that the main branches of the evolutionary tree pass through the languages that have the smallest, cleanest cores.",
-      "translated": "[待翻译] I've found in my long career as a slob that cruft ..."
+      "translated": "在我作为懒人的漫长职业生涯中，我发现杂乱会滋生更多的杂乱，这一点在软件中和床下或房间的角落里都是一样的。我有一个直觉，进化树的主要分支会穿过那些核心最小、最干净的语言。"
     },
     {
       "original": "The more of a language you can write in itself, the better.Of course, I'm making a big assumption in even asking what programming languages will be like in a hundred years. Will we even be writing programs in a hundred years?",
-      "translated": "[待翻译] The more of a language you can write in itself, th..."
+      "translated": "你用一种语言写的越多，就越好。当然，我甚至在问一百年后的编程语言会是什么样子时，就已经做了很大的假设。一百年后，我们还会编写程序吗？"
     },
     {
       "original": "Won't we just tell computers what we want them to do?There hasn't been a lot of progress in that department so far. My guess is that a hundred years from now people will still tell computers what to do using programs we would recognize as such.",
-      "translated": "[待翻译] Won't we just tell computers what we want them to ..."
+      "translated": "我们难道不会直接告诉计算机我们想要它们做什么吗？在这方面，目前还没有取得多少进展。我猜测，一百年后人们仍将通过我们能认出的程序来告诉计算机该做什么。"
     },
     {
       "original": "There may be tasks that we solve now by writing programs and which in a hundred years you won't have to write programs to solve, but I think there will still be a good deal of programming of the type that we do today.It may seem presumptuous to think anyone can predict what any technology will look like in a hundred years.",
-      "translated": "[待翻译] There may be tasks that we solve now by writing pr..."
+      "translated": "可能有一些我们现在通过编写程序来解决的任务，在一百年后你不必编写程序来解决，但我认为我们今天所做的这种类型的编程仍然会有很多。认为有人能够预测一百年后任何技术会是什么样子，这可能显得有些自大。"
     },
     {
       "original": "But remember that we already have almost fifty years of history behind us. Looking forward a hundred years is a graspable idea when we consider how slowly languages have evolved in the past fifty.Languages evolve slowly because they're not really technologies.",
-      "translated": "[待翻译] But remember that we already have almost fifty yea..."
+      "translated": "但请记住，我们已经有近五十年的历史在背后。当我们考虑到语言在过去五十年中演变得多么缓慢时，展望未来一百年便是一个可以把握的概念。语言演变缓慢，因为它们实际上并不是技术。"
     },
     {
       "original": "Languages are notation. A program is a formal description of the problem you want a computer to solve for you. So the rate of evolution in programming languages is more like the rate of evolution in mathematical notation than, say, transportation or communications.",
-      "translated": "[待翻译] Languages are notation. A program is a formal desc..."
+      "translated": "语言是符号。程序是你希望计算机为你解决的问题的形式化描述。因此，编程语言的进化速度更类似于数学符号的进化速度，而不是交通或通信的进化速度。"
     },
     {
       "original": "Mathematical notation does evolve, but not with the giant leaps you see in technology.Whatever computers are made of in a hundred years, it seems safe to predict they will be much faster than they are now.",
-      "translated": "[待翻译] Mathematical notation does evolve, but not with th..."
+      "translated": "数学符号确实会发展，但不会像技术那样出现巨大的飞跃。无论一百年后计算机由什么构成，可以预测的是，它们将会比现在快得多。"
     },
     {
       "original": "If Moore's Law continues to put out, they will be 74 quintillion (73,786,976,294,838,206,464) times faster. That's kind of hard to imagine. And indeed, the most likely prediction in the speed department may be that Moore's Law will stop working.",
-      "translated": "[待翻译] If Moore's Law continues to put out, they will be ..."
+      "translated": "如果摩尔定律继续有效，计算机的运行速度将会提高74京（73,786,976,294,838,206,464）倍。这确实难以想象。事实上，关于速度方面最可能的预测可能是摩尔定律将不再适用。"
     },
     {
       "original": "Anything that is supposed to double every eighteen months seems likely to run up against some kind of fundamental limit eventually. But I have no trouble believing that computers will be very much faster.",
-      "translated": "[待翻译] Anything that is supposed to double every eighteen..."
+      "translated": "任何东西如果每十八个月就翻一番，最终似乎都会遇到某种根本性的限制。但我毫不怀疑计算机将会变得快得多。"
     },
     {
       "original": "Even if they only end up being a paltry million times faster, that should change the ground rules for programming languages substantially. Among other things, there will be more room for what would now be considered slow languages, meaning languages that don't yield very efficient code.And yet some applications will still demand speed.",
-      "translated": "[待翻译] Even if they only end up being a paltry million ti..."
+      "translated": "即使最终它们只快上区区一百万倍，这也应该会大大改变编程语言的规则。这意味着现在被认为是速度较慢的语言，即那些生成的代码效率不高的语言，将会拥有更多的空间。然而，某些应用仍然会要求速度。"
     },
     {
       "original": "Some of the problems we want to solve with computers are created by computers; for example, the rate at which you have to process video images depends on the rate at which another computer can generate them.",
-      "translated": "[待翻译] Some of the problems we want to solve with compute..."
+      "translated": "我们希望用计算机解决的一些问题是由计算机本身创造的；例如，你必须处理视频图像的速度取决于另一台计算机生成这些图像的速度。"
     },
     {
       "original": "And there is another class of problems which inherently have an unlimited capacity to soak up cycles: image rendering, cryptography, simulations.If some applications can be increasingly inefficient while others continue to demand all the speed the hardware can deliver, faster computers will mean that languages have to cover an ever wider range of efficiencies.",
-      "translated": "[待翻译] And there is another class of problems which inher..."
+      "translated": "还有一类问题本身具有无限的能力来消耗计算周期：图像渲染、密码学、模拟。如果一些应用程序可以越来越低效，而其他应用程序继续要求硬件提供尽可能快的速度，那么更快的计算机将意味着编程语言必须覆盖更广泛的效率范围。"
     },
     {
       "original": "We've seen this happening already. Current implementations of some popular new languages are shockingly wasteful by the standards of previous decades.This isn't just something that happens with programming languages.",
-      "translated": "[待翻译] We've seen this happening already. Current impleme..."
+      "translated": "我们已经见证了这一点。按照以往几十年的标准，一些流行新语言的现有实现惊人地浪费资源。这不仅仅发生在编程语言上。"
     },
     {
       "original": "It's a general historical trend. As technologies improve, each generation can do things that the previous generation would have considered wasteful. People thirty years ago would be astonished at how casually we make long distance phone calls.",
-      "translated": "[待翻译] It's a general historical trend. As technologies i..."
+      "translated": "这是一个普遍的历史趋势。随着技术的进步，每一代人都能做上一代人认为是浪费的事情。三十年前的人们会对我们现在如此随意地打长途电话感到惊讶。"
     },
     {
       "original": "People a hundred years ago would be even more astonished that a package would one day travel from Boston to New York via Memphis.I can already tell you what's going to happen to all those extra cycles that faster hardware is going to give us in the next hundred years.",
-      "translated": "[待翻译] People a hundred years ago would be even more asto..."
+      "translated": "一百年前的人们会更加惊讶有一天包裹会从波士顿经由孟菲斯运送到纽约。我已然可以告诉你们，未来一百年更快的硬件将给我们带来的额外计算周期将会发生什么。"
     },
     {
       "original": "They're nearly all going to be wasted.I learned to program when computer power was scarce. I can remember taking all the spaces out of my Basic programs so they would fit into the memory of a 4K TRS-80.",
-      "translated": "[待翻译] They're nearly all going to be wasted.I learned to..."
+      "translated": "它们几乎都会被浪费掉。我是在计算机资源稀缺的时候学会编程的。我还记得为了让自己写的Basic程序能装进4K的TRS-80内存，我把所有的空格都去掉了。"
     },
     {
       "original": "The thought of all this stupendously inefficient software burning up cycles doing the same thing over and over seems kind of gross to me. But I think my intuitions here are wrong. I'm like someone who grew up poor, and can't bear to spend money even for something important, like going to the doctor.Some kinds of waste really are disgusting.",
-      "translated": "[待翻译] The thought of all this stupendously inefficient s..."
+      "translated": "所有这些效率极低的软件一遍又一遍地消耗着计算资源，对我来说似乎很不妥。但我认为我的直觉是错误的。我就像一个穷困中长大的人，即使是为了重要的事情，比如去看医生，也舍不得花钱。有些浪费确实让人感到厌恶。"
     },
     {
       "original": "SUVs, for example, would arguably be gross even if they ran on a fuel which would never run out and generated no pollution. SUVs are gross because they're the solution to a gross problem. (How to make minivans look more masculine.) But not all waste is bad.",
-      "translated": "[待翻译] SUVs, for example, would arguably be gross even if..."
+      "translated": "例如，SUV即使使用一种永远不会耗尽且不会产生污染的燃料，也可以说是过于浪费的。SUV之所以浪费，是因为它们解决了一个同样浪费的问题。（如何让小型货车看起来更阳刚。）但并非所有的浪费都是不好的。"
     },
     {
       "original": "Now that we have the infrastructure to support it, counting the minutes of your long-distance calls starts to seem niggling. If you have the resources, it's more elegant to think of all phone calls as one kind of thing, no matter where the other person is.There's good waste, and bad waste.",
-      "translated": "[待翻译] Now that we have the infrastructure to support it,..."
+      "translated": "现在我们有了支持的基础设施，计算长途电话的分钟数开始显得琐碎。如果你有资源，更优雅的做法是将所有电话视为同一类事物，无论对方身在何处。有好的浪费，也有坏的浪费。"
     },
     {
       "original": "I'm interested in good waste-- the kind where, by spending more, we can get simpler designs. How will we take advantage of the opportunities to waste cycles that we'll get from new, faster hardware?The desire for speed is so deeply engrained in us, with our puny computers, that it will take a conscious effort to overcome it.",
-      "translated": "[待翻译] I'm interested in good waste-- the kind where, by ..."
+      "translated": "我对好的浪费很感兴趣——那种通过增加投入，我们能够获得更简洁设计的浪费。我们将如何利用从新型、更快硬件中获得的浪费周期的机会？对速度的渴望已经深深地植根于我们心中，因为我们使用的是性能低下的计算机，因此需要有意识地努力来克服这种渴望。"
     },
     {
       "original": "In language design, we should be consciously seeking out situations where we can trade efficiency for even the smallest increase in convenience.Most data structures exist because of speed. For example, many languages today have both strings and lists.",
-      "translated": "[待翻译] In language design, we should be consciously seeki..."
+      "translated": "在语言设计中，我们应该有意识地寻找可以将效率换取哪怕是最小便利性提升的情况。大多数数据结构的存在都是因为速度。例如，如今许多语言中同时存在字符串和列表。"
     },
     {
       "original": "Semantically, strings are more or less a subset of lists in which the elements are characters. So why do you need a separate data type? You don't, really. Strings only exist for efficiency. But it's lame to clutter up the semantics of the language with hacks to make programs run faster.",
-      "translated": "[待翻译] Semantically, strings are more or less a subset of..."
+      "translated": "从语义上讲，字符串或多或少是列表的一个子集，其中的元素是字符。那么为什么需要一个独立的数据类型呢？实际上并不需要。字符串的存在只是为了效率。但为了使程序运行得更快而把语言的语义弄得乱七八糟是不妥的。"
     },
     {
       "original": "Having strings in a language seems to be a case of premature optimization.If we think of the core of a language as a set of axioms, surely it's gross to have additional axioms that add no expressive power, simply for the sake of efficiency.",
-      "translated": "[待翻译] Having strings in a language seems to be a case of..."
+      "translated": "在一种语言中拥有字符串似乎是一种过早的优化。如果我们把语言的核心视为一组公理，那么显然，为了效率而额外添加不增加表达能力的公理是不妥的。"
     },
     {
       "original": "Efficiency is important, but I don't think that's the right way to get it.The right way to solve that problem, I think, is to separate the meaning of a program from the implementation details. Instead of having both lists and strings, have just lists, with some way to give the compiler optimization advice that will allow it to lay out strings as contiguous bytes if necessary.Since speed doesn't matter in most of a program, you won't ordinarily need to bother with this sort of micromanagement.",
-      "translated": "[待翻译] Efficiency is important, but I don't think that's ..."
+      "translated": "效率很重要，但我认为那不是正确的实现方式。解决这个问题的正确方法，我认为，是将程序的含义与实现细节分开。与其同时拥有列表和字符串，不如只保留列表，并提供一种方法，使编译器能够根据优化建议在必要时将字符串布局为连续的字节。由于在程序的大部分中速度并不重要，因此通常不需要进行这种微观管理。"
     },
     {
       "original": "This will be more and more true as computers get faster.Saying less about implementation should also make programs more flexible. Specifications change while a program is being written, and this is not only inevitable, but desirable.The word \"essay\" comes from the French verb \"essayer\", which means \"to try\".",
-      "translated": "[待翻译] This will be more and more true as computers get f..."
+      "translated": "随着计算机变得越来越快，这一点将越来越明显。减少对实现细节的描述也应该使程序更加灵活。在程序编写过程中，规范会发生变化，这不仅是不可避免的，而且是可取的。“论文”一词源自法语动词“essayer”，意为“尝试”。"
     },
     {
       "original": "An essay, in the original sense, is something you write to try to figure something out. This happens in software too. I think some of the best programs were essays, in the sense that the authors didn't know when they started exactly what they were trying to write.Lisp hackers already know about the value of being flexible with data structures.",
-      "translated": "[待翻译] An essay, in the original sense, is something you ..."
+      "translated": "文章，从其本意来看，是你为了试图弄清楚某个问题而写的东西。在软件开发中也是如此。我认为，一些最好的程序就是文章，因为作者在开始时并不完全清楚他们想要编写什么。Lisp 编程者已经了解了灵活处理数据结构的价值。"
     },
     {
       "original": "We tend to write the first version of a program so that it does everything with lists. These initial versions can be so shockingly inefficient that it takes a conscious effort not to think about what they're doing, just as, for me at least, eating a steak requires a conscious effort not to think where it came from.What programmers in a hundred years will be looking for, most of all, is a language where you can throw together an unbelievably inefficient version 1 of a program with the least possible effort.",
-      "translated": "[待翻译] We tend to write the first version of a program so..."
+      "translated": "我们往往编写程序的第一个版本时，让其所有操作都使用列表来完成。这些初始版本可能会极其低效，以至于需要有意识地不去考虑它们的运行过程，就像对我来说，吃牛排时需要有意识地不去想它的来源一样。一百年后的程序员们最需要的，将是一种能够以最少的精力拼凑出一个极其低效的版本1的编程语言。"
     },
     {
       "original": "At least, that's how we'd describe it in present-day terms. What they'll say is that they want a language that's easy to program in.Inefficient software isn't gross. What's gross is a language that makes programmers do needless work.",
-      "translated": "[待翻译] At least, that's how we'd describe it in present-d..."
+      "translated": "至少，这是我们用当今的说法来描述的。他们会说他们想要一种容易编程的语言。低效的软件并不令人反感。真正令人反感的是一种让程序员做无用功的语言。"
     },
     {
       "original": "Wasting programmer time is the true inefficiency, not wasting machine time. This will become ever more clear as computers get faster.I think getting rid of strings is already something we could bear to think about.",
-      "translated": "[待翻译] Wasting programmer time is the true inefficiency, ..."
+      "translated": "浪费程序员的时间才是真正的低效，而不是浪费机器时间。随着计算机变得越来越快，这一点将变得更加明显。我认为，淘汰字符串已经是我们可以考虑的事情了。"
     },
     {
       "original": "We did it in Arc, and it seems to be a win; some operations that would be awkward to describe as regular expressions can be described easily as recursive functions.How far will this flattening of data structures go?",
-      "translated": "[待翻译] We did it in Arc, and it seems to be a win; some o..."
+      "translated": "我们在Arc中实现了这一点，看起来效果不错；一些用正则表达式描述起来很笨拙的操作可以用递归函数轻松描述。这种数据结构的扁平化能走多远？"
     },
     {
       "original": "I can think of possibilities that shock even me, with my conscientiously broadened mind. Will we get rid of arrays, for example? After all, they're just a subset of hash tables where the keys are vectors of integers.",
-      "translated": "[待翻译] I can think of possibilities that shock even me, w..."
+      "translated": "我可以想到一些连我自己都会感到震惊的可能性，尽管我的思维已经刻意拓宽。例如，我们会淘汰数组吗？毕竟，数组只是键为整数向量的哈希表的一个子集。"
     },
     {
       "original": "Will we replace hash tables themselves with lists?There are more shocking prospects even than that. The Lisp that McCarthy described in 1960, for example, didn't have numbers. Logically, you don't need to have a separate notion of numbers, because you can represent them as lists: the integer n could be represented as a list of n elements.",
-      "translated": "[待翻译] Will we replace hash tables themselves with lists?..."
+      "translated": "我们是否会用列表取代哈希表本身？还有更令人震惊的前景。例如，麦卡锡在1960年描述的Lisp语言就没有数字。从逻辑上讲，你不需要有一个独立的数字概念，因为你可以用列表来表示它们：整数n可以用包含n个元素的列表来表示。"
     },
     {
       "original": "You can do math this way. It's just unbearably inefficient.No one actually proposed implementing numbers as lists in practice. In fact, McCarthy's 1960 paper was not, at the time, intended to be implemented at all.",
-      "translated": "[待翻译] You can do math this way. It's just unbearably ine..."
+      "translated": "你可以这样进行数学运算。但这实在是效率低得让人无法忍受。实际上，没有人真正提出过在实际中将数字实现为列表。事实上，麦卡锡1960年的论文在当时根本就没有打算付诸实施。"
     },
     {
       "original": "It was a theoretical exercise, an attempt to create a more elegant alternative to the Turing Machine. When someone did, unexpectedly, take this paper and translate it into a working Lisp interpreter, numbers certainly weren't represented as lists; they were represented in binary, as in every other language.Could a programming language go so far as to get rid of numbers as a fundamental data type?",
-      "translated": "[待翻译] It was a theoretical exercise, an attempt to creat..."
+      "translated": "这是一次理论上的尝试，旨在创造出比图灵机更加优美的替代方案。当有人意外地将这篇论文转化为一个可运行的Lisp解释器时，数字当然不是以列表形式表示的；它们是以二进制形式表示的，就像其他所有语言一样。编程语言能否走得更远，以至于完全取消数字作为基本数据类型？"
     },
     {
       "original": "I ask this not so much as a serious question as as a way to play chicken with the future. It's like the hypothetical case of an irresistible force meeting an immovable object-- here, an unimaginably inefficient implementation meeting unimaginably great resources.",
-      "translated": "[待翻译] I ask this not so much as a serious question as as..."
+      "translated": "我提出这个问题与其说是为了认真求解，不如说是为了与未来玩一场“胆小鬼游戏”。这就像一个假设案例中无法抗拒的力量遇到了不可动摇的物体——在这里，一个难以想象的低效实现遇到了难以想象的巨大资源。"
     },
     {
       "original": "I don't see why not. The future is pretty long. If there's something we can do to decrease the number of axioms in the core language, that would seem to be the side to bet on as t approaches infinity.",
-      "translated": "[待翻译] I don't see why not. The future is pretty long. If..."
+      "translated": "我不明白为什么不行。未来还很长。如果我们可以做些什么来减少核心语言中的公理数量，那么随着时间趋于无穷，这似乎是我们应该押注的方向。"
     },
     {
       "original": "If the idea still seems unbearable in a hundred years, maybe it won't in a thousand.Just to be clear about this, I'm not proposing that all numerical calculations would actually be carried out using lists.",
-      "translated": "[待翻译] If the idea still seems unbearable in a hundred ye..."
+      "translated": "如果这个想法在一百年后仍然难以接受，那么在一千年后可能就不会了。为了澄清这一点，我并不是建议所有的数值计算实际上都会使用列表来完成。"
     },
     {
       "original": "I'm proposing that the core language, prior to any additional notations about implementation, be defined this way. In practice any program that wanted to do any amount of math would probably represent numbers in binary, but this would be an optimization, not part of the core language semantics.Another way to burn up cycles is to have many layers of software between the application and the hardware.",
-      "translated": "[待翻译] I'm proposing that the core language, prior to any..."
+      "translated": "我建议在定义任何关于实现的附加符号之前，核心语言应这样定义。实际上，任何想要进行大量数学计算的程序可能会以二进制形式表示数字，但这是一种优化，不是核心语言语义的一部分。另一种消耗周期的方法是在应用程序和硬件之间存在多层软件。"
     },
     {
       "original": "This too is a trend we see happening already: many recent languages are compiled into byte code. Bill Woods once told me that, as a rule of thumb, each layer of interpretation costs a factor of 10 in speed.",
-      "translated": "[待翻译] This too is a trend we see happening already: many..."
+      "translated": "这同样是一个我们已经看到的趋势：许多最近的编程语言都被编译成字节码。比尔·伍兹曾经告诉我，作为一个经验法则，每一层解释会使得速度降低大约10倍。"
     },
     {
       "original": "This extra cost buys you flexibility.The very first version of Arc was an extreme case of this sort of multi-level slowness, with corresponding benefits. It was a classic \"metacircular\" interpreter written on top of Common Lisp, with a definite family resemblance to the eval function defined in McCarthy's original Lisp paper.",
-      "translated": "[待翻译] This extra cost buys you flexibility.The very firs..."
+      "translated": "这笔额外的成本为您带来了灵活性。Arc 的最初版本就是这种多级缓慢的典型案例，但同时也带来了相应的益处。它是一个经典的“元循环”解释器，基于 Common Lisp 构建，与 McCarthy 最初的 Lisp 论文中定义的 eval 函数有明显的相似之处。"
     },
     {
       "original": "The whole thing was only a couple hundred lines of code, so it was very easy to understand and change. The Common Lisp we used, CLisp, itself runs on top of a byte code interpreter. So here we had two levels of interpretation, one of them (the top one) shockingly inefficient, and the language was usable.",
-      "translated": "[待翻译] The whole thing was only a couple hundred lines of..."
+      "translated": "整个代码只有几百行，因此非常容易理解和修改。我们使用的Common Lisp（CLisp）本身是在字节码解释器上运行的。所以这里有两层解释，其中顶层的解释效率惊人地低，但语言仍然可用。"
     },
     {
       "original": "Barely usable, I admit, but usable.Writing software as multiple layers is a powerful technique even within applications. Bottom-up programming means writing a program as a series of layers, each of which serves as a language for the one above.",
-      "translated": "[待翻译] Barely usable, I admit, but usable.Writing softwar..."
+      "translated": "勉强可用，我承认，但确实可用。将软件编写为多个层次是一种强大的技术，即使在应用程序内部也是如此。自底向上编程意味着将程序编写为一系列层次，每一层都为上一层提供语言支持。"
     },
     {
       "original": "This approach tends to yield smaller, more flexible programs. It's also the best route to that holy grail, reusability. A language is by definition reusable. The more of your application you can push down into a language for writing that type of application, the more of your software will be reusable.Somehow the idea of reusability got attached to object-oriented programming in the 1980s, and no amount of evidence to the contrary seems to be able to shake it free.",
-      "translated": "[待翻译] This approach tends to yield smaller, more flexibl..."
+      "translated": "这种方法往往能产生更小巧、更灵活的程序。它也是通往那个神圣目标——可重用性——的最佳途径。语言本质上是可重用的。你将应用程序的更多部分下沉到用于编写该类型应用程序的语言中，你的软件就会有更多部分可以重用。不知为何，可重用性的概念在20世纪80年代与面向对象编程联系在了一起，而且无论有多少相反的证据，都无法改变这一看法。"
     },
     {
       "original": "But although some object-oriented software is reusable, what makes it reusable is its bottom-upness, not its object-orientedness. Consider libraries: they're reusable because they're language, whether they're written in an object-oriented style or not.I don't predict the demise of object-oriented programming, by the way.",
-      "translated": "[待翻译] But although some object-oriented software is reus..."
+      "translated": "但是，尽管某些面向对象的软件是可重用的，使其可重用的是其自底向上的特性，而不是面向对象的特性。以库为例：它们之所以可重用，是因为它们是语言，无论它们是否以面向对象的风格编写。顺便说一句，我并不预测面向对象编程的消亡。"
     },
     {
       "original": "Though I don't think it has much to offer good programmers, except in certain specialized domains, it is irresistible to large organizations. Object-oriented programming offers a sustainable way to write spaghetti code.",
-      "translated": "[待翻译] Though I don't think it has much to offer good pro..."
+      "translated": "尽管我认为它对优秀的程序员帮助不大，除非在某些特定的专业领域，但它对大型组织具有无法抗拒的吸引力。面向对象编程提供了一种可持续编写面条代码的方法。"
     },
     {
       "original": "It lets you accrete programs as a series of patches. Large organizations always tend to develop software this way, and I expect this to be as true in a hundred years as it is today. As long as we're talking about the future, we had better talk about parallel computation, because that's where this idea seems to live.",
-      "translated": "[待翻译] It lets you accrete programs as a series of patche..."
+      "translated": "它让你以一系列补丁的形式积累程序。大型组织总是倾向于以这种方式开发软件，我预计这种情况在一百年后仍会如此。既然我们在谈论未来，最好也谈论一下并行计算，因为这个想法似乎就存在于那里。"
     },
     {
       "original": "That is, no matter when you're talking, parallel computation seems to be something that is going to happen in the future.Will the future ever catch up with it? People have been talking about parallel computation as something imminent for at least 20 years, and it hasn't affected programming practice much so far.",
-      "translated": "[待翻译] That is, no matter when you're talking, parallel c..."
+      "translated": "也就是说，无论何时讨论，平行计算似乎都是未来会发生的事情。未来是否会赶上它？人们已经至少谈论了20年，认为平行计算即将来临，但迄今为止，它对编程实践的影响并不大。"
     },
     {
       "original": "Or hasn't it? Already chip designers have to think about it, and so must people trying to write systems software on multi-cpu computers.The real question is, how far up the ladder of abstraction will parallelism go?",
-      "translated": "[待翻译] Or hasn't it? Already chip designers have to think..."
+      "translated": "或者并非如此？芯片设计师已经不得不考虑这个问题，同时在多核计算机上编写系统软件的人也是如此。真正的问题是，平行计算能上升到抽象层次的多高？"
     },
     {
       "original": "In a hundred years will it affect even application programmers? Or will it be something that compiler writers think about, but which is usually invisible in the source code of applications?One thing that does seem likely is that most opportunities for parallelism will be wasted.",
-      "translated": "[待翻译] In a hundred years will it affect even application..."
+      "translated": "一百年后，这会影响到应用程序员吗？还是说这将只是一些编译器编写者需要考虑的事情，而在应用程序的源代码中通常不可见？有一件事看似很有可能，那就是大多数并行性的机会将被浪费。"
     },
     {
       "original": "This is a special case of my more general prediction that most of the extra computer power we're given will go to waste. I expect that, as with the stupendous speed of the underlying hardware, parallelism will be something that is available if you ask for it explicitly, but ordinarily not used.",
-      "translated": "[待翻译] This is a special case of my more general predicti..."
+      "translated": "这是一个我更为广泛的预测的特殊情况，即我们所获得的额外计算能力大多将被浪费。我预计，就像底层硬件的惊人速度一样，平行处理将是一种只有在明确要求时才会提供的功能，但在通常情况下不会被使用。"
     },
     {
       "original": "This implies that the kind of parallelism we have in a hundred years will not, except in special applications, be massive parallelism. I expect for ordinary programmers it will be more like being able to fork off processes that all end up running in parallel.And this will, like asking for specific implementations of data structures, be something that you do fairly late in the life of a program, when you try to optimize it.",
-      "translated": "[待翻译] This implies that the kind of parallelism we have ..."
+      "translated": "这意味着，除了在特殊应用中，一百年后我们所拥有的并行性将不会是大规模并行。我预计对于普通程序员来说，它将更像能够派生出最终并行运行的进程。这将类似于在程序生命周期的后期，当你试图优化程序时才去请求特定的数据结构实现。"
     },
     {
       "original": "Version 1s will ordinarily ignore any advantages to be got from parallel computation, just as they will ignore advantages to be got from specific representations of data.Except in special kinds of applications, parallelism won't pervade the programs that are written in a hundred years.",
-      "translated": "[待翻译] Version 1s will ordinarily ignore any advantages t..."
+      "translated": "第1版通常会忽略并行计算带来的任何优势，就像它们会忽略特定数据表示带来的优势一样。除了在特殊类型的应用中，即使在一百年后，所编写的程序也不会普遍采用并行性。"
     },
     {
       "original": "It would be premature optimization if it did.How many programming languages will there be in a hundred years? There seem to be a huge number of new programming languages lately. Part of the reason is that faster hardware has allowed programmers to make different tradeoffs between speed and convenience, depending on the application.",
-      "translated": "[待翻译] It would be premature optimization if it did.How m..."
+      "translated": "如果这样做就是过早优化。一百年后会有多少种编程语言？最近似乎出现了大量新的编程语言。部分原因是更快的硬件使程序员能够在速度和便利性之间做出不同的取舍，具体取决于应用程序。"
     },
     {
       "original": "If this is a real trend, the hardware we'll have in a hundred years should only increase it.And yet there may be only a few widely-used languages in a hundred years. Part of the reason I say this is optimism: it seems that, if you did a really good job, you could make a language that was ideal for writing a slow version 1, and yet with the right optimization advice to the compiler, would also yield very fast code when necessary.",
-      "translated": "[待翻译] If this is a real trend, the hardware we'll have i..."
+      "translated": "如果这是一个真正的趋势，那么一百年后我们拥有的硬件只会增强这种趋势。然而，一百年后可能只有几种广泛使用的语言。我这么说部分是出于乐观：似乎如果你做得足够好，你可以创造一种语言，它在编写缓慢的版本1时是理想的，而通过向编译器提供正确的优化建议，必要时也能生成非常快速的代码。"
     },
     {
       "original": "So, since I'm optimistic, I'm going to predict that despite the huge gap they'll have between acceptable and maximal efficiency, programmers in a hundred years will have languages that can span most of it.As this gap widens, profilers will become increasingly important.",
-      "translated": "[待翻译] So, since I'm optimistic, I'm going to predict tha..."
+      "translated": "因此，由于我是个乐观主义者，我预测尽管在可接受效率和最高效率之间存在巨大差距，一百年后的程序员将拥有能够覆盖大部分这一差距的语言。随着这一差距的扩大，性能分析器将变得越来越重要。"
     },
     {
       "original": "Little attention is paid to profiling now. Many people still seem to believe that the way to get fast applications is to write compilers that generate fast code. As the gap between acceptable and maximal performance widens, it will become increasingly clear that the way to get fast applications is to have a good guide from one to the other.When I say there may only be a few languages, I'm not including domain-specific \"little languages\".",
-      "translated": "[待翻译] Little attention is paid to profiling now. Many pe..."
+      "translated": "现在很少有人关注性能分析。许多人似乎仍然认为，要获得快速的应用程序，关键在于编写能够生成高效代码的编译器。随着可接受性能和最高性能之间的差距不断扩大，将会越来越明显地认识到，要获得快速的应用程序，关键在于有一个从前者到后者的良好指导。当我说可能只有少数几种语言时，我并没有包括领域特定的“小程序语言”。"
     },
     {
       "original": "I think such embedded languages are a great idea, and I expect them to proliferate. But I expect them to be written as thin enough skins that users can see the general-purpose language underneath.Who will design the languages of the future?",
-      "translated": "[待翻译] I think such embedded languages are a great idea, ..."
+      "translated": "我认为这种嵌入式语言是一个很好的想法，并且我期待它们会广泛传播。但我希望它们能被设计得足够轻薄，使用户能够看到底层的通用语言。未来的语言将由谁来设计？"
     },
     {
       "original": "One of the most exciting trends in the last ten years has been the rise of open-source languages like Perl, Python, and Ruby. Language design is being taken over by hackers. The results so far are messy, but encouraging.",
-      "translated": "[待翻译] One of the most exciting trends in the last ten ye..."
+      "translated": "过去十年中最令人兴奋的趋势之一是像Perl、Python和Ruby这样的开源语言的兴起。语言设计正在被黑客接管。目前的结果虽然杂乱，但令人鼓舞。"
     },
     {
       "original": "There are some stunningly novel ideas in Perl, for example. Many are stunningly bad, but that's always true of ambitious efforts. At its current rate of mutation, God knows what Perl might evolve into in a hundred years.It's not true that those who can't do, teach (some of the best hackers I know are professors), but it is true that there are a lot of things that those who teach can't do.",
-      "translated": "[待翻译] There are some stunningly novel ideas in Perl, for..."
+      "translated": "Perl 中有一些令人惊叹的新奇想法。许多想法确实糟糕透了，但这对于雄心勃勃的尝试来说总是不可避免的。按照目前的演变速度，天知道 Perl 在一百年后会变成什么样子。并不是那些做不成事的人才去教书（我认识的一些最优秀的黑客就是教授），但确实有很多事情是那些教书的人做不成的。"
     },
     {
       "original": "Research imposes constraining caste restrictions. In any academic field there are topics that are ok to work on and others that aren't. Unfortunately the distinction between acceptable and forbidden topics is usually based on how intellectual the work sounds when described in research papers, rather than how important it is for getting good results.",
-      "translated": "[待翻译] Research imposes constraining caste restrictions. ..."
+      "translated": "研究强加了限制性的种姓制度。在任何学术领域，都有可以研究和不可以研究的主题。不幸的是，可接受主题与禁忌主题之间的区别通常基于在研究论文中描述工作时听起来多么有知识性，而不是它对于取得良好结果的重要性。"
     },
     {
       "original": "The extreme case is probably literature; people studying literature rarely say anything that would be of the slightest use to those producing it.Though the situation is better in the sciences, the overlap between the kind of work you're allowed to do and the kind of work that yields good languages is distressingly small.",
-      "translated": "[待翻译] The extreme case is probably literature; people st..."
+      "translated": "极端的例子可能是文学；研究文学的人很少会说一些对文学创作有用的话。尽管在科学领域情况好一些，但你被允许做的工作与能产生良好语言的工作之间的重叠部分令人遗憾地少得可怜。"
     },
     {
       "original": "(Olin Shivers has grumbled eloquently about this.) For example, types seem to be an inexhaustible source of research papers, despite the fact that static typing seems to preclude true macros-- without which, in my opinion, no language is worth using.The trend is not merely toward languages being developed as open-source projects rather than \"research\", but toward languages being designed by the application programmers who need to use them, rather than by compiler writers.",
-      "translated": "[待翻译] (Olin Shivers has grumbled eloquently about this.)..."
+      "translated": "（Olin Shivers 曾对此进行了有力的抱怨。）例如，类型似乎是研究论文的无穷无尽的来源，尽管静态类型似乎排除了真正的宏——在我看来，没有宏的语言根本不值得使用。这一趋势不仅表现为语言的开发更多地是开源项目而非“研究”，而且还表现为语言的设计者更多是需要使用这些语言的应用程序员，而非编译器编写者。"
     },
     {
       "original": "This seems a good trend and I expect it to continue. Unlike physics in a hundred years, which is almost necessarily impossible to predict, I think it may be possible in principle to design a language now that would appeal to users in a hundred years.One way to design a language is to just write down the program you'd like to be able to write, regardless of whether there is a compiler that can translate it or hardware that can run it.",
-      "translated": "[待翻译] This seems a good trend and I expect it to continu..."
+      "translated": "这似乎是一个良好的趋势，我预计它会继续下去。与一百年后的物理学几乎必然无法预测不同，我认为原则上现在可以设计出一种语言，它将会吸引一百年后的用户。设计语言的一种方法就是直接写下你希望能够编写的程序，不管现在是否有编译器能够翻译它，或者是否有硬件能够运行它。"
     },
     {
       "original": "When you do this you can assume unlimited resources. It seems like we ought to be able to imagine unlimited resources as well today as in a hundred years.What program would one like to write? Whatever is least work.",
-      "translated": "[待翻译] When you do this you can assume unlimited resource..."
+      "translated": "当你这样做时，可以假设资源是无限的。似乎我们应该能够像一百年后一样，在今天也想象出无限的资源。你会想要编写什么样的程序？当然是最省力的那种。"
     },
     {
       "original": "Except not quite: whatever would be least work if your ideas about programming weren't already influenced by the languages you're currently used to. Such influence can be so pervasive that it takes a great effort to overcome it.",
-      "translated": "[待翻译] Except not quite: whatever would be least work if ..."
+      "translated": "除了不完全是这样：如果你的编程观念没有受到你目前所熟悉的语言的影响，那么最省力的方式就会有所不同。这种影响是如此普遍，以至于要克服它需要极大的努力。"
     },
     {
       "original": "You'd think it would be obvious to creatures as lazy as us how to express a program with the least effort. In fact, our ideas about what's possible tend to be so limited by whatever language we think in that easier formulations of programs seem very surprising.",
-      "translated": "[待翻译] You'd think it would be obvious to creatures as la..."
+      "translated": "你可能会认为，像我们这样懒的生物，如何用最少的努力表达一个程序应该是显而易见的。实际上，我们关于可能性的想法往往受到我们所用语言的极大限制，因此更简便的程序表达方式看起来会非常令人惊讶。"
     },
     {
       "original": "They're something you have to discover, not something you naturally sink into.One helpful trick here is to use the length of the program as an approximation for how much work it is to write. Not the length in characters, of course, but the length in distinct syntactic elements-- basically, the size of the parse tree.",
-      "translated": "[待翻译] They're something you have to discover, not someth..."
+      "translated": "这些东西是你必须去发现的，而不是自然而然就会陷入其中的。这里有一个有用的技巧，就是用程序的长度来估算编写它所需的工作量。当然，不是指字符的长度，而是指不同的语法元素的长度——基本上，就是解析树的大小。"
     },
     {
       "original": "It may not be quite true that the shortest program is the least work to write, but it's close enough that you're better off aiming for the solid target of brevity than the fuzzy, nearby one of least work.",
-      "translated": "[待翻译] It may not be quite true that the shortest program..."
+      "translated": "最短的程序未必是编写起来最省力的，但二者之间的差距足够小，以至于你最好还是以简洁为明确目标，而不是追求模糊的最小工作量。"
     },
     {
       "original": "Then the algorithm for language design becomes: look at a program and ask, is there any way to write this that's shorter?In practice, writing programs in an imaginary hundred-year language will work to varying degrees depending on how close you are to the core.",
-      "translated": "[待翻译] Then the algorithm for language design becomes: lo..."
+      "translated": "然后，语言设计的算法就变成了：审视一段程序并思考，是否有更简洁的写法？实际上，用一种假设的百年语言编写程序的效果会因你与核心的接近程度而有所不同。"
     },
     {
       "original": "Sort routines you can write now. But it would be hard to predict now what kinds of libraries might be needed in a hundred years. Presumably many libraries will be for domains that don't even exist yet.",
-      "translated": "[待翻译] Sort routines you can write now. But it would be h..."
+      "translated": "你现在可以编写排序例程。但很难预测一百年后可能需要什么样的库。可以设想，许多库将用于目前尚不存在的领域。"
     },
     {
       "original": "If SETI@home works, for example, we'll need libraries for communicating with aliens. Unless of course they are sufficiently advanced that they already communicate in XML.At the other extreme, I think you might be able to design the core language today.",
-      "translated": "[待翻译] If SETI@home works, for example, we'll need librar..."
+      "translated": "如果SETI@home项目成功，例如，我们将需要与外星人通信的库。当然，除非他们足够先进，已经使用XML进行通信。在另一个极端，我认为你今天可能就能够设计出核心语言。"
     },
     {
       "original": "In fact, some might argue that it was already mostly designed in 1958.If the hundred year language were available today, would we want to program in it? One way to answer this question is to look back.",
-      "translated": "[待翻译] In fact, some might argue that it was already most..."
+      "translated": "事实上，有些人可能会认为它在1958年就已经基本设计完成了。如果这门百年语言今天已经存在，我们是否愿意用它来编程呢？回答这个问题的一个方法是回顾历史。"
     },
     {
       "original": "If present-day programming languages had been available in 1960, would anyone have wanted to use them?In some ways, the answer is no. Languages today assume infrastructure that didn't exist in 1960. For example, a language in which indentation is significant, like Python, would not work very well on printer terminals.",
-      "translated": "[待翻译] If present-day programming languages had been avai..."
+      "translated": "如果当今的编程语言在1960年就存在，是否有人会想要使用它们？在某些方面，答案是否定的。今天的语言假设了一些1960年并不存在的基础设施。例如，像Python这样对缩进敏感的语言，在打印机终端上使用效果不会很好。"
     },
     {
       "original": "But putting such problems aside-- assuming, for example, that programs were all just written on paper-- would programmers of the 1960s have liked writing programs in the languages we use now?I think so.",
-      "translated": "[待翻译] But putting such problems aside-- assuming, for ex..."
+      "translated": "但撇开这些问题不谈——假设程序都是写在纸上的——20世纪60年代的程序员会喜欢用我们现在使用的语言编写程序吗？我想他们会的。"
     },
     {
       "original": "Some of the less imaginative ones, who had artifacts of early languages built into their ideas of what a program was, might have had trouble. (How can you manipulate data without doing pointer arithmetic?",
-      "translated": "[待翻译] Some of the less imaginative ones, who had artifac..."
+      "translated": "一些缺乏想象力的人，他们的程序概念中嵌入了早期语言的元素，可能会遇到困难。（没有指针运算，你怎么能操作数据呢？）"
     },
     {
       "original": "How can you implement flow charts without gotos?) But I think the smartest programmers would have had no trouble making the most of present-day languages, if they'd had them.If we had the hundred-year language now, it would at least make a great pseudocode.",
-      "translated": "[待翻译] How can you implement flow charts without gotos?) ..."
+      "translated": "如何在不使用goto的情况下实现流程图？) 但我认为最聪明的程序员如果拥有现代语言的话，肯定能够充分利用它们。如果我们现在就有这种百年语言，至少它会成为一种极好的伪代码。"
     },
     {
       "original": "What about using it to write software? Since the hundred-year language will need to generate fast code for some applications, presumably it could generate code efficient enough to run acceptably well on our hardware.",
-      "translated": "[待翻译] What about using it to write software? Since the h..."
+      "translated": "那么用它来编写软件怎么样呢？既然这门百年语言需要为某些应用生成快速的代码，想必它能够生成足够高效的代码，以在我们的硬件上运行得令人满意。"
     },
     {
       "original": "We might have to give more optimization advice than users in a hundred years, but it still might be a net win.Now we have two ideas that, if you combine them, suggest interesting possibilities: (1) the hundred-year language could, in principle, be designed today, and (2) such a language, if it existed, might be good to program in today.",
-      "translated": "[待翻译] We might have to give more optimization advice tha..."
+      "translated": "我们可能需要比一百年后的用户给出更多的优化建议，但这仍然可能是一个净胜。现在我们有两个想法，如果将它们结合起来，就会暗示一些有趣的可能性：（1）原则上，一百年的语言可以今天设计，（2）如果这种语言存在，那么今天使用它编程可能也是很好的。"
     },
     {
       "original": "When you see these ideas laid out like that, it's hard not to think, why not try writing the hundred-year language now?When you're working on language design, I think it is good to have such a target and to keep it consciously in mind.",
-      "translated": "[待翻译] When you see these ideas laid out like that, it's ..."
+      "translated": "当你看到这些想法这样排列时，不禁会想，为什么不现在就开始尝试编写这门百年语言呢？在进行语言设计时，我认为有一个这样的目标并时刻将其记在心中是很好的。"
     },
     {
       "original": "When you learn to drive, one of the principles they teach you is to align the car not by lining up the hood with the stripes painted on the road, but by aiming at some point in the distance. Even if all you care about is what happens in the next ten feet, this is the right answer.",
-      "translated": "[待翻译] When you learn to drive, one of the principles the..."
+      "translated": "当你学习驾驶时，他们教给你的一个原则是，不要通过将车头与路上的标线对齐来调整车辆位置，而是要瞄准远处的某个点。即使你只关心接下来的十英尺会发生什么，这仍然是正确的做法。"
     },
     {
       "original": "I think we can and should do the same thing with programming languages. NotesI believe Lisp Machine Lisp was the first language to embody the principle that declarations (except those of dynamic variables) were merely optimization advice, and would not change the meaning of a correct program.",
-      "translated": "[待翻译] I think we can and should do the same thing with p..."
+      "translated": "我认为我们可以在编程语言上做同样的事情。我认为Lisp机上的Lisp是首个体现这一原则的语言，即声明（动态变量的声明除外）仅仅是优化建议，不会改变正确程序的含义。"
     },
     {
       "original": "Common Lisp seems to have been the first to state this explicitly.Thanks to Trevor Blackwell, Robert Morris, and Dan Giffin for reading drafts of this, and to Guido van Rossum, Jeremy Hylton, and the rest of the Python crew for inviting me to speak at PyCon.",
-      "translated": "[待翻译] Common Lisp seems to have been the first to state ..."
+      "translated": "Common Lisp 似乎是第一个明确表述这一点的。感谢 Trevor Blackwell、Robert Morris 和 Dan Giffin 阅读本文的草稿，以及感谢 Guido van Rossum、Jeremy Hylton 和 Python 团队的其他成员邀请我在 PyCon 上发言。"
     },
     {
       "original": "You'll find this essay and 14 others in Hackers & Painters.",
-      "translated": "[待翻译] You'll find this essay and 14 others in Hackers & ..."
+      "translated": "你可以在《黑客与画家》中找到这篇散文以及另外14篇。"
     }
-  ]
+  ],
+  "translation_completed": "2025-07-29T11:18:15.287470",
+  "translation_stats": {
+    "total_paragraphs": 95,
+    "success_count": 95,
+    "success_rate": "100.0%"
+  }
 }

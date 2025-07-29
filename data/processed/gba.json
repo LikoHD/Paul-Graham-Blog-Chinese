@@ -61,183 +61,189 @@
   "paragraphs": [
     {
       "original": "April 2004To the popular press, \"hacker\" means someone who breaks into computers. Among programmers it means a good programmer. But the two meanings are connected. To programmers, \"hacker\" connotes mastery in the most literal sense: someone who can make a computer do what he wants—whether the computer wants to or not.To add to the confusion, the noun \"hack\" also has two senses.",
-      "translated": "[待翻译] April 2004To the popular press, \"hacker\" means som..."
+      "translated": "2004年4月\n\n对大众媒体而言，“黑客”指的是那些侵入计算机的人。而在程序员中，它意味着一位优秀的程序员。但这两个含义是相连的。对程序员来说，“黑客”意味着最直接意义上的掌握：能够让计算机按照他的意愿行事的人——无论计算机是否愿意。\n\n更添混乱的是，名词“黑客行为”也有两种含义。"
     },
     {
       "original": "It can be either a compliment or an insult. It's called a hack when you do something in an ugly way. But when you do something so clever that you somehow beat the system, that's also called a hack. The word is used more often in the former than the latter sense, probably because ugly solutions are more common than brilliant ones.Believe it or not, the two senses of \"hack\" are also connected.",
-      "translated": "[待翻译] It can be either a compliment or an insult. It's c..."
+      "translated": "这既可能是一种赞美，也可能是一种侮辱。当你以一种粗糙的方式做事时，这被称为“黑客行为”。但当你以一种极其聪明的方式 somehow 打败了系统，这也被称为“黑客行为”。这个词更多地用于前者而非后者，可能是因为粗糙的解决方案比天才的解决方案更为常见。你可能不相信，但“黑客行为”这两个含义实际上是相互关联的。"
     },
     {
       "original": "Ugly and imaginative solutions have something in common: they both break the rules. And there is a gradual continuum between rule breaking that's merely ugly (using duct tape to attach something to your bike) and rule breaking that is brilliantly imaginative (discarding Euclidean space).Hacking predates computers.",
-      "translated": "[待翻译] Ugly and imaginative solutions have something in c..."
+      "translated": "丑陋和富有想象力的解决方案有一个共同点：它们都打破了规则。在仅仅是丑陋的规则破坏（例如用胶带将东西粘在自行车上）和极具创意的规则破坏（比如抛弃欧几里得空间）之间，存在着一个逐渐过渡的连续体。黑客行为早于计算机的出现。"
     },
     {
       "original": "When he was working on the Manhattan Project, Richard Feynman used to amuse himself by breaking into safes containing secret documents. This tradition continues today. When we were in grad school, a hacker friend of mine who spent too much time around MIT had his own lock picking kit.",
-      "translated": "[待翻译] When he was working on the Manhattan Project, Rich..."
+      "translated": "当他在曼哈顿计划工作时，理查德·费曼常常通过破解存放机密文件的保险箱来消遣自己。这一传统延续至今。当我们在读研究生时，我有一位在麻省理工学院待得时间太长的黑客朋友，他拥有一套自己的开锁工具。"
     },
     {
       "original": "(He now runs a hedge fund, a not unrelated enterprise.)It is sometimes hard to explain to authorities why one would want to do such things. Another friend of mine once got in trouble with the government for breaking into computers.",
-      "translated": "[待翻译] (He now runs a hedge fund, a not unrelated enterpr..."
+      "translated": "（他现在经营着一家对冲基金，这与之前的事情并非没有关联。）有时候很难向当局解释为什么想要做这样的事情。我的另一位朋友就曾因侵入计算机而惹上政府的麻烦。"
     },
     {
       "original": "This had only recently been declared a crime, and the FBI found that their usual investigative technique didn't work. Police investigation apparently begins with a motive. The usual motives are few: drugs, money, sex, revenge.",
-      "translated": "[待翻译] This had only recently been declared a crime, and ..."
+      "translated": "这不久前才被定为犯罪，而FBI发现他们常用的调查手段并不奏效。警方的调查似乎都是从动机开始的。常见的动机寥寥无几：毒品、金钱、性、报复。"
     },
     {
       "original": "Intellectual curiosity was not one of the motives on the FBI's list. Indeed, the whole concept seemed foreign to them.Those in authority tend to be annoyed by hackers' general attitude of disobedience.",
-      "translated": "[待翻译] Intellectual curiosity was not one of the motives ..."
+      "translated": "求知欲并不是联邦调查局列出的动机之一。事实上，整个概念对他们来说似乎都很陌生。权威人士往往对黑客普遍的不服从态度感到恼火。"
     },
     {
       "original": "But that disobedience is a byproduct of the qualities that make them good programmers. They may laugh at the CEO when he talks in generic corporate newspeech, but they also laugh at someone who tells them a certain problem can't be solved.",
-      "translated": "[待翻译] But that disobedience is a byproduct of the qualit..."
+      "translated": "但这种不服从是他们成为优秀程序员的品质的副产品。当首席执行官用通用的企业新闻语言讲话时，他们可能会嘲笑他，但他们也会嘲笑那些告诉他们某个问题无法解决的人。"
     },
     {
       "original": "Suppress one, and you suppress the other.This attitude is sometimes affected. Sometimes young programmers notice the eccentricities of eminent hackers and decide to adopt some of their own in order to seem smarter.",
-      "translated": "[待翻译] Suppress one, and you suppress the other.This atti..."
+      "translated": "抑制一个，就抑制了另一个。这种态度有时是装出来的。有时，年轻的程序员会注意到著名黑客的怪癖，并决定模仿一些，以显得更聪明。"
     },
     {
       "original": "The fake version is not merely annoying; the prickly attitude of these posers can actually slow the process of innovation.But even factoring in their annoying eccentricities, the disobedient attitude of hackers is a net win.",
-      "translated": "[待翻译] The fake version is not merely annoying; the prick..."
+      "translated": "假版本不仅令人讨厌；这些冒充者的刺头态度实际上会拖慢创新的进程。但即使考虑到他们令人厌烦的怪癖，黑客的不守规矩态度总体上还是有利的。"
     },
     {
       "original": "I wish its advantages were better understood.For example, I suspect people in Hollywood are simply mystified by hackers' attitudes toward copyrights. They are a perennial topic of heated discussion on Slashdot.",
-      "translated": "[待翻译] I wish its advantages were better understood.For e..."
+      "translated": "我希望它的优点能被更好地理解。例如，我猜好莱坞的人们对黑客对版权的态度感到困惑不解。这一直是Slashdot上热烈讨论的永恒话题。"
     },
     {
       "original": "But why should people who program computers be so concerned about copyrights, of all things?Partly because some companies use mechanisms to prevent copying. Show any hacker a lock and his first thought is how to pick it.",
-      "translated": "[待翻译] But why should people who program computers be so ..."
+      "translated": "但为什么程序员会对版权如此关心呢？部分原因是一些公司使用了防止复制的机制。给任何黑客看一把锁，他首先想到的便是如何破解它。"
     },
     {
       "original": "But there is a deeper reason that hackers are alarmed by measures like copyrights and patents. They see increasingly aggressive measures to protect \"intellectual property\" as a threat to the intellectual freedom they need to do their job.",
-      "translated": "[待翻译] But there is a deeper reason that hackers are alar..."
+      "translated": "但黑客对诸如版权和专利之类的措施感到担忧，还有一个更深层次的原因。他们认为，保护“知识产权”的措施越来越 aggressive，这威胁到了他们工作所需的智力自由。"
     },
     {
       "original": "And they are right.It is by poking about inside current technology that hackers get ideas for the next generation. No thanks, intellectual homeowners may say, we don't need any outside help. But they're wrong.",
-      "translated": "[待翻译] And they are right.It is by poking about inside cu..."
+      "translated": "他们说的没错。黑客正是通过研究当前技术的内部机制，才获得了下一代技术的灵感。知识产权的所有者可能会说，不需要外界的帮助，但我们错了。"
     },
     {
       "original": "The next generation of computer technology has often—perhaps more often than not—been developed by outsiders.In 1977 there was no doubt some group within IBM developing what they expected to be the next generation of business computer.",
-      "translated": "[待翻译] The next generation of computer technology has oft..."
+      "translated": "下一代计算机技术通常——也许比我们想象的还要多——是由局外人开发的。1977年，IBM内部无疑有一些团队正在开发他们认为将是下一代商用计算机的产品。"
     },
     {
       "original": "They were mistaken. The next generation of business computer was being developed on entirely different lines by two long-haired guys called Steve in a garage in Los Altos. At about the same time, the powers that be were cooperating to develop the official next generation operating system, Multics.",
-      "translated": "[待翻译] They were mistaken. The next generation of busines..."
+      "translated": "他们错了。下一代商用计算机正由两个留长发的史蒂夫在洛斯阿尔托斯的一间车库里以完全不同的方式开发。大约在同一时期，官方正在合作开发下一代操作系统——Multics。"
     },
     {
       "original": "But two guys who thought Multics excessively complex went off and wrote their own. They gave it a name that was a joking reference to Multics: Unix.The latest intellectual property laws impose unprecedented restrictions on the sort of poking around that leads to new ideas.",
-      "translated": "[待翻译] But two guys who thought Multics excessively compl..."
+      "translated": "但是，有两个人认为Multics过于复杂，就自己编写了一个系统。他们给这个系统起的名字是对Multics的一种玩笑式的引用：Unix。最新的知识产权法对那种能够激发新想法的探索行为施加了前所未有的限制。"
     },
     {
       "original": "In the past, a competitor might use patents to prevent you from selling a copy of something they made, but they couldn't prevent you from taking one apart to see how it worked. The latest laws make this a crime.",
-      "translated": "[待翻译] In the past, a competitor might use patents to pre..."
+      "translated": "过去，竞争对手可能利用专利阻止你销售他们制造的产品的复制品，但他们无法阻止你拆解产品以了解其工作原理。最新的法律将这种行为定为犯罪。"
     },
     {
       "original": "How are we to develop new technology if we can't study current technology to figure out how to improve it?Ironically, hackers have brought this on themselves. Computers are responsible for the problem.",
-      "translated": "[待翻译] How are we to develop new technology if we can't s..."
+      "translated": "如果不能研究现有技术来找出改进的方法，我们如何开发新技术？具有讽刺意味的是，黑客自己导致了这一问题。计算机是造成这一问题的原因。"
     },
     {
       "original": "The control systems inside machines used to be physical: gears and levers and cams. Increasingly, the brains (and thus the value) of products is in software. And by this I mean software in the general sense: i.e.",
-      "translated": "[待翻译] The control systems inside machines used to be phy..."
+      "translated": "机器内部的控制系统过去是物理的：齿轮、杠杆和凸轮。如今，产品的“大脑”（以及其价值）越来越多地体现在软件上。这里所说的软件是广义上的：即"
     },
     {
       "original": "data. A song on an LP is physically stamped into the plastic. A song on an iPod's disk is merely stored on it.Data is by definition easy to copy. And the Internet makes copies easy to distribute. So it is no wonder companies are afraid.",
-      "translated": "[待翻译] data. A song on an LP is physically stamped into t..."
+      "translated": "数据。一张黑胶唱片上的歌曲是物理地压印在塑料上的。而iPod硬盘上的歌曲只是存储在其上。数据的定义就是易于复制。而互联网使得复制内容易于分发。因此，公司感到害怕也就不足为奇了。"
     },
     {
       "original": "But, as so often happens, fear has clouded their judgement. The government has responded with draconian laws to protect intellectual property. They probably mean well. But they may not realize that such laws will do more harm than good.Why are programmers so violently opposed to these laws?",
-      "translated": "[待翻译] But, as so often happens, fear has clouded their j..."
+      "translated": "但是，正如经常发生的那样，恐惧蒙蔽了他们的判断。政府出台了严苛的法律来保护知识产权。他们的本意可能是好的。但他们可能没有意识到，这样的法律弊大于利。为什么程序员会对这些法律如此强烈地反对？"
     },
     {
       "original": "If I were a legislator, I'd be interested in this mystery—for the same reason that, if I were a farmer and suddenly heard a lot of squawking coming from my hen house one night, I'd want to go out and investigate.",
-      "translated": "[待翻译] If I were a legislator, I'd be interested in this ..."
+      "translated": "如果我是一名立法者，我会对这一神秘现象感兴趣——就像如果我是一名农民，某天晚上突然听到鸡舍里传来一阵嘈杂的叫声，我也会想去查看一番。"
     },
     {
       "original": "Hackers are not stupid, and unanimity is very rare in this world. So if they're all squawking, perhaps there is something amiss.Could it be that such laws, though intended to protect America, will actually harm it?",
-      "translated": "[待翻译] Hackers are not stupid, and unanimity is very rare..."
+      "translated": "黑客并不愚蠢，而在这个世界上，意见一致的情况非常罕见。所以，如果他们都在大声疾呼，也许确实有什么不对劲。难道这些法律虽然旨在保护美国，但实际上会损害美国吗？"
     },
     {
       "original": "Think about it. There is something very American about Feynman breaking into safes during the Manhattan Project. It's hard to imagine the authorities having a sense of humor about such things over in Germany at that time.",
-      "translated": "[待翻译] Think about it. There is something very American a..."
+      "translated": "想想看。费曼在曼哈顿计划期间破解保险箱的行为，非常具有美国特色。很难想象当时在德国，当局会对这种事情报以幽默的态度。"
     },
     {
       "original": "Maybe it's not a coincidence.Hackers are unruly. That is the essence of hacking. And it is also the essence of Americanness. It is no accident that Silicon Valley is in America, and not France, or Germany, or England, or Japan.",
-      "translated": "[待翻译] Maybe it's not a coincidence.Hackers are unruly. T..."
+      "translated": "也许这并非巧合。黑客是不守常规的。这就是黑客精神的本质。同时也是美国精神的本质。硅谷位于美国而非法国、德国、英国或日本，这绝非偶然。"
     },
     {
       "original": "In those countries, people color inside the lines.I lived for a while in Florence. But after I'd been there a few months I realized that what I'd been unconsciously hoping to find there was back in the place I'd just left.",
-      "translated": "[待翻译] In those countries, people color inside the lines...."
+      "translated": "在那些国家，人们都在线条内着色。我曾在佛罗伦萨生活过一段时间。但几个月后，我意识到我无意识中希望在那里找到的东西实际上在我刚离开的地方。"
     },
     {
       "original": "The reason Florence is famous is that in 1450, it was New York. In 1450 it was filled with the kind of turbulent and ambitious people you find now in America. (So I went back to America.)It is greatly to America's advantage that it is a congenial atmosphere for the right sort of unruliness—that it is a home not just for the smart, but for smart-alecks.",
-      "translated": "[待翻译] The reason Florence is famous is that in 1450, it ..."
+      "translated": "佛罗伦萨之所以出名，是因为在1450年，它就是那时的纽约。1450年的佛罗伦萨，充满了如今在美国才能见到的那种充满活力和野心的人。（所以我回到了美国。）对美国极为有利的一点是，它为那种正当的叛逆提供了一种友好的氛围——它不仅是聪明人的家园，也是那些自作聪明的人的乐园。"
     },
     {
       "original": "And hackers are invariably smart-alecks. If we had a national holiday, it would be April 1st. It says a great deal about our work that we use the same word for a brilliant or a horribly cheesy solution.",
-      "translated": "[待翻译] And hackers are invariably smart-alecks. If we had..."
+      "translated": "黑客总是自作聪明。如果我们有一个全国性的节日，那一定是4月1日。这充分说明了我们的工作，我们用同一个词来形容一个绝妙的或是一个极其糟糕的解决方案。"
     },
     {
       "original": "When we cook one up we're not always 100% sure which kind it is. But as long as it has the right sort of wrongness, that's a promising sign. It's odd that people think of programming as precise and methodical.",
-      "translated": "[待翻译] When we cook one up we're not always 100% sure whi..."
+      "translated": "当我们烹制出一个时，我们并不总是100%确定它是哪一种。但只要它具有那种正确的错误性，那就是一个好兆头。人们认为编程是精确而有条不紊的，这真是奇怪。"
     },
     {
       "original": "Computers are precise and methodical. Hacking is something you do with a gleeful laugh.In our world some of the most characteristic solutions are not far removed from practical jokes. IBM was no doubt rather surprised by the consequences of the licensing deal for DOS, just as the hypothetical \"adversary\" must be when Michael Rabin solves a problem by redefining it as one that's easier to solve.Smart-alecks have to develop a keen sense of how much they can get away with.",
-      "translated": "[待翻译] Computers are precise and methodical. Hacking is s..."
+      "translated": "计算机是精确而有条不紊的。黑客攻击则伴随着欢快的笑声。在我们的世界里，一些最具特色的解决方案与恶作剧相去不远。IBM 无疑对 DOS 许可协议的后果感到相当惊讶，就像当迈克尔·拉宾通过重新定义问题使其变得更容易解决时，假设的“对手”也一定感到意外。聪明的捣蛋鬼必须培养一种敏锐的直觉，知道他们能走多远。"
     },
     {
       "original": "And lately hackers have sensed a change in the atmosphere. Lately hackerliness seems rather frowned upon.To hackers the recent contraction in civil liberties seems especially ominous. That must also mystify outsiders.",
-      "translated": "[待翻译] And lately hackers have sensed a change in the atm..."
+      "translated": "近来，黑客们感觉到氛围有所变化。如今，黑客行为似乎越来越不受待见。对黑客而言，最近公民自由的缩减显得尤其不祥。这对外行人来说也一定令人费解。"
     },
     {
       "original": "Why should we care especially about civil liberties? Why programmers, more than dentists or salesmen or landscapers?Let me put the case in terms a government official would appreciate. Civil liberties are not just an ornament, or a quaint American tradition.",
-      "translated": "[待翻译] Why should we care especially about civil libertie..."
+      "translated": "为什么我们特别关心公民自由？为什么程序员比牙医、销售人员或园艺师更关心这个问题？让我用政府官员能理解的方式来阐述。公民自由不仅仅是一种装饰，或是一种奇特的美国传统。"
     },
     {
       "original": "Civil liberties make countries rich. If you made a graph of GNP per capita vs. civil liberties, you'd notice a definite trend. Could civil liberties really be a cause, rather than just an effect? I think so.",
-      "translated": "[待翻译] Civil liberties make countries rich. If you made a..."
+      "translated": "公民自由使国家富裕。如果你绘制一张人均国民生产总值与公民自由度的关系图，你会注意到一个明显的趋势。公民自由真的可能是原因，而不仅仅是结果吗？我认为是的。"
     },
     {
       "original": "I think a society in which people can do and say what they want will also tend to be one in which the most efficient solutions win, rather than those sponsored by the most influential people. Authoritarian countries become corrupt; corrupt countries become poor; and poor countries are weak.",
-      "translated": "[待翻译] I think a society in which people can do and say w..."
+      "translated": "我认为，一个人们可以自由表达和行动的社会，也将是一个最有效的解决方案胜出的社会，而不是那些由最有影响力的人支持的方案。专制国家会变得腐败；腐败的国家会变得贫穷；而贫穷的国家是虚弱的。"
     },
     {
       "original": "It seems to me there is a Laffer curve for government power, just as for tax revenues. At least, it seems likely enough that it would be stupid to try the experiment and find out. Unlike high tax rates, you can't repeal totalitarianism if it turns out to be a mistake.This is why hackers worry.",
-      "translated": "[待翻译] It seems to me there is a Laffer curve for governm..."
+      "translated": "在我看来，政府权力也存在拉弗曲线，就像税收收入一样。至少，这种可能性足够大，以至于尝试这个实验将是愚蠢的。与高税率不同，如果你发现极权主义是个错误，它是无法废除的。这就是为什么黑客们会担心。"
     },
     {
       "original": "The government spying on people doesn't literally make programmers write worse code. It just leads eventually to a world in which bad ideas win. And because this is so important to hackers, they're especially sensitive to it.",
-      "translated": "[待翻译] The government spying on people doesn't literally ..."
+      "translated": "政府监视人民并不会直接导致程序员编写更差的代码。但它最终会造就一个坏主意获胜的世界。由于这一点对黑客尤为重要，他们对此特别敏感。"
     },
     {
       "original": "They can sense totalitarianism approaching from a distance, as animals can sense an approaching thunderstorm.It would be ironic if, as hackers fear, recent measures intended to protect national security and intellectual property turned out to be a missile aimed right at what makes America successful.",
-      "translated": "[待翻译] They can sense totalitarianism approaching from a ..."
+      "translated": "他们能够从远处感知到极权主义的逼近，就像动物能感知到即将来临的暴风雨一样。如果黑客们的担心成真，即最近旨在保护国家安全和知识产权的措施最终成为针对美国成功之处的一枚导弹，这将具有讽刺意味。"
     },
     {
       "original": "But it would not be the first time that measures taken in an atmosphere of panic had the opposite of the intended effect.There is such a thing as Americanness. There's nothing like living abroad to teach you that.",
-      "translated": "[待翻译] But it would not be the first time that measures t..."
+      "translated": "但这并不是第一次，在恐慌气氛中采取的措施产生了与预期相反的效果。有一种叫做“美国特性”的东西。只有在国外生活过，你才会真正明白这一点。"
     },
     {
       "original": "And if you want to know whether something will nurture or squash this quality, it would be hard to find a better focus group than hackers, because they come closest of any group I know to embodying it.",
-      "translated": "[待翻译] And if you want to know whether something will nur..."
+      "translated": "如果你想了解某件事是否会培养或扼杀这种品质，很难找到比黑客更好的焦点群体了，因为就我所知，他们最能体现这种品质。"
     },
     {
       "original": "Closer, probably, than the men running our government, who for all their talk of patriotism remind me more of Richelieu or Mazarin than Thomas Jefferson or George Washington.When you read what the founding fathers had to say for themselves, they sound more like hackers.",
-      "translated": "[待翻译] Closer, probably, than the men running our governm..."
+      "translated": "更近一些，可能比那些掌管我们政府的人更近，他们口口声声说着爱国，却让我更多地想到了黎塞留或马扎林，而不是托马斯·杰斐逊或乔治·华盛顿。当你读到开国先贤们的自述时，他们听起来更像是黑客。"
     },
     {
       "original": "\"The spirit of resistance to government,\" Jefferson wrote, \"is so valuable on certain occasions, that I wish it always to be kept alive.\"Imagine an American president saying that today. Like the remarks of an outspoken old grandmother, the sayings of the founding fathers have embarrassed generations of their less confident successors.",
-      "translated": "[待翻译] \"The spirit of resistance to government,\" Jefferso..."
+      "translated": "“反抗政府的精神在某些时候是如此宝贵，”杰斐逊写道，“我希望它始终能够保持活力。”想象一下今天有哪位美国总统会这样说。就像一位直言不讳的老祖母的言论一样，开国先贤们的名言让后来那些不够自信的接班人感到尴尬。"
     },
     {
       "original": "They remind us where we come from. They remind us that it is the people who break rules that are the source of America's wealth and power.Those in a position to impose rules naturally want them to be obeyed.",
-      "translated": "[待翻译] They remind us where we come from. They remind us ..."
+      "translated": "它们提醒我们来自何方。它们提醒我们，正是那些打破规则的人是美国财富和力量的源泉。那些有权制定规则的人自然希望规则被遵守。"
     },
     {
       "original": "But be careful what you ask for. You might get it.Thanks to Ken Anderson, Trevor Blackwell, Daniel Giffin, Sarah Harlin, Shiro Kawai, Jessica Livingston, Matz, Jackie McDonough, Robert Morris, Eric Raymond, Guido van Rossum, David Weinberger, and Steven Wolfram for reading drafts of this essay.",
-      "translated": "[待翻译] But be careful what you ask for. You might get it...."
+      "translated": "但要小心你所求的。你可能会如愿以偿。感谢 Ken Anderson、Trevor Blackwell、Daniel Giffin、Sarah Harlin、Shiro Kawai、Jessica Livingston、Matz、Jackie McDonough、Robert Morris、Eric Raymond、Guido van Rossum、David Weinberger 和 Steven Wolfram 阅读本文的草稿。"
     },
     {
       "original": "(The image shows Steves Jobs and Wozniak with a \"blue box.\" Photo by Margret Wozniak. Reproduced by permission of Steve Wozniak.)Portuguese TranslationHebrew TranslationRomanian Translation You'll find this essay and 14 others in Hackers & Painters.",
-      "translated": "[待翻译] (The image shows Steves Jobs and Wozniak with a \"b..."
+      "translated": "（图片显示的是史蒂夫·乔布斯和沃兹尼亚克手持一个“蓝盒子”。照片由玛格丽特·沃兹尼亚克拍摄。经史蒂夫·沃兹尼亚克许可复制。）你可以在《黑客与画家》中找到这篇随笔和其他14篇。"
     }
-  ]
+  ],
+  "translation_completed": "2025-07-28T15:29:25.335292",
+  "translation_stats": {
+    "total_paragraphs": 45,
+    "success_count": 45,
+    "success_rate": "100.0%"
+  }
 }

@@ -106,369 +106,369 @@
   "paragraphs": [
     {
       "original": "Want to start a startup? Get funded by Y Combinator. April 2001, rev. April 2003(This article is derived from a talk given at the 2001 Franz Developer Symposium.) In the summer of 1995, my friend Robert Morris and I started a startup called Viaweb.",
-      "translated": "[翻译失败] Want to start a startup? Get funded by Y Combinato..."
+      "translated": "想创业吗？那就争取得到 Y Combinator 的投资。2001年4月，修订于2003年4月（本文源自2001年Franz开发者研讨会的演讲。）1995年夏天，我和我的朋友罗伯特·莫里斯共同创立了一家名为Viaweb的创业公司。"
     },
     {
       "original": "Our plan was to write software that would let end users build online stores. What was novel about this software, at the time, was that it ran on our server, using ordinary Web pages as the interface.A lot of people could have been having this idea at the same time, of course, but as far as I know, Viaweb was the first Web-based application.",
-      "translated": "[翻译失败] Our plan was to write software that would let end ..."
+      "translated": "我们的计划是编写一款能够让最终用户构建在线商店的软件。当时，这款软件的创新之处在于它运行在我们的服务器上，使用普通的网页作为界面。当然，可能有很多人在同一时间想到了这个主意，但据我所知，Viaweb 是第一个基于网络的应用程序。"
     },
     {
       "original": "It seemed such a novel idea to us that we named the company after it: Viaweb, because our software worked via the Web, instead of running on your desktop computer.Another unusual thing about this software was that it was written primarily in a programming language called Lisp.",
-      "translated": "[翻译失败] It seemed such a novel idea to us that we named th..."
+      "translated": "这对我们来说似乎是一个新颖的想法，以至于我们用它来命名公司：Viaweb，因为我们的软件是通过网络运行的，而不是在你的桌面计算机上运行。这个软件的另一个不寻常之处在于，它主要是用一种名为Lisp的编程语言编写的。"
     },
     {
       "original": "It was one of the first big end-user applications to be written in Lisp, which up till then had been used mostly in universities and research labs. [1]The Secret WeaponEric Raymond has written an essay called \"How to Become a Hacker,\" and in it, among other things, he tells would-be hackers what languages they should learn.",
-      "translated": "[翻译失败] It was one of the first big end-user applications ..."
+      "translated": "这是最早用Lisp编写的大规模终端用户应用程序之一，直到那时，Lisp主要在大学和研究实验室中使用。[1]《秘密武器》埃里克·雷蒙德写了一篇题为《如何成为一名黑客》的文章，在这篇文章中，他不仅告诉了有志成为黑客的人应该学习哪些编程语言，还提供了其他一些建议。"
     },
     {
       "original": "He suggests starting with Python and Java, because they are easy to learn. The serious hacker will also want to learn C, in order to hack Unix, and Perl for system administration and cgi scripts. Finally, the truly serious hacker should consider learning Lisp: Lisp is worth learning for the profound enlightenment experience you will have when you finally get it; that experience will make you a better programmer for the rest of your days, even if you never actually use Lisp itself a lot.",
-      "translated": "[翻译失败] He suggests starting with Python and Java, because..."
+      "translated": "他建议从 Python 和 Java 开始，因为它们容易学习。严肃的黑客还应该学习 C 语言，以便能够破解 Unix，学习 Perl 用于系统管理和 CGI 脚本。最后，真正严肃的黑客应该考虑学习 Lisp：学习 Lisp 是值得的，因为当你最终理解它时，会有一种深刻的启蒙体验；这种体验将使你在余生中成为一名更好的程序员，即使你实际上并不会大量使用 Lisp 本身。"
     },
     {
       "original": "This is the same argument you tend to hear for learning Latin. It won't get you a job, except perhaps as a classics professor, but it will improve your mind, and make you a better writer in languages you do want to use, like English.But wait a minute.",
-      "translated": "[翻译失败] This is the same argument you tend to hear for lea..."
+      "translated": "这和你经常听到的学拉丁语的理由如出一辙。学拉丁语可能除了让你成为一个古典文学教授之外，不会直接帮你找到工作，但它能提升你的思维能力，使你在使用英语等你确实希望掌握的语言时，成为更好的写作者。但等一下。"
     },
     {
       "original": "This metaphor doesn't stretch that far. The reason Latin won't get you a job is that no one speaks it. If you write in Latin, no one can understand you. But Lisp is a computer language, and computers speak whatever language you, the programmer, tell them to.So if Lisp makes you a better programmer, like he says, why wouldn't you want to use it?",
-      "translated": "[翻译失败] This metaphor doesn't stretch that far. The reason..."
+      "translated": "这个比喻并不能延伸得那么远。拉丁语不能帮你找到工作的原因是没有人使用它。如果你用拉丁语写作，没有人能理解你。但 Lisp 是一种计算机语言，计算机能根据你，即程序员的指示，使用任何语言。所以，如果 Lisp 能让你成为一个更好的程序员，就像他说的那样，你为什么不想要使用它呢？"
     },
     {
       "original": "If a painter were offered a brush that would make him a better painter, it seems to me that he would want to use it in all his paintings, wouldn't he? I'm not trying to make fun of Eric Raymond here.",
-      "translated": "[翻译失败] If a painter were offered a brush that would make ..."
+      "translated": "如果一个画家得到了一支能使他画得更好的画笔，我想他会在所有画作中使用这支画笔，不是吗？我并不是想嘲笑埃里克·雷蒙德。"
     },
     {
       "original": "On the whole, his advice is good. What he says about Lisp is pretty much the conventional wisdom. But there is a contradiction in the conventional wisdom: Lisp will make you a better programmer, and yet you won't use it.Why not?",
-      "translated": "[翻译失败] On the whole, his advice is good. What he says abo..."
+      "translated": "总体来说，他的建议是好的。关于Lisp的看法基本上是普遍的观点。但这种普遍观点中存在一个矛盾：Lisp会让你成为一个更好的程序员，然而你却不会使用它。为什么呢？"
     },
     {
       "original": "Programming languages are just tools, after all. If Lisp really does yield better programs, you should use it. And if it doesn't, then who needs it?This is not just a theoretical question. Software is a very competitive business, prone to natural monopolies.",
-      "translated": "[翻译失败] Programming languages are just tools, after all. I..."
+      "translated": "编程语言归根结底只是工具。如果 Lisp 确实能产生更好的程序，你就应该使用它。如果不能，那谁还需要它呢？这不仅仅是一个理论问题。软件行业竞争非常激烈，容易形成自然垄断。"
     },
     {
       "original": "A company that gets software written faster and better will, all other things being equal, put its competitors out of business. And when you're starting a startup, you feel this very keenly. Startups tend to be an all or nothing proposition.",
-      "translated": "[翻译失败] A company that gets software written faster and be..."
+      "translated": "一家能够更快更好地编写软件的公司，在其他条件相同的情况下，将会把竞争对手逼出市场。而当你开始创业时，这种感觉尤为强烈。创业公司往往是一个要么全胜要么全输的命题。"
     },
     {
       "original": "You either get rich, or you get nothing. In a startup, if you bet on the wrong technology, your competitors will crush you.Robert and I both knew Lisp well, and we couldn't see any reason not to trust our instincts and go with Lisp.",
-      "translated": "[翻译失败] You either get rich, or you get nothing. In a star..."
+      "translated": "你要么发财，要么一无所有。在创业公司中，如果你押注的技术错了，竞争对手会把你碾压。罗伯特和我都精通Lisp，我们看不出任何理由不信任我们的直觉，选择Lisp。"
     },
     {
       "original": "We knew that everyone else was writing their software in C++ or Perl. But we also knew that that didn't mean anything. If you chose technology that way, you'd be running Windows. When you choose technology, you have to ignore what other people are doing, and consider only what will work the best.This is especially true in a startup.",
-      "translated": "[翻译失败] We knew that everyone else was writing their softw..."
+      "translated": "我们知道大家都在用C++或Perl编写软件。但我们也很清楚，这并不意味着什么。如果你这样选择技术，你最终会用上Windows。在选择技术时，你必须忽略其他人正在使用什么，而只考虑什么是最有效的。这一点对于创业公司尤为重要。"
     },
     {
       "original": "In a big company, you can do what all the other big companies are doing. But a startup can't do what all the other startups do. I don't think a lot of people realize this, even in startups.The average big company grows at about ten percent a year.",
-      "translated": "[翻译失败] In a big company, you can do what all the other bi..."
+      "translated": "在大公司里，你可以做其他大公司都在做的事情。但是一家初创公司不能做所有其他初创公司在做的事情。我认为很多人没有意识到这一点，即使是在初创公司里。一般的大公司每年的增长率约为百分之十。"
     },
     {
       "original": "So if you're running a big company and you do everything the way the average big company does it, you can expect to do as well as the average big company-- that is, to grow about ten percent a year.The same thing will happen if you're running a startup, of course.",
-      "translated": "[翻译失败] So if you're running a big company and you do ever..."
+      "translated": "所以，如果你经营一家大公司，并且一切都按照普通大公司的方式来做，你可以期待达到普通大公司的水平——也就是说，每年大约增长百分之十。当然，如果你经营的是初创公司，情况也会是一样的。"
     },
     {
       "original": "If you do everything the way the average startup does it, you should expect average performance. The problem here is, average performance means that you'll go out of business. The survival rate for startups is way less than fifty percent.",
-      "translated": "[翻译失败] If you do everything the way the average startup d..."
+      "translated": "如果你凡事都按照普通创业公司的做法去做，那就应该预期会有普通的表现。问题在于，普通的表现意味着你会倒闭。创业公司的生存率远低于百分之五十。"
     },
     {
       "original": "So if you're running a startup, you had better be doing something odd. If not, you're in trouble.Back in 1995, we knew something that I don't think our competitors understood, and few understand even now: when you're writing software that only has to run on your own servers, you can use any language you want.",
-      "translated": "[翻译失败] So if you're running a startup, you had better be ..."
+      "translated": "所以，如果你在经营一家初创公司，你最好做一些与众不同的事情。如果不这样做，你就麻烦了。1995年时，我们知道一些事情，我认为我们的竞争对手并没有理解，甚至现在也很少有人明白：当你编写的软件只需要在你自己的服务器上运行时，你可以使用任何你想要的语言。"
     },
     {
       "original": "When you're writing desktop software, there's a strong bias toward writing applications in the same language as the operating system. Ten years ago, writing applications meant writing applications in C.",
-      "translated": "[翻译失败] When you're writing desktop software, there's a st..."
+      "translated": "当你编写桌面软件时，有一种强烈的倾向是使用与操作系统相同语言来编写应用程序。十年前，编写应用程序意味着使用C语言来编写。"
     },
     {
       "original": "But with Web-based software, especially when you have the source code of both the language and the operating system, you can use whatever language you want.This new freedom is a double-edged sword, however.",
-      "translated": "[翻译失败] But with Web-based software, especially when you h..."
+      "translated": "但是，使用基于网络的软件，尤其是当你拥有语言和操作系统的源代码时，你可以使用任何你想要的语言。然而，这种新的自由是一把双刃剑。"
     },
     {
       "original": "Now that you can use any language, you have to think about which one to use. Companies that try to pretend nothing has changed risk finding that their competitors do not.If you can use any language, which do you use?",
-      "translated": "[翻译失败] Now that you can use any language, you have to thi..."
+      "translated": "现在你可以使用任何语言，你必须考虑使用哪一种。那些试图假装一切都没有改变的公司，可能会发现他们的竞争对手并非如此。如果你可以使用任何语言，你会选择哪一种？"
     },
     {
       "original": "We chose Lisp. For one thing, it was obvious that rapid development would be important in this market. We were all starting from scratch, so a company that could get new features done before its competitors would have a big advantage.",
-      "translated": "[翻译失败] We chose Lisp. For one thing, it was obvious that ..."
+      "translated": "我们选择了Lisp。一方面，很明显在这个市场中快速开发将非常重要。我们都是从零开始，所以能够比竞争对手更快地推出新功能的公司将具有很大的优势。"
     },
     {
       "original": "We knew Lisp was a really good language for writing software quickly, and server-based applications magnify the effect of rapid development, because you can release software the minute it's done.If other companies didn't want to use Lisp, so much the better.",
-      "translated": "[翻译失败] We knew Lisp was a really good language for writin..."
+      "translated": "我们知道Lisp是一种非常适合快速编写软件的语言，而基于服务器的应用程序能够放大快速开发的效果，因为软件一旦完成就可以立即发布。如果其他公司不愿意使用Lisp，那对我们来说就更好了。"
     },
     {
       "original": "It might give us a technological edge, and we needed all the help we could get. When we started Viaweb, we had no experience in business. We didn't know anything about marketing, or hiring people, or raising money, or getting customers.",
-      "translated": "[翻译失败] It might give us a technological edge, and we need..."
+      "translated": "这也许能给我们带来技术上的优势，而我们需要一切可能的帮助。当我们开始创建Viaweb时，我们没有任何商业经验。我们对市场营销、招聘人员、筹集资金或吸引客户一无所知。"
     },
     {
       "original": "Neither of us had ever even had what you would call a real job. The only thing we were good at was writing software. We hoped that would save us. Any advantage we could get in the software department, we would take.So you could say that using Lisp was an experiment.",
-      "translated": "[翻译失败] Neither of us had ever even had what you would cal..."
+      "translated": "我们俩都从来没有真正做过什么像样的工作。我们唯一擅长的就是编写软件。我们希望这能救我们。在软件方面能获得的任何优势，我们都会抓住。所以可以说，使用Lisp是一种尝试。"
     },
     {
       "original": "Our hypothesis was that if we wrote our software in Lisp, we'd be able to get features done faster than our competitors, and also to do things in our software that they couldn't do. And because Lisp was so high-level, we wouldn't need a big development team, so our costs would be lower.",
-      "translated": "[翻译失败] Our hypothesis was that if we wrote our software i..."
+      "translated": "我们的假设是，如果我们用Lisp编写软件，我们将能够比竞争对手更快地完成功能开发，并且能够在软件中实现他们无法实现的功能。由于Lisp是一种高级语言，我们不需要一个庞大的开发团队，因此我们的成本会更低。"
     },
     {
       "original": "If this were so, we could offer a better product for less money, and still make a profit. We would end up getting all the users, and our competitors would get none, and eventually go out of business.",
-      "translated": "[翻译失败] If this were so, we could offer a better product f..."
+      "translated": "如果真是这样，我们就能以更低的价格提供更好的产品，同时还能盈利。最终，我们会吸引所有的用户，而我们的竞争对手将一个用户也得不到，最终退出市场。"
     },
     {
       "original": "That was what we hoped would happen, anyway.What were the results of this experiment? Somewhat surprisingly, it worked. We eventually had many competitors, on the order of twenty to thirty of them, but none of their software could compete with ours.",
-      "translated": "[翻译失败] That was what we hoped would happen, anyway.What w..."
+      "translated": "这正是我们所希望的结果。这个实验的结果如何呢？令人惊讶的是，它成功了。最终我们有了很多竞争者，大约二十到三十个，但他们的软件都无法与我们的相匹敌。"
     },
     {
       "original": "We had a wysiwyg online store builder that ran on the server and yet felt like a desktop application. Our competitors had cgi scripts. And we were always far ahead of them in features. Sometimes, in desperation, competitors would try to introduce features that we didn't have.",
-      "translated": "[翻译失败] We had a wysiwyg online store builder that ran on ..."
+      "translated": "我们有一个所见即所得的在线商店构建器，它在服务器上运行，但感觉像桌面应用程序。我们的竞争对手使用的是 CGI 脚本。而在功能方面，我们始终遥遥领先。有时，出于绝望，竞争对手会试图引入我们没有的功能。"
     },
     {
       "original": "But with Lisp our development cycle was so fast that we could sometimes duplicate a new feature within a day or two of a competitor announcing it in a press release. By the time journalists covering the press release got round to calling us, we would have the new feature too.It must have seemed to our competitors that we had some kind of secret weapon-- that we were decoding their Enigma traffic or something.",
-      "translated": "[翻译失败] But with Lisp our development cycle was so fast th..."
+      "translated": "但使用 Lisp，我们的开发周期非常快，有时甚至能在竞争对手在新闻发布会上宣布新功能后的几天内就复制出来。等到报道新闻发布会的记者打电话给我们时，我们也会有那个新功能。对于我们的竞争对手来说，这一定像是我们有某种秘密武器——仿佛我们在破解他们的“恩尼格玛”密码一样。"
     },
     {
       "original": "In fact we did have a secret weapon, but it was simpler than they realized. No one was leaking news of their features to us. We were just able to develop software faster than anyone thought possible.When I was about nine I happened to get hold of a copy of The Day of the Jackal, by Frederick Forsyth.",
-      "translated": "[翻译失败] In fact we did have a secret weapon, but it was si..."
+      "translated": "事实上，我们确实有一个秘密武器，但它比他们想象的要简单得多。没有人向我们泄露他们的功能信息。我们只是能够以比任何人想象的都要快的速度开发软件。我九岁左右的时候，偶然得到了一本弗雷德里克·福塞思的《豺狼之日》。"
     },
     {
       "original": "The main character is an assassin who is hired to kill the president of France. The assassin has to get past the police to get up to an apartment that overlooks the president's route. He walks right by them, dressed up as an old man on crutches, and they never suspect him.Our secret weapon was similar.",
-      "translated": "[翻译失败] The main character is an assassin who is hired to ..."
+      "translated": "主角是一名受雇暗杀法国总统的刺客。他必须穿过警察的防线，到达一个可以俯瞰总统行进路线的公寓。他装扮成一个拄着拐杖的老人，大摇大摆地从他们身边走过，警察丝毫没有起疑。我们的秘密武器也是类似的。"
     },
     {
       "original": "We wrote our software in a weird AI language, with a bizarre syntax full of parentheses. For years it had annoyed me to hear Lisp described that way. But now it worked to our advantage. In business, there is nothing more valuable than a technical advantage your competitors don't understand.",
-      "translated": "[翻译失败] We wrote our software in a weird AI language, with..."
+      "translated": "我们用一种奇特的AI语言编写了软件，这种语言的语法充满了括号。多年来，听到Lisp被这样描述一直让我感到不快。但现在这反而成了我们的优势。在商界，没有什么比竞争对手无法理解的技术优势更有价值了。"
     },
     {
       "original": "In business, as in war, surprise is worth as much as force.And so, I'm a little embarrassed to say, I never said anything publicly about Lisp while we were working on Viaweb. We never mentioned it to the press, and if you searched for Lisp on our Web site, all you'd find were the titles of two books in my bio.",
-      "translated": "[翻译失败] In business, as in war, surprise is worth as much ..."
+      "translated": "在商界，如同战争一样，出其不意的价值等同于力量。因此，我有点不好意思地说，在我们开发Viaweb期间，我从未在公开场合提到过Lisp。我们从未向媒体提及，如果你在我们的网站上搜索Lisp，所能找到的只是我简介中两本书的标题。"
     },
     {
       "original": "This was no accident. A startup should give its competitors as little information as possible. If they didn't know what language our software was written in, or didn't care, I wanted to keep it that way.[2]The people who understood our technology best were the customers.",
-      "translated": "[翻译失败] This was no accident. A startup should give its co..."
+      "translated": "这绝非偶然。一家初创公司应该尽可能少地向竞争对手透露信息。如果他们不知道我们软件是用什么语言编写的，或者并不在意，我希望能保持这种状态。对我们技术理解最深刻的人是客户。"
     },
     {
       "original": "They didn't care what language Viaweb was written in either, but they noticed that it worked really well. It let them build great looking online stores literally in minutes. And so, by word of mouth mostly, we got more and more users.",
-      "translated": "[翻译失败] They didn't care what language Viaweb was written ..."
+      "translated": "他们并不关心Viaweb是用哪种语言编写的，但他们注意到它运行得非常好。它让他们能够在几分钟内建立外观精美的在线商店。因此，主要通过口口相传，我们的用户越来越多。"
     },
     {
       "original": "By the end of 1996 we had about 70 stores online. At the end of 1997 we had 500. Six months later, when Yahoo bought us, we had 1070 users. Today, as Yahoo Store, this software continues to dominate its market.",
-      "translated": "[翻译失败] By the end of 1996 we had about 70 stores online. ..."
+      "translated": "到1996年底，我们大约有70家门店上线。到1997年底，这个数字达到了500家。六个月后，当雅虎收购我们时，用户数达到了1070。如今，作为雅虎商店，这款软件继续在其市场上占据主导地位。"
     },
     {
       "original": "It's one of the more profitable pieces of Yahoo, and the stores built with it are the foundation of Yahoo Shopping. I left Yahoo in 1999, so I don't know exactly how many users they have now, but the last I heard there were about 20,000.",
-      "translated": "[翻译失败] It's one of the more profitable pieces of Yahoo, a..."
+      "translated": "这是雅虎较为盈利的一部分，用它建立的商店构成了雅虎购物的基础。我在1999年离开了雅虎，所以我不清楚他们现在到底有多少用户，但最后一次听说时大约有20,000名用户。"
     },
     {
       "original": "The Blub ParadoxWhat's so great about Lisp? And if Lisp is so great, why doesn't everyone use it? These sound like rhetorical questions, but actually they have straightforward answers. Lisp is so great not because of some magic quality visible only to devotees, but because it is simply the most powerful language available.",
-      "translated": "[翻译失败] The Blub ParadoxWhat's so great about Lisp? And if..."
+      "translated": "布卢悖论\nLisp 有什么了不起的？如果 Lisp 真的这么好，为什么不是每个人都在使用它？这些问题听起来像是修辞问句，但实际上它们有直接的答案。Lisp 如此出色，并不是因为只有信徒才能看到的某种神奇品质，而是因为它简单地就是最强大的语言。"
     },
     {
       "original": "And the reason everyone doesn't use it is that programming languages are not merely technologies, but habits of mind as well, and nothing changes slower. Of course, both these answers need explaining.I'll begin with a shockingly controversial statement: programming languages vary in power.Few would dispute, at least, that high level languages are more powerful than machine language.",
-      "translated": "[翻译失败] And the reason everyone doesn't use it is that pro..."
+      "translated": "而且，大家不使用它的原因在于，编程语言不仅仅是技术，还是一种思维方式，而没有什么比这更难改变的了。当然，这两个答案都需要解释。我将以一个令人震惊且有争议的声明开始：编程语言在能力上存在差异。至少，很少有人会否认高级语言比机器语言更强大。"
     },
     {
       "original": "Most programmers today would agree that you do not, ordinarily, want to program in machine language. Instead, you should program in a high-level language, and have a compiler translate it into machine language for you.",
-      "translated": "[翻译失败] Most programmers today would agree that you do not..."
+      "translated": "如今，大多数程序员都认同，通常情况下，你不应该用机器语言编程。相反，你应该使用高级语言编程，然后让编译器将其翻译成机器语言。"
     },
     {
       "original": "This idea is even built into the hardware now: since the 1980s, instruction sets have been designed for compilers rather than human programmers.Everyone knows it's a mistake to write your whole program by hand in machine language.",
-      "translated": "[翻译失败] This idea is even built into the hardware now: sin..."
+      "translated": "这个理念甚至已经融入了硬件：自20世纪80年代以来，指令集的设计都是为了编译器而不是人类程序员。众所周知，用机器语言手动编写整个程序是一个错误。"
     },
     {
       "original": "What's less often understood is that there is a more general principle here: that if you have a choice of several languages, it is, all other things being equal, a mistake to program in anything but the most powerful one.",
-      "translated": "[翻译失败] What's less often understood is that there is a mo..."
+      "translated": "更少被人理解的是，这里有一个更普遍的原则：如果你可以选择多种编程语言，那么在其他条件相同的情况下，选择除最强有力的语言之外的任何语言进行编程都是一个错误。"
     },
     {
       "original": "[3]There are many exceptions to this rule. If you're writing a program that has to work very closely with a program written in a certain language, it might be a good idea to write the new program in the same language.",
-      "translated": "[翻译失败] [3]There are many exceptions to this rule. If you'..."
+      "translated": "[3]这条规则有许多例外。如果你正在编写一个必须与用特定语言编写的一个程序紧密协作的程序，那么使用同一种语言来编写新程序可能是一个好主意。"
     },
     {
       "original": "If you're writing a program that only has to do something very simple, like number crunching or bit manipulation, you may as well use a less abstract language, especially since it may be slightly faster.",
-      "translated": "[翻译失败] If you're writing a program that only has to do so..."
+      "translated": "如果你编写的程序只需要完成一些非常简单的任务，比如数值计算或位操作，那么你不妨使用一种抽象程度较低的语言，尤其是因为这样可能会稍微快一些。"
     },
     {
       "original": "And if you're writing a short, throwaway program, you may be better off just using whatever language has the best library functions for the task. But in general, for application software, you want to be using the most powerful (reasonably efficient) language you can get, and using anything else is a mistake, of exactly the same kind, though possibly in a lesser degree, as programming in machine language.You can see that machine language is very low level.",
-      "translated": "[翻译失败] And if you're writing a short, throwaway program, ..."
+      "translated": "如果你正在编写一个简短的、一次性程序，可能最好直接使用对任务有最佳库函数的语言。但总体来说，对于应用程序软件，你应当使用你能获得的最强大（且合理高效）的语言，使用其他语言则是一个错误，尽管程度可能较轻，但性质与用机器语言编程的错误是相同的。你可以看出，机器语言是非常底层的。"
     },
     {
       "original": "But, at least as a kind of social convention, high-level languages are often all treated as equivalent. They're not. Technically the term \"high-level language\" doesn't mean anything very definite. There's no dividing line with machine languages on one side and all the high-level languages on the other.",
-      "translated": "[翻译失败] But, at least as a kind of social convention, high..."
+      "translated": "但至少作为一种社会惯例，高级语言经常被一视同仁。其实不然。从技术上讲，“高级语言”这个术语并没有非常明确的定义。在机器语言和所有高级语言之间并没有明确的分界线。"
     },
     {
       "original": "Languages fall along a continuum [4] of abstractness, from the most powerful all the way down to machine languages, which themselves vary in power.Consider Cobol. Cobol is a high-level language, in the sense that it gets compiled into machine language.",
-      "translated": "[翻译失败] Languages fall along a continuum [4] of abstractne..."
+      "translated": "语言沿着抽象程度的连续谱分布，从最具表现力的一直延伸到机器语言，而机器语言本身在表现力上也有所不同。以Cobol为例。Cobol是一种高级语言，因为它会被编译成机器语言。"
     },
     {
       "original": "Would anyone seriously argue that Cobol is equivalent in power to, say, Python? It's probably closer to machine language than Python.Or how about Perl 4? Between Perl 4 and Perl 5, lexical closures got added to the language.",
-      "translated": "[翻译失败] Would anyone seriously argue that Cobol is equival..."
+      "translated": "难道真有人会认真地认为 COBOL 在功能上能与 Python 相提并论？它可能更接近于机器语言。或者再看看 Perl 4？在 Perl 4 和 Perl 5 之间，语言中加入了词法闭包。"
     },
     {
       "original": "Most Perl hackers would agree that Perl 5 is more powerful than Perl 4. But once you've admitted that, you've admitted that one high level language can be more powerful than another. And it follows inexorably that, except in special cases, you ought to use the most powerful you can get.This idea is rarely followed to its conclusion, though.",
-      "translated": "[翻译失败] Most Perl hackers would agree that Perl 5 is more ..."
+      "translated": "大多数Perl程序员都会同意Perl 5比Perl 4更强大。但一旦你承认了这一点，你就承认了一种高级语言可以比另一种更强大。因此，除非在特殊情况下，你应该使用你能得到的最强大的语言。不过，这个观点很少被彻底贯彻。"
     },
     {
       "original": "After a certain age, programmers rarely switch languages voluntarily. Whatever language people happen to be used to, they tend to consider just good enough.Programmers get very attached to their favorite languages, and I don't want to hurt anyone's feelings, so to explain this point I'm going to use a hypothetical language called Blub.",
-      "translated": "[翻译失败] After a certain age, programmers rarely switch lan..."
+      "translated": "到了一定年龄后，程序员很少会自愿更换编程语言。无论人们习惯使用哪种语言，他们通常都会认为这种语言足够好。程序员对自己的 favorite 语言非常有感情，我不想伤害任何人的感情，所以为了说明这一点，我将使用一种假设的编程语言，叫做 Blub。"
     },
     {
       "original": "Blub falls right in the middle of the abstractness continuum. It is not the most powerful language, but it is more powerful than Cobol or machine language.And in fact, our hypothetical Blub programmer wouldn't use either of them.",
-      "translated": "[翻译失败] Blub falls right in the middle of the abstractness..."
+      "translated": "Blub 处于抽象连续体的中间位置。它不是最强大的语言，但比 COBOL 或机器语言更强大。事实上，我们假设的 Blub 程序员不会使用这两种语言中的任何一种。"
     },
     {
       "original": "Of course he wouldn't program in machine language. That's what compilers are for. And as for Cobol, he doesn't know how anyone can get anything done with it. It doesn't even have x (Blub feature of your choice).As long as our hypothetical Blub programmer is looking down the power continuum, he knows he's looking down.",
-      "translated": "[翻译失败] Of course he wouldn't program in machine language...."
+      "translated": "当然，他不会用机器语言编程。这正是编译器的用途。至于COBOL，他不明白任何人怎么能用它完成任何事情。它甚至连x（你选择的Blub特性）都没有。只要我们的假设中的Blub程序员沿着能力连续体向下看，他就知道自己是在向下看。"
     },
     {
       "original": "Languages less powerful than Blub are obviously less powerful, because they're missing some feature he's used to. But when our hypothetical Blub programmer looks in the other direction, up the power continuum, he doesn't realize he's looking up.",
-      "translated": "[翻译失败] Languages less powerful than Blub are obviously le..."
+      "translated": "比Blub语言功能弱的语言显然是功能较弱的，因为它们缺少他习惯使用的一些特性。但当这位假设中的Blub程序员向功能更强的一端望去时，他并没有意识到自己是在向上看。"
     },
     {
       "original": "What he sees are merely weird languages. He probably considers them about equivalent in power to Blub, but with all this other hairy stuff thrown in as well. Blub is good enough for him, because he thinks in Blub.When we switch to the point of view of a programmer using any of the languages higher up the power continuum, however, we find that he in turn looks down upon Blub.",
-      "translated": "[翻译失败] What he sees are merely weird languages. He probab..."
+      "translated": "他看到的只是一些奇怪的语言。他大概认为这些语言在功能上与Blub相当，但还多了许多其他复杂的特性。Blub对他来说已经足够好了，因为他就是用Blub思维的。然而，当我们从那些使用功能更强大语言的程序员的角度来看时，我们会发现他们反过来瞧不起Blub。"
     },
     {
       "original": "How can you get anything done in Blub? It doesn't even have y.By induction, the only programmers in a position to see all the differences in power between the various languages are those who understand the most powerful one.",
-      "translated": "[翻译失败] How can you get anything done in Blub? It doesn't ..."
+      "translated": "你如何在 Blub 语言中完成任何事情？它甚至没有 y。通过归纳法，唯一能够看到各种语言之间所有能力差异的程序员是那些理解最强大语言的人。"
     },
     {
       "original": "(This is probably what Eric Raymond meant about Lisp making you a better programmer.) You can't trust the opinions of the others, because of the Blub paradox: they're satisfied with whatever language they happen to use, because it dictates the way they think about programs.I know this from my own experience, as a high school kid writing programs in Basic.",
-      "translated": "[翻译失败] (This is probably what Eric Raymond meant about Li..."
+      "translated": "（这可能就是埃里克·雷蒙德所说的，Lisp 语言能让你成为更好的程序员的原因。）你不能相信其他人的观点，因为存在“布卢布悖论”：他们对自己使用的任何语言都感到满意，因为这些语言决定了他们思考程序的方式。我从自己的经历中深有体会，高中时我用 Basic 编写程序就是如此。"
     },
     {
       "original": "That language didn't even support recursion. It's hard to imagine writing programs without using recursion, but I didn't miss it at the time. I thought in Basic. And I was a whiz at it. Master of all I surveyed.The five languages that Eric Raymond recommends to hackers fall at various points on the power continuum.",
-      "translated": "[翻译失败] That language didn't even support recursion. It's ..."
+      "translated": "那种语言甚至不支持递归。很难想象在不使用递归的情况下编写程序，但在当时我并没有感到缺少了它。我用的是Basic语言。我对它了如指掌。我是所见一切的主宰。埃里克·雷蒙德推荐黑客学习的五种语言在能力连续体上处于不同的位置。"
     },
     {
       "original": "Where they fall relative to one another is a sensitive topic. What I will say is that I think Lisp is at the top. And to support this claim I'll tell you about one of the things I find missing when I look at the other four languages.",
-      "translated": "[翻译失败] Where they fall relative to one another is a sensi..."
+      "translated": "它们彼此之间的地位是一个敏感的话题。我想说的是，我认为Lisp处于顶端。为了支持这一观点，我会告诉你当我考察其他四种语言时，发现的一个缺失的方面。"
     },
     {
       "original": "How can you get anything done in them, I think, without macros? [5]Many languages have something called a macro. But Lisp macros are unique. And believe it or not, what they do is related to the parentheses.",
-      "translated": "[翻译失败] How can you get anything done in them, I think, wi..."
+      "translated": "没有宏，你怎么可能完成任何事情？[5]许多语言都有所谓的宏。但 Lisp 的宏是独一无二的。你可能不相信，但它们的作用确实与括号有关。"
     },
     {
       "original": "The designers of Lisp didn't put all those parentheses in the language just to be different. To the Blub programmer, Lisp code looks weird. But those parentheses are there for a reason. They are the outward evidence of a fundamental difference between Lisp and other languages.Lisp code is made out of Lisp data objects.",
-      "translated": "[翻译失败] The designers of Lisp didn't put all those parenth..."
+      "translated": "Lisp 的设计者们并不是为了标新立异才在语言中加入那么多括号。对于 Blub 程序员来说，Lisp 代码看起来很奇怪。但那些括号的存在是有原因的。它们是 Lisp 与其他语言之间根本差异的外在证据。Lisp 代码是由 Lisp 数据对象构成的。"
     },
     {
       "original": "And not in the trivial sense that the source files contain characters, and strings are one of the data types supported by the language. Lisp code, after it's read by the parser, is made of data structures that you can traverse.If you understand how compilers work, what's really going on is not so much that Lisp has a strange syntax as that Lisp has no syntax.",
-      "translated": "[翻译失败] And not in the trivial sense that the source files..."
+      "translated": "这不仅仅是指源文件包含字符，字符串是语言支持的一种数据类型。Lisp 代码在被解析器读取后，是由你可以遍历的数据结构组成的。如果你了解编译器的工作原理，实际上发生的情况与其说 Lisp 有奇怪的语法，不如说 Lisp 根本没有语法。"
     },
     {
       "original": "You write programs in the parse trees that get generated within the compiler when other languages are parsed. But these parse trees are fully accessible to your programs. You can write programs that manipulate them.",
-      "translated": "[翻译失败] You write programs in the parse trees that get gen..."
+      "translated": "你在编译器中生成的解析树上编写程序，这些解析树是当其他语言被解析时生成的。但这些解析树完全可以被你的程序访问。你可以编写操作这些解析树的程序。"
     },
     {
       "original": "In Lisp, these programs are called macros. They are programs that write programs.Programs that write programs? When would you ever want to do that? Not very often, if you think in Cobol. All the time, if you think in Lisp.",
-      "translated": "[翻译失败] In Lisp, these programs are called macros. They ar..."
+      "translated": "在 Lisp 中，这些程序被称为宏。它们是编写程序的程序。编写程序的程序？你什么时候会想这样做呢？如果你用 Cobol 思考，几乎不会。但如果你用 Lisp 思考，就会经常这样做。"
     },
     {
       "original": "It would be convenient here if I could give an example of a powerful macro, and say there! how about that? But if I did, it would just look like gibberish to someone who didn't know Lisp; there isn't room here to explain everything you'd need to know to understand what it meant.",
-      "translated": "[翻译失败] It would be convenient here if I could give an exa..."
+      "translated": "如果我能在这里举一个强大的宏的例子，那该多好，然后说：看！怎么样？但要是我这么做了，对于不懂Lisp的人来说，这只会看起来像胡言乱语；这里没有足够的空间来解释你需要了解的所有内容，以便理解它的含义。"
     },
     {
       "original": "In Ansi Common Lisp I tried to move things along as fast as I could, and even so I didn't get to macros until page 160.But I think I can give a kind of argument that might be convincing. The source code of the Viaweb editor was probably about 20-25% macros.",
-      "translated": "[翻译失败] In Ansi Common Lisp I tried to move things along a..."
+      "translated": "在《ANSI Common Lisp》中，我尽量加快进度，即便如此，直到第160页才讲到宏。但我认为我可以给出一种可能令人信服的论据。Viaweb 编辑器的源代码中，大约有 20-25% 是宏。"
     },
     {
       "original": "Macros are harder to write than ordinary Lisp functions, and it's considered to be bad style to use them when they're not necessary. So every macro in that code is there because it has to be. What that means is that at least 20-25% of the code in this program is doing things that you can't easily do in any other language.",
-      "translated": "[翻译失败] Macros are harder to write than ordinary Lisp func..."
+      "translated": "宏比普通的Lisp函数更难编写，而且在不需要时使用它们被认为是不好的风格。因此，代码中的每个宏都必须存在。这意味着这个程序中至少20-25%的代码是在做其他语言中难以实现的事情。"
     },
     {
       "original": "However skeptical the Blub programmer might be about my claims for the mysterious powers of Lisp, this ought to make him curious. We weren't writing this code for our own amusement. We were a tiny startup, programming as hard as we could in order to put technical barriers between us and our competitors.A suspicious person might begin to wonder if there was some correlation here.",
-      "translated": "[翻译失败] However skeptical the Blub programmer might be abo..."
+      "translated": "然而，尽管Blub程序员可能对Lisp的神秘力量持怀疑态度，这一点应该会让他感到好奇。我们编写这段代码并不是为了自娱自乐。我们是一个微小的初创公司，尽我们所能地编程，以便在我们和竞争对手之间建立技术壁垒。一个心存疑虑的人可能会开始怀疑这里是否存在某种关联。"
     },
     {
       "original": "A big chunk of our code was doing things that are very hard to do in other languages. The resulting software did things our competitors' software couldn't do. Maybe there was some kind of connection.",
-      "translated": "[翻译失败] A big chunk of our code was doing things that are ..."
+      "translated": "我们代码的很大一部分在做其他语言很难实现的事情。最终的软件能够完成竞争对手的软件无法完成的任务。或许这其中有些关联。"
     },
     {
       "original": "I encourage you to follow that thread. There may be more to that old man hobbling along on his crutches than meets the eye.Aikido for StartupsBut I don't expect to convince anyone (over 25) to go out and learn Lisp.",
-      "translated": "[翻译失败] I encourage you to follow that thread. There may b..."
+      "translated": "我鼓励你关注那条线索。那位拄着拐杖蹒跚前行的老人可能并不像表面上看起来那么简单。《初创企业的合气道》但我并不指望能说服任何（超过25岁的人）去学习Lisp。"
     },
     {
       "original": "The purpose of this article is not to change anyone's mind, but to reassure people already interested in using Lisp-- people who know that Lisp is a powerful language, but worry because it isn't widely used.",
-      "translated": "[翻译失败] The purpose of this article is not to change anyon..."
+      "translated": "本文的目的不是改变任何人的观点，而是为了安慰那些已经对使用Lisp感兴趣的人——那些知道Lisp是一种强大语言，但因为其不广泛使用而感到担忧的人。"
     },
     {
       "original": "In a competitive situation, that's an advantage. Lisp's power is multiplied by the fact that your competitors don't get it.If you think of using Lisp in a startup, you shouldn't worry that it isn't widely understood.",
-      "translated": "[翻译失败] In a competitive situation, that's an advantage. L..."
+      "translated": "在竞争环境中，这是一大优势。Lisp 的强大之处在于你的竞争对手不理解它。如果你打算在创业公司中使用 Lisp，不必担心它不被广泛理解。"
     },
     {
       "original": "You should hope that it stays that way. And it's likely to. It's the nature of programming languages to make most people satisfied with whatever they currently use. Computer hardware changes so much faster than personal habits that programming practice is usually ten to twenty years behind the processor.",
-      "translated": "[翻译失败] You should hope that it stays that way. And it's l..."
+      "translated": "你应该希望情况保持这样。而且这很可能实现。编程语言的特性就是让大多数人对其当前使用的语言感到满意。计算机硬件的变化速度远快于个人习惯的改变，因此编程实践通常落后于处理器技术十年到二十年。"
     },
     {
       "original": "At places like MIT they were writing programs in high-level languages in the early 1960s, but many companies continued to write code in machine language well into the 1980s. I bet a lot of people continued to write machine language until the processor, like a bartender eager to close up and go home, finally kicked them out by switching to a risc instruction set.Ordinarily technology changes fast.",
-      "translated": "[翻译失败] At places like MIT they were writing programs in h..."
+      "translated": "像麻省理工学院这样的地方在20世纪60年代初就已经开始用高级语言编写程序，但许多公司直到20世纪80年代仍在使用机器语言编写代码。我敢打赌，很多人一直用机器语言编写程序，直到处理器像急于关门回家的酒吧老板一样，通过切换到RISC指令集将他们“请”出去。通常技术变化很快。"
     },
     {
       "original": "But programming languages are different: programming languages are not just technology, but what programmers think in. They're half technology and half religion.[6] And so the median language, meaning whatever language the median programmer uses, moves as slow as an iceberg.",
-      "translated": "[翻译失败] But programming languages are different: programmi..."
+      "translated": "但编程语言不同：编程语言不仅仅是技术，还是程序员思考的方式。它们一半是技术，一半是信仰。[6] 因此，中位语言，即中位程序员所使用的语言，变化得像冰山一样缓慢。"
     },
     {
       "original": "Garbage collection, introduced by Lisp in about 1960, is now widely considered to be a good thing. Runtime typing, ditto, is growing in popularity. Lexical closures, introduced by Lisp in the early 1970s, are now, just barely, on the radar screen.",
-      "translated": "[翻译失败] Garbage collection, introduced by Lisp in about 19..."
+      "translated": "垃圾回收，由Lisp在大约1960年引入，现在普遍被认为是件好事。运行时类型检查也是如此，它正在变得越来越受欢迎。词法闭包，由Lisp在20世纪70年代早期引入，现在才刚刚进入人们的视野。"
     },
     {
       "original": "Macros, introduced by Lisp in the mid 1960s, are still terra incognita.Obviously, the median language has enormous momentum. I'm not proposing that you can fight this powerful force. What I'm proposing is exactly the opposite: that, like a practitioner of Aikido, you can use it against your opponents.If you work for a big company, this may not be easy.",
-      "translated": "[翻译失败] Macros, introduced by Lisp in the mid 1960s, are s..."
+      "translated": "宏，由Lisp在20世纪60年代中期引入，至今仍是未知领域。显然，主流语言拥有巨大的惯性。我并不是建议你去对抗这股强大的力量。我建议的恰恰相反：就像合气道的修行者一样，你可以利用这股力量对抗你的对手。如果你在一家大公司工作，这可能并不容易。"
     },
     {
       "original": "You will have a hard time convincing the pointy-haired boss to let you build things in Lisp, when he has just read in the paper that some other language is poised, like Ada was twenty years ago, to take over the world.",
-      "translated": "[翻译失败] You will have a hard time convincing the pointy-ha..."
+      "translated": "要说服那位头发尖尖的老板让你用Lisp来开发，可不容易，特别是当他刚刚在报纸上读到另一种语言，就像二十年前的Ada一样，即将主宰世界时。"
     },
     {
       "original": "But if you work for a startup that doesn't have pointy-haired bosses yet, you can, like we did, turn the Blub paradox to your advantage: you can use technology that your competitors, glued immovably to the median language, will never be able to match.If you ever do find yourself working for a startup, here's a handy tip for evaluating competitors.",
-      "translated": "[翻译失败] But if you work for a startup that doesn't have po..."
+      "translated": "但是，如果你在一家还没有尖头老板的初创公司工作，你们可以像我们一样，将Blub悖论转化为优势：你们可以使用竞争对手因固守中等语言而永远无法匹敌的技术。如果你将来有机会在一家初创公司工作，这里有一个评估竞争对手的小贴士。"
     },
     {
       "original": "Read their job listings. Everything else on their site may be stock photos or the prose equivalent, but the job listings have to be specific about what they want, or they'll get the wrong candidates.During the years we worked on Viaweb I read a lot of job descriptions.",
-      "translated": "[翻译失败] Read their job listings. Everything else on their ..."
+      "translated": "阅读他们的职位列表。网站上的其他内容可能都是模板照片或类似的文字，但职位列表必须具体说明他们需要什么，否则他们会收到不适合的候选人。在我们从事Viaweb工作的这些年里，我读过很多职位描述。"
     },
     {
       "original": "A new competitor seemed to emerge out of the woodwork every month or so. The first thing I would do, after checking to see if they had a live online demo, was look at their job listings. After a couple years of this I could tell which companies to worry about and which not to.",
-      "translated": "[翻译失败] A new competitor seemed to emerge out of the woodw..."
+      "translated": "几乎每个月都会冒出一个新的竞争对手。我首先会检查他们是否有在线演示，然后去看他们的招聘岗位。经过几年的观察，我渐渐能分辨出哪些公司值得警惕，哪些则不必担心。"
     },
     {
       "original": "The more of an IT flavor the job descriptions had, the less dangerous the company was. The safest kind were the ones that wanted Oracle experience. You never had to worry about those. You were also safe if they said they wanted C++ or Java developers.",
-      "translated": "[翻译失败] The more of an IT flavor the job descriptions had,..."
+      "translated": "职位描述中IT成分越多，公司就越安全。最安全的是那些要求有Oracle经验的职位。你完全不必担心这些。如果他们说需要C++或Java开发人员，你也同样安全。"
     },
     {
       "original": "If they wanted Perl or Python programmers, that would be a bit frightening-- that's starting to sound like a company where the technical side, at least, is run by real hackers. If I had ever seen a job posting looking for Lisp hackers, I would have been really worried.",
-      "translated": "[翻译失败] If they wanted Perl or Python programmers, that wo..."
+      "translated": "如果他们需要Perl或Python程序员，那会有点让人害怕——这听起来像是一个至少技术方面由真正的黑客管理的公司。如果我曾经看到过招聘Lisp黑客的职位，我会非常担心的。"
     },
     {
       "original": "Notes[1] Viaweb at first had two parts: the editor, written in Lisp, which people used to build their sites, and the ordering system, written in C, which handled orders. The first version was mostly Lisp, because the ordering system was small.",
-      "translated": "[翻译失败] Notes[1] Viaweb at first had two parts: the editor..."
+      "translated": "注释[1] Viaweb 最初有两个部分：用 Lisp 编写的编辑器，人们用它来构建网站，以及用 C 编写的订单系统，用于处理订单。第一个版本主要用 Lisp 编写，因为订单系统相对较小。"
     },
     {
       "original": "Later we added two more modules, an image generator written in C, and a back-office manager written mostly in Perl.In January 2003, Yahoo released a new version of the editor written in C++ and Perl.",
-      "translated": "[翻译失败] Later we added two more modules, an image generato..."
+      "translated": "后来我们又增加了两个模块，一个是用C语言编写的图像生成器，另一个是主要用Perl编写的后台管理器。2003年1月，雅虎发布了一个用C++和Perl编写的新版本编辑器。"
     },
     {
       "original": "It's hard to say whether the program is no longer written in Lisp, though, because to translate this program into C++ they literally had to write a Lisp interpreter: the source files of all the page-generating templates are still, as far as I know, Lisp code.",
-      "translated": "[翻译失败] It's hard to say whether the program is no longer ..."
+      "translated": "很难说这个程序是否不再用Lisp编写了，因为要将其翻译成C++，他们实际上不得不编写了一个Lisp解释器：据我所知，所有生成页面的模板的源文件仍然是Lisp代码。"
     },
     {
       "original": "(See Greenspun's Tenth Rule.)[2] Robert Morris says that I didn't need to be secretive, because even if our competitors had known we were using Lisp, they wouldn't have understood why: \"If they were that smart they'd already be programming in Lisp.\"[3] All languages are equally powerful in the sense of being Turing equivalent, but that's not the sense of the word programmers care about.",
-      "translated": "[翻译失败] (See Greenspun's Tenth Rule.)[2] Robert Morris say..."
+      "translated": "（参见格林斯潘第十定律。）[2] 罗伯特·莫里斯说，我不需要保密，因为即使我们的竞争对手知道我们在使用Lisp，他们也不会明白原因：“如果他们足够聪明，早就已经在用Lisp编程了。”[3] 所有语言在图灵等价的意义上都是等功率的，但这并不是程序员所关心的“强大”含义。"
     },
     {
       "original": "(No one wants to program a Turing machine.) The kind of power programmers care about may not be formally definable, but one way to explain it would be to say that it refers to features you could only get in the less powerful language by writing an interpreter for the more powerful language in it.",
-      "translated": "[翻译失败] (No one wants to program a Turing machine.) The ki..."
+      "translated": "（没有人愿意编程图灵机。）程序员关心的“能力”可能无法正式定义，但可以这样解释：它指的是那些只有通过在较弱的语言中编写更强语言的解释器才能获得的功能。"
     },
     {
       "original": "If language A has an operator for removing spaces from strings and language B doesn't, that probably doesn't make A more powerful, because you can probably write a subroutine to do it in B. But if A supports, say, recursion, and B doesn't, that's not likely to be something you can fix by writing library functions.[4] Note to nerds: or possibly a lattice, narrowing toward the top; it's not the shape that matters here but the idea that there is at least a partial order.[5] It is a bit misleading to treat macros as a separate feature.",
-      "translated": "[翻译失败] If language A has an operator for removing spaces ..."
+      "translated": "如果语言A有用于从字符串中移除空格的运算符，而语言B没有，这并不一定使A更强大，因为你很可能可以在B中编写一个子程序来实现这一功能。但是，如果A支持，比如说，递归，而B不支持，那么这不太可能是通过编写库函数来解决的问题。[4] 对于极客的注释：或者可能是一个格子结构，顶部逐渐变窄；这里重要的是至少存在一个部分序，而不是具体的形状。[5] 将宏视为一个独立特性有点误导。"
     },
     {
       "original": "In practice their usefulness is greatly enhanced by other Lisp features like lexical closures and rest parameters.[6] As a result, comparisons of programming languages either take the form of religious wars or undergraduate textbooks so determinedly neutral that they're really works of anthropology.",
-      "translated": "[翻译失败] In practice their usefulness is greatly enhanced b..."
+      "translated": "实际上，它们的实用性因其他Lisp特性如词法闭包和剩余参数而大大增强。因此，编程语言的比较要么表现为宗教战争，要么是如此坚定地保持中立的本科教材，以至于它们实际上是人类学的作品。"
     },
     {
       "original": "People who value their peace, or want tenure, avoid the topic. But the question is only half a religious one; there is something there worth studying, especially if you want to design new languages.More Technical DetailsJapanese TranslationTurkish TranslationUzbek TranslationOrbitz Uses Lisp TooHow To Become A HackerA Scheme StoryItalian Translation You'll find this essay and 14 others in Hackers & Painters.",
-      "translated": "[翻译失败] People who value their peace, or want tenure, avoi..."
+      "translated": "珍视安宁或想要终身职位的人会避开这个话题。但这个问题只有一半是宗教性的；有一些内容值得研究，特别是如果你想设计新的语言。更多的技术细节日语翻译土耳其语翻译乌兹别克语翻译Orbitz 也使用 Lisp如何成为一名黑客一个 Scheme 的故事意大利语翻译你可以在《黑客与画家》中找到这篇文章和其他14篇文章。"
     }
   ],
-  "translation_completed": "2025-07-27T12:26:05.639187",
+  "translation_completed": "2025-07-27T23:32:09.506623",
   "translation_stats": {
     "total_paragraphs": 90,
-    "success_count": 0,
-    "success_rate": "0.0%"
+    "success_count": 90,
+    "success_rate": "100.0%"
   }
 }

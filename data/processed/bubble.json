@@ -92,313 +92,313 @@
   "paragraphs": [
     {
       "original": "September 2004(This essay is derived from an invited talk at ICFP 2004.)I had a front row seat for the Internet Bubble, because I worked at Yahoo during 1998 and 1999. One day, when the stock was trading around $200, I sat down and calculated what I thought the price should be.",
-      "translated": "[翻译失败] September 2004(This essay is derived from an invit..."
+      "translated": "2004年9月（本文源自2004年国际函数式编程会议上的邀请演讲。）\n\n我有幸在1998年和1999年在雅虎工作，因此亲身经历了互联网泡沫的前沿。有一天，当股票价格在200美元左右时，我坐下来计算了我认为股票应有的价格。"
     },
     {
       "original": "The answer I got was $12. I went to the next cubicle and told my friend Trevor. \"Twelve!\" he said. He tried to sound indignant, but he didn't quite manage it. He knew as well as I did that our valuation was crazy.Yahoo was a special case.",
-      "translated": "[翻译失败] The answer I got was $12. I went to the next cubic..."
+      "translated": "我得到的答案是12美元。我走到隔壁的隔间，告诉了我的朋友特雷弗。“十二美元！”他说。他试图表现出愤慨，但并没有完全成功。他和我一样清楚，我们的估值是疯狂的。雅虎是一个特例。"
     },
     {
       "original": "It was not just our price to earnings ratio that was bogus. Half our earnings were too. Not in the Enron way, of course. The finance guys seemed scrupulous about reporting earnings. What made our earnings bogus was that Yahoo was, in effect, the center of a Ponzi scheme.",
-      "translated": "[翻译失败] It was not just our price to earnings ratio that w..."
+      "translated": "不仅我们的市盈率是虚假的，我们的一半利润也是如此。当然，这并非像安然公司那样。财务人员在报告利润时似乎非常严谨。使我们的利润变得虚假的原因在于，雅虎实际上是一个庞氏骗局的中心。"
     },
     {
       "original": "Investors looked at Yahoo's earnings and said to themselves, here is proof that Internet companies can make money. So they invested in new startups that promised to be the next Yahoo. And as soon as these startups got the money, what did they do with it?",
-      "translated": "[翻译失败] Investors looked at Yahoo's earnings and said to t..."
+      "translated": "投资者看了雅虎的收益，心想，这证明了互联网公司能够赚钱。于是他们投资了那些自称会成为下一个雅虎的新创企业。而这些新创企业一拿到钱，他们做了什么呢？"
     },
     {
       "original": "Buy millions of dollars worth of advertising on Yahoo to promote their brand. Result: a capital investment in a startup this quarter shows up as Yahoo earnings next quarter—stimulating another round of investments in startups.As in a Ponzi scheme, what seemed to be the returns of this system were simply the latest round of investments in it.",
-      "translated": "[翻译失败] Buy millions of dollars worth of advertising on Ya..."
+      "translated": "在雅虎上花费数百万美元购买广告来推广他们的品牌。结果：本季度对初创公司的资本投资将在下一季度显示为雅虎的收入——这又刺激了新一轮对初创公司的投资。就像庞氏骗局一样，这个系统的所谓回报其实只是最新的投资轮次。"
     },
     {
       "original": "What made it not a Ponzi scheme was that it was unintentional. At least, I think it was. The venture capital business is pretty incestuous, and there were presumably people in a position, if not to create this situation, to realize what was happening and to milk it.A year later the game was up.",
-      "translated": "[翻译失败] What made it not a Ponzi scheme was that it was un..."
+      "translated": "它之所以不算庞氏骗局，是因为它是无意为之。至少，我是这么认为的。风险投资行业相当错综复杂，肯定有人即使不能制造这种局面，也能意识到正在发生什么并从中获利。一年后，游戏结束了。"
     },
     {
       "original": "Starting in January 2000, Yahoo's stock price began to crash, ultimately losing 95% of its value.Notice, though, that even with all the fat trimmed off its market cap, Yahoo was still worth a lot. Even at the morning-after valuations of March and April 2001, the people at Yahoo had managed to create a company worth about $8 billion in just six years.The fact is, despite all the nonsense we heard during the Bubble about the \"new economy,\" there was a core of truth.",
-      "translated": "[翻译失败] Starting in January 2000, Yahoo's stock price bega..."
+      "translated": "从2000年1月开始，雅虎的股价开始暴跌，最终损失了其价值的95%。然而，即使其市值大幅缩水，雅虎仍然价值不菲。即使在2001年3月和4月的“宿醉”估值下，雅虎的团队在短短六年内还是创建了一家价值约80亿美元的公司。事实上，尽管在泡沫时期我们听到了许多关于“新经济”的胡言乱语，但其中确实有一部分真实的核心。"
     },
     {
       "original": "You need that to get a really big bubble: you need to have something solid at the center, so that even smart people are sucked in. (Isaac Newton and Jonathan Swift both lost money in the South Sea Bubble of 1720.)Now the pendulum has swung the other way.",
-      "translated": "[翻译失败] You need that to get a really big bubble: you need..."
+      "translated": "你需要有一个坚实的核心来制造一个巨大的泡沫，这样即使是聪明人也会被吸引进去。（艾萨克·牛顿和乔纳森·斯威夫特都在1720年的南海泡沫中失去了钱财。）现在，钟摆已经摆向了另一个方向。"
     },
     {
       "original": "Now anything that became fashionable during the Bubble is ipso facto unfashionable. But that's a mistake—an even bigger mistake than believing what everyone was saying in 1999. Over the long term, what the Bubble got right will be more important than what it got wrong.1.",
-      "translated": "[翻译失败] Now anything that became fashionable during the Bu..."
+      "translated": "现在，任何在泡沫时期流行的事物都自动变得过时了。但这是一个错误——甚至比1999年时盲目相信众人之言更大的错误。从长远来看，泡沫时期正确的方面将比错误的方面更为重要。"
     },
     {
       "original": "Retail VCAfter the excesses of the Bubble, it's now considered dubious to take companies public before they have earnings. But there is nothing intrinsically wrong with that idea. Taking a company public at an early stage is simply retail VC: instead of going to venture capital firms for the last round of funding, you go to the public markets.By the end of the Bubble, companies going public with no earnings were being derided as \"concept stocks,\" as if it were inherently stupid to invest in them.",
-      "translated": "[翻译失败] Retail VCAfter the excesses of the Bubble, it's no..."
+      "translated": "零售风投在互联网泡沫破灭之后，现在认为在公司实现盈利之前将其公开上市是值得怀疑的。但这个想法本身并没有什么内在的错误。公司在早期上市只是零售风投的一种形式：与其向风投公司寻求最后一轮融资，不如转向公开市场。到了泡沫末期，那些没有盈利就上市的公司被嘲笑为“概念股”，好像投资这些公司本身就很愚蠢。"
     },
     {
       "original": "But investing in concepts isn't stupid; it's what VCs do, and the best of them are far from stupid.The stock of a company that doesn't yet have earnings is worth something. It may take a while for the market to learn how to value such companies, just as it had to learn to value common stocks in the early 20th century.",
-      "translated": "[翻译失败] But investing in concepts isn't stupid; it's what ..."
+      "translated": "但投资于概念并不愚蠢；这是风险投资家做的事情，而最好的风险投资家远非愚蠢。一家尚未盈利的公司的股票是有价值的。市场可能需要一段时间来学会如何评估这类公司，就像20世纪初市场需要学会如何评估普通股一样。"
     },
     {
       "original": "But markets are good at solving that kind of problem. I wouldn't be surprised if the market ultimately did a better job than VCs do now.Going public early will not be the right plan for every company.",
-      "translated": "[翻译失败] But markets are good at solving that kind of probl..."
+      "translated": "但市场善于解决这类问题。我不会对市场最终比风投做得更好感到惊讶。提早上市并不适合每一家公司。"
     },
     {
       "original": "And it can of course be disruptive—by distracting the management, or by making the early employees suddenly rich. But just as the market will learn how to value startups, startups will learn how to minimize the damage of going public.2.",
-      "translated": "[翻译失败] And it can of course be disruptive—by distracting ..."
+      "translated": "当然，这可能会带来破坏——通过分散管理层的注意力，或者让早期员工突然变得富有。但就像市场将学会如何评估初创公司一样，初创公司也将学会如何最小化上市带来的负面影响。"
     },
     {
       "original": "The InternetThe Internet genuinely is a big deal. That was one reason even smart people were fooled by the Bubble. Obviously it was going to have a huge effect. Enough of an effect to triple the value of Nasdaq companies in two years?",
-      "translated": "[翻译失败] The InternetThe Internet genuinely is a big deal. ..."
+      "translated": "互联网确实是一件大事。这也是为什么即使是聪明人也被互联网泡沫所蒙蔽的原因之一。显然，互联网将会产生巨大的影响。但这种影响足以在两年内将纳斯达克公司的价值翻三倍吗？"
     },
     {
       "original": "No, as it turned out. But it was hard to say for certain at the time. [1]The same thing happened during the Mississippi and South Sea Bubbles. What drove them was the invention of organized public finance (the South Sea Company, despite its name, was really a competitor of the Bank of England).",
-      "translated": "[翻译失败] No, as it turned out. But it was hard to say for c..."
+      "translated": "不，事实证明并非如此。但在当时很难确定。[1]同样的事情也发生在密西西比泡沫和南海泡沫期间。推动这些泡沫的是有组织的公共财政的发明（尽管名字叫南海公司，但实际上它是英格兰银行的竞争对手）。"
     },
     {
       "original": "And that did turn out to be a big deal, in the long run.Recognizing an important trend turns out to be easier than figuring out how to profit from it. The mistake investors always seem to make is to take the trend too literally.",
-      "translated": "[翻译失败] And that did turn out to be a big deal, in the lon..."
+      "translated": "而这最终确实是一件大事。认清一个重要趋势比弄清楚如何从中获利要容易得多。投资者总是似乎会犯的一个错误就是对趋势过于字面化理解。"
     },
     {
       "original": "Since the Internet was the big new thing, investors supposed that the more Internettish the company, the better. Hence such parodies as Pets.Com.In fact most of the money to be made from big trends is made indirectly.",
-      "translated": "[翻译失败] Since the Internet was the big new thing, investor..."
+      "translated": "自从互联网成为新兴事物以来，投资者认为公司的互联网色彩越浓越好。因此出现了像 Pets.Com 这样的闹剧。事实上，大多数从大趋势中赚到的钱都是间接赚到的。"
     },
     {
       "original": "It was not the railroads themselves that made the most money during the railroad boom, but the companies on either side, like Carnegie's steelworks, which made the rails, and Standard Oil, which used railroads to get oil to the East Coast, where it could be shipped to Europe.I think the Internet will have great effects, and that what we've seen so far is nothing compared to what's coming.",
-      "translated": "[翻译失败] It was not the railroads themselves that made the ..."
+      "translated": "在铁路繁荣时期，最赚钱的并不是铁路本身，而是像卡内基的钢铁厂这样生产铁轨的公司，以及利用铁路将石油运往东海岸的美孚石油公司，从那里可以将石油运往欧洲。我认为互联网将产生巨大影响，而我们迄今为止所见的一切与未来将要发生的事情相比都微不足道。"
     },
     {
       "original": "But most of the winners will only indirectly be Internet companies; for every Google there will be ten JetBlues.3. ChoicesWhy will the Internet have great effects? The general argument is that new forms of communication always do.",
-      "translated": "[翻译失败] But most of the winners will only indirectly be In..."
+      "translated": "但大多数赢家将只是间接地成为互联网公司；每出现一个谷歌，就会有十个捷蓝航空。选择为什么互联网会产生巨大影响？普遍的观点是，新的通信形式总是会带来重大影响。"
     },
     {
       "original": "They happen rarely (till industrial times there were just speech, writing, and printing), but when they do, they always cause a big splash.The specific argument, or one of them, is the Internet gives us more choices.",
-      "translated": "[翻译失败] They happen rarely (till industrial times there we..."
+      "translated": "它们很少发生（直到工业时代之前，只有口语、书写和印刷），但一旦发生，总是会引起巨大影响。一个具体的论点，或者其中之一，是互联网为我们提供了更多的选择。"
     },
     {
       "original": "In the \"old\" economy, the high cost of presenting information to people meant they had only a narrow range of options to choose from. The tiny, expensive pipeline to consumers was tellingly named \"the channel.\" Control the channel and you could feed them what you wanted, on your terms.",
-      "translated": "[翻译失败] In the \"old\" economy, the high cost of presenting ..."
+      "translated": "在“旧”经济中，向人们提供信息的高成本意味着他们只能从有限的选择中做出决定。这个通往消费者的狭窄且昂贵的渠道被恰当地称为“渠道”。控制了渠道，你就可以按照自己的条件向他们提供你想要的内容。"
     },
     {
       "original": "And it was not just big corporations that depended on this principle. So, in their way, did labor unions, the traditional news media, and the art and literary establishments. Winning depended not on doing good work, but on gaining control of some bottleneck.There are signs that this is changing.",
-      "translated": "[翻译失败] And it was not just big corporations that depended..."
+      "translated": "不仅大公司依赖这一原则，工会、传统新闻媒体以及艺术和文学界也是如此。胜利不取决于做好工作，而在于控制某个瓶颈。有迹象表明这种情况正在发生变化。"
     },
     {
       "original": "Google has over 82 million unique users a month and annual revenues of about three billion dollars. [2] And yet have you ever seen a Google ad? Something is going on here.Admittedly, Google is an extreme case.",
-      "translated": "[翻译失败] Google has over 82 million unique users a month an..."
+      "translated": "谷歌每月拥有超过8200万独立用户，年收入约为30亿美元。[2] 然而，你见过谷歌的广告吗？这里肯定有某种情况。诚然，谷歌是一个极端的例子。"
     },
     {
       "original": "It's very easy for people to switch to a new search engine. It costs little effort and no money to try a new one, and it's easy to see if the results are better. And so Google doesn't have to advertise.",
-      "translated": "[翻译失败] It's very easy for people to switch to a new searc..."
+      "translated": "人们更换搜索引擎非常容易。尝试新的搜索引擎几乎不需要付出任何努力和金钱，而且很容易判断结果是否更好。因此，谷歌不需要做广告。"
     },
     {
       "original": "In a business like theirs, being the best is enough.The exciting thing about the Internet is that it's shifting everything in that direction. The hard part, if you want to win by making the best stuff, is the beginning.",
-      "translated": "[翻译失败] In a business like theirs, being the best is enoug..."
+      "translated": "在他们这样的行业中，做到最好就足够了。互联网的精彩之处在于，它正在将一切都朝这个方向推动。如果你希望通过制作最好的产品来取胜，那么最难的部分就是开始。"
     },
     {
       "original": "Eventually everyone will learn by word of mouth that you're the best, but how do you survive to that point? And it is in this crucial stage that the Internet has the most effect. First, the Internet lets anyone find you at almost zero cost.",
-      "translated": "[翻译失败] Eventually everyone will learn by word of mouth th..."
+      "translated": "最终，每个人都会通过口口相传知道你是最好的，但在那之前你如何生存下去？而在这个关键阶段，互联网发挥着最大的作用。首先，互联网让任何人都能以几乎零成本找到你。"
     },
     {
       "original": "Second, it dramatically speeds up the rate at which reputation spreads by word of mouth. Together these mean that in many fields the rule will be: Build it, and they will come. Make something great and put it online.",
-      "translated": "[翻译失败] Second, it dramatically speeds up the rate at whic..."
+      "translated": "其次，它极大地加速了口碑传播的速度。这两点结合起来意味着，在许多领域，规则将是：建好了，他们就会来。做出优秀的东西并放到网上。"
     },
     {
       "original": "That is a big change from the recipe for winning in the past century.4. YouthThe aspect of the Internet Bubble that the press seemed most taken with was the youth of some of the startup founders. This too is a trend that will last.",
-      "translated": "[翻译失败] That is a big change from the recipe for winning i..."
+      "translated": "这与上个世纪的胜利配方有了很大的变化。4. 青年在互联网泡沫中，媒体似乎最感兴趣的一点是某些初创公司创始人的年轻。这一趋势也将持续下去。"
     },
     {
       "original": "There is a huge standard deviation among 26 year olds. Some are fit only for entry level jobs, but others are ready to rule the world if they can find someone to handle the paperwork for them.A 26 year old may not be very good at managing people or dealing with the SEC.",
-      "translated": "[翻译失败] There is a huge standard deviation among 26 year o..."
+      "translated": "26岁的人之间存在着巨大的标准差。有些人只适合初级职位，而另一些人如果能找到人帮他们处理文书工作，已经准备好统治世界了。26岁的人可能不太擅长管理他人或与证监会打交道。"
     },
     {
       "original": "Those require experience. But those are also commodities, which can be handed off to some lieutenant. The most important quality in a CEO is his vision for the company's future. What will they build next?",
-      "translated": "[翻译失败] Those require experience. But those are also commo..."
+      "translated": "这些需要经验。但这些也是可以交给某位副手处理的事务。CEO最重要的素质是对公司未来的愿景。他们接下来将要构建什么？"
     },
     {
       "original": "And in that department, there are 26 year olds who can compete with anyone.In 1970 a company president meant someone in his fifties, at least. If he had technologists working for him, they were treated like a racing stable: prized, but not powerful.",
-      "translated": "[翻译失败] And in that department, there are 26 year olds who..."
+      "translated": "而在那个部门，有26岁的年轻人能够与任何人竞争。1970年，一家公司的总裁通常是至少五十多岁的人。如果他手下有技术专家，这些专家会被视为赛马厩中的马匹：珍贵，但没有实权。"
     },
     {
       "original": "But as technology has grown more important, the power of nerds has grown to reflect it. Now it's not enough for a CEO to have someone smart he can ask about technical matters. Increasingly, he has to be that person himself.As always, business has clung to old forms.",
-      "translated": "[翻译失败] But as technology has grown more important, the po..."
+      "translated": "但随着技术变得越来越重要，书呆子的权力也随之增长以反映这一点。现在，光是首席执行官身边有一个聪明的技术顾问已经不够了。越来越多的情况下，他自己就必须成为这样的人。商界一如既往地坚守旧有的模式。"
     },
     {
       "original": "VCs still seem to want to install a legitimate-looking talking head as the CEO. But increasingly the founders of the company are the real powers, and the grey-headed man installed by the VCs more like a music group's manager than a general.5.",
-      "translated": "[翻译失败] VCs still seem to want to install a legitimate-loo..."
+      "translated": "风险投资家似乎仍然希望任命一位看起来正统的代言人作为首席执行官。但越来越多的情况是，公司的创始人是真正的掌权者，而由风险投资家任命的那位灰白头发的人更像是乐队的经理，而不是将军。"
     },
     {
       "original": "InformalityIn New York, the Bubble had dramatic consequences: suits went out of fashion. They made one seem old. So in 1998 powerful New York types were suddenly wearing open-necked shirts and khakis and oval wire-rimmed glasses, just like guys in Santa Clara.The pendulum has swung back a bit, driven in part by a panicked reaction by the clothing industry.",
-      "translated": "[翻译失败] InformalityIn New York, the Bubble had dramatic co..."
+      "translated": "在纽约，互联网泡沫带来了戏剧性的后果：西装不再流行。它们让人显得老气。因此，1998年，纽约的权势人物突然开始穿无领衬衫和卡其裤，戴椭圆形金属框眼镜，看起来和圣克拉拉的小伙子们一模一样。如今，这股潮流有所回摆，部分原因是服装行业的恐慌反应。"
     },
     {
       "original": "But I'm betting on the open-necked shirts. And this is not as frivolous a question as it might seem. Clothes are important, as all nerds can sense, though they may not realize it consciously.If you're a nerd, you can understand how important clothes are by asking yourself how you'd feel about a company that made you wear a suit and tie to work.",
-      "translated": "[翻译失败] But I'm betting on the open-necked shirts. And thi..."
+      "translated": "但我赌的是开领衬衫。这并不是一个轻浮的问题，尽管它可能看起来如此。衣服很重要，所有书呆子都能感觉到，尽管他们可能没有意识到。如果你是一个书呆子，你可以通过问自己对一家要求你穿西装打领带上班的公司会有何感想，来理解衣服的重要性。"
     },
     {
       "original": "The idea sounds horrible, doesn't it? In fact, horrible far out of proportion to the mere discomfort of wearing such clothes. A company that made programmers wear suits would have something deeply wrong with it.And what would be wrong would be that how one presented oneself counted more than the quality of one's ideas.",
-      "translated": "[翻译失败] The idea sounds horrible, doesn't it? In fact, hor..."
+      "translated": "这个想法听起来很糟糕，不是吗？事实上，糟糕的程度远远超出了仅仅因为穿着这样的衣服带来的不适。一家要求程序员穿西装的公司肯定有什么严重的问题。而问题在于，个人的外表比想法的质量更重要。"
     },
     {
       "original": "That's the problem with formality. Dressing up is not so much bad in itself. The problem is the receptor it binds to: dressing up is inevitably a substitute for good ideas. It is no coincidence that technically inept business types are known as \"suits.\"Nerds don't just happen to dress informally.",
-      "translated": "[翻译失败] That's the problem with formality. Dressing up is ..."
+      "translated": "这就是正式场合的问题所在。打扮得体本身并不那么糟糕。问题在于它所附着的接收器：打扮得体不可避免地成为好想法的替代品。技术上无能的商业人士被称为“西装佬”并非偶然。书呆子们不仅仅是因为偶然才穿得随和。"
     },
     {
       "original": "They do it too consistently. Consciously or not, they dress informally as a prophylactic measure against stupidity.6. NerdsClothing is only the most visible battleground in the war against formality.",
-      "translated": "[翻译失败] They do it too consistently. Consciously or not, t..."
+      "translated": "他们这样做得太一致了。有意或无意地，他们以非正式的着装作为防止愚蠢的预防措施。6. 程序员的着装只是对抗正式化的战争中最显眼的战场。"
     },
     {
       "original": "Nerds tend to eschew formality of any sort. They're not impressed by one's job title, for example, or any of the other appurtenances of authority.Indeed, that's practically the definition of a nerd. I found myself talking recently to someone from Hollywood who was planning a show about nerds.",
-      "translated": "[翻译失败] Nerds tend to eschew formality of any sort. They'r..."
+      "translated": "书呆子通常会避开任何形式的正式场合。他们不会因为某人的职位头衔或其他权威的象征而感到印象深刻。事实上，这几乎可以算是书呆子的定义。最近我发现自己与一位来自好莱坞的人交谈，他正计划制作一档关于书呆子的节目。"
     },
     {
       "original": "I thought it would be useful if I explained what a nerd was. What I came up with was: someone who doesn't expend any effort on marketing himself.A nerd, in other words, is someone who concentrates on substance.",
-      "translated": "[翻译失败] I thought it would be useful if I explained what a..."
+      "translated": "我觉得如果我解释一下什么是书呆子会很有用。我的定义是：一个不费心去推销自己的人。换句话说，书呆子就是专注于实质内容的人。"
     },
     {
       "original": "So what's the connection between nerds and technology? Roughly that you can't fool mother nature. In technical matters, you have to get the right answers. If your software miscalculates the path of a space probe, you can't finesse your way out of trouble by saying that your code is patriotic, or avant-garde, or any of the other dodges people use in nontechnical fields.And as technology becomes increasingly important in the economy, nerd culture is rising with it.",
-      "translated": "[翻译失败] So what's the connection between nerds and technol..."
+      "translated": "那么，书呆子和技术之间有什么联系呢？大致来说，就是你不能愚弄大自然。在技术问题上，你必须得出正确的答案。如果你的软件错误计算了太空探测器的轨道，你无法通过说你的代码是爱国的、先锋的，或是非技术领域中人们使用的其他种种托辞来摆脱困境。随着技术在经济中变得日益重要，书呆子文化也随之崛起。"
     },
     {
       "original": "Nerds are already a lot cooler than they were when I was a kid. When I was in college in the mid-1980s, \"nerd\" was still an insult. People who majored in computer science generally tried to conceal it.",
-      "translated": "[翻译失败] Nerds are already a lot cooler than they were when..."
+      "translated": "书呆子们现在已经比我在小时候酷多了。当我上世纪80年代中期上大学时，“书呆子”还是一种侮辱。主修计算机科学的人通常都会尽量掩饰这一点。"
     },
     {
       "original": "Now women ask me where they can meet nerds. (The answer that springs to mind is \"Usenix,\" but that would be like drinking from a firehose.)I have no illusions about why nerd culture is becoming more accepted.",
-      "translated": "[翻译失败] Now women ask me where they can meet nerds. (The a..."
+      "translated": "现在女性问我在哪里可以遇到书呆子。（我本能地想回答“Usenix”，但这就像从消防水管喝水一样。）我对书呆子文化为什么越来越被接受没有任何幻想。"
     },
     {
       "original": "It's not because people are realizing that substance is more important than marketing. It's because the nerds are getting rich. But that is not going to change.7. OptionsWhat makes the nerds rich, usually, is stock options.",
-      "translated": "[翻译失败] It's not because people are realizing that substan..."
+      "translated": "这并不是因为人们意识到实质比营销更重要。而是因为书呆子们变富了。但这种情况不会改变。使书呆子们变富的，通常是股票期权。"
     },
     {
       "original": "Now there are moves afoot to make it harder for companies to grant options. To the extent there's some genuine accounting abuse going on, by all means correct it. But don't kill the golden goose. Equity is the fuel that drives technical innovation.Options are a good idea because (a) they're fair, and (b) they work.",
-      "translated": "[翻译失败] Now there are moves afoot to make it harder for co..."
+      "translated": "现在有人正在采取行动，使公司授予期权变得更加困难。对于确实存在的一些真实的会计滥用行为，当然应该予以纠正。但不要杀鸡取卵。股权是推动技术创新的燃料。期权是一个好主意，因为（a）它们公平，（b）它们有效。"
     },
     {
       "original": "Someone who goes to work for a company is (one hopes) adding to its value, and it's only fair to give them a share of it. And as a purely practical measure, people work a lot harder when they have options.",
-      "translated": "[翻译失败] Someone who goes to work for a company is (one hop..."
+      "translated": "为公司工作的员工（我们希望）能够增加公司的价值，而公平起见，应该给予他们一定的股份。此外，作为一种纯粹的实际措施，当员工拥有期权时，他们会更加努力工作。"
     },
     {
       "original": "I've seen that first hand.The fact that a few crooks during the Bubble robbed their companies by granting themselves options doesn't mean options are a bad idea. During the railroad boom, some executives enriched themselves by selling watered stock—by issuing more shares than they said were outstanding.",
-      "translated": "[翻译失败] I've seen that first hand.The fact that a few croo..."
+      "translated": "我亲眼目睹了这一点。几个骗子在互联网泡沫期间通过授予自己股票期权来掠夺公司，并不意味着股票期权是个坏主意。在铁路繁荣时期，一些高管通过出售掺水股票——即发行超过实际流通的股票数量——来中饱私囊。"
     },
     {
       "original": "But that doesn't make common stock a bad idea. Crooks just use whatever means are available.If there is a problem with options, it's that they reward slightly the wrong thing. Not surprisingly, people do what you pay them to.",
-      "translated": "[翻译失败] But that doesn't make common stock a bad idea. Cro..."
+      "translated": "但这并不意味着普通股是个坏主意。骗子只会利用现有的任何手段。如果期权有问题的话，那也是它们奖励的东西稍微有点偏差。不出所料，人们会做你付钱让他们做的事情。"
     },
     {
       "original": "If you pay them by the hour, they'll work a lot of hours. If you pay them by the volume of work done, they'll get a lot of work done (but only as you defined work). And if you pay them to raise the stock price, which is what options amount to, they'll raise the stock price.But that's not quite what you want.",
-      "translated": "[翻译失败] If you pay them by the hour, they'll work a lot of..."
+      "translated": "如果你按小时付给他们工资，他们会工作很多小时。如果你按工作量付给他们报酬，他们会完成很多工作（但仅限于你定义的工作）。而如果你支付他们提高股票价格的报酬，这实际上是期权的含义，他们会提高股票价格。但那并不是你真正想要的。"
     },
     {
       "original": "What you want is to increase the actual value of the company, not its market cap. Over time the two inevitably meet, but not always as quickly as options vest. Which means options tempt employees, if only unconsciously, to \"pump and dump\"—to do things that will make the company seem valuable.",
-      "translated": "[翻译失败] What you want is to increase the actual value of t..."
+      "translated": "你所追求的是增加公司的实际价值，而不是其市值。随着时间的推移，这两者终将趋于一致，但并不总是像期权行权那样迅速。这意味着，期权在诱惑员工，即使只是潜意识地，“炒高后抛售”——即做一些使公司看起来有价值的事情。"
     },
     {
       "original": "I found that when I was at Yahoo, I couldn't help thinking, \"how will this sound to investors?\" when I should have been thinking \"is this a good idea?\"So maybe the standard option deal needs to be tweaked slightly.",
-      "translated": "[翻译失败] I found that when I was at Yahoo, I couldn't help ..."
+      "translated": "我在雅虎时发现，我总是不由自主地在想“这听起来对投资者会怎样？”而我本应该在想“这是否是个好主意？”所以，也许标准的期权协议需要稍微调整一下。"
     },
     {
       "original": "Maybe options should be replaced with something tied more directly to earnings. It's still early days.8. StartupsWhat made the options valuable, for the most part, is that they were options on the stock of startups.",
-      "translated": "[翻译失败] Maybe options should be replaced with something ti..."
+      "translated": "也许应该用与收益更直接相关的某种东西来替代期权。现在还为时过早。8. 创业公司大部分情况下，让期权有价值的原因在于，它们是创业公司股票的期权。"
     },
     {
       "original": "Startups were not of course a creation of the Bubble, but they were more visible during the Bubble than ever before.One thing most people did learn about for the first time during the Bubble was the startup created with the intention of selling it.",
-      "translated": "[翻译失败] Startups were not of course a creation of the Bubb..."
+      "translated": "初创公司当然不是互联网泡沫的产物，但在泡沫期间，它们的可见度比以往任何时候都要高。大多数人确实是在泡沫期间首次了解到那些为了出售而创建的初创公司。"
     },
     {
       "original": "Originally a startup meant a small company that hoped to grow into a big one. But increasingly startups are evolving into a vehicle for developing technology on spec.As I wrote in Hackers & Painters, employees seem to be most productive when they're paid in proportion to the wealth they generate.",
-      "translated": "[翻译失败] Originally a startup meant a small company that ho..."
+      "translated": "最初，创业公司指的是希望从小公司成长为大公司的企业。但如今，越来越多的创业公司正在演变成开发技术的平台。正如我在《黑客与画家》中所写的，员工的生产力似乎在他们的薪酬与所创造的财富成正比时最高。"
     },
     {
       "original": "And the advantage of a startup—indeed, almost its raison d'etre—is that it offers something otherwise impossible to obtain: a way of measuring that.In many businesses, it just makes more sense for companies to get technology by buying startups rather than developing it in house.",
-      "translated": "[翻译失败] And the advantage of a startup—indeed, almost its ..."
+      "translated": "创业公司的优势——事实上，几乎是其存在的理由——在于它提供了一种其他方式无法获得的东西：一种衡量的方法。在许多企业中，通过收购创业公司来获取技术比自己内部开发更为合理。"
     },
     {
       "original": "You pay more, but there is less risk, and risk is what big companies don't want. It makes the guys developing the technology more accountable, because they only get paid if they build the winner. And you end up with better technology, created faster, because things are made in the innovative atmosphere of startups instead of the bureaucratic atmosphere of big companies.Our startup, Viaweb, was built to be sold.",
-      "translated": "[翻译失败] You pay more, but there is less risk, and risk is ..."
+      "translated": "你支付更多，但风险更小，而风险正是大公司不愿承担的。这使得开发技术的人更加负责，因为他们只有在创造出成功的产品时才能得到报酬。最终，你会得到更好的技术，而且开发速度更快，因为这些技术是在创业公司的创新氛围中创造的，而不是在大公司的官僚氛围中。我们的创业公司Viaweb，就是为了被收购而建立的。"
     },
     {
       "original": "We were open with investors about that from the start. And we were careful to create something that could slot easily into a larger company. That is the pattern for the future.9. CaliforniaThe Bubble was a California phenomenon.",
-      "translated": "[翻译失败] We were open with investors about that from the st..."
+      "translated": "从一开始，我们就对投资者保持了透明。我们还谨慎地创建了一个可以轻松融入大公司的产品。这将是未来的发展模式。加州泡沫是一个加州现象。"
     },
     {
       "original": "When I showed up in Silicon Valley in 1998, I felt like an immigrant from Eastern Europe arriving in America in 1900. Everyone was so cheerful and healthy and rich. It seemed a new and improved world.The press, ever eager to exaggerate small trends, now gives one the impression that Silicon Valley is a ghost town.",
-      "translated": "[翻译失败] When I showed up in Silicon Valley in 1998, I felt..."
+      "translated": "1998年我来到硅谷时，感觉就像1900年从东欧移民到美国的人一样。每个人都很乐观、健康和富有。这里仿佛是一个崭新且更美好的世界。而如今，媒体总是热衷于夸大微小的趋势，给人一种硅谷已成鬼城的印象。"
     },
     {
       "original": "Not at all. When I drive down 101 from the airport, I still feel a buzz of energy, as if there were a giant transformer nearby. Real estate is still more expensive than just about anywhere else in the country.",
-      "translated": "[翻译失败] Not at all. When I drive down 101 from the airport..."
+      "translated": "一点也不。当我从机场沿着101号公路开车时，仍然能感受到一种能量的脉动，仿佛附近有一个巨大的变压器。这里的房地产价格仍然比全国几乎任何地方都要高。"
     },
     {
       "original": "The people still look healthy, and the weather is still fabulous. The future is there. (I say \"there\" because I moved back to the East Coast after Yahoo. I still wonder if this was a smart idea.)What makes the Bay Area superior is the attitude of the people.",
-      "translated": "[翻译失败] The people still look healthy, and the weather is ..."
+      "translated": "人们依然健康，天气依然美好。未来就在那里。（我说“那里”是因为在雅虎之后我搬回了东海岸。我仍然在想这是否是一个明智的决定。）让湾区胜出的是人们的那种态度。"
     },
     {
       "original": "I notice that when I come home to Boston. The first thing I see when I walk out of the airline terminal is the fat, grumpy guy in charge of the taxi line. I brace myself for rudeness: remember, you're back on the East Coast now.The atmosphere varies from city to city, and fragile organisms like startups are exceedingly sensitive to such variation.",
-      "translated": "[翻译失败] I notice that when I come home to Boston. The firs..."
+      "translated": "我注意到，当我回到波士顿时，刚走出航站楼看到的第一件事就是那个负责出租车队伍的胖乎乎、脾气暴躁的家伙。我做好了迎接粗鲁的准备：记住，你现在回到东海岸了。不同城市之间的氛围各不相同，而像初创公司这样的脆弱生物对这种变化极其敏感。"
     },
     {
       "original": "If it hadn't already been hijacked as a new euphemism for liberal, the word to describe the atmosphere in the Bay Area would be \"progressive.\" People there are trying to build the future. Boston has MIT and Harvard, but it also has a lot of truculent, unionized employees like the police who recently held the Democratic National Convention for ransom, and a lot of people trying to be Thurston Howell.",
-      "translated": "[翻译失败] If it hadn't already been hijacked as a new euphem..."
+      "translated": "如果这个词还没有被劫持作为“自由派”的新委婉语，用来描述湾区氛围的词应该是“进步的”。那里的人们正在努力构建未来。波士顿有麻省理工学院和哈佛大学，但它也有很多强硬的、有工会背景的员工，比如最近把民主党全国代表大会当作人质的警察，以及很多试图成为瑟斯顿·豪威尔的人。"
     },
     {
       "original": "Two sides of an obsolete coin.Silicon Valley may not be the next Paris or London, but it is at least the next Chicago. For the next fifty years, that's where new wealth will come from.10. ProductivityDuring the Bubble, optimistic analysts used to justify high price to earnings ratios by saying that technology was going to increase productivity dramatically.",
-      "translated": "[翻译失败] Two sides of an obsolete coin.Silicon Valley may n..."
+      "translated": "一枚过时硬币的两面。硅谷可能不会成为下一个巴黎或伦敦，但至少会成为下一个芝加哥。在未来的五十年里，那里将是新财富的来源。10. 生产力在泡沫时期，乐观的分析师曾用技术将大幅提高生产力的说法来为高市盈率进行辩护。"
     },
     {
       "original": "They were wrong about the specific companies, but not so wrong about the underlying principle. I think one of the big trends we'll see in the coming century is a huge increase in productivity.Or more precisely, a huge increase in variation in productivity.",
-      "translated": "[翻译失败] They were wrong about the specific companies, but ..."
+      "translated": "他们对具体公司判断错了，但对基本原则的判断并不错。我认为，在即将到来的世纪里，我们将看到的一个重大趋势是生产力的巨大提升。或者更准确地说，生产力差异的巨大提升。"
     },
     {
       "original": "Technology is a lever. It doesn't add; it multiplies. If the present range of productivity is 0 to 100, introducing a multiple of 10 increases the range from 0 to 1000.One upshot of which is that the companies of the future may be surprisingly small.",
-      "translated": "[翻译失败] Technology is a lever. It doesn't add; it multipli..."
+      "translated": "技术是一个杠杆。它不是简单地增加，而是成倍地放大。如果当前的生产力范围是0到100，引入10倍的增幅将会使这一范围扩大到0到1000。因此，未来的企业可能会出乎意料地小巧。"
     },
     {
       "original": "I sometimes daydream about how big you could grow a company (in revenues) without ever having more than ten people. What would happen if you outsourced everything except product development? If you tried this experiment, I think you'd be surprised at how far you could get.",
-      "translated": "[翻译失败] I sometimes daydream about how big you could grow ..."
+      "translated": "我有时会幻想，一个公司（按收入计算）在不超过十个人的情况下能发展到多大。如果你把除了产品开发之外的所有事情都外包会怎么样？如果你尝试这个实验，我认为你会惊讶于你能走多远。"
     },
     {
       "original": "As Fred Brooks pointed out, small groups are intrinsically more productive, because the internal friction in a group grows as the square of its size.Till quite recently, running a major company meant managing an army of workers.",
-      "translated": "[翻译失败] As Fred Brooks pointed out, small groups are intri..."
+      "translated": "正如弗雷德·布鲁克斯指出的，小团队本质上更具生产力，因为团队内部的摩擦随着团队规模的平方增长。直到不久前，经营一家大公司还意味着管理一大群工人。"
     },
     {
       "original": "Our standards about how many employees a company should have are still influenced by old patterns. Startups are perforce small, because they can't afford to hire a lot of people. But I think it's a big mistake for companies to loosen their belts as revenues increase.",
-      "translated": "[翻译失败] Our standards about how many employees a company s..."
+      "translated": "我们对于公司应该有多少员工的标准仍然受到旧有模式的影响。初创公司由于资金有限，不得不保持小规模，无法雇用大量员工。但我认为，随着收入的增加，公司放松对员工人数的控制是一个很大的错误。"
     },
     {
       "original": "The question is not whether you can afford the extra salaries. Can you afford the loss in productivity that comes from making the company bigger?The prospect of technological leverage will of course raise the specter of unemployment.",
-      "translated": "[翻译失败] The question is not whether you can afford the ext..."
+      "translated": "问题不在于你是否能负担得起额外的工资。你能承受因公司规模扩大而导致的生产率损失吗？当然，技术杠杆的前景将不可避免地引发失业的幽灵。"
     },
     {
       "original": "I'm surprised people still worry about this. After centuries of supposedly job-killing innovations, the number of jobs is within ten percent of the number of people who want them. This can't be a coincidence.",
-      "translated": "[翻译失败] I'm surprised people still worry about this. After..."
+      "translated": "我惊讶于人们仍然对此感到担忧。经过几个世纪所谓的“消灭就业”的创新之后，工作岗位的数量与想要工作的人数相差不到百分之十。这不可能是巧合。"
     },
     {
       "original": "There must be some kind of balancing mechanism.What's NewWhen one looks over these trends, is there any overall theme? There does seem to be: that in the coming century, good ideas will count for more.",
-      "translated": "[翻译失败] There must be some kind of balancing mechanism.Wha..."
+      "translated": "必须有一种平衡机制。当我们审视这些趋势时，是否有一个总体的主题？确实有一个：那就是在即将到来的世纪里，好的想法将更加重要。"
     },
     {
       "original": "That 26 year olds with good ideas will increasingly have an edge over 50 year olds with powerful connections. That doing good work will matter more than dressing up—or advertising, which is the same thing for companies.",
-      "translated": "[翻译失败] That 26 year olds with good ideas will increasingl..."
+      "translated": "那些有好想法的26岁年轻人将越来越有优势，超过那些拥有强大关系网的50岁的人。做好工作将比穿得好或做广告更重要，而后者对公司来说其实是同一件事。"
     },
     {
       "original": "That people will be rewarded a bit more in proportion to the value of what they create.If so, this is good news indeed. Good ideas always tend to win eventually. The problem is, it can take a very long time.",
-      "translated": "[翻译失败] That people will be rewarded a bit more in proport..."
+      "translated": "人们将根据他们所创造价值的大小获得相应的更多回报。如果真是这样，那确实是个好消息。好的想法最终总是会胜出的。问题在于，这可能需要非常长的时间。"
     },
     {
       "original": "It took decades for relativity to be accepted, and the greater part of a century to establish that central planning didn't work. So even a small increase in the rate at which good ideas win would be a momentous change—big enough, probably, to justify a name like the \"new economy.\"Notes[1] Actually it's hard to say now.",
-      "translated": "[翻译失败] It took decades for relativity to be accepted, and..."
+      "translated": "相对论被接受花了数十年，而证明中央计划行不通则几乎花了一个世纪的大部分时间。因此，即便只是好的想法获胜的速度有小幅提升，也将是一个意义重大的变化——这个变化可能足够大，足以被称为“新经济”注[1]实际上，现在很难说。"
     },
     {
       "original": "As Jeremy Siegel points out, if the value of a stock is its future earnings, you can't tell if it was overvalued till you see what the earnings turn out to be. While certain famous Internet stocks were almost certainly overvalued in 1999, it is still hard to say for sure whether, e.g., the Nasdaq index was.Siegel, Jeremy J.",
-      "translated": "[翻译失败] As Jeremy Siegel points out, if the value of a sto..."
+      "translated": "正如杰里米·西格尔指出的，如果一只股票的价值在于其未来的收益，那么只有在看到实际收益后，你才能判断它是否被高估。虽然某些著名的互联网股票在1999年几乎可以肯定是被高估了，但要确切地说，例如纳斯达克指数是否被高估，仍然很难。西格尔，杰里米·J."
     },
     {
       "original": "\"What Is an Asset Price Bubble? An Operational Definition.\" European Financial Management, 9:1, 2003.[2] The number of users comes from a 6/03 Nielsen study quoted on Google's site. (You'd think they'd have something more recent.) The revenue estimate is based on revenues of $1.35 billion for the first half of 2004, as reported in their IPO filing.Thanks to Chris Anderson, Trevor Blackwell, Sarah Harlin, Jessica Livingston, and Robert Morris for reading drafts of this.The Long TailRussian TranslationJapanese Translation",
-      "translated": "[翻译失败] \"What Is an Asset Price Bubble? An Operational Def..."
+      "translated": "《什么是资产价格泡沫？一个操作性定义》。《欧洲金融管理》，9:1，2003年。[2] 用户数量来自2003年6月尼尔森的一项研究，该研究被引用在谷歌的网站上。（你可能会认为他们会有更近期的数据。）收入估计基于2004年上半年13.5亿美元的收入，这一数据在其IPO文件中有报道。感谢Chris Anderson、Trevor Blackwell、Sarah Harlin、Jessica Livingston和Robert Morris审阅本文草稿。长尾效应俄文翻译日文翻译"
     }
   ],
-  "translation_completed": "2025-07-27T12:30:04.607802",
+  "translation_completed": "2025-07-28T11:28:30.326128",
   "translation_stats": {
     "total_paragraphs": 76,
-    "success_count": 0,
-    "success_rate": "0.0%"
+    "success_count": 76,
+    "success_rate": "100.0%"
   }
 }

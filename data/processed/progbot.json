@@ -36,83 +36,89 @@
   "paragraphs": [
     {
       "original": "1993 (This essay is from the introduction to On Lisp.) It's a long-standing principle of programming style that the functional elements of a program should not be too large. If some component of a program grows beyond the stage where it's readily comprehensible, it becomes a mass of complexity which conceals errors as easily as a big city conceals fugitives.",
-      "translated": "[待翻译] 1993 (This essay is from the introduction to On Li..."
+      "translated": "1993（本文摘自《On Lisp》的引言。）长期以来，编程风格的一个原则是程序的功能元素不应过大。如果程序的某个组件增长到难以理解的程度，它就会成为一个复杂的集合体，就像大城市可以隐藏逃犯一样，这种复杂性也会轻易地掩盖错误。"
     },
     {
       "original": "Such software will be hard to read, hard to test, and hard to debug.In accordance with this principle, a large program must be divided into pieces, and the larger the program, the more it must be divided.",
-      "translated": "[待翻译] Such software will be hard to read, hard to test, ..."
+      "translated": "这样的软件将难以阅读、难以测试、难以调试。根据这一原则，大型程序必须分解为多个部分，程序越大，分解得越细。"
     },
     {
       "original": "How do you divide a program? The traditional approach is called top-down design: you say \"the purpose of the program is to do these seven things, so I divide it into seven major subroutines. The first subroutine has to do these four things, so it in turn will have four of its own subroutines,\" and so on.",
-      "translated": "[待翻译] How do you divide a program? The traditional appro..."
+      "translated": "如何划分一个程序？传统的方法称为自顶向下设计：你可以说“程序的目的是完成这七件事，所以我将其分为七个主要子程序。第一个子程序需要完成这四件事，因此它本身又将有四个子程序，”依此类推。"
     },
     {
       "original": "This process continues until the whole program has the right level of granularity-- each part large enough to do something substantial, but small enough to be understood as a single unit.Experienced Lisp programmers divide up their programs differently.",
-      "translated": "[待翻译] This process continues until the whole program has..."
+      "translated": "这一过程持续进行，直到整个程序达到适当的颗粒度——每个部分都足够大，能够完成实质性的任务，但又足够小，可以作为一个单独的单元被理解。有经验的 Lisp 程序员会以不同的方式划分他们的程序。"
     },
     {
       "original": "As well as top-down design, they follow a principle which could be called bottom-up design-- changing the language to suit the problem. In Lisp, you don't just write your program down toward the language, you also build the language up toward your program.",
-      "translated": "[待翻译] As well as top-down design, they follow a principl..."
+      "translated": "除了自上而下的设计，他们还遵循一种可以称为自下而上的设计原则——根据问题调整语言。在 Lisp 中，你不仅要把程序向下写到语言层面，还要将语言向上构建到程序层面。"
     },
     {
       "original": "As you're writing a program you may think \"I wish Lisp had such-and-such an operator.\" So you go and write it. Afterward you realize that using the new operator would simplify the design of another part of the program, and so on.",
-      "translated": "[待翻译] As you're writing a program you may think \"I wish ..."
+      "translated": "在编写程序时，你可能会想：“要是Lisp有这样一个操作符就好了。”于是你就去编写它。之后你会意识到，使用这个新的操作符可以简化程序另一部分的设计，如此这般。"
     },
     {
       "original": "Language and program evolve together. Like the border between two warring states, the boundary between language and program is drawn and redrawn, until eventually it comes to rest along the mountains and rivers, the natural frontiers of your problem.",
-      "translated": "[待翻译] Language and program evolve together. Like the bor..."
+      "translated": "语言和程序共同进化。就像两个交战国之间的边界，语言和程序之间的界限被不断划定和重划，直到最终沿着问题的自然边界——山川河流——稳定下来。"
     },
     {
       "original": "In the end your program will look as if the language had been designed for it. And when language and program fit one another well, you end up with code which is clear, small, and efficient. It's worth emphasizing that bottom-up design doesn't mean just writing the same program in a different order.",
-      "translated": "[待翻译] In the end your program will look as if the langua..."
+      "translated": "最后，你的程序看起来就像这门语言是专门为它设计的一样。当语言和程序彼此契合时，你最终会得到清晰、简洁且高效的代码。值得一提的是，自底向上的设计并不意味着只是以不同的顺序编写相同的程序。"
     },
     {
       "original": "When you work bottom-up, you usually end up with a different program. Instead of a single, monolithic program, you will get a larger language with more abstract operators, and a smaller program written in it.",
-      "translated": "[待翻译] When you work bottom-up, you usually end up with a..."
+      "translated": "当你采用自底向上的方法时，最终通常会得到一个不同的程序。与其说是一个单一的、整体的程序，不如说你会得到一种更丰富的语言，包含更多的抽象操作符，以及用这种语言编写的一个更小的程序。"
     },
     {
       "original": "Instead of a lintel, you'll get an arch. In typical code, once you abstract out the parts which are merely bookkeeping, what's left is much shorter; the higher you build up the language, the less distance you will have to travel from the top down to it.",
-      "translated": "[待翻译] Instead of a lintel, you'll get an arch. In typica..."
+      "translated": "不是横梁，而是拱门。在典型的代码中，一旦你抽象出那些仅仅是簿记的部分，剩下的部分就会短得多；你构建的语言层次越高，从顶部到底部的距离就会越短。"
     },
     {
       "original": "This brings several advantages: By making the language do more of the work, bottom-up design yields programs which are smaller and more agile. A shorter program doesn't have to be divided into so many components, and fewer components means programs which are easier to read or modify.",
-      "translated": "[待翻译] This brings several advantages: By making the lang..."
+      "translated": "这带来了几个优点：通过让语言承担更多的工作，自底向上的设计产生了更小、更灵活的程序。较短的程序不需要被分成那么多的组件，而较少的组件意味着程序更容易阅读或修改。"
     },
     {
       "original": "Fewer components also means fewer connections between components, and thus less chance for errors there. As industrial designers strive to reduce the number of moving parts in a machine, experienced Lisp programmers use bottom-up design to reduce the size and complexity of their programs.",
-      "translated": "[待翻译] Fewer components also means fewer connections betw..."
+      "translated": "较少的组件也意味着组件之间的连接减少，从而降低了这些连接出错的可能性。正如工业设计师努力减少机器中的活动部件数量一样，有经验的Lisp程序员使用自底向上的设计方法来减少程序的规模和复杂性。"
     },
     {
       "original": "Bottom-up design promotes code re-use. When you write two or more programs, many of the utilities you wrote for the first program will also be useful in the succeeding ones. Once you've acquired a large substrate of utilities, writing a new program can take only a fraction of the effort it would require if you had to start with raw Lisp.",
-      "translated": "[待翻译] Bottom-up design promotes code re-use. When you wr..."
+      "translated": "自底向上的设计促进了代码重用。当你编写两个或更多的程序时，为第一个程序编写的许多工具在后续的程序中也会很有用。一旦你积累了一大批工具，编写新程序所需的努力可能会大大减少，而不会像从头开始使用原始 Lisp 那样费力。"
     },
     {
       "original": "Bottom-up design makes programs easier to read. An instance of this type of abstraction asks the reader to understand a general-purpose operator; an instance of functional abstraction asks the reader to understand a special-purpose subroutine.",
-      "translated": "[待翻译] Bottom-up design makes programs easier to read. An..."
+      "translated": "自底向上的设计使程序更容易阅读。这种抽象的一个实例要求读者理解一个通用操作符；而函数抽象的一个实例则要求读者理解一个专用子程序。"
     },
     {
       "original": "[1] Because it causes you always to be on the lookout for patterns in your code, working bottom-up helps to clarify your ideas about the design of your program. If two distant components of a program are similar in form, you'll be led to notice the similarity and perhaps to redesign the program in a simpler way.",
-      "translated": "[待翻译] [1] Because it causes you always to be on the look..."
+      "translated": "[1] 因为它使你始终关注代码中的模式，自底向上工作有助于澄清你对程序设计的想法。如果程序的两个远距离组件在形式上相似，你会被引导注意到这种相似性，并可能以更简单的方式重新设计程序。"
     },
     {
       "original": "Bottom-up design is possible to a certain degree in languages other than Lisp. Whenever you see library functions, bottom-up design is happening. However, Lisp gives you much broader powers in this department, and augmenting the language plays a proportionately larger role in Lisp style-- so much so that Lisp is not just a different language, but a whole different way of programming.It's true that this style of development is better suited to programs which can be written by small groups.",
-      "translated": "[待翻译] Bottom-up design is possible to a certain degree i..."
+      "translated": "自底向上的设计在Lisp之外的其他语言中也是可以在一定程度上实现的。每当看到库函数时，就意味着自底向上的设计正在发生。然而，Lisp在这方面提供了更广泛的能力，增强语言在Lisp风格中扮演了更为重要的角色——以至于Lisp不仅仅是一种不同的语言，而是一种完全不同的编程方式。确实，这种开发风格更适合由小团队编写程序。"
     },
     {
       "original": "However, at the same time, it extends the limits of what can be done by a small group. In The Mythical Man-Month, Frederick Brooks proposed that the productivity of a group of programmers does not grow linearly with its size.",
-      "translated": "[待翻译] However, at the same time, it extends the limits o..."
+      "translated": "然而，与此同时，它也扩展了小团队所能做的事情的极限。在《人月神话》中，弗雷德里克·布鲁克斯提出，程序员团队的生产率并不会随着团队规模的线性增长而增长。"
     },
     {
       "original": "As the size of the group increases, the productivity of individual programmers goes down. The experience of Lisp programming suggests a more cheerful way to phrase this law: as the size of the group decreases, the productivity of individual programmers goes up.",
-      "translated": "[待翻译] As the size of the group increases, the productivi..."
+      "translated": "随着团队规模的扩大，单个程序员的生产率下降。Lisp 编程的经验提供了一种更为乐观的表述方式：随着团队规模的缩小，单个程序员的生产率提高。"
     },
     {
       "original": "A small group wins, relatively speaking, simply because it's smaller. When a small group also takes advantage of the techniques that Lisp makes possible, it can win outright.New: Download On Lisp for Free.",
-      "translated": "[待翻译] A small group wins, relatively speaking, simply be..."
+      "translated": "一个小团队之所以能够获胜，相对而言，仅仅是因为它规模较小。当这个小团队还利用了Lisp所带来的技术优势时，它就能彻底胜出。新内容：免费下载《On Lisp》。"
     },
     {
       "original": "[1] \"But no one can read the program without understanding all your new utilities.\" To see why such statements are usually mistaken, see Section 4.8.",
-      "translated": "[待翻译] [1] \"But no one can read the program without under..."
+      "translated": "[1] “但没有人能在不了解你所有新工具的情况下读懂这个程序。” 有关为何此类说法通常有误的解释，请参阅第4.8节。"
     }
-  ]
+  ],
+  "translation_completed": "2025-07-28T14:02:16.489265",
+  "translation_stats": {
+    "total_paragraphs": 20,
+    "success_count": 20,
+    "success_rate": "100.0%"
+  }
 }

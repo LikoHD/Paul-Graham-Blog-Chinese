@@ -94,321 +94,321 @@
   "paragraphs": [
     {
       "original": "March 2009(This essay is derived from a talk at AngelConf.)When we sold our startup in 1998 I thought one day I'd do some angel investing. Seven years later I still hadn't started. I put it off because it seemed mysterious and complicated.",
-      "translated": "[翻译失败] March 2009(This essay is derived from a talk at An..."
+      "translated": "2009年3月（本文源自在AngelConf上的演讲。）1998年我们卖掉自己的创业公司时，我曾想有一天我会做一些天使投资。七年后，我仍然没有开始。我把它推迟了，因为这看起来既神秘又复杂。"
     },
     {
       "original": "It turns out to be easier than I expected, and also more interesting.The part I thought was hard, the mechanics of investing, really isn't. You give a startup money and they give you stock. You'll probably get either preferred stock, which means stock with extra rights like getting your money back first in a sale, or convertible debt, which means (on paper) you're lending the company money, and the debt converts to stock at the next sufficiently big funding round.",
-      "translated": "[翻译失败] It turns out to be easier than I expected, and als..."
+      "translated": "结果比预期的要容易，也更有趣。原本以为困难的部分，即投资的机制，实际上并不难。你给初创公司资金，他们给你股份。你可能会获得优先股，这意味着在公司出售时你有优先获得资金返还的权利，或者可转换债务，这在文件上看起来像是你在借钱给公司，而这些债务将在下一个足够大的融资轮中转换为股份。"
     },
     {
       "original": "[1]There are sometimes minor tactical advantages to using one or the other. The paperwork for convertible debt is simpler. But really it doesn't matter much which you use. Don't spend much time worrying about the details of deal terms, especially when you first start angel investing.",
-      "translated": "[翻译失败] [1]There are sometimes minor tactical advantages t..."
+      "translated": "[1]有时使用其中一种或另一种会有一些小的战术优势。可转换债务的文件程序更为简单。但事实上，使用哪一种影响不大。刚开始进行天使投资时，不要花太多时间担心交易条款的细节。"
     },
     {
       "original": "That's not how you win at this game. When you hear people talking about a successful angel investor, they're not saying \"He got a 4x liquidation preference.\" They're saying \"He invested in Google.\"That's how you win: by investing in the right startups.",
-      "translated": "[翻译失败] That's not how you win at this game. When you hear..."
+      "translated": "这不是赢得这场游戏的方式。当你听到人们谈论一位成功的天使投资者时，他们不会说“他获得了4倍的清算优先权。”他们说的是“他投资了谷歌。”这才是赢得胜利的方式：投资正确的初创企业。"
     },
     {
       "original": "That is so much more important than anything else that I worry I'm misleading you by even talking about other things.MechanicsAngel investors often syndicate deals, which means they join together to invest on the same terms.",
-      "translated": "[翻译失败] That is so much more important than anything else ..."
+      "translated": "这比其他任何事情都重要得多，我甚至担心自己谈论其他事情会误导你。天使投资者通常会联合投资，这意味着他们会联合起来以相同的条件进行投资。"
     },
     {
       "original": "In a syndicate there is usually a \"lead\" investor who negotiates the terms with the startup. But not always: sometimes the startup cobbles together a syndicate of investors who approach them independently, and the startup's lawyer supplies the paperwork.The easiest way to get started in angel investing is to find a friend who already does it, and try to get included in his syndicates.",
-      "translated": "[翻译失败] In a syndicate there is usually a \"lead\" investor ..."
+      "translated": "在一个辛迪加中，通常有一位“牵头”投资者与初创公司协商条款。但并不总是如此：有时初创公司会自行拼凑一个由独立接触他们的投资者组成的辛迪加，而初创公司的律师则提供所需的文件。进入天使投资的最简单方式是找到一个已经从事这项工作的朋友，并设法加入他的辛迪加。"
     },
     {
       "original": "Then all you have to do is write checks.Don't feel like you have to join a syndicate, though. It's not that hard to do it yourself. You can just use the standard series AA documents Wilson Sonsini and Y Combinator published online.",
-      "translated": "[翻译失败] Then all you have to do is write checks.Don't feel..."
+      "translated": "然后你只需要开支票。不过，不必觉得一定要加入辛迪加。自己操作也并不难。你可以直接使用威尔森·桑西尼和Y Combinator在线发布的标准AA系列文件。"
     },
     {
       "original": "You should of course have your lawyer review everything. Both you and the startup should have lawyers. But the lawyers don't have to create the agreement from scratch. [2] When you negotiate terms with a startup, there are two numbers you care about: how much money you're putting in, and the valuation of the company.",
-      "translated": "[翻译失败] You should of course have your lawyer review every..."
+      "translated": "当然，你应该让你的律师审核一切。你和创业公司都应该有律师。但律师不必从头开始起草协议。[2] 当你与创业公司谈判条款时，你关心的有两个数字：你投入的资金数额和公司的估值。"
     },
     {
       "original": "The valuation determines how much stock you get. If you put $50,000 into a company at a pre-money valuation of $1 million, then the post-money valuation is $1.05 million, and you get .05/1.05, or 4.76% of the company's stock.If the company raises more money later, the new investor will take a chunk of the company away from all the existing shareholders just as you did.",
-      "translated": "[翻译失败] The valuation determines how much stock you get. I..."
+      "translated": "估值决定了你能获得多少股份。如果你以100万美元的投前估值向一家公司投资5万美元，那么投后估值将是105万美元，你将获得0.05/1.05，即4.76%的公司股份。如果公司日后筹集更多资金，新的投资者将像你一样从所有现有股东手中分走一部分公司股份。"
     },
     {
       "original": "If in the next round they sell 10% of the company to a new investor, your 4.76% will be reduced to 4.28%.That's ok. Dilution is normal. What saves you from being mistreated in future rounds, usually, is that you're in the same boat as the founders.",
-      "translated": "[翻译失败] If in the next round they sell 10% of the company ..."
+      "translated": "如果在下一轮他们将公司10%的股份出售给新投资者，你的4.76%股份将减少到4.28%。这是正常的。稀释是常见的现象。通常情况下，能够保护你不被在未来几轮融资中吃亏的是，你和创始人处于同一条船上。"
     },
     {
       "original": "They can't dilute you without diluting themselves just as much. And they won't dilute themselves unless they end up net ahead. So in theory, each further round of investment leaves you with a smaller share of an even more valuable company, till after several more rounds you end up with .5% of the company at the point where it IPOs, and you are very happy because your $50,000 has become $5 million.",
-      "translated": "[翻译失败] They can't dilute you without diluting themselves ..."
+      "translated": "他们无法稀释你的股份而不同样稀释自己的股份。除非他们最终能够获得净收益，否则他们不会稀释自己的股份。因此，从理论上讲，每一轮新的投资都会使你在公司中的股份比例变小，但公司本身的价值会更高。经过几轮投资后，你可能会在公司上市时持有0.5%的股份，而你会非常高兴，因为你的50,000美元已经变成了500万美元。"
     },
     {
       "original": "[3]The agreement by which you invest should have provisions that let you contribute to future rounds to maintain your percentage. So it's your choice whether you get diluted. [4] If the company does really well, you eventually will, because eventually the valuations will get so high it's not worth it for you.How much does an angel invest?",
-      "translated": "[翻译失败] [3]The agreement by which you invest should have p..."
+      "translated": "您进行投资的协议中应包含条款，允许您在未来几轮融资中继续投入以维持您的股份比例。因此，是否被稀释由您自己决定。如果公司表现优异，最终您还是会面临稀释，因为最终公司的估值会变得如此之高，以至于对您来说不再值得继续投入。天使投资者通常投资多少？"
     },
     {
       "original": "That varies enormously, from $10,000 to hundreds of thousands or in rare cases even millions. The upper bound is obviously the total amount the founders want to raise. The lower bound is 5-10% of the total or $10,000, whichever is greater.",
-      "translated": "[翻译失败] That varies enormously, from $10,000 to hundreds o..."
+      "translated": "这差距非常大，从10,000美元到几十万甚至在极少数情况下达到数百万美元不等。上限显然是创始人希望筹集的总额。下限则是总额的5-10%或10,000美元，以较高者为准。"
     },
     {
       "original": "A typical angel round these days might be $150,000 raised from 5 people.Valuations don't vary as much. For angel rounds it's rare to see a valuation lower than half a million or higher than 4 or 5 million.",
-      "translated": "[翻译失败] A typical angel round these days might be $150,000..."
+      "translated": "如今，典型的天使轮融资可能是从5人那里筹集15万美元。估值的变动范围不大。对于天使轮融资，很少见到估值低于50万美元或高于400万到500万美元的情况。"
     },
     {
       "original": "4 million is starting to be VC territory.How do you decide what valuation to offer? If you're part of a round led by someone else, that problem is solved for you. But what if you're investing by yourself?",
-      "translated": "[翻译失败] 4 million is starting to be VC territory.How do yo..."
+      "translated": "400万开始进入风险投资的范畴。你如何决定提供多少估值？如果你参与的是由其他人领投的轮次，这个问题就迎刃而解了。但如果你是独自投资呢？"
     },
     {
       "original": "There's no real answer. There is no rational way to value an early stage startup. The valuation reflects nothing more than the strength of the company's bargaining position. If they really want you, either because they desperately need money, or you're someone who can help them a lot, they'll let you invest at a low valuation.",
-      "translated": "[翻译失败] There's no real answer. There is no rational way t..."
+      "translated": "没有真正的答案。对早期初创公司的估值没有合理的依据。估值所反映的无非是公司谈判地位的强弱。如果他们真的需要你，无论是因为他们急切需要资金，还是你能够给予他们很大帮助，他们会让你以较低的估值投资。"
     },
     {
       "original": "If they don't need you, it will be higher. So guess. The startup may not have any more idea what the number should be than you do. [5]Ultimately it doesn't matter much. When angels make a lot of money from a deal, it's not because they invested at a valuation of $1.5 million instead of $3 million.",
-      "translated": "[翻译失败] If they don't need you, it will be higher. So gues..."
+      "translated": "如果他们不需要你，这个数字会更高。所以只能猜测。初创公司可能和你一样不清楚这个数字应该是多少。[5]最终这并不太重要。当天使投资者从一笔交易中赚到很多钱时，这并不是因为他们是以150万美元而不是3000万美元的估值进行投资的。"
     },
     {
       "original": "It's because the company was really successful.I can't emphasize that too much. Don't get hung up on mechanics or deal terms. What you should spend your time thinking about is whether the company is good.(Similarly, founders also should not get hung up on deal terms, but should spend their time thinking about how to make the company good.)There's a second less obvious component of an angel investment: how much you're expected to help the startup.",
-      "translated": "[翻译失败] It's because the company was really successful.I c..."
+      "translated": "这是因为公司确实非常成功。这一点我怎么强调都不为过。不要过于纠结于机制或交易条款。你应该花时间思考的是公司是否优秀。（同样，创始人也不应该过于纠结于交易条款，而应该花时间思考如何使公司变得优秀。）天使投资还有第二个不太明显的因素：你被期望对初创公司提供多少帮助。"
     },
     {
       "original": "Like the amount you invest, this can vary a lot. You don't have to do anything if you don't want to; you could simply be a source of money. Or you can become a de facto employee of the company. Just make sure that you and the startup agree in advance about roughly how much you'll do for them.Really hot companies sometimes have high standards for angels.",
-      "translated": "[翻译失败] Like the amount you invest, this can vary a lot. Y..."
+      "translated": "像你投资的金额一样，这可以有很大的变化。如果你不想做任何事情，你也可以仅仅作为一个资金来源；或者你可以成为公司的事实员工。只是确保你和初创公司提前就你为他们做多少工作达成一致。真正热门的公司有时对天使投资者有很高的标准。"
     },
     {
       "original": "The ones everyone wants to invest in practically audition investors, and only take money from people who are famous and/or will work hard for them. But don't feel like you have to put in a lot of time or you won't get to invest in any good startups.",
-      "translated": "[翻译失败] The ones everyone wants to invest in practically a..."
+      "translated": "大家都想投资的公司几乎是在筛选投资者，只接受那些有名气和/或愿意为他们努力工作的人的钱。但不要觉得你必须花很多时间，否则就无法投资到好的初创公司。"
     },
     {
       "original": "There is a surprising lack of correlation between how hot a deal a startup is and how well it ends up doing. Lots of hot startups will end up failing, and lots of startups no one likes will end up succeeding.",
-      "translated": "[翻译失败] There is a surprising lack of correlation between ..."
+      "translated": "令人惊讶的是，初创企业的热度与其最终表现之间往往缺乏相关性。许多热门的初创企业最终会失败，而许多不受人看好的初创企业最终却能成功。"
     },
     {
       "original": "And the latter are so desperate for money that they'll take it from anyone at a low valuation. [6]Picking WinnersIt would be nice to be able to pick those out, wouldn't it? The part of angel investing that has most effect on your returns, picking the right companies, is also the hardest.",
-      "translated": "[翻译失败] And the latter are so desperate for money that the..."
+      "translated": "而后者由于极度需要资金，以至于他们会以很低的估值从任何人那里获取资金。[6]挑选赢家如果能够挑选出这些赢家，那该多好啊？天使投资中对回报影响最大的部分，即挑选正确的公司，也是最难的部分。"
     },
     {
       "original": "So you should practically ignore (or more precisely, archive, in the Gmail sense) everything I've told you so far. You may need to refer to it at some point, but it is not the central issue.The central issue is picking the right startups.",
-      "translated": "[翻译失败] So you should practically ignore (or more precisel..."
+      "translated": "所以你应该基本上忽略（或者更准确地说，归档，按照Gmail的用法）到目前为止我告诉你的所有内容。你可能在某个时候需要参考这些信息，但它们并不是核心问题。核心问题是选择正确的初创公司。"
     },
     {
       "original": "What \"Make something people want\" is for startups, \"Pick the right startups\" is for investors. Combined they yield \"Pick the startups that will make something people want.\"How do you do that? It's not as simple as picking startups that are already making something wildly popular.",
-      "translated": "[翻译失败] What \"Make something people want\" is for startups,..."
+      "translated": "“做出人们想要的东西”对于初创公司而言，“选择正确的初创公司”对于投资者而言，两者结合起来就是“选择那些将做出人们想要的东西的初创公司。”如何做到这一点？这并不是简单地选择那些已经在制造极受欢迎的产品的初创公司。"
     },
     {
       "original": "By then it's too late for angels. VCs will already be onto them. As an angel, you have to pick startups before they've got a hit—either because they've made something great but users don't realize it yet, like Google early on, or because they're still an iteration or two away from the big hit, like Paypal when they were making software for transferring money between PDAs.To be a good angel investor, you have to be a good judge of potential.",
-      "translated": "[翻译失败] By then it's too late for angels. VCs will already..."
+      "translated": "到那时，对于天使投资者来说已经太晚了。风险投资家已经介入。作为天使投资者，你必须在创业公司尚未取得成功之前就选择它们——要么是因为他们已经创造了一些很棒的东西，但用户还没有意识到，就像早期的谷歌；要么是因为他们距离重大突破还有一两次迭代，就像PayPal在开发掌上电脑之间转账软件时那样。要成为一名优秀的天使投资者，你必须是一位潜在价值的优秀评估者。"
     },
     {
       "original": "That's what it comes down to. VCs can be fast followers. Most of them don't try to predict what will win. They just try to notice quickly when something already is winning. But angels have to be able to predict.",
-      "translated": "[翻译失败] That's what it comes down to. VCs can be fast foll..."
+      "translated": "归根结底就是这一点。风险投资家可以是快速追随者。他们中的大多数并不试图预测什么会成功。他们只是试图迅速发现已经成功的事物。但天使投资者必须能够预测。"
     },
     {
       "original": "[7]One interesting consequence of this fact is that there are a lot of people out there who have never even made an angel investment and yet are already better angel investors than they realize. Someone who doesn't know the first thing about the mechanics of venture funding but knows what a successful startup founder looks like is actually far ahead of someone who knows termsheets inside out, but thinks \"hacker\" means someone who breaks into computers.",
-      "translated": "[翻译失败] [7]One interesting consequence of this fact is tha..."
+      "translated": "[7]这一事实的一个有趣后果是，有很多人从未做过天使投资，但他们已经是比他们自己意识到的更好的天使投资者。一个对风险投资的机制一无所知，但却知道成功创业者长什么样的人，实际上比一个对条款书了如指掌，但认为“黑客”就是入侵计算机的人要领先得多。"
     },
     {
       "original": "If you can recognize good startup founders by empathizing with them—if you both resonate at the same frequency—then you may already be a better startup picker than the median professional VC. [8]Paul Buchheit, for example, started angel investing about a year after me, and he was pretty much immediately as good as me at picking startups.",
-      "translated": "[翻译失败] If you can recognize good startup founders by empa..."
+      "translated": "如果你能够通过与创业者的共鸣来识别优秀的企业家——如果你们在同一个频率上共振——那么你可能已经比中等水平的专业风险投资家更擅长挑选初创企业。[8]例如，Paul Buchheit 在我开始天使投资后大约一年也开始了他的天使投资生涯，而且他几乎立即在挑选初创企业方面达到了和我相同的水平。"
     },
     {
       "original": "My extra year of experience was rounding error compared to our ability to empathize with founders.What makes a good founder? If there were a word that meant the opposite of hapless, that would be the one.",
-      "translated": "[翻译失败] My extra year of experience was rounding error com..."
+      "translated": "我的额外一年经验与我们对创始人的同理心相比，几乎可以忽略不计。什么造就一个好的创始人？如果有一个词意味着与“无能为力”相反，那便是答案。"
     },
     {
       "original": "Bad founders seem hapless. They may be smart, or not, but somehow events overwhelm them and they get discouraged and give up. Good founders make things happen the way they want. Which is not to say they force things to happen in a predefined way.",
-      "translated": "[翻译失败] Bad founders seem hapless. They may be smart, or n..."
+      "translated": "糟糕的创始人似乎总是显得无助。他们可能聪明，也可能不聪明，但不知为何，事情总是超出他们的控制，他们变得灰心丧气，最终放弃。优秀的创始人则能够按照自己的意愿推动事情的发展。这并不是说他们会强迫事情按照预先设定的方式发生。"
     },
     {
       "original": "Good founders have a healthy respect for reality. But they are relentlessly resourceful. That's the closest I can get to the opposite of hapless. You want to fund people who are relentlessly resourceful.Notice we started out talking about things, and now we're talking about people.",
-      "translated": "[翻译失败] Good founders have a healthy respect for reality. ..."
+      "translated": "优秀的创始人对现实有着健康的尊重。但他们坚持不懈地富有创造力。这可能是与无助最接近的相反状态了。你希望资助那些坚持不懈地富有创造力的人。请注意，我们开始时谈论的是事物，而现在我们在谈论人。"
     },
     {
       "original": "There is an ongoing debate between investors which is more important, the people, or the idea—or more precisely, the market. Some, like Ron Conway, say it's the people—that the idea will change, but the people are the foundation of the company.",
-      "translated": "[翻译失败] There is an ongoing debate between investors which..."
+      "translated": "投资者之间一直存在一个争论，即哪方面更为重要：人才还是创意——或者说得更准确些，是市场。有些人，比如罗恩·康威，认为人才是关键——创意可能会改变，但人才是公司的基础。"
     },
     {
       "original": "Whereas Marc Andreessen says he'd back ok founders in a hot market over great founders in a bad one. [9]These two positions are not so far apart as they seem, because good people find good markets. Bill Gates would probably have ended up pretty rich even if IBM hadn't happened to drop the PC standard in his lap.I've thought a lot about the disagreement between the investors who prefer to bet on people and those who prefer to bet on markets.",
-      "translated": "[翻译失败] Whereas Marc Andreessen says he'd back ok founders..."
+      "translated": "马克斯·安德森说，他会支持在热门市场中的普通创业者，而不是在糟糕市场中的优秀创业者。[9]这两种立场并不像表面看起来那么不同，因为优秀的人总能找到好的市场。即使IBM没有恰好将PC标准送到比尔·盖茨面前，他大概也会变得相当富有。我一直在思考投资者之间的一种分歧，即那些更倾向于投资于人和那些更倾向于投资于市场的投资者之间的分歧。"
     },
     {
       "original": "It's kind of surprising that it even exists. You'd expect opinions to have converged more.But I think I've figured out what's going on. The three most prominent people I know who favor markets are Marc, Jawed Karim, and Joe Kraus.",
-      "translated": "[翻译失败] It's kind of surprising that it even exists. You'd..."
+      "translated": "令人惊讶的是它竟然存在。你可能会认为观点应该更加趋同。但我认为我已经弄清楚了是怎么回事。我认识的三个最支持市场的人是马克、贾维德·卡里姆和乔·克劳斯。"
     },
     {
       "original": "And all three of them, in their own startups, basically flew into a thermal: they hit a market growing so fast that it was all they could do to keep up with it. That kind of experience is hard to ignore.",
-      "translated": "[翻译失败] And all three of them, in their own startups, basi..."
+      "translated": "他们三人都在各自的创业公司中，基本上是进入了上升气流：他们遇到了一个增长如此之快的市场，以至于他们几乎忙不过来。这样的经历是很难被忽视的。"
     },
     {
       "original": "Plus I think they underestimate themselves: they think back to how easy it felt to ride that huge thermal upward, and they think \"anyone could have done it.\" But that isn't true; they are not ordinary people.So as an angel investor I think you want to go with Ron Conway and bet on people.",
-      "translated": "[翻译失败] Plus I think they underestimate themselves: they t..."
+      "translated": "此外，我认为他们低估了自己：他们回想起当时轻松地沿着那个巨大的热气流上升的感觉，心想“任何人都能做到。”但这并不是事实；他们并非普通人。所以作为天使投资人，我认为你应该跟随Ron Conway，投资于人。"
     },
     {
       "original": "Thermals happen, yes, but no one can predict them—not even the founders, and certainly not you as an investor. And only good people can ride the thermals if they hit them anyway.Deal FlowOf course the question of how to choose startups presumes you have startups to choose between.",
-      "translated": "[翻译失败] Thermals happen, yes, but no one can predict them—..."
+      "translated": "热气流确实会发生，但没有人能预测它们——即使是创始人也不能，更不用说你作为一名投资者了。而且，只有优秀的人才能在遇到热气流时乘风而上。项目来源当然，如何选择初创公司这个问题的前提是你有多个初创公司可供选择。"
     },
     {
       "original": "How do you find them? This is yet another problem that gets solved for you by syndicates. If you tag along on a friend's investments, you don't have to find startups.The problem is not finding startups, exactly, but finding a stream of reasonably high quality ones.",
-      "translated": "[翻译失败] How do you find them? This is yet another problem ..."
+      "translated": "你如何找到它们？这又是一个由投资集团为你解决的问题。如果你跟随朋友进行投资，你就不必自己去找初创公司。问题不在于找到初创公司，而在于找到一系列质量相对较高的初创公司。"
     },
     {
       "original": "The traditional way to do this is through contacts. If you're friends with a lot of investors and founders, they'll send deals your way. The Valley basically runs on referrals. And once you start to become known as reliable, useful investor, people will refer lots of deals to you.",
-      "translated": "[翻译失败] The traditional way to do this is through contacts..."
+      "translated": "传统的方法是通过人脉。如果你和许多投资者和创始人是朋友，他们会把投资机会介绍给你。硅谷基本上是靠推荐运作的。一旦你开始被视为一个可靠且有用的投资者，人们就会向你推荐许多投资机会。"
     },
     {
       "original": "I certainly will.There's also a newer way to find startups, which is to come to events like Y Combinator's Demo Day, where a batch of newly created startups presents to investors all at once. We have two Demo Days a year, one in March and one in August.",
-      "translated": "[翻译失败] I certainly will.There's also a newer way to find ..."
+      "translated": "我当然会。还有一种更新的方式来发现初创公司，那就是参加像 Y Combinator 的展示日这样的活动，一批新成立的初创公司会同时向投资者展示。我们每年有两次展示日，一次在三月，一次在八月。"
     },
     {
       "original": "These are basically mass referrals.But events like Demo Day only account for a fraction of matches between startups and investors. The personal referral is still the most common route. So if you want to hear about new startups, the best way to do it is to get lots of referrals.The best way to get lots of referrals is to invest in startups.",
-      "translated": "[翻译失败] These are basically mass referrals.But events like..."
+      "translated": "这些基本上是大量的推荐。但像展示日这样的活动只占初创公司与投资者匹配的一小部分。个人推荐仍然是最常见的途径。所以，如果你想了解新的初创公司，最好的方法就是获得大量的推荐。而获得大量推荐的最好方式就是投资初创公司。"
     },
     {
       "original": "No matter how smart and nice you seem, insiders will be reluctant to send you referrals until you've proven yourself by doing a couple investments. Some smart, nice guys turn out to be flaky, high-maintenance investors.",
-      "translated": "[翻译失败] No matter how smart and nice you seem, insiders wi..."
+      "translated": "无论你看起来多么聪明和和蔼可亲，内部人士在你通过几次投资证明自己之前，都会不愿意向你推荐项目。有些聪明、和蔼的人最终可能变成不可靠、要求高的投资者。"
     },
     {
       "original": "But once you prove yourself as a good investor, the deal flow, as they call it, will increase rapidly in both quality and quantity. At the extreme, for someone like Ron Conway, it is basically identical with the deal flow of the whole Valley.So if you want to invest seriously, the way to get started is to bootstrap yourself off your existing connections, be a good investor in the startups you meet that way, and eventually you'll start a chain reaction.",
-      "translated": "[翻译失败] But once you prove yourself as a good investor, th..."
+      "translated": "但是一旦你证明了自己是一个优秀的投资者，所谓的投资项目来源（deal flow）在质量和数量上都会迅速增加。到了极端的情况下，比如对于Ron Conway来说，这基本上等同于整个硅谷的投资项目来源。所以，如果你想认真投资，开始的方法就是利用你现有的关系网，成为你通过这些关系接触到的初创企业的优秀投资者，最终你会引发连锁反应。"
     },
     {
       "original": "Good investors are rare, even in Silicon Valley. There probably aren't more than a couple hundred serious angels in the whole Valley, and yet they're probably the single most important ingredient in making the Valley what it is.",
-      "translated": "[翻译失败] Good investors are rare, even in Silicon Valley. T..."
+      "translated": "好的投资者很少见，即使在硅谷也是如此。整个硅谷可能不会有超过几百位真正的天使投资人，然而他们可能是使硅谷成为如今模样的最关键因素。"
     },
     {
       "original": "Angels are the limiting reagent in startup formation.If there are only a couple hundred serious angels in the Valley, then by deciding to become one you could single-handedly make the pipeline for startups in Silicon Valley significantly wider.",
-      "translated": "[翻译失败] Angels are the limiting reagent in startup formati..."
+      "translated": "天使投资人是创业公司成立过程中的限制性试剂。如果整个硅谷只有几百位认真的天使投资人，那么你决定成为一名天使投资人，就能单枪匹马地大幅拓宽硅谷创业公司的Pipeline。"
     },
     {
       "original": "That is kind of mind-blowing.Being GoodHow do you be a good angel investor? The first thing you need is to be decisive. When we talk to founders about good and bad investors, one of the ways we describe the good ones is to say \"he writes checks.\" That doesn't mean the investor says yes to everyone.",
-      "translated": "[翻译失败] That is kind of mind-blowing.Being GoodHow do you ..."
+      "translated": "这真是令人难以置信。如何成为一个好的天使投资人？首先，你需要果断。当我们与创始人讨论好投资人和坏投资人时，我们描述好投资人的一种方式是说“他愿意出资”。这并不意味着投资人对所有人都说“是”。"
     },
     {
       "original": "Far from it. It means he makes up his mind quickly, and follows through. You may be thinking, how hard could that be? You'll see when you try it. It follows from the nature of angel investing that the decisions are hard.",
-      "translated": "[翻译失败] Far from it. It means he makes up his mind quickly..."
+      "translated": "远非如此。这意呸着他做事果断，说到做到。你可能会想，这有多难？等你试着去做的时候就知道了。正因为天使投资的性质，这些决定才格外艰难。"
     },
     {
       "original": "You have to guess early, at the stage when the most promising ideas still seem counterintuitive, because if they were obviously good, VCs would already have funded them.Suppose it's 1998. You come across a startup founded by a couple grad students.",
-      "translated": "[翻译失败] You have to guess early, at the stage when the mos..."
+      "translated": "你必须在最有前景的想法仍显得不合常规时就做出预测，因为如果这些想法明显很好，风投们早就已经资助它们了。假设现在是1998年，你遇到了一家由几名研究生创立的初创公司。"
     },
     {
       "original": "They say they're going to work on Internet search. There are already a bunch of big public companies doing search. How can these grad students possibly compete with them? And does search even matter anyway?",
-      "translated": "[翻译失败] They say they're going to work on Internet search...."
+      "translated": "他们说他们要从事互联网搜索。已经有许多大型上市公司在做搜索了。这些研究生怎么可能与他们竞争？而且，搜索本身还有多大意义呢？"
     },
     {
       "original": "All the search engines are trying to get people to start calling them \"portals\" instead. Why would you want to invest in a startup run by a couple of nobodies who are trying to compete with large, aggressive companies in an area they themselves have declared passe?",
-      "translated": "[翻译失败] All the search engines are trying to get people to..."
+      "translated": "所有的搜索引擎都在努力让人们开始称它们为“门户网站”。为什么你会想投资于一两个无名之辈经营的初创公司，他们试图与那些在自己声称已过时的领域内大型且具有侵略性的公司竞争？"
     },
     {
       "original": "And yet the grad students seem pretty smart. What do you do?There's a hack for being decisive when you're inexperienced: ratchet down the size of your investment till it's an amount you wouldn't care too much about losing.",
-      "translated": "[翻译失败] And yet the grad students seem pretty smart. What ..."
+      "translated": "然而，研究生们看起来都很聪明。你怎么做？有一个在缺乏经验时做出决定的小窍门：降低你的投资额度，直到这个数额的损失你不会太在意。"
     },
     {
       "original": "For every rich person (you probably shouldn't try angel investing unless you think of yourself as rich) there's some amount that would be painless, though annoying, to lose. Till you feel comfortable investing, don't invest more than that per startup.For example, if you have $5 million in investable assets, it would probably be painless (though annoying) to lose $15,000.",
-      "translated": "[翻译失败] For every rich person (you probably shouldn't try ..."
+      "translated": "对于每个富人（除非你认为自己是富人，否则最好不要尝试天使投资），都有一定数额的资金损失虽然令人烦恼但不会造成痛苦。在你感到投资舒适之前，每个初创企业的投资额不要超过这个数额。例如，如果你有500万美元的可投资资产，损失1.5万美元可能令人烦恼但不会造成痛苦。"
     },
     {
       "original": "That's less than .3% of your net worth. So start by making 3 or 4 $15,000 investments. Nothing will teach you about angel investing like experience. Treat the first few as an educational expense. $60,000 is less than a lot of graduate programs.",
-      "translated": "[翻译失败] That's less than .3% of your net worth. So start b..."
+      "translated": "这不到你净资产的0.3%。所以开始时可以做3到4笔1.5万美元的投资。没有什么比实际经验更能教你天使投资的窍门了。把最初的几笔投资当作教育支出。6万美元低于很多研究生课程的费用。"
     },
     {
       "original": "Plus you get equity.What's really uncool is to be strategically indecisive: to string founders along while trying to gather more information about the startup's trajectory. [10] There's always a temptation to do that, because you just have so little to go on, but you have to consciously resist it.",
-      "translated": "[翻译失败] Plus you get equity.What's really uncool is to be ..."
+      "translated": "此外，你还能获得股权。真正不酷的是战略上的犹豫不决：在试图收集更多关于初创公司发展轨迹的信息时，让创始人处于悬而未决的状态。[10] 这种诱惑总是存在的，因为你能依据的信息实在太少，但你必须有意识地抵制这种诱惑。"
     },
     {
       "original": "In the long term it's to your advantage to be good.The other component of being a good angel investor is simply to be a good person. Angel investing is not a business where you make money by screwing people over.",
-      "translated": "[翻译失败] In the long term it's to your advantage to be good..."
+      "translated": "从长远来看，做好人对你有利。成为一个好的天使投资者的另一个方面就是做一个好人。天使投资不是通过坑害他人来赚钱的行业。"
     },
     {
       "original": "Startups create wealth, and creating wealth is not a zero sum game. No one has to lose for you to win. In fact, if you mistreat the founders you invest in, they'll just get demoralized and the company will do worse.",
-      "translated": "[翻译失败] Startups create wealth, and creating wealth is not..."
+      "translated": "初创企业创造财富，而创造财富并非零和游戏。你的成功并不意味着必须有人失败。事实上，如果你对待所投资的创始人不好，他们只会士气低落，公司业绩也会下滑。"
     },
     {
       "original": "Plus your referrals will dry up. So I recommend being good.The most successful angel investors I know are all basically good people. Once they invest in a company, all they want to do is help it. And they'll help people they haven't invested in too.",
-      "translated": "[翻译失败] Plus your referrals will dry up. So I recommend be..."
+      "translated": "此外，你的推荐来源也会枯竭。所以我建议你要做一个好人。我认识的最成功的天使投资者基本上都是好人。一旦他们投资了一家公司，他们只想帮助它。而且，他们也会帮助那些他们没有投资的人。"
     },
     {
       "original": "When they do favors they don't seem to keep track of them. It's too much overhead. They just try to help everyone, and assume good things will flow back to them somehow. Empirically that seems to work.",
-      "translated": "[翻译失败] When they do favors they don't seem to keep track ..."
+      "translated": "他们做好事时似乎从不记账，觉得这太麻烦。他们只是尽力帮助每个人，相信好事总有一天会以某种方式回到自己身上。从经验来看，这种方法似乎行之有效。"
     },
     {
       "original": "Notes[1] Convertible debt can be either capped at a particular valuation, or can be done at a discount to whatever the valuation turns out to be when it converts. E.g. convertible debt at a discount of 30% means when it converts you get stock as if you'd invested at a 30% lower valuation.",
-      "translated": "[翻译失败] Notes[1] Convertible debt can be either capped at ..."
+      "translated": "注释[1] 可转换债务可以设定为在特定估值上限下转换，或者以转换时实际估值的折扣进行转换。例如，可转换债务以30%的折扣意味着当其转换时，您将获得的股票相当于您以30%较低的估值进行投资所获得的股票。"
     },
     {
       "original": "That can be useful in cases where you can't or don't want to figure out what the valuation should be. You leave it to the next investor. On the other hand, a lot of investors want to know exactly what they're getting, so they will only do convertible debt with a cap.[2] The expensive part of creating an agreement from scratch is not writing the agreement, but bickering at several hundred dollars an hour over the details.",
-      "translated": "[翻译失败] That can be useful in cases where you can't or don..."
+      "translated": "这在你无法或不想确定估值的情况下非常有用。你可以把这个留给下一个投资者。另一方面，许多投资者希望确切地知道他们得到的是什么，所以他们只会接受有上限的可转换债务。[2] 从头开始制定协议中最昂贵的部分并不是撰写协议，而是以每小时几百美元的代价在细节上争论不休。"
     },
     {
       "original": "That's why the series AA paperwork aims at a middle ground. You can just start from the compromise you'd have reached after lots of back and forth.When you fund a startup, both your lawyers should be specialists in startups.",
-      "translated": "[翻译失败] That's why the series AA paperwork aims at a middl..."
+      "translated": "这就是为什么AA系列文件旨在寻求一个中间地带。你可以直接从经过多次来回商讨后达成的妥协开始。当你为一家初创公司提供资金时，双方的律师都应该是初创领域的专家。"
     },
     {
       "original": "Do not use ordinary corporate lawyers for this. Their inexperience makes them overbuild: they'll create huge, overcomplicated agreements, and spend hours arguing over irrelevant things.In the Valley, the top startup law firms are Wilson Sonsini, Orrick, Fenwick & West, Gunderson Dettmer, and Cooley Godward.",
-      "translated": "[翻译失败] Do not use ordinary corporate lawyers for this. Th..."
+      "translated": "不要使用普通的公司律师来处理这件事。由于缺乏经验，他们会过度构建：制定出庞大而复杂的协议，并花费大量时间争论无关紧要的问题。在硅谷，顶级的创业公司律师事务所有威尔逊·桑西尼（Wilson Sonsini）、奥睿（Orrick）、芬威克·韦斯特（Fenwick & West）、甘德森·德特默（Gunderson Dettmer）和库利·戈德华德（Cooley Godward）。"
     },
     {
       "original": "In Boston the best are Goodwin Procter, Wilmer Hale, and Foley Hoag.[3] Your mileage may vary.[4] These anti-dilution provisions also protect you against tricks like a later investor trying to steal the company by doing another round that values the company at $1.",
-      "translated": "[翻译失败] In Boston the best are Goodwin Procter, Wilmer Hal..."
+      "translated": "在波士顿，最好的律师事务所有Goodwin Procter、Wilmer Hale和Foley Hoag。[3] 但具体情况可能因人而异。[4] 这些反稀释条款还保护你免受后来的投资者通过新一轮融资将公司估值定为1美元来窃取公司的行为。"
     },
     {
       "original": "If you have a competent startup lawyer handle the deal for you, you should be protected against such tricks initially. But it could become a problem later. If a big VC firm wants to invest in the startup after you, they may try to make you take out your anti-dilution protections.",
-      "translated": "[翻译失败] If you have a competent startup lawyer handle the ..."
+      "translated": "如果你请了一位称职的创业律师来处理这笔交易，你应该可以在一开始就避免这种陷阱。但之后可能会出现问题。如果一家大型风险投资公司在你之后想要投资这家初创公司，他们可能会试图让你放弃你的反稀释保护。"
     },
     {
       "original": "And if they do the startup will be pressuring you to agree. They'll tell you that if you don't, you're going to kill their deal with the VC. I recommend you solve this problem by having a gentlemen's agreement with the founders: agree with them in advance that you're not going to give up your anti-dilution protections.",
-      "translated": "[翻译失败] And if they do the startup will be pressuring you ..."
+      "translated": "如果出现这种情况，创业公司会向你施压，要求你同意。他们会告诉你，如果你不同意，就会破坏他们与风险投资的交易。我建议你通过与创始人达成君子协定来解决这个问题：提前与他们约定，你不会放弃你的反稀释保护。"
     },
     {
       "original": "Then it's up to them to tell VCs early on.The reason you don't want to give them up is the following scenario. The VCs recapitalize the company, meaning they give it additional funding at a pre-money valuation of zero.",
-      "translated": "[翻译失败] Then it's up to them to tell VCs early on.The reas..."
+      "translated": "然后由他们来尽早告知风险投资方。你不希望放弃他们的原因是以下这种情况：风险投资方会对公司进行再融资，这意味着他们在公司估值为零的前提下提供额外的资金。"
     },
     {
       "original": "This wipes out the existing shareholders, including both you and the founders. They then grant the founders lots of options, because they need them to stay around, but you get nothing.Obviously this is not a nice thing to do.",
-      "translated": "[翻译失败] This wipes out the existing shareholders, includin..."
+      "translated": "这将使现有股东，包括你和创始人，全部出局。然后他们会给予创始人大量期权，因为他们需要创始人继续留守，但你却一无所获。显然，这样做是不厚道的。"
     },
     {
       "original": "It doesn't happen often. Brand-name VCs wouldn't recapitalize a company just to steal a few percent from an angel. But there's a continuum here. A less upstanding, lower-tier VC might be tempted to do it to steal a big chunk of stock.I'm not saying you should always absolutely refuse to give up your anti-dilution protections.",
-      "translated": "[翻译失败] It doesn't happen often. Brand-name VCs wouldn't r..."
+      "translated": "这种情况并不常见。知名的风险投资公司不会为了从天使投资者那里夺走几个百分点的股份而对公司进行再融资。但这里存在一个连续谱。一个不太正派的、较低层级的风险投资公司可能会为了夺取大量股份而被诱惑这么做。我并不是说你应该绝对拒绝放弃你的反稀释保护。"
     },
     {
       "original": "Everything is a negotiation. If you're part of a powerful syndicate, you might be able to give up legal protections and rely on social ones. If you invest in a deal led by a big angel like Ron Conway, for example, you're pretty well protected against being mistreated, because any VC would think twice before crossing him.",
-      "translated": "[翻译失败] Everything is a negotiation. If you're part of a p..."
+      "translated": "一切都是谈判。如果你是某个强大财团的一员，你或许可以放弃法律保护，依赖社会保护。例如，如果你投资了一笔由像罗恩·康威这样的大天使投资者牵头的交易，你就会得到很好的保护，不会受到不公平对待，因为任何风险投资家在与他作对之前都会三思。"
     },
     {
       "original": "This kind of protection is one of the reasons angels like to invest in syndicates.[5] Don't invest so much, or at such a low valuation, that you end up with an excessively large share of a startup, unless you're sure your money will be the last they ever need.",
-      "translated": "[翻译失败] This kind of protection is one of the reasons ange..."
+      "translated": "这种保护是天使投资人喜欢通过辛迪加进行投资的原因之一。不要投资太多，或者以过低的估值投资，从而最终持有初创公司过大的股份，除非你确定你的资金将是他们永远需要的最后一批资金。"
     },
     {
       "original": "Later stage investors won't invest in a company if the founders don't have enough equity left to motivate them. I talked to a VC recently who said he'd met with a company he really liked, but he turned them down because investors already owned more than half of it.",
-      "translated": "[翻译失败] Later stage investors won't invest in a company if..."
+      "translated": "后期投资者不会投资一家公司，如果创始人没有足够的股权来激励他们。我最近和一位风险投资人交谈，他说他遇到了一家他非常喜欢的公司，但他拒绝了，因为投资者已经拥有了超过一半的股权。"
     },
     {
       "original": "Those investors probably thought they'd been pretty clever by getting such a large chunk of this desirable company, but in fact they were shooting themselves in the foot.[6] At any given time I know of at least 3 or 4 YC alumni who I believe will be big successes but who are running on vapor, financially, because investors don't yet get what they're doing.",
-      "translated": "[翻译失败] Those investors probably thought they'd been prett..."
+      "translated": "这些投资者可能自以为很聪明，毕竟他们获得了这家炙手可热的公司如此大一块股份，但实际上他们是在自掘坟墓。[6] 在任何时候，我都知道有至少三到四位 YC 校友，我相信他们将会取得巨大的成功，但目前他们在财务上几乎是在空转，因为投资者尚未理解他们在做的事情。"
     },
     {
       "original": "(And no, unfortunately, I can't tell you who they are. I can't refer a startup to an investor I don't know.)[7] There are some VCs who can predict instead of reacting. Not surprisingly, these are the most successful ones.[8] It's somewhat sneaky of me to put it this way, because the median VC loses money.",
-      "translated": "[翻译失败] (And no, unfortunately, I can't tell you who they ..."
+      "translated": "（而且，很遗憾，我不能告诉你他们是谁。我不能把一家初创公司推荐给我不认识的投资者。）[7] 有一些风投机构能够预测而不是被动反应。不出所料，这些是最成功的风投机构。[8] 我这样说有点狡猾，因为中位数的风投其实是亏钱的。"
     },
     {
       "original": "That's one of the most surprising things I've learned about VC while working on Y Combinator. Only a fraction of VCs even have positive returns. The rest exist to satisfy demand among fund managers for venture capital as an asset class.",
-      "translated": "[翻译失败] That's one of the most surprising things I've lear..."
+      "translated": "这是我为 Y Combinator 工作时了解到的关于风险投资最令人惊讶的事情之一。只有少数风险投资公司能够获得正回报。其余的则存在以满足基金经理对风险投资这一资产类别的需求。"
     },
     {
       "original": "Learning this explained a lot about some of the VCs I encountered when we were working on Viaweb.[9] VCs also generally say they prefer great markets to great people. But what they're really saying is they want both.",
-      "translated": "[翻译失败] Learning this explained a lot about some of the VC..."
+      "translated": "学习这一点解释了我在Viaweb工作时遇到的一些风险投资家的很多行为。[9] 风险投资家通常也说他们更喜欢伟大的市场而不是优秀的人才。但他们的真正意思是他们两者都要。"
     },
     {
       "original": "They're so selective that they only even consider great people. So when they say they care above all about big markets, they mean that's how they choose between great people.[10] Founders rightly dislike the sort of investor who says he's interested in investing but doesn't want to lead.",
-      "translated": "[翻译失败] They're so selective that they only even consider ..."
+      "translated": "他们非常挑剔，以至于只考虑优秀的人才。所以当他们说他们最关心的是大市场时，意思是在优秀人才之间进行选择的标准就是市场大小。[10] 创始人理所当然地不喜欢那种说自己有兴趣投资但不愿意领投的投资者。"
     },
     {
       "original": "There are circumstances where this is an acceptable excuse, but more often than not what it means is \"No, but if you turn out to be a hot deal, I want to be able to claim retroactively I said yes.\"If you like a startup enough to invest in it, then invest in it.",
-      "translated": "[翻译失败] There are circumstances where this is an acceptabl..."
+      "translated": "有些情况下，这是一个可以接受的借口，但更多的时候，它意味着“不，但如果你后来成了热门项目，我希望可以追溯地说我当初同意了。”如果你足够看好一家初创公司，那就投资吧。"
     },
     {
       "original": "Just use the standard series AA terms and write them a check. Thanks to Sam Altman, Paul Buchheit, Jessica Livingston, Robert Morris, and Fred Wilson for reading drafts of this. Comment on this essay.",
-      "translated": "[翻译失败] Just use the standard series AA terms and write th..."
+      "translated": "只需使用标准的AA轮融资条款，然后给他们开张支票。感谢Sam Altman、Paul Buchheit、Jessica Livingston、Robert Morris和Fred Wilson审阅本文草稿。对此文章发表评论。"
     }
   ],
-  "translation_completed": "2025-07-27T12:24:43.432876",
+  "translation_completed": "2025-07-27T23:25:24.838451",
   "translation_stats": {
     "total_paragraphs": 78,
-    "success_count": 0,
-    "success_rate": "0.0%"
+    "success_count": 78,
+    "success_rate": "100.0%"
   }
 }
