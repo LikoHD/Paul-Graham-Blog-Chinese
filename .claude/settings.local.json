@@ -1,0 +1,38 @@
+{
+  "permissions": {
+    "allow": [
+      "WebFetch(domain:www.paulgraham.com)",
+      "Bash(mkdir:*)",
+      "Bash(python3:*)",
+      "Bash(pip3 install:*)",
+      "Bash(source:*)",
+      "Bash(pip install:*)",
+      "Bash(python:*)",
+      "Bash(ls:*)",
+      "Bash(curl:*)",
+      "Bash(grep:*)",
+      "Bash(find:*)",
+      "Bash(./venv/bin/python:*)",
+      "Bash(chmod +x batch_translate_all.py)",
+      "Bash(timeout:*)",
+      "Bash(gtimeout:*)",
+      "Bash(./venv/bin/pip install openai)",
+      "Bash(chmod:*)",
+      "Bash(rm:*)",
+      "Bash(for:*)",
+      "Bash(do if ! grep -q \"translation_completed\" \"$file\")",
+      "Bash(then basename \"$file\" .json)",
+      "Bash(fi)",
+      "Bash(done)",
+      "Bash(do if grep -q \"translation_completed\" \"$file\")",
+      "Bash(then echo -n \"✓\")",
+      "Bash(else echo -n \"✗\")",
+      "Bash(git init:*)",
+      "Bash(git remote add:*)",
+      "Bash(git add:*)",
+      "Bash(git push:*)",
+      "Bash(pkill:*)"
+    ],
+    "deny": []
+  }
+}
