@@ -1,0 +1,59 @@
+{
+  "title": "The Roots of Lisp",
+  "title_zh": "[待翻译] The Roots of Lisp",
+  "url": "https://www.paulgraham.com/rootsoflisp.html",
+  "filename": "rootsoflisp.html",
+  "date": "2001-05-01",
+  "id": 230,
+  "content": {
+    "success": true,
+    "paragraphs": [
+      "May 2001 (I wrote this article to help myself understand exactly what McCarthy discovered. You don't need to know this stuff to program in Lisp, but it should be helpful to anyone who wants to understand the essence of Lisp — both in the sense of its origins and its semantic core.",
+      "The fact that it has such a core is one of Lisp's distinguishing features, and the reason why, unlike other languages, Lisp has dialects.)In 1960, John McCarthy published a remarkable paper in which he did for programming something like what Euclid did for geometry.",
+      "He showed how, given a handful of simple operators and a notation for functions, you can build a whole programming language. He called this language Lisp, for \"List Processing,\" because one of his key ideas was to use a simple data structure called a list for both code and data.It's worth understanding what McCarthy discovered, not just as a landmark in the history of computers, but as a model for what programming is tending to become in our own time.",
+      "It seems to me that there have been two really clean, consistent models of programming so far: the C model and the Lisp model. These two seem points of high ground, with swampy lowlands between them.",
+      "As computers have grown more powerful, the new languages being developed have been moving steadily toward the Lisp model. A popular recipe for new programming languages in the past 20 years has been to take the C model of computing and add to it, piecemeal, parts taken from the Lisp model, like runtime typing and garbage collection.In this article I'm going to try to explain in the simplest possible terms what McCarthy discovered.",
+      "The point is not just to learn about an interesting theoretical result someone figured out forty years ago, but to show where languages are heading. The unusual thing about Lisp — in fact, the defining quality of Lisp — is that it can be written in itself.",
+      "To understand what McCarthy meant by this, we're going to retrace his steps, with his mathematical notation translated into running Common Lisp code.Complete Article (Postscript)What Made Lisp DifferentThe CodeChinese TranslationJapanese TranslationPortuguese TranslationKorean Translation"
+    ],
+    "word_count": 365,
+    "paragraph_count": 7
+  },
+  "processed_at": "2025-07-26T19:09:01.001728",
+  "paragraphs": [
+    {
+      "original": "May 2001 (I wrote this article to help myself understand exactly what McCarthy discovered. You don't need to know this stuff to program in Lisp, but it should be helpful to anyone who wants to understand the essence of Lisp — both in the sense of its origins and its semantic core.",
+      "translated": "2001年5月（我写这篇文章是为了帮助自己准确理解麦卡锡的发现。你不需要了解这些知识就能用Lisp编程，但对于任何想要理解Lisp本质的人来说，这应该是有帮助的——无论是从其起源还是语义核心的角度。）"
+    },
+    {
+      "original": "The fact that it has such a core is one of Lisp's distinguishing features, and the reason why, unlike other languages, Lisp has dialects.)In 1960, John McCarthy published a remarkable paper in which he did for programming something like what Euclid did for geometry.",
+      "translated": "拥有这样一个核心是Lisp的一个重要特征，也是为什么与其他语言不同，Lisp有方言的原因。1960年，约翰·麦卡锡发表了一篇杰出的论文，他在编程领域所做的工作类似于欧几里得在几何学上的贡献。"
+    },
+    {
+      "original": "He showed how, given a handful of simple operators and a notation for functions, you can build a whole programming language. He called this language Lisp, for \"List Processing,\" because one of his key ideas was to use a simple data structure called a list for both code and data.It's worth understanding what McCarthy discovered, not just as a landmark in the history of computers, but as a model for what programming is tending to become in our own time.",
+      "translated": "他展示了如何仅使用少量简单的运算符和函数表示法，就能构建出一种完整的编程语言。他将这种语言命名为Lisp，意为“列表处理”，因为他的一项关键思想是使用一种称为列表的简单数据结构来同时表示代码和数据。理解麦卡锡的发现不仅对计算机历史具有重要意义，而且对我们这个时代编程的趋势也具有指导意义。"
+    },
+    {
+      "original": "It seems to me that there have been two really clean, consistent models of programming so far: the C model and the Lisp model. These two seem points of high ground, with swampy lowlands between them.",
+      "translated": "在我看来，到目前为止出现了两种真正清晰、一致的编程模型：C 模型和 Lisp 模型。这两种模型像是高地，而在它们之间则是泥泞的低地。"
+    },
+    {
+      "original": "As computers have grown more powerful, the new languages being developed have been moving steadily toward the Lisp model. A popular recipe for new programming languages in the past 20 years has been to take the C model of computing and add to it, piecemeal, parts taken from the Lisp model, like runtime typing and garbage collection.In this article I'm going to try to explain in the simplest possible terms what McCarthy discovered.",
+      "translated": "随着计算机性能的提升，新开发的编程语言逐渐向Lisp模型靠拢。过去20年中，新编程语言流行的一种做法是，以C语言的计算模型为基础，逐步加入Lisp模型中的元素，如运行时类型检查和垃圾回收。在本文中，我将试图用最简单的语言解释McCarthy的发现。"
+    },
+    {
+      "original": "The point is not just to learn about an interesting theoretical result someone figured out forty years ago, but to show where languages are heading. The unusual thing about Lisp — in fact, the defining quality of Lisp — is that it can be written in itself.",
+      "translated": "重点不仅在于了解某人40年前得出的一个有趣的理论结果，而是要展示语言的发展方向。Lisp的特别之处——事实上，Lisp的定义特征——在于它可以使用自身来编写。"
+    },
+    {
+      "original": "To understand what McCarthy meant by this, we're going to retrace his steps, with his mathematical notation translated into running Common Lisp code.Complete Article (Postscript)What Made Lisp DifferentThe CodeChinese TranslationJapanese TranslationPortuguese TranslationKorean Translation",
+      "translated": "要理解麦卡锡的这句话，我们将重新追溯他的思路，将其数学符号翻译成可运行的Common Lisp代码。完整文章（Postscript）是什么让Lisp与众不同代码中文翻译日文翻译葡萄牙语翻译韩语翻译"
+    }
+  ],
+  "translation_completed": "2025-07-27T12:43:24.177361",
+  "translation_stats": {
+    "total_paragraphs": 7,
+    "success_count": 7,
+    "success_rate": "100.0%"
+  }
+}

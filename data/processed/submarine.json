@@ -1,0 +1,249 @@
+{
+  "title": "The Submarine",
+  "title_zh": "[待翻译] The Submarine",
+  "url": "https://www.paulgraham.com/submarine.html",
+  "filename": "submarine.html",
+  "date": "2005-04-01",
+  "id": 202,
+  "content": {
+    "success": true,
+    "paragraphs": [
+      "April 2005\"Suits make a corporate comeback,\" says the New York Times. Why does this sound familiar? Maybe because the suit was also back in February, September 2004, June 2004, March 2004, September 2003, November 2002, April 2002, and February 2002.",
+      "Why do the media keep running stories saying suits are back? Because PR firms tell them to. One of the most surprising things I discovered during my brief business career was the existence of the PR industry, lurking like a huge, quiet submarine beneath the news.",
+      "Of the stories you read in traditional media that aren't about politics, crimes, or disasters, more than half probably come from PR firms.I know because I spent years hunting such \"press hits.\" Our startup spent its entire marketing budget on PR: at a time when we were assembling our own computers to save money, we were paying a PR firm $16,000 a month.",
+      "And they were worth it. PR is the news equivalent of search engine optimization; instead of buying ads, which readers ignore, you get yourself inserted directly into the stories. [1]Our PR firm was one of the best in the business.",
+      "In 18 months, they got press hits in over 60 different publications. And we weren't the only ones they did great things for. In 1997 I got a call from another startup founder considering hiring them to promote his company.",
+      "I told him they were PR gods, worth every penny of their outrageous fees. But I remember thinking his company's name was odd. Why call an auction site \"eBay\"? SymbiosisPR is not dishonest. Not quite.",
+      "In fact, the reason the best PR firms are so effective is precisely that they aren't dishonest. They give reporters genuinely valuable information. A good PR firm won't bug reporters just because the client tells them to; they've worked hard to build their credibility with reporters, and they don't want to destroy it by feeding them mere propaganda.If anyone is dishonest, it's the reporters.",
+      "The main reason PR firms exist is that reporters are lazy. Or, to put it more nicely, overworked. Really they ought to be out there digging up stories for themselves. But it's so tempting to sit in their offices and let PR firms bring the stories to them.",
+      "After all, they know good PR firms won't lie to them.A good flatterer doesn't lie, but tells his victim selective truths (what a nice color your eyes are). Good PR firms use the same strategy: they give reporters stories that are true, but whose truth favors their clients.For example, our PR firm often pitched stories about how the Web let small merchants compete with big ones.",
+      "This was perfectly true. But the reason reporters ended up writing stories about this particular truth, rather than some other one, was that small merchants were our target market, and we were paying the piper.Different publications vary greatly in their reliance on PR firms.",
+      "At the bottom of the heap are the trade press, who make most of their money from advertising and would give the magazines away for free if advertisers would let them. [2] The average trade publication is a bunch of ads, glued together by just enough articles to make it look like a magazine.",
+      "They're so desperate for \"content\" that some will print your press releases almost verbatim, if you take the trouble to write them to read like articles.At the other extreme are publications like the New York Times and the Wall Street Journal.",
+      "Their reporters do go out and find their own stories, at least some of the time. They'll listen to PR firms, but briefly and skeptically. We managed to get press hits in almost every publication we wanted, but we never managed to crack the print edition of the Times.",
+      "[3]The weak point of the top reporters is not laziness, but vanity. You don't pitch stories to them. You have to approach them as if you were a specimen under their all-seeing microscope, and make it seem as if the story you want them to run is something they thought of themselves.Our greatest PR coup was a two-part one.",
+      "We estimated, based on some fairly informal math, that there were about 5000 stores on the Web. We got one paper to print this number, which seemed neutral enough. But once this \"fact\" was out there in print, we could quote it to other publications, and claim that with 1000 users we had 20% of the online store market.This was roughly true.",
+      "We really did have the biggest share of the online store market, and 5000 was our best guess at its size. But the way the story appeared in the press sounded a lot more definite.Reporters like definitive statements.",
+      "For example, many of the stories about Jeremy Jaynes's conviction say that he was one of the 10 worst spammers. This \"fact\" originated in Spamhaus's ROKSO list, which I think even Spamhaus would admit is a rough guess at the top spammers.",
+      "The first stories about Jaynes cited this source, but now it's simply repeated as if it were part of the indictment. [4]All you can say with certainty about Jaynes is that he was a fairly big spammer.",
+      "But reporters don't want to print vague stuff like \"fairly big.\" They want statements with punch, like \"top ten.\" And PR firms give them what they want. Wearing suits, we're told, will make us 3.6 percent more productive.BuzzWhere the work of PR firms really does get deliberately misleading is in the generation of \"buzz.\" They usually feed the same story to several different publications at once.",
+      "And when readers see similar stories in multiple places, they think there is some important trend afoot. Which is exactly what they're supposed to think.When Windows 95 was launched, people waited outside stores at midnight to buy the first copies.",
+      "None of them would have been there without PR firms, who generated such a buzz in the news media that it became self-reinforcing, like a nuclear chain reaction.I doubt PR firms realize it yet, but the Web makes it possible to track them at work.",
+      "If you search for the obvious phrases, you turn up several efforts over the years to place stories about the return of the suit. For example, the Reuters article that got picked up by USA Today in September 2004.",
+      "\"The suit is back,\" it begins.Trend articles like this are almost always the work of PR firms. Once you know how to read them, it's straightforward to figure out who the client is. With trend stories, PR firms usually line up one or more \"experts\" to talk about the industry generally.",
+      "In this case we get three: the NPD Group, the creative director of GQ, and a research director at Smith Barney. [5] When you get to the end of the experts, look for the client. And bingo, there it is: The Men's Wearhouse.Not surprising, considering The Men's Wearhouse was at that moment running ads saying \"The Suit is Back.\" Talk about a successful press hit-- a wire service article whose first sentence is your own ad copy.The secret to finding other press hits from a given pitch is to realize that they all started from the same document back at the PR firm.",
+      "Search for a few key phrases and the names of the clients and the experts, and you'll turn up other variants of this story.Casual fridays are out and dress codes are in writes Diane E. Lewis in The Boston Globe.",
+      "In a remarkable coincidence, Ms. Lewis's industry contacts also include the creative director of GQ.Ripped jeans and T-shirts are out, writes Mary Kathleen Flynn in US News & World Report. And she too knows the creative director of GQ.Men's suits are back writes Nicole Ford in Sexbuzz.Com (\"the ultimate men's entertainment magazine\").Dressing down loses appeal as men suit up at the office writes Tenisha Mercer of The Detroit News.",
+      "Now that so many news articles are online, I suspect you could find a similar pattern for most trend stories placed by PR firms. I propose we call this new sport \"PR diving,\" and I'm sure there are far more striking examples out there than this clump of five stories.OnlineAfter spending years chasing them, it's now second nature to me to recognize press hits for what they are.",
+      "But before we hired a PR firm I had no idea where articles in the mainstream media came from. I could tell a lot of them were crap, but I didn't realize why.Remember the exercises in critical reading you did in school, where you had to look at a piece of writing and step back and ask whether the author was telling the whole truth?",
+      "If you really want to be a critical reader, it turns out you have to step back one step further, and ask not just whether the author is telling the truth, but why he's writing about this subject at all.Online, the answer tends to be a lot simpler.",
+      "Most people who publish online write what they write for the simple reason that they want to. You can't see the fingerprints of PR firms all over the articles, as you can in so many print publications-- which is one of the reasons, though they may not consciously realize it, that readers trust bloggers more than Business Week.I was talking recently to a friend who works for a big newspaper.",
+      "He thought the print media were in serious trouble, and that they were still mostly in denial about it. \"They think the decline is cyclic,\" he said. \"Actually it's structural.\"In other words, the readers are leaving, and they're not coming back.",
+      "Why? I think the main reason is that the writing online is more honest. Imagine how incongruous the New York Times article about suits would sound if you read it in a blog: The urge to look corporate-- sleek, commanding, prudent, yet with just a touch of hubris on your well-cut sleeve-- is an unexpected development in a time of business disgrace.",
+      "The problem with this article is not just that it originated in a PR firm. The whole tone is bogus. This is the tone of someone writing down to their audience.Whatever its flaws, the writing you find online is authentic.",
+      "It's not mystery meat cooked up out of scraps of pitch letters and press releases, and pressed into molds of zippy journalese. It's people writing what they think.I didn't realize, till there was an alternative, just how artificial most of the writing in the mainstream media was.",
+      "I'm not saying I used to believe what I read in Time and Newsweek. Since high school, at least, I've thought of magazines like that more as guides to what ordinary people were being told to think than as sources of information.",
+      "But I didn't realize till the last few years that writing for publication didn't have to mean writing that way. I didn't realize you could write as candidly and informally as you would if you were writing to a friend.Readers aren't the only ones who've noticed the change.",
+      "The PR industry has too. A hilarious article on the site of the PR Society of America gets to the heart of the matter: Bloggers are sensitive about becoming mouthpieces for other organizations and companies, which is the reason they began blogging in the first place.",
+      "PR people fear bloggers for the same reason readers like them. And that means there may be a struggle ahead. As this new kind of writing draws readers away from traditional media, we should be prepared for whatever PR mutates into to compensate.",
+      "When I think how hard PR firms work to score press hits in the traditional media, I can't imagine they'll work any less hard to feed stories to bloggers, if they can figure out how. Notes[1] PR has at least one beneficial feature: it favors small companies.",
+      "If PR didn't work, the only alternative would be to advertise, and only big companies can afford that.[2] Advertisers pay less for ads in free publications, because they assume readers ignore something they get for free.",
+      "This is why so many trade publications nominally have a cover price and yet give away free subscriptions with such abandon.[3] Different sections of the Times vary so much in their standards that they're practically different papers.",
+      "Whoever fed the style section reporter this story about suits coming back would have been sent packing by the regular news reporters.[4] The most striking example I know of this type is the \"fact\" that the Internet worm of 1988 infected 6000 computers.",
+      "I was there when it was cooked up, and this was the recipe: someone guessed that there were about 60,000 computers attached to the Internet, and that the worm might have infected ten percent of them.Actually no one knows how many computers the worm infected, because the remedy was to reboot them, and this destroyed all traces.",
+      "But people like numbers. And so this one is now replicated all over the Internet, like a little worm of its own.[5] Not all were necessarily supplied by the PR firm. Reporters sometimes call a few additional sources on their own, like someone adding a few fresh vegetables to a can of soup.",
+      "Thanks to Ingrid Basset, Trevor Blackwell, Sarah Harlin, Jessica Livingston, Jackie McDonough, Robert Morris, and Aaron Swartz (who also found the PRSA article) for reading drafts of this.Correction: Earlier versions used a recent Business Week article mentioning del.icio.us as an example of a press hit, but Joshua Schachter tells me it was spontaneous.The Web is a Writing EnvironmentA Sell-Out's TaleHow to Pitch BloggersBlogging for Milk7 Habits of Highly Effective Blog PRPR People Need To Learn To Deal With New GatekeepersMarqui Blogosphere ProgramPR WatchReal Men ExfoliateHow the News is MadeJanuary 2006: The suit is back yet againThe Decline of the TieJapanese Translation If you liked this, you may also like Hackers & Painters."
+    ],
+    "word_count": 2326,
+    "paragraph_count": 45
+  },
+  "processed_at": "2025-07-26T19:08:02.691378",
+  "paragraphs": [
+    {
+      "original": "April 2005\"Suits make a corporate comeback,\" says the New York Times. Why does this sound familiar? Maybe because the suit was also back in February, September 2004, June 2004, March 2004, September 2003, November 2002, April 2002, and February 2002.",
+      "translated": "2005年4月，《纽约时报》报道称：“西装在企业界卷土重来。”这听起来为什么如此耳熟？可能是因为西装在2004年2月、9月、6月、3月，2003年9月，2002年11月、4月和2月也曾经“回归”。"
+    },
+    {
+      "original": "Why do the media keep running stories saying suits are back? Because PR firms tell them to. One of the most surprising things I discovered during my brief business career was the existence of the PR industry, lurking like a huge, quiet submarine beneath the news.",
+      "translated": "为什么媒体不断报道说西装又流行起来了？因为公关公司告诉他们这么说。在我短暂的商业生涯中，最令我惊讶的发现之一就是公关行业的存在，它就像一艘巨大的、安静的潜艇潜伏在新闻之下。"
+    },
+    {
+      "original": "Of the stories you read in traditional media that aren't about politics, crimes, or disasters, more than half probably come from PR firms.I know because I spent years hunting such \"press hits.\" Our startup spent its entire marketing budget on PR: at a time when we were assembling our own computers to save money, we were paying a PR firm $16,000 a month.",
+      "translated": "在你阅读的传统媒体中，那些不涉及政治、犯罪或灾难的报道，超过一半可能都来自公关公司。我之所以知道这一点，是因为我曾多年致力于追寻这些“新闻热点”。我们的初创公司把所有的营销预算都花在了公关上：在我们为了节省成本而自己组装电脑的时候，我们每月却要支付给公关公司16,000美元。"
+    },
+    {
+      "original": "And they were worth it. PR is the news equivalent of search engine optimization; instead of buying ads, which readers ignore, you get yourself inserted directly into the stories. [1]Our PR firm was one of the best in the business.",
+      "translated": "它们值得这样做。公关就像是新闻界的搜索引擎优化；与其花钱买广告，而这些广告读者往往视而不见，不如直接将自己嵌入到故事中。[1]我们的公关公司是业内最好的之一。"
+    },
+    {
+      "original": "In 18 months, they got press hits in over 60 different publications. And we weren't the only ones they did great things for. In 1997 I got a call from another startup founder considering hiring them to promote his company.",
+      "translated": "在18个月内，他们在超过60家不同的出版物上获得了报道。而我们并不是他们唯一帮助取得显著成绩的客户。1997年，我接到另一位初创公司创始人打来的电话，他也在考虑聘请他们来推广他的公司。"
+    },
+    {
+      "original": "I told him they were PR gods, worth every penny of their outrageous fees. But I remember thinking his company's name was odd. Why call an auction site \"eBay\"? SymbiosisPR is not dishonest. Not quite.",
+      "translated": "我告诉他，他们是公关界的神，每一分钱的高昂费用都物超所值。但我记得当时觉得他公司的名字很奇怪。为什么把一个拍卖网站叫作“eBay”？赛博共生公关公司并不算不诚实。不完全是。"
+    },
+    {
+      "original": "In fact, the reason the best PR firms are so effective is precisely that they aren't dishonest. They give reporters genuinely valuable information. A good PR firm won't bug reporters just because the client tells them to; they've worked hard to build their credibility with reporters, and they don't want to destroy it by feeding them mere propaganda.If anyone is dishonest, it's the reporters.",
+      "translated": "事实上，最好的公关公司之所以如此有效，正是因为它们不会不诚实。它们为记者提供真正有价值的信息。一家好的公关公司不会仅仅因为客户的要求就不断打扰记者；他们努力与记者建立了信誉，不想因为提供 mere propaganda 而破坏这种信誉。如果有人不诚实，那通常是记者。"
+    },
+    {
+      "original": "The main reason PR firms exist is that reporters are lazy. Or, to put it more nicely, overworked. Really they ought to be out there digging up stories for themselves. But it's so tempting to sit in their offices and let PR firms bring the stories to them.",
+      "translated": "公关公司存在的主要原因是记者们很懒。或者更客气点说，工作太忙。实际上，他们应该出去自己挖掘新闻。但坐在办公室里让公关公司把新闻送上门来实在太诱人了。"
+    },
+    {
+      "original": "After all, they know good PR firms won't lie to them.A good flatterer doesn't lie, but tells his victim selective truths (what a nice color your eyes are). Good PR firms use the same strategy: they give reporters stories that are true, but whose truth favors their clients.For example, our PR firm often pitched stories about how the Web let small merchants compete with big ones.",
+      "translated": "毕竟，他们知道好的公关公司不会对他们撒谎。一个好的奉承者不会说谎，但会选择性地讲真话（你的眼睛颜色真好看）。好的公关公司采用同样的策略：他们提供给记者的报道是真实的，但这些真实的内容有利于他们的客户。例如，我们的公关公司经常抛出关于网络如何让小商家与大商家竞争的故事。"
+    },
+    {
+      "original": "This was perfectly true. But the reason reporters ended up writing stories about this particular truth, rather than some other one, was that small merchants were our target market, and we were paying the piper.Different publications vary greatly in their reliance on PR firms.",
+      "translated": "这完全是事实。但是，记者们最终写的是这个特定的事实，而不是其他事实，是因为小商家是我们的目标市场，而我们是在为宣传买单。不同的出版物对公关公司的依赖程度各不相同。"
+    },
+    {
+      "original": "At the bottom of the heap are the trade press, who make most of their money from advertising and would give the magazines away for free if advertisers would let them. [2] The average trade publication is a bunch of ads, glued together by just enough articles to make it look like a magazine.",
+      "translated": "处于底层的是行业媒体，他们大部分收入来自广告，如果广告商允许，他们甚至愿意免费赠送杂志。[2] 平均来说，一份行业刊物就是一堆广告，仅靠少量文章粘合在一起，使其看起来像是一本杂志。"
+    },
+    {
+      "original": "They're so desperate for \"content\" that some will print your press releases almost verbatim, if you take the trouble to write them to read like articles.At the other extreme are publications like the New York Times and the Wall Street Journal.",
+      "translated": "他们对“内容”的渴求如此强烈，以至于如果你费心将新闻稿写得像文章一样，有些媒体几乎会照搬刊发。而在另一极端，则有《纽约时报》和《华尔街日报》这样的出版物。"
+    },
+    {
+      "original": "Their reporters do go out and find their own stories, at least some of the time. They'll listen to PR firms, but briefly and skeptically. We managed to get press hits in almost every publication we wanted, but we never managed to crack the print edition of the Times.",
+      "translated": "他们的记者确实会外出寻找自己的新闻素材，至少有时候是这样。他们会听取公关公司的意见，但通常只是简短而带着怀疑的态度。我们几乎在所有想上的出版物中都获得了报道，但始终未能在《泰晤士报》的印刷版上有所突破。"
+    },
+    {
+      "original": "[3]The weak point of the top reporters is not laziness, but vanity. You don't pitch stories to them. You have to approach them as if you were a specimen under their all-seeing microscope, and make it seem as if the story you want them to run is something they thought of themselves.Our greatest PR coup was a two-part one.",
+      "translated": "顶级记者的弱点不是懒惰，而是虚荣。你不会主动向他们推荐故事。你必须像自己是他们无所不察的显微镜下的标本一样去接近他们，并让他们觉得你希望他们报道的故事是他们自己想出来的。我们最成功的公关举措是一个分两步进行的行动。"
+    },
+    {
+      "original": "We estimated, based on some fairly informal math, that there were about 5000 stores on the Web. We got one paper to print this number, which seemed neutral enough. But once this \"fact\" was out there in print, we could quote it to other publications, and claim that with 1000 users we had 20% of the online store market.This was roughly true.",
+      "translated": "我们根据一些较为非正式的计算，估计网络上大约有5000家店铺。我们让一家报纸刊登了这个数字，这看起来足够中立。但是一旦这个“事实”被刊登出来，我们就可以引用它向其他出版物声称，我们拥有1000名用户，占据了线上店铺市场20%的份额。这大致是真实的。"
+    },
+    {
+      "original": "We really did have the biggest share of the online store market, and 5000 was our best guess at its size. But the way the story appeared in the press sounded a lot more definite.Reporters like definitive statements.",
+      "translated": "我们确实在线商店市场中占据了最大的份额，而5000是我们对市场规模的最佳估计。但这个故事在媒体上的报道听起来要确定得多。记者们喜欢确定性的陈述。"
+    },
+    {
+      "original": "For example, many of the stories about Jeremy Jaynes's conviction say that he was one of the 10 worst spammers. This \"fact\" originated in Spamhaus's ROKSO list, which I think even Spamhaus would admit is a rough guess at the top spammers.",
+      "translated": "例如，关于杰里米·杰恩斯定罪的许多报道都说他是十大最恶劣的垃圾邮件发送者之一。这一“事实”源自Spamhaus的ROKSO名单，即使Spamhaus自己也可能会承认，这个名单对顶级垃圾邮件发送者的排名只是个粗略的估计。"
+    },
+    {
+      "original": "The first stories about Jaynes cited this source, but now it's simply repeated as if it were part of the indictment. [4]All you can say with certainty about Jaynes is that he was a fairly big spammer.",
+      "translated": "关于杰恩斯的最初报道引用了这个来源，但现在它被简单地当作起诉书的一部分重复提及。[4]关于杰恩斯，你唯一可以确定的是，他是个相当大的垃圾邮件发送者。"
+    },
+    {
+      "original": "But reporters don't want to print vague stuff like \"fairly big.\" They want statements with punch, like \"top ten.\" And PR firms give them what they want. Wearing suits, we're told, will make us 3.6 percent more productive.BuzzWhere the work of PR firms really does get deliberately misleading is in the generation of \"buzz.\" They usually feed the same story to several different publications at once.",
+      "translated": "但是记者们不想刊登像“相当大”这样的模糊说法。他们想要有力的陈述，比如“前十名”。而公关公司则给他们提供他们想要的。据称，穿西装会使我们的工作效率提高3.6%。公关公司真正有意误导的地方在于制造“轰动效应”。他们通常会同时向多家不同的出版物提供同一个故事。"
+    },
+    {
+      "original": "And when readers see similar stories in multiple places, they think there is some important trend afoot. Which is exactly what they're supposed to think.When Windows 95 was launched, people waited outside stores at midnight to buy the first copies.",
+      "translated": "当读者在多个地方看到类似的故事时，他们会认为有一些重要的趋势正在形成。而这正是他们应该有的想法。当年Windows 95发布时，人们半夜排队等在商店外购买首批拷贝。"
+    },
+    {
+      "original": "None of them would have been there without PR firms, who generated such a buzz in the news media that it became self-reinforcing, like a nuclear chain reaction.I doubt PR firms realize it yet, but the Web makes it possible to track them at work.",
+      "translated": "没有公关公司的推动，他们都不会出现在那里。公关公司在新闻媒体中制造了如此大的轰动，以至于这种影响变得自我强化，就像核链式反应一样。我怀疑公关公司尚未意识到，但互联网使得追踪他们的工作成为可能。"
+    },
+    {
+      "original": "If you search for the obvious phrases, you turn up several efforts over the years to place stories about the return of the suit. For example, the Reuters article that got picked up by USA Today in September 2004.",
+      "translated": "如果你搜索那些显而易见的短语，就会发现多年来有几次尝试报道关于西装回归的故事。例如，2004年9月被《今日美国》转载的路透社文章。"
+    },
+    {
+      "original": "\"The suit is back,\" it begins.Trend articles like this are almost always the work of PR firms. Once you know how to read them, it's straightforward to figure out who the client is. With trend stories, PR firms usually line up one or more \"experts\" to talk about the industry generally.",
+      "translated": "“西装又回来了，”文章开头写道。这类趋势文章几乎总是公关公司的手笔。一旦你知道如何解读，很容易就能看出客户是谁。在趋势报道中，公关公司通常会找一位或多位“专家”来谈论整个行业。"
+    },
+    {
+      "original": "In this case we get three: the NPD Group, the creative director of GQ, and a research director at Smith Barney. [5] When you get to the end of the experts, look for the client. And bingo, there it is: The Men's Wearhouse.Not surprising, considering The Men's Wearhouse was at that moment running ads saying \"The Suit is Back.\" Talk about a successful press hit-- a wire service article whose first sentence is your own ad copy.The secret to finding other press hits from a given pitch is to realize that they all started from the same document back at the PR firm.",
+      "translated": "在这种情况下，我们得到了三个：NPD集团、GQ的创意总监和Smith Barney的研究总监。[5] 当你看到专家名单的末尾时，寻找客户。果然，它就在那里：The Men's Wearhouse。考虑到The Men's Wearhouse当时正在投放广告说“西装回归”，这并不令人意外。这真是一次成功的新闻报道——一篇通讯社文章的首句就是你自己的广告语。要找到来自同一公关策略的其他新闻报道的秘诀在于，意识到它们都源自公关公司内部的同一份文件。"
+    },
+    {
+      "original": "Search for a few key phrases and the names of the clients and the experts, and you'll turn up other variants of this story.Casual fridays are out and dress codes are in writes Diane E. Lewis in The Boston Globe.",
+      "translated": "搜索几个关键短语和客户及专家的名字，你就会发现这个故事的其他版本。戴安娜·E·刘易斯在《波士顿环球报》中写道，休闲星期五已经过时，着装要求又回来了。"
+    },
+    {
+      "original": "In a remarkable coincidence, Ms. Lewis's industry contacts also include the creative director of GQ.Ripped jeans and T-shirts are out, writes Mary Kathleen Flynn in US News & World Report. And she too knows the creative director of GQ.Men's suits are back writes Nicole Ford in Sexbuzz.Com (\"the ultimate men's entertainment magazine\").Dressing down loses appeal as men suit up at the office writes Tenisha Mercer of The Detroit News.",
+      "translated": "在一个引人注目的巧合中，刘易斯女士的行业联系人中也包括《GQ》的创意总监。玛丽·凯瑟琳·弗林在《美国新闻与世界报道》中写道，破洞牛仔裤和T恤已经过时。她也认识《GQ》的创意总监。妮可·福ord在Sexbuzz.Com（“终极男性娱乐杂志”）上写道，男士西装再度流行。特尼莎·默瑟在《底特律新闻》中写道，随着男士们在办公室穿起西装，休闲装扮失去了吸引力。"
+    },
+    {
+      "original": "Now that so many news articles are online, I suspect you could find a similar pattern for most trend stories placed by PR firms. I propose we call this new sport \"PR diving,\" and I'm sure there are far more striking examples out there than this clump of five stories.OnlineAfter spending years chasing them, it's now second nature to me to recognize press hits for what they are.",
+      "translated": "现在有那么多新闻文章都在网上，我怀疑对于大多数由公关公司发布的趋势性新闻，你都能找到类似的模式。我建议我们把这种新活动称为“公关潜水”，我相信还有更多比这五篇文章更引人注目的例子。在线上，经过多年的追踪，现在识别这些新闻报道对我来说已经是轻而易举。"
+    },
+    {
+      "original": "But before we hired a PR firm I had no idea where articles in the mainstream media came from. I could tell a lot of them were crap, but I didn't realize why.Remember the exercises in critical reading you did in school, where you had to look at a piece of writing and step back and ask whether the author was telling the whole truth?",
+      "translated": "但在我们聘请公关公司之前，我根本不知道主流媒体的文章是从哪里来的。我能看出很多文章都很糟糕，但并不知道原因。还记得你在学校做的批判性阅读练习吗？那时你需要审视一篇文章，退一步思考作者是否在讲述全部事实？"
+    },
+    {
+      "original": "If you really want to be a critical reader, it turns out you have to step back one step further, and ask not just whether the author is telling the truth, but why he's writing about this subject at all.Online, the answer tends to be a lot simpler.",
+      "translated": "如果你真的想成为一个批判性的读者，你就需要再退一步，不仅要去质疑作者所说的话是否真实，还要问一问作者为什么选择写这个主题。在线上，答案往往要简单得多。"
+    },
+    {
+      "original": "Most people who publish online write what they write for the simple reason that they want to. You can't see the fingerprints of PR firms all over the articles, as you can in so many print publications-- which is one of the reasons, though they may not consciously realize it, that readers trust bloggers more than Business Week.I was talking recently to a friend who works for a big newspaper.",
+      "translated": "大多数在网上发表文章的人之所以写作，仅仅是因为他们想写。你无法像在许多印刷出版物中那样，看到公关公司的痕迹遍布文章——这是读者虽然可能没有意识到，但更信任博主而非《商业周刊》的原因之一。我最近和一位在大报社工作的朋友聊天。"
+    },
+    {
+      "original": "He thought the print media were in serious trouble, and that they were still mostly in denial about it. \"They think the decline is cyclic,\" he said. \"Actually it's structural.\"In other words, the readers are leaving, and they're not coming back.",
+      "translated": "他认为印刷媒体正处于严重困境中，而且他们大多数还对此视而不见。“他们认为这种衰退是周期性的，”他说。“实际上，这是结构性的。”换句话说，读者正在流失，而且他们不会回来了。"
+    },
+    {
+      "original": "Why? I think the main reason is that the writing online is more honest. Imagine how incongruous the New York Times article about suits would sound if you read it in a blog: The urge to look corporate-- sleek, commanding, prudent, yet with just a touch of hubris on your well-cut sleeve-- is an unexpected development in a time of business disgrace.",
+      "translated": "为什么？我认为主要原因在于网络上的写作更加诚实。想象一下，如果你在博客中读到《纽约时报》关于西装的文章，会显得多么不协调：在商业信誉受损的时代，想要看起来企业化—— sleek、权威、谨慎，同时在剪裁得体的袖子上带有一丝自信——这种冲动是一种意想不到的发展。"
+    },
+    {
+      "original": "The problem with this article is not just that it originated in a PR firm. The whole tone is bogus. This is the tone of someone writing down to their audience.Whatever its flaws, the writing you find online is authentic.",
+      "translated": "这篇文章的问题不仅仅在于它出自一家公关公司。整个语气都是虚假的。这是在居高临下地写给读者的语气。无论其存在何种缺陷，在线文章都是真实的。"
+    },
+    {
+      "original": "It's not mystery meat cooked up out of scraps of pitch letters and press releases, and pressed into molds of zippy journalese. It's people writing what they think.I didn't realize, till there was an alternative, just how artificial most of the writing in the mainstream media was.",
+      "translated": "这并不是用一堆推销信和新闻稿的碎片拼凑起来，再塞进生动的新闻语言模板中的神秘肉。这是人们在写下自己的想法。直到有了另一种选择，我才意识到主流媒体中的大多数写作有多么矫揉造作。"
+    },
+    {
+      "original": "I'm not saying I used to believe what I read in Time and Newsweek. Since high school, at least, I've thought of magazines like that more as guides to what ordinary people were being told to think than as sources of information.",
+      "translated": "我不是说我相信《时代》和《新闻周刊》上的话。至少从高中起，我就把这些杂志更多地视为普通大众被引导去思考的指南，而不是信息来源。"
+    },
+    {
+      "original": "But I didn't realize till the last few years that writing for publication didn't have to mean writing that way. I didn't realize you could write as candidly and informally as you would if you were writing to a friend.Readers aren't the only ones who've noticed the change.",
+      "translated": "但直到最近几年，我才意识到为出版而写作并不一定要那样写。我没想到可以像给朋友写信那样坦诚和随意地写作。注意到这一变化的不仅仅是读者。"
+    },
+    {
+      "original": "The PR industry has too. A hilarious article on the site of the PR Society of America gets to the heart of the matter: Bloggers are sensitive about becoming mouthpieces for other organizations and companies, which is the reason they began blogging in the first place.",
+      "translated": "公关行业也是如此。美国公共关系协会网站上的一篇有趣文章切中了问题的核心：博主们对成为其他组织和公司的传声筒非常敏感，而这正是他们开始写博客的原因。"
+    },
+    {
+      "original": "PR people fear bloggers for the same reason readers like them. And that means there may be a struggle ahead. As this new kind of writing draws readers away from traditional media, we should be prepared for whatever PR mutates into to compensate.",
+      "translated": "公关人员害怕博主，原因和读者喜欢博主是一样的。这意味着未来可能会有一场斗争。随着这种新型写作方式将读者从传统媒体中吸引走，我们应该准备好应对公关为补偿而可能发生的任何变化。"
+    },
+    {
+      "original": "When I think how hard PR firms work to score press hits in the traditional media, I can't imagine they'll work any less hard to feed stories to bloggers, if they can figure out how. Notes[1] PR has at least one beneficial feature: it favors small companies.",
+      "translated": "当我想到公关公司为了在传统媒体上获得报道所付出的辛勤努力时，我无法想象如果他们能找到方法，他们会少花力气去向博主提供故事。公关至少有一个有益的特点：它有利于小公司。"
+    },
+    {
+      "original": "If PR didn't work, the only alternative would be to advertise, and only big companies can afford that.[2] Advertisers pay less for ads in free publications, because they assume readers ignore something they get for free.",
+      "translated": "如果公关不起作用，唯一的替代方案就是做广告，而只有大公司才负担得起这一点。[2] 广告商在免费出版物上投放广告的费用较低，因为他们认为读者会忽视免费获得的内容。"
+    },
+    {
+      "original": "This is why so many trade publications nominally have a cover price and yet give away free subscriptions with such abandon.[3] Different sections of the Times vary so much in their standards that they're practically different papers.",
+      "translated": "这就是为什么许多行业杂志名义上标有封面价格，却如此慷慨地免费赠送订阅。[3] 《泰晤士报》的不同版块在标准上差异如此之大，几乎像是不同的报纸。"
+    },
+    {
+      "original": "Whoever fed the style section reporter this story about suits coming back would have been sent packing by the regular news reporters.[4] The most striking example I know of this type is the \"fact\" that the Internet worm of 1988 infected 6000 computers.",
+      "translated": "向时尚版块记者提供西装回归这一消息的人，如果被常规新闻记者发现，恐怕早被赶出去了。我所知的这种类型最显著的例子是1988年互联网蠕虫感染了6000台计算机这一“事实”。"
+    },
+    {
+      "original": "I was there when it was cooked up, and this was the recipe: someone guessed that there were about 60,000 computers attached to the Internet, and that the worm might have infected ten percent of them.Actually no one knows how many computers the worm infected, because the remedy was to reboot them, and this destroyed all traces.",
+      "translated": "我在场，当时的情况是这样的：有人猜测连接到互联网的计算机大约有60,000台，而这个蠕虫可能感染了其中的百分之十。实际上，没有人知道蠕虫到底感染了多少台计算机，因为解决方法是重启这些计算机，这摧毁了所有痕迹。"
+    },
+    {
+      "original": "But people like numbers. And so this one is now replicated all over the Internet, like a little worm of its own.[5] Not all were necessarily supplied by the PR firm. Reporters sometimes call a few additional sources on their own, like someone adding a few fresh vegetables to a can of soup.",
+      "translated": "但人们喜欢数字。因此，这个数字现在像一种小虫子一样在互联网上四处传播。并不是所有的数字都一定是由公关公司提供的。记者有时会自己联系一些额外的消息来源，就像在罐头汤里加几样新鲜蔬菜一样。"
+    },
+    {
+      "original": "Thanks to Ingrid Basset, Trevor Blackwell, Sarah Harlin, Jessica Livingston, Jackie McDonough, Robert Morris, and Aaron Swartz (who also found the PRSA article) for reading drafts of this.Correction: Earlier versions used a recent Business Week article mentioning del.icio.us as an example of a press hit, but Joshua Schachter tells me it was spontaneous.The Web is a Writing EnvironmentA Sell-Out's TaleHow to Pitch BloggersBlogging for Milk7 Habits of Highly Effective Blog PRPR People Need To Learn To Deal With New GatekeepersMarqui Blogosphere ProgramPR WatchReal Men ExfoliateHow the News is MadeJanuary 2006: The suit is back yet againThe Decline of the TieJapanese Translation If you liked this, you may also like Hackers & Painters.",
+      "translated": "感谢Ingrid Basset、Trevor Blackwell、Sarah Harlin、Jessica Livingston、Jackie McDonough、Robert Morris和Aaron Swartz（他还发现了PRSA的文章）阅读了本文的草稿。更正：早期版本使用了一篇最近的《商业周刊》文章，提到del.icio.us作为媒体报道的一个例子，但Joshua Schachter告诉我这是一次自发的报道。\n\n网络是一个写作环境\n一个卖身的故事\n如何向博主推广\n为了牛奶而博客\n高效博客公关的7个习惯\n公关人员需要学会与新的把关人打交道\nMarqui博客圈计划\n公关观察\n真正的男人也会去角质\n新闻是如何制作的\n2006年1月：西装又回来了\n领带的衰落\n如果您喜欢这篇文章，您可能还会喜欢《黑客与画家》。"
+    }
+  ],
+  "translation_completed": "2025-07-28T15:27:57.290844",
+  "translation_stats": {
+    "total_paragraphs": 45,
+    "success_count": 45,
+    "success_rate": "100.0%"
+  }
+}

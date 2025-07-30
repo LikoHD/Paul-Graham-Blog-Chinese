@@ -1,0 +1,99 @@
+{
+  "title": "Why It's Safe for Founders to Be Nice",
+  "title_zh": "[待翻译] Why It's Safe for Founders to Be Nice",
+  "url": "https://www.paulgraham.com/safe.html",
+  "filename": "safe.html",
+  "date": "2020-11-25",
+  "id": 65,
+  "content": {
+    "success": true,
+    "paragraphs": [
+      "August 2015I recently got an email from a founder that helped me understand something important: why it's safe for startup founders to be nice people.I grew up with a cartoon idea of a very successful businessman (in the cartoon it was always a man): a rapacious, cigar-smoking, table-thumping guy in his fifties who wins by exercising power, and isn't too fussy about how.",
+      "As I've written before, one of the things that has surprised me most about startups is how few of the most successful founders are like that. Maybe successful people in other industries are; I don't know; but not startup founders.",
+      "[1]I knew this empirically, but I never saw the math of why till I got this founder's email. In it he said he worried that he was fundamentally soft-hearted and tended to give away too much for free.",
+      "He thought perhaps he needed \"a little dose of sociopath-ness.\"I told him not to worry about it, because so long as he built something good enough to spread by word of mouth, he'd have a superlinear growth curve.",
+      "If he was bad at extracting money from people, at worst this curve would be some constant multiple less than 1 of what it might have been. But a constant multiple of any curve is exactly the same shape.",
+      "The numbers on the Y axis are smaller, but the curve is just as steep, and when anything grows at the rate of a successful startup, the Y axis will take care of itself.Some examples will make this clear.",
+      "Suppose your company is making $1000 a month now, and you've made something so great that it's growing at 5% a week. Two years from now, you'll be making about $160k a month.Now suppose you're so un-rapacious that you only extract half as much from your users as you could.",
+      "That means two years later you'll be making $80k a month instead of $160k. How far behind are you? How long will it take to catch up with where you'd have been if you were extracting every penny? A mere 15 weeks.",
+      "After two years, the un-rapacious founder is only 3.5 months behind the rapacious one. [2]If you're going to optimize a number, the one to choose is your growth rate. Suppose as before that you only extract half as much from users as you could, but that you're able to grow 6% a week instead of 5%.",
+      "Now how are you doing compared to the rapacious founder after two years? You're already ahead—$214k a month versus $160k—and pulling away fast. In another year you'll be making $4.4 million a month to the rapacious founder's $2 million.Obviously one case where it would help to be rapacious is when growth depends on that.",
+      "What makes startups different is that usually it doesn't. Startups usually win by making something so great that people recommend it to their friends. And being rapacious not only doesn't help you do that, but probably hurts.",
+      "[3]The reason startup founders can safely be nice is that making great things is compounded, and rapacity isn't.So if you're a founder, here's a deal you can make with yourself that will both make you happy and make your company successful.",
+      "Tell yourself you can be as nice as you want, so long as you work hard on your growth rate to compensate. Most successful startups make that tradeoff unconsciously. Maybe if you do it consciously you'll do it even better.Notes[1] Many think successful startup founders are driven by money.",
+      "In fact the secret weapon of the most successful founders is that they aren't. If they were, they'd have taken one of the acquisition offers that every fast-growing startup gets on the way up. What drives the most successful founders is the same thing that drives most people who make things: the company is their project.[2] In fact since 2 ≈ 1.05 ^ 15, the un-rapacious founder is always 15 weeks behind the rapacious one.[3] The other reason it might help to be good at squeezing money out of customers is that startups usually lose money at first, and making more per customer makes it easier to get to profitability before your initial funding runs out.",
+      "But while it is very common for startups to die from running through their initial funding and then being unable to raise more, the underlying cause is usually slow growth or excessive spending rather than insufficient effort to extract money from existing customers.Thanks to Sam Altman, Harj Taggar, Jessica Livingston, and Geoff Ralston for reading drafts of this, and to Randall Bennett for being such a nice guy."
+    ],
+    "word_count": 770,
+    "paragraph_count": 15
+  },
+  "processed_at": "2025-07-26T19:03:32.776145",
+  "paragraphs": [
+    {
+      "original": "August 2015I recently got an email from a founder that helped me understand something important: why it's safe for startup founders to be nice people.I grew up with a cartoon idea of a very successful businessman (in the cartoon it was always a man): a rapacious, cigar-smoking, table-thumping guy in his fifties who wins by exercising power, and isn't too fussy about how.",
+      "translated": "2015年8月，我最近收到了一位创始人发来的邮件，这封邮件帮助我理解了一个重要的问题：为什么初创公司的创始人可以是善良的人。我从小对非常成功的企业家（在漫画中总是男性）有一个卡通化的印象：一个五十多岁的、贪婪的、抽着雪茄、拍桌子的家伙，他通过行使权力来取胜，而且对手段不那么挑剔。"
+    },
+    {
+      "original": "As I've written before, one of the things that has surprised me most about startups is how few of the most successful founders are like that. Maybe successful people in other industries are; I don't know; but not startup founders.",
+      "translated": "正如我之前写过的，令我最感到惊讶的是，成功的初创公司创始人中，很少有人是那样的。也许其他行业的成功人士是这样，我不清楚；但初创公司的创始人不是。"
+    },
+    {
+      "original": "[1]I knew this empirically, but I never saw the math of why till I got this founder's email. In it he said he worried that he was fundamentally soft-hearted and tended to give away too much for free.",
+      "translated": "[1]我从经验上知道这一点，但直到收到这位创始人的邮件，我才知道其中的数学原理。他在邮件中表示，他担心自己心软，总是倾向于无偿给予太多。"
+    },
+    {
+      "original": "He thought perhaps he needed \"a little dose of sociopath-ness.\"I told him not to worry about it, because so long as he built something good enough to spread by word of mouth, he'd have a superlinear growth curve.",
+      "translated": "他认为自己也许需要“一点点反社会特质”。我告诉他不必担心，只要他能打造出一个足够好的产品，能够靠口碑传播，就会有一个超线性的增长曲线。"
+    },
+    {
+      "original": "If he was bad at extracting money from people, at worst this curve would be some constant multiple less than 1 of what it might have been. But a constant multiple of any curve is exactly the same shape.",
+      "translated": "如果他在向人们要钱方面表现不佳，最坏的情况不过是这条曲线会比原本可能的样子低一个常数倍。但任何曲线的常数倍都保持相同的形状。"
+    },
+    {
+      "original": "The numbers on the Y axis are smaller, but the curve is just as steep, and when anything grows at the rate of a successful startup, the Y axis will take care of itself.Some examples will make this clear.",
+      "translated": "Y轴上的数字较小，但曲线同样陡峭，当任何事物以成功创业公司的速度增长时，Y轴自然会有所体现。一些例子可以说明这一点。"
+    },
+    {
+      "original": "Suppose your company is making $1000 a month now, and you've made something so great that it's growing at 5% a week. Two years from now, you'll be making about $160k a month.Now suppose you're so un-rapacious that you only extract half as much from your users as you could.",
+      "translated": "假设你公司的月收入现在是1000美元，而你创造了一个非常优秀的产品，使其以每周5%的速度增长。两年后，你的月收入将达到约16万美元。现在假设你非常不贪婪，只从用户那里获取你能够获取的一半。"
+    },
+    {
+      "original": "That means two years later you'll be making $80k a month instead of $160k. How far behind are you? How long will it take to catch up with where you'd have been if you were extracting every penny? A mere 15 weeks.",
+      "translated": "这意味着两年后你的月收入将是8万美元，而不是16万美元。你落后了多少？要赶上如果你把每一分钱都提取出来本应达到的水平需要多长时间？只需要15周。"
+    },
+    {
+      "original": "After two years, the un-rapacious founder is only 3.5 months behind the rapacious one. [2]If you're going to optimize a number, the one to choose is your growth rate. Suppose as before that you only extract half as much from users as you could, but that you're able to grow 6% a week instead of 5%.",
+      "translated": "两年后，不贪婪的创始人仅比贪婪的创始人落后3.5个月。如果你要优化某个数字，那么选择的增长率。假设你只从用户那里获取你能获取的一半，但你的周增长率能达到6%而不是5%。"
+    },
+    {
+      "original": "Now how are you doing compared to the rapacious founder after two years? You're already ahead—$214k a month versus $160k—and pulling away fast. In another year you'll be making $4.4 million a month to the rapacious founder's $2 million.Obviously one case where it would help to be rapacious is when growth depends on that.",
+      "translated": "现在，与那位贪婪的创始人相比，两年后你的表现如何？你已经领先了——每月21.4万美元，而他只有16万美元——并且你正在迅速拉开差距。再过一年，你每个月的收入将达到440万美元，而那位贪婪的创始人只有200万美元。显然，在增长取决于这一点的情况下，贪婪是有帮助的。"
+    },
+    {
+      "original": "What makes startups different is that usually it doesn't. Startups usually win by making something so great that people recommend it to their friends. And being rapacious not only doesn't help you do that, but probably hurts.",
+      "translated": "使初创企业与众不同的是，它们通常并不会这样做。初创企业通常通过创造如此优秀的产品，以至于人们会向朋友推荐来取得成功。而贪婪不仅无助于达成这一目标，反而可能产生负面影响。"
+    },
+    {
+      "original": "[3]The reason startup founders can safely be nice is that making great things is compounded, and rapacity isn't.So if you're a founder, here's a deal you can make with yourself that will both make you happy and make your company successful.",
+      "translated": "[3]初创企业的创始人可以放心地保持友善，因为创造伟大的事物会带来复利效应，而贪婪则不会。所以，如果你是一位创始人，这里有一个你可以在自我内心达成的协议，这不仅能让你快乐，还能让你的公司获得成功。"
+    },
+    {
+      "original": "Tell yourself you can be as nice as you want, so long as you work hard on your growth rate to compensate. Most successful startups make that tradeoff unconsciously. Maybe if you do it consciously you'll do it even better.Notes[1] Many think successful startup founders are driven by money.",
+      "translated": "告诉自己，只要你努力提高成长速度来弥补，你就可以随心所欲地善良。大多数成功的初创公司都是无意识地做出了这种权衡。也许如果你有意识地去做，会做得更好。注[1] 许多人认为成功的初创公司创始人是被金钱驱使的。"
+    },
+    {
+      "original": "In fact the secret weapon of the most successful founders is that they aren't. If they were, they'd have taken one of the acquisition offers that every fast-growing startup gets on the way up. What drives the most successful founders is the same thing that drives most people who make things: the company is their project.[2] In fact since 2 ≈ 1.05 ^ 15, the un-rapacious founder is always 15 weeks behind the rapacious one.[3] The other reason it might help to be good at squeezing money out of customers is that startups usually lose money at first, and making more per customer makes it easier to get to profitability before your initial funding runs out.",
+      "translated": "事实上，最成功的创始人的秘密武器在于他们并不贪婪。如果他们贪婪的话，就会在公司快速增长的过程中接受其中一项收购要约。推动最成功的创始人前进的动力与推动大多数创造事物的人的动力相同：公司是他们的项目。[2] 实际上，由于2 ≈ 1.05 ^ 15，不贪婪的创始人总是比贪婪的创始人落后15周。[3] 另一个善于从客户那里榨取资金可能有助于创业公司的原因是，创业公司通常在初期会亏损，而从每位客户那里赚取更多可以更容易在初始资金耗尽前实现盈利。"
+    },
+    {
+      "original": "But while it is very common for startups to die from running through their initial funding and then being unable to raise more, the underlying cause is usually slow growth or excessive spending rather than insufficient effort to extract money from existing customers.Thanks to Sam Altman, Harj Taggar, Jessica Livingston, and Geoff Ralston for reading drafts of this, and to Randall Bennett for being such a nice guy.",
+      "translated": "但尽管初创公司因耗尽初始资金而无法筹集更多资金而倒闭的情况非常普遍，其根本原因通常在于增长缓慢或支出过多，而不是从现有客户中获取收入的努力不足。感谢 Sam Altman、Harj Taggar、Jessica Livingston 和 Geoff Ralston 阅读本文草稿，以及感谢 Randall Bennett 的友好。"
+    }
+  ],
+  "translation_completed": "2025-07-28T13:51:55.597033",
+  "translation_stats": {
+    "total_paragraphs": 15,
+    "success_count": 15,
+    "success_rate": "100.0%"
+  }
+}

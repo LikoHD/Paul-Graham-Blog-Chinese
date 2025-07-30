@@ -1,0 +1,524 @@
+{
+  "title": "A Fundraising Survival Guide",
+  "title_zh": "[待翻译] A Fundraising Survival Guide",
+  "url": "https://www.paulgraham.com/fundraising.html",
+  "filename": "fundraising.html",
+  "date": "2008-08-01",
+  "id": 165,
+  "content": {
+    "success": true,
+    "paragraphs": [
+      "Want to start a startup? Get funded by Y Combinator. August 2008Raising money is the second hardest part of starting a startup. The hardest part is making something people want: most startups that die, die because they didn't do that.",
+      "But the second biggest cause of death is probably the difficulty of raising money. Fundraising is brutal.One reason it's so brutal is simply the brutality of markets. People who've spent most of their lives in schools or big companies may not have been exposed to that.",
+      "Professors and bosses usually feel some sense of responsibility toward you; if you make a valiant effort and fail, they'll cut you a break. Markets are less forgiving. Customers don't care how hard you worked, only whether you solved their problems.Investors evaluate startups the way customers evaluate products, not the way bosses evaluate employees.",
+      "If you're making a valiant effort and failing, maybe they'll invest in your next startup, but not this one.But raising money from investors is harder than selling to customers, because there are so few of them.",
+      "There's nothing like an efficient market. You're unlikely to have more than 10 who are interested; it's difficult to talk to more. So the randomness of any one investor's behavior can really affect you.Problem number 3: investors are very random.",
+      "All investors, including us, are by ordinary standards incompetent. We constantly have to make decisions about things we don't understand, and more often than not we're wrong.And yet a lot is at stake.",
+      "The amounts invested by different types of investors vary from five thousand dollars to fifty million, but the amount usually seems large for whatever type of investor it is. Investment decisions are big decisions.That combination—making big decisions about things they don't understand—tends to make investors very skittish.",
+      "VCs are notorious for leading founders on. Some of the more unscrupulous do it deliberately. But even the most well-intentioned investors can behave in a way that would seem crazy in everyday life. One day they're full of enthusiasm and seem ready to write you a check on the spot; the next they won't return your phone calls.",
+      "They're not playing games with you. They just can't make up their minds. [1]If that weren't bad enough, these wildly fluctuating nodes are all linked together. Startup investors all know one another, and (though they hate to admit it) the biggest factor in their opinion of you is the opinion of other investors.",
+      "[2] Talk about a recipe for an unstable system. You get the opposite of the damping that the fear/greed balance usually produces in markets. No one is interested in a startup that's a \"bargain\" because everyone else hates it.So the inefficient market you get because there are so few players is exacerbated by the fact that they act less than independently.",
+      "The result is a system like some kind of primitive, multi-celled sea creature, where you irritate one extremity and the whole thing contracts violently.Y Combinator is working to fix this. We're trying to increase the number of investors just as we're increasing the number of startups.",
+      "We hope that as the number of both increases we'll get something more like an efficient market. As t approaches infinity, Demo Day approaches an auction.Unfortunately, t is still very far from infinity.",
+      "What does a startup do now, in the imperfect world we currently inhabit? The most important thing is not to let fundraising get you down. Startups live or die on morale. If you let the difficulty of raising money destroy your morale, it will become a self-fulfilling prophecy.",
+      "Bootstrapping (= Consulting)Some would-be founders may by now be thinking, why deal with investors at all? If raising money is so painful, why do it?One answer to that is obvious: because you need money to live on.",
+      "It's a fine idea in principle to finance your startup with its own revenues, but you can't create instant customers. Whatever you make, you have to sell a certain amount to break even. It will take time to grow your sales to that point, and it's hard to predict, till you try, how long it will take.We could not have bootstrapped Viaweb, for example.",
+      "We charged quite a lot for our software—about $140 per user per month—but it was at least a year before our revenues would have covered even our paltry costs. We didn't have enough saved to live on for a year.If you factor out the \"bootstrapped\" companies that were actually funded by their founders through savings or a day job, the remainder either (a) got really lucky, which is hard to do on demand, or (b) began life as consulting companies and gradually transformed themselves into product companies.Consulting is the only option you can count on.",
+      "But consulting is far from free money. It's not as painful as raising money from investors, perhaps, but the pain is spread over a longer period. Years, probably. And for many types of startup, that delay could be fatal.",
+      "If you're working on something so unusual that no one else is likely to think of it, you can take your time. Joshua Schachter gradually built Delicious on the side while working on Wall Street. He got away with it because no one else realized it was a good idea.",
+      "But if you were building something as obviously necessary as online store software at about the same time as Viaweb, and you were working on it on the side while spending most of your time on client work, you were not in a good position.Bootstrapping sounds great in principle, but this apparently verdant territory is one from which few startups emerge alive.",
+      "The mere fact that bootstrapped startups tend to be famous on that account should set off alarm bells. If it worked so well, it would be the norm. [3] Bootstrapping may get easier, because starting a company is getting cheaper.",
+      "But I don't think we'll ever reach the point where most startups can do without outside funding. Technology tends to get dramatically cheaper, but living expenses don't.The upshot is, you can choose your pain: either the short, sharp pain of raising money, or the chronic ache of consulting.",
+      "For a given total amount of pain, raising money is the better choice, because new technology is usually more valuable now than later.But although for most startups raising money will be the lesser evil, it's still a pretty big evil—so big that it can easily kill you.",
+      "Not merely in the obvious sense that if you fail to raise money you might have to shut the company down, but because the process of raising money itself can kill you.To survive it you need a set of techniques mostly orthogonal to the ones used in convincing investors, just as mountain climbers need to know survival techniques that are mostly orthogonal to those used in physically getting up and down mountains.",
+      "1. Have low expectations.The reason raising money destroys so many startups' morale is not simply that it's hard, but that it's so much harder than they expected. What kills you is the disappointment.",
+      "And the lower your expectations, the harder it is to be disappointed.Startup founders tend to be optimistic. This can work well in technology, at least some of the time, but it's the wrong way to approach raising money.",
+      "Better to assume investors will always let you down. Acquirers too, while we're at it. At YC one of our secondary mantras is \"Deals fall through.\" No matter what deal you have going on, assume it will fall through.",
+      "The predictive power of this simple rule is amazing.There will be a tendency, as a deal progresses, to start to believe it will happen, and then to depend on it happening. You must resist this. Tie yourself to the mast.",
+      "This is what kills you. Deals do not have a trajectory like most other human interactions, where shared plans solidify linearly over time. Deals often fall through at the last moment. Often the other party doesn't really think about what they want till the last moment.",
+      "So you can't use your everyday intuitions about shared plans as a guide. When it comes to deals, you have to consciously turn them off and become pathologically cynical.This is harder to do than it sounds.",
+      "It's very flattering when eminent investors seem interested in funding you. It's easy to start to believe that raising money will be quick and straightforward. But it hardly ever is. 2. Keep working on your startup.It sounds obvious to say that you should keep working on your startup while raising money.",
+      "Actually this is hard to do. Most startups don't manage to.Raising money has a mysterious capacity to suck up all your attention. Even if you only have one meeting a day with investors, somehow that one meeting will burn up your whole day.",
+      "It costs not just the time of the actual meeting, but the time getting there and back, and the time preparing for it beforehand and thinking about it afterward.The best way to survive the distraction of meeting with investors is probably to partition the company: to pick one founder to deal with investors while the others keep the company going.",
+      "This works better when a startup has 3 founders than 2, and better when the leader of the company is not also the lead developer. In the best case, the company keeps moving forward at about half speed.That's the best case, though.",
+      "More often than not the company comes to a standstill while raising money. And that is dangerous for so many reasons. Raising money always takes longer than you expect. What seems like it's going to be a 2 week interruption turns into a 4 month interruption.",
+      "That can be very demoralizing. And worse still, it can make you less attractive to investors. They want to invest in companies that are dynamic. A company that hasn't done anything new in 4 months doesn't seem dynamic, so they start to lose interest.",
+      "Investors rarely grasp this, but much of what they're responding to when they lose interest in a startup is the damage done by their own indecision.The solution: put the startup first. Fit meetings with investors into the spare moments in your development schedule, rather than doing development in the spare moments between meetings with investors.",
+      "If you keep the company moving forward—releasing new features, increasing traffic, doing deals, getting written about—those investor meetings are more likely to be productive. Not just because your startup will seem more alive, but also because it will be better for your own morale, which is one of the main ways investors judge you.",
+      "3. Be conservative.As conditions get worse, the optimal strategy becomes more conservative. When things go well you can take risks; when things are bad you want to play it safe.I advise approaching fundraising as if it were always going badly.",
+      "The reason is that between your ability to delude yourself and the wildly unstable nature of the system you're dealing with, things probably either already are or could easily become much worse than they seem.What I tell most startups we fund is that if someone reputable offers you funding on reasonable terms, take it.",
+      "There have been startups that ignored this advice and got away with it—startups that ignored a good offer in the hope of getting a better one, and actually did. But in the same position I'd give the same advice again.",
+      "Who knows how many bullets were in the gun they were playing Russian roulette with?Corollary: if an investor seems interested, don't just let them sit. You can't assume someone interested in investing will stay interested.",
+      "In fact, you can't even tell (they can't even tell) if they're really interested till you try to convert that interest into money. So if you have hot prospect, either close them now or write them off.",
+      "And unless you already have enough funding, that reduces to: close them now.Startups don't win by getting great funding rounds, but by making great products. So finish raising money and get back to work.",
+      "4. Be flexible.There are two questions VCs ask that you shouldn't answer: \"Who else are you talking to?\" and \"How much are you trying to raise?\"VCs don't expect you to answer the first question. They ask it just in case.",
+      "[4] They do seem to expect an answer to the second. But I don't think you should just tell them a number. Not as a way to play games with them, but because you shouldn't have a fixed amount you need to raise.The custom of a startup needing a fixed amount of funding is an obsolete one left over from the days when startups were more expensive.",
+      "A company that needed to build a factory or hire 50 people obviously needed to raise a certain minimum amount. But few technology startups are in that position today.We advise startups to tell investors there are several different routes they could take depending on how much they raised.",
+      "As little as $50k could pay for food and rent for the founders for a year. A couple hundred thousand would let them get office space and hire some smart people they know from school. A couple million would let them really blow this thing out.",
+      "The message (and not just the message, but the fact) should be: we're going to succeed no matter what. Raising more money just lets us do it faster.If you're raising an angel round, the size of the round can even change on the fly.",
+      "In fact, it's just as well to make the round small initially, then expand as needed, rather than trying to raise a large round and risk losing the investors you already have if you can't raise the full amount.",
+      "You may even want to do a \"rolling close,\" where the round has no predetermined size, but instead you sell stock to investors one at a time as they say yes. That helps break deadlocks, because you can start as soon as the first one is ready to buy.",
+      "[5] 5. Be independent.A startup with a couple founders in their early twenties can have expenses so low that they could be profitable on as little as $2000 per month. That's negligible as corporate revenues go, but the effect on your morale and your bargaining position is anything but.",
+      "At YC we use the phrase \"ramen profitable\" to describe the situation where you're making just enough to pay your living expenses. Once you cross into ramen profitable, everything changes. You may still need investment to make it big, but you don't need it this month.You can't plan when you start a startup how long it will take to become profitable.",
+      "But if you find yourself in a position where a little more effort expended on sales would carry you over the threshold of ramen profitable, do it.Investors like it when you're ramen profitable. It shows you've thought about making money, instead of just working on amusing technical problems; it shows you have the discipline to keep your expenses low; but above all, it means you don't need them.There is nothing investors like more than a startup that seems like it's going to succeed even without them.",
+      "Investors like it when they can help a startup, but they don't like startups that would die without that help.At YC we spend a lot of time trying to predict how the startups we've funded will do, because we're trying to learn how to pick winners.",
+      "We've now watched the trajectories of so many startups that we're getting better at predicting them. And when we're talking about startups we think are likely to succeed, what we find ourselves saying is things like \"Oh, those guys can take care of themselves.",
+      "They'll be fine.\" Not \"those guys are really smart\" or \"those guys are working on a great idea.\" [6] When we predict good outcomes for startups, the qualities that come up in the supporting arguments are toughness, adaptability, determination.",
+      "Which means to the extent we're correct, those are the qualities you need to win.Investors know this, at least unconsciously. The reason they like it when you don't need them is not simply that they like what they can't have, but because that quality is what makes founders succeed.Sam Altman has it.",
+      "You could parachute him into an island full of cannibals and come back in 5 years and he'd be the king. If you're Sam Altman, you don't have to be profitable to convey to investors that you'll succeed with or without them.",
+      "(He wasn't, and he did.) Not everyone has Sam's deal-making ability. I myself don't. But if you don't, you can let the numbers speak for you. 6. Don't take rejection personally.Getting rejected by investors can make you start to doubt yourself.",
+      "After all, they're more experienced than you. If they think your startup is lame, aren't they probably right?Maybe, maybe not. The way to handle rejection is with precision. You shouldn't simply ignore rejection.",
+      "It might mean something. But you shouldn't automatically get demoralized either.To understand what rejection means, you have to understand first of all how common it is. Statistically, the average VC is a rejection machine.",
+      "David Hornik, a partner at August, told me: The numbers for me ended up being something like 500 to 800 plans received and read, somewhere between 50 and 100 initial 1 hour meetings held, about 20 companies that I got interested in, about 5 that I got serious about and did a bunch of work, 1 to 2 deals done in a year.",
+      "So the odds are against you. You may be a great entrepreneur, working on interesting stuff, etc. but it is still incredibly unlikely that you get funded. This is less true with angels, but VCs reject practically everyone.",
+      "The structure of their business means a partner does at most 2 new investments a year, no matter how many good startups approach him.In addition to the odds being terrible, the average investor is, as I mentioned, a pretty bad judge of startups.",
+      "It's harder to judge startups than most other things, because great startup ideas tend to seem wrong. A good startup idea has to be not just good but novel. And to be both good and novel, an idea probably has to seem bad to most people, or someone would already be doing it and it wouldn't be novel.That makes judging startups harder than most other things one judges.",
+      "You have to be an intellectual contrarian to be a good startup investor. That's a problem for VCs, most of whom are not particularly imaginative. VCs are mostly money guys, not people who make things.",
+      "[7] Angels are better at appreciating novel ideas, because most were founders themselves.So when you get a rejection, use the data that's in it, and not what's not. If an investor gives you specific reasons for not investing, look at your startup and ask if they're right.",
+      "If they're real problems, fix them. But don't just take their word for it. You're supposed to be the domain expert; you have to decide.Though a rejection doesn't necessarily tell you anything about your startup, it does suggest your pitch could be improved.",
+      "Figure out what's not working and change it. Don't just think \"investors are stupid.\" Often they are, but figure out precisely where you lose them.Don't let rejections pile up as a depressing, undifferentiated heap.",
+      "Sort them and analyze them, and then instead of thinking \"no one likes us,\" you'll know precisely how big a problem you have, and what to do about it. 7. Be able to downshift into consulting (if appropriate).Consulting, as I mentioned, is a dangerous way to finance a startup.",
+      "But it's better than dying. It's a bit like anaerobic respiration: not the optimum solution for the long term, but it can save you from an immediate threat. If you're having trouble raising money from investors at all, it could save you to be able to shift toward consulting.This works better for some startups than others.",
+      "It wouldn't have been a natural fit for, say, Google, but if your company was making software for building web sites, you could degrade fairly gracefully into consulting by building sites for clients with it.So long as you were careful not to get sucked permanently into consulting, this could even have advantages.",
+      "You'd understand your users well if you were using the software for them. Plus as a consulting company you might be able to get big-name users using your software that you wouldn't have gotten as a product company.At Viaweb we were forced to operate like a consulting company initially, because we were so desperate for users that we'd offer to build merchants' sites for them if they'd sign up.",
+      "But we never charged for such work, because we didn't want them to start treating us like actual consultants, and calling us every time they wanted something changed on their site. We knew we had to stay a product company, because only that scales.",
+      "8. Avoid inexperienced investors.Though novice investors seem unthreatening they can be the most dangerous sort, because they're so nervous. Especially in proportion to the amount they invest. Raising $20,000 from a first-time angel investor can be as much work as raising $2 million from a VC fund.Their lawyers are generally inexperienced too.",
+      "But while the investors can admit they don't know what they're doing, their lawyers can't. One YC startup negotiated terms for a tiny round with an angel, only to receive a 70-page agreement from his lawyer.",
+      "And since the lawyer could never admit, in front of his client, that he'd screwed up, he instead had to insist on retaining all the draconian terms in it, so the deal fell through.Of course, someone has to take money from novice investors, or there would never be any experienced ones.",
+      "But if you do, either (a) drive the process yourself, including supplying the paperwork, or (b) use them only to fill up a larger round led by someone else. 9. Know where you stand.The most dangerous thing about investors is their indecisiveness.",
+      "The worst case scenario is the long no, the no that comes after months of meetings. Rejections from investors are like design flaws: inevitable, but much less costly if you discover them early.So while you're talking to investors, constantly look for signs of where you stand.",
+      "How likely are they to offer you a term sheet? What do they have to be convinced of first? You shouldn't necessarily always be asking these questions outright—that could get annoying—but you should always be collecting data about them.Investors tend to resist committing except to the extent you push them to.",
+      "It's in their interest to collect the maximum amount of information while making the minimum number of decisions. The best way to force them to act is, of course, competing investors. But you can also apply some force by focusing the discussion: by asking what specific questions they need answered to make up their minds, and then answering them.",
+      "If you get through several obstacles and they keep raising new ones, assume that ultimately they're going to flake.You have to be disciplined when collecting data about investors' intentions. Otherwise their desire to lead you on will combine with your own desire to be led on to produce completely inaccurate impressions.Use the data to weight your strategy.",
+      "You'll probably be talking to several investors. Focus on the ones that are most likely to say yes. The value of a potential investor is a combination of how good it would be if they said yes, and how likely they are to say it.",
+      "Put the most weight on the second factor. Partly because the most important quality in an investor is simply investing. But also because, as I mentioned, the biggest factor in investors' opinion of you is other investors' opinion of you.",
+      "If you're talking to several investors and you manage to get one over the threshold of saying yes, it will make the others much more interested. So you're not sacrificing the lukewarm investors if you focus on the hot ones; convincing the hot investors is the best way to convince the lukewarm ones.",
+      "FutureI'm hopeful things won't always be so awkward. I hope that as startups get cheaper and the number of investors increases, raising money will become, if not easy, at least straightforward.In the meantime, the brokenness of the funding process offers a big opportunity.",
+      "Most investors have no idea how dangerous they are. They'd be surprised to hear that raising money from them is something that has to be treated as a threat to a company's survival. They just think they need a little more information to make up their minds.",
+      "They don't get that there are 10 other investors who also want a little more information, and that the process of talking to them all can bring a startup to a standstill for months.Because investors don't understand the cost of dealing with them, they don't realize how much room there is for a potential competitor to undercut them.",
+      "I know from my own experience how much faster investors could decide, because we've brought our own time down to 20 minutes (5 minutes of reading an application plus a 10 minute interview plus 5 minutes of discussion).",
+      "If you were investing more money you'd want to take longer, of course. But if we can decide in 20 minutes, should it take anyone longer than a couple days?Opportunities like this don't sit unexploited forever, even in an industry as conservative as venture capital.",
+      "So either existing investors will start to make up their minds faster, or new investors will emerge who do.In the meantime founders have to treat raising money as a dangerous process. Fortunately, I can fix the biggest danger right here.",
+      "The biggest danger is surprise. It's that startups will underestimate the difficulty of raising money—that they'll cruise through all the initial steps, but when they turn to raising money they'll find it surprisingly hard, get demoralized, and give up.",
+      "So I'm telling you in advance: raising money is hard.Notes[1] When investors can't make up their minds, they sometimes describe it as if it were a property of the startup. \"You're too early for us,\" they sometimes say.",
+      "But which of them, if they were taken back in a time machine to the hour Google was founded, wouldn't offer to invest at any valuation the founders chose? An hour old is not too early if it's the right startup.",
+      "What \"you're too early\" really means is \"we can't figure out yet whether you'll succeed.\" [2] Investors influence one another both directly and indirectly. They influence one another directly through the \"buzz\" that surrounds a hot startup.",
+      "But they also influence one another indirectly through the founders. When a lot of investors are interested in you, it increases your confidence in a way that makes you much more attractive to investors.No VC will admit they're influenced by buzz.",
+      "Some genuinely aren't. But there are few who can say they're not influenced by confidence.[3] One VC who read this essay wrote:\"We try to avoid companies that got bootstrapped with consulting. It creates very bad behaviors/instincts that are hard to erase from a company's culture.\"[4] The optimal way to answer the first question is to say that it would be improper to name names, while simultaneously implying that you're talking to a bunch of other VCs who are all about to give you term sheets.",
+      "If you're the sort of person who understands how to do that, go ahead. If not, don't even try. Nothing annoys VCs more than clumsy efforts to manipulate them.[5] The disadvantage of expanding a round on the fly is that the valuation is fixed at the start, so if you get a sudden rush of interest, you may have to decide between turning some investors away and selling more of the company than you meant to.",
+      "That's a good problem to have, however.[6] I wouldn't say that intelligence doesn't matter in startups. We're only comparing YC startups, who've already made it over a certain threshold.[7] But not all are.",
+      "Though most VCs are suits at heart, the most successful ones tend not to be. Oddly enough, the best VCs tend to be the least VC-like. Thanks to Trevor Blackwell, David Hornik, Jessica Livingston, Robert Morris, and Fred Wilson for reading drafts of this.Russian Translation"
+    ],
+    "word_count": 4755,
+    "paragraph_count": 100
+  },
+  "processed_at": "2025-07-26T19:06:45.012915",
+  "paragraphs": [
+    {
+      "original": "Want to start a startup? Get funded by Y Combinator. August 2008Raising money is the second hardest part of starting a startup. The hardest part is making something people want: most startups that die, die because they didn't do that.",
+      "translated": "想创业？那就让Y Combinator来支持你。2008年8月\n\n筹集资金是创业过程中第二难的事情。最难的部分是做出人们需要的产品：大多数创业公司失败，是因为没有做到这一点。"
+    },
+    {
+      "original": "But the second biggest cause of death is probably the difficulty of raising money. Fundraising is brutal.One reason it's so brutal is simply the brutality of markets. People who've spent most of their lives in schools or big companies may not have been exposed to that.",
+      "translated": "但第二大死因可能是筹集资金的困难。筹款非常残酷。其中一个原因是市场的残酷性。那些大部分时间都在学校或大公司度过的人可能没有接触过这一点。"
+    },
+    {
+      "original": "Professors and bosses usually feel some sense of responsibility toward you; if you make a valiant effort and fail, they'll cut you a break. Markets are less forgiving. Customers don't care how hard you worked, only whether you solved their problems.Investors evaluate startups the way customers evaluate products, not the way bosses evaluate employees.",
+      "translated": "教授和上司通常会对您有一种责任感；如果您竭尽全力却失败了，他们会给予您一些宽容。市场则不那么宽容。客户不在乎您有多努力，只关心您是否解决了他们的问题。投资者评估初创公司的方式与客户评估产品的方式相同，而不是像上司评估员工那样。"
+    },
+    {
+      "original": "If you're making a valiant effort and failing, maybe they'll invest in your next startup, but not this one.But raising money from investors is harder than selling to customers, because there are so few of them.",
+      "translated": "如果你正在努力奋斗但未能成功，也许他们会投资你的下一个创业项目，但不会是这次。但是，从投资者那里筹集资金比向客户销售产品更难，因为投资者的数量非常少。"
+    },
+    {
+      "original": "There's nothing like an efficient market. You're unlikely to have more than 10 who are interested; it's difficult to talk to more. So the randomness of any one investor's behavior can really affect you.Problem number 3: investors are very random.",
+      "translated": "没有什么比一个有效的市场更难找了。你不太可能有超过10个感兴趣的人；想要与更多人沟通也很困难。所以任何一个投资者的行为的随机性都可能对你产生很大影响。问题之三：投资者非常不可预测。"
+    },
+    {
+      "original": "All investors, including us, are by ordinary standards incompetent. We constantly have to make decisions about things we don't understand, and more often than not we're wrong.And yet a lot is at stake.",
+      "translated": "所有投资者，包括我们，按照普通标准都是不合格的。我们经常不得不对不理解的事情做出决定，而且大多数时候我们都是错的。然而，利害关系重大。"
+    },
+    {
+      "original": "The amounts invested by different types of investors vary from five thousand dollars to fifty million, but the amount usually seems large for whatever type of investor it is. Investment decisions are big decisions.That combination—making big decisions about things they don't understand—tends to make investors very skittish.",
+      "translated": "不同类型的投资者投资额从五千美元到五千万美元不等，但无论对于哪种类型的投资者来说，这个数额通常都显得很大。投资决策是重大的决策。这种组合——对不熟悉的事物做出重大决策——倾向于使投资者变得非常谨慎。"
+    },
+    {
+      "original": "VCs are notorious for leading founders on. Some of the more unscrupulous do it deliberately. But even the most well-intentioned investors can behave in a way that would seem crazy in everyday life. One day they're full of enthusiasm and seem ready to write you a check on the spot; the next they won't return your phone calls.",
+      "translated": "风险投资家以引导创业者而臭名昭著。一些更为不择手段的人故意为之。但即使是那些最善意的投资者，其行为方式在日常生活中也会显得疯狂。有一天他们充满热情，似乎准备当场给你开出支票；而第二天他们却不再接你的电话。"
+    },
+    {
+      "original": "They're not playing games with you. They just can't make up their minds. [1]If that weren't bad enough, these wildly fluctuating nodes are all linked together. Startup investors all know one another, and (though they hate to admit it) the biggest factor in their opinion of you is the opinion of other investors.",
+      "translated": "他们并不是在跟你玩弄游戏。他们只是无法做出决定。如果这还不算糟糕的话，这些极度波动的节点都是相互关联的。初创公司的投资者们彼此都认识，而且（尽管他们不愿承认）他们对你看法的最大影响因素是其他投资者的看法。"
+    },
+    {
+      "original": "[2] Talk about a recipe for an unstable system. You get the opposite of the damping that the fear/greed balance usually produces in markets. No one is interested in a startup that's a \"bargain\" because everyone else hates it.So the inefficient market you get because there are so few players is exacerbated by the fact that they act less than independently.",
+      "translated": "[2] 谈到导致系统不稳定的因素。你得到的恰恰是恐惧/贪婪平衡通常在市场中产生的阻尼效应的反面。没有人对一个“便宜货”初创公司感兴趣，因为其他人都不喜欢它。因此，由于参与者太少而导致的低效市场，因他们缺乏独立行动而进一步加剧。"
+    },
+    {
+      "original": "The result is a system like some kind of primitive, multi-celled sea creature, where you irritate one extremity and the whole thing contracts violently.Y Combinator is working to fix this. We're trying to increase the number of investors just as we're increasing the number of startups.",
+      "translated": "结果就像某种原始的多细胞海洋生物，你刺激它的一个末端，整个生物就会剧烈收缩。Y Combinator 正在努力解决这个问题。我们正试图增加投资者的数量，就像我们正在增加初创公司的数量一样。"
+    },
+    {
+      "original": "We hope that as the number of both increases we'll get something more like an efficient market. As t approaches infinity, Demo Day approaches an auction.Unfortunately, t is still very far from infinity.",
+      "translated": "我们希望随着双方数量的增加，市场会变得更加有效。当 t 趋近于无穷大时，路演日将接近于拍卖。不幸的是，t 距离无穷大仍然非常遥远。"
+    },
+    {
+      "original": "What does a startup do now, in the imperfect world we currently inhabit? The most important thing is not to let fundraising get you down. Startups live or die on morale. If you let the difficulty of raising money destroy your morale, it will become a self-fulfilling prophecy.",
+      "translated": "在我们目前这个并不完美的世界里，初创公司现在应该怎么做？最重要的是不要让融资的困难打击到你。初创公司的生死存亡取决于士气。如果你让筹资的难度摧毁了你的士气，那这就会变成一个自我实现的预言。"
+    },
+    {
+      "original": "Bootstrapping (= Consulting)Some would-be founders may by now be thinking, why deal with investors at all? If raising money is so painful, why do it?One answer to that is obvious: because you need money to live on.",
+      "translated": "启动（=咨询）一些潜在的创业者可能已经在想，为什么还要与投资者打交道？如果融资如此痛苦，为什么还要去做？一个显而易见的答案是：因为你需要钱来维持生活。"
+    },
+    {
+      "original": "It's a fine idea in principle to finance your startup with its own revenues, but you can't create instant customers. Whatever you make, you have to sell a certain amount to break even. It will take time to grow your sales to that point, and it's hard to predict, till you try, how long it will take.We could not have bootstrapped Viaweb, for example.",
+      "translated": "原则上，用公司的收入来资助初创企业是个不错的想法，但你不能立即创造客户。无论你生产什么，都必须卖出一定数量才能达到收支平衡。要达到这个销售量需要时间，而在此之前很难预测这将需要多长时间。例如，我们不可能自力更生地创办Viaweb。"
+    },
+    {
+      "original": "We charged quite a lot for our software—about $140 per user per month—but it was at least a year before our revenues would have covered even our paltry costs. We didn't have enough saved to live on for a year.If you factor out the \"bootstrapped\" companies that were actually funded by their founders through savings or a day job, the remainder either (a) got really lucky, which is hard to do on demand, or (b) began life as consulting companies and gradually transformed themselves into product companies.Consulting is the only option you can count on.",
+      "translated": "我们对软件的收费相当高——每个用户每月大约140美元——但至少要一年时间，我们的收入才能覆盖我们微薄的成本。我们没有足够的储蓄来维持一年的生活。如果排除那些实际上是由创始人通过储蓄或日常工作资助的“自筹”公司，剩下的要么（a）非常幸运，但这很难按需实现，要么（b）最初是咨询公司，然后逐渐转型为产品公司。咨询是你唯一可以依赖的选择。"
+    },
+    {
+      "original": "But consulting is far from free money. It's not as painful as raising money from investors, perhaps, but the pain is spread over a longer period. Years, probably. And for many types of startup, that delay could be fatal.",
+      "translated": "但咨询远非轻松赚钱。虽然它的痛苦可能不像从投资者那里筹集资金那样剧烈，但这种痛苦会持续更长时间。可能是几年。对于许多类型的初创公司而言，这种延迟可能是致命的。"
+    },
+    {
+      "original": "If you're working on something so unusual that no one else is likely to think of it, you can take your time. Joshua Schachter gradually built Delicious on the side while working on Wall Street. He got away with it because no one else realized it was a good idea.",
+      "translated": "如果你正在从事一些如此不同寻常的工作，以至于其他人不太可能想到，那么你可以慢慢来。Joshua Schachter 在华尔街工作时，逐渐建立了 Delicious。他能够这样做，是因为没有人意识到这是一个好主意。"
+    },
+    {
+      "original": "But if you were building something as obviously necessary as online store software at about the same time as Viaweb, and you were working on it on the side while spending most of your time on client work, you were not in a good position.Bootstrapping sounds great in principle, but this apparently verdant territory is one from which few startups emerge alive.",
+      "translated": "但如果你在与 Viaweb 差不多的时间内开发一些明显必要的东西，比如在线商店软件，而你大部分时间都在为客户工作，只是在业余时间开发这个项目，那么你的处境就不妙了。自助创业听起来在理论上很棒，但这个表面上充满生机的领域，实际上很少有初创公司能够活着走出来。"
+    },
+    {
+      "original": "The mere fact that bootstrapped startups tend to be famous on that account should set off alarm bells. If it worked so well, it would be the norm. [3] Bootstrapping may get easier, because starting a company is getting cheaper.",
+      "translated": "仅仅因为自助创业的公司因此而闻名就应引起警觉。如果这种方法真的那么有效，它就会成为常态。[3] 随着创业成本的降低，自助创业可能会变得更加容易。"
+    },
+    {
+      "original": "But I don't think we'll ever reach the point where most startups can do without outside funding. Technology tends to get dramatically cheaper, but living expenses don't.The upshot is, you can choose your pain: either the short, sharp pain of raising money, or the chronic ache of consulting.",
+      "translated": "但我认为我们永远不会达到大多数初创公司可以不需要外部资金的地步。技术成本往往会大幅降低，但生活成本却不会。结果是，你可以选择你的痛苦：要么是筹集资金的短暂而尖锐的痛苦，要么是咨询工作的长期隐痛。"
+    },
+    {
+      "original": "For a given total amount of pain, raising money is the better choice, because new technology is usually more valuable now than later.But although for most startups raising money will be the lesser evil, it's still a pretty big evil—so big that it can easily kill you.",
+      "translated": "对于给定的总痛苦量，筹集资金是更好的选择，因为新技术通常现在比将来更有价值。但尽管对大多数初创公司来说，筹集资金是较小的恶，这仍然是一个相当大的恶——大到足以轻易置你于死地。"
+    },
+    {
+      "original": "Not merely in the obvious sense that if you fail to raise money you might have to shut the company down, but because the process of raising money itself can kill you.To survive it you need a set of techniques mostly orthogonal to the ones used in convincing investors, just as mountain climbers need to know survival techniques that are mostly orthogonal to those used in physically getting up and down mountains.",
+      "translated": "不仅仅是因为如果你筹不到资金，公司可能会被迫关闭，还因为筹款的过程本身可能会把你逼上绝路。要在这个过程中生存下来，你需要一套与说服投资者所需技巧大部分不同的生存技巧，就像登山者需要掌握的生存技巧与实际攀登上下山所需的技巧大多不同一样。"
+    },
+    {
+      "original": "1. Have low expectations.The reason raising money destroys so many startups' morale is not simply that it's hard, but that it's so much harder than they expected. What kills you is the disappointment.",
+      "translated": "1. 保持低期望。筹集资金摧毁了许多初创公司士气的原因不仅仅在于这很难，更在于它比他们预期的要难得多。真正致命的是失望。"
+    },
+    {
+      "original": "And the lower your expectations, the harder it is to be disappointed.Startup founders tend to be optimistic. This can work well in technology, at least some of the time, but it's the wrong way to approach raising money.",
+      "translated": "而且，你的期望越低，就越难感到失望。创业公司的创始人往往乐观。这种态度在技术领域有时确实能发挥作用，但以这种方式去筹集资金是错误的。"
+    },
+    {
+      "original": "Better to assume investors will always let you down. Acquirers too, while we're at it. At YC one of our secondary mantras is \"Deals fall through.\" No matter what deal you have going on, assume it will fall through.",
+      "translated": "最好假设投资者总是会让你失望。收购方也是如此。在YC，我们的次级座右铭之一是“交易可能会黄”。无论你在进行什么交易，都假设它会黄。"
+    },
+    {
+      "original": "The predictive power of this simple rule is amazing.There will be a tendency, as a deal progresses, to start to believe it will happen, and then to depend on it happening. You must resist this. Tie yourself to the mast.",
+      "translated": "这条简单规则的预测能力令人惊讶。随着交易的推进，你会倾向于开始相信它会发生，然后依赖它会发生。你必须抵制这种倾向。将自己绑在桅杆上。"
+    },
+    {
+      "original": "This is what kills you. Deals do not have a trajectory like most other human interactions, where shared plans solidify linearly over time. Deals often fall through at the last moment. Often the other party doesn't really think about what they want till the last moment.",
+      "translated": "这就是致命的地方。交易不像大多数其他人类互动那样，随着时间的推移，共同的计划会线性地巩固。交易往往在最后一刻告吹。很多时候，另一方直到最后一刻才真正考虑他们想要什么。"
+    },
+    {
+      "original": "So you can't use your everyday intuitions about shared plans as a guide. When it comes to deals, you have to consciously turn them off and become pathologically cynical.This is harder to do than it sounds.",
+      "translated": "因此，你不能用日常对共享计划的直觉作为指导。在处理交易时，你必须有意识地把这些直觉关掉，变得病态地多疑。这比听起来要难做。"
+    },
+    {
+      "original": "It's very flattering when eminent investors seem interested in funding you. It's easy to start to believe that raising money will be quick and straightforward. But it hardly ever is. 2. Keep working on your startup.It sounds obvious to say that you should keep working on your startup while raising money.",
+      "translated": "当著名投资者表现出对资助你的兴趣时，这确实令人感到荣幸。你很容易开始相信筹集资金将是一件快速且简单的事情。但实际上，情况很少如此。2. 继续专注于你的创业项目。听起来很显然，但在筹集资金的同时，你应该继续专注于你的创业项目。"
+    },
+    {
+      "original": "Actually this is hard to do. Most startups don't manage to.Raising money has a mysterious capacity to suck up all your attention. Even if you only have one meeting a day with investors, somehow that one meeting will burn up your whole day.",
+      "translated": "实际上这很难做到。大多数初创公司都做不到。筹集资金有一种神秘的能力，会吸引你所有的注意力。即使你每天只和投资者开一次会，不知怎么的，那次会议就会占用你一整天的时间。"
+    },
+    {
+      "original": "It costs not just the time of the actual meeting, but the time getting there and back, and the time preparing for it beforehand and thinking about it afterward.The best way to survive the distraction of meeting with investors is probably to partition the company: to pick one founder to deal with investors while the others keep the company going.",
+      "translated": "这不仅耗费实际会议的时间，还包括前往和返回的时间，以及会前的准备时间和会后的思考时间。应对与投资者会议所带来的干扰的最好办法可能是将公司分隔开来：指定一名创始人与投资者打交道，而其他人则继续推动公司运作。"
+    },
+    {
+      "original": "This works better when a startup has 3 founders than 2, and better when the leader of the company is not also the lead developer. In the best case, the company keeps moving forward at about half speed.That's the best case, though.",
+      "translated": "这种情况在初创公司有三位创始人时比只有两位时效果更好，而且当公司的领导者不是首席开发人员时效果更佳。在最好的情况下，公司能够以大约一半的速度继续前进。然而，这已经是最好的情况了。"
+    },
+    {
+      "original": "More often than not the company comes to a standstill while raising money. And that is dangerous for so many reasons. Raising money always takes longer than you expect. What seems like it's going to be a 2 week interruption turns into a 4 month interruption.",
+      "translated": "公司往往在筹集资金时陷入停滞。这出于多种原因非常危险。筹集资金总是比预期的时间要长。看似只会中断两周的事情，最终可能会变成四个月的中断。"
+    },
+    {
+      "original": "That can be very demoralizing. And worse still, it can make you less attractive to investors. They want to invest in companies that are dynamic. A company that hasn't done anything new in 4 months doesn't seem dynamic, so they start to lose interest.",
+      "translated": "这会非常打击士气。更糟糕的是，这会让你对投资者的吸引力降低。他们希望投资的公司是充满活力的。一家四个月来没有任何新动作的公司看起来并不充满活力，因此他们开始失去兴趣。"
+    },
+    {
+      "original": "Investors rarely grasp this, but much of what they're responding to when they lose interest in a startup is the damage done by their own indecision.The solution: put the startup first. Fit meetings with investors into the spare moments in your development schedule, rather than doing development in the spare moments between meetings with investors.",
+      "translated": "投资者很少意识到这一点，但他们对初创公司失去兴趣时，很大程度上是由于他们自己犹豫不决造成的损害。解决办法：把初创公司放在第一位。将与投资者的会面安排在开发计划的空档时间，而不是在与投资者会面的间隙挤时间进行开发。"
+    },
+    {
+      "original": "If you keep the company moving forward—releasing new features, increasing traffic, doing deals, getting written about—those investor meetings are more likely to be productive. Not just because your startup will seem more alive, but also because it will be better for your own morale, which is one of the main ways investors judge you.",
+      "translated": "如果你能让公司持续向前发展——发布新功能、增加流量、达成交易、获得媒体报道——那么与投资者的会议更有可能取得成效。这不仅因为你的创业公司看起来更有活力，还因为这能提升你自己的士气，而士气正是投资者评判你的重要标准之一。"
+    },
+    {
+      "original": "3. Be conservative.As conditions get worse, the optimal strategy becomes more conservative. When things go well you can take risks; when things are bad you want to play it safe.I advise approaching fundraising as if it were always going badly.",
+      "translated": "3. 保持保守。随着情况恶化，最优策略变得更加保守。事情顺利时可以承担风险；事情糟糕时则希望稳妥行事。我建议以最坏的情况来对待融资。"
+    },
+    {
+      "original": "The reason is that between your ability to delude yourself and the wildly unstable nature of the system you're dealing with, things probably either already are or could easily become much worse than they seem.What I tell most startups we fund is that if someone reputable offers you funding on reasonable terms, take it.",
+      "translated": "原因在于，由于你自我欺骗的能力和你所处理的系统极不稳定的特性，事情可能已经或者很容易变得比表面上看起来糟糕得多。我告诉大多数我们资助的初创企业的是，如果有一个信誉良好的人以合理的条件提供资金，那就接受吧。"
+    },
+    {
+      "original": "There have been startups that ignored this advice and got away with it—startups that ignored a good offer in the hope of getting a better one, and actually did. But in the same position I'd give the same advice again.",
+      "translated": "有些初创公司忽视了这个建议，但还是侥幸成功了——它们在希望获得更好报价的心理下拒绝了一个不错的提议，最终真的得到了更好的。但如果再次身处同样的境地，我仍会给出相同的建议。"
+    },
+    {
+      "original": "Who knows how many bullets were in the gun they were playing Russian roulette with?Corollary: if an investor seems interested, don't just let them sit. You can't assume someone interested in investing will stay interested.",
+      "translated": "谁知道他们玩俄罗斯轮盘赌的枪里有多少颗子弹？推论：如果投资者似乎感兴趣，不要让他们干等着。你不能假设对投资感兴趣的人会一直保持兴趣。"
+    },
+    {
+      "original": "In fact, you can't even tell (they can't even tell) if they're really interested till you try to convert that interest into money. So if you have hot prospect, either close them now or write them off.",
+      "translated": "事实上，除非你尝试将这种兴趣转化为金钱，否则你甚至无法判断（他们甚至无法判断）他们是否真的感兴趣。所以，如果你有一个热门的潜在客户，要么现在就成交，要么放弃他们。"
+    },
+    {
+      "original": "And unless you already have enough funding, that reduces to: close them now.Startups don't win by getting great funding rounds, but by making great products. So finish raising money and get back to work.",
+      "translated": "除非你已经资金充足，否则这就归结为：现在就关闭它们。创业公司不是通过获得出色的融资轮次来取胜，而是通过打造出色的产品。所以完成融资后，回到工作中去。"
+    },
+    {
+      "original": "4. Be flexible.There are two questions VCs ask that you shouldn't answer: \"Who else are you talking to?\" and \"How much are you trying to raise?\"VCs don't expect you to answer the first question. They ask it just in case.",
+      "translated": "4. 保持灵活性。风投会问你两个问题，但你不必回答：“你还和谁在谈？”和“你打算筹集多少资金？”风投并不指望你回答第一个问题，他们只是以防万一才问。"
+    },
+    {
+      "original": "[4] They do seem to expect an answer to the second. But I don't think you should just tell them a number. Not as a way to play games with them, but because you shouldn't have a fixed amount you need to raise.The custom of a startup needing a fixed amount of funding is an obsolete one left over from the days when startups were more expensive.",
+      "translated": "[4] 他们确实期望你回答第二个问题。但我不认为你应该直接告诉他们一个数字。不是为了和他们玩文字游戏，而是因为你不应该有一个固定的融资目标。初创公司需要固定数额资金的惯例是一种过时的做法，源自初创公司成本更高的时代。"
+    },
+    {
+      "original": "A company that needed to build a factory or hire 50 people obviously needed to raise a certain minimum amount. But few technology startups are in that position today.We advise startups to tell investors there are several different routes they could take depending on how much they raised.",
+      "translated": "一家需要建设工厂或雇佣50人的公司显然需要筹集一定的最低资金。但如今很少有科技初创公司处于这种位置。我们建议初创公司告诉投资者，根据他们筹集的资金多少，有几条不同的发展路径可以选择。"
+    },
+    {
+      "original": "As little as $50k could pay for food and rent for the founders for a year. A couple hundred thousand would let them get office space and hire some smart people they know from school. A couple million would let them really blow this thing out.",
+      "translated": "区区5万美元就能支付创始人们一年的食品和房租。几十万美元则可以让她们租用办公室，并聘请一些从学校认识的聪明人。几百万美元则可以让她们真正大展拳脚。"
+    },
+    {
+      "original": "The message (and not just the message, but the fact) should be: we're going to succeed no matter what. Raising more money just lets us do it faster.If you're raising an angel round, the size of the round can even change on the fly.",
+      "translated": "信息（不仅仅是信息，而是事实）应该是：无论发生什么，我们都会成功。筹集更多的资金只是让我们能够更快地实现目标。如果你正在募集天使轮融资，融资规模甚至可以随时调整。"
+    },
+    {
+      "original": "In fact, it's just as well to make the round small initially, then expand as needed, rather than trying to raise a large round and risk losing the investors you already have if you can't raise the full amount.",
+      "translated": "事实上，最初把融资规模定小一些，然后根据需要逐步扩大，比一开始就试图筹集大额资金要好，因为如果无法筹集到全额，你可能会失去已有的投资者。"
+    },
+    {
+      "original": "You may even want to do a \"rolling close,\" where the round has no predetermined size, but instead you sell stock to investors one at a time as they say yes. That helps break deadlocks, because you can start as soon as the first one is ready to buy.",
+      "translated": "你甚至可以采用“滚动关闭”的方式，这种方式下，融资轮没有预定的规模，而是当投资者同意时，逐一出售股票给他们。这样有助于打破僵局，因为一旦有第一个投资者准备购买，你就可以开始了。"
+    },
+    {
+      "original": "[5] 5. Be independent.A startup with a couple founders in their early twenties can have expenses so low that they could be profitable on as little as $2000 per month. That's negligible as corporate revenues go, but the effect on your morale and your bargaining position is anything but.",
+      "translated": "5. 保持独立。一家由几位二十出头的创始人创办的初创公司，其开支可能低到每月只需2000美元就能实现盈利。对于公司收入来说，这几乎可以忽略不计，但对于你的士气和谈判地位而言，其影响却是不容小觑的。"
+    },
+    {
+      "original": "At YC we use the phrase \"ramen profitable\" to describe the situation where you're making just enough to pay your living expenses. Once you cross into ramen profitable, everything changes. You may still need investment to make it big, but you don't need it this month.You can't plan when you start a startup how long it will take to become profitable.",
+      "translated": "在YC，我们用“拉面盈利”来形容你刚好能够支付生活费用的情况。一旦你达到了拉面盈利的阶段，一切都会发生变化。你可能仍然需要投资来实现大的突破，但你这个月并不需要它。你无法在开始创业时计划多久能实现盈利。"
+    },
+    {
+      "original": "But if you find yourself in a position where a little more effort expended on sales would carry you over the threshold of ramen profitable, do it.Investors like it when you're ramen profitable. It shows you've thought about making money, instead of just working on amusing technical problems; it shows you have the discipline to keep your expenses low; but above all, it means you don't need them.There is nothing investors like more than a startup that seems like it's going to succeed even without them.",
+      "translated": "但如果你发现自己只需在销售上多下一点功夫就能实现拉面盈利，那就去做吧。投资者喜欢看到你拉面盈利。这表明你考虑过如何赚钱，而不仅仅是解决有趣的技术问题；这表明你有控制开支的纪律；但最重要的是，这意味着你不需要他们。投资者最喜欢的是那些即使没有他们也能看起来会成功的初创公司。"
+    },
+    {
+      "original": "Investors like it when they can help a startup, but they don't like startups that would die without that help.At YC we spend a lot of time trying to predict how the startups we've funded will do, because we're trying to learn how to pick winners.",
+      "translated": "投资者喜欢能够帮助初创企业，但他们不喜欢那些没有这种帮助就无法生存的初创企业。在YC，我们花了很多时间试图预测我们资助的初创企业将会如何发展，因为我们正在努力学习如何挑选赢家。"
+    },
+    {
+      "original": "We've now watched the trajectories of so many startups that we're getting better at predicting them. And when we're talking about startups we think are likely to succeed, what we find ourselves saying is things like \"Oh, those guys can take care of themselves.",
+      "translated": "我们现在观察了如此多的创业公司的发展轨迹，以至于我们越来越擅长预测它们的走向。而当我们谈论我们认为有可能成功的创业公司时，我们发现自己会说这样的话：“哦，那些人可以自己搞定一切。”"
+    },
+    {
+      "original": "They'll be fine.\" Not \"those guys are really smart\" or \"those guys are working on a great idea.\" [6] When we predict good outcomes for startups, the qualities that come up in the supporting arguments are toughness, adaptability, determination.",
+      "translated": "他们会没事的。”而不是“那些人真的很聪明”或“那些人正在做一个很棒的主意。”[6] 当我们预测创业公司会有好的结果时，支持这些预测的品质是坚韧、适应能力和决心。"
+    },
+    {
+      "original": "Which means to the extent we're correct, those are the qualities you need to win.Investors know this, at least unconsciously. The reason they like it when you don't need them is not simply that they like what they can't have, but because that quality is what makes founders succeed.Sam Altman has it.",
+      "translated": "这意味着，只要我们是对的，这些就是你获胜所需的品质。投资者知道这一点，至少是潜意识里知道。他们喜欢你不需要他们，并不仅仅是因为他们喜欢得不到的东西，而是因为这种品质正是使创始人成功的关键。萨姆·阿尔特曼就具备这种品质。"
+    },
+    {
+      "original": "You could parachute him into an island full of cannibals and come back in 5 years and he'd be the king. If you're Sam Altman, you don't have to be profitable to convey to investors that you'll succeed with or without them.",
+      "translated": "你可以把他空降到一个满是食人族的岛上，五年后再回来，他会成为岛上的国王。如果你是山姆·阿尔特曼，你不必盈利就能向投资者传达出无论有他们还是没有他们你都会成功的信念。"
+    },
+    {
+      "original": "(He wasn't, and he did.) Not everyone has Sam's deal-making ability. I myself don't. But if you don't, you can let the numbers speak for you. 6. Don't take rejection personally.Getting rejected by investors can make you start to doubt yourself.",
+      "translated": "（他不是，但他做到了。）不是每个人都有山姆那样的谈判能力。我自己也没有。但如果你没有，你可以让数字为你说话。6. 不要把拒绝个人化。被投资者拒绝会让你开始质疑自己。"
+    },
+    {
+      "original": "After all, they're more experienced than you. If they think your startup is lame, aren't they probably right?Maybe, maybe not. The way to handle rejection is with precision. You shouldn't simply ignore rejection.",
+      "translated": "毕竟，他们比你更有经验。如果他们认为你的创业项目不行，他们可能是对的吧？也许，也许不是。应对拒绝的方法是要精准。你不应该简单地忽视拒绝。"
+    },
+    {
+      "original": "It might mean something. But you shouldn't automatically get demoralized either.To understand what rejection means, you have to understand first of all how common it is. Statistically, the average VC is a rejection machine.",
+      "translated": "这可能意味着某些事情。但你也不应该因此而自动气馁。要理解拒绝的意义，首先必须了解拒绝有多么普遍。从统计上看，平均而言，风险投资公司就是一个拒绝机器。"
+    },
+    {
+      "original": "David Hornik, a partner at August, told me: The numbers for me ended up being something like 500 to 800 plans received and read, somewhere between 50 and 100 initial 1 hour meetings held, about 20 companies that I got interested in, about 5 that I got serious about and did a bunch of work, 1 to 2 deals done in a year.",
+      "translated": "August的合伙人David Hornik告诉我：对我而言，这些数字大约是接收到并阅读了500到800份计划书，进行了50到100次初步的一小时会面，约有20家公司引起了我的兴趣，大约5家我认真对待并做了大量工作，每年最终完成1到2笔交易。"
+    },
+    {
+      "original": "So the odds are against you. You may be a great entrepreneur, working on interesting stuff, etc. but it is still incredibly unlikely that you get funded. This is less true with angels, but VCs reject practically everyone.",
+      "translated": "所以，成功的几率对你不利。你可能是一位优秀的创业者，正在从事有趣的项目，等等，但你获得资金支持的可能性仍然极低。这一点在天使投资者身上不太明显，但风险投资家几乎会拒绝所有人。"
+    },
+    {
+      "original": "The structure of their business means a partner does at most 2 new investments a year, no matter how many good startups approach him.In addition to the odds being terrible, the average investor is, as I mentioned, a pretty bad judge of startups.",
+      "translated": "他们的业务结构意味着每个合作伙伴每年最多只做2项新的投资，无论有多少优秀的初创公司找上门来。除了中标的几率很低之外，正如我提到的，普通投资者对初创公司的判断力其实很差。"
+    },
+    {
+      "original": "It's harder to judge startups than most other things, because great startup ideas tend to seem wrong. A good startup idea has to be not just good but novel. And to be both good and novel, an idea probably has to seem bad to most people, or someone would already be doing it and it wouldn't be novel.That makes judging startups harder than most other things one judges.",
+      "translated": "判断初创企业比判断大多数其他事物更难，因为伟大的创业想法往往看似错误。一个好的创业想法不仅要有价值，还必须是新颖的。而要同时具备价值和新颖性，一个想法可能必须让大多数人觉得糟糕，否则就会有人已经在做了，也就不会新颖了。这使得判断初创企业比判断大多数其他事物更困难。"
+    },
+    {
+      "original": "You have to be an intellectual contrarian to be a good startup investor. That's a problem for VCs, most of whom are not particularly imaginative. VCs are mostly money guys, not people who make things.",
+      "translated": "你必须是一个有思想的另类者，才能成为一个优秀的初创企业投资者。这对风险投资家来说是个问题，因为大多数风险投资家并不特别富有想象力。风险投资家大多是金融人士，而不是创造事物的人。"
+    },
+    {
+      "original": "[7] Angels are better at appreciating novel ideas, because most were founders themselves.So when you get a rejection, use the data that's in it, and not what's not. If an investor gives you specific reasons for not investing, look at your startup and ask if they're right.",
+      "translated": "[7] 天使投资人更善于欣赏新奇的想法，因为他们中的大多数本身就是创始人。所以当你遇到拒绝时，要利用其中提供的信息，而不是没有提供的信息。如果投资者给出了不投资的具体理由，看看你的创业项目，问问这些理由是否正确。"
+    },
+    {
+      "original": "If they're real problems, fix them. But don't just take their word for it. You're supposed to be the domain expert; you have to decide.Though a rejection doesn't necessarily tell you anything about your startup, it does suggest your pitch could be improved.",
+      "translated": "如果是真正的问题，就解决它们。但不要只听信他们的说法。你才是领域的专家，必须由你来决定。虽然拒绝并不一定说明你的初创公司有什么问题，但它确实暗示你的推销方式可能需要改进。"
+    },
+    {
+      "original": "Figure out what's not working and change it. Don't just think \"investors are stupid.\" Often they are, but figure out precisely where you lose them.Don't let rejections pile up as a depressing, undifferentiated heap.",
+      "translated": "找出问题所在并加以改变。不要简单地认为“投资者很愚蠢”。虽然他们很多时候确实是，但要准确地找出你在哪个环节失去了他们。不要让拒绝积累成一堆令人沮丧、无从区分的垃圾。"
+    },
+    {
+      "original": "Sort them and analyze them, and then instead of thinking \"no one likes us,\" you'll know precisely how big a problem you have, and what to do about it. 7. Be able to downshift into consulting (if appropriate).Consulting, as I mentioned, is a dangerous way to finance a startup.",
+      "translated": "将它们分类并进行分析，然后你就不会只是想“没有人喜欢我们”，而是能够准确地知道问题的严重程度以及应对的方法。7. 能够适时转型为咨询服务（如果合适的话）。如我之前所说，咨询是一种危险的创业融资方式。"
+    },
+    {
+      "original": "But it's better than dying. It's a bit like anaerobic respiration: not the optimum solution for the long term, but it can save you from an immediate threat. If you're having trouble raising money from investors at all, it could save you to be able to shift toward consulting.This works better for some startups than others.",
+      "translated": "但这总比消亡好。这有点像无氧呼吸：不是长期的最佳解决方案，但可以让你摆脱眼前的威胁。如果你根本无法从投资者那里筹集到资金，转向咨询业务可能会救你一命。这种方法对某些初创公司更有效。"
+    },
+    {
+      "original": "It wouldn't have been a natural fit for, say, Google, but if your company was making software for building web sites, you could degrade fairly gracefully into consulting by building sites for clients with it.So long as you were careful not to get sucked permanently into consulting, this could even have advantages.",
+      "translated": "对于像谷歌这样的公司来说，这可能不是一个自然的选择，但如果你的公司正在开发用于构建网站的软件，你可以通过为客户提供网站构建服务而较为平滑地转型为咨询服务。只要小心不要永久陷入咨询服务，这样做甚至可能带来一些优势。"
+    },
+    {
+      "original": "You'd understand your users well if you were using the software for them. Plus as a consulting company you might be able to get big-name users using your software that you wouldn't have gotten as a product company.At Viaweb we were forced to operate like a consulting company initially, because we were so desperate for users that we'd offer to build merchants' sites for them if they'd sign up.",
+      "translated": "如果你为用户使用软件，你会很好地理解他们。此外，作为一家咨询公司，你可能会吸引到一些大牌用户使用你们的软件，而这些用户作为产品公司你可能无法吸引到。在Viaweb，我们最初被迫像咨询公司那样运营，因为我们非常渴望用户，以至于我们愿意为商户建立网站，只要他们能签约使用我们的服务。"
+    },
+    {
+      "original": "But we never charged for such work, because we didn't want them to start treating us like actual consultants, and calling us every time they wanted something changed on their site. We knew we had to stay a product company, because only that scales.",
+      "translated": "但我们从未对这类工作收费，因为我们不希望他们开始把我们当作真正的顾问，每次想要修改他们的网站时就给我们打电话。我们知道我们必须保持作为一家产品公司的定位，因为只有这样才具有可扩展性。"
+    },
+    {
+      "original": "8. Avoid inexperienced investors.Though novice investors seem unthreatening they can be the most dangerous sort, because they're so nervous. Especially in proportion to the amount they invest. Raising $20,000 from a first-time angel investor can be as much work as raising $2 million from a VC fund.Their lawyers are generally inexperienced too.",
+      "translated": "8. 避免没有经验的投资者。虽然初学者投资者看似没有威胁，但他们可能是最危险的，因为他们非常紧张。尤其是在他们投资的金额与所带来麻烦的比例上。从一位首次进行天使投资的投资者那里筹集2万美元可能和从风险投资基金筹集200万美元一样费力。他们的律师通常也缺乏经验。"
+    },
+    {
+      "original": "But while the investors can admit they don't know what they're doing, their lawyers can't. One YC startup negotiated terms for a tiny round with an angel, only to receive a 70-page agreement from his lawyer.",
+      "translated": "但投资者可以承认他们不知道自己在做什么，而他们的律师却不能。有一家YC初创公司在与一位天使投资者协商小额融资的条款时，却收到了该投资者律师发来的长达70页的协议。"
+    },
+    {
+      "original": "And since the lawyer could never admit, in front of his client, that he'd screwed up, he instead had to insist on retaining all the draconian terms in it, so the deal fell through.Of course, someone has to take money from novice investors, or there would never be any experienced ones.",
+      "translated": "由于律师在客户面前绝不能承认自己犯了错，所以他坚持保留合同中所有严苛的条款，结果交易告吹。当然，总得有人从新手投资者那里赚到钱，不然就不会有经验丰富的投资者了。"
+    },
+    {
+      "original": "But if you do, either (a) drive the process yourself, including supplying the paperwork, or (b) use them only to fill up a larger round led by someone else. 9. Know where you stand.The most dangerous thing about investors is their indecisiveness.",
+      "translated": "但如果你决定这样做，要么（a）自己主导整个过程，包括提供所有文件，要么（b）仅使用他们来补充由其他人主导的更大一轮融资。9. 了解自己的立场。投资者最危险的地方在于他们的犹豫不决。"
+    },
+    {
+      "original": "The worst case scenario is the long no, the no that comes after months of meetings. Rejections from investors are like design flaws: inevitable, but much less costly if you discover them early.So while you're talking to investors, constantly look for signs of where you stand.",
+      "translated": "最糟糕的情况是长时间的拒绝，那种在几个月的会议之后才出现的拒绝。投资者的拒绝就像设计缺陷：不可避免，但如果及早发现，成本要低得多。因此，在与投资者交谈时，要不断寻找表明你处境的迹象。"
+    },
+    {
+      "original": "How likely are they to offer you a term sheet? What do they have to be convinced of first? You shouldn't necessarily always be asking these questions outright—that could get annoying—but you should always be collecting data about them.Investors tend to resist committing except to the extent you push them to.",
+      "translated": "他们给你提供条款清单的可能性有多大？他们首先需要被说服什么？你不必总是直接问这些问题——这可能会让人厌烦——但你应该始终收集有关他们的信息。投资者通常会抵制承诺，除非你敦促他们这样做。"
+    },
+    {
+      "original": "It's in their interest to collect the maximum amount of information while making the minimum number of decisions. The best way to force them to act is, of course, competing investors. But you can also apply some force by focusing the discussion: by asking what specific questions they need answered to make up their minds, and then answering them.",
+      "translated": "他们有兴趣收集尽可能多的信息，同时做出尽可能少的决策。迫使他们采取行动的最好方法当然是竞争的投资者。但你也可以通过集中讨论来施加一些压力：询问他们需要解答的具体问题，然后回答这些问题。"
+    },
+    {
+      "original": "If you get through several obstacles and they keep raising new ones, assume that ultimately they're going to flake.You have to be disciplined when collecting data about investors' intentions. Otherwise their desire to lead you on will combine with your own desire to be led on to produce completely inaccurate impressions.Use the data to weight your strategy.",
+      "translated": "如果你克服了几个障碍，但他们不断提出新的障碍，可以假设最终他们会放鸽子。在收集投资者意向的数据时，你必须保持自律。否则，他们希望误导你的愿望会与你自己愿意被误导的愿望结合，产生完全不准确的印象。利用这些数据来调整你的策略。"
+    },
+    {
+      "original": "You'll probably be talking to several investors. Focus on the ones that are most likely to say yes. The value of a potential investor is a combination of how good it would be if they said yes, and how likely they are to say it.",
+      "translated": "你可能会与多位投资者交谈。重点关注那些最有可能说“是”的人。潜在投资者的价值在于他们同意投资会有多好，以及他们同意的可能性有多大。"
+    },
+    {
+      "original": "Put the most weight on the second factor. Partly because the most important quality in an investor is simply investing. But also because, as I mentioned, the biggest factor in investors' opinion of you is other investors' opinion of you.",
+      "translated": "应将最大的权重放在第二个因素上。部分原因在于，投资者最重要的品质就是进行投资。但同时也因为，正如我所提到的，投资者对你的看法很大程度上取决于其他投资者对你的看法。"
+    },
+    {
+      "original": "If you're talking to several investors and you manage to get one over the threshold of saying yes, it will make the others much more interested. So you're not sacrificing the lukewarm investors if you focus on the hot ones; convincing the hot investors is the best way to convince the lukewarm ones.",
+      "translated": "如果你在与多位投资者交谈，并成功让其中一位越过说“是”的门槛，这会让其他投资者更加感兴趣。因此，如果你专注于那些热情的投资者，你并没有牺牲那些 lukewarm（ lukewarm 在此处指兴趣不大的）投资者；说服热情的投资者是说服那些兴趣不大的投资者的最佳方式。"
+    },
+    {
+      "original": "FutureI'm hopeful things won't always be so awkward. I hope that as startups get cheaper and the number of investors increases, raising money will become, if not easy, at least straightforward.In the meantime, the brokenness of the funding process offers a big opportunity.",
+      "translated": "未来，我希望事情不会一直这么尴尬。我希望随着创业公司的成本降低和投资者数量的增加，融资虽然不会变得容易，但至少会变得直接。在此期间，融资过程中的缺陷提供了一个巨大的机会。"
+    },
+    {
+      "original": "Most investors have no idea how dangerous they are. They'd be surprised to hear that raising money from them is something that has to be treated as a threat to a company's survival. They just think they need a little more information to make up their minds.",
+      "translated": "大多数投资者根本不知道他们有多危险。如果听说从他们那里筹集资金被视为对公司生存的威胁，他们会感到惊讶。他们只是认为自己需要更多信息来做出决定。"
+    },
+    {
+      "original": "They don't get that there are 10 other investors who also want a little more information, and that the process of talking to them all can bring a startup to a standstill for months.Because investors don't understand the cost of dealing with them, they don't realize how much room there is for a potential competitor to undercut them.",
+      "translated": "他们不明白还有其他10位投资者也想要更多的信息，而与所有这些投资者沟通的过程可能会让一家创业公司停滞不前数月。由于投资者不理解与他们打交道的成本，他们没有意识到潜在的竞争者有多大的空间可以低于他们的条件。"
+    },
+    {
+      "original": "I know from my own experience how much faster investors could decide, because we've brought our own time down to 20 minutes (5 minutes of reading an application plus a 10 minute interview plus 5 minutes of discussion).",
+      "translated": "根据我自己的经验，我知道投资者的决策速度可以大幅提升，因为我们已经将整个流程时间缩短至20分钟（阅读申请材料5分钟，面试10分钟，讨论5分钟）。"
+    },
+    {
+      "original": "If you were investing more money you'd want to take longer, of course. But if we can decide in 20 minutes, should it take anyone longer than a couple days?Opportunities like this don't sit unexploited forever, even in an industry as conservative as venture capital.",
+      "translated": "如果你投入更多的资金，当然希望花更长的时间来决定。但如果我们能在20分钟内做出决定，为什么其他人需要超过几天的时间呢？像这样的机会不会永远不被利用，即使是在像风险投资这样保守的行业中。"
+    },
+    {
+      "original": "So either existing investors will start to make up their minds faster, or new investors will emerge who do.In the meantime founders have to treat raising money as a dangerous process. Fortunately, I can fix the biggest danger right here.",
+      "translated": "所以，要么现有的投资者将开始更快地做出决定，要么会出现新的投资者来做这件事。在此期间，创始人必须将筹集资金视为一个危险的过程。幸运的是，我可以在这里解决最大的危险。"
+    },
+    {
+      "original": "The biggest danger is surprise. It's that startups will underestimate the difficulty of raising money—that they'll cruise through all the initial steps, but when they turn to raising money they'll find it surprisingly hard, get demoralized, and give up.",
+      "translated": "最大的危险在于意外。创业公司可能会低估筹集资金的难度——它们可能会顺利地完成所有初期步骤，但当转向筹集资金时，会发现这出乎意料地艰难，从而灰心丧气，最终放弃。"
+    },
+    {
+      "original": "So I'm telling you in advance: raising money is hard.Notes[1] When investors can't make up their minds, they sometimes describe it as if it were a property of the startup. \"You're too early for us,\" they sometimes say.",
+      "translated": "所以我要提前告诉你：融资很难。当投资者拿不定主意时，他们有时会把这描述成初创企业的某种属性。“你们对我们来说太早了，”他们有时会这样说。"
+    },
+    {
+      "original": "But which of them, if they were taken back in a time machine to the hour Google was founded, wouldn't offer to invest at any valuation the founders chose? An hour old is not too early if it's the right startup.",
+      "translated": "但如果把他们通过时光机带回谷歌成立的那一刻，有谁不会愿意以创始人选择的任何估值进行投资呢？对于正确的创业公司来说，成立一小时也并不算太早。"
+    },
+    {
+      "original": "What \"you're too early\" really means is \"we can't figure out yet whether you'll succeed.\" [2] Investors influence one another both directly and indirectly. They influence one another directly through the \"buzz\" that surrounds a hot startup.",
+      "translated": "“你太早了”真正意味着“我们还无法判断你是否能成功。”[2] 投资者之间既直接又间接地相互影响。他们通过围绕一个热门初创公司形成的“炒作”直接相互影响。"
+    },
+    {
+      "original": "But they also influence one another indirectly through the founders. When a lot of investors are interested in you, it increases your confidence in a way that makes you much more attractive to investors.No VC will admit they're influenced by buzz.",
+      "translated": "但他们也通过创始人间接地相互影响。当许多投资者对你感兴趣时，这会以一种方式增强你的信心，使你对投资者更具吸引力。没有风险投资家会承认他们受市场热度的影响。"
+    },
+    {
+      "original": "Some genuinely aren't. But there are few who can say they're not influenced by confidence.[3] One VC who read this essay wrote:\"We try to avoid companies that got bootstrapped with consulting. It creates very bad behaviors/instincts that are hard to erase from a company's culture.\"[4] The optimal way to answer the first question is to say that it would be improper to name names, while simultaneously implying that you're talking to a bunch of other VCs who are all about to give you term sheets.",
+      "translated": "有些人确实不是这样。但很少有人能说自己完全不受自信的影响。一位读过这篇文章的风险投资家写道：“我们尽量避免投资那些靠咨询业务起步的公司。这会在公司文化中养成非常不好的行为/本能，很难根除。”回答第一个问题的最佳方式是说点名道姓是不恰当的，同时暗示你正在与其他多位风险投资家交谈，他们都即将给你提供投资条款。"
+    },
+    {
+      "original": "If you're the sort of person who understands how to do that, go ahead. If not, don't even try. Nothing annoys VCs more than clumsy efforts to manipulate them.[5] The disadvantage of expanding a round on the fly is that the valuation is fixed at the start, so if you get a sudden rush of interest, you may have to decide between turning some investors away and selling more of the company than you meant to.",
+      "translated": "如果你是那种知道如何做到这一点的人，那就去做吧。如果不是，就不要尝试。没有什么比笨拙地试图操控风投更让风投恼火的了。[5] 在进行中扩大融资轮次的缺点是，估值在一开始就固定了，所以如果你突然收到了大量兴趣，你可能不得不在拒绝一些投资者和出售比原计划更多的公司股份之间做出选择。"
+    },
+    {
+      "original": "That's a good problem to have, however.[6] I wouldn't say that intelligence doesn't matter in startups. We're only comparing YC startups, who've already made it over a certain threshold.[7] But not all are.",
+      "translated": "然而，这是一个不错的问题。我并不是说智力在创业公司中不重要。我们只是在比较已经跨过某一门槛的YC创业公司。但并非所有公司都是如此。"
+    },
+    {
+      "original": "Though most VCs are suits at heart, the most successful ones tend not to be. Oddly enough, the best VCs tend to be the least VC-like. Thanks to Trevor Blackwell, David Hornik, Jessica Livingston, Robert Morris, and Fred Wilson for reading drafts of this.Russian Translation",
+      "translated": "尽管大多数风投家内心都是西装革履的，但最成功的那些往往不是这样。出乎意料的是，最好的风投家往往是那些最不像风投家的。感谢 Trevor Blackwell、David Hornik、Jessica Livingston、Robert Morris 和 Fred Wilson 阅读本文的草稿。"
+    }
+  ],
+  "translation_completed": "2025-07-28T21:49:50.745774",
+  "translation_stats": {
+    "total_paragraphs": 100,
+    "success_count": 100,
+    "success_rate": "100.0%"
+  }
+}

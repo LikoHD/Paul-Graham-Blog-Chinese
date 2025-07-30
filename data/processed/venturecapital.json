@@ -1,0 +1,174 @@
+{
+  "title": "A Unified Theory of VC Suckage",
+  "title_zh": "[待翻译] A Unified Theory of VC Suckage",
+  "url": "https://www.paulgraham.com/venturecapital.html",
+  "filename": "venturecapital.html",
+  "date": "2005-03-01",
+  "id": 206,
+  "content": {
+    "success": true,
+    "paragraphs": [
+      "March 2005A couple months ago I got an email from a recruiter asking if I was interested in being a \"technologist in residence\" at a new venture capital fund. I think the idea was to play Karl Rove to the VCs' George Bush.I considered it for about four seconds.",
+      "Work for a VC fund? Ick.One of my most vivid memories from our startup is going to visit Greylock, the famous Boston VCs. They were the most arrogant people I've met in my life. And I've met a lot of arrogant people.",
+      "[1]I'm not alone in feeling this way, of course. Even a VC friend of mine dislikes VCs. \"Assholes,\" he says.But lately I've been learning more about how the VC world works, and a few days ago it hit me that there's a reason VCs are the way they are.",
+      "It's not so much that the business attracts jerks, or even that the power they wield corrupts them. The real problem is the way they're paid.The problem with VC funds is that they're funds. Like the managers of mutual funds or hedge funds, VCs get paid a percentage of the money they manage: about 2% a year in management fees, plus a percentage of the gains.",
+      "So they want the fund to be huge-- hundreds of millions of dollars, if possible. But that means each partner ends up being responsible for investing a lot of money. And since one person can only manage so many deals, each deal has to be for multiple millions of dollars.This turns out to explain nearly all the characteristics of VCs that founders hate.It explains why VCs take so agonizingly long to make up their minds, and why their due diligence feels like a body cavity search.",
+      "[2] With so much at stake, they have to be paranoid.It explains why they steal your ideas. Every founder knows that VCs will tell your secrets to your competitors if they end up investing in them. It's not unheard of for VCs to meet you when they have no intention of funding you, just to pick your brain for a competitor.",
+      "This prospect makes naive founders clumsily secretive. Experienced founders treat it as a cost of doing business. Either way it sucks. But again, the only reason VCs are so sneaky is the giant deals they do.",
+      "With so much at stake, they have to be devious.It explains why VCs tend to interfere in the companies they invest in. They want to be on your board not just so that they can advise you, but so that they can watch you.",
+      "Often they even install a new CEO. Yes, he may have extensive business experience. But he's also their man: these newly installed CEOs always play something of the role of a political commissar in a Red Army unit.",
+      "With so much at stake, VCs can't resist micromanaging you.The huge investments themselves are something founders would dislike, if they realized how damaging they can be. VCs don't invest $x million because that's the amount you need, but because that's the amount the structure of their business requires them to invest.",
+      "Like steroids, these sudden huge investments can do more harm than good. Google survived enormous VC funding because it could legitimately absorb large amounts of money. They had to buy a lot of servers and a lot of bandwidth to crawl the whole Web.",
+      "Less fortunate startups just end up hiring armies of people to sit around having meetings.In principle you could take a huge VC investment, put it in treasury bills, and continue to operate frugally.",
+      "You just try it.And of course giant investments mean giant valuations. They have to, or there's not enough stock left to keep the founders interested. You might think a high valuation is a great thing.",
+      "Many founders do. But you can't eat paper. You can't benefit from a high valuation unless you can somehow achieve what those in the business call a \"liquidity event,\" and the higher your valuation, the narrower your options for doing that.",
+      "Many a founder would be happy to sell his company for $15 million, but VCs who've just invested at a pre-money valuation of $8 million won't hear of that. You're rolling the dice again, whether you like it or not.Back in 1997, one of our competitors raised $20 million in a single round of VC funding.",
+      "This was at the time more than the valuation of our entire company. Was I worried? Not at all: I was delighted. It was like watching a car you're chasing turn down a street that you know has no outlet.Their smartest move at that point would have been to take every penny of the $20 million and use it to buy us.",
+      "We would have sold. Their investors would have been furious of course. But I think the main reason they never considered this was that they never imagined we could be had so cheap. They probably assumed we were on the same VC gravy train they were.In fact we only spent about $2 million in our entire existence.",
+      "And that gave us flexibility. We could sell ourselves to Yahoo for $50 million, and everyone was delighted. If our competitor had done that, the last round of investors would presumably have lost money.",
+      "I assume they could have vetoed such a deal. But no one those days was paying a lot more than Yahoo. So unless their founders could pull off an IPO (which would be difficult with Yahoo as a competitor), they had no choice but to ride the thing down.The puffed-up companies that went public during the Bubble didn't do it just because they were pulled into it by unscrupulous investment bankers.",
+      "Most were pushed just as hard from the other side by VCs who'd invested at high valuations, leaving an IPO as the only way out. The only people dumber were retail investors. So it was literally IPO or bust.",
+      "Or rather, IPO then bust, or just bust.Add up all the evidence of VCs' behavior, and the resulting personality is not attractive. In fact, it's the classic villain: alternately cowardly, greedy, sneaky, and overbearing.I used to take it for granted that VCs were like this.",
+      "Complaining that VCs were jerks used to seem as naive to me as complaining that users didn't read the reference manual. Of course VCs were jerks. How could it be otherwise?But I realize now that they're not intrinsically jerks.",
+      "VCs are like car salesmen or bureaucrats: the nature of their work turns them into jerks.I've met a few VCs I like. Mike Moritz seems a good guy. He even has a sense of humor, which is almost unheard of among VCs.",
+      "From what I've read about John Doerr, he sounds like a good guy too, almost a hacker. But they work for the very best VC funds. And my theory explains why they'd tend to be different: just as the very most popular kids don't have to persecute nerds, the very best VCs don't have to act like VCs.",
+      "They get the pick of all the best deals. So they don't have to be so paranoid and sneaky, and they can choose those rare companies, like Google, that will actually benefit from the giant sums they're compelled to invest.VCs often complain that in their business there's too much money chasing too few deals.",
+      "Few realize that this also describes a flaw in the way funding works at the level of individual firms.Perhaps this was the sort of strategic insight I was supposed to come up with as a \"technologist in residence.\" If so, the good news is that they're getting it for free.",
+      "The bad news is it means that if you're not one of the very top funds, you're condemned to be the bad guys.Notes[1] After Greylock booted founder Philip Greenspun out of ArsDigita, he wrote a hilarious but also very informative essay about it.",
+      "[2] Since most VCs aren't tech guys, the technology side of their due diligence tends to be like a body cavity search by someone with a faulty knowledge of human anatomy. After a while we were quite sore from VCs attempting to probe our nonexistent database orifice.No, we don't use Oracle.",
+      "We just store the data in files. Our secret is to use an OS that doesn't lose our data. Which OS? FreeBSD. Why do you use that instead of Windows NT? Because it's better and it doesn't cost anything.",
+      "What, you're using a freeware OS?How many times that conversation was repeated. Then when we got to Yahoo, we found they used FreeBSD and stored their data in files too.Chinese TranslationJapanese Translation"
+    ],
+    "word_count": 1447,
+    "paragraph_count": 30
+  },
+  "processed_at": "2025-07-26T19:08:09.310156",
+  "paragraphs": [
+    {
+      "original": "March 2005A couple months ago I got an email from a recruiter asking if I was interested in being a \"technologist in residence\" at a new venture capital fund. I think the idea was to play Karl Rove to the VCs' George Bush.I considered it for about four seconds.",
+      "translated": "2005年3月，几个月前我收到了一位招聘人员的电子邮件，询问我是否有兴趣成为一家新风险资本基金的“驻场技术专家”。我想这个角色的定位是像卡尔·罗夫之于风险投资家的乔治·布什。我考虑了大约四秒钟。"
+    },
+    {
+      "original": "Work for a VC fund? Ick.One of my most vivid memories from our startup is going to visit Greylock, the famous Boston VCs. They were the most arrogant people I've met in my life. And I've met a lot of arrogant people.",
+      "translated": "在风投基金工作？讨厌。我最清晰的记忆之一就是我们初创公司去波士顿拜访著名的Greylock风投。他们是我这辈子见过的最傲慢的人。而我见过的傲慢的人可不少。"
+    },
+    {
+      "original": "[1]I'm not alone in feeling this way, of course. Even a VC friend of mine dislikes VCs. \"Assholes,\" he says.But lately I've been learning more about how the VC world works, and a few days ago it hit me that there's a reason VCs are the way they are.",
+      "translated": "当然，我并不是唯一有这种感觉的人。就连我的一位风险投资（VC）朋友也讨厌VC。“混蛋，”他会这么说。但最近我开始更多地了解风险投资界的工作方式，前几天我突然意识到，VC之所以会这样，是有原因的。"
+    },
+    {
+      "original": "It's not so much that the business attracts jerks, or even that the power they wield corrupts them. The real problem is the way they're paid.The problem with VC funds is that they're funds. Like the managers of mutual funds or hedge funds, VCs get paid a percentage of the money they manage: about 2% a year in management fees, plus a percentage of the gains.",
+      "translated": "问题不在于这个行业吸引了多少混蛋，甚至也不在于他们手中的权力会腐化他们。真正的问题在于他们的薪酬方式。风险投资基金的问题就在于它是一种基金。与共同基金或对冲基金的管理者一样，风险投资者会获得他们管理资金的一个百分比作为报酬：每年约2%的管理费用，加上收益的一部分。"
+    },
+    {
+      "original": "So they want the fund to be huge-- hundreds of millions of dollars, if possible. But that means each partner ends up being responsible for investing a lot of money. And since one person can only manage so many deals, each deal has to be for multiple millions of dollars.This turns out to explain nearly all the characteristics of VCs that founders hate.It explains why VCs take so agonizingly long to make up their minds, and why their due diligence feels like a body cavity search.",
+      "translated": "所以他们希望基金规模庞大——如果可能的话，达到数亿美元。但这意味着每个合伙人最终都要负责投资大量资金。由于一个人只能管理有限的交易数量，每笔交易必须涉及数百万美元。这几乎解释了创始人讨厌的风险投资家的所有特点。它解释了为什么风险投资家在做决定时如此痛苦地拖延，以及为什么他们的尽职调查感觉像是一次身体内部检查。"
+    },
+    {
+      "original": "[2] With so much at stake, they have to be paranoid.It explains why they steal your ideas. Every founder knows that VCs will tell your secrets to your competitors if they end up investing in them. It's not unheard of for VCs to meet you when they have no intention of funding you, just to pick your brain for a competitor.",
+      "translated": "[2] 既然有如此多的利益攸关，他们必须保持警惕。这解释了他们为什么会窃取你的想法。每位创始人都知道，如果风险投资家最终投资了他们的竞争对手，他们就会把你的秘密透露给对方。风险投资家在没有意向投资你的情况下与你见面，只是为了从你这里获取信息以帮助竞争对手，这也不是什么稀奇事。"
+    },
+    {
+      "original": "This prospect makes naive founders clumsily secretive. Experienced founders treat it as a cost of doing business. Either way it sucks. But again, the only reason VCs are so sneaky is the giant deals they do.",
+      "translated": "这种前景让初出茅庐的创始人显得笨拙而保密。经验丰富的创始人则将其视为做生意的成本。无论如何，这都不是什么好事。但话说回来，风险投资家之所以如此狡猾，是因为他们做的交易规模巨大。"
+    },
+    {
+      "original": "With so much at stake, they have to be devious.It explains why VCs tend to interfere in the companies they invest in. They want to be on your board not just so that they can advise you, but so that they can watch you.",
+      "translated": "由于利益攸关，他们不得不耍手段。这解释了为什么风险投资家往往会干涉他们投资的公司。他们想进入你的董事会，不仅是为了给你提建议，也是为了监视你。"
+    },
+    {
+      "original": "Often they even install a new CEO. Yes, he may have extensive business experience. But he's also their man: these newly installed CEOs always play something of the role of a political commissar in a Red Army unit.",
+      "translated": "他们通常甚至会任命一位新CEO。是的，他可能拥有丰富的商业经验。但他同时也是他们的代理人：这些新任命的CEO总是在某种程度上扮演着红军单位中政治委员的角色。"
+    },
+    {
+      "original": "With so much at stake, VCs can't resist micromanaging you.The huge investments themselves are something founders would dislike, if they realized how damaging they can be. VCs don't invest $x million because that's the amount you need, but because that's the amount the structure of their business requires them to invest.",
+      "translated": "由于利害关系重大，风险投资家忍不住要对你的工作进行微观管理。巨额投资本身是创始人不喜欢的，如果他们意识到这些投资可能会有多大的破坏性。风险投资家投资数百万美元，并不是因为你需要这个数额，而是因为他们的业务结构要求他们必须投资这个数额。"
+    },
+    {
+      "original": "Like steroids, these sudden huge investments can do more harm than good. Google survived enormous VC funding because it could legitimately absorb large amounts of money. They had to buy a lot of servers and a lot of bandwidth to crawl the whole Web.",
+      "translated": "像类固醇一样，这些突然的大额投资可能会弊大于利。谷歌能够承受巨额的风险投资，因为它确实有能力吸收大量资金。他们需要购买大量的服务器和带宽来抓取整个网络。"
+    },
+    {
+      "original": "Less fortunate startups just end up hiring armies of people to sit around having meetings.In principle you could take a huge VC investment, put it in treasury bills, and continue to operate frugally.",
+      "translated": "不那么幸运的初创公司最终只是雇用了一大批人来开会。原则上，你可以接受一笔巨大的风险投资，将其存入国库券，然后继续节俭运营。"
+    },
+    {
+      "original": "You just try it.And of course giant investments mean giant valuations. They have to, or there's not enough stock left to keep the founders interested. You might think a high valuation is a great thing.",
+      "translated": "你不妨试试看。当然，巨额投资意味着巨大的估值。必须如此，否则就没有足够的股份来保持创始人对公司的兴趣。你可能会认为高估值是一件好事。"
+    },
+    {
+      "original": "Many founders do. But you can't eat paper. You can't benefit from a high valuation unless you can somehow achieve what those in the business call a \"liquidity event,\" and the higher your valuation, the narrower your options for doing that.",
+      "translated": "许多创始人确实如此。但你不能靠纸张充饥。除非你能实现业内所说的“流动性事件”，否则高估值对你并无实际益处，而且估值越高，实现这一目标的选项就越有限。"
+    },
+    {
+      "original": "Many a founder would be happy to sell his company for $15 million, but VCs who've just invested at a pre-money valuation of $8 million won't hear of that. You're rolling the dice again, whether you like it or not.Back in 1997, one of our competitors raised $20 million in a single round of VC funding.",
+      "translated": "许多创始人会乐于以1500万美元的价格出售自己的公司，但刚刚以800万美元的投前估值进行投资的风险投资家是不会同意的。无论你是否愿意，你都得再次冒险。1997年，我们的一个竞争对手在一轮风险投资中筹集了2000万美元。"
+    },
+    {
+      "original": "This was at the time more than the valuation of our entire company. Was I worried? Not at all: I was delighted. It was like watching a car you're chasing turn down a street that you know has no outlet.Their smartest move at that point would have been to take every penny of the $20 million and use it to buy us.",
+      "translated": "这在当时超过了我们整个公司的估值。我担心吗？一点也不：我非常高兴。这就像看着你正在追逐的汽车拐进了一条你明知没有出路的街道。那时他们最明智的举动应该是拿出那2000万美元的每一分钱来收购我们。"
+    },
+    {
+      "original": "We would have sold. Their investors would have been furious of course. But I think the main reason they never considered this was that they never imagined we could be had so cheap. They probably assumed we were on the same VC gravy train they were.In fact we only spent about $2 million in our entire existence.",
+      "translated": "我们本来可以被卖掉的。他们的投资者当然会非常愤怒。但我认为他们从未考虑过这一点的主要原因是，他们从未想象过我们能以如此低廉的价格被收购。他们可能以为我们和他们一样，也在享受着风险投资的盛宴。事实上，我们整个存续期间只花费了大约200万美元。"
+    },
+    {
+      "original": "And that gave us flexibility. We could sell ourselves to Yahoo for $50 million, and everyone was delighted. If our competitor had done that, the last round of investors would presumably have lost money.",
+      "translated": "这给了我们灵活性。我们可以以5000万美元的价格将自己卖给雅虎，每个人都非常高兴。如果我们的竞争对手这样做，上一轮的投资者可能会亏钱。"
+    },
+    {
+      "original": "I assume they could have vetoed such a deal. But no one those days was paying a lot more than Yahoo. So unless their founders could pull off an IPO (which would be difficult with Yahoo as a competitor), they had no choice but to ride the thing down.The puffed-up companies that went public during the Bubble didn't do it just because they were pulled into it by unscrupulous investment bankers.",
+      "translated": "我假设他们本来可以否决这样的交易。但在那个时候，没有人愿意出比雅虎更高的价格。所以除非他们的创始人能够成功进行首次公开募股（但在雅虎这样的竞争对手存在的情况下，这将非常困难），否则他们别无选择，只能眼睁睁看着公司下滑。那些在互联网泡沫期间上市的虚胖公司，并不是仅仅因为被不道德的投资银行家拉下水才这么做的。"
+    },
+    {
+      "original": "Most were pushed just as hard from the other side by VCs who'd invested at high valuations, leaving an IPO as the only way out. The only people dumber were retail investors. So it was literally IPO or bust.",
+      "translated": "大多数公司也受到了高估值投资的风险投资人的大力推动，使IPO成为唯一的出路。唯一比他们更蠢的是散户投资者。所以，这简直是不IPO就完蛋。"
+    },
+    {
+      "original": "Or rather, IPO then bust, or just bust.Add up all the evidence of VCs' behavior, and the resulting personality is not attractive. In fact, it's the classic villain: alternately cowardly, greedy, sneaky, and overbearing.I used to take it for granted that VCs were like this.",
+      "translated": "或者更确切地说，上市后破产，或者直接破产。综合所有关于风险投资家行为的证据，得出的性格特征并不讨人喜欢。事实上，这就是典型的反派角色：时而胆小，时而贪婪，时而狡猾，时而专横。我过去一直认为风险投资家就是这样的。"
+    },
+    {
+      "original": "Complaining that VCs were jerks used to seem as naive to me as complaining that users didn't read the reference manual. Of course VCs were jerks. How could it be otherwise?But I realize now that they're not intrinsically jerks.",
+      "translated": "抱怨风险投资家们是混蛋曾经在我看来和抱怨用户不读参考手册一样幼稚。当然，风险投资家们是混蛋。这怎么可能不是这样呢？但现在我意识到，他们并不是天生如此。"
+    },
+    {
+      "original": "VCs are like car salesmen or bureaucrats: the nature of their work turns them into jerks.I've met a few VCs I like. Mike Moritz seems a good guy. He even has a sense of humor, which is almost unheard of among VCs.",
+      "translated": "风险投资家就像汽车销售员或官僚：工作的性质使他们变成了混蛋。我遇到过几个我喜欢的风险投资家。迈克·莫里茨似乎是个好人。他甚至有幽默感，在风险投资家中几乎是闻所未闻的。"
+    },
+    {
+      "original": "From what I've read about John Doerr, he sounds like a good guy too, almost a hacker. But they work for the very best VC funds. And my theory explains why they'd tend to be different: just as the very most popular kids don't have to persecute nerds, the very best VCs don't have to act like VCs.",
+      "translated": "从我读到的关于约翰·杜尔的内容来看，他也像是个不错的人，几乎像个黑客。但他们为最顶尖的风险投资基金工作。我的理论可以解释为什么他们会与众不同：就像最受欢迎的孩子不必欺负书呆子一样，最顶尖的风险投资人也不必表现得像风险投资人。"
+    },
+    {
+      "original": "They get the pick of all the best deals. So they don't have to be so paranoid and sneaky, and they can choose those rare companies, like Google, that will actually benefit from the giant sums they're compelled to invest.VCs often complain that in their business there's too much money chasing too few deals.",
+      "translated": "他们可以优先选择所有最好的交易。因此，他们不必如此焦虑和偷偷摸摸，可以选择那些罕见的公司，比如谷歌，这些公司实际上会从他们被迫投资的巨额资金中受益。风险投资家经常抱怨，在他们的行业中，有太多的钱追逐太少的交易。"
+    },
+    {
+      "original": "Few realize that this also describes a flaw in the way funding works at the level of individual firms.Perhaps this was the sort of strategic insight I was supposed to come up with as a \"technologist in residence.\" If so, the good news is that they're getting it for free.",
+      "translated": "很少有人意识到，这同样揭示了个别企业在资金运作方式上的一个缺陷。也许这正是我作为“驻地技术专家”应该提出的那种战略洞察。如果是这样的话，好消息是他们可以免费得到这些见解。"
+    },
+    {
+      "original": "The bad news is it means that if you're not one of the very top funds, you're condemned to be the bad guys.Notes[1] After Greylock booted founder Philip Greenspun out of ArsDigita, he wrote a hilarious but also very informative essay about it.",
+      "translated": "坏消息是，这意味着如果你不是顶尖的基金之一，你就注定了要成为那个不受欢迎的角色。注[1] 在Greylock将创始人Philip Greenspun从ArsDigita赶出去之后，他写了一篇既幽默又非常有信息量的文章。"
+    },
+    {
+      "original": "[2] Since most VCs aren't tech guys, the technology side of their due diligence tends to be like a body cavity search by someone with a faulty knowledge of human anatomy. After a while we were quite sore from VCs attempting to probe our nonexistent database orifice.No, we don't use Oracle.",
+      "translated": "[2] 由于大多数风险投资家都不是技术出身，他们在技术尽职调查时往往会像一个对人体解剖学了解不足的人进行身体腔道检查。一段时间后，我们因为风险投资家试图探究我们并不存在的数据库接口而感到相当不适。不，我们不使用Oracle。"
+    },
+    {
+      "original": "We just store the data in files. Our secret is to use an OS that doesn't lose our data. Which OS? FreeBSD. Why do you use that instead of Windows NT? Because it's better and it doesn't cost anything.",
+      "translated": "我们只是将数据存储在文件中。我们的秘诀是使用一种不会丢失数据的操作系统。哪种操作系统？FreeBSD。为什么要使用它而不是Windows NT？因为它的性能更好，而且不需要任何费用。"
+    },
+    {
+      "original": "What, you're using a freeware OS?How many times that conversation was repeated. Then when we got to Yahoo, we found they used FreeBSD and stored their data in files too.Chinese TranslationJapanese Translation",
+      "translated": "你用的是免费的操作系统？这句话被重复了多少次。后来当我们到了雅虎，发现他们使用的是FreeBSD，并且把数据存储在文件中。"
+    }
+  ],
+  "translation_completed": "2025-07-28T14:51:32.257755",
+  "translation_stats": {
+    "total_paragraphs": 30,
+    "success_count": 30,
+    "success_rate": "100.0%"
+  }
+}

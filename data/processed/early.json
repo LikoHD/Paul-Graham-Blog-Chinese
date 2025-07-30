@@ -1,0 +1,279 @@
+{
+  "title": "Early Work",
+  "title_zh": "[待翻译] Early Work",
+  "url": "https://www.paulgraham.com/early.html",
+  "filename": "early.html",
+  "date": "2020-10-01",
+  "id": 83,
+  "content": {
+    "success": true,
+    "paragraphs": [
+      "October 2020One of the biggest things holding people back from doing great work is the fear of making something lame. And this fear is not an irrational one. Many great projects go through a stage early on where they don't seem very impressive, even to their creators.",
+      "You have to push through this stage to reach the great work that lies beyond. But many people don't. Most people don't even reach the stage of making something they're embarrassed by, let alone continue past it.",
+      "They're too frightened even to start.Imagine if we could turn off the fear of making something lame. Imagine how much more we'd do.Is there any hope of turning it off? I think so. I think the habits at work here are not very deeply rooted.Making new things is itself a new thing for us as a species.",
+      "It has always happened, but till the last few centuries it happened so slowly as to be invisible to individual humans. And since we didn't need customs for dealing with new ideas, we didn't develop any.We just don't have enough experience with early versions of ambitious projects to know how to respond to them.",
+      "We judge them as we would judge more finished work, or less ambitious projects. We don't realize they're a special case.Or at least, most of us don't. One reason I'm confident we can do better is that it's already starting to happen.",
+      "There are already a few places that are living in the future in this respect. Silicon Valley is one of them: an unknown person working on a strange-sounding idea won't automatically be dismissed the way they would back home.",
+      "In Silicon Valley, people have learned how dangerous that is.The right way to deal with new ideas is to treat them as a challenge to your imagination — not just to have lower standards, but to switch polarity entirely, from listing the reasons an idea won't work to trying to think of ways it could.",
+      "That's what I do when I meet people with new ideas. I've become quite good at it, but I've had a lot of practice. Being a partner at Y Combinator means being practically immersed in strange-sounding ideas proposed by unknown people.",
+      "Every six months you get thousands of new ones thrown at you and have to sort through them, knowing that in a world with a power-law distribution of outcomes, it will be painfully obvious if you miss the needle in this haystack.",
+      "Optimism becomes urgent.But I'm hopeful that, with time, this kind of optimism can become widespread enough that it becomes a social custom, not just a trick used by a few specialists. It is after all an extremely lucrative trick, and those tend to spread quickly.Of course, inexperience is not the only reason people are too harsh on early versions of ambitious projects.",
+      "They also do it to seem clever. And in a field where the new ideas are risky, like startups, those who dismiss them are in fact more likely to be right. Just not when their predictions are weighted by outcome.But there is another more sinister reason people dismiss new ideas.",
+      "If you try something ambitious, many of those around you will hope, consciously or unconsciously, that you'll fail. They worry that if you try something ambitious and succeed, it will put you above them.",
+      "In some countries this is not just an individual failing but part of the national culture.I wouldn't claim that people in Silicon Valley overcome these impulses because they're morally better. [1] The reason many hope you'll succeed is that they hope to rise with you.",
+      "For investors this incentive is particularly explicit. They want you to succeed because they hope you'll make them rich in the process. But many other people you meet can hope to benefit in some way from your success.",
+      "At the very least they'll be able to say, when you're famous, that they've known you since way back.But even if Silicon Valley's encouraging attitude is rooted in self-interest, it has over time actually grown into a sort of benevolence.",
+      "Encouraging startups has been practiced for so long that it has become a custom. Now it just seems that that's what one does with startups.Maybe Silicon Valley is too optimistic. Maybe it's too easily fooled by impostors.",
+      "Many less optimistic journalists want to believe that. But the lists of impostors they cite are suspiciously short, and plagued with asterisks. [2] If you use revenue as the test, Silicon Valley's optimism seems better tuned than the rest of the world's.",
+      "And because it works, it will spread.There's a lot more to new ideas than new startup ideas, of course. The fear of making something lame holds people back in every field. But Silicon Valley shows how quickly customs can evolve to support new ideas.",
+      "And that in turn proves that dismissing new ideas is not so deeply rooted in human nature that it can't be unlearnt. ___________ Unfortunately, if you want to do new things, you'll face a force more powerful than other people's skepticism: your own skepticism.",
+      "You too will judge your early work too harshly. How do you avoid that?This is a difficult problem, because you don't want to completely eliminate your horror of making something lame. That's what steers you toward doing good work.",
+      "You just want to turn it off temporarily, the way a painkiller temporarily turns off pain.People have already discovered several techniques that work. Hardy mentions two in A Mathematician's Apology: Good work is not done by \"humble\" men.",
+      "It is one of the first duties of a professor, for example, in any subject, to exaggerate a little both the importance of his subject and his importance in it. If you overestimate the importance of what you're working on, that will compensate for your mistakenly harsh judgment of your initial results.",
+      "If you look at something that's 20% of the way to a goal worth 100 and conclude that it's 10% of the way to a goal worth 200, your estimate of its expected value is correct even though both components are wrong.It also helps, as Hardy suggests, to be slightly overconfident.",
+      "I've noticed in many fields that the most successful people are slightly overconfident. On the face of it this seems implausible. Surely it would be optimal to have exactly the right estimate of one's abilities.",
+      "How could it be an advantage to be mistaken? Because this error compensates for other sources of error in the opposite direction: being slightly overconfident armors you against both other people's skepticism and your own.Ignorance has a similar effect.",
+      "It's safe to make the mistake of judging early work as finished work if you're a sufficiently lax judge of finished work. I doubt it's possible to cultivate this kind of ignorance, but empirically it's a real advantage, especially for the young.Another way to get through the lame phase of ambitious projects is to surround yourself with the right people — to create an eddy in the social headwind.",
+      "But it's not enough to collect people who are always encouraging. You'd learn to discount that. You need colleagues who can actually tell an ugly duckling from a baby swan. The people best able to do this are those working on similar projects of their own, which is why university departments and research labs work so well.",
+      "You don't need institutions to collect colleagues. They naturally coalesce, given the chance. But it's very much worth accelerating this process by seeking out other people trying to do new things.Teachers are in effect a special case of colleagues.",
+      "It's a teacher's job both to see the promise of early work and to encourage you to continue. But teachers who are good at this are unfortunately quite rare, so if you have the opportunity to learn from one, take it.",
+      "[3]For some it might work to rely on sheer discipline: to tell yourself that you just have to press on through the initial crap phase and not get discouraged. But like a lot of \"just tell yourself\" advice, this is harder than it sounds.",
+      "And it gets still harder as you get older, because your standards rise. The old do have one compensating advantage though: they've been through this before.It can help if you focus less on where you are and more on the rate of change.",
+      "You won't worry so much about doing bad work if you can see it improving. Obviously the faster it improves, the easier this is. So when you start something new, it's good if you can spend a lot of time on it.",
+      "That's another advantage of being young: you tend to have bigger blocks of time.Another common trick is to start by considering new work to be of a different, less exacting type. To start a painting saying that it's just a sketch, or a new piece of software saying that it's just a quick hack.",
+      "Then you judge your initial results by a lower standard. Once the project is rolling you can sneakily convert it to something more. [4]This will be easier if you use a medium that lets you work fast and doesn't require too much commitment up front.",
+      "It's easier to convince yourself that something is just a sketch when you're drawing in a notebook than when you're carving stone. Plus you get initial results faster. [5] [6]It will be easier to try out a risky project if you think of it as a way to learn and not just as a way to make something.",
+      "Then even if the project truly is a failure, you'll still have gained by it. If the problem is sharply enough defined, failure itself is knowledge: if the theorem you're trying to prove turns out to be false, or you use a structural member of a certain size and it fails under stress, you've learned something, even if it isn't what you wanted to learn.",
+      "[7]One motivation that works particularly well for me is curiosity. I like to try new things just to see how they'll turn out. We started Y Combinator in this spirit, and it was one of main things that kept me going while I was working on Bel.",
+      "Having worked for so long with various dialects of Lisp, I was very curious to see what its inherent shape was: what you'd end up with if you followed the axiomatic approach all the way.But it's a bit strange that you have to play mind games with yourself to avoid being discouraged by lame-looking early efforts.",
+      "The thing you're trying to trick yourself into believing is in fact the truth. A lame-looking early version of an ambitious project truly is more valuable than it seems. So the ultimate solution may be to teach yourself that.One way to do it is to study the histories of people who've done great work.",
+      "What were they thinking early on? What was the very first thing they did? It can sometimes be hard to get an accurate answer to this question, because people are often embarrassed by their earliest work and make little effort to publish it.",
+      "(They too misjudge it.) But when you can get an accurate picture of the first steps someone made on the path to some great work, they're often pretty feeble. [8]Perhaps if you study enough such cases, you can teach yourself to be a better judge of early work.",
+      "Then you'll be immune both to other people's skepticism and your own fear of making something lame. You'll see early work for what it is.Curiously enough, the solution to the problem of judging early work too harshly is to realize that our attitudes toward it are themselves early work.",
+      "Holding everything to the same standard is a crude version 1. We're already evolving better customs, and we can already see signs of how big the payoff will be. Notes[1] This assumption may be too conservative.",
+      "There is some evidence that historically the Bay Area has attracted a different sort of person than, say, New York City.[2] One of their great favorites is Theranos. But the most conspicuous feature of Theranos's cap table is the absence of Silicon Valley firms.",
+      "Journalists were fooled by Theranos, but Silicon Valley investors weren't.[3] I made two mistakes about teachers when I was younger. I cared more about professors' research than their reputations as teachers, and I was also wrong about what it meant to be a good teacher.",
+      "I thought it simply meant to be good at explaining things.[4] Patrick Collison points out that you can go past treating something as a hack in the sense of a prototype and onward to the sense of the word that means something closer to a practical joke: I think there may be something related to being a hack that can be powerful — the idea of making the tenuousness and implausibility a feature.",
+      "\"Yes, it's a bit ridiculous, right? I'm just trying to see how far such a naive approach can get.\" YC seemed to me to have this characteristic. [5] Much of the advantage of switching from physical to digital media is not the software per se but that it lets you start something new with little upfront commitment.[6] John Carmack adds: The value of a medium without a vast gulf between the early work and the final work is exemplified in game mods.",
+      "The original Quake game was a golden age for mods, because everything was very flexible, but so crude due to technical limitations, that quick hacks to try out a gameplay idea weren't all that far from the official game.",
+      "Many careers were born from that, but as the commercial game quality improved over the years, it became almost a full time job to make a successful mod that would be appreciated by the community. This was dramatically reversed with Minecraft and later Roblox, where the entire esthetic of the experience was so explicitly crude that innovative gameplay concepts became the overriding value.",
+      "These \"crude\" game mods by single authors are now often bigger deals than massive professional teams' work. [7] Lisa Randall suggests that we treat new things as experiments. That way there's no such thing as failing, since you learn something no matter what.",
+      "You treat it like an experiment in the sense that if it really rules something out, you give up and move on, but if there's some way to vary it to make it work better, go ahead and do that [8] Michael Nielsen points out that the internet has made this easier, because you can see programmers' first commits, musicians' first videos, and so on.Thanks to Trevor Blackwell, John Carmack, Patrick Collison, Jessica Livingston, Michael Nielsen, and Lisa Randall for reading drafts of this."
+    ],
+    "word_count": 2467,
+    "paragraph_count": 51
+  },
+  "processed_at": "2025-07-26T19:04:07.493646",
+  "paragraphs": [
+    {
+      "original": "October 2020One of the biggest things holding people back from doing great work is the fear of making something lame. And this fear is not an irrational one. Many great projects go through a stage early on where they don't seem very impressive, even to their creators.",
+      "translated": "2020年10月 人们在做伟大工作时最大的障碍之一是害怕做出平庸的作品。而这种恐惧并非没有道理。许多伟大的项目在早期都会经历一个阶段，那时它们看起来并不令人印象深刻，即使对创作者而言也是如此。"
+    },
+    {
+      "original": "You have to push through this stage to reach the great work that lies beyond. But many people don't. Most people don't even reach the stage of making something they're embarrassed by, let alone continue past it.",
+      "translated": "你必须度过这个阶段，才能达到更伟大的作品。但许多人做不到。大多数人甚至都达不到做出让自己感到尴尬的作品的阶段，更不用说继续前进了。"
+    },
+    {
+      "original": "They're too frightened even to start.Imagine if we could turn off the fear of making something lame. Imagine how much more we'd do.Is there any hope of turning it off? I think so. I think the habits at work here are not very deeply rooted.Making new things is itself a new thing for us as a species.",
+      "translated": "他们甚至害怕到不敢开始。想象一下，如果我们能够关闭那种害怕做出糟糕东西的恐惧。想象一下，我们将会做多少更多的事情。有没有可能关闭这种恐惧呢？我认为是有可能的。我认为这里涉及的习惯并不是根深蒂固的。对我们这个物种来说，创造新事物本身就是一个新的事物。"
+    },
+    {
+      "original": "It has always happened, but till the last few centuries it happened so slowly as to be invisible to individual humans. And since we didn't need customs for dealing with new ideas, we didn't develop any.We just don't have enough experience with early versions of ambitious projects to know how to respond to them.",
+      "translated": "这种情况一直存在，但在过去的几个世纪里，它的发生如此缓慢，以至于个体人类无法察觉。由于我们不需要习俗来应对新思想，因此我们没有发展出任何这样的习俗。我们对于雄心勃勃的项目早期版本的经验不足，因此不知道如何应对它们。"
+    },
+    {
+      "original": "We judge them as we would judge more finished work, or less ambitious projects. We don't realize they're a special case.Or at least, most of us don't. One reason I'm confident we can do better is that it's already starting to happen.",
+      "translated": "我们像评判更成熟的作品或目标较低的项目那样评判它们。我们没有意识到它们是一个特殊情况。或者说，至少大多数人没有意识到。我有信心我们可以做得更好的一个原因是，这种情况已经开始出现变化。"
+    },
+    {
+      "original": "There are already a few places that are living in the future in this respect. Silicon Valley is one of them: an unknown person working on a strange-sounding idea won't automatically be dismissed the way they would back home.",
+      "translated": "在这方面，已经有一些地方在过着未来的生活。硅谷就是其中之一：在那里，一个默默无闻的人在研究一个听起来奇怪的想法，不会像在家乡那样被自动否定。"
+    },
+    {
+      "original": "In Silicon Valley, people have learned how dangerous that is.The right way to deal with new ideas is to treat them as a challenge to your imagination — not just to have lower standards, but to switch polarity entirely, from listing the reasons an idea won't work to trying to think of ways it could.",
+      "translated": "在硅谷，人们已经学会了这种危险性。正确处理新想法的方法是将其视为对你想象力的挑战——不仅仅是降低标准，而是完全转变立场，从列举一个想法为何行不通的理由转变为尝试思考它如何能够实现。"
+    },
+    {
+      "original": "That's what I do when I meet people with new ideas. I've become quite good at it, but I've had a lot of practice. Being a partner at Y Combinator means being practically immersed in strange-sounding ideas proposed by unknown people.",
+      "translated": "这就是我遇到有新想法的人时的做法。我已经相当擅长于此，但这也得益于我有大量的实践。作为Y Combinator的合伙人，就意味着几乎要沉浸在那些不为人知的人提出的听起来奇怪的点子中。"
+    },
+    {
+      "original": "Every six months you get thousands of new ones thrown at you and have to sort through them, knowing that in a world with a power-law distribution of outcomes, it will be painfully obvious if you miss the needle in this haystack.",
+      "translated": "每六个月，你就会收到成千上万的新项目，需要从中筛选，深知在一个结果呈现幂律分布的世界里，如果你错过了这堆稻草中的那根针，将会显得异常明显。"
+    },
+    {
+      "original": "Optimism becomes urgent.But I'm hopeful that, with time, this kind of optimism can become widespread enough that it becomes a social custom, not just a trick used by a few specialists. It is after all an extremely lucrative trick, and those tend to spread quickly.Of course, inexperience is not the only reason people are too harsh on early versions of ambitious projects.",
+      "translated": "乐观变得紧迫。但我希望，随着时间的推移，这种乐观能够广泛传播，成为一种社会习俗，而不仅仅是一些专家的小技巧。毕竟，这是一个极其有利可图的技巧，这样的技巧往往会迅速传播。当然，缺乏经验并不是人们对待雄心勃勃的项目早期版本过于苛刻的唯一原因。"
+    },
+    {
+      "original": "They also do it to seem clever. And in a field where the new ideas are risky, like startups, those who dismiss them are in fact more likely to be right. Just not when their predictions are weighted by outcome.But there is another more sinister reason people dismiss new ideas.",
+      "translated": "他们这样做是为了显得聪明。在像初创企业这样新想法充满风险的领域，那些否定新想法的人实际上更可能是对的。只是当他们的预测以结果为权重时，情况并非如此。但人们否定新想法还有另一个更为阴暗的原因。"
+    },
+    {
+      "original": "If you try something ambitious, many of those around you will hope, consciously or unconsciously, that you'll fail. They worry that if you try something ambitious and succeed, it will put you above them.",
+      "translated": "如果你尝试一些雄心勃勃的事情，周围许多人会希望你失败，无论是有意识还是无意识的。他们担心，如果你尝试了雄心勃勃的事情并成功了，这会使你高高在上，超越他们。"
+    },
+    {
+      "original": "In some countries this is not just an individual failing but part of the national culture.I wouldn't claim that people in Silicon Valley overcome these impulses because they're morally better. [1] The reason many hope you'll succeed is that they hope to rise with you.",
+      "translated": "在某些国家，这不仅是个体的缺陷，而且是国民文化的一部分。我不会说硅谷的人们克服了这些冲动是因为他们的道德更好。[1] 许多人希望你成功的原因是，他们希望随着你的成功而共同进步。"
+    },
+    {
+      "original": "For investors this incentive is particularly explicit. They want you to succeed because they hope you'll make them rich in the process. But many other people you meet can hope to benefit in some way from your success.",
+      "translated": "对于投资者来说，这种激励尤为明确。他们希望你成功，因为这能让他们在这个过程中变得富有。但你遇到的许多其他人也可能会从你的成功中获得某种好处。"
+    },
+    {
+      "original": "At the very least they'll be able to say, when you're famous, that they've known you since way back.But even if Silicon Valley's encouraging attitude is rooted in self-interest, it has over time actually grown into a sort of benevolence.",
+      "translated": "至少当您出名时，他们可以说从很久以前就认识您了。但即使硅谷的这种鼓励态度源于自身利益，随着时间的推移，它实际上已经发展成了一种善意。"
+    },
+    {
+      "original": "Encouraging startups has been practiced for so long that it has become a custom. Now it just seems that that's what one does with startups.Maybe Silicon Valley is too optimistic. Maybe it's too easily fooled by impostors.",
+      "translated": "鼓励初创企业已经成为一种惯例。现在，这似乎就是对待初创企业的常规做法。也许硅谷太过乐观了。也许它太容易被冒牌货欺骗了。"
+    },
+    {
+      "original": "Many less optimistic journalists want to believe that. But the lists of impostors they cite are suspiciously short, and plagued with asterisks. [2] If you use revenue as the test, Silicon Valley's optimism seems better tuned than the rest of the world's.",
+      "translated": "许多不太乐观的记者也想这么认为。但他们列出的冒名顶替者名单却可疑地短，而且充满 asterisks。[2] 如果以收入为标准，硅谷的乐观态度似乎比世界其他地方更为准确。"
+    },
+    {
+      "original": "And because it works, it will spread.There's a lot more to new ideas than new startup ideas, of course. The fear of making something lame holds people back in every field. But Silicon Valley shows how quickly customs can evolve to support new ideas.",
+      "translated": "正因为如此，它将会传播开来。当然，新的想法远不止是新的创业点子。在每个领域，人们对做出平庸事物的恐惧都会阻碍他们。但硅谷展示了习俗可以多么迅速地演变以支持新想法。"
+    },
+    {
+      "original": "And that in turn proves that dismissing new ideas is not so deeply rooted in human nature that it can't be unlearnt. ___________ Unfortunately, if you want to do new things, you'll face a force more powerful than other people's skepticism: your own skepticism.",
+      "translated": "而这反过来证明了，对新想法的否定并不是人类天性中根深蒂固到无法改变的部分。___________ 不幸的是，如果你想做新的事情，你将面对一种比他人的怀疑更强大的力量：你自己的怀疑。"
+    },
+    {
+      "original": "You too will judge your early work too harshly. How do you avoid that?This is a difficult problem, because you don't want to completely eliminate your horror of making something lame. That's what steers you toward doing good work.",
+      "translated": "你也会对自己的早期作品评价过于苛刻。如何避免这种情况呢？这是一个难题，因为你不想完全消除对自己做出平庸作品的恐惧。正是这种恐惧引导你去做出优秀的作品。"
+    },
+    {
+      "original": "You just want to turn it off temporarily, the way a painkiller temporarily turns off pain.People have already discovered several techniques that work. Hardy mentions two in A Mathematician's Apology: Good work is not done by \"humble\" men.",
+      "translated": "你只是想暂时关闭它，就像止痛药暂时缓解疼痛一样。人们已经发现了一些有效的方法。哈代在《一个数学家的辩白》中提到了两种：好的工作不是由“谦卑”的人完成的。"
+    },
+    {
+      "original": "It is one of the first duties of a professor, for example, in any subject, to exaggerate a little both the importance of his subject and his importance in it. If you overestimate the importance of what you're working on, that will compensate for your mistakenly harsh judgment of your initial results.",
+      "translated": "例如，教授的一项首要职责就是在任何学科上都稍微夸大一下该学科及其自身的重要性。如果你高估了你所从事工作的意义，这将弥补你对自己初步成果的过分苛刻评价。"
+    },
+    {
+      "original": "If you look at something that's 20% of the way to a goal worth 100 and conclude that it's 10% of the way to a goal worth 200, your estimate of its expected value is correct even though both components are wrong.It also helps, as Hardy suggests, to be slightly overconfident.",
+      "translated": "如果你看到某个目标完成了20%，而这个目标的价值是100，然后你得出结论说这相当于完成了200价值目标的10%，那么你对其期望价值的估计是正确的，尽管两个组成部分都是错误的。正如哈代所建议的，稍微自信一些也有帮助。"
+    },
+    {
+      "original": "I've noticed in many fields that the most successful people are slightly overconfident. On the face of it this seems implausible. Surely it would be optimal to have exactly the right estimate of one's abilities.",
+      "translated": "我注意到在许多领域，最成功的人往往稍微有些过度自信。乍一看，这似乎难以置信。当然，最理想的情况应该是对自己的能力有一个准确的评估。"
+    },
+    {
+      "original": "How could it be an advantage to be mistaken? Because this error compensates for other sources of error in the opposite direction: being slightly overconfident armors you against both other people's skepticism and your own.Ignorance has a similar effect.",
+      "translated": "犯错怎么会成为一种优势呢？因为这个错误会补偿其他方向上的误差：过于自信可以让你免受他人和你自己的怀疑。无知也有类似的效果。"
+    },
+    {
+      "original": "It's safe to make the mistake of judging early work as finished work if you're a sufficiently lax judge of finished work. I doubt it's possible to cultivate this kind of ignorance, but empirically it's a real advantage, especially for the young.Another way to get through the lame phase of ambitious projects is to surround yourself with the right people — to create an eddy in the social headwind.",
+      "translated": "如果评判完工作品的标准足够宽松，那么将早期作品误认为是完成作品也是安全的。我怀疑这种无知是无法培养的，但实证表明，这确实是一个真正的优势，尤其是对年轻人来说。另一种度过雄心勃勃项目初期笨拙阶段的方法是，让自己置身于合适的人群中——在社会逆风中创造一股旋流。"
+    },
+    {
+      "original": "But it's not enough to collect people who are always encouraging. You'd learn to discount that. You need colleagues who can actually tell an ugly duckling from a baby swan. The people best able to do this are those working on similar projects of their own, which is why university departments and research labs work so well.",
+      "translated": "但仅仅收集那些总是鼓励你的人是不够的。你需要学会对这种鼓励打折扣。你需要的是能够区分丑小鸭和天鹅宝宝的同事。最能做这件事的人是那些正在从事类似项目的人，这也是为什么大学系和研究实验室能运作得如此之好。"
+    },
+    {
+      "original": "You don't need institutions to collect colleagues. They naturally coalesce, given the chance. But it's very much worth accelerating this process by seeking out other people trying to do new things.Teachers are in effect a special case of colleagues.",
+      "translated": "你不需要机构来聚集同事。只要有机会，他们自然会聚在一起。但通过寻找其他尝试新事物的人来加速这一过程是非常值得的。教师实际上是同事的一种特殊情况。"
+    },
+    {
+      "original": "It's a teacher's job both to see the promise of early work and to encourage you to continue. But teachers who are good at this are unfortunately quite rare, so if you have the opportunity to learn from one, take it.",
+      "translated": "教师的职责既在于发现早期作品的潜力，也在于鼓励你继续前进。但擅长这一点的教师却凤毛麟角，因此，如果你有机会向这样的一位教师学习，一定要抓住机会。"
+    },
+    {
+      "original": "[3]For some it might work to rely on sheer discipline: to tell yourself that you just have to press on through the initial crap phase and not get discouraged. But like a lot of \"just tell yourself\" advice, this is harder than it sounds.",
+      "translated": "对于一些人来说，依靠纯粹的自律可能奏效：告诉自己只需要坚持度过最初的艰难阶段，不要灰心。但就像很多“只要告诉自己”的建议一样，这说起来容易做起来难。"
+    },
+    {
+      "original": "And it gets still harder as you get older, because your standards rise. The old do have one compensating advantage though: they've been through this before.It can help if you focus less on where you are and more on the rate of change.",
+      "translated": "而且，随着年龄的增长，这变得更加困难，因为你的标准提高了。不过，老年人有一个补偿性的优势：他们之前经历过这种情况。如果你少关注当前的位置，而更多关注变化的速度，这会有所帮助。"
+    },
+    {
+      "original": "You won't worry so much about doing bad work if you can see it improving. Obviously the faster it improves, the easier this is. So when you start something new, it's good if you can spend a lot of time on it.",
+      "translated": "如果你能看到自己的工作在进步，就不会太担心做不好。显然，进步越快，这一点就越容易实现。所以，当你开始一项新工作时，最好能花大量时间在上面。"
+    },
+    {
+      "original": "That's another advantage of being young: you tend to have bigger blocks of time.Another common trick is to start by considering new work to be of a different, less exacting type. To start a painting saying that it's just a sketch, or a new piece of software saying that it's just a quick hack.",
+      "translated": "那便是年轻的另一个优势：你往往拥有更长的时间段。另一个常见的技巧是，先将新的工作视为不同且要求不那么严格的类型。比如，开始画一幅画时，说是这仅仅是一个草图；或者开发一个新的软件时，说是这只是一个快速的尝试。"
+    },
+    {
+      "original": "Then you judge your initial results by a lower standard. Once the project is rolling you can sneakily convert it to something more. [4]This will be easier if you use a medium that lets you work fast and doesn't require too much commitment up front.",
+      "translated": "然后你用较低的标准来评判你的初步结果。一旦项目开始运转，你就可以悄悄地将其转化为更高质量的成果。[4]如果你选择的媒介能让你快速工作，并且不需要太多的前期投入，这会更容易实现。"
+    },
+    {
+      "original": "It's easier to convince yourself that something is just a sketch when you're drawing in a notebook than when you're carving stone. Plus you get initial results faster. [5] [6]It will be easier to try out a risky project if you think of it as a way to learn and not just as a way to make something.",
+      "translated": "当你在笔记本上作画时，更容易说服自己这只是一幅草图，而不是在雕刻石头。而且你能够更快地看到初步成果。[5] [6]如果你把一个冒险的项目视为一种学习的方式，而不仅仅是创造某种东西的手段，那么尝试这个项目会更容易。"
+    },
+    {
+      "original": "Then even if the project truly is a failure, you'll still have gained by it. If the problem is sharply enough defined, failure itself is knowledge: if the theorem you're trying to prove turns out to be false, or you use a structural member of a certain size and it fails under stress, you've learned something, even if it isn't what you wanted to learn.",
+      "translated": "那么，即使项目确实失败了，你仍然会从中获益。如果问题定义得足够明确，失败本身也是一种知识：如果你试图证明的定理原来是错误的，或者你使用了某个尺寸的结构构件而它在受力时失败了，你仍然学到了东西，即使这并不是你想要学到的。"
+    },
+    {
+      "original": "[7]One motivation that works particularly well for me is curiosity. I like to try new things just to see how they'll turn out. We started Y Combinator in this spirit, and it was one of main things that kept me going while I was working on Bel.",
+      "translated": "[7]对我特别有效的动机之一是好奇心。我喜欢尝试新事物，只是为了看看它们会有什么结果。我们以这种精神创办了Y Combinator，这也是我在开发Bel时能够坚持下去的主要原因之一。"
+    },
+    {
+      "original": "Having worked for so long with various dialects of Lisp, I was very curious to see what its inherent shape was: what you'd end up with if you followed the axiomatic approach all the way.But it's a bit strange that you have to play mind games with yourself to avoid being discouraged by lame-looking early efforts.",
+      "translated": "长期使用各种Lisp方言之后，我非常好奇它内在的形式究竟是什么：如果你彻底遵循公理化方法，最终会得到什么。但有些奇怪的是，你必须自我欺骗，避免被那些看起来不怎么样的早期尝试所打击。"
+    },
+    {
+      "original": "The thing you're trying to trick yourself into believing is in fact the truth. A lame-looking early version of an ambitious project truly is more valuable than it seems. So the ultimate solution may be to teach yourself that.One way to do it is to study the histories of people who've done great work.",
+      "translated": "你试图让自己相信的事情实际上是真相。一个雄心勃勃的项目早期看似不起眼的版本确实比它看起来更有价值。因此，最终的解决办法可能是教会自己这一点。一种方法是研究那些做出伟大工作的人的历史。"
+    },
+    {
+      "original": "What were they thinking early on? What was the very first thing they did? It can sometimes be hard to get an accurate answer to this question, because people are often embarrassed by their earliest work and make little effort to publish it.",
+      "translated": "他们最初是怎么想的？他们做的第一件事是什么？有时候很难得到这个问题的准确答案，因为人们往往对自己的早期工作感到尴尬，很少会将其发表。"
+    },
+    {
+      "original": "(They too misjudge it.) But when you can get an accurate picture of the first steps someone made on the path to some great work, they're often pretty feeble. [8]Perhaps if you study enough such cases, you can teach yourself to be a better judge of early work.",
+      "translated": "（他们也误判了。）但当你能准确地描绘出某人在通往伟大作品的路上迈出的第一步时，这些第一步往往相当微弱。[8]也许如果你研究了足够多的这类案例，你可以教会自己成为早期作品更好的评判者。"
+    },
+    {
+      "original": "Then you'll be immune both to other people's skepticism and your own fear of making something lame. You'll see early work for what it is.Curiously enough, the solution to the problem of judging early work too harshly is to realize that our attitudes toward it are themselves early work.",
+      "translated": "这样你就能对别人的怀疑和自己制作出平庸作品的恐惧免疫。你会看清早期作品的真面目。有趣的是，对早期作品评价过严的问题的解决办法是意识到我们对早期作品的态度本身也是早期作品。"
+    },
+    {
+      "original": "Holding everything to the same standard is a crude version 1. We're already evolving better customs, and we can already see signs of how big the payoff will be. Notes[1] This assumption may be too conservative.",
+      "translated": "将一切都用同一标准衡量是一种粗略的做法。我们已经在发展更好的习俗，并且已经可以看到这种变化将带来的巨大回报。注[1] 这种假设可能过于保守。"
+    },
+    {
+      "original": "There is some evidence that historically the Bay Area has attracted a different sort of person than, say, New York City.[2] One of their great favorites is Theranos. But the most conspicuous feature of Theranos's cap table is the absence of Silicon Valley firms.",
+      "translated": "有证据表明，历史上湾区吸引的人与纽约市吸引的人不同。他们特别喜欢的一个例子是Theranos。但Theranos的股东名单中最显著的特点就是缺少硅谷的公司。"
+    },
+    {
+      "original": "Journalists were fooled by Theranos, but Silicon Valley investors weren't.[3] I made two mistakes about teachers when I was younger. I cared more about professors' research than their reputations as teachers, and I was also wrong about what it meant to be a good teacher.",
+      "translated": "记者们被Theranos愚弄了，但硅谷的投资者却没有。[3] 当我年轻时，我对教师有两点误解。我更重视教授的研究成果而非他们的教学声誉，同时，我也误解了成为一名好教师的真正含义。"
+    },
+    {
+      "original": "I thought it simply meant to be good at explaining things.[4] Patrick Collison points out that you can go past treating something as a hack in the sense of a prototype and onward to the sense of the word that means something closer to a practical joke: I think there may be something related to being a hack that can be powerful — the idea of making the tenuousness and implausibility a feature.",
+      "translated": "我原以为这只是意味着善于解释事情。[4] Patrick Collison 指出，你可以超越将某事视为原型意义上的“hack”，进而达到这个词更接近于恶作剧的含义：我认为与成为“hack”有关的某些东西可能是强大的——即把脆弱性和不可信性作为一种特性。"
+    },
+    {
+      "original": "\"Yes, it's a bit ridiculous, right? I'm just trying to see how far such a naive approach can get.\" YC seemed to me to have this characteristic. [5] Much of the advantage of switching from physical to digital media is not the software per se but that it lets you start something new with little upfront commitment.[6] John Carmack adds: The value of a medium without a vast gulf between the early work and the final work is exemplified in game mods.",
+      "translated": "“是的，这有点儿可笑，对吧？我只是想看看这种天真的方法能走多远。”YC 给我的感觉就是有这种特点。[5] 从实体介质转向数字介质的许多优势，并不在于软件本身，而在于它让你可以以很低的前期投入开始新的尝试。[6] John Carmack 补充道：游戏模组很好地体现了这样一种介质的价值，即早期作品与最终作品之间没有巨大的差距。"
+    },
+    {
+      "original": "The original Quake game was a golden age for mods, because everything was very flexible, but so crude due to technical limitations, that quick hacks to try out a gameplay idea weren't all that far from the official game.",
+      "translated": "原版《雷神之锤》游戏是mod的黄金时代，因为一切都非常灵活，但由于技术限制，这些快速的修改与官方游戏相差并不太远，可以轻松尝试游戏玩法的新想法。"
+    },
+    {
+      "original": "Many careers were born from that, but as the commercial game quality improved over the years, it became almost a full time job to make a successful mod that would be appreciated by the community. This was dramatically reversed with Minecraft and later Roblox, where the entire esthetic of the experience was so explicitly crude that innovative gameplay concepts became the overriding value.",
+      "translated": "许多职业因此而诞生，但随着商业游戏质量的逐年提升，制作一个能被社区认可的成功模组几乎成了一项全职工作。然而，这一趋势在《我的世界》出现后发生了戏剧性的逆转，随后的《罗布乐思》更是如此，这两款游戏的整个体验风格如此明显地粗糙，以至于创新的游戏概念成为了核心价值。"
+    },
+    {
+      "original": "These \"crude\" game mods by single authors are now often bigger deals than massive professional teams' work. [7] Lisa Randall suggests that we treat new things as experiments. That way there's no such thing as failing, since you learn something no matter what.",
+      "translated": "这些由个人作者制作的“粗糙”游戏模组现在往往比大型专业团队的作品更受欢迎。[7] 丽莎·兰德尔建议我们将新事物视为实验。这样一来，就没有什么是失败的，因为无论结果如何你都能学到东西。"
+    },
+    {
+      "original": "You treat it like an experiment in the sense that if it really rules something out, you give up and move on, but if there's some way to vary it to make it work better, go ahead and do that [8] Michael Nielsen points out that the internet has made this easier, because you can see programmers' first commits, musicians' first videos, and so on.Thanks to Trevor Blackwell, John Carmack, Patrick Collison, Jessica Livingston, Michael Nielsen, and Lisa Randall for reading drafts of this.",
+      "translated": "你把它当作一个实验，如果它真的排除了某种可能性，你就放弃并继续前进，但如果可以通过改变来使其工作得更好，那就去做吧。[8] Michael Nielsen 指出，互联网使这一点变得更加容易，因为你可以看到程序员的第一次提交、音乐家的第一个视频等。感谢 Trevor Blackwell、John Carmack、Patrick Collison、Jessica Livingston、Michael Nielsen 和 Lisa Randall 阅读本文的草稿。"
+    }
+  ],
+  "translation_completed": "2025-07-27T15:12:46.589561",
+  "translation_stats": {
+    "total_paragraphs": 51,
+    "success_count": 51,
+    "success_rate": "100.0%"
+  }
+}

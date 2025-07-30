@@ -1,0 +1,79 @@
+{
+  "title": "How You Know",
+  "title_zh": "[待翻译] How You Know",
+  "url": "https://www.paulgraham.com/know.html",
+  "filename": "know.html",
+  "date": "2021-03-04",
+  "id": 40,
+  "content": {
+    "success": true,
+    "paragraphs": [
+      "December 2014I've read Villehardouin's chronicle of the Fourth Crusade at least two times, maybe three. And yet if I had to write down everything I remember from it, I doubt it would amount to much more than a page.",
+      "Multiply this times several hundred, and I get an uneasy feeling when I look at my bookshelves. What use is it to read all these books if I remember so little from them?A few months ago, as I was reading Constance Reid's excellent biography of Hilbert, I figured out if not the answer to this question, at least something that made me feel better about it.",
+      "She writes: Hilbert had no patience with mathematical lectures which filled the students with facts but did not teach them how to frame a problem and solve it. He often used to tell them that \"a perfect formulation of a problem is already half its solution.\" That has always seemed to me an important point, and I was even more convinced of it after hearing it confirmed by Hilbert.But how had I come to believe in this idea in the first place?",
+      "A combination of my own experience and other things I'd read. None of which I could at that moment remember! And eventually I'd forget that Hilbert had confirmed it too. But my increased belief in the importance of this idea would remain something I'd learned from this book, even after I'd forgotten I'd learned it.Reading and experience train your model of the world.",
+      "And even if you forget the experience or what you read, its effect on your model of the world persists. Your mind is like a compiled program you've lost the source of. It works, but you don't know why.The place to look for what I learned from Villehardouin's chronicle is not what I remember from it, but my mental models of the crusades, Venice, medieval culture, siege warfare, and so on.",
+      "Which doesn't mean I couldn't have read more attentively, but at least the harvest of reading is not so miserably small as it might seem.This is one of those things that seem obvious in retrospect. But it was a surprise to me and presumably would be to anyone else who felt uneasy about (apparently) forgetting so much they'd read.Realizing it does more than make you feel a little better about forgetting, though.",
+      "There are specific implications.For example, reading and experience are usually \"compiled\" at the time they happen, using the state of your brain at that time. The same book would get compiled differently at different points in your life.",
+      "Which means it is very much worth reading important books multiple times. I always used to feel some misgivings about rereading books. I unconsciously lumped reading together with work like carpentry, where having to do something again is a sign you did it wrong the first time.",
+      "Whereas now the phrase \"already read\" seems almost ill-formed.Intriguingly, this implication isn't limited to books. Technology will increasingly make it possible to relive our experiences. When people do that today it's usually to enjoy them again (e.g.",
+      "when looking at pictures of a trip) or to find the origin of some bug in their compiled code (e.g. when Stephen Fry succeeded in remembering the childhood trauma that prevented him from singing). But as technologies for recording and playing back your life improve, it may become common for people to relive experiences without any goal in mind, simply to learn from them again as one might when rereading a book.Eventually we may be able not just to play back experiences but also to index and even edit them.",
+      "So although not knowing how you know things may seem part of being human, it may not be. Thanks to Sam Altman, Jessica Livingston, and Robert Morris for reading drafts of this.Japanese Translation"
+    ],
+    "word_count": 638,
+    "paragraph_count": 11
+  },
+  "processed_at": "2025-07-26T19:02:40.581112",
+  "paragraphs": [
+    {
+      "original": "December 2014I've read Villehardouin's chronicle of the Fourth Crusade at least two times, maybe three. And yet if I had to write down everything I remember from it, I doubt it would amount to much more than a page.",
+      "translated": "2014年12月，我至少读过两次，也许三次维尔哈杜因关于第四次十字军东征的编年史。然而，如果我要把我记得的内容全部写下来，我怀疑不会超过一页。"
+    },
+    {
+      "original": "Multiply this times several hundred, and I get an uneasy feeling when I look at my bookshelves. What use is it to read all these books if I remember so little from them?A few months ago, as I was reading Constance Reid's excellent biography of Hilbert, I figured out if not the answer to this question, at least something that made me feel better about it.",
+      "translated": "将这个数字乘以几百，当我看着我的书架时，我感到不安。如果我记不住书中的大部分内容，读这些书有什么用呢？几个月前，当我阅读康斯坦斯·里德关于希尔伯特的精彩传记时，我虽然没有找到这个问题的答案，但至少找到了一些让我感觉好些的东西。"
+    },
+    {
+      "original": "She writes: Hilbert had no patience with mathematical lectures which filled the students with facts but did not teach them how to frame a problem and solve it. He often used to tell them that \"a perfect formulation of a problem is already half its solution.\" That has always seemed to me an important point, and I was even more convinced of it after hearing it confirmed by Hilbert.But how had I come to believe in this idea in the first place?",
+      "translated": "她写道：希尔伯特对那些只向学生灌输事实而不教他们如何提出问题并解决问题的数学讲座毫无耐心。他经常告诉学生们，“一个完美的问题表述已经是解决该问题的一半。”这一点对我来说一直很重要，而在我听到希尔伯特的确认之后，我更加确信了这一点。但我是如何首先相信这个观点的呢？"
+    },
+    {
+      "original": "A combination of my own experience and other things I'd read. None of which I could at that moment remember! And eventually I'd forget that Hilbert had confirmed it too. But my increased belief in the importance of this idea would remain something I'd learned from this book, even after I'd forgotten I'd learned it.Reading and experience train your model of the world.",
+      "translated": "这是我自己的经历与其他我读过的东西的结合。当时我却记不起来！最终，我会忘记希尔伯特也证实了这一点。但对这个想法重要性的信念增强，会成为我从这本书中学到的东西，即使我忘记了是从这本书中学到的。阅读和经验训练你对世界的模型。"
+    },
+    {
+      "original": "And even if you forget the experience or what you read, its effect on your model of the world persists. Your mind is like a compiled program you've lost the source of. It works, but you don't know why.The place to look for what I learned from Villehardouin's chronicle is not what I remember from it, but my mental models of the crusades, Venice, medieval culture, siege warfare, and so on.",
+      "translated": "即使你忘记了那段经历或你读过的内容，它对你世界观模型的影响仍然存在。你的思维就像一个你已经丢失了源代码的编译程序。它能工作，但你不知道为什么。要寻找我从维尔哈杜因的编年史中学到的东西，不应从我记忆中的内容去寻找，而应从我对十字军东征、威尼斯、中世纪文化、围城战等的思维模型中去寻找。"
+    },
+    {
+      "original": "Which doesn't mean I couldn't have read more attentively, but at least the harvest of reading is not so miserably small as it might seem.This is one of those things that seem obvious in retrospect. But it was a surprise to me and presumably would be to anyone else who felt uneasy about (apparently) forgetting so much they'd read.Realizing it does more than make you feel a little better about forgetting, though.",
+      "translated": "这并不意味着我不能更仔细地阅读，但至少阅读的收获并不像看起来那么微不足道。这是一件事后看来显而易见的事情。但对我来说是个惊喜，想必对任何因（看似）忘记了所读内容而感到不安的人来说也是如此。意识到这一点不仅仅会让你对自己忘记的东西感觉好一点。"
+    },
+    {
+      "original": "There are specific implications.For example, reading and experience are usually \"compiled\" at the time they happen, using the state of your brain at that time. The same book would get compiled differently at different points in your life.",
+      "translated": "有特定的含义。例如，阅读和经历通常在发生时“编译”，使用你当时的大脑状态。同一本书在你生命的不同阶段会被“编译”出不同的结果。"
+    },
+    {
+      "original": "Which means it is very much worth reading important books multiple times. I always used to feel some misgivings about rereading books. I unconsciously lumped reading together with work like carpentry, where having to do something again is a sign you did it wrong the first time.",
+      "translated": "这意味着非常值得多次阅读重要的书籍。我过去总是对重读书籍有些顾虑。我下意识地将阅读与木工等劳动混为一谈，认为需要再次做某事是第一次做得不对的标志。"
+    },
+    {
+      "original": "Whereas now the phrase \"already read\" seems almost ill-formed.Intriguingly, this implication isn't limited to books. Technology will increasingly make it possible to relive our experiences. When people do that today it's usually to enjoy them again (e.g.",
+      "translated": "如今，“已经读过”这个词组似乎几乎变得不合语法。有趣的是，这种含义并不仅限于书籍。技术将越来越使我们能够重温我们的经历。当人们今天这样做时，通常是为了再次享受这些经历（例如："
+    },
+    {
+      "original": "when looking at pictures of a trip) or to find the origin of some bug in their compiled code (e.g. when Stephen Fry succeeded in remembering the childhood trauma that prevented him from singing). But as technologies for recording and playing back your life improve, it may become common for people to relive experiences without any goal in mind, simply to learn from them again as one might when rereading a book.Eventually we may be able not just to play back experiences but also to index and even edit them.",
+      "translated": "在查看旅行照片时）或找到编译代码中某个错误的根源（例如，当斯蒂芬·弗雷成功记起导致他无法唱歌的童年创伤时）。但随着记录和回放生活技术的改进，人们可能会出于没有任何特定目的而重温体验，只是为了像重读一本书那样再次从中学习。最终，我们不仅能够回放体验，还能够对它们进行索引，甚至编辑。"
+    },
+    {
+      "original": "So although not knowing how you know things may seem part of being human, it may not be. Thanks to Sam Altman, Jessica Livingston, and Robert Morris for reading drafts of this.Japanese Translation",
+      "translated": "所以，尽管不知道你是如何知道某些事情似乎是人类的一部分，但事实可能并非如此。感谢 Sam Altman、Jessica Livingston 和 Robert Morris 阅读本文的草稿。日语翻译"
+    }
+  ],
+  "translation_completed": "2025-07-27T12:11:11.535925",
+  "translation_stats": {
+    "total_paragraphs": 11,
+    "success_count": 11,
+    "success_rate": "100.0%"
+  }
+}

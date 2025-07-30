@@ -1,0 +1,49 @@
+{
+  "title": "The Top of My Todo List",
+  "title_zh": "[待翻译] The Top of My Todo List",
+  "url": "https://www.paulgraham.com/todo.html",
+  "filename": "todo.html",
+  "date": "2012-04-01",
+  "id": 131,
+  "content": {
+    "success": true,
+    "paragraphs": [
+      "April 2012A palliative care nurse called Bronnie Ware made a list of the biggest regrets of the dying. Her list seems plausible. I could see myself — can see myself — making at least 4 of these 5 mistakes.If you had to compress them into a single piece of advice, it might be: don't be a cog.",
+      "The 5 regrets paint a portrait of post-industrial man, who shrinks himself into a shape that fits his circumstances, then turns dutifully till he stops.The alarming thing is, the mistakes that produce these regrets are all errors of omission.",
+      "You forget your dreams, ignore your family, suppress your feelings, neglect your friends, and forget to be happy. Errors of omission are a particularly dangerous type of mistake, because you make them by default.I would like to avoid making these mistakes.",
+      "But how do you avoid mistakes you make by default? Ideally you transform your life so it has other defaults. But it may not be possible to do that completely. As long as these mistakes happen by default, you probably have to be reminded not to make them.",
+      "So I inverted the 5 regrets, yielding a list of 5 commands Don't ignore your dreams; don't work too much; say what you think; cultivate friendships; be happy. which I then put at the top of the file I use as a todo list.Japanese Translation"
+    ],
+    "word_count": 230,
+    "paragraph_count": 5
+  },
+  "processed_at": "2025-07-26T19:05:41.198610",
+  "paragraphs": [
+    {
+      "original": "April 2012A palliative care nurse called Bronnie Ware made a list of the biggest regrets of the dying. Her list seems plausible. I could see myself — can see myself — making at least 4 of these 5 mistakes.If you had to compress them into a single piece of advice, it might be: don't be a cog.",
+      "translated": "2012年4月，一位名为Bronnie Ware的临终关怀护士列出了临终者最大的遗憾。她的列表看起来很有道理。我能看到自己——现在也能看到——至少会犯这五项错误中的四项。如果要把这些建议压缩成一条，那可能是：不要成为机器上的一个齿轮。"
+    },
+    {
+      "original": "The 5 regrets paint a portrait of post-industrial man, who shrinks himself into a shape that fits his circumstances, then turns dutifully till he stops.The alarming thing is, the mistakes that produce these regrets are all errors of omission.",
+      "translated": "这五大遗憾勾勒出后工业时代人的画像，他们将自己缩小成适应环境的形状，然后勤勉地转动，直到停止。令人担忧的是，产生这些遗憾的错误都是疏忽之错。"
+    },
+    {
+      "original": "You forget your dreams, ignore your family, suppress your feelings, neglect your friends, and forget to be happy. Errors of omission are a particularly dangerous type of mistake, because you make them by default.I would like to avoid making these mistakes.",
+      "translated": "你忘记了梦想，忽视了家人，压抑了情感，忽略了朋友，忘记了快乐。遗漏的错误是一种特别危险的错误，因为它们是默认情况下犯下的。我想避免犯这些错误。"
+    },
+    {
+      "original": "But how do you avoid mistakes you make by default? Ideally you transform your life so it has other defaults. But it may not be possible to do that completely. As long as these mistakes happen by default, you probably have to be reminded not to make them.",
+      "translated": "但是，如何避免那些你惯常会犯的错误呢？理想情况下，你应该改变你的生活方式，使其有其他默认模式。但可能无法完全做到这一点。只要这些错误是默认情况下发生的，你就可能需要提醒自己不要犯这些错误。"
+    },
+    {
+      "original": "So I inverted the 5 regrets, yielding a list of 5 commands Don't ignore your dreams; don't work too much; say what you think; cultivate friendships; be happy. which I then put at the top of the file I use as a todo list.Japanese Translation",
+      "translated": "所以我把这5个遗憾反过来，得出了5个指令：不要忽视你的梦想；不要工作过度；说出你的想法；培养友谊；快乐生活。然后我把这些指令放在了我用作待办事项列表的文件顶部。"
+    }
+  ],
+  "translation_completed": "2025-07-27T12:40:29.284387",
+  "translation_stats": {
+    "total_paragraphs": 5,
+    "success_count": 5,
+    "success_rate": "100.0%"
+  }
+}

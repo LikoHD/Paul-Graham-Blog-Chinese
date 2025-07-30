@@ -1,0 +1,29 @@
+{
+  "title": "RSS",
+  "title_zh": "[待翻译] RSS",
+  "url": "https://www.paulgraham.com/rss.html",
+  "filename": "rss.html",
+  "date": "Unknown",
+  "id": 231,
+  "content": {
+    "success": true,
+    "paragraphs": [
+      "Aaron Swartz created a scraped feed of the essays page."
+    ],
+    "word_count": 10,
+    "paragraph_count": 1
+  },
+  "processed_at": "2025-07-26T19:09:05.671234",
+  "paragraphs": [
+    {
+      "original": "Aaron Swartz created a scraped feed of the essays page.",
+      "translated": "亚伦·斯沃茨创建了文章页面的抓取源。"
+    }
+  ],
+  "translation_completed": "2025-07-27T12:37:35.738585",
+  "translation_stats": {
+    "total_paragraphs": 1,
+    "success_count": 1,
+    "success_rate": "100.0%"
+  }
+}

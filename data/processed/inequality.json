@@ -1,0 +1,299 @@
+{
+  "title": "Inequality and Risk",
+  "title_zh": "[待翻译] Inequality and Risk",
+  "url": "https://www.paulgraham.com/inequality.html",
+  "filename": "inequality.html",
+  "date": "2021-03-27",
+  "id": 35,
+  "content": {
+    "success": true,
+    "paragraphs": [
+      "August 2005(This essay is derived from a talk at Defcon 2005.)Suppose you wanted to get rid of economic inequality. There are two ways to do it: give money to the poor, or take it away from the rich.",
+      "But they amount to the same thing, because if you want to give money to the poor, you have to get it from somewhere. You can't get it from the poor, or they just end up where they started. You have to get it from the rich.There is of course a way to make the poor richer without simply shifting money from the rich.",
+      "You could help the poor become more productive — for example, by improving access to education. Instead of taking money from engineers and giving it to checkout clerks, you could enable people who would have become checkout clerks to become engineers.This is an excellent strategy for making the poor richer.",
+      "But the evidence of the last 200 years shows that it doesn't reduce economic inequality, because it makes the rich richer too. If there are more engineers, then there are more opportunities to hire them and to sell them things.",
+      "Henry Ford couldn't have made a fortune building cars in a society in which most people were still subsistence farmers; he would have had neither workers nor customers.If you want to reduce economic inequality instead of just improving the overall standard of living, it's not enough just to raise up the poor.",
+      "What if one of your newly minted engineers gets ambitious and goes on to become another Bill Gates? Economic inequality will be as bad as ever. If you actually want to compress the gap between rich and poor, you have to push down on the top as well as pushing up on the bottom.How do you push down on the top?",
+      "You could try to decrease the productivity of the people who make the most money: make the best surgeons operate with their left hands, force popular actors to overeat, and so on. But this approach is hard to implement.",
+      "The only practical solution is to let people do the best work they can, and then (either by taxation or by limiting what they can charge) to confiscate whatever you deem to be surplus.So let's be clear what reducing economic inequality means.",
+      "It is identical with taking money from the rich.When you transform a mathematical expression into another form, you often notice new things. So it is in this case. Taking money from the rich turns out to have consequences one might not foresee when one phrases the same idea in terms of \"reducing inequality.\"The problem is, risk and reward have to be proportionate.",
+      "A bet with only a 10% chance of winning has to pay more than one with a 50% chance of winning, or no one will take it. So if you lop off the top of the possible rewards, you thereby decrease people's willingness to take risks.Transposing into our original expression, we get: decreasing economic inequality means decreasing the risk people are willing to take.There are whole classes of risks that are no longer worth taking if the maximum return is decreased.",
+      "One reason high tax rates are disastrous is that this class of risks includes starting new companies.InvestorsStartups are intrinsically risky. A startup is like a small boat in the open sea. One big wave and you're sunk.",
+      "A competing product, a downturn in the economy, a delay in getting funding or regulatory approval, a patent suit, changing technical standards, the departure of a key employee, the loss of a big account — any one of these can destroy you overnight.",
+      "It seems only about 1 in 10 startups succeeds. [1]Our startup paid its first round of outside investors 36x. Which meant, with current US tax rates, that it made sense to invest in us if we had better than a 1 in 24 chance of succeeding.",
+      "That sounds about right. That's probably roughly how we looked when we were a couple of nerds with no business experience operating out of an apartment.If that kind of risk doesn't pay, venture investing, as we know it, doesn't happen.That might be ok if there were other sources of capital for new companies.",
+      "Why not just have the government, or some large almost-government organization like Fannie Mae, do the venture investing instead of private funds?I'll tell you why that wouldn't work. Because then you're asking government or almost-government employees to do the one thing they are least able to do: take risks.As anyone who has worked for the government knows, the important thing is not to make the right choices, but to make choices that can be justified later if they fail.",
+      "If there is a safe option, that's the one a bureaucrat will choose. But that is exactly the wrong way to do venture investing. The nature of the business means that you want to make terribly risky choices, if the upside looks good enough.VCs are currently paid in a way that makes them focus on the upside: they get a percentage of the fund's gains.",
+      "And that helps overcome their understandable fear of investing in a company run by nerds who look like (and perhaps are) college students.If VCs weren't allowed to get rich, they'd behave like bureaucrats.",
+      "Without hope of gain, they'd have only fear of loss. And so they'd make the wrong choices. They'd turn down the nerds in favor of the smooth-talking MBA in a suit, because that investment would be easier to justify later if it failed.FoundersBut even if you could somehow redesign venture funding to work without allowing VCs to become rich, there's another kind of investor you simply cannot replace: the startups' founders and early employees.What they invest is their time and ideas.",
+      "But these are equivalent to money; the proof is that investors are willing (if forced) to treat them as interchangeable, granting the same status to \"sweat equity\" and the equity they've purchased with cash.The fact that you're investing time doesn't change the relationship between risk and reward.",
+      "If you're going to invest your time in something with a small chance of succeeding, you'll only do it if there is a proportionately large payoff. [2] If large payoffs aren't allowed, you may as well play it safe.Like many startup founders, I did it to get rich.",
+      "But not because I wanted to buy expensive things. What I wanted was security. I wanted to make enough money that I didn't have to worry about money. If I'd been forbidden to make enough from a startup to do this, I would have sought security by some other means: for example, by going to work for a big, stable organization from which it would be hard to get fired.",
+      "Instead of busting my ass in a startup, I would have tried to get a nice, low-stress job at a big research lab, or tenure at a university.That's what everyone does in societies where risk isn't rewarded.",
+      "If you can't ensure your own security, the next best thing is to make a nest for yourself in some large organization where your status depends mostly on seniority. [3]Even if we could somehow replace investors, I don't see how we could replace founders.",
+      "Investors mainly contribute money, which in principle is the same no matter what the source. But the founders contribute ideas. You can't replace those.Let's rehearse the chain of argument so far. I'm heading for a conclusion to which many readers will have to be dragged kicking and screaming, so I've tried to make each link unbreakable.",
+      "Decreasing economic inequality means taking money from the rich. Since risk and reward are equivalent, decreasing potential rewards automatically decreases people's appetite for risk. Startups are intrinsically risky.",
+      "Without the prospect of rewards proportionate to the risk, founders will not invest their time in a startup. Founders are irreplaceable. So eliminating economic inequality means eliminating startups.Economic inequality is not just a consequence of startups.",
+      "It's the engine that drives them, in the same way a fall of water drives a water mill. People start startups in the hope of becoming much richer than they were before. And if your society tries to prevent anyone from being much richer than anyone else, it will also prevent one person from being much richer at t2 than t1.GrowthThis argument applies proportionately.",
+      "It's not just that if you eliminate economic inequality, you get no startups. To the extent you reduce economic inequality, you decrease the number of startups. [4] Increase taxes, and willingness to take risks decreases in proportion.And that seems bad for everyone.",
+      "New technology and new jobs both come disproportionately from new companies. Indeed, if you don't have startups, pretty soon you won't have established companies either, just as, if you stop having kids, pretty soon you won't have any adults.It sounds benevolent to say we ought to reduce economic inequality.",
+      "When you phrase it that way, who can argue with you? Inequality has to be bad, right? It sounds a good deal less benevolent to say we ought to reduce the rate at which new companies are founded. And yet the one implies the other.Indeed, it may be that reducing investors' appetite for risk doesn't merely kill off larval startups, but kills off the most promising ones especially.",
+      "Startups yield faster growth at greater risk than established companies. Does this trend also hold among startups? That is, are the riskiest startups the ones that generate most growth if they succeed?",
+      "I suspect the answer is yes. And that's a chilling thought, because it means that if you cut investors' appetite for risk, the most beneficial startups are the first to go.Not all rich people got that way from startups, of course.",
+      "What if we let people get rich by starting startups, but taxed away all other surplus wealth? Wouldn't that at least decrease inequality?Less than you might think. If you made it so that people could only get rich by starting startups, people who wanted to get rich would all start startups.",
+      "And that might be a great thing. But I don't think it would have much effect on the distribution of wealth. People who want to get rich will do whatever they have to. If startups are the only way to do it, you'll just get far more people starting startups.",
+      "(If you write the laws very carefully, that is. More likely, you'll just get a lot of people doing things that can be made to look on paper like startups.)If we're determined to eliminate economic inequality, there is still one way out: we could say that we're willing to go ahead and do without startups.",
+      "What would happen if we did?At a minimum, we'd have to accept lower rates of technological growth. If you believe that large, established companies could somehow be made to develop new technology as fast as startups, the ball is in your court to explain how.",
+      "(If you can come up with a remotely plausible story, you can make a fortune writing business books and consulting for large companies.) [5]Ok, so we get slower growth. Is that so bad? Well, one reason it's bad in practice is that other countries might not agree to slow down with us.",
+      "If you're content to develop new technologies at a slower rate than the rest of the world, what happens is that you don't invent anything at all. Anything you might discover has already been invented elsewhere.",
+      "And the only thing you can offer in return is raw materials and cheap labor. Once you sink that low, other countries can do whatever they like with you: install puppet governments, siphon off your best workers, use your women as prostitutes, dump their toxic waste on your territory — all the things we do to poor countries now.",
+      "The only defense is to isolate yourself, as communist countries did in the twentieth century. But the problem then is, you have to become a police state to enforce it. Wealth and PowerI realize startups are not the main target of those who want to eliminate economic inequality.",
+      "What they really dislike is the sort of wealth that becomes self-perpetuating through an alliance with power. For example, construction firms that fund politicians' campaigns in return for government contracts, or rich parents who get their children into good colleges by sending them to expensive schools designed for that purpose.",
+      "But if you try to attack this type of wealth through economic policy, it's hard to hit without destroying startups as collateral damage.The problem here is not wealth, but corruption. So why not go after corruption?We don't need to prevent people from being rich if we can prevent wealth from translating into power.",
+      "And there has been progress on that front. Before he died of drink in 1925, Commodore Vanderbilt's wastrel grandson Reggie ran down pedestrians on five separate occasions, killing two of them. By 1969, when Ted Kennedy drove off the bridge at Chappaquiddick, the limit seemed to be down to one.",
+      "Today it may well be zero. But what's changed is not variation in wealth. What's changed is the ability to translate wealth into power.How do you break the connection between wealth and power? Demand transparency.",
+      "Watch closely how power is exercised, and demand an account of how decisions are made. Why aren't all police interrogations videotaped? Why did 36% of Princeton's class of 2007 come from prep schools, when only 1.7% of American kids attend them?",
+      "Why did the US really invade Iraq? Why don't government officials disclose more about their finances, and why only during their term of office?A friend of mine who knows a lot about computer security says the single most important step is to log everything.",
+      "Back when he was a kid trying to break into computers, what worried him most was the idea of leaving a trail. He was more inconvenienced by the need to avoid that than by any obstacle deliberately put in his path.Like all illicit connections, the connection between wealth and power flourishes in secret.",
+      "Expose all transactions, and you will greatly reduce it. Log everything. That's a strategy that already seems to be working, and it doesn't have the side effect of making your whole country poor.I don't think many people realize there is a connection between economic inequality and risk.",
+      "I didn't fully grasp it till recently. I'd known for years of course that if one didn't score in a startup, the other alternative was to get a cozy, tenured research job. But I didn't understand the equation governing my behavior.",
+      "Likewise, it's obvious empirically that a country that doesn't let people get rich is headed for disaster, whether it's Diocletian's Rome or Harold Wilson's Britain. But I did not till recently understand the role risk played.If you try to attack wealth, you end up nailing risk as well, and with it growth.",
+      "If we want a fairer world, I think we're better off attacking one step downstream, where wealth turns into power.Notes [1] Success here is defined from the initial investors' point of view: either an IPO, or an acquisition for more than the valuation at the last round of funding.",
+      "The conventional 1 in 10 success rate is suspiciously neat, but conversations with VCs suggest it's roughly correct for startups overall. Top VC firms expect to do better.[2] I'm not claiming founders sit down and calculate the expected after-tax return from a startup.",
+      "They're motivated by examples of other people who did it. And those examples do reflect after-tax returns.[3] Conjecture: The variation in wealth in a (non-corrupt) country or organization will be inversely proportional to the prevalence of systems of seniority.",
+      "So if you suppress variation in wealth, seniority will become correspondingly more important. So far, I know of no counterexamples, though in very corrupt countries you may get both simultaneously. (Thanks to Daniel Sobral for pointing this out.)[4] In a country with a truly feudal economy, you might be able to redistribute wealth successfully, because there are no startups to kill.[5] The speed at which startups develop new techology is the other reason they pay so well.",
+      "As I explained in \"How to Make Wealth\", what you do in a startup is compress a lifetime's worth of work into a few years. It seems as dumb to discourage that as to discourage risk-taking. Thanks to Chris Anderson, Trevor Blackwell, Dan Giffin, Jessica Livingston, and Evan Williams for reading drafts of this essay, and to Langley Steinert, Sangam Pant, and Mike Moritz for information about venture investing.Romanian TranslationDutch TranslationTraditional Chinese TranslationJapanese TranslationHebrew Translation If you liked this, you may also like Hackers & Painters."
+    ],
+    "word_count": 2784,
+    "paragraph_count": 55
+  },
+  "processed_at": "2025-07-26T19:02:32.153403",
+  "paragraphs": [
+    {
+      "original": "August 2005(This essay is derived from a talk at Defcon 2005.)Suppose you wanted to get rid of economic inequality. There are two ways to do it: give money to the poor, or take it away from the rich.",
+      "translated": "2005年8月（本文源自2005年Defcon大会上的演讲。）假设你想要消除经济不平等。有两种方法可以实现：给穷人钱，或者从富人那里拿走钱。"
+    },
+    {
+      "original": "But they amount to the same thing, because if you want to give money to the poor, you have to get it from somewhere. You can't get it from the poor, or they just end up where they started. You have to get it from the rich.There is of course a way to make the poor richer without simply shifting money from the rich.",
+      "translated": "但归根结底是一样的，因为如果你想把钱给穷人，总得有个来源。你不能从穷人那里拿钱，否则他们还是会回到原点。你得从富人那里拿。当然，有一种方法可以让穷人变得富裕，而不仅仅是从富人那里转移资金。"
+    },
+    {
+      "original": "You could help the poor become more productive — for example, by improving access to education. Instead of taking money from engineers and giving it to checkout clerks, you could enable people who would have become checkout clerks to become engineers.This is an excellent strategy for making the poor richer.",
+      "translated": "你可以帮助穷人提高生产力——例如，通过改善教育的获取。与其从工程师那里拿钱给收银员，不如让那些本来可能会成为收银员的人成为工程师。这是一个让穷人变得更富有的绝佳策略。"
+    },
+    {
+      "original": "But the evidence of the last 200 years shows that it doesn't reduce economic inequality, because it makes the rich richer too. If there are more engineers, then there are more opportunities to hire them and to sell them things.",
+      "translated": "但过去200年的证据表明，这并没有减少经济不平等，因为它也使富人更富。如果工程师更多，那么雇佣他们和向他们销售产品的机会也会更多。"
+    },
+    {
+      "original": "Henry Ford couldn't have made a fortune building cars in a society in which most people were still subsistence farmers; he would have had neither workers nor customers.If you want to reduce economic inequality instead of just improving the overall standard of living, it's not enough just to raise up the poor.",
+      "translated": "亨利·福特在一个大多数人仍然是自给自足农民的社会里是不可能通过制造汽车发家致富的；他既不会有工人也不会有顾客。如果你想减少经济不平等，而不仅仅是提高整体生活水平，仅仅提高穷人的地位是不够的。"
+    },
+    {
+      "original": "What if one of your newly minted engineers gets ambitious and goes on to become another Bill Gates? Economic inequality will be as bad as ever. If you actually want to compress the gap between rich and poor, you have to push down on the top as well as pushing up on the bottom.How do you push down on the top?",
+      "translated": "如果你的新工程师中有一位雄心勃勃，最终成为另一个比尔·盖茨呢？经济不平等的情况将会和以前一样糟糕。如果你真的想缩小贫富差距，就必须在提升底层的同时，也要抑制顶层。那么，如何抑制顶层呢？"
+    },
+    {
+      "original": "You could try to decrease the productivity of the people who make the most money: make the best surgeons operate with their left hands, force popular actors to overeat, and so on. But this approach is hard to implement.",
+      "translated": "你可以尝试降低那些赚最多钱的人的生产力：让最好的外科医生用左手做手术，强迫受欢迎的演员暴饮暴食，等等。但这种方法很难实施。"
+    },
+    {
+      "original": "The only practical solution is to let people do the best work they can, and then (either by taxation or by limiting what they can charge) to confiscate whatever you deem to be surplus.So let's be clear what reducing economic inequality means.",
+      "translated": "唯一的实际解决方案是让人们尽他们所能地工作，然后（通过征税或限制他们可以收取的费用）收缴你认为是多余的那部分。所以，让我们明确减少经济不平等的含义。"
+    },
+    {
+      "original": "It is identical with taking money from the rich.When you transform a mathematical expression into another form, you often notice new things. So it is in this case. Taking money from the rich turns out to have consequences one might not foresee when one phrases the same idea in terms of \"reducing inequality.\"The problem is, risk and reward have to be proportionate.",
+      "translated": "这就像从富人那里拿钱一样。当你将一个数学表达式转换成另一种形式时，往往会注意到新的东西。在这个例子中也是如此。用“减少不平等”来表达同样的想法，结果可能会产生一些意想不到的后果。问题在于，风险和回报必须成比例。"
+    },
+    {
+      "original": "A bet with only a 10% chance of winning has to pay more than one with a 50% chance of winning, or no one will take it. So if you lop off the top of the possible rewards, you thereby decrease people's willingness to take risks.Transposing into our original expression, we get: decreasing economic inequality means decreasing the risk people are willing to take.There are whole classes of risks that are no longer worth taking if the maximum return is decreased.",
+      "translated": "只有10%胜算的赌注必须比有50%胜算的赌注提供更高的回报，否则没有人会接受。因此，如果你削减了可能回报的上限，你就降低了人们承担风险的意愿。转换成我们最初的表述，就是：减少经济不平等意味着减少人们愿意承担的风险。如果最高回报减少，某些类别的风险将不再值得承担。"
+    },
+    {
+      "original": "One reason high tax rates are disastrous is that this class of risks includes starting new companies.InvestorsStartups are intrinsically risky. A startup is like a small boat in the open sea. One big wave and you're sunk.",
+      "translated": "高税率之所以灾难性的一个原因是，这类风险包括了创办新公司。初创企业本身具有高度风险。初创企业就像在大海上的一艘小船，一个大浪打来，就会沉没。"
+    },
+    {
+      "original": "A competing product, a downturn in the economy, a delay in getting funding or regulatory approval, a patent suit, changing technical standards, the departure of a key employee, the loss of a big account — any one of these can destroy you overnight.",
+      "translated": "一个竞争对手的产品、经济的下滑、资金或监管审批的延迟、专利诉讼、技术标准的变化、关键员工的离职、大客户的流失——这些任何一件都可能在一夜之间摧毁你。"
+    },
+    {
+      "original": "It seems only about 1 in 10 startups succeeds. [1]Our startup paid its first round of outside investors 36x. Which meant, with current US tax rates, that it made sense to invest in us if we had better than a 1 in 24 chance of succeeding.",
+      "translated": "似乎只有大约十分之一的初创企业能够成功。[1]我们公司向第一轮外部投资者支付了36倍的回报。这意味着，按照目前的美国税率，如果我们有超过二十四分之一的成功机会，投资我们就是值得的。"
+    },
+    {
+      "original": "That sounds about right. That's probably roughly how we looked when we were a couple of nerds with no business experience operating out of an apartment.If that kind of risk doesn't pay, venture investing, as we know it, doesn't happen.That might be ok if there were other sources of capital for new companies.",
+      "translated": "听起来没错。那大概就是我们当初作为几个没有商业经验的书呆子在公寓里运营时的样子。如果这种风险得不到回报，我们所知的风险投资就不会发生。如果新兴公司还有其他资金来源的话，这或许还好。"
+    },
+    {
+      "original": "Why not just have the government, or some large almost-government organization like Fannie Mae, do the venture investing instead of private funds?I'll tell you why that wouldn't work. Because then you're asking government or almost-government employees to do the one thing they are least able to do: take risks.As anyone who has worked for the government knows, the important thing is not to make the right choices, but to make choices that can be justified later if they fail.",
+      "translated": "为什么不由政府或像房利美这样的准政府大型组织来代替私人基金进行风险投资呢？我来告诉你为什么这行不通。因为这样一来，你就是在要求政府或准政府的员工去做他们最不擅长的事情：承担风险。任何在政府工作过的人都知道，重要的不是做出正确的选择，而是做出在失败后可以被证明合理的选择。"
+    },
+    {
+      "original": "If there is a safe option, that's the one a bureaucrat will choose. But that is exactly the wrong way to do venture investing. The nature of the business means that you want to make terribly risky choices, if the upside looks good enough.VCs are currently paid in a way that makes them focus on the upside: they get a percentage of the fund's gains.",
+      "translated": "如果有安全的选择，官僚们会选择那个。但这正是风险投资中错误的做法。这项业务的本质意味着，如果潜在的收益足够大，你应该做出极其冒险的选择。目前，风险投资家的薪酬结构使他们关注潜在收益：他们可以获得基金收益的一部分。"
+    },
+    {
+      "original": "And that helps overcome their understandable fear of investing in a company run by nerds who look like (and perhaps are) college students.If VCs weren't allowed to get rich, they'd behave like bureaucrats.",
+      "translated": "这有助于克服他们对投资一家由看起来像是（或许真的是）大学生的书呆子管理的公司所持有的合情合理的恐惧。如果风险投资家不能致富，他们就会表现得像官僚一样。"
+    },
+    {
+      "original": "Without hope of gain, they'd have only fear of loss. And so they'd make the wrong choices. They'd turn down the nerds in favor of the smooth-talking MBA in a suit, because that investment would be easier to justify later if it failed.FoundersBut even if you could somehow redesign venture funding to work without allowing VCs to become rich, there's another kind of investor you simply cannot replace: the startups' founders and early employees.What they invest is their time and ideas.",
+      "translated": "如果没有盈利的希望，他们就只会害怕损失。因此，他们会做出错误的选择。他们会拒绝那些书呆子，而选择穿着西装、善于言谈的MBA，因为如果这项投资失败了，以后更容易为自己辩解。但是，即使你能 somehow 重新设计风险投资，使其在不让风险投资人变得富裕的情况下运作，还有一种投资者是你绝对无法替代的：初创企业的创始人和早期员工。他们投入的是时间和创意。"
+    },
+    {
+      "original": "But these are equivalent to money; the proof is that investors are willing (if forced) to treat them as interchangeable, granting the same status to \"sweat equity\" and the equity they've purchased with cash.The fact that you're investing time doesn't change the relationship between risk and reward.",
+      "translated": "但这些都相当于金钱；证据在于，投资者（如果被迫）愿意将它们视为可互换的，给予“劳动股权”和他们用现金购买的股权相同的待遇。你投入的是时间这一事实，并不会改变风险与回报之间的关系。"
+    },
+    {
+      "original": "If you're going to invest your time in something with a small chance of succeeding, you'll only do it if there is a proportionately large payoff. [2] If large payoffs aren't allowed, you may as well play it safe.Like many startup founders, I did it to get rich.",
+      "translated": "如果你要将时间投资在成功几率很小的事情上，只有在回报足够大的情况下你才会去做。[2] 如果大的回报是不可能的，那还不如选择稳妥的方式。像许多初创企业的创始人一样，我这样做是为了致富。"
+    },
+    {
+      "original": "But not because I wanted to buy expensive things. What I wanted was security. I wanted to make enough money that I didn't have to worry about money. If I'd been forbidden to make enough from a startup to do this, I would have sought security by some other means: for example, by going to work for a big, stable organization from which it would be hard to get fired.",
+      "translated": "但并不是因为我想要买昂贵的东西。我想要的是安全感。我希望赚足够的钱，这样就不用为钱发愁了。如果我被禁止通过创业赚到足够的钱来实现这一点，我也会通过其他方式寻求安全感：例如，去一家大而稳定的组织工作，这样被解雇的可能性就很小。"
+    },
+    {
+      "original": "Instead of busting my ass in a startup, I would have tried to get a nice, low-stress job at a big research lab, or tenure at a university.That's what everyone does in societies where risk isn't rewarded.",
+      "translated": "与其在创业公司拼命努力，我本应该尝试在大型研究实验室找一份轻松的工作，或者在大学里获得终身教职。在那些不奖励冒险的社会里，每个人都是这么做的。"
+    },
+    {
+      "original": "If you can't ensure your own security, the next best thing is to make a nest for yourself in some large organization where your status depends mostly on seniority. [3]Even if we could somehow replace investors, I don't see how we could replace founders.",
+      "translated": "如果你无法确保自己的安全，次优的选择是在某个大型组织中为自己筑巢，让你的地位主要依赖于资历。[3]即使我们 somehow 能够取代投资者，我也看不出我们如何能够取代创始人。"
+    },
+    {
+      "original": "Investors mainly contribute money, which in principle is the same no matter what the source. But the founders contribute ideas. You can't replace those.Let's rehearse the chain of argument so far. I'm heading for a conclusion to which many readers will have to be dragged kicking and screaming, so I've tried to make each link unbreakable.",
+      "translated": "投资者主要提供资金，无论资金来源如何，原则上都是一样的。但创始人贡献的是想法，这是无法替代的。让我们回顾一下到目前为止的论证过程。我将得出一个许多读者可能会极力反对的结论，所以我尽量使每个环节都无懈可击。"
+    },
+    {
+      "original": "Decreasing economic inequality means taking money from the rich. Since risk and reward are equivalent, decreasing potential rewards automatically decreases people's appetite for risk. Startups are intrinsically risky.",
+      "translated": "减少经济不平等意味着从富人那里拿钱。由于风险与回报是等价的，减少潜在的回报自然会降低人们承担风险的意愿。初创企业本质上是高风险的。"
+    },
+    {
+      "original": "Without the prospect of rewards proportionate to the risk, founders will not invest their time in a startup. Founders are irreplaceable. So eliminating economic inequality means eliminating startups.Economic inequality is not just a consequence of startups.",
+      "translated": "如果没有与风险相称的回报前景，创始人不会将时间投入到初创企业中。创始人是不可替代的。因此，消除经济不平等意味着消除初创企业。经济不平等不仅仅是初创企业的后果。"
+    },
+    {
+      "original": "It's the engine that drives them, in the same way a fall of water drives a water mill. People start startups in the hope of becoming much richer than they were before. And if your society tries to prevent anyone from being much richer than anyone else, it will also prevent one person from being much richer at t2 than t1.GrowthThis argument applies proportionately.",
+      "translated": "这就是推动它们的引擎，就像瀑布推动水磨一样。人们创办初创企业是希望变得比以前富裕得多。如果你的社会试图阻止任何人变得比其他人富裕得多，那么它也会阻止一个人在t2时比t1时富裕得多。这一论点是按比例适用的。"
+    },
+    {
+      "original": "It's not just that if you eliminate economic inequality, you get no startups. To the extent you reduce economic inequality, you decrease the number of startups. [4] Increase taxes, and willingness to take risks decreases in proportion.And that seems bad for everyone.",
+      "translated": "不仅仅是消除经济不平等会导致初创企业消失。在减少经济不平等的程度上，初创企业的数量也会相应减少。[4] 增加税收，人们承担风险的意愿也会按比例下降。这似乎对所有人都不利。"
+    },
+    {
+      "original": "New technology and new jobs both come disproportionately from new companies. Indeed, if you don't have startups, pretty soon you won't have established companies either, just as, if you stop having kids, pretty soon you won't have any adults.It sounds benevolent to say we ought to reduce economic inequality.",
+      "translated": "新技术和新工作大多来自于新公司。事实上，如果你没有初创企业，很快你就不会有成熟的企业了，就像如果你停止生孩子，很快你就不会有成年人一样。说我们应该减少经济不平等听起来很仁慈。"
+    },
+    {
+      "original": "When you phrase it that way, who can argue with you? Inequality has to be bad, right? It sounds a good deal less benevolent to say we ought to reduce the rate at which new companies are founded. And yet the one implies the other.Indeed, it may be that reducing investors' appetite for risk doesn't merely kill off larval startups, but kills off the most promising ones especially.",
+      "translated": "当你这样表达时，谁还能反驳你呢？不平等当然是不好的，对吧？如果说我们应该减少新公司的成立速度，听起来就不会那么仁慈了。然而，前者确实意味着后者。实际上，降低投资者的风险偏好不仅会扼杀初创企业，尤其是那些最有前景的。"
+    },
+    {
+      "original": "Startups yield faster growth at greater risk than established companies. Does this trend also hold among startups? That is, are the riskiest startups the ones that generate most growth if they succeed?",
+      "translated": "初创企业相比成熟公司以更高的风险换取更快的增长。这种趋势在初创企业之间是否也存在？也就是说，最冒险的初创企业是否在成功时也带来了最多的增长？"
+    },
+    {
+      "original": "I suspect the answer is yes. And that's a chilling thought, because it means that if you cut investors' appetite for risk, the most beneficial startups are the first to go.Not all rich people got that way from startups, of course.",
+      "translated": "我认为答案是肯定的。这是一个令人不寒而栗的想法，因为它意味着，如果你降低了投资者对风险的偏好，那些最具潜力的初创企业将首先受到影响。当然，并不是所有富人都靠初创企业发家。"
+    },
+    {
+      "original": "What if we let people get rich by starting startups, but taxed away all other surplus wealth? Wouldn't that at least decrease inequality?Less than you might think. If you made it so that people could only get rich by starting startups, people who wanted to get rich would all start startups.",
+      "translated": "如果我们让人们通过创办初创企业致富，但对所有其他剩余财富征税，这是否会至少减少不平等？效果可能没有你想象的那么大。如果规定人们只能通过创办初创企业致富，那么想要致富的人都会去创办初创企业。"
+    },
+    {
+      "original": "And that might be a great thing. But I don't think it would have much effect on the distribution of wealth. People who want to get rich will do whatever they have to. If startups are the only way to do it, you'll just get far more people starting startups.",
+      "translated": "这可能是一件好事。但我认为这对财富分配不会有太大影响。想要致富的人会不惜一切代价。如果创业是唯一的途径，那么将会有更多的人投身于创业。"
+    },
+    {
+      "original": "(If you write the laws very carefully, that is. More likely, you'll just get a lot of people doing things that can be made to look on paper like startups.)If we're determined to eliminate economic inequality, there is still one way out: we could say that we're willing to go ahead and do without startups.",
+      "translated": "（当然，前提是法律要制定得非常周密。更有可能的是，你只会看到很多人做些表面上看起来像创业公司的事情。）如果我们决心消除经济不平等，仍有一条出路：我们可以声明，我们愿意放弃创业公司。"
+    },
+    {
+      "original": "What would happen if we did?At a minimum, we'd have to accept lower rates of technological growth. If you believe that large, established companies could somehow be made to develop new technology as fast as startups, the ball is in your court to explain how.",
+      "translated": "如果我们这样做会怎样？至少，我们必须接受较低的技术增长率。如果你认为大型成熟公司 somehow 可以被促使以与初创公司相同的速度开发新技术，那么你需要解释这如何实现。"
+    },
+    {
+      "original": "(If you can come up with a remotely plausible story, you can make a fortune writing business books and consulting for large companies.) [5]Ok, so we get slower growth. Is that so bad? Well, one reason it's bad in practice is that other countries might not agree to slow down with us.",
+      "translated": "（如果你能编出一个勉强可信的故事，你就可以通过撰写商业书籍和为大公司提供咨询而赚取大量财富。）[5]好吧，所以我们增长速度变慢了。这真的那么糟糕吗？实际上，其中一个原因是其他国家可能不会同意和我们一起放慢速度。"
+    },
+    {
+      "original": "If you're content to develop new technologies at a slower rate than the rest of the world, what happens is that you don't invent anything at all. Anything you might discover has already been invented elsewhere.",
+      "translated": "如果你满足于以比世界其他地方更慢的速度开发新技术，那么结果就是你根本不会有什么发明创造。任何你可能发现的东西，别处已经有人发明了。"
+    },
+    {
+      "original": "And the only thing you can offer in return is raw materials and cheap labor. Once you sink that low, other countries can do whatever they like with you: install puppet governments, siphon off your best workers, use your women as prostitutes, dump their toxic waste on your territory — all the things we do to poor countries now.",
+      "translated": "而你所能提供的只有原材料和廉价劳动力。一旦降到这种地步，其他国家就可以随意对待你：扶持傀儡政府，掠夺你最优秀的工人，将你的女性当作妓女，将有毒废物倾倒在你的领土上——所有我们现在对贫穷国家做的事情。"
+    },
+    {
+      "original": "The only defense is to isolate yourself, as communist countries did in the twentieth century. But the problem then is, you have to become a police state to enforce it. Wealth and PowerI realize startups are not the main target of those who want to eliminate economic inequality.",
+      "translated": "唯一的防御方法是将自己隔离，就像20世纪的共产国家那样。但问题是，你必须成为一个警察国家来强制执行这一点。财富与权力我意识到，初创企业并不是那些想要消除经济不平等的人的主要目标。"
+    },
+    {
+      "original": "What they really dislike is the sort of wealth that becomes self-perpetuating through an alliance with power. For example, construction firms that fund politicians' campaigns in return for government contracts, or rich parents who get their children into good colleges by sending them to expensive schools designed for that purpose.",
+      "translated": "他们真正反感的是那种通过与权力结盟而自我延续的财富。例如，建筑公司通过资助政客的竞选活动以换取政府合同，或者富有的父母通过将孩子送到专门为这个目的设立的昂贵学校，从而让他们进入好大学。"
+    },
+    {
+      "original": "But if you try to attack this type of wealth through economic policy, it's hard to hit without destroying startups as collateral damage.The problem here is not wealth, but corruption. So why not go after corruption?We don't need to prevent people from being rich if we can prevent wealth from translating into power.",
+      "translated": "但是，如果你试图通过经济政策来打击这种财富，很难做到不误伤初创企业。这里的问题不在于财富，而在于腐败。那么为什么不打击腐败呢？如果我们能够防止财富转化为权力，就不需要阻止人们变得富有。"
+    },
+    {
+      "original": "And there has been progress on that front. Before he died of drink in 1925, Commodore Vanderbilt's wastrel grandson Reggie ran down pedestrians on five separate occasions, killing two of them. By 1969, when Ted Kennedy drove off the bridge at Chappaquiddick, the limit seemed to be down to one.",
+      "translated": "在这方面已经有所进展。1925年，范德比尔特上校的浪荡孙子雷吉因酗酒去世前，曾在五次不同的场合撞倒行人，导致两人死亡。到了1969年，当泰德·肯尼迪在查帕奎迪克驾车冲下桥时，这种行为的极限似乎已经降低到一次。"
+    },
+    {
+      "original": "Today it may well be zero. But what's changed is not variation in wealth. What's changed is the ability to translate wealth into power.How do you break the connection between wealth and power? Demand transparency.",
+      "translated": "今天可能是零。但发生变化的不是财富的波动。发生变化的是将财富转化为权力的能力。如何打破财富与权力之间的联系？要求透明。"
+    },
+    {
+      "original": "Watch closely how power is exercised, and demand an account of how decisions are made. Why aren't all police interrogations videotaped? Why did 36% of Princeton's class of 2007 come from prep schools, when only 1.7% of American kids attend them?",
+      "translated": "密切关注权力的行使，并要求对决策过程作出解释。为什么不是所有的警察审讯都进行录像？为什么普林斯顿大学2007届的学生中有36%来自预备学校，而美国孩子中只有1.7%上这类学校？"
+    },
+    {
+      "original": "Why did the US really invade Iraq? Why don't government officials disclose more about their finances, and why only during their term of office?A friend of mine who knows a lot about computer security says the single most important step is to log everything.",
+      "translated": "美国为什么真的入侵伊拉克？为什么政府官员不更多地披露他们的财务状况，而且只在任期内披露？我的一个对计算机安全很了解的朋友说，最重要的一步是记录一切。"
+    },
+    {
+      "original": "Back when he was a kid trying to break into computers, what worried him most was the idea of leaving a trail. He was more inconvenienced by the need to avoid that than by any obstacle deliberately put in his path.Like all illicit connections, the connection between wealth and power flourishes in secret.",
+      "translated": "当他还是个孩子试图侵入计算机时，最让他担心的是可能会留下痕迹。比起任何故意设置的障碍，他更觉得避免留下痕迹是一种麻烦。正如所有非法联系一样，财富与权力之间的联系在暗中蓬勃发展。"
+    },
+    {
+      "original": "Expose all transactions, and you will greatly reduce it. Log everything. That's a strategy that already seems to be working, and it doesn't have the side effect of making your whole country poor.I don't think many people realize there is a connection between economic inequality and risk.",
+      "translated": "公开所有交易，你将大幅减少这种风险。记录一切。这已经是一种看似有效的策略，而且不会导致整个国家陷入贫困。我认为很多人没有意识到经济不平等与风险之间存在联系。"
+    },
+    {
+      "original": "I didn't fully grasp it till recently. I'd known for years of course that if one didn't score in a startup, the other alternative was to get a cozy, tenured research job. But I didn't understand the equation governing my behavior.",
+      "translated": "直到最近我才完全明白。当然，多年来我一直知道，如果在创业中没有成功，另一种选择就是找一个舒适且有保障的研究工作。但我没有理解支配我行为的等式。"
+    },
+    {
+      "original": "Likewise, it's obvious empirically that a country that doesn't let people get rich is headed for disaster, whether it's Diocletian's Rome or Harold Wilson's Britain. But I did not till recently understand the role risk played.If you try to attack wealth, you end up nailing risk as well, and with it growth.",
+      "translated": "同样，从经验上来看，一个不让人民致富的国家注定要走向灾难，无论是戴克里先的罗马还是哈罗德·威尔逊的英国。但直到最近，我才明白风险在其中所起的作用。如果你试图攻击财富，最终也会打击到风险，进而影响增长。"
+    },
+    {
+      "original": "If we want a fairer world, I think we're better off attacking one step downstream, where wealth turns into power.Notes [1] Success here is defined from the initial investors' point of view: either an IPO, or an acquisition for more than the valuation at the last round of funding.",
+      "translated": "如果我们希望世界更加公平，我认为我们应该在财富转化为权力的这一环节进行干预。注释 [1] 这里的成功是从初始投资者的角度定义的：要么是首次公开募股（IPO），要么是以高于最后一轮融资估值的价格被收购。"
+    },
+    {
+      "original": "The conventional 1 in 10 success rate is suspiciously neat, but conversations with VCs suggest it's roughly correct for startups overall. Top VC firms expect to do better.[2] I'm not claiming founders sit down and calculate the expected after-tax return from a startup.",
+      "translated": "传统的十分之一的成功率看似过于整齐，但与风险投资人的对话表明，这一比例大致符合初创企业整体的情况。顶级风投公司预计会做得更好。[2] 我并不是说创始人会坐下来计算创业的预期税后回报。"
+    },
+    {
+      "original": "They're motivated by examples of other people who did it. And those examples do reflect after-tax returns.[3] Conjecture: The variation in wealth in a (non-corrupt) country or organization will be inversely proportional to the prevalence of systems of seniority.",
+      "translated": "他们受到其他成功人士的激励。而这些例子确实反映了税后收益。[3] 猜想：在一个（非腐败的）国家或组织中，财富的差异将与资历制度的普遍程度成反比。"
+    },
+    {
+      "original": "So if you suppress variation in wealth, seniority will become correspondingly more important. So far, I know of no counterexamples, though in very corrupt countries you may get both simultaneously. (Thanks to Daniel Sobral for pointing this out.)[4] In a country with a truly feudal economy, you might be able to redistribute wealth successfully, because there are no startups to kill.[5] The speed at which startups develop new techology is the other reason they pay so well.",
+      "translated": "因此，如果你抑制财富的差异，资历就会相应地变得更加重要。到目前为止，我还没有发现反例，尽管在非常腐败的国家，这两种情况可能会同时出现。（感谢Daniel Sobral指出这一点。）[4] 在一个真正封建经济的国家，你或许能够成功地重新分配财富，因为那里没有初创企业会被扼杀。[5] 初创企业能够迅速开发新技术的速度是它们薪酬丰厚的另一个原因。"
+    },
+    {
+      "original": "As I explained in \"How to Make Wealth\", what you do in a startup is compress a lifetime's worth of work into a few years. It seems as dumb to discourage that as to discourage risk-taking. Thanks to Chris Anderson, Trevor Blackwell, Dan Giffin, Jessica Livingston, and Evan Williams for reading drafts of this essay, and to Langley Steinert, Sangam Pant, and Mike Moritz for information about venture investing.Romanian TranslationDutch TranslationTraditional Chinese TranslationJapanese TranslationHebrew Translation If you liked this, you may also like Hackers & Painters.",
+      "translated": "正如我在《如何创造财富》中所解释的，你在创业公司所做的就是将一生的工作压缩到几年内完成。阻止这一点似乎和阻止冒险一样愚蠢。感谢 Chris Anderson、Trevor Blackwell、Dan Giffin、Jessica Livingston 和 Evan Williams 阅读本文的草稿，感谢 Langley Steinert、Sangam Pant 和 Mike Moritz 提供关于风险投资的信息。如果你喜欢这篇文章，你可能也会喜欢《黑客与画家》。"
+    }
+  ],
+  "translation_completed": "2025-07-28T15:45:47.777967",
+  "translation_stats": {
+    "total_paragraphs": 55,
+    "success_count": 55,
+    "success_rate": "100.0%"
+  }
+}

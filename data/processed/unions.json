@@ -1,0 +1,74 @@
+{
+  "title": "An Alternative Theory of Unions",
+  "title_zh": "[待翻译] An Alternative Theory of Unions",
+  "url": "https://www.paulgraham.com/unions.html",
+  "filename": "unions.html",
+  "date": "2020-11-14",
+  "id": 67,
+  "content": {
+    "success": true,
+    "paragraphs": [
+      "May 2007People who worry about the increasing gap between rich and poor generally look back on the mid twentieth century as a golden age. In those days we had a large number of high-paying union manufacturing jobs that boosted the median income.",
+      "I wouldn't quite call the high-paying union job a myth, but I think people who dwell on it are reading too much into it.Oddly enough, it was working with startups that made me realize where the high-paying union job came from.",
+      "In a rapidly growing market, you don't worry too much about efficiency. It's more important to grow fast. If there's some mundane problem getting in your way, and there's a simple solution that's somewhat expensive, just take it and get on with more important things.",
+      "EBay didn't win by paying less for servers than their competitors.Difficult though it may be to imagine now, manufacturing was a growth industry in the mid twentieth century. This was an era when small firms making everything from cars to candy were getting consolidated into a new kind of corporation with national reach and huge economies of scale.",
+      "You had to grow fast or die. Workers were for these companies what servers are for an Internet startup. A reliable supply was more important than low cost.If you looked in the head of a 1950s auto executive, the attitude must have been: sure, give 'em whatever they ask for, so long as the new model isn't delayed.In other words, those workers were not paid what their work was worth.",
+      "Circumstances being what they were, companies would have been stupid to insist on paying them so little.If you want a less controversial example of this phenomenon, ask anyone who worked as a consultant building web sites during the Internet Bubble.",
+      "In the late nineties you could get paid huge sums of money for building the most trivial things. And yet does anyone who was there have any expectation those days will ever return? I doubt it. Surely everyone realizes that was just a temporary aberration.The era of labor unions seems to have been the same kind of aberration, just spread over a longer period, and mixed together with a lot of ideology that prevents people from viewing it with as cold an eye as they would something like consulting during the Bubble.Basically, unions were just Razorfish.People who think the labor movement was the creation of heroic union organizers have a problem to explain: why are unions shrinking now?",
+      "The best they can do is fall back on the default explanation of people living in fallen civilizations. Our ancestors were giants. The workers of the early twentieth century must have had a moral courage that's lacking today.In fact there's a simpler explanation.",
+      "The early twentieth century was just a fast-growing startup overpaying for infrastructure. And we in the present are not a fallen people, who have abandoned whatever mysterious high-minded principles produced the high-paying union job.",
+      "We simply live in a time when the fast-growing companies overspend on different things."
+    ],
+    "word_count": 505,
+    "paragraph_count": 10
+  },
+  "processed_at": "2025-07-26T19:03:34.390266",
+  "paragraphs": [
+    {
+      "original": "May 2007People who worry about the increasing gap between rich and poor generally look back on the mid twentieth century as a golden age. In those days we had a large number of high-paying union manufacturing jobs that boosted the median income.",
+      "translated": "2007年5月，担心贫富差距日益扩大的人们通常会回顾20世纪中叶，将其视为黄金时代。在那个时期，我们有许多高薪的工会制造岗位，这些岗位提升了中等收入水平。"
+    },
+    {
+      "original": "I wouldn't quite call the high-paying union job a myth, but I think people who dwell on it are reading too much into it.Oddly enough, it was working with startups that made me realize where the high-paying union job came from.",
+      "translated": "我不会完全将高薪工会工作称为一个神话，但我觉得那些对此念念不忘的人可能有些过度解读了。有趣的是，正是在初创企业工作的经历让我意识到高薪工会工作的由来。"
+    },
+    {
+      "original": "In a rapidly growing market, you don't worry too much about efficiency. It's more important to grow fast. If there's some mundane problem getting in your way, and there's a simple solution that's somewhat expensive, just take it and get on with more important things.",
+      "translated": "在快速增长的市场中，你不必过于担心效率。更重要的是快速扩张。如果有些琐碎的问题挡住了你的路，而有一个虽然有些昂贵但简单的解决方案，那就采用它，继续处理更重要的事情。"
+    },
+    {
+      "original": "EBay didn't win by paying less for servers than their competitors.Difficult though it may be to imagine now, manufacturing was a growth industry in the mid twentieth century. This was an era when small firms making everything from cars to candy were getting consolidated into a new kind of corporation with national reach and huge economies of scale.",
+      "translated": "eBay 并不是通过比竞争对手支付更少的服务器费用而获胜的。尽管现在可能难以想象，但在二十世纪中叶，制造业是一个增长行业。这是一个小型企业从汽车到糖果等各个领域都被整合成一种具有全国范围和巨大规模经济的新类型公司的时代。"
+    },
+    {
+      "original": "You had to grow fast or die. Workers were for these companies what servers are for an Internet startup. A reliable supply was more important than low cost.If you looked in the head of a 1950s auto executive, the attitude must have been: sure, give 'em whatever they ask for, so long as the new model isn't delayed.In other words, those workers were not paid what their work was worth.",
+      "translated": "你必须快速成长，否则就会消亡。对于这些公司而言，工人就像互联网初创公司的服务器一样重要。稳定的供应比低成本更为重要。如果看看20世纪50年代的汽车业高管心里的想法，态度一定是：当然，给他们所要求的一切，只要新车型的推出不被推迟。换句话说，这些工人的薪酬并不等于他们工作的真实价值。"
+    },
+    {
+      "original": "Circumstances being what they were, companies would have been stupid to insist on paying them so little.If you want a less controversial example of this phenomenon, ask anyone who worked as a consultant building web sites during the Internet Bubble.",
+      "translated": "鉴于当时的情况，公司如果坚持支付如此低的薪酬就是愚蠢的。如果你想找个争议较小的例子，可以问问任何在互联网泡沫期间担任网站建设顾问的人。"
+    },
+    {
+      "original": "In the late nineties you could get paid huge sums of money for building the most trivial things. And yet does anyone who was there have any expectation those days will ever return? I doubt it. Surely everyone realizes that was just a temporary aberration.The era of labor unions seems to have been the same kind of aberration, just spread over a longer period, and mixed together with a lot of ideology that prevents people from viewing it with as cold an eye as they would something like consulting during the Bubble.Basically, unions were just Razorfish.People who think the labor movement was the creation of heroic union organizers have a problem to explain: why are unions shrinking now?",
+      "translated": "在二十世纪九十年代末，你可以因为构建最简单的事情而获得巨额报酬。然而，有谁会认为那些日子还会再来吗？我对此表示怀疑。显然，每个人都知道那只是暂时的异常现象。工会时代似乎也是同样的异常现象，只是持续时间更长，并且与许多意识形态混杂在一起，这使得人们无法像看待泡沫期间的咨询业那样冷静地看待它。实际上，工会只不过是Razorfish（注：此处指当时的一种典型科技公司）。认为劳工运动是由英勇的工会组织者创造的人有一个问题需要解释：为什么工会现在正在萎缩？"
+    },
+    {
+      "original": "The best they can do is fall back on the default explanation of people living in fallen civilizations. Our ancestors were giants. The workers of the early twentieth century must have had a moral courage that's lacking today.In fact there's a simpler explanation.",
+      "translated": "他们所能做的就是退回到对衰落文明中人们生活的默认解释。我们的祖先都是巨人。20世纪初的工人必定拥有一种当今所缺乏的道德勇气。其实，有一个更简单的解释。"
+    },
+    {
+      "original": "The early twentieth century was just a fast-growing startup overpaying for infrastructure. And we in the present are not a fallen people, who have abandoned whatever mysterious high-minded principles produced the high-paying union job.",
+      "translated": "二十世纪初就像是一个快速增长的创业公司，为基础设施支付了过高的费用。而我们当今的人们并不是堕落的一代，我们并没有放弃那些曾经创造了高薪工会工作的神秘高尚原则。"
+    },
+    {
+      "original": "We simply live in a time when the fast-growing companies overspend on different things.",
+      "translated": "我们生活在一个快速增长的公司过度支出于不同事物的时代。"
+    }
+  ],
+  "translation_completed": "2025-07-27T12:50:25.532738",
+  "translation_stats": {
+    "total_paragraphs": 10,
+    "success_count": 10,
+    "success_rate": "100.0%"
+  }
+}

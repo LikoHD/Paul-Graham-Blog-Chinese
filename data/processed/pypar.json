@@ -1,0 +1,74 @@
+{
+  "title": "The Python Paradox",
+  "title_zh": "[待翻译] The Python Paradox",
+  "url": "https://www.paulgraham.com/pypar.html",
+  "filename": "pypar.html",
+  "date": "2021-04-11",
+  "id": 28,
+  "content": {
+    "success": true,
+    "paragraphs": [
+      "August 2004In a recent talk I said something that upset a lot of people: that you could get smarter programmers to work on a Python project than you could to work on a Java project.I didn't mean by this that Java programmers are dumb.",
+      "I meant that Python programmers are smart. It's a lot of work to learn a new programming language. And people don't learn Python because it will get them a job; they learn it because they genuinely like to program and aren't satisfied with the languages they already know.Which makes them exactly the kind of programmers companies should want to hire.",
+      "Hence what, for lack of a better name, I'll call the Python paradox: if a company chooses to write its software in a comparatively esoteric language, they'll be able to hire better programmers, because they'll attract only those who cared enough to learn it.",
+      "And for programmers the paradox is even more pronounced: the language to learn, if you want to get a good job, is a language that people don't learn merely to get a job.Only a few companies have been smart enough to realize this so far.",
+      "But there is a kind of selection going on here too: they're exactly the companies programmers would most like to work for. Google, for example. When they advertise Java programming jobs, they also want Python experience.A friend of mine who knows nearly all the widely used languages uses Python for most of his projects.",
+      "He says the main reason is that he likes the way source code looks. That may seem a frivolous reason to choose one language over another. But it is not so frivolous as it sounds: when you program, you spend more time reading code than writing it.",
+      "You push blobs of source code around the way a sculptor does blobs of clay. So a language that makes source code ugly is maddening to an exacting programmer, as clay full of lumps would be to a sculptor.At the mention of ugly source code, people will of course think of Perl.",
+      "But the superficial ugliness of Perl is not the sort I mean. Real ugliness is not harsh-looking syntax, but having to build programs out of the wrong concepts. Perl may look like a cartoon character swearing, but there are cases where it surpasses Python conceptually.So far, anyway.",
+      "Both languages are of course moving targets. But they share, along with Ruby (and Icon, and Joy, and J, and Lisp, and Smalltalk) the fact that they're created by, and used by, people who really care about programming.",
+      "And those tend to be the ones who do it well.Turkish TranslationJapanese TranslationPortuguese TranslationItalian TranslationPolish TranslationRomanian TranslationRussian TranslationSpanish TranslationFrench TranslationTelugu Translation If you liked this, you may also like Hackers & Painters."
+    ],
+    "word_count": 463,
+    "paragraph_count": 10
+  },
+  "processed_at": "2025-07-26T19:02:15.923596",
+  "paragraphs": [
+    {
+      "original": "August 2004In a recent talk I said something that upset a lot of people: that you could get smarter programmers to work on a Python project than you could to work on a Java project.I didn't mean by this that Java programmers are dumb.",
+      "translated": "2004年8月，在最近的一次演讲中，我说了一番让很多人不高兴的话：你可以找到比为Java项目工作的更聪明的程序员为Python项目工作。我这么说并不是指Java程序员笨。"
+    },
+    {
+      "original": "I meant that Python programmers are smart. It's a lot of work to learn a new programming language. And people don't learn Python because it will get them a job; they learn it because they genuinely like to program and aren't satisfied with the languages they already know.Which makes them exactly the kind of programmers companies should want to hire.",
+      "translated": "我的意思是，Python 程序员很聪明。学习一门新的编程语言需要付出很多努力。人们学习 Python 并不是因为它能给他们带来工作；他们学习 Python 是因为他们真的喜欢编程，并且对现有的语言感到不满足。这使得他们正是公司应该想要聘请的那种程序员。"
+    },
+    {
+      "original": "Hence what, for lack of a better name, I'll call the Python paradox: if a company chooses to write its software in a comparatively esoteric language, they'll be able to hire better programmers, because they'll attract only those who cared enough to learn it.",
+      "translated": "因此，我姑且称之为“Python悖论”：如果一家公司选择用相对冷门的语言编写软件，他们就能雇佣到更好的程序员，因为这只会吸引那些足够关心并学习这门语言的人。"
+    },
+    {
+      "original": "And for programmers the paradox is even more pronounced: the language to learn, if you want to get a good job, is a language that people don't learn merely to get a job.Only a few companies have been smart enough to realize this so far.",
+      "translated": "对于程序员来说，这种矛盾更为明显：如果你想找到一份好工作，需要学习的语言是人们不仅仅为了找工作而学习的。目前，只有少数公司足够明智地意识到了这一点。"
+    },
+    {
+      "original": "But there is a kind of selection going on here too: they're exactly the companies programmers would most like to work for. Google, for example. When they advertise Java programming jobs, they also want Python experience.A friend of mine who knows nearly all the widely used languages uses Python for most of his projects.",
+      "translated": "但这里也存在一种选择：这些公司正是程序员最希望为之工作的公司。比如谷歌。当他们招聘Java程序员时，也希望应聘者有Python经验。我的一位朋友几乎掌握了所有广泛使用的编程语言，但他大部分项目都使用Python。"
+    },
+    {
+      "original": "He says the main reason is that he likes the way source code looks. That may seem a frivolous reason to choose one language over another. But it is not so frivolous as it sounds: when you program, you spend more time reading code than writing it.",
+      "translated": "他说主要原因是喜欢源代码的外观。这听起来可能像是选择一种语言而非另一种语言的轻率理由。但实际上并没有听起来那么轻率：当你编程时，阅读代码的时间比编写代码的时间要多。"
+    },
+    {
+      "original": "You push blobs of source code around the way a sculptor does blobs of clay. So a language that makes source code ugly is maddening to an exacting programmer, as clay full of lumps would be to a sculptor.At the mention of ugly source code, people will of course think of Perl.",
+      "translated": "你像雕塑家用陶泥塑造作品一样处理源代码。因此，对于一位严谨的程序员来说，一种使源代码变得丑陋的语言是令人抓狂的，就像对于雕塑家而言，充满颗粒的陶泥一样令人头疼。一提到丑陋的源代码，人们自然会想到Perl。"
+    },
+    {
+      "original": "But the superficial ugliness of Perl is not the sort I mean. Real ugliness is not harsh-looking syntax, but having to build programs out of the wrong concepts. Perl may look like a cartoon character swearing, but there are cases where it surpasses Python conceptually.So far, anyway.",
+      "translated": "但Perl表面的丑陋并非我所指的那种。真正的丑陋不是难看的语法，而是用错误的概念构建程序。Perl可能看起来像一个卡通人物在骂脏话，但在某些情况下，它在概念上超越了Python。至少目前是这样。"
+    },
+    {
+      "original": "Both languages are of course moving targets. But they share, along with Ruby (and Icon, and Joy, and J, and Lisp, and Smalltalk) the fact that they're created by, and used by, people who really care about programming.",
+      "translated": "当然，这两种语言都是不断发展的目标。但是，它们与Ruby（以及Icon、Joy、J、Lisp和Smalltalk）一样，都是由真正关心编程的人创建并使用的。"
+    },
+    {
+      "original": "And those tend to be the ones who do it well.Turkish TranslationJapanese TranslationPortuguese TranslationItalian TranslationPolish TranslationRomanian TranslationRussian TranslationSpanish TranslationFrench TranslationTelugu Translation If you liked this, you may also like Hackers & Painters.",
+      "translated": "而那些往往是做得很好的人。土耳其语翻译日语翻译葡萄牙语翻译意大利语翻译波兰语翻译罗马尼亚语翻译俄语翻译西班牙语翻译法语翻译泰卢固语翻译如果你喜欢这篇文章，你可能也会喜欢《黑客与画家》。"
+    }
+  ],
+  "translation_completed": "2025-07-27T12:48:08.681726",
+  "translation_stats": {
+    "total_paragraphs": 10,
+    "success_count": 10,
+    "success_rate": "100.0%"
+  }
+}

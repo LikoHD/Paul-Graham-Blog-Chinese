@@ -1,0 +1,29 @@
+{
+  "title": "Lisp for Web-Based Applications",
+  "title_zh": "[待翻译] Lisp for Web-Based Applications",
+  "url": "https://www.paulgraham.com/lwba.html",
+  "filename": "lwba.html",
+  "date": "2021-01-13",
+  "id": 52,
+  "content": {
+    "success": true,
+    "paragraphs": [
+      "After a link to Beating the Averages was posted on slashdot, some readers wanted to hear in more detail about the specific technical advantages we got from using Lisp in Viaweb. For those who are interested, here are some excerpts from a talk I gave in April 2001 at BBN Labs in Cambridge, MA.BBN Talk Excerpts (ASCII)"
+    ],
+    "word_count": 57,
+    "paragraph_count": 1
+  },
+  "processed_at": "2025-07-26T19:03:07.759021",
+  "paragraphs": [
+    {
+      "original": "After a link to Beating the Averages was posted on slashdot, some readers wanted to hear in more detail about the specific technical advantages we got from using Lisp in Viaweb. For those who are interested, here are some excerpts from a talk I gave in April 2001 at BBN Labs in Cambridge, MA.BBN Talk Excerpts (ASCII)",
+      "translated": "在一篇关于《击败平均水平》的文章链接被发布到Slashdot后，一些读者希望更详细地了解我们在Viaweb中使用Lisp所获得的具体技术优势。对于感兴趣的人，以下是我2001年4月在马萨诸塞州剑桥BBN实验室所做演讲的一些摘录。BBN演讲摘录（ASCII）"
+    }
+  ],
+  "translation_completed": "2025-07-27T12:37:29.884910",
+  "translation_stats": {
+    "total_paragraphs": 1,
+    "success_count": 1,
+    "success_rate": "100.0%"
+  }
+}

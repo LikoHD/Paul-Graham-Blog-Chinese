@@ -1,0 +1,304 @@
+{
+  "title": "What I've Learned from Hacker News",
+  "title_zh": "[待翻译] What I've Learned from Hacker News",
+  "url": "https://www.paulgraham.com/hackernews.html",
+  "filename": "hackernews.html",
+  "date": "2009-02-01",
+  "id": 158,
+  "content": {
+    "success": true,
+    "paragraphs": [
+      "February 2009Hacker News was two years old last week. Initially it was supposed to be a side project—an application to sharpen Arc on, and a place for current and future Y Combinator founders to exchange news.",
+      "It's grown bigger and taken up more time than I expected, but I don't regret that because I've learned so much from working on it.GrowthWhen we launched in February 2007, weekday traffic was around 1600 daily uniques.",
+      "It's since grown to around 22,000. This growth rate is a bit higher than I'd like. I'd like the site to grow, since a site that isn't growing at least slowly is probably dead. But I wouldn't want it to grow as large as Digg or Reddit—mainly because that would dilute the character of the site, but also because I don't want to spend all my time dealing with scaling.I already have problems enough with that.",
+      "Remember, the original motivation for HN was to test a new programming language, and moreover one that's focused on experimenting with language design, not performance. Every time the site gets slow, I fortify myself by recalling McIlroy and Bentley's famous quote The key to performance is elegance, not battalions of special cases.",
+      "and look for the bottleneck I can remove with least code. So far I've been able to keep up, in the sense that performance has remained consistently mediocre despite 14x growth. I don't know what I'll do next, but I'll probably think of something.This is my attitude to the site generally.",
+      "Hacker News is an experiment, and an experiment in a very young field. Sites of this type are only a few years old. Internet conversation generally is only a few decades old. So we've probably only discovered a fraction of what we eventually will.That's why I'm so optimistic about HN.",
+      "When a technology is this young, the existing solutions are usually terrible; which means it must be possible to do much better; which means many problems that seem insoluble aren't. Including, I hope, the problem that has afflicted so many previous communities: being ruined by growth.DilutionUsers have worried about that since the site was a few months old.",
+      "So far these alarms have been false, but they may not always be. Dilution is a hard problem. But probably soluble; it doesn't mean much that open conversations have \"always\" been destroyed by growth when \"always\" equals 20 instances.But it's important to remember we're trying to solve a new problem, because that means we're going to have to try new things, most of which probably won't work.",
+      "A couple weeks ago I tried displaying the names of users with the highest average comment scores in orange. [1] That was a mistake. Suddenly a culture that had been more or less united was divided into haves and have-nots.",
+      "I didn't realize how united the culture had been till I saw it divided. It was painful to watch. [2]So orange usernames won't be back. (Sorry about that.) But there will be other equally broken-seeming ideas in the future, and the ones that turn out to work will probably seem just as broken as those that don't.Probably the most important thing I've learned about dilution is that it's measured more in behavior than users.",
+      "It's bad behavior you want to keep out more than bad people. User behavior turns out to be surprisingly malleable. If people are expected to behave well, they tend to; and vice versa.Though of course forbidding bad behavior does tend to keep away bad people, because they feel uncomfortably constrained in a place where they have to behave well.",
+      "But this way of keeping them out is gentler and probably also more effective than overt barriers.It's pretty clear now that the broken windows theory applies to community sites as well. The theory is that minor forms of bad behavior encourage worse ones: that a neighborhood with lots of graffiti and broken windows becomes one where robberies occur.",
+      "I was living in New York when Giuliani introduced the reforms that made the broken windows theory famous, and the transformation was miraculous. And I was a Reddit user when the opposite happened there, and the transformation was equally dramatic.I'm not criticizing Steve and Alexis.",
+      "What happened to Reddit didn't happen out of neglect. From the start they had a policy of censoring nothing except spam. Plus Reddit had different goals from Hacker News. Reddit was a startup, not a side project; its goal was to grow as fast as possible.",
+      "Combine rapid growth and zero censorship, and the result is a free for all. But I don't think they'd do much differently if they were doing it again. Measured by traffic, Reddit is much more successful than Hacker News.But what happened to Reddit won't inevitably happen to HN.",
+      "There are several local maxima. There can be places that are free for alls and places that are more thoughtful, just as there are in the real world; and people will behave differently depending on which they're in, just as they do in the real world.I've observed this in the wild.",
+      "I've seen people cross-posting on Reddit and Hacker News who actually took the trouble to write two versions, a flame for Reddit and a more subdued version for HN.SubmissionsThere are two major types of problems a site like Hacker News needs to avoid: bad stories and bad comments.",
+      "So far the danger of bad stories seems smaller. The stories on the frontpage now are still roughly the ones that would have been there when HN started.I once thought I'd have to weight votes to keep crap off the frontpage, but I haven't had to yet.",
+      "I wouldn't have predicted the frontpage would hold up so well, and I'm not sure why it has. Perhaps only the more thoughtful users care enough to submit and upvote links, so the marginal cost of one random new user approaches zero.",
+      "Or perhaps the frontpage protects itself, by advertising what type of submission is expected.The most dangerous thing for the frontpage is stuff that's too easy to upvote. If someone proves a new theorem, it takes some work by the reader to decide whether or not to upvote it.",
+      "An amusing cartoon takes less. A rant with a rallying cry as the title takes zero, because people vote it up without even reading it.Hence what I call the Fluff Principle: on a user-voted news site, the links that are easiest to judge will take over unless you take specific measures to prevent it.Hacker News has two kinds of protections against fluff.",
+      "The most common types of fluff links are banned as off-topic. Pictures of kittens, political diatribes, and so on are explicitly banned. This keeps out most fluff, but not all of it. Some links are both fluff, in the sense of being very short, and also on topic.There's no single solution to that.",
+      "If a link is just an empty rant, editors will sometimes kill it even if it's on topic in the sense of being about hacking, because it's not on topic by the real standard, which is to engage one's intellectual curiosity.",
+      "If the posts on a site are characteristically of this type I sometimes ban it, which means new stuff at that url is auto-killed. If a post has a linkbait title, editors sometimes rephrase it to be more matter-of-fact.",
+      "This is especially necessary with links whose titles are rallying cries, because otherwise they become implicit \"vote up if you believe such-and-such\" posts, which are the most extreme form of fluff.The techniques for dealing with links have to evolve, because the links do.",
+      "The existence of aggregators has already affected what they aggregate. Writers now deliberately write things to draw traffic from aggregators—sometimes even specific ones. (No, the irony of this statement is not lost on me.) Then there are the more sinister mutations, like linkjacking—posting a paraphrase of someone else's article and submitting that instead of the original.",
+      "These can get a lot of upvotes, because a lot of what's good in an article often survives; indeed, the closer the paraphrase is to plagiarism, the more survives. [3]I think it's important that a site that kills submissions provide a way for users to see what got killed if they want to.",
+      "That keeps editors honest, and just as importantly, makes users confident they'd know if the editors stopped being honest. HN users can do this by flipping a switch called showdead in their profile. [4]CommentsBad comments seem to be a harder problem than bad submissions.",
+      "While the quality of links on the frontpage of HN hasn't changed much, the quality of the median comment may have decreased somewhat.There are two main kinds of badness in comments: meanness and stupidity.",
+      "There is a lot of overlap between the two—mean comments are disproportionately likely also to be dumb—but the strategies for dealing with them are different. Meanness is easier to control. You can have rules saying one shouldn't be mean, and if you enforce them it seems possible to keep a lid on meanness.Keeping a lid on stupidity is harder, perhaps because stupidity is not so easily distinguishable.",
+      "Mean people are more likely to know they're being mean than stupid people are to know they're being stupid.The most dangerous form of stupid comment is not the long but mistaken argument, but the dumb joke.",
+      "Long but mistaken arguments are actually quite rare. There is a strong correlation between comment quality and length; if you wanted to compare the quality of comments on community sites, average length would be a good predictor.",
+      "Probably the cause is human nature rather than anything specific to comment threads. Probably it's simply that stupidity more often takes the form of having few ideas than wrong ones.Whatever the cause, stupid comments tend to be short.",
+      "And since it's hard to write a short comment that's distinguished for the amount of information it conveys, people try to distinguish them instead by being funny. The most tempting format for stupid comments is the supposedly witty put-down, probably because put-downs are the easiest form of humor.",
+      "[5] So one advantage of forbidding meanness is that it also cuts down on these.Bad comments are like kudzu: they take over rapidly. Comments have much more effect on new comments than submissions have on new submissions.",
+      "If someone submits a lame article, the other submissions don't all become lame. But if someone posts a stupid comment on a thread, that sets the tone for the region around it. People reply to dumb jokes with dumb jokes.Maybe the solution is to add a delay before people can respond to a comment, and make the length of the delay inversely proportional to some prediction of its quality.",
+      "Then dumb threads would grow slower. [6] PeopleI notice most of the techniques I've described are conservative: they're aimed at preserving the character of the site rather than enhancing it. I don't think that's a bias of mine.",
+      "It's due to the shape of the problem. Hacker News had the good fortune to start out good, so in this case it's literally a matter of preservation. But I think this principle would also apply to sites with different origins.The good things in a community site come from people more than technology; it's mainly in the prevention of bad things that technology comes into play.",
+      "Technology certainly can enhance discussion. Nested comments do, for example. But I'd rather use a site with primitive features and smart, nice users than a more advanced one whose users were idiots or trolls.So the most important thing a community site can do is attract the kind of people it wants.",
+      "A site trying to be as big as possible wants to attract everyone. But a site aiming at a particular subset of users has to attract just those—and just as importantly, repel everyone else. I've made a conscious effort to do this on HN.",
+      "The graphic design is as plain as possible, and the site rules discourage dramatic link titles. The goal is that the only thing to interest someone arriving at HN for the first time should be the ideas expressed there.The downside of tuning a site to attract certain people is that, to those people, it can be too attractive.",
+      "I'm all too aware how addictive Hacker News can be. For me, as for many users, it's a kind of virtual town square. When I want to take a break from working, I walk into the square, just as I might into Harvard Square or University Ave in the physical world.",
+      "[7] But an online square is more dangerous than a physical one. If I spent half the day loitering on University Ave, I'd notice. I have to walk a mile to get there, and sitting in a cafe feels different from working.",
+      "But visiting an online forum takes just a click, and feels superficially very much like working. You may be wasting your time, but you're not idle. Someone is wrong on the Internet, and you're fixing the problem.Hacker News is definitely useful.",
+      "I've learned a lot from things I've read on HN. I've written several essays that began as comments there. So I wouldn't want the site to go away. But I would like to be sure it's not a net drag on productivity.",
+      "What a disaster that would be, to attract thousands of smart people to a site that caused them to waste lots of time. I wish I could be 100% sure that's not a description of HN.I feel like the addictiveness of games and social applications is still a mostly unsolved problem.",
+      "The situation now is like it was with crack in the 1980s: we've invented terribly addictive new things, and we haven't yet evolved ways to protect ourselves from them. We will eventually, and that's one of the problems I hope to focus on next.",
+      "Notes[1] I tried ranking users by both average and median comment score, and average (with the high score thrown out) seemed the more accurate predictor of high quality. Median may be the more accurate predictor of low quality though.[2] Another thing I learned from this experiment is that if you're going to distinguish between people, you better be sure you do it right.",
+      "This is one problem where rapid prototyping doesn't work.Indeed, that's the intellectually honest argument for not discriminating between various types of people. The reason not to do it is not that everyone's the same, but that it's bad to do wrong and hard to do right.[3] When I catch egregiously linkjacked posts I replace the url with that of whatever they copied.",
+      "Sites that habitually linkjack get banned.[4] Digg is notorious for its lack of transparency. The root of the problem is not that the guys running Digg are especially sneaky, but that they use the wrong algorithm for generating their frontpage.",
+      "Instead of bubbling up from the bottom as they get more votes, as on Reddit, stories start at the top and get pushed down by new arrivals.The reason for the difference is that Digg is derived from Slashdot, while Reddit is derived from Delicious/popular.",
+      "Digg is Slashdot with voting instead of editors, and Reddit is Delicious/popular with voting instead of bookmarking. (You can still see fossils of their origins in their graphic design.)Digg's algorithm is very vulnerable to gaming, because any story that makes it onto the frontpage is the new top story.",
+      "Which in turn forces Digg to respond with extreme countermeasures. A lot of startups have some kind of secret about the subterfuges they had to resort to in the early days, and I suspect Digg's is the extent to which the top stories were de facto chosen by human editors.[5] The dialog on Beavis and Butthead was composed largely of these, and when I read comments on really bad sites I can hear them in their voices.[6] I suspect most of the techniques for discouraging stupid comments have yet to be discovered.",
+      "Xkcd implemented a particularly clever one in its IRC channel: don't allow the same thing twice. Once someone has said \"fail,\" no one can ever say it again. This would penalize short comments especially, because they have less room to avoid collisions in.Another promising idea is the stupid filter, which is just like a probabilistic spam filter, but trained on corpora of stupid and non-stupid comments instead.You may not have to kill bad comments to solve the problem.",
+      "Comments at the bottom of a long thread are rarely seen, so it may be enough to incorporate a prediction of quality in the comment sorting algorithm.[7] What makes most suburbs so demoralizing is that there's no center to walk to.",
+      "Thanks to Justin Kan, Jessica Livingston, Robert Morris, Alexis Ohanian, Emmet Shear, and Fred Wilson for reading drafts of this. Comment on this essay."
+    ],
+    "word_count": 2811,
+    "paragraph_count": 56
+  },
+  "processed_at": "2025-07-26T19:06:30.441379",
+  "paragraphs": [
+    {
+      "original": "February 2009Hacker News was two years old last week. Initially it was supposed to be a side project—an application to sharpen Arc on, and a place for current and future Y Combinator founders to exchange news.",
+      "translated": "2009年2月，Hacker News 上周迎来了它的两周年纪念。最初，它被设想为一个副业项目——一个用于磨练 Arc 编程技能的应用，以及一个供当前和未来的 Y Combinator 创业者交流新闻的平台。"
+    },
+    {
+      "original": "It's grown bigger and taken up more time than I expected, but I don't regret that because I've learned so much from working on it.GrowthWhen we launched in February 2007, weekday traffic was around 1600 daily uniques.",
+      "translated": "它比我预期的要大得多，也占用了更多的时间，但我并不后悔，因为我从中学到了很多。成长自2007年2月我们启动以来，工作日的流量大约是每天1600个独立访客。"
+    },
+    {
+      "original": "It's since grown to around 22,000. This growth rate is a bit higher than I'd like. I'd like the site to grow, since a site that isn't growing at least slowly is probably dead. But I wouldn't want it to grow as large as Digg or Reddit—mainly because that would dilute the character of the site, but also because I don't want to spend all my time dealing with scaling.I already have problems enough with that.",
+      "translated": "从那时起，用户数已经增长到大约22,000人。这个增长率有点高于我的预期。我希望网站能够发展，因为一个连缓慢增长都做不到的网站可能已经没有活力了。但我并不希望它像Digg或Reddit那样庞大——主要是因为这样会稀释网站的特色，也因为我不想把所有时间都花在处理扩展问题上。我在这方面已经有不少麻烦了。"
+    },
+    {
+      "original": "Remember, the original motivation for HN was to test a new programming language, and moreover one that's focused on experimenting with language design, not performance. Every time the site gets slow, I fortify myself by recalling McIlroy and Bentley's famous quote The key to performance is elegance, not battalions of special cases.",
+      "translated": "记住，HN 的最初动机是测试一种新的编程语言，而且这种语言的重点在于实验语言设计，而不是性能。每当网站变慢时，我都会通过回忆 McIlroy 和 Bentley 的著名言论来坚定自己：性能的关键在于优雅，而不是大量的特殊情况。"
+    },
+    {
+      "original": "and look for the bottleneck I can remove with least code. So far I've been able to keep up, in the sense that performance has remained consistently mediocre despite 14x growth. I don't know what I'll do next, but I'll probably think of something.This is my attitude to the site generally.",
+      "translated": "并寻找可以通过最少代码解决的瓶颈。到目前为止，尽管增长了14倍，我仍然能够保持性能一贯的平庸。我不知道接下来会做什么，但我大概会想出办法的。这就是我对这个网站的一贯态度。"
+    },
+    {
+      "original": "Hacker News is an experiment, and an experiment in a very young field. Sites of this type are only a few years old. Internet conversation generally is only a few decades old. So we've probably only discovered a fraction of what we eventually will.That's why I'm so optimistic about HN.",
+      "translated": "Hacker News 是一个实验，而且是在一个非常新兴的领域中的实验。这类网站只有几年的历史。互联网对话也仅有几十年的历史。因此，我们可能只发现了最终会发现的一小部分。这就是我对 HN 保持乐观的原因。"
+    },
+    {
+      "original": "When a technology is this young, the existing solutions are usually terrible; which means it must be possible to do much better; which means many problems that seem insoluble aren't. Including, I hope, the problem that has afflicted so many previous communities: being ruined by growth.DilutionUsers have worried about that since the site was a few months old.",
+      "translated": "当一项技术如此年轻时，现有的解决方案通常都很糟糕；这意味着肯定有可能做得更好；这意味着许多看似无法解决的问题其实并非如此。我希望，这包括困扰许多先前社区的问题：因增长而被破坏。稀释问题自网站成立几个月以来，用户就一直对此表示担忧。"
+    },
+    {
+      "original": "So far these alarms have been false, but they may not always be. Dilution is a hard problem. But probably soluble; it doesn't mean much that open conversations have \"always\" been destroyed by growth when \"always\" equals 20 instances.But it's important to remember we're trying to solve a new problem, because that means we're going to have to try new things, most of which probably won't work.",
+      "translated": "到目前为止，这些警报都是虚惊一场，但并不总是如此。稀释是一个难题。但可能有解决办法；当“总是”等于20次时，“开放的对话总是被增长破坏”这句话意义不大。但重要的是要记住，我们正在努力解决一个新问题，这意味着我们必须尝试新的方法，而其中大部分可能都不会奏效。"
+    },
+    {
+      "original": "A couple weeks ago I tried displaying the names of users with the highest average comment scores in orange. [1] That was a mistake. Suddenly a culture that had been more or less united was divided into haves and have-nots.",
+      "translated": "几周前，我尝试将平均评论得分最高的用户名字显示为橙色。[1] 这是一个错误。突然之间，一个原本相对团结的社群分裂成了有和无的两部分。"
+    },
+    {
+      "original": "I didn't realize how united the culture had been till I saw it divided. It was painful to watch. [2]So orange usernames won't be back. (Sorry about that.) But there will be other equally broken-seeming ideas in the future, and the ones that turn out to work will probably seem just as broken as those that don't.Probably the most important thing I've learned about dilution is that it's measured more in behavior than users.",
+      "translated": "直到我看到文化的分裂，我才意识到它曾经是多么的团结。看着这一切，真是令人痛心。[2]所以橙色用户名将不再回归。（对此表示歉意。）但未来还会有其他看似同样破碎的想法，而那些最终奏效的想法可能看起来和那些不奏效的一样破碎。关于稀释，我学到的最重要的一点是，它更多地体现在行为上，而不是用户数量上。"
+    },
+    {
+      "original": "It's bad behavior you want to keep out more than bad people. User behavior turns out to be surprisingly malleable. If people are expected to behave well, they tend to; and vice versa.Though of course forbidding bad behavior does tend to keep away bad people, because they feel uncomfortably constrained in a place where they have to behave well.",
+      "translated": "你想要阻止的不仅仅是坏人，还有不良行为。事实证明，用户行为是出奇地可塑。如果人们被期望表现良好，他们通常会这样做；反之亦然。当然，禁止不良行为确实会令那些习惯不良的人感到不自在，因为他们觉得在必须表现良好的地方受到了束缚。"
+    },
+    {
+      "original": "But this way of keeping them out is gentler and probably also more effective than overt barriers.It's pretty clear now that the broken windows theory applies to community sites as well. The theory is that minor forms of bad behavior encourage worse ones: that a neighborhood with lots of graffiti and broken windows becomes one where robberies occur.",
+      "translated": "但这种方式更为温和，可能也更有效，而不是设置明显的障碍。现在很明显，“破窗理论”同样适用于社区网站。该理论认为，轻微的不良行为会鼓励更严重的不良行为：一个涂鸦遍地、窗户破损的社区，最终会变成犯罪频发的地方。"
+    },
+    {
+      "original": "I was living in New York when Giuliani introduced the reforms that made the broken windows theory famous, and the transformation was miraculous. And I was a Reddit user when the opposite happened there, and the transformation was equally dramatic.I'm not criticizing Steve and Alexis.",
+      "translated": "我当时住在纽约，朱利安尼引入了使“破窗理论”闻名的改革，这一转变堪称神奇。而我也是在 Reddit 上目睹了相反情况的发生，那次的转变同样戏剧性。我并不是在批评 Steve 和 Alexis。"
+    },
+    {
+      "original": "What happened to Reddit didn't happen out of neglect. From the start they had a policy of censoring nothing except spam. Plus Reddit had different goals from Hacker News. Reddit was a startup, not a side project; its goal was to grow as fast as possible.",
+      "translated": "Reddit 的情况并不是因为疏忽而发生的。从一开始，他们就有一个政策，只屏蔽垃圾信息，其他一概不审查。此外，Reddit 与 Hacker News 的目标不同。Reddit 是一家初创公司，而不是一个副业项目；它的目标是尽可能快地发展。"
+    },
+    {
+      "original": "Combine rapid growth and zero censorship, and the result is a free for all. But I don't think they'd do much differently if they were doing it again. Measured by traffic, Reddit is much more successful than Hacker News.But what happened to Reddit won't inevitably happen to HN.",
+      "translated": "将快速增长和零审查结合在一起，结果就是一片混乱。但我觉得如果让他们重来一次，他们也不会做得有多大的不同。以流量来衡量，Reddit 比 Hacker News 成功得多。但 Reddit 发生的事情并不一定会在 Hacker News 身上重演。"
+    },
+    {
+      "original": "There are several local maxima. There can be places that are free for alls and places that are more thoughtful, just as there are in the real world; and people will behave differently depending on which they're in, just as they do in the real world.I've observed this in the wild.",
+      "translated": "有几个局部最大值。可以有完全开放的场所，也可以有更为慎重的场所，就像现实世界中一样；人们会根据所处的环境表现出不同的行为，就像在现实世界中一样。我曾在实际中观察到这一点。"
+    },
+    {
+      "original": "I've seen people cross-posting on Reddit and Hacker News who actually took the trouble to write two versions, a flame for Reddit and a more subdued version for HN.SubmissionsThere are two major types of problems a site like Hacker News needs to avoid: bad stories and bad comments.",
+      "translated": "我见过有人在 Reddit 和 Hacker News 上交叉发帖，他们实际上费心写了两个版本，一个是针对 Reddit 的激烈版本，另一个是针对 HN 的更为温和的版本。像 Hacker News 这样的网站需要避免两大类问题：糟糕的故事和糟糕的评论。"
+    },
+    {
+      "original": "So far the danger of bad stories seems smaller. The stories on the frontpage now are still roughly the ones that would have been there when HN started.I once thought I'd have to weight votes to keep crap off the frontpage, but I haven't had to yet.",
+      "translated": "到目前为止，糟糕故事的危险似乎较小。现在首页的故事基本上还是和Hacker News初创时相同的故事类型。我曾经认为必须对投票进行加权以防止低质量内容登上首页，但至今还没有必要这样做。"
+    },
+    {
+      "original": "I wouldn't have predicted the frontpage would hold up so well, and I'm not sure why it has. Perhaps only the more thoughtful users care enough to submit and upvote links, so the marginal cost of one random new user approaches zero.",
+      "translated": "我本以为首页的内容不会保持得这么好，也不确定为什么会这样。或许只有那些更为深思熟虑的用户才会提交和点赞链接，因此一个随机新用户的边际成本接近于零。"
+    },
+    {
+      "original": "Or perhaps the frontpage protects itself, by advertising what type of submission is expected.The most dangerous thing for the frontpage is stuff that's too easy to upvote. If someone proves a new theorem, it takes some work by the reader to decide whether or not to upvote it.",
+      "translated": "或者，首页通过宣传所期望的投稿类型来保护自己。首页最危险的是那些容易获得点赞的内容。如果有人证明了一个新的定理，读者需要花一些功夫才能决定是否要点赞。"
+    },
+    {
+      "original": "An amusing cartoon takes less. A rant with a rallying cry as the title takes zero, because people vote it up without even reading it.Hence what I call the Fluff Principle: on a user-voted news site, the links that are easiest to judge will take over unless you take specific measures to prevent it.Hacker News has two kinds of protections against fluff.",
+      "translated": "一则有趣的动画片需要的时间更短。一篇标题带有煽动性的牢骚文则不需要任何时间，因为人们甚至不读就会给它投票。因此，我称之为“泡沫原则”：在用户投票的新闻网站上，最容易评判的链接会占据主导地位，除非采取特定措施来防止这种情况。Hacker News 有两重保护措施来对抗泡沫。"
+    },
+    {
+      "original": "The most common types of fluff links are banned as off-topic. Pictures of kittens, political diatribes, and so on are explicitly banned. This keeps out most fluff, but not all of it. Some links are both fluff, in the sense of being very short, and also on topic.There's no single solution to that.",
+      "translated": "最常见的无关链接类型是被禁止的。例如，萌猫图片、政治言论等都是明确禁止的。这可以排除大部分无关内容，但并非全部。有些链接虽然内容简短，属于“填充物”，但也与主题相关。对此没有单一的解决办法。"
+    },
+    {
+      "original": "If a link is just an empty rant, editors will sometimes kill it even if it's on topic in the sense of being about hacking, because it's not on topic by the real standard, which is to engage one's intellectual curiosity.",
+      "translated": "如果一个链接只是空洞的牢骚，即使它在主题上与黑客相关，编辑有时也会删除它，因为根据真正的标准——激发智力好奇心——它并不符合主题。"
+    },
+    {
+      "original": "If the posts on a site are characteristically of this type I sometimes ban it, which means new stuff at that url is auto-killed. If a post has a linkbait title, editors sometimes rephrase it to be more matter-of-fact.",
+      "translated": "如果一个网站的帖子普遍具有这种性质，我有时会将其封禁，这意味着该网址下的新内容会被自动删除。如果帖子的标题具有引导点击的性质，编辑有时会将其重新表述得更加客观。"
+    },
+    {
+      "original": "This is especially necessary with links whose titles are rallying cries, because otherwise they become implicit \"vote up if you believe such-and-such\" posts, which are the most extreme form of fluff.The techniques for dealing with links have to evolve, because the links do.",
+      "translated": "这尤其适用于标题为号召性的链接，因为否则它们就会变成隐性的“如果你相信某某事情就点赞”帖子，这是最极端的泡沫内容。处理链接的技术必须不断发展，因为链接本身也在变化。"
+    },
+    {
+      "original": "The existence of aggregators has already affected what they aggregate. Writers now deliberately write things to draw traffic from aggregators—sometimes even specific ones. (No, the irony of this statement is not lost on me.) Then there are the more sinister mutations, like linkjacking—posting a paraphrase of someone else's article and submitting that instead of the original.",
+      "translated": "聚合者的存在已经影响了它们所聚合的内容。作家们现在有意地写作，以吸引聚合者的流量——有时甚至是特定的聚合者。（不，我并未忽略这句话的讽刺意味。）然后是更为险恶的变异，比如链接劫持——发布他人文章的改写版本，并提交这一版本而非原文。"
+    },
+    {
+      "original": "These can get a lot of upvotes, because a lot of what's good in an article often survives; indeed, the closer the paraphrase is to plagiarism, the more survives. [3]I think it's important that a site that kills submissions provide a way for users to see what got killed if they want to.",
+      "translated": "这些可以获得很多赞成票，因为文章中的许多精彩之处往往能够保留下来；事实上，改写的文字越接近抄袭，保留下来的内容就越多。[3]我认为，一个会删除提交内容的网站应该提供一种方式，让希望看到被删除内容的用户能够查看。"
+    },
+    {
+      "original": "That keeps editors honest, and just as importantly, makes users confident they'd know if the editors stopped being honest. HN users can do this by flipping a switch called showdead in their profile. [4]CommentsBad comments seem to be a harder problem than bad submissions.",
+      "translated": "这能保持编辑的诚信，同样重要的是，让用户确信如果编辑不再诚信，他们也会知道。HN 用户可以通过在个人资料中切换一个名为 showdead 的开关来实现这一点。[4]评论不良评论似乎比不良提交更难处理。"
+    },
+    {
+      "original": "While the quality of links on the frontpage of HN hasn't changed much, the quality of the median comment may have decreased somewhat.There are two main kinds of badness in comments: meanness and stupidity.",
+      "translated": "虽然 Hacker News 首页链接的质量没有太大变化，但中位评论的质量可能有所下降。评论中的问题主要分为两类：恶意和愚蠢。"
+    },
+    {
+      "original": "There is a lot of overlap between the two—mean comments are disproportionately likely also to be dumb—but the strategies for dealing with them are different. Meanness is easier to control. You can have rules saying one shouldn't be mean, and if you enforce them it seems possible to keep a lid on meanness.Keeping a lid on stupidity is harder, perhaps because stupidity is not so easily distinguishable.",
+      "translated": "两者之间有很多重叠——刻薄的评论往往也更可能是愚蠢的——但应对它们的策略是不同的。刻薄更容易控制。你可以制定规则，规定人们不应该刻薄，如果严格执行这些规则，似乎可以控制住刻薄。但控制愚蠢更难，可能是因为愚蠢并不那么容易辨认。"
+    },
+    {
+      "original": "Mean people are more likely to know they're being mean than stupid people are to know they're being stupid.The most dangerous form of stupid comment is not the long but mistaken argument, but the dumb joke.",
+      "translated": "刻薄的人比愚蠢的人更有可能知道自己在刻薄。最危险的愚蠢言论形式不是冗长但错误的论点，而是愚蠢的笑话。"
+    },
+    {
+      "original": "Long but mistaken arguments are actually quite rare. There is a strong correlation between comment quality and length; if you wanted to compare the quality of comments on community sites, average length would be a good predictor.",
+      "translated": "冗长但错误的论点其实相当罕见。评论的质量与长度之间存在很强的相关性；如果你想比较社区网站上评论的质量，平均长度将是一个很好的预测指标。"
+    },
+    {
+      "original": "Probably the cause is human nature rather than anything specific to comment threads. Probably it's simply that stupidity more often takes the form of having few ideas than wrong ones.Whatever the cause, stupid comments tend to be short.",
+      "translated": "原因可能在于人性，而不仅仅是评论区的特性。可能只是因为愚蠢更多地表现为缺乏想法，而不是错误的想法。无论原因是什么，愚蠢的评论往往都很简短。"
+    },
+    {
+      "original": "And since it's hard to write a short comment that's distinguished for the amount of information it conveys, people try to distinguish them instead by being funny. The most tempting format for stupid comments is the supposedly witty put-down, probably because put-downs are the easiest form of humor.",
+      "translated": "由于很难用简短的评论传达大量信息，人们转而通过趣味性来使评论脱颖而出。最吸引人发表愚蠢评论的形式是所谓的机智讽刺，这可能是因为讽刺是最简单的幽默形式。"
+    },
+    {
+      "original": "[5] So one advantage of forbidding meanness is that it also cuts down on these.Bad comments are like kudzu: they take over rapidly. Comments have much more effect on new comments than submissions have on new submissions.",
+      "translated": "禁止恶意的一个好处是，它还能减少这些不良评论。负面评论就像葛藤：它们迅速蔓延。评论对新评论的影响远大于提交内容对新提交内容的影响。"
+    },
+    {
+      "original": "If someone submits a lame article, the other submissions don't all become lame. But if someone posts a stupid comment on a thread, that sets the tone for the region around it. People reply to dumb jokes with dumb jokes.Maybe the solution is to add a delay before people can respond to a comment, and make the length of the delay inversely proportional to some prediction of its quality.",
+      "translated": "如果有人提交了一篇糟糕的文章，其他提交的作品并不会因此都变得糟糕。但若有人在一个帖子下发了一条愚蠢的评论，这就会为周边的评论定下基调。人们会用愚蠢的笑话回应愚蠢的笑话。或许解决办法是，在人们可以回应评论之前增加一段延迟，并且延迟的时间长度与对评论质量的预测成反比。"
+    },
+    {
+      "original": "Then dumb threads would grow slower. [6] PeopleI notice most of the techniques I've described are conservative: they're aimed at preserving the character of the site rather than enhancing it. I don't think that's a bias of mine.",
+      "translated": "然后，无意义的帖子会逐渐减少。[6] 人们会注意到，我所描述的大多数技术都是保守的：它们旨在保持网站的特色，而不是增强它。我认为这并不是我的偏见。"
+    },
+    {
+      "original": "It's due to the shape of the problem. Hacker News had the good fortune to start out good, so in this case it's literally a matter of preservation. But I think this principle would also apply to sites with different origins.The good things in a community site come from people more than technology; it's mainly in the prevention of bad things that technology comes into play.",
+      "translated": "这是因为问题的性质。Hacker News 有幸一开始就做得很好，所以在这种情况下，实际上是保护的问题。但我认为这个原则也适用于起源不同的网站。社区网站中的好事更多来源于人，而技术主要是在防止坏事上发挥作用。"
+    },
+    {
+      "original": "Technology certainly can enhance discussion. Nested comments do, for example. But I'd rather use a site with primitive features and smart, nice users than a more advanced one whose users were idiots or trolls.So the most important thing a community site can do is attract the kind of people it wants.",
+      "translated": "技术当然可以增强讨论。例如，嵌套评论就可以。但我宁愿选择一个功能简单但用户聪明友善的网站，也不愿使用一个功能更高级但用户是白痴或喷子的网站。因此，社区网站最重要的是吸引它想要的那种人。"
+    },
+    {
+      "original": "A site trying to be as big as possible wants to attract everyone. But a site aiming at a particular subset of users has to attract just those—and just as importantly, repel everyone else. I've made a conscious effort to do this on HN.",
+      "translated": "一个网站如果想尽可能地扩大规模，就会试图吸引所有人。但一个目标是特定用户群体的网站，则需要吸引这些特定用户——同样重要的是，还要让其他所有人望而却步。我在HN上是有意识地这样做的。"
+    },
+    {
+      "original": "The graphic design is as plain as possible, and the site rules discourage dramatic link titles. The goal is that the only thing to interest someone arriving at HN for the first time should be the ideas expressed there.The downside of tuning a site to attract certain people is that, to those people, it can be too attractive.",
+      "translated": "图形设计尽可能简洁，网站规则也反对使用夸张的链接标题。目标是让初次访问HN的人只对那里表达的想法感兴趣。然而，将网站调整为吸引某些人的方式也有其弊端，那就是对这些人来说，网站可能会过于吸引人。"
+    },
+    {
+      "original": "I'm all too aware how addictive Hacker News can be. For me, as for many users, it's a kind of virtual town square. When I want to take a break from working, I walk into the square, just as I might into Harvard Square or University Ave in the physical world.",
+      "translated": "我非常清楚 Hacker News 有多么令人上瘾。对我来说，就像对许多用户一样，它是一种虚拟的广场。当我想要从工作中休息一下时，我会走进这个广场，就像在现实世界中走进哈佛广场或大学大道一样。"
+    },
+    {
+      "original": "[7] But an online square is more dangerous than a physical one. If I spent half the day loitering on University Ave, I'd notice. I have to walk a mile to get there, and sitting in a cafe feels different from working.",
+      "translated": "但是，一个在线的广场比实体的更加危险。如果我花半天时间在大学大道上闲逛，我会注意到。我得走一英里才能到那里，而坐在咖啡馆里和工作的感觉是不同的。"
+    },
+    {
+      "original": "But visiting an online forum takes just a click, and feels superficially very much like working. You may be wasting your time, but you're not idle. Someone is wrong on the Internet, and you're fixing the problem.Hacker News is definitely useful.",
+      "translated": "但是访问在线论坛只需点击一下，感觉上非常像在工作。你可能在浪费时间，但你并不是无所事事。互联网上有人错了，而你正在解决问题。Hacker News 肯定是有用的。"
+    },
+    {
+      "original": "I've learned a lot from things I've read on HN. I've written several essays that began as comments there. So I wouldn't want the site to go away. But I would like to be sure it's not a net drag on productivity.",
+      "translated": "我从在HN上读到的内容中学到了很多。我写过的几篇散文最初都是从那里的评论开始的。所以我不希望这个网站消失。但我希望确保它不会对生产力造成净拖累。"
+    },
+    {
+      "original": "What a disaster that would be, to attract thousands of smart people to a site that caused them to waste lots of time. I wish I could be 100% sure that's not a description of HN.I feel like the addictiveness of games and social applications is still a mostly unsolved problem.",
+      "translated": "那将是一场灾难，吸引成千上万的聪明人到一个让他们浪费大量时间的网站。真希望我能百分之百确定这不会成为HN的写照。我觉得游戏和社交应用的成瘾性问题仍然 largely 未得到解决。"
+    },
+    {
+      "original": "The situation now is like it was with crack in the 1980s: we've invented terribly addictive new things, and we haven't yet evolved ways to protect ourselves from them. We will eventually, and that's one of the problems I hope to focus on next.",
+      "translated": "现在的情况就像1980年代的裂纹可卡因：我们发明了极其令人上瘾的新事物，但尚未进化出保护自己不受其影响的方法。我们最终会找到解决办法，这是我希望接下来关注的问题之一。"
+    },
+    {
+      "original": "Notes[1] I tried ranking users by both average and median comment score, and average (with the high score thrown out) seemed the more accurate predictor of high quality. Median may be the more accurate predictor of low quality though.[2] Another thing I learned from this experiment is that if you're going to distinguish between people, you better be sure you do it right.",
+      "translated": "注释[1] 我曾尝试根据用户的平均评论得分和中位数评论得分对用户进行排名，结果发现平均值（排除最高分）似乎是高质量用户的更准确预测指标。不过，中位数可能是低质量用户的更准确预测指标。[2] 从这个实验中，我还学到的一点是，如果你要对人们进行区分，一定要确保你做得正确。"
+    },
+    {
+      "original": "This is one problem where rapid prototyping doesn't work.Indeed, that's the intellectually honest argument for not discriminating between various types of people. The reason not to do it is not that everyone's the same, but that it's bad to do wrong and hard to do right.[3] When I catch egregiously linkjacked posts I replace the url with that of whatever they copied.",
+      "translated": "这是一个快速原型设计不起作用的问题。事实上，这是不区分各种类型人群的智力诚实的论据。不这样做的原因不是因为所有人都一样，而是因为做错事是不好的，而做对事是困难的。[3] 当我发现严重链接劫持的帖子时，我会将网址替换为他们所复制的内容的网址。"
+    },
+    {
+      "original": "Sites that habitually linkjack get banned.[4] Digg is notorious for its lack of transparency. The root of the problem is not that the guys running Digg are especially sneaky, but that they use the wrong algorithm for generating their frontpage.",
+      "translated": "经常进行链接劫持的网站会被封禁。Digg 因其缺乏透明度而臭名昭著。问题的根源不在于运营 Digg 的人特别狡猾，而是他们使用了错误的算法来生成首页。"
+    },
+    {
+      "original": "Instead of bubbling up from the bottom as they get more votes, as on Reddit, stories start at the top and get pushed down by new arrivals.The reason for the difference is that Digg is derived from Slashdot, while Reddit is derived from Delicious/popular.",
+      "translated": "故事并不会像在 Reddit 上那样随着获得更多投票而从底部上升，而是在顶部开始，然后被新内容压下去。这种差异的原因在于 Digg 源自 Slashdot，而 Reddit 源自 Delicious/popular。"
+    },
+    {
+      "original": "Digg is Slashdot with voting instead of editors, and Reddit is Delicious/popular with voting instead of bookmarking. (You can still see fossils of their origins in their graphic design.)Digg's algorithm is very vulnerable to gaming, because any story that makes it onto the frontpage is the new top story.",
+      "translated": "Digg 是采用投票而非编辑的 Slashdot，而 Reddit 则是采用投票而非书签的 Delicious/流行网站。（你仍然可以在它们的图形设计中看到其起源的痕迹。）Digg 的算法非常容易被操控，因为任何登上首页的故事都会成为新的头条。"
+    },
+    {
+      "original": "Which in turn forces Digg to respond with extreme countermeasures. A lot of startups have some kind of secret about the subterfuges they had to resort to in the early days, and I suspect Digg's is the extent to which the top stories were de facto chosen by human editors.[5] The dialog on Beavis and Butthead was composed largely of these, and when I read comments on really bad sites I can hear them in their voices.[6] I suspect most of the techniques for discouraging stupid comments have yet to be discovered.",
+      "translated": "这反过来迫使Digg采取极端的反制措施。许多初创公司在早期阶段都有一些不得不采取的手段的秘密，我怀疑Digg的秘密在于，热门故事实际上是大量由人工编辑选定的。[5]《卑鄙的我与巴特头》中的对话大多由这类内容构成，当我阅读一些糟糕网站上的评论时，我几乎能听到他们的声音。[6]我怀疑，大多数用于抑制愚蠢评论的技术尚未被发现。"
+    },
+    {
+      "original": "Xkcd implemented a particularly clever one in its IRC channel: don't allow the same thing twice. Once someone has said \"fail,\" no one can ever say it again. This would penalize short comments especially, because they have less room to avoid collisions in.Another promising idea is the stupid filter, which is just like a probabilistic spam filter, but trained on corpora of stupid and non-stupid comments instead.You may not have to kill bad comments to solve the problem.",
+      "translated": "Xkcd 在其 IRC 频道中实现了一个特别聪明的方法：不允许重复同样的内容。一旦有人说了“fail”，就再也没有人能再说一次。这尤其会惩罚简短的评论，因为它们在避免重复方面余地较小。另一个有前景的想法是愚蠢过滤器，它就像一个概率垃圾邮件过滤器，但训练数据是愚蠢和非愚蠢的评论。你可能不需要删除不良评论来解决问题。"
+    },
+    {
+      "original": "Comments at the bottom of a long thread are rarely seen, so it may be enough to incorporate a prediction of quality in the comment sorting algorithm.[7] What makes most suburbs so demoralizing is that there's no center to walk to.",
+      "translated": "长串评论底部的留言很少有人看到，因此在评论排序算法中加入质量预测可能就足够了。大多数郊区让人感到沮丧的原因是没有一个可以步行到达的中心。"
+    },
+    {
+      "original": "Thanks to Justin Kan, Jessica Livingston, Robert Morris, Alexis Ohanian, Emmet Shear, and Fred Wilson for reading drafts of this. Comment on this essay.",
+      "translated": "感谢Justin Kan、Jessica Livingston、Robert Morris、Alexis Ohanian、Emmet Shear和Fred Wilson阅读本文的初稿。对本文进行评论。"
+    }
+  ],
+  "translation_completed": "2025-07-28T15:52:25.418172",
+  "translation_stats": {
+    "total_paragraphs": 56,
+    "success_count": 56,
+    "success_rate": "100.0%"
+  }
+}

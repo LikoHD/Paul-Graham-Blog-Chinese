@@ -1,0 +1,69 @@
+{
+  "title": "What Microsoft Is this the Altair Basic of?",
+  "title_zh": "[待翻译] What Microsoft Is this the Altair Basic of?",
+  "url": "https://www.paulgraham.com/altair.html",
+  "filename": "altair.html",
+  "date": "2015-02-01",
+  "id": 118,
+  "content": {
+    "success": true,
+    "paragraphs": [
+      "February 2015One of the most valuable exercises you can try if you want to understand startups is to look at the most successful companies and explain why they were not as lame as they seemed when they first launched.",
+      "Because they practically all seemed lame at first. Not just small, lame. Not just the first step up a big mountain. More like the first step into a swamp.A Basic interpreter for the Altair? How could that ever grow into a giant company?",
+      "People sleeping on airbeds in strangers' apartments? A web site for college students to stalk one another? A wimpy little single-board computer for hobbyists that used a TV as a monitor? A new search engine, when there were already about 10, and they were all trying to de-emphasize search?",
+      "These ideas didn't just seem small. They seemed wrong. They were the kind of ideas you could not merely ignore, but ridicule.Often the founders themselves didn't know why their ideas were promising. They were attracted to these ideas by instinct, because they were living in the future and they sensed that something was missing.",
+      "But they could not have put into words exactly how their ugly ducklings were going to grow into big, beautiful swans.Most people's first impulse when they hear about a lame-sounding new startup idea is to make fun of it.",
+      "Even a lot of people who should know better.When I encounter a startup with a lame-sounding idea, I ask \"What Microsoft is this the Altair Basic of?\" Now it's a puzzle, and the burden is on me to solve it.",
+      "Sometimes I can't think of an answer, especially when the idea is a made-up one. But it's remarkable how often there does turn out to be an answer. Often it's one the founders themselves hadn't seen yet.Intriguingly, there are sometimes multiple answers.",
+      "I talked to a startup a few days ago that could grow into 3 distinct Microsofts. They'd probably vary in size by orders of magnitude. But you can never predict how big a Microsoft is going to be, so in cases like that I encourage founders to follow whichever path is most immediately exciting to them.",
+      "Their instincts got them this far. Why stop now?"
+    ],
+    "word_count": 371,
+    "paragraph_count": 9
+  },
+  "processed_at": "2025-07-26T19:05:12.574046",
+  "paragraphs": [
+    {
+      "original": "February 2015One of the most valuable exercises you can try if you want to understand startups is to look at the most successful companies and explain why they were not as lame as they seemed when they first launched.",
+      "translated": "2015年2月，如果你想理解创业公司，可以尝试的一个最有价值的练习是，看看最成功的公司，并解释为什么它们在刚推出时并没有显得那么平庸。"
+    },
+    {
+      "original": "Because they practically all seemed lame at first. Not just small, lame. Not just the first step up a big mountain. More like the first step into a swamp.A Basic interpreter for the Altair? How could that ever grow into a giant company?",
+      "translated": "因为一开始它们几乎都显得不起眼。不仅仅是规模小，不起眼。不仅仅是在攀登高山时迈出的第一步。更像是踏入沼泽的第一步。为阿尔泰计算机编写的基本解释器？这怎么可能发展成一家大公司？"
+    },
+    {
+      "original": "People sleeping on airbeds in strangers' apartments? A web site for college students to stalk one another? A wimpy little single-board computer for hobbyists that used a TV as a monitor? A new search engine, when there were already about 10, and they were all trying to de-emphasize search?",
+      "translated": "人们在陌生人的公寓里睡充气床？一个让大学生互相跟踪的网站？一个使用电视作为显示器的、为业余爱好者设计的弱小单板计算机？当已经有大约10个搜索引擎，并且它们都在试图弱化搜索功能时，又推出一个新的搜索引擎？"
+    },
+    {
+      "original": "These ideas didn't just seem small. They seemed wrong. They were the kind of ideas you could not merely ignore, but ridicule.Often the founders themselves didn't know why their ideas were promising. They were attracted to these ideas by instinct, because they were living in the future and they sensed that something was missing.",
+      "translated": "这些想法不仅仅是显得微不足道，而是显得错误。它们是那种你不仅不能置之不理，反而会嘲笑的想法。通常，就连创始人自己也不清楚为什么他们的想法有潜力。他们凭着直觉被这些想法所吸引，因为他们生活在未来的时空中，感觉到有些东西缺失了。"
+    },
+    {
+      "original": "But they could not have put into words exactly how their ugly ducklings were going to grow into big, beautiful swans.Most people's first impulse when they hear about a lame-sounding new startup idea is to make fun of it.",
+      "translated": "但他们无法准确地用语言描述他们的丑小鸭将如何成长为美丽的大天鹅。当人们第一次听到一个听起来不太靠谱的新创业点子时，大多数人的第一反应就是嘲笑它。"
+    },
+    {
+      "original": "Even a lot of people who should know better.When I encounter a startup with a lame-sounding idea, I ask \"What Microsoft is this the Altair Basic of?\" Now it's a puzzle, and the burden is on me to solve it.",
+      "translated": "即使很多应该明白这一点的人，当我遇到一个创意听起来很平庸的初创公司时，我也会问：“这是否是某个微软的Altair Basic？” 这样一来，问题变成了一个谜，而解开这个谜的责任就落到了我的肩上。"
+    },
+    {
+      "original": "Sometimes I can't think of an answer, especially when the idea is a made-up one. But it's remarkable how often there does turn out to be an answer. Often it's one the founders themselves hadn't seen yet.Intriguingly, there are sometimes multiple answers.",
+      "translated": "有时候我想不出答案，特别是当这个想法是虚构的时候。但令人惊讶的是，很多时候确实能找到答案。通常，这些答案连创始人都未曾察觉。有趣的是，有时会有多个答案。"
+    },
+    {
+      "original": "I talked to a startup a few days ago that could grow into 3 distinct Microsofts. They'd probably vary in size by orders of magnitude. But you can never predict how big a Microsoft is going to be, so in cases like that I encourage founders to follow whichever path is most immediately exciting to them.",
+      "translated": "前几天我与一家初创公司交谈，这家公司有可能成长为三个截然不同的微软。它们的规模可能会相差几个数量级。但你永远无法预测微软会变得多大，所以在这种情况下，我鼓励创始人追随对他们来说最直接吸引人的道路。"
+    },
+    {
+      "original": "Their instincts got them this far. Why stop now?",
+      "translated": "他们的直觉已经让他们走到了这一步。为什么现在要停下来呢？"
+    }
+  ],
+  "translation_completed": "2025-07-27T12:36:42.697116",
+  "translation_stats": {
+    "total_paragraphs": 9,
+    "success_count": 9,
+    "success_rate": "100.0%"
+  }
+}

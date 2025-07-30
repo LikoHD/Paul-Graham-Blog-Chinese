@@ -1,0 +1,379 @@
+{
+  "title": "Undergraduation",
+  "title_zh": "[待翻译] Undergraduation",
+  "url": "https://www.paulgraham.com/college.html",
+  "filename": "college.html",
+  "date": "2005-03-01",
+  "id": 204,
+  "content": {
+    "success": true,
+    "paragraphs": [
+      "Want to start a startup? Get funded by Y Combinator. March 2005(Parts of this essay began as replies to students who wrote to me with questions.)Recently I've had several emails from computer science undergrads asking what to do in college.",
+      "I might not be the best source of advice, because I was a philosophy major in college. But I took so many CS classes that most CS majors thought I was one. I was certainly a hacker, at least.HackingWhat should you do in college to become a good hacker?",
+      "There are two main things you can do: become very good at programming, and learn a lot about specific, cool problems. These turn out to be equivalent, because each drives you to do the other.The way to be good at programming is to work (a) a lot (b) on hard problems.",
+      "And the way to make yourself work on hard problems is to work on some very engaging project. Odds are this project won't be a class assignment. My friend Robert learned a lot by writing network software when he was an undergrad.",
+      "One of his projects was to connect Harvard to the Arpanet; it had been one of the original nodes, but by 1984 the connection had died. [1] Not only was this work not for a class, but because he spent all his time on it and neglected his studies, he was kicked out of school for a year.",
+      "[2] It all evened out in the end, and now he's a professor at MIT. But you'll probably be happier if you don't go to that extreme; it caused him a lot of worry at the time.Another way to be good at programming is to find other people who are good at it, and learn what they know.",
+      "Programmers tend to sort themselves into tribes according to the type of work they do and the tools they use, and some tribes are smarter than others. Look around you and see what the smart people seem to be working on; there's usually a reason.Some of the smartest people around you are professors.",
+      "So one way to find interesting work is to volunteer as a research assistant. Professors are especially interested in people who can solve tedious system-administration type problems for them, so that is a way to get a foot in the door.",
+      "What they fear are flakes and resume padders. It's all too common for an assistant to result in a net increase in work. So you have to make it clear you'll mean a net decrease.Don't be put off if they say no.",
+      "Rejection is almost always less personal than the rejectee imagines. Just move on to the next. (This applies to dating too.)Beware, because although most professors are smart, not all of them work on interesting stuff.",
+      "Professors have to publish novel results to advance their careers, but there is more competition in more interesting areas of research. So what less ambitious professors do is turn out a series of papers whose conclusions are novel because no one else cares about them.",
+      "You're better off avoiding these.I never worked as a research assistant, so I feel a bit dishonest recommending that route. I learned to program by writing stuff of my own, particularly by trying to reverse-engineer Winograd's SHRDLU.",
+      "I was as obsessed with that program as a mother with a new baby.Whatever the disadvantages of working by yourself, the advantage is that the project is all your own. You never have to compromise or ask anyone's permission, and if you have a new idea you can just sit down and start implementing it.In your own projects you don't have to worry about novelty (as professors do) or profitability (as businesses do).",
+      "All that matters is how hard the project is technically, and that has no correlation to the nature of the application. \"Serious\" applications like databases are often trivial and dull technically (if you ever suffer from insomnia, try reading the technical literature about databases) while \"frivolous\" applications like games are often very sophisticated.",
+      "I'm sure there are game companies out there working on products with more intellectual content than the research at the bottom nine tenths of university CS departments.If I were in college now I'd probably work on graphics: a network game, for example, or a tool for 3D animation.",
+      "When I was an undergrad there weren't enough cycles around to make graphics interesting, but it's hard to imagine anything more fun to work on now.MathWhen I was in college, a lot of the professors believed (or at least wished) that computer science was a branch of math.",
+      "This idea was strongest at Harvard, where there wasn't even a CS major till the 1980s; till then one had to major in applied math. But it was nearly as bad at Cornell. When I told the fearsome Professor Conway that I was interested in AI (a hot topic then), he told me I should major in math.",
+      "I'm still not sure whether he thought AI required math, or whether he thought AI was nonsense and that majoring in something rigorous would cure me of such stupid ambitions.In fact, the amount of math you need as a hacker is a lot less than most university departments like to admit.",
+      "I don't think you need much more than high school math plus a few concepts from the theory of computation. (You have to know what an n^2 algorithm is if you want to avoid writing them.) Unless you're planning to write math applications, of course.",
+      "Robotics, for example, is all math.But while you don't literally need math for most kinds of hacking, in the sense of knowing 1001 tricks for differentiating formulas, math is very much worth studying for its own sake.",
+      "It's a valuable source of metaphors for almost any kind of work.[3] I wish I'd studied more math in college for that reason.Like a lot of people, I was mathematically abused as a child. I learned to think of math as a collection of formulas that were neither beautiful nor had any relation to my life (despite attempts to translate them into \"word problems\"), but had to be memorized in order to do well on tests.One of the most valuable things you could do in college would be to learn what math is really about.",
+      "This may not be easy, because a lot of good mathematicians are bad teachers. And while there are many popular books on math, few seem good. The best I can think of are W. W. Sawyer's. And of course Euclid.",
+      "[4]EverythingThomas Huxley said \"Try to learn something about everything and everything about something.\" Most universities aim at this ideal.But what's everything? To me it means, all that people learn in the course of working honestly on hard problems.",
+      "All such work tends to be related, in that ideas and techniques from one field can often be transplanted successfully to others. Even others that seem quite distant. For example, I write essays the same way I write software: I sit down and blow out a lame version 1 as fast as I can type, then spend several weeks rewriting it.Working on hard problems is not, by itself, enough.",
+      "Medieval alchemists were working on a hard problem, but their approach was so bogus that there was little to learn from studying it, except possibly about people's ability to delude themselves. Unfortunately the sort of AI I was trying to learn in college had the same flaw: a very hard problem, blithely approached with hopelessly inadequate techniques.",
+      "Bold? Closer to fraudulent. The social sciences are also fairly bogus, because they're so much influenced by intellectual fashions. If a physicist met a colleague from 100 years ago, he could teach him some new things; if a psychologist met a colleague from 100 years ago, they'd just get into an ideological argument.",
+      "Yes, of course, you'll learn something by taking a psychology class. The point is, you'll learn more by taking a class in another department.The worthwhile departments, in my opinion, are math, the hard sciences, engineering, history (especially economic and social history, and the history of science), architecture, and the classics.",
+      "A survey course in art history may be worthwhile. Modern literature is important, but the way to learn about it is just to read. I don't know enough about music to say.You can skip the social sciences, philosophy, and the various departments created recently in response to political pressures.",
+      "Many of these fields talk about important problems, certainly. But the way they talk about them is useless. For example, philosophy talks, among other things, about our obligations to one another; but you can learn more about this from a wise grandmother or E.",
+      "B. White than from an academic philosopher.I speak here from experience. I should probably have been offended when people laughed at Clinton for saying \"It depends on what the meaning of the word 'is' is.\" I took about five classes in college on what the meaning of \"is\" is.Another way to figure out which fields are worth studying is to create the dropout graph.",
+      "For example, I know many people who switched from math to computer science because they found math too hard, and no one who did the opposite. People don't do hard things gratuitously; no one will work on a harder problem unless it is proportionately (or at least log(n)) more rewarding.",
+      "So probably math is more worth studying than computer science. By similar comparisons you can make a graph of all the departments in a university. At the bottom you'll find the subjects with least intellectual content.If you use this method, you'll get roughly the same answer I just gave.Language courses are an anomaly.",
+      "I think they're better considered as extracurricular activities, like pottery classes. They'd be far more useful when combined with some time living in a country where the language is spoken. On a whim I studied Arabic as a freshman.",
+      "It was a lot of work, and the only lasting benefits were a weird ability to identify semitic roots and some insights into how people recognize words.Studio art and creative writing courses are wildcards.",
+      "Usually you don't get taught much: you just work (or don't work) on whatever you want, and then sit around offering \"crits\" of one another's creations under the vague supervision of the teacher. But writing and art are both very hard problems that (some) people work honestly at, so they're worth doing, especially if you can find a good teacher.JobsOf course college students have to think about more than just learning.",
+      "There are also two practical problems to consider: jobs, and graduate school.In theory a liberal education is not supposed to supply job training. But everyone knows this is a bit of a fib. Hackers at every college learn practical skills, and not by accident.What you should learn to get a job depends on the kind you want.",
+      "If you want to work in a big company, learn how to hack Blub on Windows. If you want to work at a cool little company or research lab, you'll do better to learn Ruby on Linux. And if you want to start your own company, which I think will be more and more common, master the most powerful tools you can find, because you're going to be in a race against your competitors, and they'll be your horse.There is not a direct correlation between the skills you should learn in college and those you'll use in a job.",
+      "You should aim slightly high in college.In workouts a football player may bench press 300 pounds, even though he may never have to exert anything like that much force in the course of a game. Likewise, if your professors try to make you learn stuff that's more advanced than you'll need in a job, it may not just be because they're academics, detached from the real world.",
+      "They may be trying to make you lift weights with your brain.The programs you write in classes differ in three critical ways from the ones you'll write in the real world: they're small; you get to start from scratch; and the problem is usually artificial and predetermined.",
+      "In the real world, programs are bigger, tend to involve existing code, and often require you to figure out what the problem is before you can solve it.You don't have to wait to leave (or even enter) college to learn these skills.",
+      "If you want to learn how to deal with existing code, for example, you can contribute to open-source projects. The sort of employer you want to work for will be as impressed by that as good grades on class assignments.In existing open-source projects you don't get much practice at the third skill, deciding what problems to solve.",
+      "But there's nothing to stop you starting new projects of your own. And good employers will be even more impressed with that.What sort of problem should you try to solve? One way to answer that is to ask what you need as a user.",
+      "For example, I stumbled on a good algorithm for spam filtering because I wanted to stop getting spam. Now what I wish I had was a mail reader that somehow prevented my inbox from filling up. I tend to use my inbox as a todo list.",
+      "But that's like using a screwdriver to open bottles; what one really wants is a bottle opener.Grad SchoolWhat about grad school? Should you go? And how do you get into a good one?In principle, grad school is professional training in research, and you shouldn't go unless you want to do research as a career.",
+      "And yet half the people who get PhDs in CS don't go into research. I didn't go to grad school to become a professor. I went because I wanted to learn more.So if you're mainly interested in hacking and you go to grad school, you'll find a lot of other people who are similarly out of their element.",
+      "And if half the people around you are out of their element in the same way you are, are you really out of your element?There's a fundamental problem in \"computer science,\" and it surfaces in situations like this.",
+      "No one is sure what \"research\" is supposed to be. A lot of research is hacking that had to be crammed into the form of an academic paper to yield one more quantum of publication.So it's kind of misleading to ask whether you'll be at home in grad school, because very few people are quite at home in computer science.",
+      "The whole field is uncomfortable in its own skin. So the fact that you're mainly interested in hacking shouldn't deter you from going to grad school. Just be warned you'll have to do a lot of stuff you don't like.Number one will be your dissertation.",
+      "Almost everyone hates their dissertation by the time they're done with it. The process inherently tends to produce an unpleasant result, like a cake made out of whole wheat flour and baked for twelve hours.",
+      "Few dissertations are read with pleasure, especially by their authors.But thousands before you have suffered through writing a dissertation. And aside from that, grad school is close to paradise. Many people remember it as the happiest time of their lives.",
+      "And nearly all the rest, including me, remember it as a period that would have been, if they hadn't had to write a dissertation. [5]The danger with grad school is that you don't see the scary part upfront.",
+      "PhD programs start out as college part 2, with several years of classes. So by the time you face the horror of writing a dissertation, you're already several years in. If you quit now, you'll be a grad-school dropout, and you probably won't like that idea.",
+      "When Robert got kicked out of grad school for writing the Internet worm of 1988, I envied him enormously for finding a way out without the stigma of failure. On the whole, grad school is probably better than most alternatives.",
+      "You meet a lot of smart people, and your glum procrastination will at least be a powerful common bond. And of course you have a PhD at the end. I forgot about that. I suppose that's worth something.The greatest advantage of a PhD (besides being the union card of academia, of course) may be that it gives you some baseline confidence.",
+      "For example, the Honeywell thermostats in my house have the most atrocious UI. My mother, who has the same model, diligently spent a day reading the user's manual to learn how to operate hers. She assumed the problem was with her.",
+      "But I can think to myself \"If someone with a PhD in computer science can't understand this thermostat, it must be badly designed.\"If you still want to go to grad school after this equivocal recommendation, I can give you solid advice about how to get in.",
+      "A lot of my friends are CS professors now, so I have the inside story about admissions. It's quite different from college. At most colleges, admissions officers decide who gets in. For PhD programs, the professors do.",
+      "And they try to do it well, because the people they admit are going to be working for them.Apparently only recommendations really matter at the best schools. Standardized tests count for nothing, and grades for little.",
+      "The essay is mostly an opportunity to disqualify yourself by saying something stupid. The only thing professors trust is recommendations, preferably from people they know. [6]So if you want to get into a PhD program, the key is to impress your professors.",
+      "And from my friends who are professors I know what impresses them: not merely trying to impress them. They're not impressed by students who get good grades or want to be their research assistants so they can get into grad school.",
+      "They're impressed by students who get good grades and want to be their research assistants because they're genuinely interested in the topic.So the best thing you can do in college, whether you want to get into grad school or just be good at hacking, is figure out what you truly like.",
+      "It's hard to trick professors into letting you into grad school, and impossible to trick problems into letting you solve them. College is where faking stops working. From this point, unless you want to go work for a big company, which is like reverting to high school, the only way forward is through doing what you love.Notes [1] No one seems to have minded, which shows how unimportant the Arpanet (which became the Internet) was as late as 1984.[2] This is why, when I became an employer, I didn't care about GPAs.",
+      "In fact, we actively sought out people who'd failed out of school. We once put up posters around Harvard saying \"Did you just get kicked out for doing badly in your classes because you spent all your time working on some project of your own?",
+      "Come work for us!\" We managed to find a kid who had been, and he was a great hacker.When Harvard kicks undergrads out for a year, they have to get jobs. The idea is to show them how awful the real world is, so they'll understand how lucky they are to be in college.",
+      "This plan backfired with the guy who came to work for us, because he had more fun than he'd had in school, and made more that year from stock options than any of his professors did in salary. So instead of crawling back repentant at the end of the year, he took another year off and went to Europe.",
+      "He did eventually graduate at about 26.[3] Eric Raymond says the best metaphors for hackers are in set theory, combinatorics, and graph theory.Trevor Blackwell reminds you to take math classes intended for math majors.",
+      "\"'Math for engineers' classes sucked mightily. In fact any 'x for engineers' sucks, where x includes math, law, writing and visual design.\"[4] Other highly recommended books: What is Mathematics?, by Courant and Robbins; Geometry and the Imagination by Hilbert and Cohn-Vossen.",
+      "And for those interested in graphic design, Byrne's Euclid. [5] If you wanted to have the perfect life, the thing to do would be to go to grad school, secretly write your dissertation in the first year or two, and then just enjoy yourself for the next three years, dribbling out a chapter at a time.",
+      "This prospect will make grad students' mouths water, but I know of no one who's had the discipline to pull it off.[6] One professor friend says that 15-20% of the grad students they admit each year are \"long shots.\" But what he means by long shots are people whose applications are perfect in every way, except that no one on the admissions committee knows the professors who wrote the recommendations.So if you want to get into grad school in the sciences, you need to go to college somewhere with real research professors.",
+      "Otherwise you'll seem a risky bet to admissions committees, no matter how good you are.Which implies a surprising but apparently inevitable consequence: little liberal arts colleges are doomed. Most smart high school kids at least consider going into the sciences, even if they ultimately choose not to.",
+      "Why go to a college that limits their options?Thanks to Trevor Blackwell, Alex Lewin, Jessica Livingston, Robert Morris, Eric Raymond, and several anonymous CS professors for reading drafts of this, and to the students whose questions began it.More Advice for UndergradsJoel Spolsky: Advice for Computer Science College StudentsEric Raymond: How to Become a Hacker"
+    ],
+    "word_count": 3612,
+    "paragraph_count": 71
+  },
+  "processed_at": "2025-07-26T19:08:06.148920",
+  "paragraphs": [
+    {
+      "original": "Want to start a startup? Get funded by Y Combinator. March 2005(Parts of this essay began as replies to students who wrote to me with questions.)Recently I've had several emails from computer science undergrads asking what to do in college.",
+      "translated": "想创业吗？那就争取得到 Y Combinator 的资金支持。2005年3月（本文部分内容最初是回复写信向我提问的学生的。）最近，我收到了几位计算机科学专业本科生的电子邮件，询问在大学里应该做些什么。"
+    },
+    {
+      "original": "I might not be the best source of advice, because I was a philosophy major in college. But I took so many CS classes that most CS majors thought I was one. I was certainly a hacker, at least.HackingWhat should you do in college to become a good hacker?",
+      "translated": "我可能不是最佳的建议来源，因为我在大学主修的是哲学。但我选修了那么多的计算机科学课程，以至于大多数计算机科学专业的学生都认为我是他们中的一员。我确实是一个黑客，至少是这样。那么，你应该如何在大学里成为一名优秀的黑客呢？"
+    },
+    {
+      "original": "There are two main things you can do: become very good at programming, and learn a lot about specific, cool problems. These turn out to be equivalent, because each drives you to do the other.The way to be good at programming is to work (a) a lot (b) on hard problems.",
+      "translated": "你可以做两件主要的事情：一是成为编程高手，二是深入了解一些具体且有趣的问题。这两者其实是相辅相成的，因为每一方面都会推动你去做好另一方面。要成为编程高手，你需要（a）大量地（b）解决难题。"
+    },
+    {
+      "original": "And the way to make yourself work on hard problems is to work on some very engaging project. Odds are this project won't be a class assignment. My friend Robert learned a lot by writing network software when he was an undergrad.",
+      "translated": "要让自己努力解决难题，方法就是投身于某个非常吸引人的项目。这个项目很可能不会是课堂作业。我的朋友罗伯特在本科时通过编写网络软件学到了很多。"
+    },
+    {
+      "original": "One of his projects was to connect Harvard to the Arpanet; it had been one of the original nodes, but by 1984 the connection had died. [1] Not only was this work not for a class, but because he spent all his time on it and neglected his studies, he was kicked out of school for a year.",
+      "translated": "他的一个项目是将哈佛大学连接到阿帕网；哈佛曾是阿帕网的一个原始节点，但到1984年时，连接已经中断。[1] 这项工作不仅不是为了课程，而且因为他把所有时间都花在上面，忽视了学业，结果被学校停学一年。"
+    },
+    {
+      "original": "[2] It all evened out in the end, and now he's a professor at MIT. But you'll probably be happier if you don't go to that extreme; it caused him a lot of worry at the time.Another way to be good at programming is to find other people who are good at it, and learn what they know.",
+      "translated": "最终一切都平衡了，现在他在麻省理工学院当教授。但你如果不去走那个极端，可能会更快乐些；当时那让他焦虑了很多。另一种提高编程能力的方法是找到其他擅长编程的人，学习他们的知识。"
+    },
+    {
+      "original": "Programmers tend to sort themselves into tribes according to the type of work they do and the tools they use, and some tribes are smarter than others. Look around you and see what the smart people seem to be working on; there's usually a reason.Some of the smartest people around you are professors.",
+      "translated": "程序员往往会根据他们从事的工作类型和使用的工具将自己划分为不同的群体，而有些群体比其他群体更聪明。环顾四周，看看那些聪明的人似乎在做什么；通常都有其原因。你周围一些最聪明的人是教授。"
+    },
+    {
+      "original": "So one way to find interesting work is to volunteer as a research assistant. Professors are especially interested in people who can solve tedious system-administration type problems for them, so that is a way to get a foot in the door.",
+      "translated": "因此，找到有趣工作的其中一个方法是志愿成为研究助理。教授们特别需要能够为他们解决繁琐的系统管理类问题的人，所以这是一个入门的好方法。"
+    },
+    {
+      "original": "What they fear are flakes and resume padders. It's all too common for an assistant to result in a net increase in work. So you have to make it clear you'll mean a net decrease.Don't be put off if they say no.",
+      "translated": "他们害怕的是不靠谱的人和简历注水者。助理导致工作量净增加的情况非常普遍。所以你必须明确表示你会带来工作量的净减少。如果他们说不，也不要灰心。"
+    },
+    {
+      "original": "Rejection is almost always less personal than the rejectee imagines. Just move on to the next. (This applies to dating too.)Beware, because although most professors are smart, not all of them work on interesting stuff.",
+      "translated": "拒绝几乎总是比被拒绝者想象的要不那么个人化。继续前进，尝试下一个。（这同样适用于约会。）请注意，虽然大多数教授都很聪明，但并不是所有教授都从事有趣的研究。"
+    },
+    {
+      "original": "Professors have to publish novel results to advance their careers, but there is more competition in more interesting areas of research. So what less ambitious professors do is turn out a series of papers whose conclusions are novel because no one else cares about them.",
+      "translated": "教授们必须发表创新成果以推进自己的职业生涯，但在更有趣的研究领域竞争更加激烈。因此，一些不太有抱负的教授会发表一系列论文，其结论之所以新颖，是因为没有其他人关心这些领域。"
+    },
+    {
+      "original": "You're better off avoiding these.I never worked as a research assistant, so I feel a bit dishonest recommending that route. I learned to program by writing stuff of my own, particularly by trying to reverse-engineer Winograd's SHRDLU.",
+      "translated": "你最好避免这些。我从未担任过研究助理，所以我觉得推荐这条路有点不诚实。我是通过自己编写程序来学习编程的，尤其是尝试逆向工程Winograd的SHRDLU。"
+    },
+    {
+      "original": "I was as obsessed with that program as a mother with a new baby.Whatever the disadvantages of working by yourself, the advantage is that the project is all your own. You never have to compromise or ask anyone's permission, and if you have a new idea you can just sit down and start implementing it.In your own projects you don't have to worry about novelty (as professors do) or profitability (as businesses do).",
+      "translated": "我对那个项目着迷得就像一位母亲对新生儿一样。独自工作虽然有种种不便，但最大的优势在于项目完全属于你个人。你不必妥协，也不用请求任何人的许可，如果有了新想法，你可以立刻坐下来开始实施。在你自己的项目中，你不必像教授那样担心创新性，也不必像企业那样担心盈利性。"
+    },
+    {
+      "original": "All that matters is how hard the project is technically, and that has no correlation to the nature of the application. \"Serious\" applications like databases are often trivial and dull technically (if you ever suffer from insomnia, try reading the technical literature about databases) while \"frivolous\" applications like games are often very sophisticated.",
+      "translated": "关键在于项目的实际技术难度，这与应用的性质无关。“严肃”的应用程序，如数据库，往往在技术上很简单且枯燥（如果你有失眠的困扰，试着阅读一下关于数据库的技术文献）；而“轻浮”的应用程序，如游戏，却常常非常复杂。"
+    },
+    {
+      "original": "I'm sure there are game companies out there working on products with more intellectual content than the research at the bottom nine tenths of university CS departments.If I were in college now I'd probably work on graphics: a network game, for example, or a tool for 3D animation.",
+      "translated": "我相信有些游戏公司在开发的产品中包含的智力内容比某些大学计算机科学系后十分之九的研究还要多。如果我现在还在上大学，我可能会专注于图形领域：比如开发一款网络游戏，或者一个3D动画工具。"
+    },
+    {
+      "original": "When I was an undergrad there weren't enough cycles around to make graphics interesting, but it's hard to imagine anything more fun to work on now.MathWhen I was in college, a lot of the professors believed (or at least wished) that computer science was a branch of math.",
+      "translated": "当我读本科的时候，计算机的运算能力还不足以让图形学变得有趣，但如今想象不出有什么比这更有趣的工作了。当我上大学时，许多教授认为（或者至少希望）计算机科学是数学的一个分支。"
+    },
+    {
+      "original": "This idea was strongest at Harvard, where there wasn't even a CS major till the 1980s; till then one had to major in applied math. But it was nearly as bad at Cornell. When I told the fearsome Professor Conway that I was interested in AI (a hot topic then), he told me I should major in math.",
+      "translated": "这个想法在哈佛大学最为强烈，直到20世纪80年代那里甚至还没有计算机科学专业；在此之前，人们只能选择应用数学专业。但在康奈尔大学情况也差不多。当我告诉令人敬畏的康威教授我对人工智能（当时是一个热门话题）感兴趣时，他告诉我应该主修数学。"
+    },
+    {
+      "original": "I'm still not sure whether he thought AI required math, or whether he thought AI was nonsense and that majoring in something rigorous would cure me of such stupid ambitions.In fact, the amount of math you need as a hacker is a lot less than most university departments like to admit.",
+      "translated": "我仍然不确定他是认为人工智能需要数学，还是认为人工智能是无稽之谈，而选择一个严谨的专业可以治愈我这种愚蠢的抱负。事实上，作为一名黑客，你需要的数学量远比大多数大学院系所承认的要少得多。"
+    },
+    {
+      "original": "I don't think you need much more than high school math plus a few concepts from the theory of computation. (You have to know what an n^2 algorithm is if you want to avoid writing them.) Unless you're planning to write math applications, of course.",
+      "translated": "我认为你只需要高中数学加上一些计算理论的概念就足够了。（如果你想避免编写 \\(n^2\\) 算法，就必须知道什么是 \\(n^2\\) 算法。）当然，除非你打算编写数学应用程序。"
+    },
+    {
+      "original": "Robotics, for example, is all math.But while you don't literally need math for most kinds of hacking, in the sense of knowing 1001 tricks for differentiating formulas, math is very much worth studying for its own sake.",
+      "translated": "例如，机器人学完全是数学。虽然对于大多数类型的黑客攻击而言，你并不真正需要数学，不是说要知道1001种区分公式的技巧，但为了数学本身的价值，非常值得去学习。"
+    },
+    {
+      "original": "It's a valuable source of metaphors for almost any kind of work.[3] I wish I'd studied more math in college for that reason.Like a lot of people, I was mathematically abused as a child. I learned to think of math as a collection of formulas that were neither beautiful nor had any relation to my life (despite attempts to translate them into \"word problems\"), but had to be memorized in order to do well on tests.One of the most valuable things you could do in college would be to learn what math is really about.",
+      "translated": "它几乎对任何类型的工作都是一个宝贵的隐喻来源。[3] 我真希望大学时能多学点数学，原因就在于此。像很多人一样，我在童年时遭受过数学的“折磨”。我学会了将数学视为一堆既不美丽也与我的生活无关（尽管有人试图将它们转化为“文字问题”）的公式，但为了在考试中取得好成绩，这些公式必须被记住。大学期间你能做的最有价值的事情之一就是了解数学究竟是什么。"
+    },
+    {
+      "original": "This may not be easy, because a lot of good mathematicians are bad teachers. And while there are many popular books on math, few seem good. The best I can think of are W. W. Sawyer's. And of course Euclid.",
+      "translated": "这可能并不容易，因为许多优秀的数学家并不是好老师。虽然有很多关于数学的通俗书籍，但很少有几本真正好的。我所能想到最好的是W. W. 萨瓦尔的书。当然，还有欧几里得的著作。"
+    },
+    {
+      "original": "[4]EverythingThomas Huxley said \"Try to learn something about everything and everything about something.\" Most universities aim at this ideal.But what's everything? To me it means, all that people learn in the course of working honestly on hard problems.",
+      "translated": "托马斯·赫胥黎曾说：“努力去了解一切事物的某些方面，以及某个事物的一切方面。”大多数大学都致力于实现这一理想。但什么是“一切”？对我来说，这意味着人们在诚实地努力解决难题的过程中所学到的所有知识。"
+    },
+    {
+      "original": "All such work tends to be related, in that ideas and techniques from one field can often be transplanted successfully to others. Even others that seem quite distant. For example, I write essays the same way I write software: I sit down and blow out a lame version 1 as fast as I can type, then spend several weeks rewriting it.Working on hard problems is not, by itself, enough.",
+      "translated": "所有这些工作往往都是相互关联的，因为一个领域的思想和技术常常可以成功地移植到其他领域，甚至是那些看似相距甚远的领域。例如，我写文章的方式和我编写软件是一样的：我坐下后，以最快的速度敲出一个蹩脚的1.0版本，然后花几周时间重写它。仅仅从事困难的问题是不够的。"
+    },
+    {
+      "original": "Medieval alchemists were working on a hard problem, but their approach was so bogus that there was little to learn from studying it, except possibly about people's ability to delude themselves. Unfortunately the sort of AI I was trying to learn in college had the same flaw: a very hard problem, blithely approached with hopelessly inadequate techniques.",
+      "translated": "中世纪的炼金术士们在解决一个非常难的问题，但他们的方法如此不靠谱，以至于从研究中几乎学不到什么，除了可能了解到人们自我欺骗的能力。不幸的是，我在大学里试图学习的那种人工智能也有同样的缺陷：一个非常难的问题，却用无可救药的不足方法轻率地去解决。"
+    },
+    {
+      "original": "Bold? Closer to fraudulent. The social sciences are also fairly bogus, because they're so much influenced by intellectual fashions. If a physicist met a colleague from 100 years ago, he could teach him some new things; if a psychologist met a colleague from 100 years ago, they'd just get into an ideological argument.",
+      "translated": "大胆？更接近于欺诈。社会科学也相当虚假，因为它们深受学术潮流的影响。如果一位物理学家遇到100年前的同行，他可以教给对方一些新东西；而如果一位心理学家遇到100年前的同行，他们可能会陷入一场意识形态的争论。"
+    },
+    {
+      "original": "Yes, of course, you'll learn something by taking a psychology class. The point is, you'll learn more by taking a class in another department.The worthwhile departments, in my opinion, are math, the hard sciences, engineering, history (especially economic and social history, and the history of science), architecture, and the classics.",
+      "translated": "当然，你通过上心理学课程确实能学到一些东西。关键在于，上其他系的课程你会学到更多。在我看来，值得学习的系别包括数学、理科、工程、历史（尤其是经济和社会史以及科学史）、建筑和古典学。"
+    },
+    {
+      "original": "A survey course in art history may be worthwhile. Modern literature is important, but the way to learn about it is just to read. I don't know enough about music to say.You can skip the social sciences, philosophy, and the various departments created recently in response to political pressures.",
+      "translated": "艺术史的概论课程可能值得一上。现代文学很重要，但了解它的方法就是去阅读。我对音乐了解不够，无法发表意见。你可以跳过社会科学、哲学，以及最近因政治压力而设立的各种院系。"
+    },
+    {
+      "original": "Many of these fields talk about important problems, certainly. But the way they talk about them is useless. For example, philosophy talks, among other things, about our obligations to one another; but you can learn more about this from a wise grandmother or E.",
+      "translated": "许多这些领域确实讨论了重要的问题。但是，他们讨论这些问题的方式是无用的。例如，哲学除了讨论其他问题外，还讨论我们彼此之间的义务；但你从一位明智的祖母或E那里可以学到更多。"
+    },
+    {
+      "original": "B. White than from an academic philosopher.I speak here from experience. I should probably have been offended when people laughed at Clinton for saying \"It depends on what the meaning of the word 'is' is.\" I took about five classes in college on what the meaning of \"is\" is.Another way to figure out which fields are worth studying is to create the dropout graph.",
+      "translated": "B. 怀特，而不是一个学术哲学家。我这里说的是个人经验。当人们嘲笑克林顿说“这取决于‘is’这个词的意义”时，我本应该感到被冒犯。在大学里我上了大约五门课来研究“is”这个词的意义。另一种确定哪些领域值得研究的方法是创建辍学率图表。"
+    },
+    {
+      "original": "For example, I know many people who switched from math to computer science because they found math too hard, and no one who did the opposite. People don't do hard things gratuitously; no one will work on a harder problem unless it is proportionately (or at least log(n)) more rewarding.",
+      "translated": "例如，我知道很多人因为觉得数学太难而转到了计算机科学，但没有人是从计算机科学转到数学的。人们不会无缘无故地去做困难的事情；没有人会去解决一个更难的问题，除非这个问题的回报是成比例的（或者至少是 log(n) 倍）更高。"
+    },
+    {
+      "original": "So probably math is more worth studying than computer science. By similar comparisons you can make a graph of all the departments in a university. At the bottom you'll find the subjects with least intellectual content.If you use this method, you'll get roughly the same answer I just gave.Language courses are an anomaly.",
+      "translated": "所以，数学可能比计算机科学更值得学习。通过类似的比较，你可以绘制出大学所有院系的图表。在最底部，你会发现那些智力含量最低的科目。如果你使用这种方法，你会得到与我刚才给出的大致相同的结果。语言课程是一个例外。"
+    },
+    {
+      "original": "I think they're better considered as extracurricular activities, like pottery classes. They'd be far more useful when combined with some time living in a country where the language is spoken. On a whim I studied Arabic as a freshman.",
+      "translated": "我认为把它们视为课外活动更为恰当，比如陶艺课。如果能结合一段时间生活在使用该语言的国家，它们会更有用。大一的时候，我心血来潮学习了阿拉伯语。"
+    },
+    {
+      "original": "It was a lot of work, and the only lasting benefits were a weird ability to identify semitic roots and some insights into how people recognize words.Studio art and creative writing courses are wildcards.",
+      "translated": "这是一项艰巨的工作，唯一的长期收益就是获得了一种奇特的能力，可以辨识闪族语根，以及对人们如何识别词语有了一些见解。工作室艺术和创意写作课程则是未知数。"
+    },
+    {
+      "original": "Usually you don't get taught much: you just work (or don't work) on whatever you want, and then sit around offering \"crits\" of one another's creations under the vague supervision of the teacher. But writing and art are both very hard problems that (some) people work honestly at, so they're worth doing, especially if you can find a good teacher.JobsOf course college students have to think about more than just learning.",
+      "translated": "通常你不会学到很多东西：你只是做（或不做）自己想做的事情，然后在老师的模糊监督下，互相评论彼此的作品。但写作和艺术都是非常难的问题，有些人会诚实地为之努力，所以它们值得去做，特别是如果你能找到一个好的老师。当然，大学生不仅仅要考虑学习。"
+    },
+    {
+      "original": "There are also two practical problems to consider: jobs, and graduate school.In theory a liberal education is not supposed to supply job training. But everyone knows this is a bit of a fib. Hackers at every college learn practical skills, and not by accident.What you should learn to get a job depends on the kind you want.",
+      "translated": "还需要考虑两个实际问题：就业和研究生院。理论上，通识教育不应该提供职业技能培训。但大家都知道这有点不切实际。每个大学的黑客都会学到实用技能，而且这并非偶然。你应该学习什么以获得工作，取决于你想要什么样的工作。"
+    },
+    {
+      "original": "If you want to work in a big company, learn how to hack Blub on Windows. If you want to work at a cool little company or research lab, you'll do better to learn Ruby on Linux. And if you want to start your own company, which I think will be more and more common, master the most powerful tools you can find, because you're going to be in a race against your competitors, and they'll be your horse.There is not a direct correlation between the skills you should learn in college and those you'll use in a job.",
+      "translated": "如果你想在大公司工作，就学习如何在Windows上破解Blub。如果你想在一家酷炫的小公司或研究实验室工作，学习Linux上的Ruby会更好。如果你想要自己创业，我认为这种情况会越来越普遍，那么你应该掌握你能找到的最强大的工具，因为你将与竞争对手赛跑，而这些工具就是你的赛马。大学里应该学习的技能和工作中将要使用的技能之间并没有直接的对应关系。"
+    },
+    {
+      "original": "You should aim slightly high in college.In workouts a football player may bench press 300 pounds, even though he may never have to exert anything like that much force in the course of a game. Likewise, if your professors try to make you learn stuff that's more advanced than you'll need in a job, it may not just be because they're academics, detached from the real world.",
+      "translated": "你在大学里应该设定稍高的目标。就像一个足球运动员在训练中可能会做300磅的卧推，尽管在比赛中他可能永远不需要用到那么大的力量。同样，如果你的教授试图让你学习比工作中实际需要更高级的内容，这可能不仅仅是因为他们作为学者，与现实世界有些脱节。"
+    },
+    {
+      "original": "They may be trying to make you lift weights with your brain.The programs you write in classes differ in three critical ways from the ones you'll write in the real world: they're small; you get to start from scratch; and the problem is usually artificial and predetermined.",
+      "translated": "他们可能是在让你用大脑举重。你在课堂上编写的程序与你在现实世界中将要编写的程序在三个方面有关键的区别：它们规模较小；你可以从零开始；而且问题通常是人为设定的。"
+    },
+    {
+      "original": "In the real world, programs are bigger, tend to involve existing code, and often require you to figure out what the problem is before you can solve it.You don't have to wait to leave (or even enter) college to learn these skills.",
+      "translated": "在现实世界中，程序通常更大，倾向于涉及现有代码，并且经常需要你先找出问题所在才能解决它。你不必等到离开（甚至进入）大学才开始学习这些技能。"
+    },
+    {
+      "original": "If you want to learn how to deal with existing code, for example, you can contribute to open-source projects. The sort of employer you want to work for will be as impressed by that as good grades on class assignments.In existing open-source projects you don't get much practice at the third skill, deciding what problems to solve.",
+      "translated": "如果你想学习如何处理现有的代码，例如，你可以贡献开源项目。你希望为之工作的雇主会对这一点印象深刻，就像对课堂作业中的好成绩印象深刻一样。在现有的开源项目中，你不会有很多机会练习第三项技能，即决定要解决什么问题。"
+    },
+    {
+      "original": "But there's nothing to stop you starting new projects of your own. And good employers will be even more impressed with that.What sort of problem should you try to solve? One way to answer that is to ask what you need as a user.",
+      "translated": "但没有什么能阻止你开始自己的新项目。而好的雇主会对这一点更加 impressed。你应该尝试解决什么样的问题呢？回答这个问题的一个方法是思考作为用户，你需要解决什么问题。"
+    },
+    {
+      "original": "For example, I stumbled on a good algorithm for spam filtering because I wanted to stop getting spam. Now what I wish I had was a mail reader that somehow prevented my inbox from filling up. I tend to use my inbox as a todo list.",
+      "translated": "例如，我偶然发现了一个很好的垃圾邮件过滤算法，因为我希望停止收到垃圾邮件。现在我希望我有一个邮件阅读器，能够 somehow 防止我的收件箱被填满。我倾向于将我的收件箱用作待办事项列表。"
+    },
+    {
+      "original": "But that's like using a screwdriver to open bottles; what one really wants is a bottle opener.Grad SchoolWhat about grad school? Should you go? And how do you get into a good one?In principle, grad school is professional training in research, and you shouldn't go unless you want to do research as a career.",
+      "translated": "但这就像用螺丝刀开瓶盖；真正需要的其实是一个开瓶器。研究生院关于研究生院呢？你该去吗？又该如何进入一个好学校？原则上，研究生院是研究方面的专业训练，除非你想把研究作为职业，否则不应该去。"
+    },
+    {
+      "original": "And yet half the people who get PhDs in CS don't go into research. I didn't go to grad school to become a professor. I went because I wanted to learn more.So if you're mainly interested in hacking and you go to grad school, you'll find a lot of other people who are similarly out of their element.",
+      "translated": "然而，有一半获得计算机科学博士学位的人并没有从事研究工作。我读研究生并不是为了成为教授，而是因为我想学到更多。所以，如果你对编程特别感兴趣，并且选择去读研究生，你会发现有很多和你一样不完全适应这个环境的人。"
+    },
+    {
+      "original": "And if half the people around you are out of their element in the same way you are, are you really out of your element?There's a fundamental problem in \"computer science,\" and it surfaces in situations like this.",
+      "translated": "如果你周围有一半的人和你一样感到不适应，那你真的不适应吗？计算机科学中有一个根本问题，而这个问题在这种情况下就会显现出来。"
+    },
+    {
+      "original": "No one is sure what \"research\" is supposed to be. A lot of research is hacking that had to be crammed into the form of an academic paper to yield one more quantum of publication.So it's kind of misleading to ask whether you'll be at home in grad school, because very few people are quite at home in computer science.",
+      "translated": "没有人确切知道“研究”到底是什么。很多研究其实是不得不被塞进学术论文形式的编程工作，以增加一篇出版物。所以，问你是否会在研究生院感到自在其实是有些误导的，因为很少有人在计算机科学领域真正感到自在。"
+    },
+    {
+      "original": "The whole field is uncomfortable in its own skin. So the fact that you're mainly interested in hacking shouldn't deter you from going to grad school. Just be warned you'll have to do a lot of stuff you don't like.Number one will be your dissertation.",
+      "translated": "整个领域都对自己的定位感到不太自在。所以，你主要对黑客感兴趣这一点不应该阻止你去读研究生。只是你要做好心理准备，你会不得不做很多你不喜欢的事情。首要的就是你的毕业论文。"
+    },
+    {
+      "original": "Almost everyone hates their dissertation by the time they're done with it. The process inherently tends to produce an unpleasant result, like a cake made out of whole wheat flour and baked for twelve hours.",
+      "translated": "几乎每个人在完成论文时都会讨厌它。这个过程本身往往会带来一个不愉快的结果，就像用全麦面粉烤了十二小时的蛋糕。"
+    },
+    {
+      "original": "Few dissertations are read with pleasure, especially by their authors.But thousands before you have suffered through writing a dissertation. And aside from that, grad school is close to paradise. Many people remember it as the happiest time of their lives.",
+      "translated": "很少有人会愉快地阅读论文，尤其是论文的作者。但在你之前，已经有成千上万的人熬过了撰写论文的过程。除此之外，研究生院几乎就是天堂。许多人将其视为一生中最幸福的时光。"
+    },
+    {
+      "original": "And nearly all the rest, including me, remember it as a period that would have been, if they hadn't had to write a dissertation. [5]The danger with grad school is that you don't see the scary part upfront.",
+      "translated": "而包括我在内的几乎所有其他人，都记得那是一段本应美好的时光，如果不是因为要写论文的话。[5]研究生院的危险在于，一开始你并不会看到它可怕的一面。"
+    },
+    {
+      "original": "PhD programs start out as college part 2, with several years of classes. So by the time you face the horror of writing a dissertation, you're already several years in. If you quit now, you'll be a grad-school dropout, and you probably won't like that idea.",
+      "translated": "博士项目一开始就像是大学的延续，需要上好几年的课。所以，当你面临撰写博士论文的可怕任务时，你已经读了几年了。如果你现在放弃，你就成了研究生肄业生，你可能不会喜欢这个结果。"
+    },
+    {
+      "original": "When Robert got kicked out of grad school for writing the Internet worm of 1988, I envied him enormously for finding a way out without the stigma of failure. On the whole, grad school is probably better than most alternatives.",
+      "translated": "当罗伯特因为编写1988年的互联网蠕虫而被研究生院开除时，我非常羡慕他找到了一条没有失败污名的出路。总的来说，研究生院可能比大多数其他选择都要好。"
+    },
+    {
+      "original": "You meet a lot of smart people, and your glum procrastination will at least be a powerful common bond. And of course you have a PhD at the end. I forgot about that. I suppose that's worth something.The greatest advantage of a PhD (besides being the union card of academia, of course) may be that it gives you some baseline confidence.",
+      "translated": "你会遇到很多聪明的人，你那沮丧的拖延至少会成为一种强大的共同纽带。当然，最后你还会获得博士学位。我差点忘了这一点。我想这还是有价值的。博士学位的最大优势（当然，除了它是学术界的通行证外）可能在于它能给你一些基本的自信。"
+    },
+    {
+      "original": "For example, the Honeywell thermostats in my house have the most atrocious UI. My mother, who has the same model, diligently spent a day reading the user's manual to learn how to operate hers. She assumed the problem was with her.",
+      "translated": "例如，我家里的霍尼韦尔恒温器的用户界面糟糕透了。我母亲也有同样的型号，她花了整整一天时间阅读用户手册来学习如何操作。她以为问题出在自己身上。"
+    },
+    {
+      "original": "But I can think to myself \"If someone with a PhD in computer science can't understand this thermostat, it must be badly designed.\"If you still want to go to grad school after this equivocal recommendation, I can give you solid advice about how to get in.",
+      "translated": "但我可以这样想：“如果一个计算机科学博士都弄不懂这个恒温器，那它肯定设计得很糟糕。”如果你在听了我这番模棱两可的建议后仍然想读研究生，我可以给你一些切实可行的建议，告诉你如何被录取。"
+    },
+    {
+      "original": "A lot of my friends are CS professors now, so I have the inside story about admissions. It's quite different from college. At most colleges, admissions officers decide who gets in. For PhD programs, the professors do.",
+      "translated": "我的很多朋友现在都是计算机科学教授，所以我对录取内幕很了解。这与本科录取大不相同。在大多数大学，本科生的录取由招生官决定。而对于博士项目，录取决定是由教授们做出的。"
+    },
+    {
+      "original": "And they try to do it well, because the people they admit are going to be working for them.Apparently only recommendations really matter at the best schools. Standardized tests count for nothing, and grades for little.",
+      "translated": "他们努力做好这件事，因为被录取的人将来要为他们工作。显然，在最好的学校里，只有推荐信真正重要。标准化考试成绩毫无意义，而成绩也只是略微有些作用。"
+    },
+    {
+      "original": "The essay is mostly an opportunity to disqualify yourself by saying something stupid. The only thing professors trust is recommendations, preferably from people they know. [6]So if you want to get into a PhD program, the key is to impress your professors.",
+      "translated": "这篇论文大多数情况下是一个因为说蠢话而自我淘汰的机会。教授们唯一信任的是推荐信，最好是来自他们认识的人。所以，如果你想进入博士项目，关键是要给你的教授留下深刻印象。"
+    },
+    {
+      "original": "And from my friends who are professors I know what impresses them: not merely trying to impress them. They're not impressed by students who get good grades or want to be their research assistants so they can get into grad school.",
+      "translated": "从我的教授朋友们那里，我知道了什么能让他们感到印象深刻：并不是刻意去取悦他们。他们不会因为学生成绩优秀或想成为他们的研究助理以便进入研究生院而感到印象深刻。"
+    },
+    {
+      "original": "They're impressed by students who get good grades and want to be their research assistants because they're genuinely interested in the topic.So the best thing you can do in college, whether you want to get into grad school or just be good at hacking, is figure out what you truly like.",
+      "translated": "他们对成绩优秀并且真正对研究课题感兴趣、希望成为他们研究助手的学生印象深刻。所以，无论你是否想继续深造或只是想在黑客技术上有所建树，你在大学期间能做的最好的事情就是弄清楚你真正喜欢什么。"
+    },
+    {
+      "original": "It's hard to trick professors into letting you into grad school, and impossible to trick problems into letting you solve them. College is where faking stops working. From this point, unless you want to go work for a big company, which is like reverting to high school, the only way forward is through doing what you love.Notes [1] No one seems to have minded, which shows how unimportant the Arpanet (which became the Internet) was as late as 1984.[2] This is why, when I became an employer, I didn't care about GPAs.",
+      "translated": "要哄骗教授让你进入研究生院是很难的，而想哄骗问题让你解决它们则是不可能的。大学是装模作样不再奏效的地方。从这一点来看，除非你想去大公司工作，那就像回到了高中，否则前进的唯一途径就是做你热爱的事情。注释 [1] 没有人似乎介意，这表明即使到了1984年，阿帕网（后来成为互联网）的重要性仍然很低。[2] 这就是为什么当我成为雇主时，我不关心GPA。"
+    },
+    {
+      "original": "In fact, we actively sought out people who'd failed out of school. We once put up posters around Harvard saying \"Did you just get kicked out for doing badly in your classes because you spent all your time working on some project of your own?",
+      "translated": "事实上，我们主动寻找那些学业失败的人。我们曾经在哈佛校园里张贴海报，上面写着：“你是因为把所有时间都花在自己感兴趣的项目上，而成绩不佳被开除的吗？”"
+    },
+    {
+      "original": "Come work for us!\" We managed to find a kid who had been, and he was a great hacker.When Harvard kicks undergrads out for a year, they have to get jobs. The idea is to show them how awful the real world is, so they'll understand how lucky they are to be in college.",
+      "translated": "来为我们工作吧！\" 我们找到了一个曾经被哈佛开除一年的学生，他是个很棒的黑客。哈佛让本科生休学一年时，他们必须去找工作。这个做法的目的是让他们体验现实世界的糟糕，从而让他们明白自己能在大学里是多么幸运。"
+    },
+    {
+      "original": "This plan backfired with the guy who came to work for us, because he had more fun than he'd had in school, and made more that year from stock options than any of his professors did in salary. So instead of crawling back repentant at the end of the year, he took another year off and went to Europe.",
+      "translated": "这个计划适得其反，因为我们雇用的那个人在这里工作比在学校时还要开心，而且那一年从股票期权中赚到的钱比他的任何一位教授的年薪还要多。所以，他不仅没有在年底悔过自新，反而又请了一年的假去了欧洲。"
+    },
+    {
+      "original": "He did eventually graduate at about 26.[3] Eric Raymond says the best metaphors for hackers are in set theory, combinatorics, and graph theory.Trevor Blackwell reminds you to take math classes intended for math majors.",
+      "translated": "他最终在大约26岁时毕业了。[3] Eric Raymond 认为，黑客最好的比喻来自于集合论、组合数学和图论。Trevor Blackwell 提醒你要选修数学专业的数学课程。"
+    },
+    {
+      "original": "\"'Math for engineers' classes sucked mightily. In fact any 'x for engineers' sucks, where x includes math, law, writing and visual design.\"[4] Other highly recommended books: What is Mathematics?, by Courant and Robbins; Geometry and the Imagination by Hilbert and Cohn-Vossen.",
+      "translated": "“‘工程师的数学’课糟糕透了。事实上，任何‘工程师的x’课都很糟糕，其中x包括数学、法律、写作和视觉设计。”[4] 其他高度推荐的书籍：《什么是数学？》，作者库朗和罗宾斯；《几何与想象》，作者希尔伯特和科恩-福森。"
+    },
+    {
+      "original": "And for those interested in graphic design, Byrne's Euclid. [5] If you wanted to have the perfect life, the thing to do would be to go to grad school, secretly write your dissertation in the first year or two, and then just enjoy yourself for the next three years, dribbling out a chapter at a time.",
+      "translated": "对于对平面设计感兴趣的人来说，伯恩的《欧几里得》。[5] 如果你想拥有完美的人生，最好的做法是去读研究生，秘密地在头一两年写完论文，然后在接下来的三年里，每次只发表一章，尽情享受生活。"
+    },
+    {
+      "original": "This prospect will make grad students' mouths water, but I know of no one who's had the discipline to pull it off.[6] One professor friend says that 15-20% of the grad students they admit each year are \"long shots.\" But what he means by long shots are people whose applications are perfect in every way, except that no one on the admissions committee knows the professors who wrote the recommendations.So if you want to get into grad school in the sciences, you need to go to college somewhere with real research professors.",
+      "translated": "这一前景会让研究生们垂涎三尺，但我所知没有人能有那份自律将其付诸实践。[6] 一位教授朋友说，每年录取的研究生中有15-20%是“冷门”。但他说的冷门是指那些申请材料在各方面都完美无缺，只是录取委员会中没有人认识推荐信的教授。所以，如果你想进入理科的研究生院，你需要选择一个有真正研究教授的大学。"
+    },
+    {
+      "original": "Otherwise you'll seem a risky bet to admissions committees, no matter how good you are.Which implies a surprising but apparently inevitable consequence: little liberal arts colleges are doomed. Most smart high school kids at least consider going into the sciences, even if they ultimately choose not to.",
+      "translated": "否则，无论你多么优秀，招生委员会都会认为你是一个有风险的选择。这暗示了一个令人惊讶但似乎不可避免的后果：小型文理学院难逃厄运。大多数聪明的高中生至少会考虑进入科学领域，即使他们最终选择了不这样做。"
+    },
+    {
+      "original": "Why go to a college that limits their options?Thanks to Trevor Blackwell, Alex Lewin, Jessica Livingston, Robert Morris, Eric Raymond, and several anonymous CS professors for reading drafts of this, and to the students whose questions began it.More Advice for UndergradsJoel Spolsky: Advice for Computer Science College StudentsEric Raymond: How to Become a Hacker",
+      "translated": "为什么要去那些限制自己选择的大学？感谢特雷弗·布莱克威尔、亚历克斯·莱文、杰西卡·利文斯顿、罗伯特·莫里斯、埃里克·雷蒙德以及几位匿名的计算机科学教授审阅了本文草稿，也要感谢那些提出问题的学生们。更多对本科生的建议：\n乔尔·斯波尔斯基：给计算机科学大学生的建议\n埃里克·雷蒙德：如何成为一名黑客"
+    }
+  ],
+  "translation_completed": "2025-07-28T11:37:07.538469",
+  "translation_stats": {
+    "total_paragraphs": 71,
+    "success_count": 71,
+    "success_rate": "100.0%"
+  }
+}

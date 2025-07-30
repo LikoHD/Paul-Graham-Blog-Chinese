@@ -1,0 +1,409 @@
+{
+  "title": "The Lesson to Unlearn",
+  "title_zh": "[待翻译] The Lesson to Unlearn",
+  "url": "https://www.paulgraham.com/lesson.html",
+  "filename": "lesson.html",
+  "date": "2019-12-01",
+  "id": 106,
+  "content": {
+    "success": true,
+    "paragraphs": [
+      "December 2019 The most damaging thing you learned in school wasn't something you learned in any specific class. It was learning to get good grades.When I was in college, a particularly earnest philosophy grad student once told me that he never cared what grade he got in a class, only what he learned in it.",
+      "This stuck in my mind because it was the only time I ever heard anyone say such a thing.For me, as for most students, the measurement of what I was learning completely dominated actual learning in college.",
+      "I was fairly earnest; I was genuinely interested in most of the classes I took, and I worked hard. And yet I worked by far the hardest when I was studying for a test.In theory, tests are merely what their name implies: tests of what you've learned in the class.",
+      "In theory you shouldn't have to prepare for a test in a class any more than you have to prepare for a blood test. In theory you learn from taking the class, from going to the lectures and doing the reading and/or assignments, and the test that comes afterward merely measures how well you learned.In practice, as almost everyone reading this will know, things are so different that hearing this explanation of how classes and tests are meant to work is like hearing the etymology of a word whose meaning has changed completely.",
+      "In practice, the phrase \"studying for a test\" was almost redundant, because that was when one really studied. The difference between diligent and slack students was that the former studied hard for tests and the latter didn't.",
+      "No one was pulling all-nighters two weeks into the semester.Even though I was a diligent student, almost all the work I did in school was aimed at getting a good grade on something.To many people, it would seem strange that the preceding sentence has a \"though\" in it.",
+      "Aren't I merely stating a tautology? Isn't that what a diligent student is, a straight-A student? That's how deeply the conflation of learning with grades has infused our culture.Is it so bad if learning is conflated with grades?",
+      "Yes, it is bad. And it wasn't till decades after college, when I was running Y Combinator, that I realized how bad it is.I knew of course when I was a student that studying for a test is far from identical with actual learning.",
+      "At the very least, you don't retain knowledge you cram into your head the night before an exam. But the problem is worse than that. The real problem is that most tests don't come close to measuring what they're supposed to.If tests truly were tests of learning, things wouldn't be so bad.",
+      "Getting good grades and learning would converge, just a little late. The problem is that nearly all tests given to students are terribly hackable. Most people who've gotten good grades know this, and know it so well they've ceased even to question it.",
+      "You'll see when you realize how naive it sounds to act otherwise.Suppose you're taking a class on medieval history and the final exam is coming up. The final exam is supposed to be a test of your knowledge of medieval history, right?",
+      "So if you have a couple days between now and the exam, surely the best way to spend the time, if you want to do well on the exam, is to read the best books you can find about medieval history. Then you'll know a lot about it, and do well on the exam.No, no, no, experienced students are saying to themselves.",
+      "If you merely read good books on medieval history, most of the stuff you learned wouldn't be on the test. It's not good books you want to read, but the lecture notes and assigned reading in this class.",
+      "And even most of that you can ignore, because you only have to worry about the sort of thing that could turn up as a test question. You're looking for sharply-defined chunks of information. If one of the assigned readings has an interesting digression on some subtle point, you can safely ignore that, because it's not the sort of thing that could be turned into a test question.",
+      "But if the professor tells you that there were three underlying causes of the Schism of 1378, or three main consequences of the Black Death, you'd better know them. And whether they were in fact the causes or consequences is beside the point.",
+      "For the purposes of this class they are.At a university there are often copies of old exams floating around, and these narrow still further what you have to learn. As well as learning what kind of questions this professor asks, you'll often get actual exam questions.",
+      "Many professors re-use them. After teaching a class for 10 years, it would be hard not to, at least inadvertently.In some classes, your professor will have had some sort of political axe to grind, and if so you'll have to grind it too.",
+      "The need for this varies. In classes in math or the hard sciences or engineering it's rarely necessary, but at the other end of the spectrum there are classes where you couldn't get a good grade without it.Getting a good grade in a class on x is so different from learning a lot about x that you have to choose one or the other, and you can't blame students if they choose grades.",
+      "Everyone judges them by their grades — graduate programs, employers, scholarships, even their own parents.I liked learning, and I really enjoyed some of the papers and programs I wrote in college. But did I ever, after turning in a paper in some class, sit down and write another just for fun?",
+      "Of course not. I had things due in other classes. If it ever came to a choice of learning or grades, I chose grades. I hadn't come to college to do badly.Anyone who cares about getting good grades has to play this game, or they'll be surpassed by those who do.",
+      "And at elite universities, that means nearly everyone, since someone who didn't care about getting good grades probably wouldn't be there in the first place. The result is that students compete to maximize the difference between learning and getting good grades.Why are tests so bad?",
+      "More precisely, why are they so hackable? Any experienced programmer could answer that. How hackable is software whose author hasn't paid any attention to preventing it from being hacked? Usually it's as porous as a colander.Hackable is the default for any test imposed by an authority.",
+      "The reason the tests you're given are so consistently bad — so consistently far from measuring what they're supposed to measure — is simply that the people creating them haven't made much effort to prevent them from being hacked.But you can't blame teachers if their tests are hackable.",
+      "Their job is to teach, not to create unhackable tests. The real problem is grades, or more precisely, that grades have been overloaded. If grades were merely a way for teachers to tell students what they were doing right and wrong, like a coach giving advice to an athlete, students wouldn't be tempted to hack tests.",
+      "But unfortunately after a certain age grades become more than advice. After a certain age, whenever you're being taught, you're usually also being judged.I've used college tests as an example, but those are actually the least hackable.",
+      "All the tests most students take their whole lives are at least as bad, including, most spectacularly of all, the test that gets them into college. If getting into college were merely a matter of having the quality of one's mind measured by admissions officers the way scientists measure the mass of an object, we could tell teenage kids \"learn a lot\" and leave it at that.",
+      "You can tell how bad college admissions are, as a test, from how unlike high school that sounds. In practice, the freakishly specific nature of the stuff ambitious kids have to do in high school is directly proportionate to the hackability of college admissions.",
+      "The classes you don't care about that are mostly memorization, the random \"extracurricular activities\" you have to participate in to show you're \"well-rounded,\" the standardized tests as artificial as chess, the \"essay\" you have to write that's presumably meant to hit some very specific target, but you're not told what.As well as being bad in what it does to kids, this test is also bad in the sense of being very hackable.",
+      "So hackable that whole industries have grown up to hack it. This is the explicit purpose of test-prep companies and admissions counsellors, but it's also a significant part of the function of private schools.Why is this particular test so hackable?",
+      "I think because of what it's measuring. Although the popular story is that the way to get into a good college is to be really smart, admissions officers at elite colleges neither are, nor claim to be, looking only for that.",
+      "What are they looking for? They're looking for people who are not simply smart, but admirable in some more general sense. And how is this more general admirableness measured? The admissions officers feel it.",
+      "In other words, they accept who they like.So what college admissions is a test of is whether you suit the taste of some group of people. Well, of course a test like that is going to be hackable. And because it's both very hackable and there's (thought to be) a lot at stake, it's hacked like nothing else.",
+      "That's why it distorts your life so much for so long.It's no wonder high school students often feel alienated. The shape of their lives is completely artificial.But wasting your time is not the worst thing the educational system does to you.",
+      "The worst thing it does is to train you that the way to win is by hacking bad tests. This is a much subtler problem that I didn't recognize until I saw it happening to other people.When I started advising startup founders at Y Combinator, especially young ones, I was puzzled by the way they always seemed to make things overcomplicated.",
+      "How, they would ask, do you raise money? What's the trick for making venture capitalists want to invest in you? The best way to make VCs want to invest in you, I would explain, is to actually be a good investment.",
+      "Even if you could trick VCs into investing in a bad startup, you'd be tricking yourselves too. You're investing time in the same company you're asking them to invest money in. If it's not a good investment, why are you even doing it?Oh, they'd say, and then after a pause to digest this revelation, they'd ask: What makes a startup a good investment?So I would explain that what makes a startup promising, not just in the eyes of investors but in fact, is growth.",
+      "Ideally in revenue, but failing that in usage. What they needed to do was get lots of users.How does one get lots of users? They had all kinds of ideas about that. They needed to do a big launch that would get them \"exposure.\" They needed influential people to talk about them.",
+      "They even knew they needed to launch on a tuesday, because that's when one gets the most attention.No, I would explain, that is not how to get lots of users. The way you get lots of users is to make the product really great.",
+      "Then people will not only use it but recommend it to their friends, so your growth will be exponential once you get it started.At this point I've told the founders something you'd think would be completely obvious: that they should make a good company by making a good product.",
+      "And yet their reaction would be something like the reaction many physicists must have had when they first heard about the theory of relativity: a mixture of astonishment at its apparent genius, combined with a suspicion that anything so weird couldn't possibly be right.",
+      "Ok, they would say, dutifully. And could you introduce us to such-and-such influential person? And remember, we want to launch on Tuesday.It would sometimes take founders years to grasp these simple lessons.",
+      "And not because they were lazy or stupid. They just seemed blind to what was right in front of them.Why, I would ask myself, do they always make things so complicated? And then one day I realized this was not a rhetorical question.Why did founders tie themselves in knots doing the wrong things when the answer was right in front of them?",
+      "Because that was what they'd been trained to do. Their education had taught them that the way to win was to hack the test. And without even telling them they were being trained to do this. The younger ones, the recent graduates, had never faced a non-artificial test.",
+      "They thought this was just how the world worked: that the first thing you did, when facing any kind of challenge, was to figure out what the trick was for hacking the test. That's why the conversation would always start with how to raise money, because that read as the test.",
+      "It came at the end of YC. It had numbers attached to it, and higher numbers seemed to be better. It must be the test.There are certainly big chunks of the world where the way to win is to hack the test.",
+      "This phenomenon isn't limited to schools. And some people, either due to ideology or ignorance, claim that this is true of startups too. But it isn't. In fact, one of the most striking things about startups is the degree to which you win by simply doing good work.",
+      "There are edge cases, as there are in anything, but in general you win by getting users, and what users care about is whether the product does what they want.Why did it take me so long to understand why founders made startups overcomplicated?",
+      "Because I hadn't realized explicitly that schools train us to win by hacking bad tests. And not just them, but me! I'd been trained to hack bad tests too, and hadn't realized it till decades later.I had lived as if I realized it, but without knowing why.",
+      "For example, I had avoided working for big companies. But if you'd asked why, I'd have said it was because they were bogus, or bureaucratic. Or just yuck. I never understood how much of my dislike of big companies was due to the fact that you win by hacking bad tests.Similarly, the fact that the tests were unhackable was a lot of what attracted me to startups.",
+      "But again, I hadn't realized that explicitly.I had in effect achieved by successive approximations something that may have a closed-form solution. I had gradually undone my training in hacking bad tests without knowing I was doing it.",
+      "Could someone coming out of school banish this demon just by knowing its name, and saying begone? It seems worth trying.Merely talking explicitly about this phenomenon is likely to make things better, because much of its power comes from the fact that we take it for granted.",
+      "After you've noticed it, it seems the elephant in the room, but it's a pretty well camouflaged elephant. The phenomenon is so old, and so pervasive. And it's simply the result of neglect. No one meant things to be this way.",
+      "This is just what happens when you combine learning with grades, competition, and the naive assumption of unhackability.It was mind-blowing to realize that two of the things I'd puzzled about the most — the bogusness of high school, and the difficulty of getting founders to see the obvious — both had the same cause.",
+      "It's rare for such a big block to slide into place so late.Usually when that happens it has implications in a lot of different areas, and this case seems no exception. For example, it suggests both that education could be done better, and how you might fix it.",
+      "But it also suggests a potential answer to the question all big companies seem to have: how can we be more like a startup? I'm not going to chase down all the implications now. What I want to focus on here is what it means for individuals.To start with, it means that most ambitious kids graduating from college have something they may want to unlearn.",
+      "But it also changes how you look at the world. Instead of looking at all the different kinds of work people do and thinking of them vaguely as more or less appealing, you can now ask a very specific question that will sort them in an interesting way: to what extent do you win at this kind of work by hacking bad tests?It would help if there was a way to recognize bad tests quickly.",
+      "Is there a pattern here? It turns out there is.Tests can be divided into two kinds: those that are imposed by authorities, and those that aren't. Tests that aren't imposed by authorities are inherently unhackable, in the sense that no one is claiming they're tests of anything more than they actually test.",
+      "A football match, for example, is simply a test of who wins, not which team is better. You can tell that from the fact that commentators sometimes say afterward that the better team won. Whereas tests imposed by authorities are usually proxies for something else.",
+      "A test in a class is supposed to measure not just how well you did on that particular test, but how much you learned in the class. While tests that aren't imposed by authorities are inherently unhackable, those imposed by authorities have to be made unhackable.",
+      "Usually they aren't. So as a first approximation, bad tests are roughly equivalent to tests imposed by authorities.You might actually like to win by hacking bad tests. Presumably some people do. But I bet most people who find themselves doing this kind of work don't like it.",
+      "They just take it for granted that this is how the world works, unless you want to drop out and be some kind of hippie artisan.I suspect many people implicitly assume that working in a field with bad tests is the price of making lots of money.",
+      "But that, I can tell you, is false. It used to be true. In the mid-twentieth century, when the economy was composed of oligopolies, the only way to the top was by playing their game. But it's not true now.",
+      "There are now ways to get rich by doing good work, and that's part of the reason people are so much more excited about getting rich than they used to be. When I was a kid, you could either become an engineer and make cool things, or make lots of money by becoming an \"executive.\" Now you can make lots of money by making cool things.Hacking bad tests is becoming less important as the link between work and authority erodes.",
+      "The erosion of that link is one of the most important trends happening now, and we see its effects in almost every kind of work people do. Startups are one of the most visible examples, but we see much the same thing in writing.",
+      "Writers no longer have to submit to publishers and editors to reach readers; now they can go direct.The more I think about this question, the more optimistic I get. This seems one of those situations where we don't realize how much something was holding us back until it's eliminated.",
+      "And I can foresee the whole bogus edifice crumbling. Imagine what happens as more and more people start to ask themselves if they want to win by hacking bad tests, and decide that they don't. The kinds of work where you win by hacking bad tests will be starved of talent, and the kinds where you win by doing good work will see an influx of the most ambitious people.",
+      "And as hacking bad tests shrinks in importance, education will evolve to stop training us to do it. Imagine what the world could look like if that happened.This is not just a lesson for individuals to unlearn, but one for society to unlearn, and we'll be amazed at the energy that's liberated when we do.",
+      "Notes[1] If using tests only to measure learning sounds impossibly utopian, that is already the way things work at Lambda School. Lambda School doesn't have grades. You either graduate or you don't. The only purpose of tests is to decide at each stage of the curriculum whether you can continue to the next.",
+      "So in effect the whole school is pass/fail.[2] If the final exam consisted of a long conversation with the professor, you could prepare for it by reading good books on medieval history. A lot of the hackability of tests in schools is due to the fact that the same test has to be given to large numbers of students.[3] Learning is the naive algorithm for getting good grades.[4] Hacking has multiple senses.",
+      "There's a narrow sense in which it means to compromise something. That's the sense in which one hacks a bad test. But there's another, more general sense, meaning to find a surprising solution to a problem, often by thinking differently about it.",
+      "Hacking in this sense is a wonderful thing. And indeed, some of the hacks people use on bad tests are impressively ingenious; the problem is not so much the hacking as that, because the tests are hackable, they don't test what they're meant to.[5] The people who pick startups at Y Combinator are similar to admissions officers, except that instead of being arbitrary, their acceptance criteria are trained by a very tight feedback loop.",
+      "If you accept a bad startup or reject a good one, you will usually know it within a year or two at the latest, and often within a month.[6] I'm sure admissions officers are tired of reading applications from kids who seem to have no personality beyond being willing to seem however they're supposed to seem to get accepted.",
+      "What they don't realize is that they are, in a sense, looking in a mirror. The lack of authenticity in the applicants is a reflection of the arbitrariness of the application process. A dictator might just as well complain about the lack of authenticity in the people around him.[7] By good work, I don't mean morally good, but good in the sense in which a good craftsman does good work.[8] There are borderline cases where it's hard to say which category a test falls in.",
+      "For example, is raising venture capital like college admissions, or is it like selling to a customer?[9] Note that a good test is merely one that's unhackable. Good here doesn't mean morally good, but good in the sense of working well.",
+      "The difference between fields with bad tests and good ones is not that the former are bad and the latter are good, but that the former are bogus and the latter aren't. But those two measures are not unrelated.",
+      "As Tara Ploughman said, the path from good to evil goes through bogus.[10] People who think the recent increase in economic inequality is due to changes in tax policy seem very naive to anyone with experience in startups.",
+      "Different people are getting rich now than used to, and they're getting much richer than mere tax savings could make them.[11] Note to tiger parents: you may think you're training your kids to win, but if you're training them to win by hacking bad tests, you are, as parents so often do, training them to fight the last war.Thanks to Austen Allred, Trevor Blackwell, Patrick Collison, Jessica Livingston, Robert Morris, and Harj Taggar for reading drafts of this.Russian TranslationArabic TranslationSwedish Translation"
+    ],
+    "word_count": 3984,
+    "paragraph_count": 77
+  },
+  "processed_at": "2025-07-26T19:04:49.530619",
+  "paragraphs": [
+    {
+      "original": "December 2019 The most damaging thing you learned in school wasn't something you learned in any specific class. It was learning to get good grades.When I was in college, a particularly earnest philosophy grad student once told me that he never cared what grade he got in a class, only what he learned in it.",
+      "translated": "2019年12月，你在学校学到的最有害的事情并不是任何特定课程中的内容，而是学会如何取得好成绩。当我在大学时，一位特别认真的哲学研究生曾告诉我，他从不在乎他在课堂上得到什么分数，只在乎他在课堂上学到了什么。"
+    },
+    {
+      "original": "This stuck in my mind because it was the only time I ever heard anyone say such a thing.For me, as for most students, the measurement of what I was learning completely dominated actual learning in college.",
+      "translated": "这让我印象深刻，因为这是我唯一一次听到有人这么说。对我而言，就像对大多数学生一样，在大学里，对学习成果的衡量完全主导了实际的学习过程。"
+    },
+    {
+      "original": "I was fairly earnest; I was genuinely interested in most of the classes I took, and I worked hard. And yet I worked by far the hardest when I was studying for a test.In theory, tests are merely what their name implies: tests of what you've learned in the class.",
+      "translated": "我相当认真；我对所上的大多数课程都 genuinely 感兴趣，并且努力学习。然而，我学习最刻苦的时候却是为了准备考试。理论上，考试只是它们名字所暗示的：对你在课堂上学到的知识的测试。"
+    },
+    {
+      "original": "In theory you shouldn't have to prepare for a test in a class any more than you have to prepare for a blood test. In theory you learn from taking the class, from going to the lectures and doing the reading and/or assignments, and the test that comes afterward merely measures how well you learned.In practice, as almost everyone reading this will know, things are so different that hearing this explanation of how classes and tests are meant to work is like hearing the etymology of a word whose meaning has changed completely.",
+      "translated": "理论上，你参加一门课程的考试不应该比你做血液检查需要更多的准备。理论上，你通过上课、听讲座、做阅读和/或作业来学习，随后的考试只是衡量你学得如何。实际上，正如几乎所有读到这里的人都知道的，事情截然不同，听到这种关于课程和考试应该如何运作的解释，就像听到一个词的词源，而这个词的意义已经完全改变了。"
+    },
+    {
+      "original": "In practice, the phrase \"studying for a test\" was almost redundant, because that was when one really studied. The difference between diligent and slack students was that the former studied hard for tests and the latter didn't.",
+      "translated": "实际上，“为了考试而学习”几乎是多余的，因为那才是真正学习的时候。勤奋的学生和懒散的学生之间的区别在于，前者会为考试努力学习，而后者则不会。"
+    },
+    {
+      "original": "No one was pulling all-nighters two weeks into the semester.Even though I was a diligent student, almost all the work I did in school was aimed at getting a good grade on something.To many people, it would seem strange that the preceding sentence has a \"though\" in it.",
+      "translated": "开学两周后，没有人再通宵达旦。即使我是一个勤奋的学生，我在学校做的几乎所有工作都是为了在某件事上取得好成绩。对许多人来说，前一句中出现“虽然”一词似乎有些奇怪。"
+    },
+    {
+      "original": "Aren't I merely stating a tautology? Isn't that what a diligent student is, a straight-A student? That's how deeply the conflation of learning with grades has infused our culture.Is it so bad if learning is conflated with grades?",
+      "translated": "我难道不是在陈述一个同义反复吗？勤学的学生不就是成绩全优的学生吗？学习与成绩的混淆已经如此深刻地渗透到我们的文化中。如果把学习和成绩混为一谈，这真的有那么糟糕吗？"
+    },
+    {
+      "original": "Yes, it is bad. And it wasn't till decades after college, when I was running Y Combinator, that I realized how bad it is.I knew of course when I was a student that studying for a test is far from identical with actual learning.",
+      "translated": "是的，这很糟糕。直到大学毕业后几十年，当我运营 Y Combinator 时，我才意识到它有多糟。当然，当我还是学生时，我就知道为考试而学习与真正的学习相差甚远。"
+    },
+    {
+      "original": "At the very least, you don't retain knowledge you cram into your head the night before an exam. But the problem is worse than that. The real problem is that most tests don't come close to measuring what they're supposed to.If tests truly were tests of learning, things wouldn't be so bad.",
+      "translated": "至少，你不会保留那些在考试前夜突击塞进脑子里的知识。但问题远不止于此。真正的问题在于，大多数测试根本无法接近它们本应衡量的内容。如果测试真正是学习的测试，情况就不会这么糟糕了。"
+    },
+    {
+      "original": "Getting good grades and learning would converge, just a little late. The problem is that nearly all tests given to students are terribly hackable. Most people who've gotten good grades know this, and know it so well they've ceased even to question it.",
+      "translated": "取得好成绩和学习本来是会汇合的，只是稍晚了一些。问题在于，几乎所有的学生考试都极易被投机取巧。大多数成绩好的人都明白这一点，而且他们对此了解得如此透彻，以至于不再对此提出质疑。"
+    },
+    {
+      "original": "You'll see when you realize how naive it sounds to act otherwise.Suppose you're taking a class on medieval history and the final exam is coming up. The final exam is supposed to be a test of your knowledge of medieval history, right?",
+      "translated": "等你意识到其他行为听起来多么天真时，你就会明白了。假设你在上中世纪历史课，期末考试即将到来。期末考试本应是对你中世纪历史知识的测试，对吧？"
+    },
+    {
+      "original": "So if you have a couple days between now and the exam, surely the best way to spend the time, if you want to do well on the exam, is to read the best books you can find about medieval history. Then you'll know a lot about it, and do well on the exam.No, no, no, experienced students are saying to themselves.",
+      "translated": "所以，如果你现在到考试之间还有几天时间，如果你想在考试中取得好成绩，最好的利用时间的方式当然是阅读你能找到的关于中世纪历史的最好的书籍。这样你就会对这个领域了解很多，在考试中也会表现得很好。不，不，不，有经验的学生们会在心里说。"
+    },
+    {
+      "original": "If you merely read good books on medieval history, most of the stuff you learned wouldn't be on the test. It's not good books you want to read, but the lecture notes and assigned reading in this class.",
+      "translated": "如果你仅仅阅读关于中世纪历史的好书，你所学到的大部分内容都不会出现在考试中。你想要阅读的不是好书，而是这门课的讲义和指定阅读材料。"
+    },
+    {
+      "original": "And even most of that you can ignore, because you only have to worry about the sort of thing that could turn up as a test question. You're looking for sharply-defined chunks of information. If one of the assigned readings has an interesting digression on some subtle point, you can safely ignore that, because it's not the sort of thing that could be turned into a test question.",
+      "translated": "而且，即使这些内容中的大部分你也可以忽略，因为只需要关注那些可能会出现在考题中的内容。你寻找的是明确的信息块。如果指定的阅读材料中对某个细微问题进行了有趣的延伸讨论，你可以放心地忽略这部分，因为这些内容不太可能被转化为考题。"
+    },
+    {
+      "original": "But if the professor tells you that there were three underlying causes of the Schism of 1378, or three main consequences of the Black Death, you'd better know them. And whether they were in fact the causes or consequences is beside the point.",
+      "translated": "但是，如果教授告诉你1378年大分裂有三个根本原因，或者黑死病有三个主要后果，你最好知道这些。至于它们是否真的是原因或后果，那倒是次要的。"
+    },
+    {
+      "original": "For the purposes of this class they are.At a university there are often copies of old exams floating around, and these narrow still further what you have to learn. As well as learning what kind of questions this professor asks, you'll often get actual exam questions.",
+      "translated": "为了这门课，它们确实如此。在大学里，经常会有以往考试的试题流传，这些试题进一步缩小了你需要学习的范围。除了了解这位教授通常会问什么类型的问题外，你往往还能得到实际的考试题目。"
+    },
+    {
+      "original": "Many professors re-use them. After teaching a class for 10 years, it would be hard not to, at least inadvertently.In some classes, your professor will have had some sort of political axe to grind, and if so you'll have to grind it too.",
+      "translated": "许多教授会重复使用它们。在教授同一门课十年之后，很难不这样做，至少是无意间。在某些课程中，你的教授可能会有某种政治立场，如果真是这样，你也得持有同样的立场。"
+    },
+    {
+      "original": "The need for this varies. In classes in math or the hard sciences or engineering it's rarely necessary, but at the other end of the spectrum there are classes where you couldn't get a good grade without it.Getting a good grade in a class on x is so different from learning a lot about x that you have to choose one or the other, and you can't blame students if they choose grades.",
+      "translated": "这种需求因课程而异。在数学、自然科学或工程学的课程中，这种情况很少见，但在另一端，有些课程如果不这样做就无法获得好成绩。在某门课程中获得好成绩与深入了解该课程的内容之间存在很大差异，你必须在这两者之间做出选择，而你不能责怪学生选择成绩。"
+    },
+    {
+      "original": "Everyone judges them by their grades — graduate programs, employers, scholarships, even their own parents.I liked learning, and I really enjoyed some of the papers and programs I wrote in college. But did I ever, after turning in a paper in some class, sit down and write another just for fun?",
+      "translated": "每个人都以成绩来评判他们——研究生项目、雇主、奖学金，甚至他们自己的父母。我喜欢学习，真的很享受大学期间写的一些论文和程序。但在我上交了某门课的论文后，我曾坐下来只是为了乐趣而再写一篇吗？"
+    },
+    {
+      "original": "Of course not. I had things due in other classes. If it ever came to a choice of learning or grades, I chose grades. I hadn't come to college to do badly.Anyone who cares about getting good grades has to play this game, or they'll be surpassed by those who do.",
+      "translated": "当然不是。我还有其他课程的任务要完成。如果学习和成绩之间必须做出选择，我选择成绩。我来上大学不是为了表现差的。任何在乎成绩的人都必须玩这个游戏，否则就会被那些玩这个游戏的人超越。"
+    },
+    {
+      "original": "And at elite universities, that means nearly everyone, since someone who didn't care about getting good grades probably wouldn't be there in the first place. The result is that students compete to maximize the difference between learning and getting good grades.Why are tests so bad?",
+      "translated": "而在精英大学里，这几乎意味着所有人，因为一个对取得好成绩不关心的人很可能根本不会在那里。结果是，学生们为了最大化学习和取得好成绩之间的差距而竞争。为什么考试如此糟糕？"
+    },
+    {
+      "original": "More precisely, why are they so hackable? Any experienced programmer could answer that. How hackable is software whose author hasn't paid any attention to preventing it from being hacked? Usually it's as porous as a colander.Hackable is the default for any test imposed by an authority.",
+      "translated": "更确切地说，为什么它们如此容易被破解？任何有经验的程序员都能回答这个问题。一个作者完全不关注防止其被破解的软件有多容易被破解？通常它就像一个漏勺一样漏洞百出。对于任何权威机构施加的测试来说，容易被破解是默认状态。"
+    },
+    {
+      "original": "The reason the tests you're given are so consistently bad — so consistently far from measuring what they're supposed to measure — is simply that the people creating them haven't made much effort to prevent them from being hacked.But you can't blame teachers if their tests are hackable.",
+      "translated": "你所接受的测试之所以如此一贯地糟糕——如此一贯地偏离了它们本应测量的内容——仅仅是因为设计这些测试的人并没有付出多少努力来防止它们被破解。但你不能因为测试可以被破解就责怪老师。"
+    },
+    {
+      "original": "Their job is to teach, not to create unhackable tests. The real problem is grades, or more precisely, that grades have been overloaded. If grades were merely a way for teachers to tell students what they were doing right and wrong, like a coach giving advice to an athlete, students wouldn't be tempted to hack tests.",
+      "translated": "他们的工作是教学，而不是创建无法破解的考试。真正的问题在于分数，更确切地说，是分数被赋予了过多的意义。如果分数仅仅是教师告诉学生他们哪些地方做得对、哪些地方做得不对的方式，就像教练给运动员提供建议一样，学生就不会有破解考试的动机。"
+    },
+    {
+      "original": "But unfortunately after a certain age grades become more than advice. After a certain age, whenever you're being taught, you're usually also being judged.I've used college tests as an example, but those are actually the least hackable.",
+      "translated": "但不幸的是，到了一定年龄，成绩就不仅仅是建议了。到了一定年龄，每次你被教导时，通常也在被评判。我以大学考试为例，但实际上这些考试是最难操纵的。"
+    },
+    {
+      "original": "All the tests most students take their whole lives are at least as bad, including, most spectacularly of all, the test that gets them into college. If getting into college were merely a matter of having the quality of one's mind measured by admissions officers the way scientists measure the mass of an object, we could tell teenage kids \"learn a lot\" and leave it at that.",
+      "translated": "几乎所有学生在整个学习生涯中参加的考试都至少同样糟糕，最引人注目的是，那些让他们进入大学的考试。如果进入大学仅仅是由招生官像科学家测量物体质量那样衡量一个人的智力，我们就可以告诉十几岁的孩子“多学点东西”就足够了。"
+    },
+    {
+      "original": "You can tell how bad college admissions are, as a test, from how unlike high school that sounds. In practice, the freakishly specific nature of the stuff ambitious kids have to do in high school is directly proportionate to the hackability of college admissions.",
+      "translated": "你可以通过高中生活与大学录取之间的巨大差异来判断大学录取问题有多严重。实际上，雄心勃勃的孩子们在高中必须做的那些极其具体的事情，与大学录取的可操作性成正比。"
+    },
+    {
+      "original": "The classes you don't care about that are mostly memorization, the random \"extracurricular activities\" you have to participate in to show you're \"well-rounded,\" the standardized tests as artificial as chess, the \"essay\" you have to write that's presumably meant to hit some very specific target, but you're not told what.As well as being bad in what it does to kids, this test is also bad in the sense of being very hackable.",
+      "translated": "那些你不太关心、主要靠记忆的课程，那些你不得不参与的所谓“课外活动”以证明你“全面发展”，那些像国际象棋一样人为的标准化考试，还有你必须写出来的、据说要达到某个特定目标但又不告诉你具体是什么的“作文”。这些考试不仅对孩子的伤害很大，而且很容易被钻空子。"
+    },
+    {
+      "original": "So hackable that whole industries have grown up to hack it. This is the explicit purpose of test-prep companies and admissions counsellors, but it's also a significant part of the function of private schools.Why is this particular test so hackable?",
+      "translated": "如此容易被操控，以至于整个行业因此而兴起。这不仅是考试辅导公司和入学顾问的明确目的，也是私立学校功能的重要组成部分。为什么这个特定的考试如此容易被操控？"
+    },
+    {
+      "original": "I think because of what it's measuring. Although the popular story is that the way to get into a good college is to be really smart, admissions officers at elite colleges neither are, nor claim to be, looking only for that.",
+      "translated": "我认为这是因为它所衡量的内容。尽管流行的说法是进入好大学的方法是必须非常聪明，但精英大学的招生官既不是，也不声称仅仅在寻找这一点。"
+    },
+    {
+      "original": "What are they looking for? They're looking for people who are not simply smart, but admirable in some more general sense. And how is this more general admirableness measured? The admissions officers feel it.",
+      "translated": "他们在寻找什么？他们寻找的不仅仅是聪明的人，而是从更广泛意义上来说值得尊敬的人。而这种更广泛的值得尊敬的品质是如何衡量的？招生官凭感觉判断。"
+    },
+    {
+      "original": "In other words, they accept who they like.So what college admissions is a test of is whether you suit the taste of some group of people. Well, of course a test like that is going to be hackable. And because it's both very hackable and there's (thought to be) a lot at stake, it's hacked like nothing else.",
+      "translated": "换句话说，他们接受自己喜欢的人。因此，大学录取实际上是在测试你是否符合某个群体的口味。当然，这样的测试是可以被操控的。而且，由于这种测试既非常容易被操控，又（被认为）关系重大，所以它被操控的程度超过了其他任何事情。"
+    },
+    {
+      "original": "That's why it distorts your life so much for so long.It's no wonder high school students often feel alienated. The shape of their lives is completely artificial.But wasting your time is not the worst thing the educational system does to you.",
+      "translated": "这就是为什么它会扭曲你的生活这么久。难怪高中生常常感到疏离。他们的生活形态完全是人为的。但浪费时间并不是教育制度对你所做的最糟糕的事情。"
+    },
+    {
+      "original": "The worst thing it does is to train you that the way to win is by hacking bad tests. This is a much subtler problem that I didn't recognize until I saw it happening to other people.When I started advising startup founders at Y Combinator, especially young ones, I was puzzled by the way they always seemed to make things overcomplicated.",
+      "translated": "最糟糕的是，它教会你获胜的方式是通过破解糟糕的测试。这是一个更加微妙的问题，直到我看到它发生在别人身上时才意识到。当我开始在 Y Combinator 指导初创公司的创始人，特别是年轻创始人时，我对他们总是把事情弄得过于复杂感到困惑。"
+    },
+    {
+      "original": "How, they would ask, do you raise money? What's the trick for making venture capitalists want to invest in you? The best way to make VCs want to invest in you, I would explain, is to actually be a good investment.",
+      "translated": "他们问道，你是如何筹集资金的？有什么技巧能让风险投资家愿意投资你？我解释说，让风险投资家愿意投资你的最好方法是，你确实是一个值得投资的好项目。"
+    },
+    {
+      "original": "Even if you could trick VCs into investing in a bad startup, you'd be tricking yourselves too. You're investing time in the same company you're asking them to invest money in. If it's not a good investment, why are you even doing it?Oh, they'd say, and then after a pause to digest this revelation, they'd ask: What makes a startup a good investment?So I would explain that what makes a startup promising, not just in the eyes of investors but in fact, is growth.",
+      "translated": "即使你能骗过风险投资家投资一家糟糕的创业公司，你也是在欺骗自己。你在同一家公司投入了时间，而你却要求他们投入资金。如果这不是一个好投资，那你为什么还要这样做呢？哦，他们会说，然后在消化这一揭示后停顿一下，他们会问：什么使一家创业公司成为好的投资？于是我会解释，使一家创业公司有前景的，不只是在投资者眼中，而实际上是增长。"
+    },
+    {
+      "original": "Ideally in revenue, but failing that in usage. What they needed to do was get lots of users.How does one get lots of users? They had all kinds of ideas about that. They needed to do a big launch that would get them \"exposure.\" They needed influential people to talk about them.",
+      "translated": "理想情况下是通过收入，但如果不行的话，就通过使用量。他们需要做的是吸引大量用户。如何吸引大量用户呢？他们对此有很多想法。他们需要进行一次大规模的发布，以获得“曝光”。他们需要有影响力的人来谈论他们。"
+    },
+    {
+      "original": "They even knew they needed to launch on a tuesday, because that's when one gets the most attention.No, I would explain, that is not how to get lots of users. The way you get lots of users is to make the product really great.",
+      "translated": "他们甚至知道要在周二发布，因为这是获得最多关注的时候。不，我会解释，这并不是吸引大量用户的方法。吸引大量用户的关键是把产品做得非常出色。"
+    },
+    {
+      "original": "Then people will not only use it but recommend it to their friends, so your growth will be exponential once you get it started.At this point I've told the founders something you'd think would be completely obvious: that they should make a good company by making a good product.",
+      "translated": "这样，人们不仅会使用它，还会推荐给他们的朋友，因此一旦开始，你的增长将会是指数级的。在这个时候，我告诉创始人一些他们本应觉得显而易见的事情：通过制造优质产品来建立一家好公司。"
+    },
+    {
+      "original": "And yet their reaction would be something like the reaction many physicists must have had when they first heard about the theory of relativity: a mixture of astonishment at its apparent genius, combined with a suspicion that anything so weird couldn't possibly be right.",
+      "translated": "而他们的反应可能会类似于许多物理学家第一次听说相对论时的反应：对这一理论明显天才之处感到惊讶，同时又怀疑如此奇怪的理论不可能是正确的。"
+    },
+    {
+      "original": "Ok, they would say, dutifully. And could you introduce us to such-and-such influential person? And remember, we want to launch on Tuesday.It would sometimes take founders years to grasp these simple lessons.",
+      "translated": "好的，他们会说，尽职地。然后能否把我们介绍给某某有影响力的人？还有，记得我们要在周二启动。有时候，创始人需要花费数年时间才能掌握这些简单的教训。"
+    },
+    {
+      "original": "And not because they were lazy or stupid. They just seemed blind to what was right in front of them.Why, I would ask myself, do they always make things so complicated? And then one day I realized this was not a rhetorical question.Why did founders tie themselves in knots doing the wrong things when the answer was right in front of them?",
+      "translated": "并不是因为他们懒惰或愚蠢。他们似乎对眼前的事物视而不见。我常常问自己，为什么他们总是把事情搞得很复杂？后来有一天，我意识到这并不是一个修辞问题。为什么创始人会在错误的事情上打结，而答案明明就在他们眼前？"
+    },
+    {
+      "original": "Because that was what they'd been trained to do. Their education had taught them that the way to win was to hack the test. And without even telling them they were being trained to do this. The younger ones, the recent graduates, had never faced a non-artificial test.",
+      "translated": "因为他们就是这样被训练的。他们的教育教会了他们，要赢就要钻考试的漏洞。而且甚至没有告诉他们正在被这样训练。年轻的一代，最近的毕业生，从未面对过非人工设计的测试。"
+    },
+    {
+      "original": "They thought this was just how the world worked: that the first thing you did, when facing any kind of challenge, was to figure out what the trick was for hacking the test. That's why the conversation would always start with how to raise money, because that read as the test.",
+      "translated": "他们认为这就是世界的运作方式：面对任何挑战时，首先要做的是找出破解测试的窍门。这就是为什么对话总是从如何筹集资金开始，因为这被视为测试。"
+    },
+    {
+      "original": "It came at the end of YC. It had numbers attached to it, and higher numbers seemed to be better. It must be the test.There are certainly big chunks of the world where the way to win is to hack the test.",
+      "translated": "它出现在 YC 的末尾。它带有数字，数字越高似乎越好。这一定就是测试。世界上确实有一些地方， winning 的方法就是破解测试。"
+    },
+    {
+      "original": "This phenomenon isn't limited to schools. And some people, either due to ideology or ignorance, claim that this is true of startups too. But it isn't. In fact, one of the most striking things about startups is the degree to which you win by simply doing good work.",
+      "translated": "这种现象并不局限于学校。有些人，无论是出于意识形态还是无知，声称初创企业也是如此。但事实并非如此。事实上，关于初创企业最引人注目的事情之一就是，你仅仅通过做好工作就能取得成功。"
+    },
+    {
+      "original": "There are edge cases, as there are in anything, but in general you win by getting users, and what users care about is whether the product does what they want.Why did it take me so long to understand why founders made startups overcomplicated?",
+      "translated": "总有一些特例，但总体来说，你通过获取用户来获胜，而用户关心的是产品是否能满足他们的需求。为什么我花了这么长时间才明白，为什么创始人会把创业公司弄得过于复杂？"
+    },
+    {
+      "original": "Because I hadn't realized explicitly that schools train us to win by hacking bad tests. And not just them, but me! I'd been trained to hack bad tests too, and hadn't realized it till decades later.I had lived as if I realized it, but without knowing why.",
+      "translated": "因为我没有明确地意识到学校教育我们通过钻低质量测试的漏洞来获胜。不仅是他们，也包括我自己！我也被训练去钻低质量测试的漏洞，直到几十年后才意识到这一点。我像是已经意识到了这一点那样生活，但并不知道其中的原因。"
+    },
+    {
+      "original": "For example, I had avoided working for big companies. But if you'd asked why, I'd have said it was because they were bogus, or bureaucratic. Or just yuck. I never understood how much of my dislike of big companies was due to the fact that you win by hacking bad tests.Similarly, the fact that the tests were unhackable was a lot of what attracted me to startups.",
+      "translated": "例如，我一向避免为大公司工作。但如果问起原因，我可能会说是因为它们虚伪、官僚，或者就是让人感到不舒服。我从未意识到，我对大公司的反感很大程度上是因为在这些公司里，你只能通过钻恶劣的考核制度的空子来获得成功。同样地，创业公司的吸引力很大程度上在于它们的考核制度是无法被钻空子的。"
+    },
+    {
+      "original": "But again, I hadn't realized that explicitly.I had in effect achieved by successive approximations something that may have a closed-form solution. I had gradually undone my training in hacking bad tests without knowing I was doing it.",
+      "translated": "但再次，我并没有明确意识到这一点。实际上，我通过逐步逼近的方法达到了某种可能有闭式解的结果。我逐渐地解除了自己对编写糟糕测试的训练，而自己却没有意识到这一点。"
+    },
+    {
+      "original": "Could someone coming out of school banish this demon just by knowing its name, and saying begone? It seems worth trying.Merely talking explicitly about this phenomenon is likely to make things better, because much of its power comes from the fact that we take it for granted.",
+      "translated": "刚从学校出来的人仅仅知道这个恶魔的名字并说“走开”就能驱逐它吗？似乎值得一试。仅仅明确地谈论这一现象就可能使情况好转，因为它的很多力量源于我们对此习以为常。"
+    },
+    {
+      "original": "After you've noticed it, it seems the elephant in the room, but it's a pretty well camouflaged elephant. The phenomenon is so old, and so pervasive. And it's simply the result of neglect. No one meant things to be this way.",
+      "translated": "当你注意到它时，它似乎成了房间里的大象，但其实这头大象伪装得很好。这种现象如此古老，又如此普遍。它仅仅是疏忽的结果。没有人打算让事情变成这样。"
+    },
+    {
+      "original": "This is just what happens when you combine learning with grades, competition, and the naive assumption of unhackability.It was mind-blowing to realize that two of the things I'd puzzled about the most — the bogusness of high school, and the difficulty of getting founders to see the obvious — both had the same cause.",
+      "translated": "当你将学习与成绩、竞争以及天真的不可破解假设结合在一起时，就会发生这种情况。令人震惊的是，我曾经最为困惑的两件事——高中的虚假性和让创始人看到显而易见的问题的难度——居然有同一个原因。"
+    },
+    {
+      "original": "It's rare for such a big block to slide into place so late.Usually when that happens it has implications in a lot of different areas, and this case seems no exception. For example, it suggests both that education could be done better, and how you might fix it.",
+      "translated": "如此大规模的板块在这么晚的时候才就位，实属罕见。通常这种情况会在很多不同领域产生影响，而这次似乎也不例外。例如，这表明教育可以做得更好，以及如何改进它。"
+    },
+    {
+      "original": "But it also suggests a potential answer to the question all big companies seem to have: how can we be more like a startup? I'm not going to chase down all the implications now. What I want to focus on here is what it means for individuals.To start with, it means that most ambitious kids graduating from college have something they may want to unlearn.",
+      "translated": "但它也暗示了一个所有大公司似乎都在问的问题的一个潜在答案：我们如何能更像一家创业公司？我现在不会追根究底地探讨所有的影响。我在这里想关注的是这对个人意味着什么。首先，这意味着大多数雄心勃勃的大学毕业生可能需要卸下一些他们学到的东西。"
+    },
+    {
+      "original": "But it also changes how you look at the world. Instead of looking at all the different kinds of work people do and thinking of them vaguely as more or less appealing, you can now ask a very specific question that will sort them in an interesting way: to what extent do you win at this kind of work by hacking bad tests?It would help if there was a way to recognize bad tests quickly.",
+      "translated": "但这也会改变你看待世界的方式。你不再只是模糊地认为各种工作或多或少有吸引力，而是可以提出一个非常具体的问题，以有趣的方式对这些工作进行分类：你通过破解不好的测试在这一类工作中能获得多少成功？如果有一种方法能够快速识别出不好的测试，那将非常有帮助。"
+    },
+    {
+      "original": "Is there a pattern here? It turns out there is.Tests can be divided into two kinds: those that are imposed by authorities, and those that aren't. Tests that aren't imposed by authorities are inherently unhackable, in the sense that no one is claiming they're tests of anything more than they actually test.",
+      "translated": "这里有什么规律吗？确实有。测试可以分为两种：一种是由权威机构强加的，另一种则不是。不由权威机构强加的测试本质上是无法作弊的，因为没有人声称这些测试能测试出更多它们实际上所测试的内容。"
+    },
+    {
+      "original": "A football match, for example, is simply a test of who wins, not which team is better. You can tell that from the fact that commentators sometimes say afterward that the better team won. Whereas tests imposed by authorities are usually proxies for something else.",
+      "translated": "例如，一场足球比赛，仅仅是一场谁赢的比赛，而不是哪支队伍更优秀。从评论员有时会在赛后说更好的队伍赢了这一点可以看出。而权威机构施加的测试通常是对其他事情的替代。"
+    },
+    {
+      "original": "A test in a class is supposed to measure not just how well you did on that particular test, but how much you learned in the class. While tests that aren't imposed by authorities are inherently unhackable, those imposed by authorities have to be made unhackable.",
+      "translated": "一个班级的考试不仅应该衡量你在那次考试中的表现，还应该反映你在整个课程中学到了多少。虽然非官方强加的考试本质上是无法作弊的，但由官方强加的考试必须做到防作弊。"
+    },
+    {
+      "original": "Usually they aren't. So as a first approximation, bad tests are roughly equivalent to tests imposed by authorities.You might actually like to win by hacking bad tests. Presumably some people do. But I bet most people who find themselves doing this kind of work don't like it.",
+      "translated": "通常它们并不是。因此，作为初步的近似，糟糕的测试大致等同于由权威机构强加的测试。你可能实际上喜欢通过破解这些糟糕的测试来获胜。想必确实有人这样做。但我敢打赌，大多数发现自己在做这种工作的人其实并不喜欢它。"
+    },
+    {
+      "original": "They just take it for granted that this is how the world works, unless you want to drop out and be some kind of hippie artisan.I suspect many people implicitly assume that working in a field with bad tests is the price of making lots of money.",
+      "translated": "他们理所当然地认为世界就是这样的运作方式，除非你想要退出社会，去做个嬉皮士手艺人。我怀疑许多人潜意识里认为，在测试糟糕的领域工作是赚大钱的代价。"
+    },
+    {
+      "original": "But that, I can tell you, is false. It used to be true. In the mid-twentieth century, when the economy was composed of oligopolies, the only way to the top was by playing their game. But it's not true now.",
+      "translated": "但那，我可以告诉你，是错误的。过去确实如此。在二十世纪中叶，当经济由寡头垄断组成时，通往顶端的唯一途径就是按照他们的规则行事。但现在不是这样了。"
+    },
+    {
+      "original": "There are now ways to get rich by doing good work, and that's part of the reason people are so much more excited about getting rich than they used to be. When I was a kid, you could either become an engineer and make cool things, or make lots of money by becoming an \"executive.\" Now you can make lots of money by making cool things.Hacking bad tests is becoming less important as the link between work and authority erodes.",
+      "translated": "现在，人们可以通过做好工作来致富，这也是人们比以往更热衷于致富的部分原因。当我还是个孩子的时候，你可以选择成为一名工程师，做出很酷的东西，或者通过成为“高管”来赚大钱。如今，你可以通过制作很酷的东西来赚大钱。随着工作与权威之间的联系逐渐减弱，钻坏制度的空子变得越来越不重要。"
+    },
+    {
+      "original": "The erosion of that link is one of the most important trends happening now, and we see its effects in almost every kind of work people do. Startups are one of the most visible examples, but we see much the same thing in writing.",
+      "translated": "这种联系的削弱是当前最重要的趋势之一，我们在几乎所有类型的工作中都能看到其影响。初创公司是最明显的例子，但在写作领域也看到了类似的情况。"
+    },
+    {
+      "original": "Writers no longer have to submit to publishers and editors to reach readers; now they can go direct.The more I think about this question, the more optimistic I get. This seems one of those situations where we don't realize how much something was holding us back until it's eliminated.",
+      "translated": "作家不必再向出版商和编辑提交作品以接触读者；现在他们可以直接接触。我越思考这个问题，就越感到乐观。这似乎是一个在某种束缚被消除之前，我们并没有意识到它对我们有多大限制的情况。"
+    },
+    {
+      "original": "And I can foresee the whole bogus edifice crumbling. Imagine what happens as more and more people start to ask themselves if they want to win by hacking bad tests, and decide that they don't. The kinds of work where you win by hacking bad tests will be starved of talent, and the kinds where you win by doing good work will see an influx of the most ambitious people.",
+      "translated": "我可以预见整个虚假的体系将土崩瓦解。想象一下，当越来越多的人开始问自己是否想通过作弊来通过糟糕的测试，并决定他们不想这样做时会发生什么。那些通过作弊来通过糟糕测试的工作将缺乏人才，而那些通过做好工作来取得成功的工作将吸引最雄心勃勃的人。"
+    },
+    {
+      "original": "And as hacking bad tests shrinks in importance, education will evolve to stop training us to do it. Imagine what the world could look like if that happened.This is not just a lesson for individuals to unlearn, but one for society to unlearn, and we'll be amazed at the energy that's liberated when we do.",
+      "translated": "随着对糟糕测试的破解变得不再重要，教育也将发展到不再训练我们去做这件事。想象一下，如果这真的发生了，世界将会是什么样子。这不仅是个体需要去重新学习的一课，也是整个社会需要重新学习的一课，而当我们做到这一点时，我们将惊讶于由此释放出的能量。"
+    },
+    {
+      "original": "Notes[1] If using tests only to measure learning sounds impossibly utopian, that is already the way things work at Lambda School. Lambda School doesn't have grades. You either graduate or you don't. The only purpose of tests is to decide at each stage of the curriculum whether you can continue to the next.",
+      "translated": "注[1] 如果仅用测试来衡量学习听起来似乎不切实际，但这已经是Lambda学校的运作方式。Lambda学校没有成绩。你要么毕业，要么不毕业。测试的唯一目的是决定你在课程的每个阶段是否可以继续进入下一个阶段。"
+    },
+    {
+      "original": "So in effect the whole school is pass/fail.[2] If the final exam consisted of a long conversation with the professor, you could prepare for it by reading good books on medieval history. A lot of the hackability of tests in schools is due to the fact that the same test has to be given to large numbers of students.[3] Learning is the naive algorithm for getting good grades.[4] Hacking has multiple senses.",
+      "translated": "所以实际上整个学校实行的是及格/不及格制度。[2] 如果期末考试是一场与教授的长时间对话，你就可以通过阅读中世纪历史的好书来准备。学校考试的许多可操控性源于同一套试题需要面向大量学生。[3] 学习是获得好成绩的天真算法。[4] 操控有多种含义。"
+    },
+    {
+      "original": "There's a narrow sense in which it means to compromise something. That's the sense in which one hacks a bad test. But there's another, more general sense, meaning to find a surprising solution to a problem, often by thinking differently about it.",
+      "translated": "有一种狭义上的含义是指破坏某事物。这就是以破解一个糟糕的测试为例。但还有另一种更广泛的含义，指的是通过不同角度思考问题，找到令人惊讶的解决方案。"
+    },
+    {
+      "original": "Hacking in this sense is a wonderful thing. And indeed, some of the hacks people use on bad tests are impressively ingenious; the problem is not so much the hacking as that, because the tests are hackable, they don't test what they're meant to.[5] The people who pick startups at Y Combinator are similar to admissions officers, except that instead of being arbitrary, their acceptance criteria are trained by a very tight feedback loop.",
+      "translated": "在这个意义上，黑客行为是一件美妙的事情。事实上，人们在应对糟糕的测试时所使用的某些技巧非常聪明；问题不在于黑客行为本身，而在于这些测试因为可以被破解，所以并没有测试出它们本应测试的内容。[5] 选择创业公司的 Y Combinator 评委与招生官类似，但不同的是，他们的录取标准不是随意的，而是通过一个非常紧密的反馈循环来训练的。"
+    },
+    {
+      "original": "If you accept a bad startup or reject a good one, you will usually know it within a year or two at the latest, and often within a month.[6] I'm sure admissions officers are tired of reading applications from kids who seem to have no personality beyond being willing to seem however they're supposed to seem to get accepted.",
+      "translated": "如果你接受了一个不好的初创企业或拒绝了一个好的，你通常最迟在一年或两年内就会知道，而且往往在一个个月内就能发现。我确信招生官们已经厌倦了阅读那些似乎除了愿意表现出他们认为应该表现出的样子之外就没有其他个性的孩子们的申请。"
+    },
+    {
+      "original": "What they don't realize is that they are, in a sense, looking in a mirror. The lack of authenticity in the applicants is a reflection of the arbitrariness of the application process. A dictator might just as well complain about the lack of authenticity in the people around him.[7] By good work, I don't mean morally good, but good in the sense in which a good craftsman does good work.[8] There are borderline cases where it's hard to say which category a test falls in.",
+      "translated": "他们没有意识到的是，从某种意义上说，他们是在照镜子。申请者缺乏真实性，正是申请过程随意性的反映。一个独裁者可能会同样抱怨周围的人缺乏真实性。[7] 我所说的“好工作”并不是指道德上的好，而是指像一个好工匠所做的好工作那样的好。[8] 有些临界案例，很难说某个测试属于哪一类。"
+    },
+    {
+      "original": "For example, is raising venture capital like college admissions, or is it like selling to a customer?[9] Note that a good test is merely one that's unhackable. Good here doesn't mean morally good, but good in the sense of working well.",
+      "translated": "例如，筹集风险资本是像大学录取，还是像向客户销售？[9] 请注意，一个好的测试只是指无法被操纵的测试。这里的“好”并不意味着道德上的好，而是指运作良好的意思。"
+    },
+    {
+      "original": "The difference between fields with bad tests and good ones is not that the former are bad and the latter are good, but that the former are bogus and the latter aren't. But those two measures are not unrelated.",
+      "translated": "测试差的领域和测试好的领域的区别不在于前者是坏的而后者是好的，而在于前者是虚假的而后者不是。但这两者之间并非没有关联。"
+    },
+    {
+      "original": "As Tara Ploughman said, the path from good to evil goes through bogus.[10] People who think the recent increase in economic inequality is due to changes in tax policy seem very naive to anyone with experience in startups.",
+      "translated": "正如塔拉·普劳曼所说，从善到恶的道路经过虚假。[10] 认为最近经济不平等的增加是由于税收政策变化的人，在有初创企业经验的人看来似乎非常幼稚。"
+    },
+    {
+      "original": "Different people are getting rich now than used to, and they're getting much richer than mere tax savings could make them.[11] Note to tiger parents: you may think you're training your kids to win, but if you're training them to win by hacking bad tests, you are, as parents so often do, training them to fight the last war.Thanks to Austen Allred, Trevor Blackwell, Patrick Collison, Jessica Livingston, Robert Morris, and Harj Taggar for reading drafts of this.Russian TranslationArabic TranslationSwedish Translation",
+      "translated": "现在致富的人群与过去不同，而且他们变得比仅仅靠税收减免所能达到的富有得多。[11] 给虎爸虎妈的忠告：你们可能认为自己在训练孩子去赢得胜利，但如果你们是在教他们通过钻不合理的考试的漏洞来取胜，那么你们就像许多家长一样，是在教导他们打一场已经过去的战争。感谢 Austen Allred、Trevor Blackwell、Patrick Collison、Jessica Livingston、Robert Morris 和 Harj Taggar 阅读本文的草稿。俄语翻译 阿拉伯语翻译 瑞典语翻译"
+    }
+  ],
+  "translation_completed": "2025-07-29T11:27:38.790863",
+  "translation_stats": {
+    "total_paragraphs": 77,
+    "success_count": 77,
+    "success_rate": "100.0%"
+  }
+}

@@ -1,0 +1,139 @@
+{
+  "title": "The Top Idea in Your Mind",
+  "title_zh": "[待翻译] The Top Idea in Your Mind",
+  "url": "https://www.paulgraham.com/top.html",
+  "filename": "top.html",
+  "date": "2020-09-06",
+  "id": 89,
+  "content": {
+    "success": true,
+    "paragraphs": [
+      "Want to start a startup? Get funded by Y Combinator. July 2010I realized recently that what one thinks about in the shower in the morning is more important than I'd thought. I knew it was a good time to have ideas.",
+      "Now I'd go further: now I'd say it's hard to do a really good job on anything you don't think about in the shower.Everyone who's worked on difficult problems is probably familiar with the phenomenon of working hard to figure something out, failing, and then suddenly seeing the answer a bit later while doing something else.",
+      "There's a kind of thinking you do without trying to. I'm increasingly convinced this type of thinking is not merely helpful in solving hard problems, but necessary. The tricky part is, you can only control it indirectly.",
+      "[1]I think most people have one top idea in their mind at any given time. That's the idea their thoughts will drift toward when they're allowed to drift freely. And this idea will thus tend to get all the benefit of that type of thinking, while others are starved of it.",
+      "Which means it's a disaster to let the wrong idea become the top one in your mind.What made this clear to me was having an idea I didn't want as the top one in my mind for two long stretches.I'd noticed startups got way less done when they started raising money, but it was not till we ourselves raised money that I understood why.",
+      "The problem is not the actual time it takes to meet with investors. The problem is that once you start raising money, raising money becomes the top idea in your mind. That becomes what you think about when you take a shower in the morning.",
+      "And that means other questions aren't.I'd hated raising money when I was running Viaweb, but I'd forgotten why I hated it so much. When we raised money for Y Combinator, I remembered. Money matters are particularly likely to become the top idea in your mind.",
+      "The reason is that they have to be. It's hard to get money. It's not the sort of thing that happens by default. It's not going to happen unless you let it become the thing you think about in the shower.",
+      "And then you'll make little progress on anything else you'd rather be working on. [2](I hear similar complaints from friends who are professors. Professors nowadays seem to have become professional fundraisers who do a little research on the side.",
+      "It may be time to fix that.)The reason this struck me so forcibly is that for most of the preceding 10 years I'd been able to think about what I wanted. So the contrast when I couldn't was sharp. But I don't think this problem is unique to me, because just about every startup I've seen grinds to a halt when they start raising money — or talking to acquirers.You can't directly control where your thoughts drift.",
+      "If you're controlling them, they're not drifting. But you can control them indirectly, by controlling what situations you let yourself get into. That has been the lesson for me: be careful what you let become critical to you.",
+      "Try to get yourself into situations where the most urgent problems are ones you want to think about.You don't have complete control, of course. An emergency could push other thoughts out of your head.",
+      "But barring emergencies you have a good deal of indirect control over what becomes the top idea in your mind.I've found there are two types of thoughts especially worth avoiding — thoughts like the Nile Perch in the way they push out more interesting ideas.",
+      "One I've already mentioned: thoughts about money. Getting money is almost by definition an attention sink. The other is disputes. These too are engaging in the wrong way: they have the same velcro-like shape as genuinely interesting ideas, but without the substance.",
+      "So avoid disputes if you want to get real work done. [3]Even Newton fell into this trap. After publishing his theory of colors in 1672 he found himself distracted by disputes for years, finally concluding that the only solution was to stop publishing: I see I have made myself a slave to Philosophy, but if I get free of Mr Linus's business I will resolutely bid adew to it eternally, excepting what I do for my privat satisfaction or leave to come out after me.",
+      "For I see a man must either resolve to put out nothing new or become a slave to defend it. [4] Linus and his students at Liege were among the more tenacious critics. Newton's biographer Westfall seems to feel he was overreacting: Recall that at the time he wrote, Newton's \"slavery\" consisted of five replies to Liege, totalling fourteen printed pages, over the course of a year.",
+      "I'm more sympathetic to Newton. The problem was not the 14 pages, but the pain of having this stupid controversy constantly reintroduced as the top idea in a mind that wanted so eagerly to think about other things.Turning the other cheek turns out to have selfish advantages.",
+      "Someone who does you an injury hurts you twice: first by the injury itself, and second by taking up your time afterward thinking about it. If you learn to ignore injuries you can at least avoid the second half.",
+      "I've found I can to some extent avoid thinking about nasty things people have done to me by telling myself: this doesn't deserve space in my head. I'm always delighted to find I've forgotten the details of disputes, because that means I hadn't been thinking about them.",
+      "My wife thinks I'm more forgiving than she is, but my motives are purely selfish.I suspect a lot of people aren't sure what's the top idea in their mind at any given time. I'm often mistaken about it.",
+      "I tend to think it's the idea I'd want to be the top one, rather than the one that is. But it's easy to figure this out: just take a shower. What topic do your thoughts keep returning to? If it's not what you want to be thinking about, you may want to change something.Notes[1] No doubt there are already names for this type of thinking, but I call it \"ambient thought.\"[2] This was made particularly clear in our case, because neither of the funds we raised was difficult, and yet in both cases the process dragged on for months.",
+      "Moving large amounts of money around is never something people treat casually. The attention required increases with the amount—maybe not linearly, but definitely monotonically.[3] Corollary: Avoid becoming an administrator, or your job will consist of dealing with money and disputes.[4] Letter to Oldenburg, quoted in Westfall, Richard, Life of Isaac Newton, p.",
+      "107.Thanks to Sam Altman, Patrick Collison, Jessica Livingston, and Robert Morris for reading drafts of this."
+    ],
+    "word_count": 1146,
+    "paragraph_count": 23
+  },
+  "processed_at": "2025-07-26T19:04:16.119554",
+  "paragraphs": [
+    {
+      "original": "Want to start a startup? Get funded by Y Combinator. July 2010I realized recently that what one thinks about in the shower in the morning is more important than I'd thought. I knew it was a good time to have ideas.",
+      "translated": "想创业吗？获得Y Combinator的资助。2010年7月，我意识到早上在淋浴时思考的内容比我想象的要重要得多。我知道那是产生想法的好时机。"
+    },
+    {
+      "original": "Now I'd go further: now I'd say it's hard to do a really good job on anything you don't think about in the shower.Everyone who's worked on difficult problems is probably familiar with the phenomenon of working hard to figure something out, failing, and then suddenly seeing the answer a bit later while doing something else.",
+      "translated": "现在我想更进一步说：现在我认为，如果你不在洗澡时思考某件事，就很难把它做好。每个处理过难题的人都可能熟悉这种现象：努力去解决某个问题，却未能成功，然后在稍后做其他事情时突然找到了答案。"
+    },
+    {
+      "original": "There's a kind of thinking you do without trying to. I'm increasingly convinced this type of thinking is not merely helpful in solving hard problems, but necessary. The tricky part is, you can only control it indirectly.",
+      "translated": "有一种思维方式是你无需刻意为之的。我越来越确信，这种思维方式不仅对解决难题有帮助，而且是必不可少的。难题在于，你只能间接地控制它。"
+    },
+    {
+      "original": "[1]I think most people have one top idea in their mind at any given time. That's the idea their thoughts will drift toward when they're allowed to drift freely. And this idea will thus tend to get all the benefit of that type of thinking, while others are starved of it.",
+      "translated": "我认为大多数人在任何时候头脑中都有一个最主要的想法。当他们的思绪可以自由飘荡时，会倾向于飘向这个想法。因此，这个想法往往会得到这种思维方式的全部好处，而其他想法则被剥夺了这种机会。"
+    },
+    {
+      "original": "Which means it's a disaster to let the wrong idea become the top one in your mind.What made this clear to me was having an idea I didn't want as the top one in my mind for two long stretches.I'd noticed startups got way less done when they started raising money, but it was not till we ourselves raised money that I understood why.",
+      "translated": "这意味着让错误的想法成为你心中的首要想法是一场灾难。让我清楚认识到这一点的是，我曾有两次长时间地将一个自己并不想要的想法作为首要想法。我注意到，创业公司在开始融资时效率会大幅下降，但直到我们自己开始融资时，我才真正明白其中的原因。"
+    },
+    {
+      "original": "The problem is not the actual time it takes to meet with investors. The problem is that once you start raising money, raising money becomes the top idea in your mind. That becomes what you think about when you take a shower in the morning.",
+      "translated": "问题不在于与投资者会面所需的实际时间。问题在于，一旦你开始筹集资金，筹集资金就会成为你脑海中最重要的事情。这会让你在早晨淋浴时也在思考这个问题。"
+    },
+    {
+      "original": "And that means other questions aren't.I'd hated raising money when I was running Viaweb, but I'd forgotten why I hated it so much. When we raised money for Y Combinator, I remembered. Money matters are particularly likely to become the top idea in your mind.",
+      "translated": "这意味着其他问题就不会。当我在经营Viaweb时，我讨厌筹集资金，但我忘了自己为什么如此厌恶。当我们为Y Combinator筹集资金时，我记起来了。金钱问题特别容易成为你脑海中的首要想法。"
+    },
+    {
+      "original": "The reason is that they have to be. It's hard to get money. It's not the sort of thing that happens by default. It's not going to happen unless you let it become the thing you think about in the shower.",
+      "translated": "原因在于他们必须如此。赚钱很难。这不会自然而然地发生。除非你让它成为你在淋浴时思考的事情，否则不会发生。"
+    },
+    {
+      "original": "And then you'll make little progress on anything else you'd rather be working on. [2](I hear similar complaints from friends who are professors. Professors nowadays seem to have become professional fundraisers who do a little research on the side.",
+      "translated": "然后你在其他更想做的事情上就几乎没有什么进展了。[2]（我从一些教授朋友那里听到过类似的抱怨。现在的教授似乎成了专业的募款人，顺便做一点研究。）"
+    },
+    {
+      "original": "It may be time to fix that.)The reason this struck me so forcibly is that for most of the preceding 10 years I'd been able to think about what I wanted. So the contrast when I couldn't was sharp. But I don't think this problem is unique to me, because just about every startup I've seen grinds to a halt when they start raising money — or talking to acquirers.You can't directly control where your thoughts drift.",
+      "translated": "可能是时候解决这个问题了。让我印象如此深刻的原因是，在此之前的10年里，我大部分时间都能想我所想。所以，当我不能这样做的时候，对比就显得尤为明显。但我认为这个问题并不只属于我，因为我见过的几乎每一家初创公司在开始筹集资金或与潜在收购者交谈时，都会陷入停滞。你无法直接控制你的思绪飘向何处。"
+    },
+    {
+      "original": "If you're controlling them, they're not drifting. But you can control them indirectly, by controlling what situations you let yourself get into. That has been the lesson for me: be careful what you let become critical to you.",
+      "translated": "如果你在掌控它们，它们就不会失控。但你可以通过控制自己所处的情况来间接地掌控它们。这对我来说是一个教训：要小心不要让自己过于依赖某些事物。"
+    },
+    {
+      "original": "Try to get yourself into situations where the most urgent problems are ones you want to think about.You don't have complete control, of course. An emergency could push other thoughts out of your head.",
+      "translated": "尽量让自己处于那些最紧迫的问题正是你想要思考的情境中。当然，你并不能完全掌控一切。紧急情况可能会将其他想法从你的脑海中挤出去。"
+    },
+    {
+      "original": "But barring emergencies you have a good deal of indirect control over what becomes the top idea in your mind.I've found there are two types of thoughts especially worth avoiding — thoughts like the Nile Perch in the way they push out more interesting ideas.",
+      "translated": "但除非遇到紧急情况，你对脑海中最重要的想法有很大的间接控制权。我发现有两种想法特别值得避免——就像尼罗河鲈鱼一样，它们会挤走更有趣的想法。"
+    },
+    {
+      "original": "One I've already mentioned: thoughts about money. Getting money is almost by definition an attention sink. The other is disputes. These too are engaging in the wrong way: they have the same velcro-like shape as genuinely interesting ideas, but without the substance.",
+      "translated": "我已经提到一个了：关于金钱的思考。获取金钱几乎从定义上来说就是一种注意力的黑洞。另一个是争端。这些也以错误的方式吸引人：它们具有和真正有趣的想法一样的钩子般的特质，但却缺乏实质内容。"
+    },
+    {
+      "original": "So avoid disputes if you want to get real work done. [3]Even Newton fell into this trap. After publishing his theory of colors in 1672 he found himself distracted by disputes for years, finally concluding that the only solution was to stop publishing: I see I have made myself a slave to Philosophy, but if I get free of Mr Linus's business I will resolutely bid adew to it eternally, excepting what I do for my privat satisfaction or leave to come out after me.",
+      "translated": "所以，如果你想真正完成工作，就要避免争端。[3]即使是牛顿也曾陷入这个陷阱。1672年发表色彩理论后，他发现自己多年来被各种争论分散了注意力，最终得出结论，唯一的解决办法就是停止发表：我意识到我已让自己成了哲学的奴隶，但如果我能摆脱林纳斯先生的事情，我将坚决地永远告别哲学，除非是为了个人的满足或留待身后发表。"
+    },
+    {
+      "original": "For I see a man must either resolve to put out nothing new or become a slave to defend it. [4] Linus and his students at Liege were among the more tenacious critics. Newton's biographer Westfall seems to feel he was overreacting: Recall that at the time he wrote, Newton's \"slavery\" consisted of five replies to Liege, totalling fourteen printed pages, over the course of a year.",
+      "translated": "因为我看到一个人要么决定不提出任何新观点，要么就得成为捍卫这些观点的奴隶。[4] 林纳斯和他的列日学生是最顽固的批评者之一。牛顿的传记作者韦斯特福尔似乎认为他的反应过度了：回想一下，在他写作时，牛顿的“奴隶”身份仅包括一年内对列日的五次回复，总共十四页的印刷内容。"
+    },
+    {
+      "original": "I'm more sympathetic to Newton. The problem was not the 14 pages, but the pain of having this stupid controversy constantly reintroduced as the top idea in a mind that wanted so eagerly to think about other things.Turning the other cheek turns out to have selfish advantages.",
+      "translated": "我对牛顿更加同情。问题不在于那14页的内容，而在于这种愚蠢的争议不断地被重新提起，成为了一个如此渴望思考其他事情的头脑中的首要想法。事实证明，忍让也有自私的好处。"
+    },
+    {
+      "original": "Someone who does you an injury hurts you twice: first by the injury itself, and second by taking up your time afterward thinking about it. If you learn to ignore injuries you can at least avoid the second half.",
+      "translated": "伤害你的人会给你带来两次痛苦：首先是因为伤害本身，其次是因为之后你花时间去想这件事。如果你学会忽略这些伤害，至少可以避免后一半的痛苦。"
+    },
+    {
+      "original": "I've found I can to some extent avoid thinking about nasty things people have done to me by telling myself: this doesn't deserve space in my head. I'm always delighted to find I've forgotten the details of disputes, because that means I hadn't been thinking about them.",
+      "translated": "我发现自己可以通过告诉自己：这些不值得占用我的脑空间，从而在某种程度上避免去想那些别人对我的恶劣行为。每当我发现自己忘记了争端的具体细节时，我总是感到很高兴，因为这意味着我没有在想那些事情。"
+    },
+    {
+      "original": "My wife thinks I'm more forgiving than she is, but my motives are purely selfish.I suspect a lot of people aren't sure what's the top idea in their mind at any given time. I'm often mistaken about it.",
+      "translated": "我妻子认为我比她更宽容，但我的动机完全是自私的。我怀疑很多人在任何时候都不确定自己脑海中最重要的想法是什么。我经常对此产生误解。"
+    },
+    {
+      "original": "I tend to think it's the idea I'd want to be the top one, rather than the one that is. But it's easy to figure this out: just take a shower. What topic do your thoughts keep returning to? If it's not what you want to be thinking about, you may want to change something.Notes[1] No doubt there are already names for this type of thinking, but I call it \"ambient thought.\"[2] This was made particularly clear in our case, because neither of the funds we raised was difficult, and yet in both cases the process dragged on for months.",
+      "translated": "我倾向于认为，应该是我想成为的那个想法排在首位，而不是实际排在首位的那个。但这一点很容易弄清楚：只需要洗个澡。你的思绪会不断回到哪个话题？如果这不是你想要思考的内容，那么你可能需要改变一些事情。[1] 毫无疑问，这种思维方式已经有了专门的名称，但我称之为“背景思维”。[2] 在我们的情况下，这一点尤为明显，因为我们筹集的两笔资金都不困难，但每一次过程都拖延了好几个月。"
+    },
+    {
+      "original": "Moving large amounts of money around is never something people treat casually. The attention required increases with the amount—maybe not linearly, but definitely monotonically.[3] Corollary: Avoid becoming an administrator, or your job will consist of dealing with money and disputes.[4] Letter to Oldenburg, quoted in Westfall, Richard, Life of Isaac Newton, p.",
+      "translated": "转移大额资金从来不是人们轻率对待的事情。所需的关注度随着金额的增加而增加——或许不是线性的，但绝对是单调的。[3] 推论：避免成为管理者，否则你的工作将主要涉及处理资金和纠纷。[4] 致奥尔登堡的信，引自韦斯特福尔，理查德，《艾萨克·牛顿的一生》，第"
+    },
+    {
+      "original": "107.Thanks to Sam Altman, Patrick Collison, Jessica Livingston, and Robert Morris for reading drafts of this.",
+      "translated": "107. 感谢 Sam Altman、Patrick Collison、Jessica Livingston 和 Robert Morris 阅读本文草稿。"
+    }
+  ],
+  "translation_completed": "2025-07-28T14:27:48.654766",
+  "translation_stats": {
+    "total_paragraphs": 23,
+    "success_count": 23,
+    "success_rate": "100.0%"
+  }
+}

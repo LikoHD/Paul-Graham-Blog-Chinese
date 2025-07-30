@@ -1,0 +1,134 @@
+{
+  "title": "Is There Such a Thing as Good Taste?",
+  "title_zh": "[待翻译] Is There Such a Thing as Good Taste?",
+  "url": "https://www.paulgraham.com/goodtaste.html",
+  "filename": "goodtaste.html",
+  "date": "2021-11-01",
+  "id": 15,
+  "content": {
+    "success": true,
+    "paragraphs": [
+      "November 2021(This essay is derived from a talk at the Cambridge Union.)When I was a kid, I'd have said there wasn't. My father told me so. Some people like some things, and other people like other things, and who's to say who's right?It seemed so obvious that there was no such thing as good taste that it was only through indirect evidence that I realized my father was wrong.",
+      "And that's what I'm going to give you here: a proof by reductio ad absurdum. If we start from the premise that there's no such thing as good taste, we end up with conclusions that are obviously false, and therefore the premise must be wrong.We'd better start by saying what good taste is.",
+      "There's a narrow sense in which it refers to aesthetic judgements and a broader one in which it refers to preferences of any kind. The strongest proof would be to show that taste exists in the narrowest sense, so I'm going to talk about taste in art.",
+      "You have better taste than me if the art you like is better than the art I like.If there's no such thing as good taste, then there's no such thing as good art. Because if there is such a thing as good art, it's easy to tell which of two people has better taste.",
+      "Show them a lot of works by artists they've never seen before and ask them to choose the best, and whoever chooses the better art has better taste.So if you want to discard the concept of good taste, you also have to discard the concept of good art.",
+      "And that means you have to discard the possibility of people being good at making it. Which means there's no way for artists to be good at their jobs. And not just visual artists, but anyone who is in any sense an artist.",
+      "You can't have good actors, or novelists, or composers, or dancers either. You can have popular novelists, but not good ones.We don't realize how far we'd have to go if we discarded the concept of good taste, because we don't even debate the most obvious cases.",
+      "But it doesn't just mean we can't say which of two famous painters is better. It means we can't say that any painter is better than a randomly chosen eight year old.That was how I realized my father was wrong.",
+      "I started studying painting. And it was just like other kinds of work I'd done: you could do it well, or badly, and if you tried hard, you could get better at it. And it was obvious that Leonardo and Bellini were much better at it than me.",
+      "That gap between us was not imaginary. They were so good. And if they could be good, then art could be good, and there was such a thing as good taste after all.Now that I've explained how to show there is such a thing as good taste, I should also explain why people think there isn't.",
+      "There are two reasons. One is that there's always so much disagreement about taste. Most people's response to art is a tangle of unexamined impulses. Is the artist famous? Is the subject attractive? Is this the sort of art they're supposed to like?",
+      "Is it hanging in a famous museum, or reproduced in a big, expensive book? In practice most people's response to art is dominated by such extraneous factors.And the people who do claim to have good taste are so often mistaken.",
+      "The paintings admired by the so-called experts in one generation are often so different from those admired a few generations later. It's easy to conclude there's nothing real there at all. It's only when you isolate this force, for example by trying to paint and comparing your work to Bellini's, that you can see that it does in fact exist.The other reason people doubt that art can be good is that there doesn't seem to be any room in the art for this goodness.",
+      "The argument goes like this. Imagine several people looking at a work of art and judging how good it is. If being good art really is a property of objects, it should be in the object somehow. But it doesn't seem to be; it seems to be something happening in the heads of each of the observers.",
+      "And if they disagree, how do you choose between them?The solution to this puzzle is to realize that the purpose of art is to work on its human audience, and humans have a lot in common. And to the extent the things an object acts upon respond in the same way, that's arguably what it means for the object to have the corresponding property.",
+      "If everything a particle interacts with behaves as if the particle had a mass of m, then it has a mass of m. So the distinction between \"objective\" and \"subjective\" is not binary, but a matter of degree, depending on how much the subjects have in common.",
+      "Particles interacting with one another are at one pole, but people interacting with art are not all the way at the other; their reactions aren't random.Because people's responses to art aren't random, art can be designed to operate on people, and be good or bad depending on how effectively it does so.",
+      "Much as a vaccine can be. If someone were talking about the ability of a vaccine to confer immunity, it would seem very frivolous to object that conferring immunity wasn't really a property of vaccines, because acquiring immunity is something that happens in the immune system of each individual person.",
+      "Sure, people's immune systems vary, and a vaccine that worked on one might not work on another, but that doesn't make it meaningless to talk about the effectiveness of a vaccine.The situation with art is messier, of course.",
+      "You can't measure effectiveness by simply taking a vote, as you do with vaccines. You have to imagine the responses of subjects with a deep knowledge of art, and enough clarity of mind to be able to ignore extraneous influences like the fame of the artist.",
+      "And even then you'd still see some disagreement. People do vary, and judging art is hard, especially recent art. There is definitely not a total order either of works or of people's ability to judge them.",
+      "But there is equally definitely a partial order of both. So while it's not possible to have perfect taste, it is possible to have good taste. Thanks to the Cambridge Union for inviting me, and to Trevor Blackwell, Jessica Livingston, and Robert Morris for reading drafts of this."
+    ],
+    "word_count": 1109,
+    "paragraph_count": 22
+  },
+  "processed_at": "2025-07-26T19:01:51.255050",
+  "paragraphs": [
+    {
+      "original": "November 2021(This essay is derived from a talk at the Cambridge Union.)When I was a kid, I'd have said there wasn't. My father told me so. Some people like some things, and other people like other things, and who's to say who's right?It seemed so obvious that there was no such thing as good taste that it was only through indirect evidence that I realized my father was wrong.",
+      "translated": "2021年11月（本文源自在剑桥联盟的一次演讲。）当我还是个孩子的时候，我会说没有这样的东西。我父亲是这么告诉我的。有些人喜欢某些东西，而其他人则喜欢其他东西，谁又能说谁是对的呢？认为没有所谓的好品味这一点似乎是如此显而易见，以至于我只是通过间接的证据才意识到我父亲是错的。"
+    },
+    {
+      "original": "And that's what I'm going to give you here: a proof by reductio ad absurdum. If we start from the premise that there's no such thing as good taste, we end up with conclusions that are obviously false, and therefore the premise must be wrong.We'd better start by saying what good taste is.",
+      "translated": "这就是我在这里要给你的：一个归谬法证明。如果我们从“没有所谓的好品味”这一前提出发，最终会得出明显错误的结论，因此这个前提必然是错误的。我们最好先说明什么是好品味。"
+    },
+    {
+      "original": "There's a narrow sense in which it refers to aesthetic judgements and a broader one in which it refers to preferences of any kind. The strongest proof would be to show that taste exists in the narrowest sense, so I'm going to talk about taste in art.",
+      "translated": "这里有一个狭义的用法，指的是审美判断，还有一个广义的用法，指的是任何形式的偏好。最有力的证明是显示品味在最狭义上的存在，因此我将讨论艺术中的品味。"
+    },
+    {
+      "original": "You have better taste than me if the art you like is better than the art I like.If there's no such thing as good taste, then there's no such thing as good art. Because if there is such a thing as good art, it's easy to tell which of two people has better taste.",
+      "translated": "如果你喜欢的艺术比我喜欢的艺术更好，那么你的品味就比我好。如果根本不存在好的品味，那么也就不存在好的艺术。因为如果存在好的艺术，那么很容易就能判断出哪个人的品味更好。"
+    },
+    {
+      "original": "Show them a lot of works by artists they've never seen before and ask them to choose the best, and whoever chooses the better art has better taste.So if you want to discard the concept of good taste, you also have to discard the concept of good art.",
+      "translated": "给他们看很多他们从未见过的艺术家的作品，让他们选择最好的，选择更好艺术的人就有更好的品味。所以，如果你想抛弃好品味的概念，你也必须抛弃好艺术的概念。"
+    },
+    {
+      "original": "And that means you have to discard the possibility of people being good at making it. Which means there's no way for artists to be good at their jobs. And not just visual artists, but anyone who is in any sense an artist.",
+      "translated": "这意味着你必须放弃人们擅长创作这一可能性。这也就意味着艺术家无法擅长他们的工作。而不仅仅是视觉艺术家，任何意义上的艺术家都是如此。"
+    },
+    {
+      "original": "You can't have good actors, or novelists, or composers, or dancers either. You can have popular novelists, but not good ones.We don't realize how far we'd have to go if we discarded the concept of good taste, because we don't even debate the most obvious cases.",
+      "translated": "你不能拥有好的演员、小说家、作曲家或舞蹈家。你可以有受欢迎的小说家，但不会有好的。我们没有意识到，如果我们抛弃了对好品味的概念，我们将不得不走多远，因为我们甚至不会辩论最明显的情况。"
+    },
+    {
+      "original": "But it doesn't just mean we can't say which of two famous painters is better. It means we can't say that any painter is better than a randomly chosen eight year old.That was how I realized my father was wrong.",
+      "translated": "但这不仅意味着我们不能说哪位著名的画家更好。它意味着我们不能说任何一位画家比随机选择的八岁孩子更好。这就是我意识到我父亲错了的方式。"
+    },
+    {
+      "original": "I started studying painting. And it was just like other kinds of work I'd done: you could do it well, or badly, and if you tried hard, you could get better at it. And it was obvious that Leonardo and Bellini were much better at it than me.",
+      "translated": "我开始学习绘画。这和我做过的其他工作一样：你可以做得好，也可以做得不好，如果你努力，就能变得更好。很明显，达·芬奇和贝利尼在这方面比我强得多。"
+    },
+    {
+      "original": "That gap between us was not imaginary. They were so good. And if they could be good, then art could be good, and there was such a thing as good taste after all.Now that I've explained how to show there is such a thing as good taste, I should also explain why people think there isn't.",
+      "translated": "我们之间的差距并非虚幻。他们真的很优秀。如果他们能够优秀，那么艺术也能够优秀，最终还是有好品味这回事的。既然我已经解释了如何证明好品味的存在，我也应该解释一下为什么人们认为好品味并不存在。"
+    },
+    {
+      "original": "There are two reasons. One is that there's always so much disagreement about taste. Most people's response to art is a tangle of unexamined impulses. Is the artist famous? Is the subject attractive? Is this the sort of art they're supposed to like?",
+      "translated": "有两个原因。一是人们对品位总是有那么多的分歧。大多数人对艺术的反应是一团未经审视的冲动。艺术家有名吗？题材吸引人吗？这是他们应该喜欢的艺术类型吗？"
+    },
+    {
+      "original": "Is it hanging in a famous museum, or reproduced in a big, expensive book? In practice most people's response to art is dominated by such extraneous factors.And the people who do claim to have good taste are so often mistaken.",
+      "translated": "它是否悬挂在著名的博物馆里，或者被复制在一本昂贵的大书中？实际上，大多数人对艺术的反应往往受到这些外部因素的主导。而那些自称有良好品味的人却常常出错。"
+    },
+    {
+      "original": "The paintings admired by the so-called experts in one generation are often so different from those admired a few generations later. It's easy to conclude there's nothing real there at all. It's only when you isolate this force, for example by trying to paint and comparing your work to Bellini's, that you can see that it does in fact exist.The other reason people doubt that art can be good is that there doesn't seem to be any room in the art for this goodness.",
+      "translated": "所谓专家在一代人中所赞赏的画作，往往与几代人之后所赞赏的画作大相径庭。很容易得出结论，认为其中根本没有真实的东西。只有当你将这种力量孤立出来，例如通过尝试绘画并将你的作品与贝利尼的作品进行比较时，你才能看到这种力量确实存在。人们怀疑艺术可以是好的的另一个原因是，似乎在艺术中没有这种美好存在的空间。"
+    },
+    {
+      "original": "The argument goes like this. Imagine several people looking at a work of art and judging how good it is. If being good art really is a property of objects, it should be in the object somehow. But it doesn't seem to be; it seems to be something happening in the heads of each of the observers.",
+      "translated": "这个论点是这样的。想象几个人在观赏一件艺术品并评判它的好坏。如果艺术品的好坏真的是一种物体的属性，那么这种属性应该以某种方式存在于物体之中。但似乎事实并非如此；它似乎是在每个观察者的头脑中发生的事情。"
+    },
+    {
+      "original": "And if they disagree, how do you choose between them?The solution to this puzzle is to realize that the purpose of art is to work on its human audience, and humans have a lot in common. And to the extent the things an object acts upon respond in the same way, that's arguably what it means for the object to have the corresponding property.",
+      "translated": "如果他们意见不一致，你该如何选择？解决这个难题的关键在于认识到艺术的目的是作用于人类观众，而人类有很多共通之处。在物体作用的对象以相同方式响应的程度上，可以说这就是该物体具有相应属性的含义。"
+    },
+    {
+      "original": "If everything a particle interacts with behaves as if the particle had a mass of m, then it has a mass of m. So the distinction between \"objective\" and \"subjective\" is not binary, but a matter of degree, depending on how much the subjects have in common.",
+      "translated": "如果一个粒子与之相互作用的一切都表现得好像该粒子具有质量m，那么它就具有质量m。因此，\"客观\"与\"主观\"之间的区别并非非黑即白，而是程度上的问题，取决于主体之间有多少共性。"
+    },
+    {
+      "original": "Particles interacting with one another are at one pole, but people interacting with art are not all the way at the other; their reactions aren't random.Because people's responses to art aren't random, art can be designed to operate on people, and be good or bad depending on how effectively it does so.",
+      "translated": "粒子之间相互作用位于一端，但人们与艺术的互动并非完全位于另一端；他们的反应并非随机。因为人们对艺术的反应不是随机的，所以艺术可以被设计来作用于人，并且根据其效果的好坏而有所不同。"
+    },
+    {
+      "original": "Much as a vaccine can be. If someone were talking about the ability of a vaccine to confer immunity, it would seem very frivolous to object that conferring immunity wasn't really a property of vaccines, because acquiring immunity is something that happens in the immune system of each individual person.",
+      "translated": "就像疫苗一样。如果有人在讨论疫苗提供免疫力的能力，那么反对说提供免疫力并不是疫苗的真正属性，这看起来非常轻率，因为获得免疫力是在每个人自身的免疫系统中发生的。"
+    },
+    {
+      "original": "Sure, people's immune systems vary, and a vaccine that worked on one might not work on another, but that doesn't make it meaningless to talk about the effectiveness of a vaccine.The situation with art is messier, of course.",
+      "translated": "当然，人们的免疫系统各不相同，一种疫苗对一个人有效可能对另一个人无效，但这并不意味着讨论疫苗的有效性是没有意义的。艺术的情况当然更复杂。"
+    },
+    {
+      "original": "You can't measure effectiveness by simply taking a vote, as you do with vaccines. You have to imagine the responses of subjects with a deep knowledge of art, and enough clarity of mind to be able to ignore extraneous influences like the fame of the artist.",
+      "translated": "你不能像对疫苗那样通过简单的投票来衡量效果。你必须设想那些对艺术有深刻了解，并且头脑足够清晰、能够忽略艺术家名气等外部影响的主体的反应。"
+    },
+    {
+      "original": "And even then you'd still see some disagreement. People do vary, and judging art is hard, especially recent art. There is definitely not a total order either of works or of people's ability to judge them.",
+      "translated": "即使如此，你还是会看到一些分歧。人们的观点确实有所不同，评判艺术本就困难，尤其是近期的艺术作品。作品之间或人们评判能力之间肯定不存在绝对的排序。"
+    },
+    {
+      "original": "But there is equally definitely a partial order of both. So while it's not possible to have perfect taste, it is possible to have good taste. Thanks to the Cambridge Union for inviting me, and to Trevor Blackwell, Jessica Livingston, and Robert Morris for reading drafts of this.",
+      "translated": "但确实存在部分顺序。因此，虽然不可能有完美的品味，但可以有好的品味。感谢剑桥联盟的邀请，以及特雷弗·布莱克威尔、杰西卡·利文斯顿和罗伯特·莫里斯阅读本文的草稿。"
+    }
+  ],
+  "translation_completed": "2025-07-28T14:03:50.213791",
+  "translation_stats": {
+    "total_paragraphs": 22,
+    "success_count": 22,
+    "success_rate": "100.0%"
+  }
+}

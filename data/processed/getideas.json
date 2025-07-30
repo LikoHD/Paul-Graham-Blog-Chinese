@@ -1,0 +1,39 @@
+{
+  "title": "How to Get New Ideas",
+  "title_zh": "[待翻译] How to Get New Ideas",
+  "url": "https://www.paulgraham.com/getideas.html",
+  "filename": "getideas.html",
+  "date": "2020-09-27",
+  "id": 84,
+  "content": {
+    "success": true,
+    "paragraphs": [
+      "January 2023(Someone fed my essays into GPT to make something that could answer questions based on them, then asked it where good ideas come from. The answer was ok, but not what I would have said. This is what I would have said.)The way to get new ideas is to notice anomalies: what seems strange, or missing, or broken?",
+      "You can see anomalies in everyday life (much of standup comedy is based on this), but the best place to look for them is at the frontiers of knowledge.Knowledge grows fractally. From a distance its edges look smooth, but when you learn enough to get close to one, you'll notice it's full of gaps.",
+      "These gaps will seem obvious; it will seem inexplicable that no one has tried x or wondered about y. In the best case, exploring such gaps yields whole new fractal buds."
+    ],
+    "word_count": 144,
+    "paragraph_count": 3
+  },
+  "processed_at": "2025-07-26T19:04:09.120816",
+  "paragraphs": [
+    {
+      "original": "January 2023(Someone fed my essays into GPT to make something that could answer questions based on them, then asked it where good ideas come from. The answer was ok, but not what I would have said. This is what I would have said.)The way to get new ideas is to notice anomalies: what seems strange, or missing, or broken?",
+      "translated": "2023年1月（有人将我的文章输入到GPT中，生成了一个能够根据这些文章回答问题的模型，然后问它好点子从哪里来。答案还不错，但不是我会说的。以下是我会说的。）获取新想法的方法是注意到异常：什么看起来奇怪、缺失或不正确？"
+    },
+    {
+      "original": "You can see anomalies in everyday life (much of standup comedy is based on this), but the best place to look for them is at the frontiers of knowledge.Knowledge grows fractally. From a distance its edges look smooth, but when you learn enough to get close to one, you'll notice it's full of gaps.",
+      "translated": "你可以在日常生活中看到异常现象（许多单口喜剧就是基于这一点），但寻找异常的最佳地方是在知识的前沿。知识的增长是分形的。从远处看，它的边缘似乎平滑，但当你学到足够多的知识，接近其中一个边缘时，你会注意到它充满了空白。"
+    },
+    {
+      "original": "These gaps will seem obvious; it will seem inexplicable that no one has tried x or wondered about y. In the best case, exploring such gaps yields whole new fractal buds.",
+      "translated": "这些差距会显得非常明显；会让人觉得不可思议，为什么没有人尝试过x或想过y。在最好的情况下，探索这些差距会产生全新的分形芽。"
+    }
+  ],
+  "translation_completed": "2025-07-27T12:38:13.311682",
+  "translation_stats": {
+    "total_paragraphs": 3,
+    "success_count": 3,
+    "success_rate": "100.0%"
+  }
+}

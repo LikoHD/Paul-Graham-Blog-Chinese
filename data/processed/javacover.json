@@ -1,0 +1,169 @@
+{
+  "title": "Java's Cover",
+  "title_zh": "[待翻译] Java's Cover",
+  "url": "https://www.paulgraham.com/javacover.html",
+  "filename": "javacover.html",
+  "date": "2020-12-08",
+  "id": 59,
+  "content": {
+    "success": true,
+    "paragraphs": [
+      "April 2001This essay developed out of conversations I've had with several other programmers about why Java smelled suspicious. It's not a critique of Java! It is a case study of hacker's radar.Over time, hackers develop a nose for good (and bad) technology.",
+      "I thought it might be interesting to try and write down what made Java seem suspect to me.Some people who've read this think it's an interesting attempt to write about something that hasn't been written about before.",
+      "Others say I will get in trouble for appearing to be writing about things I don't understand. So, just in case it does any good, let me clarify that I'm not writing here about Java (which I have never used) but about hacker's radar (which I have thought about a lot).The aphorism \"you can't tell a book by its cover\" originated in the times when books were sold in plain cardboard covers, to be bound by each purchaser according to his own taste.",
+      "In those days, you couldn't tell a book by its cover. But publishing has advanced since then: present-day publishers work hard to make the cover something you can tell a book by.I spend a lot of time in bookshops and I feel as if I have by now learned to understand everything publishers mean to tell me about a book, and perhaps a bit more.",
+      "The time I haven't spent in bookshops I've spent mostly in front of computers, and I feel as if I've learned, to some degree, to judge technology by its cover as well. It may be just luck, but I've saved myself from a few technologies that turned out to be real stinkers.So far, Java seems like a stinker to me.",
+      "I've never written a Java program, never more than glanced over reference books about it, but I have a hunch that it won't be a very successful language. I may turn out to be mistaken; making predictions about technology is a dangerous business.",
+      "But for what it's worth, as a sort of time capsule, here's why I don't like the look of Java: 1. It has been so energetically hyped. Real standards don't have to be promoted. No one had to promote C, or Unix, or HTML.",
+      "A real standard tends to be already established by the time most people hear about it. On the hacker radar screen, Perl is as big as Java, or bigger, just on the strength of its own merits.2. It's aimed low.",
+      "In the original Java white paper, Gosling explicitly says Java was designed not to be too difficult for programmers used to C. It was designed to be another C++: C plus a few ideas taken from more advanced languages.",
+      "Like the creators of sitcoms or junk food or package tours, Java's designers were consciously designing a product for people not as smart as them. Historically, languages designed for other people to use have been bad: Cobol, PL/I, Pascal, Ada, C++.",
+      "The good languages have been those that were designed for their own creators: C, Perl, Smalltalk, Lisp.3. It has ulterior motives. Someone once said that the world would be a better place if people only wrote books because they had something to say, rather than because they wanted to write a book.",
+      "Likewise, the reason we hear about Java all the time is not because it has something to say about programming languages. We hear about Java as part of a plan by Sun to undermine Microsoft.4. No one loves it.",
+      "C, Perl, Python, Smalltalk, and Lisp programmers love their languages. I've never heard anyone say that they loved Java.5. People are forced to use it. A lot of the people I know using Java are using it because they feel they have to.",
+      "Either it's something they felt they had to do to get funded, or something they thought customers would want, or something they were told to do by management. These are smart people; if the technology was good, they'd have used it voluntarily.6.",
+      "It has too many cooks. The best programming languages have been developed by small groups. Java seems to be run by a committee. If it turns out to be a good language, it will be the first time in history that a committee has designed a good language.7.",
+      "It's bureaucratic. From what little I know about Java, there seem to be a lot of protocols for doing things. Really good languages aren't like that. They let you do what you want and get out of the way.8.",
+      "It's pseudo-hip. Sun now pretends that Java is a grassroots, open-source language effort like Perl or Python. This one just happens to be controlled by a giant company. So the language is likely to have the same drab clunkiness as anything else that comes out of a big company.9.",
+      "It's designed for large organizations. Large organizations have different aims from hackers. They want languages that are (believed to be) suitable for use by large teams of mediocre programmers-- languages with features that, like the speed limiters in U-Haul trucks, prevent fools from doing too much damage.",
+      "Hackers don't like a language that talks down to them. Hackers just want power. Historically, languages designed for large organizations (PL/I, Ada) have lost, while hacker languages (C, Perl) have won.",
+      "The reason: today's teenage hacker is tomorrow's CTO.10. The wrong people like it. The programmers I admire most are not, on the whole, captivated by Java. Who does like Java? Suits, who don't know one language from another, but know that they keep hearing about Java in the press; programmers at big companies, who are amazed to find that there is something even better than C++; and plug-and-chug undergrads, who are ready to like anything that might get them a job (will this be on the test?).",
+      "These people's opinions change with every wind.11. Its daddy is in a pinch. Sun's business model is being undermined on two fronts. Cheap Intel processors, of the same type used in desktop machines, are now more than fast enough for servers.",
+      "And FreeBSD seems to be at least as good an OS for servers as Solaris. Sun's advertising implies that you need Sun servers for industrial strength applications. If this were true, Yahoo would be first in line to buy Suns; but when I worked there, the servers were all Intel boxes running FreeBSD.",
+      "This bodes ill for Sun's future. If Sun runs into trouble, they could drag Java down with them.12. The DoD likes it. The Defense Department is encouraging developers to use Java. This seems to me the most damning sign of all.",
+      "The Defense Department does a fine (though expensive) job of defending the country, but they love plans and procedures and protocols. Their culture is the opposite of hacker culture; on questions of software they will tend to bet wrong.",
+      "The last time the DoD really liked a programming language, it was Ada. Bear in mind, this is not a critique of Java, but a critique of its cover. I don't know Java well enough to like it or dislike it.",
+      "This is just an explanation of why I don't find that I'm eager to learn it.It may seem cavalier to dismiss a language before you've even tried writing programs in it. But this is something all programmers have to do.",
+      "There are too many technologies out there to learn them all. You have to learn to judge by outward signs which will be worth your time. I have likewise cavalierly dismissed Cobol, Ada, Visual Basic, the IBM AS400, VRML, ISO 9000, the SET protocol, VMS, Novell Netware, and CORBA, among others.",
+      "They just smelled wrong.It could be that in Java's case I'm mistaken. It could be that a language promoted by one big company to undermine another, designed by a committee for a \"mainstream\" audience, hyped to the skies, and beloved of the DoD, happens nonetheless to be a clean, beautiful, powerful language that I would love programming in.",
+      "It could be, but it seems very unlikely.Trevor Re: Java's CoverBerners-Lee Re: JavaBeing PopularSun Internal Memo2005: BusinessWeek AgreesJapanese Translation"
+    ],
+    "word_count": 1354,
+    "paragraph_count": 29
+  },
+  "processed_at": "2025-07-26T19:03:19.216285",
+  "paragraphs": [
+    {
+      "original": "April 2001This essay developed out of conversations I've had with several other programmers about why Java smelled suspicious. It's not a critique of Java! It is a case study of hacker's radar.Over time, hackers develop a nose for good (and bad) technology.",
+      "translated": "2001年4月 这篇文章源于我和几位其他程序员关于为什么Java让人感到可疑的讨论。这并不是对Java的批评！这是一个关于黑客雷达的案例研究。随着时间的推移，黑客们培养出了对好（和坏）技术的敏锐嗅觉。"
+    },
+    {
+      "original": "I thought it might be interesting to try and write down what made Java seem suspect to me.Some people who've read this think it's an interesting attempt to write about something that hasn't been written about before.",
+      "translated": "我觉得尝试写下使我对Java感到怀疑的原因可能会很有趣。有些人读过之后认为这是对一个从未被写过的话题的一次有趣的尝试。"
+    },
+    {
+      "original": "Others say I will get in trouble for appearing to be writing about things I don't understand. So, just in case it does any good, let me clarify that I'm not writing here about Java (which I have never used) but about hacker's radar (which I have thought about a lot).The aphorism \"you can't tell a book by its cover\" originated in the times when books were sold in plain cardboard covers, to be bound by each purchaser according to his own taste.",
+      "translated": "其他人说我可能会因为看似在写自己不懂的东西而惹上麻烦。所以，为了以防万一，让我澄清一下，我在这里并不是在写Java（我从未使用过），而是在写黑客的雷达（我对此思考良多）。“不能以封面判断一本书”的谚语起源于书籍以朴素的硬纸板封面出售的时代，每个购买者可以根据自己的喜好进行装订。"
+    },
+    {
+      "original": "In those days, you couldn't tell a book by its cover. But publishing has advanced since then: present-day publishers work hard to make the cover something you can tell a book by.I spend a lot of time in bookshops and I feel as if I have by now learned to understand everything publishers mean to tell me about a book, and perhaps a bit more.",
+      "translated": "在那些日子里，你不能单凭封面来判断一本书。但自那以后，出版业已经取得了进步：如今的出版商努力使封面成为能够反映书内容的一部分。我在书店里花了很多时间，感觉自己现在已经学会了理解出版商想要传达的关于一本书的所有信息，甚至可能更多。"
+    },
+    {
+      "original": "The time I haven't spent in bookshops I've spent mostly in front of computers, and I feel as if I've learned, to some degree, to judge technology by its cover as well. It may be just luck, but I've saved myself from a few technologies that turned out to be real stinkers.So far, Java seems like a stinker to me.",
+      "translated": "我没有在书店里度过的时光，大部分都花在了电脑前，而且我感觉在某种程度上，我也学会了通过表面来判断技术的好坏。这可能只是运气，但我确实避免了一些后来证明是真正糟糕的技术。到目前为止，Java 给我的感觉就像是其中之一。"
+    },
+    {
+      "original": "I've never written a Java program, never more than glanced over reference books about it, but I have a hunch that it won't be a very successful language. I may turn out to be mistaken; making predictions about technology is a dangerous business.",
+      "translated": "我从未写过Java程序，最多只是粗略地翻阅过一些参考书，但我有种直觉，它不会是一种非常成功的语言。我可能会被证明是错的；对技术做出预测是一件危险的事情。"
+    },
+    {
+      "original": "But for what it's worth, as a sort of time capsule, here's why I don't like the look of Java: 1. It has been so energetically hyped. Real standards don't have to be promoted. No one had to promote C, or Unix, or HTML.",
+      "translated": "但话说回来，作为一种时间胶囊，这里是我为什么不喜欢Java的原因：1. 它被大肆宣传。真正的标准无需推广。没有人需要去推广C语言、Unix或HTML。"
+    },
+    {
+      "original": "A real standard tends to be already established by the time most people hear about it. On the hacker radar screen, Perl is as big as Java, or bigger, just on the strength of its own merits.2. It's aimed low.",
+      "translated": "一个真正的标准往往在大多数人听说它之前就已经确立了。在黑客界，Perl 的地位和 Java 一样重要，甚至更重要，这完全归功于它自身的优点。2. 它定位较低。"
+    },
+    {
+      "original": "In the original Java white paper, Gosling explicitly says Java was designed not to be too difficult for programmers used to C. It was designed to be another C++: C plus a few ideas taken from more advanced languages.",
+      "translated": "在最初的Java白皮书中，Gosling明确表示Java的设计目的是不会对习惯使用C语言的程序员来说太难。它被设计成另一种C++：C加上从更高级语言中借鉴的一些想法。"
+    },
+    {
+      "original": "Like the creators of sitcoms or junk food or package tours, Java's designers were consciously designing a product for people not as smart as them. Historically, languages designed for other people to use have been bad: Cobol, PL/I, Pascal, Ada, C++.",
+      "translated": "像情景喜剧、垃圾食品或套餐旅游的创作者一样，Java 的设计者们是有意识地为那些不如他们聪明的人设计了一种产品。历史上，为其他人设计的语言往往都不好：Cobol、PL/I、Pascal、Ada、C++。"
+    },
+    {
+      "original": "The good languages have been those that were designed for their own creators: C, Perl, Smalltalk, Lisp.3. It has ulterior motives. Someone once said that the world would be a better place if people only wrote books because they had something to say, rather than because they wanted to write a book.",
+      "translated": "好的语言都是为其创造者自身设计的：C、Perl、Smalltalk、Lisp。它们有更深层次的动机。有人曾经说过，如果人们写作只是为了表达某些内容，而不是为了写书本身，那么世界将会变得更加美好。"
+    },
+    {
+      "original": "Likewise, the reason we hear about Java all the time is not because it has something to say about programming languages. We hear about Java as part of a plan by Sun to undermine Microsoft.4. No one loves it.",
+      "translated": "同样，我们经常听到Java，并不是因为它对编程语言有什么特别的见解。我们之所以听到Java，是因为它是Sun公司为打击微软而制定的计划的一部分。没有人真正喜欢它。"
+    },
+    {
+      "original": "C, Perl, Python, Smalltalk, and Lisp programmers love their languages. I've never heard anyone say that they loved Java.5. People are forced to use it. A lot of the people I know using Java are using it because they feel they have to.",
+      "translated": "C、Perl、Python、Smalltalk 和 Lisp 程序员热爱他们的语言。我从未听人说过他们热爱 Java。人们是被迫使用它的。我认识的许多使用 Java 的人都是因为他们觉得不得不使用。"
+    },
+    {
+      "original": "Either it's something they felt they had to do to get funded, or something they thought customers would want, or something they were told to do by management. These are smart people; if the technology was good, they'd have used it voluntarily.6.",
+      "translated": "要么是他们觉得为了获得资金必须这么做，要么是他们认为客户会需要，要么是管理层告诉他们这么做。这些人很聪明；如果技术真的好，他们会自愿使用的。"
+    },
+    {
+      "original": "It has too many cooks. The best programming languages have been developed by small groups. Java seems to be run by a committee. If it turns out to be a good language, it will be the first time in history that a committee has designed a good language.7.",
+      "translated": "人太多了。最好的编程语言都是由小团队开发的。Java 看起来是由一个委员会管理的。如果它最终成为一种好的语言，那将是历史上第一次由委员会设计出好的语言。"
+    },
+    {
+      "original": "It's bureaucratic. From what little I know about Java, there seem to be a lot of protocols for doing things. Really good languages aren't like that. They let you do what you want and get out of the way.8.",
+      "translated": "它太官僚了。根据我对Java的有限了解，似乎有很多做事的规范。真正好的语言不是这样的。它们让你随心所欲地做事，而不加以干涉。"
+    },
+    {
+      "original": "It's pseudo-hip. Sun now pretends that Java is a grassroots, open-source language effort like Perl or Python. This one just happens to be controlled by a giant company. So the language is likely to have the same drab clunkiness as anything else that comes out of a big company.9.",
+      "translated": "这是一种伪酷。Sun 现在假装 Java 是像 Perl 或 Python 那样的草根开源语言项目。只不过这个项目是由一家大公司控制的。所以这种语言很可能和大公司出品的其他东西一样，显得单调笨拙。"
+    },
+    {
+      "original": "It's designed for large organizations. Large organizations have different aims from hackers. They want languages that are (believed to be) suitable for use by large teams of mediocre programmers-- languages with features that, like the speed limiters in U-Haul trucks, prevent fools from doing too much damage.",
+      "translated": "它专为大型组织设计。大型组织的目标与黑客不同。他们希望使用被认为适合大型平庸程序员团队的语言——这些语言具有类似U-Haul卡车中的速度限制器的功能，可以防止愚者造成太大破坏。"
+    },
+    {
+      "original": "Hackers don't like a language that talks down to them. Hackers just want power. Historically, languages designed for large organizations (PL/I, Ada) have lost, while hacker languages (C, Perl) have won.",
+      "translated": "黑客不喜欢居高临下的语言。黑客只想拥有权力。历史上，为大型组织设计的语言（如PL/I、Ada）失败了，而黑客语言（如C、Perl）则取得了胜利。"
+    },
+    {
+      "original": "The reason: today's teenage hacker is tomorrow's CTO.10. The wrong people like it. The programmers I admire most are not, on the whole, captivated by Java. Who does like Java? Suits, who don't know one language from another, but know that they keep hearing about Java in the press; programmers at big companies, who are amazed to find that there is something even better than C++; and plug-and-chug undergrads, who are ready to like anything that might get them a job (will this be on the test?).",
+      "translated": "原因在于：今天的少年黑客就是明天的首席技术官。10. 错的人喜欢它。我最敬佩的程序员总体上并不被Java所吸引。谁喜欢Java？那些对各种语言一窍不通但知道在媒体上经常听到Java的西装革履者；大公司的程序员，他们惊讶地发现竟然有比C++更好的东西；以及那些急功近利的本科生，他们乐于接受任何可能帮助他们找到工作的技术（这会在考试中出现吗？）。"
+    },
+    {
+      "original": "These people's opinions change with every wind.11. Its daddy is in a pinch. Sun's business model is being undermined on two fronts. Cheap Intel processors, of the same type used in desktop machines, are now more than fast enough for servers.",
+      "translated": "这些人的观点随风而变。11. 他的父亲陷入了困境。Sun的商业模式正受到两方面的冲击。廉价的Intel处理器，与台式机中使用的同类型处理器，现在已足以满足服务器的需求。"
+    },
+    {
+      "original": "And FreeBSD seems to be at least as good an OS for servers as Solaris. Sun's advertising implies that you need Sun servers for industrial strength applications. If this were true, Yahoo would be first in line to buy Suns; but when I worked there, the servers were all Intel boxes running FreeBSD.",
+      "translated": "FreeBSD 似乎至少与 Solaris 一样是适用于服务器的优秀操作系统。Sun 的广告暗示，对于工业级应用，你需要 Sun 的服务器。如果这是真的，Yahoo 应该是第一个排队购买 Sun 服务器的；但当我在那里工作时，服务器都是运行 FreeBSD 的 Intel 机器。"
+    },
+    {
+      "original": "This bodes ill for Sun's future. If Sun runs into trouble, they could drag Java down with them.12. The DoD likes it. The Defense Department is encouraging developers to use Java. This seems to me the most damning sign of all.",
+      "translated": "这预示着Sun的未来不妙。如果Sun遇到麻烦，它们可能会拖累Java。12. 国防部喜欢它。国防部正在鼓励开发人员使用Java。这在我看来是最致命的信号。"
+    },
+    {
+      "original": "The Defense Department does a fine (though expensive) job of defending the country, but they love plans and procedures and protocols. Their culture is the opposite of hacker culture; on questions of software they will tend to bet wrong.",
+      "translated": "国防部在保卫国家方面做得很好（尽管费用高昂），但他们喜欢计划、程序和规程。他们的文化与黑客文化截然相反；在软件问题上，他们往往会做出错误的判断。"
+    },
+    {
+      "original": "The last time the DoD really liked a programming language, it was Ada. Bear in mind, this is not a critique of Java, but a critique of its cover. I don't know Java well enough to like it or dislike it.",
+      "translated": "上一次美国国防部真正喜欢的编程语言是 Ada。请注意，这并不是对 Java 的批评，而是对它的包装的批评。我对 Java 并不了解，因此无法喜欢或不喜欢它。"
+    },
+    {
+      "original": "This is just an explanation of why I don't find that I'm eager to learn it.It may seem cavalier to dismiss a language before you've even tried writing programs in it. But this is something all programmers have to do.",
+      "translated": "这仅仅是对为什么我不热衷于学习它的一个解释。在你甚至还没有尝试用这种语言编写程序之前就将其摒弃，可能看起来有些轻率。但这是所有程序员都必须做的事情。"
+    },
+    {
+      "original": "There are too many technologies out there to learn them all. You have to learn to judge by outward signs which will be worth your time. I have likewise cavalierly dismissed Cobol, Ada, Visual Basic, the IBM AS400, VRML, ISO 9000, the SET protocol, VMS, Novell Netware, and CORBA, among others.",
+      "translated": "要学的技术太多了，不可能全部掌握。你必须学会通过表面迹象判断哪些技术值得你投入时间。我同样轻率地放弃了对Cobol、Ada、Visual Basic、IBM AS400、VRML、ISO 9000、SET协议、VMS、Novell Netware和CORBA等技术的学习。"
+    },
+    {
+      "original": "They just smelled wrong.It could be that in Java's case I'm mistaken. It could be that a language promoted by one big company to undermine another, designed by a committee for a \"mainstream\" audience, hyped to the skies, and beloved of the DoD, happens nonetheless to be a clean, beautiful, powerful language that I would love programming in.",
+      "translated": "它们闻起来就不对劲。也许在Java的情况下我是错的。也许一种由大公司为了打击另一家公司而推广、由委员会为“主流”受众设计、被大肆吹捧、并受到国防部喜爱的语言，仍然可能是一种干净、美丽、强大的语言，我也会乐于用它编程。"
+    },
+    {
+      "original": "It could be, but it seems very unlikely.Trevor Re: Java's CoverBerners-Lee Re: JavaBeing PopularSun Internal Memo2005: BusinessWeek AgreesJapanese Translation",
+      "translated": "可能是这样，但似乎非常不可能。特雷弗回复：Java的覆盖伯纳斯-李回复：Java的流行Sun内部备忘录2005年：《商业周刊》同意日语翻译"
+    }
+  ],
+  "translation_completed": "2025-07-27T12:08:15.820448",
+  "translation_stats": {
+    "total_paragraphs": 29,
+    "success_count": 29,
+    "success_rate": "100.0%"
+  }
+}

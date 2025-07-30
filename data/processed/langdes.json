@@ -1,0 +1,339 @@
+{
+  "title": "Five Questions about Language Design",
+  "title_zh": "[待翻译] Five Questions about Language Design",
+  "url": "https://www.paulgraham.com/langdes.html",
+  "filename": "langdes.html",
+  "date": "2001-05-01",
+  "id": 229,
+  "content": {
+    "success": true,
+    "paragraphs": [
+      "May 2001 (These are some notes I made for a panel discussion on programming language design at MIT on May 10, 2001.)1. Programming Languages Are for People.Programming languages are how people talk to computers.",
+      "The computer would be just as happy speaking any language that was unambiguous. The reason we have high level languages is because people can't deal with machine language. The point of programming languages is to prevent our poor frail human brains from being overwhelmed by a mass of detail.Architects know that some kinds of design problems are more personal than others.",
+      "One of the cleanest, most abstract design problems is designing bridges. There your job is largely a matter of spanning a given distance with the least material. The other end of the spectrum is designing chairs.",
+      "Chair designers have to spend their time thinking about human butts.Software varies in the same way. Designing algorithms for routing data through a network is a nice, abstract problem, like designing bridges.",
+      "Whereas designing programming languages is like designing chairs: it's all about dealing with human weaknesses.Most of us hate to acknowledge this. Designing systems of great mathematical elegance sounds a lot more appealing to most of us than pandering to human weaknesses.",
+      "And there is a role for mathematical elegance: some kinds of elegance make programs easier to understand. But elegance is not an end in itself.And when I say languages have to be designed to suit human weaknesses, I don't mean that languages have to be designed for bad programmers.",
+      "In fact I think you ought to design for the best programmers, but even the best programmers have limitations. I don't think anyone would like programming in a language where all the variables were the letter x with integer subscripts.2.",
+      "Design for Yourself and Your Friends.If you look at the history of programming languages, a lot of the best ones were languages designed for their own authors to use, and a lot of the worst ones were designed for other people to use.When languages are designed for other people, it's always a specific group of other people: people not as smart as the language designer.",
+      "So you get a language that talks down to you. Cobol is the most extreme case, but a lot of languages are pervaded by this spirit.It has nothing to do with how abstract the language is. C is pretty low-level, but it was designed for its authors to use, and that's why hackers like it.The argument for designing languages for bad programmers is that there are more bad programmers than good programmers.",
+      "That may be so. But those few good programmers write a disproportionately large percentage of the software.I'm interested in the question, how do you design a language that the very best hackers will like?",
+      "I happen to think this is identical to the question, how do you design a good programming language?, but even if it isn't, it is at least an interesting question.3. Give the Programmer as Much Control as Possible.Many languages (especially the ones designed for other people) have the attitude of a governess: they try to prevent you from doing things that they think aren't good for you.",
+      "I like the opposite approach: give the programmer as much control as you can.When I first learned Lisp, what I liked most about it was that it considered me an equal partner. In the other languages I had learned up till then, there was the language and there was my program, written in the language, and the two were very separate.",
+      "But in Lisp the functions and macros I wrote were just like those that made up the language itself. I could rewrite the language if I wanted. It had the same appeal as open-source software.4. Aim for Brevity.Brevity is underestimated and even scorned.",
+      "But if you look into the hearts of hackers, you'll see that they really love it. How many times have you heard hackers speak fondly of how in, say, APL, they could do amazing things with just a couple lines of code?",
+      "I think anything that really smart people really love is worth paying attention to.I think almost anything you can do to make programs shorter is good. There should be lots of library functions; anything that can be implicit should be; the syntax should be terse to a fault; even the names of things should be short.And it's not only programs that should be short.",
+      "The manual should be thin as well. A good part of manuals is taken up with clarifications and reservations and warnings and special cases. If you force yourself to shorten the manual, in the best case you do it by fixing the things in the language that required so much explanation.5.",
+      "Admit What Hacking Is.A lot of people wish that hacking was mathematics, or at least something like a natural science. I think hacking is more like architecture. Architecture is related to physics, in the sense that architects have to design buildings that don't fall down, but the actual goal of architects is to make great buildings, not to make discoveries about statics.What hackers like to do is make great programs.",
+      "And I think, at least in our own minds, we have to remember that it's an admirable thing to write great programs, even when this work doesn't translate easily into the conventional intellectual currency of research papers.",
+      "Intellectually, it is just as worthwhile to design a language programmers will love as it is to design a horrible one that embodies some idea you can publish a paper about.1. How to Organize Big Libraries?Libraries are becoming an increasingly important component of programming languages.",
+      "They're also getting bigger, and this can be dangerous. If it takes longer to find the library function that will do what you want than it would take to write it yourself, then all that code is doing nothing but make your manual thick.",
+      "(The Symbolics manuals were a case in point.) So I think we will have to work on ways to organize libraries. The ideal would be to design them so that the programmer could guess what library call would do the right thing.2.",
+      "Are People Really Scared of Prefix Syntax?This is an open problem in the sense that I have wondered about it for years and still don't know the answer. Prefix syntax seems perfectly natural to me, except possibly for math.",
+      "But it could be that a lot of Lisp's unpopularity is simply due to having an unfamiliar syntax. Whether to do anything about it, if it is true, is another question. 3. What Do You Need for Server-Based Software?",
+      "I think a lot of the most exciting new applications that get written in the next twenty years will be Web-based applications, meaning programs that sit on the server and talk to you through a Web browser.",
+      "And to write these kinds of programs we may need some new things.One thing we'll need is support for the new way that server-based apps get released. Instead of having one or two big releases a year, like desktop software, server-based apps get released as a series of small changes.",
+      "You may have as many as five or ten releases a day. And as a rule everyone will always use the latest version.You know how you can design programs to be debuggable? Well, server-based software likewise has to be designed to be changeable.",
+      "You have to be able to change it easily, or at least to know what is a small change and what is a momentous one.Another thing that might turn out to be useful for server based software, surprisingly, is continuations.",
+      "In Web-based software you can use something like continuation-passing style to get the effect of subroutines in the inherently stateless world of a Web session. Maybe it would be worthwhile having actual continuations, if it was not too expensive.4.",
+      "What New Abstractions Are Left to Discover?I'm not sure how reasonable a hope this is, but one thing I would really love to do, personally, is discover a new abstraction-- something that would make as much of a difference as having first class functions or recursion or even keyword parameters.",
+      "This may be an impossible dream. These things don't get discovered that often. But I am always looking.1. You Can Use Whatever Language You Want.Writing application programs used to mean writing desktop software.",
+      "And in desktop software there is a big bias toward writing the application in the same language as the operating system. And so ten years ago, writing software pretty much meant writing software in C.",
+      "Eventually a tradition evolved: application programs must not be written in unusual languages. And this tradition had so long to develop that nontechnical people like managers and venture capitalists also learned it.Server-based software blows away this whole model.",
+      "With server-based software you can use any language you want. Almost nobody understands this yet (especially not managers and venture capitalists). A few hackers understand it, and that's why we even hear about new, indy languages like Perl and Python.",
+      "We're not hearing about Perl and Python because people are using them to write Windows apps.What this means for us, as people interested in designing programming languages, is that there is now potentially an actual audience for our work.2.",
+      "Speed Comes from Profilers.Language designers, or at least language implementors, like to write compilers that generate fast code. But I don't think this is what makes languages fast for users. Knuth pointed out long ago that speed only matters in a few critical bottlenecks.",
+      "And anyone who's tried it knows that you can't guess where these bottlenecks are. Profilers are the answer.Language designers are solving the wrong problem. Users don't need benchmarks to run fast. What they need is a language that can show them what parts of their own programs need to be rewritten.",
+      "That's where speed comes from in practice. So maybe it would be a net win if language implementors took half the time they would have spent doing compiler optimizations and spent it writing a good profiler instead.3.",
+      "You Need an Application to Drive the Design of a Language.This may not be an absolute rule, but it seems like the best languages all evolved together with some application they were being used to write.",
+      "C was written by people who needed it for systems programming. Lisp was developed partly to do symbolic differentiation, and McCarthy was so eager to get started that he was writing differentiation programs even in the first paper on Lisp, in 1960.It's especially good if your application solves some new problem.",
+      "That will tend to drive your language to have new features that programmers need. I personally am interested in writing a language that will be good for writing server-based applications.[During the panel, Guy Steele also made this point, with the additional suggestion that the application should not consist of writing the compiler for your language, unless your language happens to be intended for writing compilers.]4.",
+      "A Language Has to Be Good for Writing Throwaway Programs.You know what a throwaway program is: something you write quickly for some limited task. I think if you looked around you'd find that a lot of big, serious programs started as throwaway programs.",
+      "I would not be surprised if most programs started as throwaway programs. And so if you want to make a language that's good for writing software in general, it has to be good for writing throwaway programs, because that is the larval stage of most software.5.",
+      "Syntax Is Connected to Semantics.It's traditional to think of syntax and semantics as being completely separate. This will sound shocking, but it may be that they aren't. I think that what you want in your language may be related to how you express it.I was talking recently to Robert Morris, and he pointed out that operator overloading is a bigger win in languages with infix syntax.",
+      "In a language with prefix syntax, any function you define is effectively an operator. If you want to define a plus for a new type of number you've made up, you can just define a new function to add them.",
+      "If you do that in a language with infix syntax, there's a big difference in appearance between the use of an overloaded operator and a function call.1. New Programming Languages.Back in the 1970s it was fashionable to design new programming languages.",
+      "Recently it hasn't been. But I think server-based software will make new languages fashionable again. With server-based software, you can use any language you want, so if someone does design a language that actually seems better than others that are available, there will be people who take a risk and use it.2.",
+      "Time-Sharing.Richard Kelsey gave this as an idea whose time has come again in the last panel, and I completely agree with him. My guess (and Microsoft's guess, it seems) is that much computing will move from the desktop onto remote servers.",
+      "In other words, time-sharing is back. And I think there will need to be support for it at the language level. For example, I know that Richard and Jonathan Rees have done a lot of work implementing process scheduling within Scheme 48.3.",
+      "Efficiency.Recently it was starting to seem that computers were finally fast enough. More and more we were starting to hear about byte code, which implies to me at least that we feel we have cycles to spare.",
+      "But I don't think we will, with server-based software. Someone is going to have to pay for the servers that the software runs on, and the number of users they can support per machine will be the divisor of their capital cost.So I think efficiency will matter, at least in computational bottlenecks.",
+      "It will be especially important to do i/o fast, because server-based applications do a lot of i/o.It may turn out that byte code is not a win, in the end. Sun and Microsoft seem to be facing off in a kind of a battle of the byte codes at the moment.",
+      "But they're doing it because byte code is a convenient place to insert themselves into the process, not because byte code is in itself a good idea. It may turn out that this whole battleground gets bypassed.",
+      "That would be kind of amusing.1. Clients.This is just a guess, but my guess is that the winning model for most applications will be purely server-based. Designing software that works on the assumption that everyone will have your client is like designing a society on the assumption that everyone will just be honest.",
+      "It would certainly be convenient, but you have to assume it will never happen.I think there will be a proliferation of devices that have some kind of Web access, and all you'll be able to assume about them is that they can support simple html and forms.",
+      "Will you have a browser on your cell phone? Will there be a phone in your palm pilot? Will your blackberry get a bigger screen? Will you be able to browse the Web on your gameboy? Your watch? I don't know.",
+      "And I don't have to know if I bet on everything just being on the server. It's just so much more robust to have all the brains on the server.2. Object-Oriented Programming.I realize this is a controversial one, but I don't think object-oriented programming is such a big deal.",
+      "I think it is a fine model for certain kinds of applications that need that specific kind of data structure, like window systems, simulations, and cad programs. But I don't see why it ought to be the model for all programming.I think part of the reason people in big companies like object-oriented programming is because it yields a lot of what looks like work.",
+      "Something that might naturally be represented as, say, a list of integers, can now be represented as a class with all kinds of scaffolding and hustle and bustle.Another attraction of object-oriented programming is that methods give you some of the effect of first class functions.",
+      "But this is old news to Lisp programmers. When you have actual first class functions, you can just use them in whatever way is appropriate to the task at hand, instead of forcing everything into a mold of classes and methods.What this means for language design, I think, is that you shouldn't build object-oriented programming in too deeply.",
+      "Maybe the answer is to offer more general, underlying stuff, and let people design whatever object systems they want as libraries.3. Design by Committee.Having your language designed by a committee is a big pitfall, and not just for the reasons everyone knows about.",
+      "Everyone knows that committees tend to yield lumpy, inconsistent designs. But I think a greater danger is that they won't take risks. When one person is in charge he can take risks that a committee would never agree on.Is it necessary to take risks to design a good language though?",
+      "Many people might suspect that language design is something where you should stick fairly close to the conventional wisdom. I bet this isn't true. In everything else people do, reward is proportionate to risk.",
+      "Why should language design be any different?Japanese Translation"
+    ],
+    "word_count": 2876,
+    "paragraph_count": 63
+  },
+  "processed_at": "2025-07-26T19:08:59.384288",
+  "paragraphs": [
+    {
+      "original": "May 2001 (These are some notes I made for a panel discussion on programming language design at MIT on May 10, 2001.)1. Programming Languages Are for People.Programming languages are how people talk to computers.",
+      "translated": "2001年5月（这是我在2001年5月10日于麻省理工学院参加的一次关于编程语言设计的小组讨论中所做的笔记。）\n\n1. 编程语言是为人们设计的。\n编程语言是人们与计算机沟通的方式。"
+    },
+    {
+      "original": "The computer would be just as happy speaking any language that was unambiguous. The reason we have high level languages is because people can't deal with machine language. The point of programming languages is to prevent our poor frail human brains from being overwhelmed by a mass of detail.Architects know that some kinds of design problems are more personal than others.",
+      "translated": "计算机对于使用任何无歧义的语言都是同样乐意的。我们之所以有高级语言，是因为人们无法处理机器语言。编程语言的目的是防止我们脆弱的人类大脑被大量的细节所压垮。建筑师们知道，某些设计问题比其他问题更具个人色彩。"
+    },
+    {
+      "original": "One of the cleanest, most abstract design problems is designing bridges. There your job is largely a matter of spanning a given distance with the least material. The other end of the spectrum is designing chairs.",
+      "translated": "最干净、最抽象的设计问题之一是设计桥梁。在这里，你的任务主要是用最少的材料跨越给定的距离。而设计椅子则处于这个谱系的另一端。"
+    },
+    {
+      "original": "Chair designers have to spend their time thinking about human butts.Software varies in the same way. Designing algorithms for routing data through a network is a nice, abstract problem, like designing bridges.",
+      "translated": "椅子设计师需要花时间思考人类的臀部。软件也是如此。设计用于在网络中路由数据的算法是一个很好的、抽象的问题，就像设计桥梁一样。"
+    },
+    {
+      "original": "Whereas designing programming languages is like designing chairs: it's all about dealing with human weaknesses.Most of us hate to acknowledge this. Designing systems of great mathematical elegance sounds a lot more appealing to most of us than pandering to human weaknesses.",
+      "translated": "设计编程语言就像设计椅子一样：都是在应对人类的弱点。我们大多数人都不愿意承认这一点。设计出具有伟大数学优雅性的系统对我们大多数人来说，听起来比迎合人类的弱点更有吸引力。"
+    },
+    {
+      "original": "And there is a role for mathematical elegance: some kinds of elegance make programs easier to understand. But elegance is not an end in itself.And when I say languages have to be designed to suit human weaknesses, I don't mean that languages have to be designed for bad programmers.",
+      "translated": "数学的优美性也有其作用：某些类型的优美性使程序更容易理解。但优美性本身并不是最终目标。当我说语言设计必须适应人类的弱点时，我并不是指语言必须为糟糕的程序员设计。"
+    },
+    {
+      "original": "In fact I think you ought to design for the best programmers, but even the best programmers have limitations. I don't think anyone would like programming in a language where all the variables were the letter x with integer subscripts.2.",
+      "translated": "事实上，我认为你应该为最优秀的程序员设计，但即使是最好的程序员也有局限性。我想没有人会喜欢用一种所有变量都用带下标的字母x表示的语言编程。"
+    },
+    {
+      "original": "Design for Yourself and Your Friends.If you look at the history of programming languages, a lot of the best ones were languages designed for their own authors to use, and a lot of the worst ones were designed for other people to use.When languages are designed for other people, it's always a specific group of other people: people not as smart as the language designer.",
+      "translated": "为自己和朋友设计。如果你回顾编程语言的历史，你会发现，许多最好的语言都是为其设计者自己使用而设计的，而最糟糕的那些则常常是为了让其他人使用而设计的。当语言是为其他人设计时，总是针对某一特定群体：那些不如语言设计者聪明的人。"
+    },
+    {
+      "original": "So you get a language that talks down to you. Cobol is the most extreme case, but a lot of languages are pervaded by this spirit.It has nothing to do with how abstract the language is. C is pretty low-level, but it was designed for its authors to use, and that's why hackers like it.The argument for designing languages for bad programmers is that there are more bad programmers than good programmers.",
+      "translated": "所以你得到的是一种对你说话方式低人一等的语言。COBOL是最极端的例子，但很多语言都弥漫着这种精神。这与语言的抽象程度无关。C语言相当底层，但它是为其设计者自己使用而设计的，这就是为什么程序员喜欢它的原因。为糟糕的程序员设计语言的理由是，糟糕的程序员比优秀的程序员多。"
+    },
+    {
+      "original": "That may be so. But those few good programmers write a disproportionately large percentage of the software.I'm interested in the question, how do you design a language that the very best hackers will like?",
+      "translated": "确实如此。但是，少数优秀的程序员编写的软件占据了不成比例的大部分。我感兴趣的问题是，如何设计一种语言，让最顶尖的黑客喜欢？"
+    },
+    {
+      "original": "I happen to think this is identical to the question, how do you design a good programming language?, but even if it isn't, it is at least an interesting question.3. Give the Programmer as Much Control as Possible.Many languages (especially the ones designed for other people) have the attitude of a governess: they try to prevent you from doing things that they think aren't good for you.",
+      "translated": "我认为这与“如何设计一门好的编程语言？”这个问题是一致的，但即便不是这样，它至少也是一个有趣的问题。3. 尽可能给予程序员更多的控制权。许多语言（尤其是为其他人设计的语言）持有保姆的态度：它们试图阻止你做它们认为对你不利的事情。"
+    },
+    {
+      "original": "I like the opposite approach: give the programmer as much control as you can.When I first learned Lisp, what I liked most about it was that it considered me an equal partner. In the other languages I had learned up till then, there was the language and there was my program, written in the language, and the two were very separate.",
+      "translated": "我喜欢相反的做法：尽可能多地给予程序员控制权。当我第一次学习Lisp时，我最喜欢的是它将我视为平等的合作伙伴。在我之前学过的其他语言中，有语言本身，也有用该语言编写的我的程序，二者之间有着明显的界限。"
+    },
+    {
+      "original": "But in Lisp the functions and macros I wrote were just like those that made up the language itself. I could rewrite the language if I wanted. It had the same appeal as open-source software.4. Aim for Brevity.Brevity is underestimated and even scorned.",
+      "translated": "但在 Lisp 中，我编写的功能和宏与构成语言本身的那些是一样的。如果我愿意，我可以重写语言。它具有与开源软件相同的吸引力。4. 追求简洁。简洁被低估，甚至遭到嘲笑。"
+    },
+    {
+      "original": "But if you look into the hearts of hackers, you'll see that they really love it. How many times have you heard hackers speak fondly of how in, say, APL, they could do amazing things with just a couple lines of code?",
+      "translated": "但如果你深入黑客的内心，你会发现他们其实非常喜欢这一点。你多少次听黑客满怀深情地谈起，比如说，在 APL 中，他们只需几行代码就能完成惊人的事情？"
+    },
+    {
+      "original": "I think anything that really smart people really love is worth paying attention to.I think almost anything you can do to make programs shorter is good. There should be lots of library functions; anything that can be implicit should be; the syntax should be terse to a fault; even the names of things should be short.And it's not only programs that should be short.",
+      "translated": "我认为任何真正聪明的人热爱的事物都值得我们关注。我认为几乎任何能使程序更简洁的方法都是好的。应该有大量的库函数；任何可以隐式的都应该隐式处理；语法应该简洁到极致；甚至事物的名称也应该是简短的。而且，不仅程序应该简洁。"
+    },
+    {
+      "original": "The manual should be thin as well. A good part of manuals is taken up with clarifications and reservations and warnings and special cases. If you force yourself to shorten the manual, in the best case you do it by fixing the things in the language that required so much explanation.5.",
+      "translated": "手册也应该尽可能简洁。手册中很大一部分内容是用来进行澄清、声明、警告以及说明特殊情况的。如果你强迫自己缩短手册的篇幅，那么在最好的情况下，你会通过修正语言中那些需要大量解释的部分来实现这一点。"
+    },
+    {
+      "original": "Admit What Hacking Is.A lot of people wish that hacking was mathematics, or at least something like a natural science. I think hacking is more like architecture. Architecture is related to physics, in the sense that architects have to design buildings that don't fall down, but the actual goal of architects is to make great buildings, not to make discoveries about statics.What hackers like to do is make great programs.",
+      "translated": "承认什么是黑客攻击。很多人希望黑客攻击是数学，或者至少像自然科学一样。我认为黑客攻击更像建筑学。建筑学与物理学有关，因为建筑师必须设计不会倒塌的建筑，但建筑师的实际目标是建造伟大的建筑，而不是在静力学方面做出发现。黑客喜欢做的事情是编写伟大的程序。"
+    },
+    {
+      "original": "And I think, at least in our own minds, we have to remember that it's an admirable thing to write great programs, even when this work doesn't translate easily into the conventional intellectual currency of research papers.",
+      "translated": "我认为，至少在我们自己的心中，我们必须记住，编写优秀的程序是一项值得尊敬的事情，即使这项工作不容易转化为研究论文这种传统意义上的知识货币。"
+    },
+    {
+      "original": "Intellectually, it is just as worthwhile to design a language programmers will love as it is to design a horrible one that embodies some idea you can publish a paper about.1. How to Organize Big Libraries?Libraries are becoming an increasingly important component of programming languages.",
+      "translated": "从智力层面来看，设计一种程序员会喜爱的语言与设计一种糟糕但能体现你可以在论文中发表的某个理念的语言同样有价值。1. 如何组织大型库？库正逐渐成为编程语言中越来越重要的组成部分。"
+    },
+    {
+      "original": "They're also getting bigger, and this can be dangerous. If it takes longer to find the library function that will do what you want than it would take to write it yourself, then all that code is doing nothing but make your manual thick.",
+      "translated": "它们也在变得越来越大，这可能会很危险。如果找到能够满足需求的库函数所需的时间比自己编写代码还要长，那么这些代码除了让手册变厚之外，什么用也没有。"
+    },
+    {
+      "original": "(The Symbolics manuals were a case in point.) So I think we will have to work on ways to organize libraries. The ideal would be to design them so that the programmer could guess what library call would do the right thing.2.",
+      "translated": "（Symbolics 的手册就是一个例子。）因此，我认为我们必须研究如何组织库的方法。理想的情况是设计这些库，使得程序员能够猜测出哪个库调用能完成所需的功能。"
+    },
+    {
+      "original": "Are People Really Scared of Prefix Syntax?This is an open problem in the sense that I have wondered about it for years and still don't know the answer. Prefix syntax seems perfectly natural to me, except possibly for math.",
+      "translated": "人们真的害怕前缀语法吗？这是一个开放性问题，多年来我一直对此感到好奇，但至今仍未找到答案。前缀语法对我来说似乎非常自然，除了可能在数学方面。"
+    },
+    {
+      "original": "But it could be that a lot of Lisp's unpopularity is simply due to having an unfamiliar syntax. Whether to do anything about it, if it is true, is another question. 3. What Do You Need for Server-Based Software?",
+      "translated": "但 Lisp 的不受欢迎可能很大程度上仅仅是因为其语法不熟悉。如果这是真的，是否需要对此采取行动则是另一个问题。3. 服务器端软件需要什么？"
+    },
+    {
+      "original": "I think a lot of the most exciting new applications that get written in the next twenty years will be Web-based applications, meaning programs that sit on the server and talk to you through a Web browser.",
+      "translated": "我认为，在未来二十年里，许多最令人兴奋的新应用将会是基于网络的应用，也就是说，这些程序将运行在服务器上，并通过网络浏览器与用户交互。"
+    },
+    {
+      "original": "And to write these kinds of programs we may need some new things.One thing we'll need is support for the new way that server-based apps get released. Instead of having one or two big releases a year, like desktop software, server-based apps get released as a series of small changes.",
+      "translated": "为了编写这类程序，我们可能需要一些新的东西。其中之一是我们需要支持服务器端应用程序发布的新方式。与桌面软件一年发布一到两次大版本不同，服务器端应用程序是通过一系列小的更改来发布的。"
+    },
+    {
+      "original": "You may have as many as five or ten releases a day. And as a rule everyone will always use the latest version.You know how you can design programs to be debuggable? Well, server-based software likewise has to be designed to be changeable.",
+      "translated": "你每天可能会有五到十个发布版本。而通常情况下，每个人都会使用最新的版本。你知道如何设计可调试的程序吗？同样，基于服务器的软件也必须设计成可更改的。"
+    },
+    {
+      "original": "You have to be able to change it easily, or at least to know what is a small change and what is a momentous one.Another thing that might turn out to be useful for server based software, surprisingly, is continuations.",
+      "translated": "你必须能够轻松地进行修改，或者至少要知道哪些是小的改动，哪些是重大的改动。令人惊讶的是，对于基于服务器的软件来说，协程也可能被证明是有用的。"
+    },
+    {
+      "original": "In Web-based software you can use something like continuation-passing style to get the effect of subroutines in the inherently stateless world of a Web session. Maybe it would be worthwhile having actual continuations, if it was not too expensive.4.",
+      "translated": "在基于Web的软件中，你可以使用类似 continuation-passing 风格的方法来在本质上无状态的Web会话中实现子程序的效果。如果代价不是太高，或许拥有实际的 continuation 也是值得的。"
+    },
+    {
+      "original": "What New Abstractions Are Left to Discover?I'm not sure how reasonable a hope this is, but one thing I would really love to do, personally, is discover a new abstraction-- something that would make as much of a difference as having first class functions or recursion or even keyword parameters.",
+      "translated": "还有什么新的抽象等待我们去发现？我不确定这个希望是否合理，但就我个人而言，我真的很想做的一件事就是发现一种新的抽象——某种能够像一等函数、递归甚至关键字参数那样带来重大影响的东西。"
+    },
+    {
+      "original": "This may be an impossible dream. These things don't get discovered that often. But I am always looking.1. You Can Use Whatever Language You Want.Writing application programs used to mean writing desktop software.",
+      "translated": "这可能是一个不可能实现的梦想。这样的事情并不常被发现。但我总是在寻找。1. 你可以使用任何你想用的语言。编写应用程序过去意味着编写桌面软件。"
+    },
+    {
+      "original": "And in desktop software there is a big bias toward writing the application in the same language as the operating system. And so ten years ago, writing software pretty much meant writing software in C.",
+      "translated": "而在桌面软件中，有一种强烈的倾向，即用与操作系统相同的语言编写应用程序。因此，十年前，编写软件几乎就意味着用C语言编写软件。"
+    },
+    {
+      "original": "Eventually a tradition evolved: application programs must not be written in unusual languages. And this tradition had so long to develop that nontechnical people like managers and venture capitalists also learned it.Server-based software blows away this whole model.",
+      "translated": "最终形成了一种传统：应用程序不应使用非主流语言编写。这一传统经过了长时间的发展，以至于非技术人士如经理和风险投资家也学会了这一点。基于服务器的软件彻底打破了这一模式。"
+    },
+    {
+      "original": "With server-based software you can use any language you want. Almost nobody understands this yet (especially not managers and venture capitalists). A few hackers understand it, and that's why we even hear about new, indy languages like Perl and Python.",
+      "translated": "使用基于服务器的软件，你可以使用任何你想要的语言。几乎没有人理解这一点（尤其是管理者和风险投资者）。少数黑客理解这一点，这也是为什么我们会听到像Perl和Python这样的新独立语言。"
+    },
+    {
+      "original": "We're not hearing about Perl and Python because people are using them to write Windows apps.What this means for us, as people interested in designing programming languages, is that there is now potentially an actual audience for our work.2.",
+      "translated": "我们听到关于Perl和Python的消息并不是因为人们用它们来编写Windows应用程序。对于我们这些对设计编程语言感兴趣的人来说，这意味着现在可能真正有一个受众群体在等待我们的作品。2."
+    },
+    {
+      "original": "Speed Comes from Profilers.Language designers, or at least language implementors, like to write compilers that generate fast code. But I don't think this is what makes languages fast for users. Knuth pointed out long ago that speed only matters in a few critical bottlenecks.",
+      "translated": "速度来源于分析器。语言设计者，或者至少是语言实现者，喜欢编写能够生成快速代码的编译器。但我不认为这是让语言对用户来说变得快速的原因。Knuth 很早就指出，速度只在少数几个关键瓶颈中才至关重要。"
+    },
+    {
+      "original": "And anyone who's tried it knows that you can't guess where these bottlenecks are. Profilers are the answer.Language designers are solving the wrong problem. Users don't need benchmarks to run fast. What they need is a language that can show them what parts of their own programs need to be rewritten.",
+      "translated": "任何尝试过的人都知道，你无法猜测这些瓶颈会出现在哪里。性能分析器才是解决之道。语言设计者们解决的是错误的问题。用户不需要快速运行的基准测试。他们需要的是一种能够告诉他们自己的程序中哪些部分需要重写的语言。"
+    },
+    {
+      "original": "That's where speed comes from in practice. So maybe it would be a net win if language implementors took half the time they would have spent doing compiler optimizations and spent it writing a good profiler instead.3.",
+      "translated": "这就是实践中速度的来源。所以，或许如果语言实现者将本用于编译器优化的时间的一半用来编写一个好的分析器，可能会是一个净收益。"
+    },
+    {
+      "original": "You Need an Application to Drive the Design of a Language.This may not be an absolute rule, but it seems like the best languages all evolved together with some application they were being used to write.",
+      "translated": "你需要一个应用程序来驱动语言的设计。这可能不是一条绝对的规则，但看起来最好的语言都是与其所编写的应用程序一起演变的。"
+    },
+    {
+      "original": "C was written by people who needed it for systems programming. Lisp was developed partly to do symbolic differentiation, and McCarthy was so eager to get started that he was writing differentiation programs even in the first paper on Lisp, in 1960.It's especially good if your application solves some new problem.",
+      "translated": "C 语言是由需要用于系统编程的人们编写的。Lisp 语言的开发部分是为了进行符号微分，麦卡锡对此十分热衷，以至于在 1960 年关于 Lisp 的第一篇论文中，他就已经开始编写微分程序了。如果你的应用程序能够解决某个新问题，那就尤为出色。"
+    },
+    {
+      "original": "That will tend to drive your language to have new features that programmers need. I personally am interested in writing a language that will be good for writing server-based applications.[During the panel, Guy Steele also made this point, with the additional suggestion that the application should not consist of writing the compiler for your language, unless your language happens to be intended for writing compilers.]4.",
+      "translated": "这将促使你的语言添加程序员需要的新特性。我个人对编写一种适合编写基于服务器的应用程序的语言很感兴趣。[在小组讨论中，Guy Steele 也提出了这一点，并补充建议应用程序不应包括编写你语言的编译器，除非你的语言恰好是为编写编译器而设计的。]4."
+    },
+    {
+      "original": "A Language Has to Be Good for Writing Throwaway Programs.You know what a throwaway program is: something you write quickly for some limited task. I think if you looked around you'd find that a lot of big, serious programs started as throwaway programs.",
+      "translated": "一种语言必须适合编写一次性程序。你知道什么是一次性程序：为了某个有限的任务而快速编写的东西。我认为，如果你环顾四周，会发现许多大型的、严肃的程序最初都是从一次性程序开始的。"
+    },
+    {
+      "original": "I would not be surprised if most programs started as throwaway programs. And so if you want to make a language that's good for writing software in general, it has to be good for writing throwaway programs, because that is the larval stage of most software.5.",
+      "translated": "我不会对大多数程序最初都是作为临时程序开始感到惊讶。因此，如果你想创造一种适合编写软件的语言，它就必须适合编写临时程序，因为这大多数软件的雏形阶段。"
+    },
+    {
+      "original": "Syntax Is Connected to Semantics.It's traditional to think of syntax and semantics as being completely separate. This will sound shocking, but it may be that they aren't. I think that what you want in your language may be related to how you express it.I was talking recently to Robert Morris, and he pointed out that operator overloading is a bigger win in languages with infix syntax.",
+      "translated": "语法与语义是相连的。传统上，人们认为语法和语义是完全分离的。这听起来可能令人震惊，但事实可能是它们并非如此。我认为，你希望在语言中实现的目标可能与你如何表达它有关。我最近与Robert Morris交谈时，他指出，在具有中缀语法的语言中，运算符重载的优势更大。"
+    },
+    {
+      "original": "In a language with prefix syntax, any function you define is effectively an operator. If you want to define a plus for a new type of number you've made up, you can just define a new function to add them.",
+      "translated": "在具有前缀语法的语言中，你定义的任何函数实际上都是一个操作符。如果你想为新创建的数字类型定义一个加法操作，你只需定义一个新的函数来实现它们的相加。"
+    },
+    {
+      "original": "If you do that in a language with infix syntax, there's a big difference in appearance between the use of an overloaded operator and a function call.1. New Programming Languages.Back in the 1970s it was fashionable to design new programming languages.",
+      "translated": "如果你在一种使用中缀语法的语言中这样做，那么重载运算符的使用和函数调用在外观上会有很大的差异。1. 新编程语言。回到20世纪70年代，设计新的编程语言是一种风尚。"
+    },
+    {
+      "original": "Recently it hasn't been. But I think server-based software will make new languages fashionable again. With server-based software, you can use any language you want, so if someone does design a language that actually seems better than others that are available, there will be people who take a risk and use it.2.",
+      "translated": "最近情况并非如此。但我觉得基于服务器的软件会让新的编程语言再次流行起来。使用基于服务器的软件，你可以选择任何你想要的语言，因此如果有人设计出一种确实比现有语言更好的语言，就会有人愿意冒险使用它。"
+    },
+    {
+      "original": "Time-Sharing.Richard Kelsey gave this as an idea whose time has come again in the last panel, and I completely agree with him. My guess (and Microsoft's guess, it seems) is that much computing will move from the desktop onto remote servers.",
+      "translated": "分时。理查德·凯尔西在最后一场小组讨论中提出了这是一个再次到来的概念，我完全同意他的观点。我的猜测（似乎也是微软的猜测）是，许多计算将从桌面转移到远程服务器上。"
+    },
+    {
+      "original": "In other words, time-sharing is back. And I think there will need to be support for it at the language level. For example, I know that Richard and Jonathan Rees have done a lot of work implementing process scheduling within Scheme 48.3.",
+      "translated": "换句话说，分时再次回归。我认为在语言层面上需要对此提供支持。例如，我知道理查德和乔纳森·里斯在Scheme 48.3中实现了大量的进程调度工作。"
+    },
+    {
+      "original": "Efficiency.Recently it was starting to seem that computers were finally fast enough. More and more we were starting to hear about byte code, which implies to me at least that we feel we have cycles to spare.",
+      "translated": "效率。最近，计算机似乎终于变得足够快了。我们越来越多地听到关于字节码的消息，这至少让我觉得我们感觉有额外的处理能力可以利用。"
+    },
+    {
+      "original": "But I don't think we will, with server-based software. Someone is going to have to pay for the servers that the software runs on, and the number of users they can support per machine will be the divisor of their capital cost.So I think efficiency will matter, at least in computational bottlenecks.",
+      "translated": "但是，我认为我们不会通过基于服务器的软件来实现这一目标。总得有人为运行软件的服务器付费，而每台机器所能支持的用户数量将是其成本分摊的决定因素。因此，我认为效率将至关重要，至少在计算瓶颈方面。"
+    },
+    {
+      "original": "It will be especially important to do i/o fast, because server-based applications do a lot of i/o.It may turn out that byte code is not a win, in the end. Sun and Microsoft seem to be facing off in a kind of a battle of the byte codes at the moment.",
+      "translated": "快速进行输入输出将尤为重要，因为基于服务器的应用程序会进行大量的输入输出操作。最终可能会发现字节码并没有带来优势。目前，Sun 和 Microsoft 似乎正在上演一场字节码之争。"
+    },
+    {
+      "original": "But they're doing it because byte code is a convenient place to insert themselves into the process, not because byte code is in itself a good idea. It may turn out that this whole battleground gets bypassed.",
+      "translated": "但他们这样做是因为字节码是一个方便的切入点，而不是因为字节码本身是一个好主意。结果可能是整个战场会被绕过。"
+    },
+    {
+      "original": "That would be kind of amusing.1. Clients.This is just a guess, but my guess is that the winning model for most applications will be purely server-based. Designing software that works on the assumption that everyone will have your client is like designing a society on the assumption that everyone will just be honest.",
+      "translated": "那倒是挺有趣的。1. 客户端。这只是一个猜测，但我的猜测是，对于大多数应用来说，获胜的模式将是纯粹基于服务器的。设计软件时假设每个人都会使用你的客户端，就像设计社会时假设每个人都会诚实一样。"
+    },
+    {
+      "original": "It would certainly be convenient, but you have to assume it will never happen.I think there will be a proliferation of devices that have some kind of Web access, and all you'll be able to assume about them is that they can support simple html and forms.",
+      "translated": "这当然会很方便，但你必须假设这永远不会发生。我认为将会出现大量具有某种网络访问功能的设备，而你唯一能假设的是它们能够支持简单的HTML和表单。"
+    },
+    {
+      "original": "Will you have a browser on your cell phone? Will there be a phone in your palm pilot? Will your blackberry get a bigger screen? Will you be able to browse the Web on your gameboy? Your watch? I don't know.",
+      "translated": "你会在手机上安装浏览器吗？掌上电脑里会有电话功能吗？你的黑莓手机会有更大的屏幕吗？你能在游戏机或手表上浏览网页吗？我不知道。"
+    },
+    {
+      "original": "And I don't have to know if I bet on everything just being on the server. It's just so much more robust to have all the brains on the server.2. Object-Oriented Programming.I realize this is a controversial one, but I don't think object-oriented programming is such a big deal.",
+      "translated": "我不需要知道如果我把所有东西都放在服务器上会怎样。把所有智能都放在服务器上要稳健得多。2. 面向对象编程。我知道这是一个有争议的话题，但我认为面向对象编程并没有那么重要。"
+    },
+    {
+      "original": "I think it is a fine model for certain kinds of applications that need that specific kind of data structure, like window systems, simulations, and cad programs. But I don't see why it ought to be the model for all programming.I think part of the reason people in big companies like object-oriented programming is because it yields a lot of what looks like work.",
+      "translated": "我认为对于某些需要特定数据结构的应用，比如窗口系统、仿真和CAD程序，这是一种很好的模型。但我不明白为什么它应该成为所有编程的模型。我觉得大公司里的人喜欢面向对象编程的部分原因是因为它会产生大量看起来像是工作的内容。"
+    },
+    {
+      "original": "Something that might naturally be represented as, say, a list of integers, can now be represented as a class with all kinds of scaffolding and hustle and bustle.Another attraction of object-oriented programming is that methods give you some of the effect of first class functions.",
+      "translated": "原本可能自然地表示为整数列表的东西，现在可以表示为一个带有各种框架和活动的类。面向对象编程的另一个吸引力在于，方法赋予了你一些类似于一等函数的效果。"
+    },
+    {
+      "original": "But this is old news to Lisp programmers. When you have actual first class functions, you can just use them in whatever way is appropriate to the task at hand, instead of forcing everything into a mold of classes and methods.What this means for language design, I think, is that you shouldn't build object-oriented programming in too deeply.",
+      "translated": "但是对于Lisp程序员来说，这已经是老生常谈了。当你拥有真正的头等函数时，你可以根据手头的任务以最合适的方式使用它们，而不需要将一切都强行塞进类和方法的框架中。我认为这对语言设计的意义是，你不应该将面向对象编程设计得过于深入。"
+    },
+    {
+      "original": "Maybe the answer is to offer more general, underlying stuff, and let people design whatever object systems they want as libraries.3. Design by Committee.Having your language designed by a committee is a big pitfall, and not just for the reasons everyone knows about.",
+      "translated": "也许答案是提供更多的通用基础内容，让人们可以自由设计他们想要的任何对象系统作为库。3. 委员会设计。委员会设计语言是一个很大的陷阱，而不仅仅是大家都知道的那些原因。"
+    },
+    {
+      "original": "Everyone knows that committees tend to yield lumpy, inconsistent designs. But I think a greater danger is that they won't take risks. When one person is in charge he can take risks that a committee would never agree on.Is it necessary to take risks to design a good language though?",
+      "translated": "大家都知道，委员会往往会产生粗糙且不一致的设计。但我认为更大的危险在于，他们不会冒险。当一个人负责时，他可以承担委员会永远不会同意的风险。然而，设计一门好的语言真的需要冒险吗？"
+    },
+    {
+      "original": "Many people might suspect that language design is something where you should stick fairly close to the conventional wisdom. I bet this isn't true. In everything else people do, reward is proportionate to risk.",
+      "translated": "很多人可能会怀疑，语言设计应该是遵循传统智慧的。我敢打赌这并不正确。在人们做的其他一切事情中，回报与风险是成正比的。"
+    },
+    {
+      "original": "Why should language design be any different?Japanese Translation",
+      "translated": "为什么语言设计应该有所不同？日语翻译"
+    }
+  ],
+  "translation_completed": "2025-07-28T23:13:14.952862",
+  "translation_stats": {
+    "total_paragraphs": 63,
+    "success_count": 63,
+    "success_rate": "100.0%"
+  }
+}

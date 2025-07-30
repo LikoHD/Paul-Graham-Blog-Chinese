@@ -1,0 +1,169 @@
+{
+  "title": "Crazy New Ideas",
+  "title_zh": "[待翻译] Crazy New Ideas",
+  "url": "https://www.paulgraham.com/newideas.html",
+  "filename": "newideas.html",
+  "date": "2021-05-01",
+  "id": 20,
+  "content": {
+    "success": true,
+    "paragraphs": [
+      "May 2021There's one kind of opinion I'd be very afraid to express publicly. If someone I knew to be both a domain expert and a reasonable person proposed an idea that sounded preposterous, I'd be very reluctant to say \"That will never work.\"Anyone who has studied the history of ideas, and especially the history of science, knows that's how big things start.",
+      "Someone proposes an idea that sounds crazy, most people dismiss it, then it gradually takes over the world.Most implausible-sounding ideas are in fact bad and could be safely dismissed. But not when they're proposed by reasonable domain experts.",
+      "If the person proposing the idea is reasonable, then they know how implausible it sounds. And yet they're proposing it anyway. That suggests they know something you don't. And if they have deep domain expertise, that's probably the source of it.",
+      "[1]Such ideas are not merely unsafe to dismiss, but disproportionately likely to be interesting. When the average person proposes an implausible-sounding idea, its implausibility is evidence of their incompetence.",
+      "But when a reasonable domain expert does it, the situation is reversed. There's something like an efficient market here: on average the ideas that seem craziest will, if correct, have the biggest effect.",
+      "So if you can eliminate the theory that the person proposing an implausible-sounding idea is incompetent, its implausibility switches from evidence that it's boring to evidence that it's exciting. [2]Such ideas are not guaranteed to work.",
+      "But they don't have to be. They just have to be sufficiently good bets — to have sufficiently high expected value. And I think on average they do. I think if you bet on the entire set of implausible-sounding ideas proposed by reasonable domain experts, you'd end up net ahead.The reason is that everyone is too conservative.",
+      "The word \"paradigm\" is overused, but this is a case where it's warranted. Everyone is too much in the grip of the current paradigm. Even the people who have the new ideas undervalue them initially. Which means that before they reach the stage of proposing them publicly, they've already subjected them to an excessively strict filter.",
+      "[3]The wise response to such an idea is not to make statements, but to ask questions, because there's a real mystery here. Why has this smart and reasonable person proposed an idea that seems so wrong?",
+      "Are they mistaken, or are you? One of you has to be. If you're the one who's mistaken, that would be good to know, because it means there's a hole in your model of the world. But even if they're mistaken, it should be interesting to learn why.",
+      "A trap that an expert falls into is one you have to worry about too.This all seems pretty obvious. And yet there are clearly a lot of people who don't share my fear of dismissing new ideas. Why do they do it?",
+      "Why risk looking like a jerk now and a fool later, instead of just reserving judgement?One reason they do it is envy. If you propose a radical new idea and it succeeds, your reputation (and perhaps also your wealth) will increase proportionally.",
+      "Some people would be envious if that happened, and this potential envy propagates back into a conviction that you must be wrong.Another reason people dismiss new ideas is that it's an easy way to seem sophisticated.",
+      "When a new idea first emerges, it usually seems pretty feeble. It's a mere hatchling. Received wisdom is a full-grown eagle by comparison. So it's easy to launch a devastating attack on a new idea, and anyone who does will seem clever to those who don't understand this asymmetry.This phenomenon is exacerbated by the difference between how those working on new ideas and those attacking them are rewarded.",
+      "The rewards for working on new ideas are weighted by the value of the outcome. So it's worth working on something that only has a 10% chance of succeeding if it would make things more than 10x better.",
+      "Whereas the rewards for attacking new ideas are roughly constant; such attacks seem roughly equally clever regardless of the target.People will also attack new ideas when they have a vested interest in the old ones.",
+      "It's not surprising, for example, that some of Darwin's harshest critics were churchmen. People build whole careers on some ideas. When someone claims they're false or obsolete, they feel threatened.The lowest form of dismissal is mere factionalism: to automatically dismiss any idea associated with the opposing faction.",
+      "The lowest form of all is to dismiss an idea because of who proposed it.But the main thing that leads reasonable people to dismiss new ideas is the same thing that holds people back from proposing them: the sheer pervasiveness of the current paradigm.",
+      "It doesn't just affect the way we think; it is the Lego blocks we build thoughts out of. Popping out of the current paradigm is something only a few people can do. And even they usually have to suppress their intuitions at first, like a pilot flying through cloud who has to trust his instruments over his sense of balance.",
+      "[4]Paradigms don't just define our present thinking. They also vacuum up the trail of crumbs that led to them, making our standards for new ideas impossibly high. The current paradigm seems so perfect to us, its offspring, that we imagine it must have been accepted completely as soon as it was discovered — that whatever the church thought of the heliocentric model, astronomers must have been convinced as soon as Copernicus proposed it.",
+      "Far, in fact, from it. Copernicus published the heliocentric model in 1532, but it wasn't till the mid seventeenth century that the balance of scientific opinion shifted in its favor. [5]Few understand how feeble new ideas look when they first appear.",
+      "So if you want to have new ideas yourself, one of the most valuable things you can do is to learn what they look like when they're born. Read about how new ideas happened, and try to get yourself into the heads of people at the time.",
+      "How did things look to them, when the new idea was only half-finished, and even the person who had it was only half-convinced it was right?But you don't have to stop at history. You can observe big new ideas being born all around you right now.",
+      "Just look for a reasonable domain expert proposing something that sounds wrong.If you're nice, as well as wise, you won't merely resist attacking such people, but encourage them. Having new ideas is a lonely business.",
+      "Only those who've tried it know how lonely. These people need your help. And if you help them, you'll probably learn something in the process.Notes[1] This domain expertise could be in another field.",
+      "Indeed, such crossovers tend to be particularly promising.[2] I'm not claiming this principle extends much beyond math, engineering, and the hard sciences. In politics, for example, crazy-sounding ideas generally are as bad as they sound.",
+      "Though arguably this is not an exception, because the people who propose them are not in fact domain experts; politicians are domain experts in political tactics, like how to get elected and how to get legislation passed, but not in the world that policy acts upon.",
+      "Perhaps no one could be.[3] This sense of \"paradigm\" was defined by Thomas Kuhn in his Structure of Scientific Revolutions, but I also recommend his Copernican Revolution, where you can see him at work developing the idea.[4] This is one reason people with a touch of Asperger's may have an advantage in discovering new ideas.",
+      "They're always flying on instruments.[5] Hall, Rupert. From Galileo to Newton. Collins, 1963. This book is particularly good at getting into contemporaries' heads.Thanks to Trevor Blackwell, Patrick Collison, Suhail Doshi, Daniel Gackle, Jessica Livingston, and Robert Morris for reading drafts of this."
+    ],
+    "word_count": 1301,
+    "paragraph_count": 29
+  },
+  "processed_at": "2025-07-26T19:01:59.920861",
+  "paragraphs": [
+    {
+      "original": "May 2021There's one kind of opinion I'd be very afraid to express publicly. If someone I knew to be both a domain expert and a reasonable person proposed an idea that sounded preposterous, I'd be very reluctant to say \"That will never work.\"Anyone who has studied the history of ideas, and especially the history of science, knows that's how big things start.",
+      "translated": "2021年5月\n\n有一种观点我非常害怕在公开场合表达。如果一个我所熟知的领域专家和理性的人提出了一个听起来荒谬的主意，我将非常不愿意说“那永远行不通。”任何研究过思想史，尤其是科学史的人都知道，伟大的事物往往就是这样开始的。"
+    },
+    {
+      "original": "Someone proposes an idea that sounds crazy, most people dismiss it, then it gradually takes over the world.Most implausible-sounding ideas are in fact bad and could be safely dismissed. But not when they're proposed by reasonable domain experts.",
+      "translated": "有人提出一个听起来很疯狂的想法，大多数人会不屑一顾，但这个想法随后逐渐征服了世界。大多数听起来不太可能的想法实际上确实糟糕，可以安全地忽略。但当这些想法是由合理的领域专家提出的时，情况就不一样了。"
+    },
+    {
+      "original": "If the person proposing the idea is reasonable, then they know how implausible it sounds. And yet they're proposing it anyway. That suggests they know something you don't. And if they have deep domain expertise, that's probably the source of it.",
+      "translated": "如果提出这个想法的人是理智的，那么他们知道这听起来有多不切实际。然而，他们仍然提出这个想法。这表明他们知道一些你不知道的事情。如果他们具有深厚的领域专业知识，那么这很可能就是原因所在。"
+    },
+    {
+      "original": "[1]Such ideas are not merely unsafe to dismiss, but disproportionately likely to be interesting. When the average person proposes an implausible-sounding idea, its implausibility is evidence of their incompetence.",
+      "translated": "[1]这样的想法不仅不能轻易否定，反而极有可能引人入胜。当普通人提出一个听起来不可信的想法时，这种不可信往往是他们无能的证据。"
+    },
+    {
+      "original": "But when a reasonable domain expert does it, the situation is reversed. There's something like an efficient market here: on average the ideas that seem craziest will, if correct, have the biggest effect.",
+      "translated": "但当一个合理的领域专家这样做时，情况就相反了。这里存在一种类似于有效市场的现象：平均而言，看似最疯狂的想法如果正确，将会产生最大的影响。"
+    },
+    {
+      "original": "So if you can eliminate the theory that the person proposing an implausible-sounding idea is incompetent, its implausibility switches from evidence that it's boring to evidence that it's exciting. [2]Such ideas are not guaranteed to work.",
+      "translated": "因此，如果你能够排除提出看似不切实际想法的人无能这一理论，那么这种不切实际就从证明该想法乏味的证据转变为证明该想法令人兴奋的证据。[2]这样的想法并不一定能够成功。"
+    },
+    {
+      "original": "But they don't have to be. They just have to be sufficiently good bets — to have sufficiently high expected value. And I think on average they do. I think if you bet on the entire set of implausible-sounding ideas proposed by reasonable domain experts, you'd end up net ahead.The reason is that everyone is too conservative.",
+      "translated": "但它们不必如此。它们只需要是足够好的选择——具有足够高的预期价值。我认为平均来说，它们确实如此。我认为，如果你对那些由合理领域的专家提出的看似不切实际的想法进行投资，最终你会总体上获得收益。原因在于，每个人的态度都过于保守。"
+    },
+    {
+      "original": "The word \"paradigm\" is overused, but this is a case where it's warranted. Everyone is too much in the grip of the current paradigm. Even the people who have the new ideas undervalue them initially. Which means that before they reach the stage of proposing them publicly, they've already subjected them to an excessively strict filter.",
+      "translated": "“范式”这个词被过度使用了，但在这个情况下，它是恰当的。每个人都过于受制于当前的范式。即使是那些有新想法的人，最初也低估了这些想法的价值。这意味着，在他们公开提出这些想法之前，他们已经对其进行了过度严格的筛选。"
+    },
+    {
+      "original": "[3]The wise response to such an idea is not to make statements, but to ask questions, because there's a real mystery here. Why has this smart and reasonable person proposed an idea that seems so wrong?",
+      "translated": "对这种想法明智的回应不是发表言论，而是提出疑问，因为这里确实存在一个谜团。为什么这个聪明且理性的人会提出一个看似如此错误的想法？"
+    },
+    {
+      "original": "Are they mistaken, or are you? One of you has to be. If you're the one who's mistaken, that would be good to know, because it means there's a hole in your model of the world. But even if they're mistaken, it should be interesting to learn why.",
+      "translated": "是他们错了，还是你错了？你们之中必定有一个人是错的。如果你是错的那一个，那将是一件好事，因为这意味着你的世界观中存在一个漏洞。但即使他们是错的，了解他们错的原因也应该是一件有趣的事情。"
+    },
+    {
+      "original": "A trap that an expert falls into is one you have to worry about too.This all seems pretty obvious. And yet there are clearly a lot of people who don't share my fear of dismissing new ideas. Why do they do it?",
+      "translated": "专家也会陷入的陷阱，你也必须警惕。这一切看起来显而易见。然而，显然有很多人并不像我这样对驳回新想法感到担忧。他们为什么会这样做？"
+    },
+    {
+      "original": "Why risk looking like a jerk now and a fool later, instead of just reserving judgement?One reason they do it is envy. If you propose a radical new idea and it succeeds, your reputation (and perhaps also your wealth) will increase proportionally.",
+      "translated": "为什么现在冒充内行，将来又显得愚蠢，而不是暂时保留判断呢？他们这样做的一大原因是嫉妒。如果你提出一个激进的新想法并获得成功，你的声誉（也许还包括财富）将成比例地提升。"
+    },
+    {
+      "original": "Some people would be envious if that happened, and this potential envy propagates back into a conviction that you must be wrong.Another reason people dismiss new ideas is that it's an easy way to seem sophisticated.",
+      "translated": "如果这种情况发生，有些人会感到嫉妒，而这种潜在的嫉妒会反过来坚定他们认为你一定是错的信念。人们排斥新想法的另一个原因是，这似乎是一种显得高深莫测的简单方式。"
+    },
+    {
+      "original": "When a new idea first emerges, it usually seems pretty feeble. It's a mere hatchling. Received wisdom is a full-grown eagle by comparison. So it's easy to launch a devastating attack on a new idea, and anyone who does will seem clever to those who don't understand this asymmetry.This phenomenon is exacerbated by the difference between how those working on new ideas and those attacking them are rewarded.",
+      "translated": "当一个新想法刚刚出现时，通常显得相当脆弱。它只是一个雏鸟。相比之下，既有的智慧就像一只成年老鹰。因此，对一个新想法进行猛烈攻击很容易，而这样做的人在那些不理解这种不对称性的人看来会显得很聪明。这种现象因新想法的提出者和攻击者所获得的奖励差异而更加严重。"
+    },
+    {
+      "original": "The rewards for working on new ideas are weighted by the value of the outcome. So it's worth working on something that only has a 10% chance of succeeding if it would make things more than 10x better.",
+      "translated": "工作的回报与成果的价值成正比。因此，如果某个项目即使只有10%的成功机会，但能够使事情变得超过10倍更好，那么投入其中就是值得的。"
+    },
+    {
+      "original": "Whereas the rewards for attacking new ideas are roughly constant; such attacks seem roughly equally clever regardless of the target.People will also attack new ideas when they have a vested interest in the old ones.",
+      "translated": "攻击新观点的回报大致是恒定的；不论目标如何，这类攻击看起来都同样聪明。人们也会在对旧观点有既得利益时攻击新观点。"
+    },
+    {
+      "original": "It's not surprising, for example, that some of Darwin's harshest critics were churchmen. People build whole careers on some ideas. When someone claims they're false or obsolete, they feel threatened.The lowest form of dismissal is mere factionalism: to automatically dismiss any idea associated with the opposing faction.",
+      "translated": "例如，达尔文的一些最严厉的批评者是教会人士，这并不令人惊讶。人们会基于某些观点建立整个职业生涯。当有人声称这些观点是错误的或过时的，他们就会感到受到威胁。最底层的否定形式是 mere factionalism：自动否定与对立派别相关的任何观点。"
+    },
+    {
+      "original": "The lowest form of all is to dismiss an idea because of who proposed it.But the main thing that leads reasonable people to dismiss new ideas is the same thing that holds people back from proposing them: the sheer pervasiveness of the current paradigm.",
+      "translated": "最低级的做法是因提出者而否定一个想法。但导致理性人士拒绝新想法的主要原因，与人们不敢提出新想法的原因相同：当前范式的普遍性。"
+    },
+    {
+      "original": "It doesn't just affect the way we think; it is the Lego blocks we build thoughts out of. Popping out of the current paradigm is something only a few people can do. And even they usually have to suppress their intuitions at first, like a pilot flying through cloud who has to trust his instruments over his sense of balance.",
+      "translated": "它不仅影响我们的思维方式；它是构建我们思想的乐高积木。跳出当前的范式是只有少数人能做到的事。即使他们，通常也必须首先抑制自己的直觉，就像飞行员在云中飞行时必须信任仪器而不是自己的平衡感一样。"
+    },
+    {
+      "original": "[4]Paradigms don't just define our present thinking. They also vacuum up the trail of crumbs that led to them, making our standards for new ideas impossibly high. The current paradigm seems so perfect to us, its offspring, that we imagine it must have been accepted completely as soon as it was discovered — that whatever the church thought of the heliocentric model, astronomers must have been convinced as soon as Copernicus proposed it.",
+      "translated": "范式不仅定义了我们当前的思维方式，还吸纳了导致其形成的过程中的种种线索，使得我们对新思想的标准高得不切实际。当前的范式在我们这些后代看来如此完美，以至于我们想象它一经发现便被完全接受——无论教会如何看待日心说模型，天文学家必定在哥白尼提出这一理论时便已信服。"
+    },
+    {
+      "original": "Far, in fact, from it. Copernicus published the heliocentric model in 1532, but it wasn't till the mid seventeenth century that the balance of scientific opinion shifted in its favor. [5]Few understand how feeble new ideas look when they first appear.",
+      "translated": "事实上，远非如此。哥白尼在1532年发表了日心说模型，但直到17世纪中叶，科学界的主流观点才开始转向支持这一理论。[5]很少有人理解，新思想在最初出现时显得多么脆弱。"
+    },
+    {
+      "original": "So if you want to have new ideas yourself, one of the most valuable things you can do is to learn what they look like when they're born. Read about how new ideas happened, and try to get yourself into the heads of people at the time.",
+      "translated": "所以，如果你想自己产生新的想法，最宝贵的事情之一就是学习这些想法诞生时的样子。阅读新想法是如何产生的，尝试进入那个时代人们的心境。"
+    },
+    {
+      "original": "How did things look to them, when the new idea was only half-finished, and even the person who had it was only half-convinced it was right?But you don't have to stop at history. You can observe big new ideas being born all around you right now.",
+      "translated": "当新的想法还只完成了一半，甚至连提出这个想法的人都只有一半的信心认为它是正确的时候，他们又是如何看待这一切的呢？但你不必局限于历史。你完全可以观察到周围正在诞生的重大新想法。"
+    },
+    {
+      "original": "Just look for a reasonable domain expert proposing something that sounds wrong.If you're nice, as well as wise, you won't merely resist attacking such people, but encourage them. Having new ideas is a lonely business.",
+      "translated": "只需找一个提出看似错误观点的合理领域专家。如果你既善良又有智慧，你不仅不会攻击这样的人，反而会鼓励他们。提出新想法是一项孤独的事业。"
+    },
+    {
+      "original": "Only those who've tried it know how lonely. These people need your help. And if you help them, you'll probably learn something in the process.Notes[1] This domain expertise could be in another field.",
+      "translated": "只有尝试过的人才知道其中的孤独。这些人需要你的帮助。而如果你帮助他们，你在这个过程中可能会学到一些东西。注[1] 这种专业领域知识可能来自其他领域。"
+    },
+    {
+      "original": "Indeed, such crossovers tend to be particularly promising.[2] I'm not claiming this principle extends much beyond math, engineering, and the hard sciences. In politics, for example, crazy-sounding ideas generally are as bad as they sound.",
+      "translated": "确实，这种跨领域的结合往往特别有前景。[2] 我并不是说这一原则会广泛适用于数学、工程和硬科学之外的领域。例如，在政治中，听起来疯狂的想法通常和听起来一样糟糕。"
+    },
+    {
+      "original": "Though arguably this is not an exception, because the people who propose them are not in fact domain experts; politicians are domain experts in political tactics, like how to get elected and how to get legislation passed, but not in the world that policy acts upon.",
+      "translated": "尽管这可以说并非例外，因为提出这些政策的人实际上并非相关领域的专家；政治家是政治策略的专家，如如何当选和如何通过立法，但并非政策所影响领域的专家。"
+    },
+    {
+      "original": "Perhaps no one could be.[3] This sense of \"paradigm\" was defined by Thomas Kuhn in his Structure of Scientific Revolutions, but I also recommend his Copernican Revolution, where you can see him at work developing the idea.[4] This is one reason people with a touch of Asperger's may have an advantage in discovering new ideas.",
+      "translated": "也许没有人能做到。[3] 这种意义上的“范式”是由托马斯·库恩在他的《科学革命的结构》中定义的，但我还推荐他的《哥白尼革命》，在那里你可以看到他如何逐步发展这一思想。[4] 这也是为什么有轻微阿斯伯格症的人在发现新思想方面可能具有优势的一个原因。"
+    },
+    {
+      "original": "They're always flying on instruments.[5] Hall, Rupert. From Galileo to Newton. Collins, 1963. This book is particularly good at getting into contemporaries' heads.Thanks to Trevor Blackwell, Patrick Collison, Suhail Doshi, Daniel Gackle, Jessica Livingston, and Robert Morris for reading drafts of this.",
+      "translated": "他们总是依靠仪器飞行。[5] 霍尔，鲁珀特。《从伽利略到牛顿》。柯林斯，1963年。这本书特别擅长深入同时代人的内心。感谢特雷弗·布莱克威尔、帕特里克·科利森、苏海勒·多希、丹尼尔·加克尔、杰西卡·利文斯顿和罗伯特·莫里斯审阅了本文的草稿。"
+    }
+  ],
+  "translation_completed": "2025-07-28T14:46:53.091414",
+  "translation_stats": {
+    "total_paragraphs": 29,
+    "success_count": 29,
+    "success_rate": "100.0%"
+  }
+}

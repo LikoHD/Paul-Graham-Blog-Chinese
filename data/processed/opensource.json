@@ -1,0 +1,449 @@
+{
+  "title": "What Business Can Learn from Open Source",
+  "title_zh": "[待翻译] What Business Can Learn from Open Source",
+  "url": "https://www.paulgraham.com/opensource.html",
+  "filename": "opensource.html",
+  "date": "2020-08-09",
+  "id": 95,
+  "content": {
+    "success": true,
+    "paragraphs": [
+      "August 2005(This essay is derived from a talk at Oscon 2005.)Lately companies have been paying more attention to open source. Ten years ago there seemed a real danger Microsoft would extend its monopoly to servers.",
+      "It seems safe to say now that open source has prevented that. A recent survey found 52% of companies are replacing Windows servers with Linux servers. [1]More significant, I think, is which 52% they are.",
+      "At this point, anyone proposing to run Windows on servers should be prepared to explain what they know about servers that Google, Yahoo, and Amazon don't.But the biggest thing business has to learn from open source is not about Linux or Firefox, but about the forces that produced them.",
+      "Ultimately these will affect a lot more than what software you use.We may be able to get a fix on these underlying forces by triangulating from open source and blogging. As you've probably noticed, they have a lot in common.Like open source, blogging is something people do themselves, for free, because they enjoy it.",
+      "Like open source hackers, bloggers compete with people working for money, and often win. The method of ensuring quality is also the same: Darwinian. Companies ensure quality through rules to prevent employees from screwing up.",
+      "But you don't need that when the audience can communicate with one another. People just produce whatever they want; the good stuff spreads, and the bad gets ignored. And in both cases, feedback from the audience improves the best work.Another thing blogging and open source have in common is the Web.",
+      "People have always been willing to do great work for free, but before the Web it was harder to reach an audience or collaborate on projects.AmateursI think the most important of the new principles business has to learn is that people work a lot harder on stuff they like.",
+      "Well, that's news to no one. So how can I claim business has to learn it? When I say business doesn't know this, I mean the structure of business doesn't reflect it.Business still reflects an older model, exemplified by the French word for working: travailler.",
+      "It has an English cousin, travail, and what it means is torture. [2]This turns out not to be the last word on work, however. As societies get richer, they learn something about work that's a lot like what they learn about diet.",
+      "We know now that the healthiest diet is the one our peasant ancestors were forced to eat because they were poor. Like rich food, idleness only seems desirable when you don't get enough of it. I think we were designed to work, just as we were designed to eat a certain amount of fiber, and we feel bad if we don't.There's a name for people who work for the love of it: amateurs.",
+      "The word now has such bad connotations that we forget its etymology, though it's staring us in the face. \"Amateur\" was originally rather a complimentary word. But the thing to be in the twentieth century was professional, which amateurs, by definition, are not.That's why the business world was so surprised by one lesson from open source: that people working for love often surpass those working for money.",
+      "Users don't switch from Explorer to Firefox because they want to hack the source. They switch because it's a better browser.It's not that Microsoft isn't trying. They know controlling the browser is one of the keys to retaining their monopoly.",
+      "The problem is the same they face in operating systems: they can't pay people enough to build something better than a group of inspired hackers will build for free.I suspect professionalism was always overrated-- not just in the literal sense of working for money, but also connotations like formality and detachment.",
+      "Inconceivable as it would have seemed in, say, 1970, I think professionalism was largely a fashion, driven by conditions that happened to exist in the twentieth century.One of the most powerful of those was the existence of \"channels.\" Revealingly, the same term was used for both products and information: there were distribution channels, and TV and radio channels.It was the narrowness of such channels that made professionals seem so superior to amateurs.",
+      "There were only a few jobs as professional journalists, for example, so competition ensured the average journalist was fairly good. Whereas anyone can express opinions about current events in a bar. And so the average person expressing his opinions in a bar sounds like an idiot compared to a journalist writing about the subject.On the Web, the barrier for publishing your ideas is even lower.",
+      "You don't have to buy a drink, and they even let kids in. Millions of people are publishing online, and the average level of what they're writing, as you might expect, is not very good. This has led some in the media to conclude that blogs don't present much of a threat-- that blogs are just a fad.Actually, the fad is the word \"blog,\" at least the way the print media now use it.",
+      "What they mean by \"blogger\" is not someone who publishes in a weblog format, but anyone who publishes online. That's going to become a problem as the Web becomes the default medium for publication. So I'd like to suggest an alternative word for someone who publishes online.",
+      "How about \"writer?\"Those in the print media who dismiss the writing online because of its low average quality are missing an important point: no one reads the average blog. In the old world of channels, it meant something to talk about average quality, because that's what you were getting whether you liked it or not.",
+      "But now you can read any writer you want. So the average quality of writing online isn't what the print media are competing against. They're competing against the best writing online. And, like Microsoft, they're losing.I know that from my own experience as a reader.",
+      "Though most print publications are online, I probably read two or three articles on individual people's sites for every one I read on the site of a newspaper or magazine.And when I read, say, New York Times stories, I never reach them through the Times front page.",
+      "Most I find through aggregators like Google News or Slashdot or Delicious. Aggregators show how much better you can do than the channel. The New York Times front page is a list of articles written by people who work for the New York Times.",
+      "Delicious is a list of articles that are interesting. And it's only now that you can see the two side by side that you notice how little overlap there is.Most articles in the print media are boring. For example, the president notices that a majority of voters now think invading Iraq was a mistake, so he makes an address to the nation to drum up support.",
+      "Where is the man bites dog in that? I didn't hear the speech, but I could probably tell you exactly what he said. A speech like that is, in the most literal sense, not news: there is nothing new in it.",
+      "[3]Nor is there anything new, except the names and places, in most \"news\" about things going wrong. A child is abducted; there's a tornado; a ferry sinks; someone gets bitten by a shark; a small plane crashes.",
+      "And what do you learn about the world from these stories? Absolutely nothing. They're outlying data points; what makes them gripping also makes them irrelevant.As in software, when professionals produce such crap, it's not surprising if amateurs can do better.",
+      "Live by the channel, die by the channel: if you depend on an oligopoly, you sink into bad habits that are hard to overcome when you suddenly get competition. [4]WorkplacesAnother thing blogs and open source software have in common is that they're often made by people working at home.",
+      "That may not seem surprising. But it should be. It's the architectural equivalent of a home-made aircraft shooting down an F-18. Companies spend millions to build office buildings for a single purpose: to be a place to work.",
+      "And yet people working in their own homes, which aren't even designed to be workplaces, end up being more productive.This proves something a lot of us have suspected. The average office is a miserable place to get work done.",
+      "And a lot of what makes offices bad are the very qualities we associate with professionalism. The sterility of offices is supposed to suggest efficiency. But suggesting efficiency is a different thing from actually being efficient.The atmosphere of the average workplace is to productivity what flames painted on the side of a car are to speed.",
+      "And it's not just the way offices look that's bleak. The way people act is just as bad.Things are different in a startup. Often as not a startup begins in an apartment. Instead of matching beige cubicles they have an assortment of furniture they bought used.",
+      "They work odd hours, wearing the most casual of clothing. They look at whatever they want online without worrying whether it's \"work safe.\" The cheery, bland language of the office is replaced by wicked humor.",
+      "And you know what? The company at this stage is probably the most productive it's ever going to be.Maybe it's not a coincidence. Maybe some aspects of professionalism are actually a net lose.To me the most demoralizing aspect of the traditional office is that you're supposed to be there at certain times.",
+      "There are usually a few people in a company who really have to, but the reason most employees work fixed hours is that the company can't measure their productivity.The basic idea behind office hours is that if you can't make people work, you can at least prevent them from having fun.",
+      "If employees have to be in the building a certain number of hours a day, and are forbidden to do non-work things while there, then they must be working. In theory. In practice they spend a lot of their time in a no-man's land, where they're neither working nor having fun.If you could measure how much work people did, many companies wouldn't need any fixed workday.",
+      "You could just say: this is what you have to do. Do it whenever you like, wherever you like. If your work requires you to talk to other people in the company, then you may need to be here a certain amount.",
+      "Otherwise we don't care.That may seem utopian, but it's what we told people who came to work for our company. There were no fixed office hours. I never showed up before 11 in the morning. But we weren't saying this to be benevolent.",
+      "We were saying: if you work here we expect you to get a lot done. Don't try to fool us just by being here a lot.The problem with the facetime model is not just that it's demoralizing, but that the people pretending to work interrupt the ones actually working.",
+      "I'm convinced the facetime model is the main reason large organizations have so many meetings. Per capita, large organizations accomplish very little. And yet all those people have to be on site at least eight hours a day.",
+      "When so much time goes in one end and so little achievement comes out the other, something has to give. And meetings are the main mechanism for taking up the slack.For one year I worked at a regular nine to five job, and I remember well the strange, cozy feeling that comes over one during meetings.",
+      "I was very aware, because of the novelty, that I was being paid for programming. It seemed just amazing, as if there was a machine on my desk that spat out a dollar bill every two minutes no matter what I did.",
+      "Even while I was in the bathroom! But because the imaginary machine was always running, I felt I always ought to be working. And so meetings felt wonderfully relaxing. They counted as work, just like programming, but they were so much easier.",
+      "All you had to do was sit and look attentive.Meetings are like an opiate with a network effect. So is email, on a smaller scale. And in addition to the direct cost in time, there's the cost in fragmentation-- breaking people's day up into bits too small to be useful.You can see how dependent you've become on something by removing it suddenly.",
+      "So for big companies I propose the following experiment. Set aside one day where meetings are forbidden-- where everyone has to sit at their desk all day and work without interruption on things they can do without talking to anyone else.",
+      "Some amount of communication is necessary in most jobs, but I'm sure many employees could find eight hours worth of stuff they could do by themselves. You could call it \"Work Day.\"The other problem with pretend work is that it often looks better than real work.",
+      "When I'm writing or hacking I spend as much time just thinking as I do actually typing. Half the time I'm sitting drinking a cup of tea, or walking around the neighborhood. This is a critical phase-- this is where ideas come from-- and yet I'd feel guilty doing this in most offices, with everyone else looking busy.It's hard to see how bad some practice is till you have something to compare it to.",
+      "And that's one reason open source, and even blogging in some cases, are so important. They show us what real work looks like.We're funding eight new startups at the moment. A friend asked what they were doing for office space, and seemed surprised when I said we expected them to work out of whatever apartments they found to live in.",
+      "But we didn't propose that to save money. We did it because we want their software to be good. Working in crappy informal spaces is one of the things startups do right without realizing it. As soon as you get into an office, work and life start to drift apart.That is one of the key tenets of professionalism.",
+      "Work and life are supposed to be separate. But that part, I'm convinced, is a mistake.Bottom-UpThe third big lesson we can learn from open source and blogging is that ideas can bubble up from the bottom, instead of flowing down from the top.",
+      "Open source and blogging both work bottom-up: people make what they want, and the best stuff prevails.Does this sound familiar? It's the principle of a market economy. Ironically, though open source and blogs are done for free, those worlds resemble market economies, while most companies, for all their talk about the value of free markets, are run internally like communist states.There are two forces that together steer design: ideas about what to do next, and the enforcement of quality.",
+      "In the channel era, both flowed down from the top. For example, newspaper editors assigned stories to reporters, then edited what they wrote.Open source and blogging show us things don't have to work that way.",
+      "Ideas and even the enforcement of quality can flow bottom-up. And in both cases the results are not merely acceptable, but better. For example, open source software is more reliable precisely because it's open source; anyone can find mistakes.The same happens with writing.",
+      "As we got close to publication, I found I was very worried about the essays in Hackers & Painters that hadn't been online. Once an essay has had a couple thousand page views I feel reasonably confident about it.",
+      "But these had had literally orders of magnitude less scrutiny. It felt like releasing software without testing it.That's what all publishing used to be like. If you got ten people to read a manuscript, you were lucky.",
+      "But I'd become so used to publishing online that the old method now seemed alarmingly unreliable, like navigating by dead reckoning once you'd gotten used to a GPS.The other thing I like about publishing online is that you can write what you want and publish when you want.",
+      "Earlier this year I wrote something that seemed suitable for a magazine, so I sent it to an editor I know. As I was waiting to hear back, I found to my surprise that I was hoping they'd reject it. Then I could put it online right away.",
+      "If they accepted it, it wouldn't be read by anyone for months, and in the meantime I'd have to fight word-by-word to save it from being mangled by some twenty five year old copy editor. [5]Many employees would like to build great things for the companies they work for, but more often than not management won't let them.",
+      "How many of us have heard stories of employees going to management and saying, please let us build this thing to make money for you-- and the company saying no? The most famous example is probably Steve Wozniak, who originally wanted to build microcomputers for his then-employer, HP.",
+      "And they turned him down. On the blunderometer, this episode ranks with IBM accepting a non-exclusive license for DOS. But I think this happens all the time. We just don't hear about it usually, because to prove yourself right you have to quit and start your own company, like Wozniak did.StartupsSo these, I think, are the three big lessons open source and blogging have to teach business: (1) that people work harder on stuff they like, (2) that the standard office environment is very unproductive, and (3) that bottom-up often works better than top-down.I can imagine managers at this point saying: what is this guy talking about?",
+      "What good does it do me to know that my programmers would be more productive working at home on their own projects? I need their asses in here working on version 3.2 of our software, or we're never going to make the release date.And it's true, the benefit that specific manager could derive from the forces I've described is near zero.",
+      "When I say business can learn from open source, I don't mean any specific business can. I mean business can learn about new conditions the same way a gene pool does. I'm not claiming companies can get smarter, just that dumb ones will die.So what will business look like when it has assimilated the lessons of open source and blogging?",
+      "I think the big obstacle preventing us from seeing the future of business is the assumption that people working for you have to be employees. But think about what's going on underneath: the company has some money, and they pay it to the employee in the hope that he'll make something worth more than they paid him.",
+      "Well, there are other ways to arrange that relationship. Instead of paying the guy money as a salary, why not give it to him as investment? Then instead of coming to your office to work on your projects, he can work wherever he wants on projects of his own.Because few of us know any alternative, we have no idea how much better we could do than the traditional employer-employee relationship.",
+      "Such customs evolve with glacial slowness. Our employer-employee relationship still retains a big chunk of master-servant DNA. [6]I dislike being on either end of it. I'll work my ass off for a customer, but I resent being told what to do by a boss.",
+      "And being a boss is also horribly frustrating; half the time it's easier just to do stuff yourself than to get someone else to do it for you. I'd rather do almost anything than give or receive a performance review.On top of its unpromising origins, employment has accumulated a lot of cruft over the years.",
+      "The list of what you can't ask in job interviews is now so long that for convenience I assume it's infinite. Within the office you now have to walk on eggshells lest anyone say or do something that makes the company prey to a lawsuit.",
+      "And God help you if you fire anyone.Nothing shows more clearly that employment is not an ordinary economic relationship than companies being sued for firing people. In any purely economic relationship you're free to do what you want.",
+      "If you want to stop buying steel pipe from one supplier and start buying it from another, you don't have to explain why. No one can accuse you of unjustly switching pipe suppliers. Justice implies some kind of paternal obligation that isn't there in transactions between equals.Most of the legal restrictions on employers are intended to protect employees.",
+      "But you can't have action without an equal and opposite reaction. You can't expect employers to have some kind of paternal responsibility toward employees without putting employees in the position of children.",
+      "And that seems a bad road to go down.Next time you're in a moderately large city, drop by the main post office and watch the body language of the people working there. They have the same sullen resentment as children made to do something they don't want to.",
+      "Their union has exacted pay increases and work restrictions that would have been the envy of previous generations of postal workers, and yet they don't seem any happier for it. It's demoralizing to be on the receiving end of a paternalistic relationship, no matter how cozy the terms.",
+      "Just ask any teenager.I see the disadvantages of the employer-employee relationship because I've been on both sides of a better one: the investor-founder relationship. I wouldn't claim it's painless.",
+      "When I was running a startup, the thought of our investors used to keep me up at night. And now that I'm an investor, the thought of our startups keeps me up at night. All the pain of whatever problem you're trying to solve is still there.",
+      "But the pain hurts less when it isn't mixed with resentment.I had the misfortune to participate in what amounted to a controlled experiment to prove that. After Yahoo bought our startup I went to work for them.",
+      "I was doing exactly the same work, except with bosses. And to my horror I started acting like a child. The situation pushed buttons I'd forgotten I had.The big advantage of investment over employment, as the examples of open source and blogging suggest, is that people working on projects of their own are enormously more productive.",
+      "And a startup is a project of one's own in two senses, both of them important: it's creatively one's own, and also economically ones's own.Google is a rare example of a big company in tune with the forces I've described.",
+      "They've tried hard to make their offices less sterile than the usual cube farm. They give employees who do great work large grants of stock to simulate the rewards of a startup. They even let hackers spend 20% of their time on their own projects.Why not let people spend 100% of their time on their own projects, and instead of trying to approximate the value of what they create, give them the actual market value?",
+      "Impossible? That is in fact what venture capitalists do.So am I claiming that no one is going to be an employee anymore-- that everyone should go and start a startup? Of course not. But more people could do it than do it now.",
+      "At the moment, even the smartest students leave school thinking they have to get a job. Actually what they need to do is make something valuable. A job is one way to do that, but the more ambitious ones will ordinarily be better off taking money from an investor than an employer.Hackers tend to think business is for MBAs.",
+      "But business administration is not what you're doing in a startup. What you're doing is business creation. And the first phase of that is mostly product creation-- that is, hacking. That's the hard part.",
+      "It's a lot harder to create something people love than to take something people love and figure out how to make money from it.Another thing that keeps people away from starting startups is the risk. Someone with kids and a mortgage should think twice before doing it.",
+      "But most young hackers have neither.And as the example of open source and blogging suggests, you'll enjoy it more, even if you fail. You'll be working on your own thing, instead of going to some office and doing what you're told.",
+      "There may be more pain in your own company, but it won't hurt as much.That may be the greatest effect, in the long run, of the forces underlying open source and blogging: finally ditching the old paternalistic employer-employee relationship, and replacing it with a purely economic one, between equals.",
+      "Notes[1] Survey by Forrester Research reported in the cover story of Business Week, 31 Jan 2005. Apparently someone believed you have to replace the actual server in order to switch the operating system.[2] It derives from the late Latin tripalium, a torture device so called because it consisted of three stakes.",
+      "I don't know how the stakes were used. \"Travel\" has the same root.[3] It would be much bigger news, in that sense, if the president faced unscripted questions by giving a press conference.[4] One measure of the incompetence of newspapers is that so many still make you register to read stories.",
+      "I have yet to find a blog that tried that.[5] They accepted the article, but I took so long to send them the final version that by the time I did the section of the magazine they'd accepted it for had disappeared in a reorganization.[6] The word \"boss\" is derived from the Dutch baas, meaning \"master.\"Thanks to Sarah Harlin, Jessica Livingston, and Robert Morris for reading drafts of this.French TranslationRussian TranslationJapanese TranslationSpanish TranslationArabic Translation"
+    ],
+    "word_count": 4278,
+    "paragraph_count": 85
+  },
+  "processed_at": "2025-07-26T19:04:29.787694",
+  "paragraphs": [
+    {
+      "original": "August 2005(This essay is derived from a talk at Oscon 2005.)Lately companies have been paying more attention to open source. Ten years ago there seemed a real danger Microsoft would extend its monopoly to servers.",
+      "translated": "2005年8月（本文源自2005年Oscon大会上的演讲。）最近，公司对开源软件给予了更多的关注。十年前，微软似乎真的有可能将其垄断扩展到服务器领域。"
+    },
+    {
+      "original": "It seems safe to say now that open source has prevented that. A recent survey found 52% of companies are replacing Windows servers with Linux servers. [1]More significant, I think, is which 52% they are.",
+      "translated": "现在看来，可以说开源已经阻止了这一点。最近的一项调查发现，52% 的公司正在用 Linux 服务器替换 Windows 服务器。更重要的是，我认为关键在于这 52% 是哪些公司。"
+    },
+    {
+      "original": "At this point, anyone proposing to run Windows on servers should be prepared to explain what they know about servers that Google, Yahoo, and Amazon don't.But the biggest thing business has to learn from open source is not about Linux or Firefox, but about the forces that produced them.",
+      "translated": "此时，任何提议在服务器上运行 Windows 的人都应该准备好解释他们知道而 Google、Yahoo 和 Amazon 不知道的关于服务器的内容。但企业从开源中要学习的最重要的东西并不是关于 Linux 或 Firefox，而是产生这些项目的动力。"
+    },
+    {
+      "original": "Ultimately these will affect a lot more than what software you use.We may be able to get a fix on these underlying forces by triangulating from open source and blogging. As you've probably noticed, they have a lot in common.Like open source, blogging is something people do themselves, for free, because they enjoy it.",
+      "translated": "最终，这些因素的影响将远不止你使用的软件。我们可能可以通过从开源和博客中进行交叉分析来把握这些底层力量。正如你可能已经注意到的，它们有许多共同点。就像开源一样，博客也是人们出于兴趣，自愿且无偿地进行的活动。"
+    },
+    {
+      "original": "Like open source hackers, bloggers compete with people working for money, and often win. The method of ensuring quality is also the same: Darwinian. Companies ensure quality through rules to prevent employees from screwing up.",
+      "translated": "像开源黑客一样，博主们与那些为钱工作的人竞争，并且经常获胜。确保质量的方法也是相同的：达尔文式的。公司通过制定规则来防止员工出错，以此确保质量。"
+    },
+    {
+      "original": "But you don't need that when the audience can communicate with one another. People just produce whatever they want; the good stuff spreads, and the bad gets ignored. And in both cases, feedback from the audience improves the best work.Another thing blogging and open source have in common is the Web.",
+      "translated": "但是，当观众可以相互交流时，就不需要那样的机制了。人们可以随意创作；优秀的内容会被传播，而糟糕的内容则会被忽视。在两种情况下，来自观众的反馈都能提升最好的作品。博客和开源的另一个共同点是互联网。"
+    },
+    {
+      "original": "People have always been willing to do great work for free, but before the Web it was harder to reach an audience or collaborate on projects.AmateursI think the most important of the new principles business has to learn is that people work a lot harder on stuff they like.",
+      "translated": "人们一直愿意无偿地做伟大的工作，但在互联网出现之前，要接触观众或合作开展项目更为困难。我认为，企业需要学习的新原则中，最重要的一条是人们会更努力地去做他们喜欢的事情。"
+    },
+    {
+      "original": "Well, that's news to no one. So how can I claim business has to learn it? When I say business doesn't know this, I mean the structure of business doesn't reflect it.Business still reflects an older model, exemplified by the French word for working: travailler.",
+      "translated": "嗯，这没什么新鲜的。那么，我怎么能说企业必须学习这一点呢？当我说企业不明白这一点时，我的意思是企业的结构并没有反映出这一点。企业仍然反映的是一个较旧的模式，这可以通过法语中的“工作”一词——travailler——来体现。"
+    },
+    {
+      "original": "It has an English cousin, travail, and what it means is torture. [2]This turns out not to be the last word on work, however. As societies get richer, they learn something about work that's a lot like what they learn about diet.",
+      "translated": "它有一个英语近亲，即“travail”，意为劳役。[2]然而，这并不是对工作的最终定义。随着社会变得富裕，它们对工作的认识就像对饮食的认识一样，有了新的理解。"
+    },
+    {
+      "original": "We know now that the healthiest diet is the one our peasant ancestors were forced to eat because they were poor. Like rich food, idleness only seems desirable when you don't get enough of it. I think we were designed to work, just as we were designed to eat a certain amount of fiber, and we feel bad if we don't.There's a name for people who work for the love of it: amateurs.",
+      "translated": "我们现在知道，最健康的饮食就是我们的农民祖先因为贫穷而被迫吃的食物。就像美食和懒惰一样，只有当你得不到足够时，它们才显得令人向往。我认为，我们生来就是要劳作，就像我们生来就需要摄入一定量的纤维，如果我们不这样做，就会感觉不好。那些出于热爱而工作的人有一个名称：业余爱好者。"
+    },
+    {
+      "original": "The word now has such bad connotations that we forget its etymology, though it's staring us in the face. \"Amateur\" was originally rather a complimentary word. But the thing to be in the twentieth century was professional, which amateurs, by definition, are not.That's why the business world was so surprised by one lesson from open source: that people working for love often surpass those working for money.",
+      "translated": "这个词现在带有如此负面的含义，以至于我们忘记了它的词源，尽管它就摆在我们面前。“业余爱好者”原本是一个相当赞美的词。但在二十世纪，专业才是王道，而业余爱好者，按定义来说，并非专业。这就是为什么商界对开源运动的一个教训感到如此惊讶：出于热爱而工作的人们往往能够超越为钱而工作的人。"
+    },
+    {
+      "original": "Users don't switch from Explorer to Firefox because they want to hack the source. They switch because it's a better browser.It's not that Microsoft isn't trying. They know controlling the browser is one of the keys to retaining their monopoly.",
+      "translated": "用户从Explorer切换到Firefox并不是因为他们想修改源代码。他们切换是因为Firefox是一个更好的浏览器。并不是微软没有努力。他们知道控制浏览器是维持其垄断地位的关键之一。"
+    },
+    {
+      "original": "The problem is the same they face in operating systems: they can't pay people enough to build something better than a group of inspired hackers will build for free.I suspect professionalism was always overrated-- not just in the literal sense of working for money, but also connotations like formality and detachment.",
+      "translated": "问题与他们在操作系统中面临的问题相同：他们无法支付足够的薪酬来建立比一群有激情的黑客免费构建的更好的东西。我怀疑专业主义一直被高估了——不仅是在字面上为钱工作的意思，还包括正式和冷漠等含义。"
+    },
+    {
+      "original": "Inconceivable as it would have seemed in, say, 1970, I think professionalism was largely a fashion, driven by conditions that happened to exist in the twentieth century.One of the most powerful of those was the existence of \"channels.\" Revealingly, the same term was used for both products and information: there were distribution channels, and TV and radio channels.It was the narrowness of such channels that made professionals seem so superior to amateurs.",
+      "translated": "在1970年看来不可思议的是，我认为专业主义在很大程度上是一种风尚，由20世纪特有的条件所推动。其中最有力的条件之一就是“渠道”的存在。有趣的是，这个词同时用于产品和信息：有分销渠道，也有电视和广播频道。正是这些渠道的狭窄性，使得专业人士看起来远胜于业余人士。"
+    },
+    {
+      "original": "There were only a few jobs as professional journalists, for example, so competition ensured the average journalist was fairly good. Whereas anyone can express opinions about current events in a bar. And so the average person expressing his opinions in a bar sounds like an idiot compared to a journalist writing about the subject.On the Web, the barrier for publishing your ideas is even lower.",
+      "translated": "专业记者的工作岗位并不多，因此竞争确保了平均而言记者的水平相当不错。而在酒吧里，任何人都可以对时事发表意见。因此，普通人发表意见时听起来就像个傻瓜，与记者撰写相关话题时相比更是如此。在网上，发表自己观点的门槛甚至更低。"
+    },
+    {
+      "original": "You don't have to buy a drink, and they even let kids in. Millions of people are publishing online, and the average level of what they're writing, as you might expect, is not very good. This has led some in the media to conclude that blogs don't present much of a threat-- that blogs are just a fad.Actually, the fad is the word \"blog,\" at least the way the print media now use it.",
+      "translated": "你不必买饮料，甚至还可以带孩子进去。数以百万计的人在网上发布内容，正如你所料，他们所写东西的平均水平并不高。这导致一些媒体人士得出结论，认为博客并不构成多大威胁——博客只是一个时尚。实际上，所谓的“时尚”是“博客”这个词，至少在印刷媒体目前使用这个词的方式上是如此。"
+    },
+    {
+      "original": "What they mean by \"blogger\" is not someone who publishes in a weblog format, but anyone who publishes online. That's going to become a problem as the Web becomes the default medium for publication. So I'd like to suggest an alternative word for someone who publishes online.",
+      "translated": "他们所说的“博主”并不是指以网络日志格式发布内容的人，而是指任何在线发布内容的人。随着网络成为出版的默认媒介，这将成为一个问题。因此，我想建议一个替代词来指代在线发布内容的人。"
+    },
+    {
+      "original": "How about \"writer?\"Those in the print media who dismiss the writing online because of its low average quality are missing an important point: no one reads the average blog. In the old world of channels, it meant something to talk about average quality, because that's what you were getting whether you liked it or not.",
+      "translated": "“作家”怎么样？那些因网络写作平均质量低而贬低在线内容的印刷媒体从业者忽略了一个重要观点：没有人会去读那些平均水准的博客。在旧的渠道世界里，谈论平均质量是有意义的，因为无论你是否喜欢，你接收到的都是这些内容。"
+    },
+    {
+      "original": "But now you can read any writer you want. So the average quality of writing online isn't what the print media are competing against. They're competing against the best writing online. And, like Microsoft, they're losing.I know that from my own experience as a reader.",
+      "translated": "但现在你可以阅读任何你想读的作家。因此，网络上的平均写作水平并不是印刷媒体竞争的对象。他们是在与网络上最好的写作竞争。而且，就像微软一样，他们正在失败。我知道这一点，因为我自己的阅读体验。"
+    },
+    {
+      "original": "Though most print publications are online, I probably read two or three articles on individual people's sites for every one I read on the site of a newspaper or magazine.And when I read, say, New York Times stories, I never reach them through the Times front page.",
+      "translated": "虽然大多数印刷出版物都有在线版本，但我阅读的文章中，从个人网站上读到的大概是报纸或杂志网站上的两到三倍。而当我阅读《纽约时报》的文章时，我从未通过《纽约时报》的首页来访问它们。"
+    },
+    {
+      "original": "Most I find through aggregators like Google News or Slashdot or Delicious. Aggregators show how much better you can do than the channel. The New York Times front page is a list of articles written by people who work for the New York Times.",
+      "translated": "大多数我都是通过像Google新闻、Slashdot或Delicious这样的聚合器找到的。聚合器展示了它们比传统渠道好多少。《纽约时报》的首页是一系列由《纽约时报》员工撰写的文章。"
+    },
+    {
+      "original": "Delicious is a list of articles that are interesting. And it's only now that you can see the two side by side that you notice how little overlap there is.Most articles in the print media are boring. For example, the president notices that a majority of voters now think invading Iraq was a mistake, so he makes an address to the nation to drum up support.",
+      "translated": "《美味》是一份有趣的文章除了列表。只有当你将两者并列对比时，才会注意到它们之间几乎没有重叠。大多数纸质媒体的文章都很无聊。例如，总统注意到大多数选民现在认为入侵伊拉克是一个错误，因此他发表全国讲话以争取支持。"
+    },
+    {
+      "original": "Where is the man bites dog in that? I didn't hear the speech, but I could probably tell you exactly what he said. A speech like that is, in the most literal sense, not news: there is nothing new in it.",
+      "translated": "哪里有狗咬人的新闻？我没听到演讲，但我大概能告诉你他具体说了什么。像这样的演讲，从最严格的意义上来说，根本算不上新闻：里面没有任何新内容。"
+    },
+    {
+      "original": "[3]Nor is there anything new, except the names and places, in most \"news\" about things going wrong. A child is abducted; there's a tornado; a ferry sinks; someone gets bitten by a shark; a small plane crashes.",
+      "translated": "在大多数关于事情出错的“新闻”中，除了人名和地名外，并没有什么新奇之处。一个孩子被绑架；发生了一场龙卷风；一艘渡轮沉没了；有人被鲨鱼咬伤；一架小型飞机坠毁。"
+    },
+    {
+      "original": "And what do you learn about the world from these stories? Absolutely nothing. They're outlying data points; what makes them gripping also makes them irrelevant.As in software, when professionals produce such crap, it's not surprising if amateurs can do better.",
+      "translated": "从这些故事中，你能学到什么关于这个世界的东西吗？什么也学不到。它们是异常数据点；使它们引人入胜的特质也同样使它们变得无关紧要。就像在软件行业中，当专业人士产出如此低劣的作品时，业余人士做得更好也就不足为奇了。"
+    },
+    {
+      "original": "Live by the channel, die by the channel: if you depend on an oligopoly, you sink into bad habits that are hard to overcome when you suddenly get competition. [4]WorkplacesAnother thing blogs and open source software have in common is that they're often made by people working at home.",
+      "translated": "靠渠道生存，也因渠道而死：如果你依赖于寡头垄断，那么当你突然面临竞争时，就会陷入难以克服的坏习惯。[4]工作场所另一点是，博客和开源软件通常是由在家工作的人们制作的。"
+    },
+    {
+      "original": "That may not seem surprising. But it should be. It's the architectural equivalent of a home-made aircraft shooting down an F-18. Companies spend millions to build office buildings for a single purpose: to be a place to work.",
+      "translated": "这可能看起来并不令人惊讶。但事实上应该感到惊讶。这就像一架自制飞机击落了一架F-18。公司花费数百万建造办公大楼，其唯一目的就是提供一个工作场所。"
+    },
+    {
+      "original": "And yet people working in their own homes, which aren't even designed to be workplaces, end up being more productive.This proves something a lot of us have suspected. The average office is a miserable place to get work done.",
+      "translated": "然而，那些在家中工作的人，即使他们的家并不是设计来作为工作场所的，最终却变得更有效率。这证明了我们许多人长期以来的怀疑：平均而言，办公室并不是一个适合完成工作的理想场所。"
+    },
+    {
+      "original": "And a lot of what makes offices bad are the very qualities we associate with professionalism. The sterility of offices is supposed to suggest efficiency. But suggesting efficiency is a different thing from actually being efficient.The atmosphere of the average workplace is to productivity what flames painted on the side of a car are to speed.",
+      "translated": "很多让办公室变得糟糕的因素正是我们与专业性相关联的特质。办公室的冷清本应暗示效率，但暗示效率与真正高效是两码事。普通工作场所的氛围对生产率的影响，就像汽车侧面的火焰图案对速度的影响一样。"
+    },
+    {
+      "original": "And it's not just the way offices look that's bleak. The way people act is just as bad.Things are different in a startup. Often as not a startup begins in an apartment. Instead of matching beige cubicles they have an assortment of furniture they bought used.",
+      "translated": "而且，不仅仅是办公室的外观显得萧条，人们的行为也是如此。在初创公司里情况则不同。初创公司往往是从一套公寓开始的。他们买的大多是二手家具，而不是那些颜色一致的米色隔间。"
+    },
+    {
+      "original": "They work odd hours, wearing the most casual of clothing. They look at whatever they want online without worrying whether it's \"work safe.\" The cheery, bland language of the office is replaced by wicked humor.",
+      "translated": "他们工作时间不固定，穿着最为随意的服装。他们在网络上查看任何他们想看的内容，不用担心是否“适合工作”。办公室里那些愉快而平淡的语言被 wicked 幽默所取代。"
+    },
+    {
+      "original": "And you know what? The company at this stage is probably the most productive it's ever going to be.Maybe it's not a coincidence. Maybe some aspects of professionalism are actually a net lose.To me the most demoralizing aspect of the traditional office is that you're supposed to be there at certain times.",
+      "translated": "你知道吗？公司在这个阶段可能是它有史以来最高效的时候。也许这并非巧合。也许某些方面的职业化实际上是一种净损失。对我来说，传统办公室最令人沮丧的一点就是你必须在特定的时间出现在那里。"
+    },
+    {
+      "original": "There are usually a few people in a company who really have to, but the reason most employees work fixed hours is that the company can't measure their productivity.The basic idea behind office hours is that if you can't make people work, you can at least prevent them from having fun.",
+      "translated": "通常公司里只有少数人真的需要这样做，但大多数员工之所以要遵守固定的工作时间，是因为公司无法衡量他们的生产力。办公时间背后的基本理念是，即使不能让员工工作，至少可以阻止他们享受乐趣。"
+    },
+    {
+      "original": "If employees have to be in the building a certain number of hours a day, and are forbidden to do non-work things while there, then they must be working. In theory. In practice they spend a lot of their time in a no-man's land, where they're neither working nor having fun.If you could measure how much work people did, many companies wouldn't need any fixed workday.",
+      "translated": "如果员工每天必须在大楼里待一定的时间，并且在此期间禁止做与工作无关的事情，那么理论上他们应该是在工作。但实际上，他们很多时间都处于一种既不是工作也不是休闲的空白状态。如果能够衡量员工的工作量，许多公司其实根本不需要固定的工作时间。"
+    },
+    {
+      "original": "You could just say: this is what you have to do. Do it whenever you like, wherever you like. If your work requires you to talk to other people in the company, then you may need to be here a certain amount.",
+      "translated": "你可以说：这就是你必须要做的事情。你可以在任何你喜欢的时间和地点去做。如果你的工作需要你与公司内的其他人沟通，那么你可能需要在这里待上一定的时间。"
+    },
+    {
+      "original": "Otherwise we don't care.That may seem utopian, but it's what we told people who came to work for our company. There were no fixed office hours. I never showed up before 11 in the morning. But we weren't saying this to be benevolent.",
+      "translated": "否则我们并不在意。这听起来可能像乌托邦，但这是我们告诉来我们公司工作的人的。没有固定的上班时间。我通常早上11点之前不会出现。但我们这么说并不是出于善意。"
+    },
+    {
+      "original": "We were saying: if you work here we expect you to get a lot done. Don't try to fool us just by being here a lot.The problem with the facetime model is not just that it's demoralizing, but that the people pretending to work interrupt the ones actually working.",
+      "translated": "我们说过：如果你在这里工作，我们期望你完成很多任务。不要试图通过长时间待在这里来蒙混过关。面对面工作模式的问题不仅在于它会让人士气低落，还在于那些假装工作的人会打断真正工作的人。"
+    },
+    {
+      "original": "I'm convinced the facetime model is the main reason large organizations have so many meetings. Per capita, large organizations accomplish very little. And yet all those people have to be on site at least eight hours a day.",
+      "translated": "我确信，面对面交流模式是大组织会议众多的主要原因。人均而言，大组织的成就非常有限。然而，所有这些人都必须每天至少在岗八小时。"
+    },
+    {
+      "original": "When so much time goes in one end and so little achievement comes out the other, something has to give. And meetings are the main mechanism for taking up the slack.For one year I worked at a regular nine to five job, and I remember well the strange, cozy feeling that comes over one during meetings.",
+      "translated": "当投入大量时间却收获甚微时，总得有所改变。而会议正是填补这种空缺的主要机制。有整整一年，我在一家朝九晚五的公司工作，至今仍清楚地记得会议时那种奇怪而温馨的感觉。"
+    },
+    {
+      "original": "I was very aware, because of the novelty, that I was being paid for programming. It seemed just amazing, as if there was a machine on my desk that spat out a dollar bill every two minutes no matter what I did.",
+      "translated": "我非常清楚，因为这是新奇的事物，我正因编程而获得报酬。这似乎太不可思议了，就好像我的桌子上有一台机器，每隔两分钟就会吐出一张美元钞票，无论我做什么。"
+    },
+    {
+      "original": "Even while I was in the bathroom! But because the imaginary machine was always running, I felt I always ought to be working. And so meetings felt wonderfully relaxing. They counted as work, just like programming, but they were so much easier.",
+      "translated": "即使在浴室里也是如此！但因为那台想象中的机器一直在运转，我总觉得我应该一直在工作。因此，会议感觉非常放松。会议也算是工作，就像编程一样，但它们要容易得多。"
+    },
+    {
+      "original": "All you had to do was sit and look attentive.Meetings are like an opiate with a network effect. So is email, on a smaller scale. And in addition to the direct cost in time, there's the cost in fragmentation-- breaking people's day up into bits too small to be useful.You can see how dependent you've become on something by removing it suddenly.",
+      "translated": "你只需要坐着显得很专心。会议就像是一种具有网络效应的鸦片。电子邮件也是如此，只是规模较小。除了直接的时间成本外，还有因碎片化而产生的成本——将人们的一天分割成过于细小的片段，以至于无法有效利用。你可以通过突然移除某样东西来发现自己对它的依赖程度。"
+    },
+    {
+      "original": "So for big companies I propose the following experiment. Set aside one day where meetings are forbidden-- where everyone has to sit at their desk all day and work without interruption on things they can do without talking to anyone else.",
+      "translated": "因此，我建议大公司进行以下实验：设定一天为无会议日——在这天里，每个人必须坐在自己的办公桌前，一整天不受打扰地工作，处理那些不需要与他人交谈就能完成的事情。"
+    },
+    {
+      "original": "Some amount of communication is necessary in most jobs, but I'm sure many employees could find eight hours worth of stuff they could do by themselves. You could call it \"Work Day.\"The other problem with pretend work is that it often looks better than real work.",
+      "translated": "大多数工作都需要一定程度的沟通，但我相信许多员工可以找到八小时可以独自完成的工作。你可以称之为“工作日”。假装工作的另一个问题是，它往往比真正的工作看起来更好。"
+    },
+    {
+      "original": "When I'm writing or hacking I spend as much time just thinking as I do actually typing. Half the time I'm sitting drinking a cup of tea, or walking around the neighborhood. This is a critical phase-- this is where ideas come from-- and yet I'd feel guilty doing this in most offices, with everyone else looking busy.It's hard to see how bad some practice is till you have something to compare it to.",
+      "translated": "当我写作或编程时，花在思考上的时间几乎和实际打字的时间一样多。很多时候我坐在那里喝杯茶，或者在附近散步。这是一个关键的阶段——这是创意的来源——然而，在大多数办公室里，当其他人都显得很忙碌时，我做这些事情会感到内疚。除非有对比，否则很难意识到某些做法有多糟糕。"
+    },
+    {
+      "original": "And that's one reason open source, and even blogging in some cases, are so important. They show us what real work looks like.We're funding eight new startups at the moment. A friend asked what they were doing for office space, and seemed surprised when I said we expected them to work out of whatever apartments they found to live in.",
+      "translated": "这就是开源软件，甚至在某些情况下博客，之所以重要的一个原因。它们向我们展示了真实的工作是什么样的。目前我们正在资助八家新的初创公司。一位朋友问他们为办公空间做了什么安排，当我说我们期望他们从自己找到的住处工作时，他似乎感到惊讶。"
+    },
+    {
+      "original": "But we didn't propose that to save money. We did it because we want their software to be good. Working in crappy informal spaces is one of the things startups do right without realizing it. As soon as you get into an office, work and life start to drift apart.That is one of the key tenets of professionalism.",
+      "translated": "但我们提出这一点并不是为了省钱。我们这样做是因为希望他们的软件能够优秀。在糟糕的非正式环境中工作是初创公司无意中做对的一件事。一旦进入办公室，工作和生活就开始分离开来。这是职业化的一个重要原则。"
+    },
+    {
+      "original": "Work and life are supposed to be separate. But that part, I'm convinced, is a mistake.Bottom-UpThe third big lesson we can learn from open source and blogging is that ideas can bubble up from the bottom, instead of flowing down from the top.",
+      "translated": "工作和生活本应分开。但我确信，这一点是一个错误。自下而上第三条重要的经验是我们可以从开源和博客中学到，即想法可以自下而上地涌现，而不是自上而下地流动。"
+    },
+    {
+      "original": "Open source and blogging both work bottom-up: people make what they want, and the best stuff prevails.Does this sound familiar? It's the principle of a market economy. Ironically, though open source and blogs are done for free, those worlds resemble market economies, while most companies, for all their talk about the value of free markets, are run internally like communist states.There are two forces that together steer design: ideas about what to do next, and the enforcement of quality.",
+      "translated": "开源和博客都是自下而上运作的：人们制作他们想要的东西，最好的东西胜出。这听起来熟悉吗？这就是市场经济的原则。讽刺的是，尽管开源和博客是免费的，但这些领域却类似于市场经济，而大多数公司尽管大谈自由市场的价值，内部管理却像共产主义国家。有两种力量共同引导设计：下一步要做什么的想法，以及质量的把控。"
+    },
+    {
+      "original": "In the channel era, both flowed down from the top. For example, newspaper editors assigned stories to reporters, then edited what they wrote.Open source and blogging show us things don't have to work that way.",
+      "translated": "在渠道时代，一切都自上而下。例如，报纸编辑会给记者分配报道任务，然后编辑他们写的内容。开源和博客向我们展示了事情不必如此运作。"
+    },
+    {
+      "original": "Ideas and even the enforcement of quality can flow bottom-up. And in both cases the results are not merely acceptable, but better. For example, open source software is more reliable precisely because it's open source; anyone can find mistakes.The same happens with writing.",
+      "translated": "理念乃至质量的执行可以自下而上地流动。在这两种情况下，结果不仅是可以接受的，而且更好。例如，开源软件之所以更可靠，正是因为它开源；任何人都可以发现错误。同样的情况也发生在写作上。"
+    },
+    {
+      "original": "As we got close to publication, I found I was very worried about the essays in Hackers & Painters that hadn't been online. Once an essay has had a couple thousand page views I feel reasonably confident about it.",
+      "translated": "在接近出版时，我发现我对《黑客与画家》中那些未曾上线的文章感到非常担心。一旦一篇文章有了几千次的页面浏览量，我就会对它感到相当有信心。"
+    },
+    {
+      "original": "But these had had literally orders of magnitude less scrutiny. It felt like releasing software without testing it.That's what all publishing used to be like. If you got ten people to read a manuscript, you were lucky.",
+      "translated": "但这些实际上受到的审查要少好几个数量级。感觉就像在没有测试的情况下发布软件。过去所有的出版都差不多是这样。如果你能找到十个人来阅读手稿，就已经很幸运了。"
+    },
+    {
+      "original": "But I'd become so used to publishing online that the old method now seemed alarmingly unreliable, like navigating by dead reckoning once you'd gotten used to a GPS.The other thing I like about publishing online is that you can write what you want and publish when you want.",
+      "translated": "但我已经习惯了在线发布，以至于传统的方法现在似乎显得非常不可靠，就像你习惯了使用GPS导航后，再用推测定位法一样。我还喜欢在线发布的一点是，你可以随心所欲地写作，并在你想要的时候发布。"
+    },
+    {
+      "original": "Earlier this year I wrote something that seemed suitable for a magazine, so I sent it to an editor I know. As I was waiting to hear back, I found to my surprise that I was hoping they'd reject it. Then I could put it online right away.",
+      "translated": "今年早些时候，我写了一篇似乎适合杂志的文章，于是我就把它发给了一位我认识的编辑。在等待回复的时候，令我惊讶的是，我竟然希望他们能拒绝它。这样我就可以立刻把它放到网上。"
+    },
+    {
+      "original": "If they accepted it, it wouldn't be read by anyone for months, and in the meantime I'd have to fight word-by-word to save it from being mangled by some twenty five year old copy editor. [5]Many employees would like to build great things for the companies they work for, but more often than not management won't let them.",
+      "translated": "如果他们接受了，几个月内都不会有人阅读，而在此期间，我得逐字逐句地努力保护它，不让它被某个二十五岁的文案编辑篡改。许多员工都想为他们工作的公司创造伟大的事物，但很多时候，管理层并不会让他们这么做。"
+    },
+    {
+      "original": "How many of us have heard stories of employees going to management and saying, please let us build this thing to make money for you-- and the company saying no? The most famous example is probably Steve Wozniak, who originally wanted to build microcomputers for his then-employer, HP.",
+      "translated": "我们中有多少人听说过员工向管理层提出请求，说请让我们为您建造这个东西来赚钱——而公司却拒绝了？最著名的例子可能是史蒂夫·沃兹尼亚克，他最初想为当时的雇主惠普建造微型计算机。"
+    },
+    {
+      "original": "And they turned him down. On the blunderometer, this episode ranks with IBM accepting a non-exclusive license for DOS. But I think this happens all the time. We just don't hear about it usually, because to prove yourself right you have to quit and start your own company, like Wozniak did.StartupsSo these, I think, are the three big lessons open source and blogging have to teach business: (1) that people work harder on stuff they like, (2) that the standard office environment is very unproductive, and (3) that bottom-up often works better than top-down.I can imagine managers at this point saying: what is this guy talking about?",
+      "translated": "他们拒绝了他。在“失误计”上，这一事件可以与IBM接受DOS的非独家许可相提并论。但我觉得这种事情经常发生。我们通常只是没有听说过，因为要证明你是对的，你必须辞职并自己创业，就像沃兹尼亚克那样。\n\n我认为，开源和博客对商业有三个重要的教训：（1）人们会更努力地做自己喜欢的事情，（2）标准的办公环境非常没有生产力，（3）自下而上的方式往往比自上而下的方式更有效。\n\n我可以想象，到此为止，一些管理者会说：这家伙在说什么？"
+    },
+    {
+      "original": "What good does it do me to know that my programmers would be more productive working at home on their own projects? I need their asses in here working on version 3.2 of our software, or we're never going to make the release date.And it's true, the benefit that specific manager could derive from the forces I've described is near zero.",
+      "translated": "知道我的程序员在家做自己的项目会更高效，这对我有什么好处？我需要他们在这里集中精力开发我们软件的3.2版本，否则我们永远无法按期发布。确实，特定的管理者从我描述的这些因素中获得的好处几乎为零。"
+    },
+    {
+      "original": "When I say business can learn from open source, I don't mean any specific business can. I mean business can learn about new conditions the same way a gene pool does. I'm not claiming companies can get smarter, just that dumb ones will die.So what will business look like when it has assimilated the lessons of open source and blogging?",
+      "translated": "当我说企业可以从开源中学到东西时，我并不是指任何特定的企业可以做到。我的意思是，企业可以像基因库一样学习新的条件。我并不是说企业可以变得更聪明，而是说愚笨的企业将会消亡。那么，当企业吸收了开源和博客的教训后，企业将会是什么样子呢？"
+    },
+    {
+      "original": "I think the big obstacle preventing us from seeing the future of business is the assumption that people working for you have to be employees. But think about what's going on underneath: the company has some money, and they pay it to the employee in the hope that he'll make something worth more than they paid him.",
+      "translated": "我认为阻碍我们预见商业未来的一个主要障碍是，认为为公司工作的人必须是雇员。但仔细想想背后的情况：公司有一些资金，他们支付给雇员，希望他能够创造出比支付给他的报酬更有价值的东西。"
+    },
+    {
+      "original": "Well, there are other ways to arrange that relationship. Instead of paying the guy money as a salary, why not give it to him as investment? Then instead of coming to your office to work on your projects, he can work wherever he wants on projects of his own.Because few of us know any alternative, we have no idea how much better we could do than the traditional employer-employee relationship.",
+      "translated": "好吧，还有其他方式可以安排这种关系。与其以工资的形式支付给他报酬，为什么不以投资的形式给他呢？这样，他就不必到你的办公室来为你的项目工作，而是可以随心所欲地在任何地方做自己的项目。因为我们中的大多数人不了解其他选择，所以我们根本不知道与传统的雇主-雇员关系相比，我们可以做得多么好。"
+    },
+    {
+      "original": "Such customs evolve with glacial slowness. Our employer-employee relationship still retains a big chunk of master-servant DNA. [6]I dislike being on either end of it. I'll work my ass off for a customer, but I resent being told what to do by a boss.",
+      "translated": "这样的习俗演变极其缓慢。我们雇主与雇员之间的关系仍然保留着大量的主仆关系的特征。[6]我不喜欢处于这种关系的任何一方。我会为客户拼命工作，但反感被老板指手画脚。"
+    },
+    {
+      "original": "And being a boss is also horribly frustrating; half the time it's easier just to do stuff yourself than to get someone else to do it for you. I'd rather do almost anything than give or receive a performance review.On top of its unpromising origins, employment has accumulated a lot of cruft over the years.",
+      "translated": "做老板也让人极其沮丧；很多时候，自己动手做事情比让别人去做要容易得多。我宁愿做几乎任何事情也不愿意进行绩效评估。除了其不那么光明的起源，就业在多年中积累了许多冗余。"
+    },
+    {
+      "original": "The list of what you can't ask in job interviews is now so long that for convenience I assume it's infinite. Within the office you now have to walk on eggshells lest anyone say or do something that makes the company prey to a lawsuit.",
+      "translated": "现在，你不能在面试中问的问题清单已经长到为了方便起见，我假设它是无限的。在办公室里，你必须如履薄冰，以免任何人说或做些什么使公司成为诉讼的目标。"
+    },
+    {
+      "original": "And God help you if you fire anyone.Nothing shows more clearly that employment is not an ordinary economic relationship than companies being sued for firing people. In any purely economic relationship you're free to do what you want.",
+      "translated": "如果你解雇任何人，愿上帝保佑你。没有什么比公司因解雇员工而被起诉更能清楚地表明，雇佣关系并非一种普通的经济关系。在任何纯粹的经济关系中，你都可以自由地做你想做的事。"
+    },
+    {
+      "original": "If you want to stop buying steel pipe from one supplier and start buying it from another, you don't have to explain why. No one can accuse you of unjustly switching pipe suppliers. Justice implies some kind of paternal obligation that isn't there in transactions between equals.Most of the legal restrictions on employers are intended to protect employees.",
+      "translated": "如果你想停止从一个供应商购买钢管并开始从另一个供应商购买，你不必解释原因。没有人能指责你不公正地更换钢管供应商。正义意味着某种父辈式的义务，而在平等主体之间的交易中并不存在这种义务。大多数针对雇主的法律限制都是为了保护员工。"
+    },
+    {
+      "original": "But you can't have action without an equal and opposite reaction. You can't expect employers to have some kind of paternal responsibility toward employees without putting employees in the position of children.",
+      "translated": "但没有相等且相反的反作用力，就不会有作用力。你不能期望雇主对员工有一种父辈般的责任，而不把员工置于孩子的位置。"
+    },
+    {
+      "original": "And that seems a bad road to go down.Next time you're in a moderately large city, drop by the main post office and watch the body language of the people working there. They have the same sullen resentment as children made to do something they don't want to.",
+      "translated": "这似乎是一条不好的路。下次当你身处一个中等规模的城市时，可以去主邮局看看那里工作人员的肢体语言。他们带着和被强迫做不想做的事情的孩子一样的阴沉怨气。"
+    },
+    {
+      "original": "Their union has exacted pay increases and work restrictions that would have been the envy of previous generations of postal workers, and yet they don't seem any happier for it. It's demoralizing to be on the receiving end of a paternalistic relationship, no matter how cozy the terms.",
+      "translated": "他们的工会已经争取到了工资增长和工作限制，这些条件足以令前几代邮政工人羡慕不已，然而他们似乎并没有因此而更加开心。无论条件多么优厚，处于一种父权式关系的接受方总是令人沮丧的。"
+    },
+    {
+      "original": "Just ask any teenager.I see the disadvantages of the employer-employee relationship because I've been on both sides of a better one: the investor-founder relationship. I wouldn't claim it's painless.",
+      "translated": "随便问问任何一个青少年。因为我从两个不同的角度体验过，所以我看到了雇主与雇员关系的弊端：一个是投资者-创始人关系。我不会说这种关系是毫无痛苦的。"
+    },
+    {
+      "original": "When I was running a startup, the thought of our investors used to keep me up at night. And now that I'm an investor, the thought of our startups keeps me up at night. All the pain of whatever problem you're trying to solve is still there.",
+      "translated": "当我经营一家初创公司时，投资者的想法常常让我夜不能寐。现在我成了投资者，初创公司的情况则让我夜不能寐。无论你试图解决的问题有多么棘手，那种痛苦依然存在。"
+    },
+    {
+      "original": "But the pain hurts less when it isn't mixed with resentment.I had the misfortune to participate in what amounted to a controlled experiment to prove that. After Yahoo bought our startup I went to work for them.",
+      "translated": "但痛苦在没有怨恨掺杂其中时会减轻许多。不幸的是，我亲身参与了一项近乎于对照实验的事件，证明了这一点。雅虎收购了我们的初创公司后，我便去为他们工作。"
+    },
+    {
+      "original": "I was doing exactly the same work, except with bosses. And to my horror I started acting like a child. The situation pushed buttons I'd forgotten I had.The big advantage of investment over employment, as the examples of open source and blogging suggest, is that people working on projects of their own are enormously more productive.",
+      "translated": "我做的工作完全一样，只是对象变成了老板。令我惊恐的是，我开始表现得像个孩子。这种局面触动了我早已遗忘的某些情感开关。投资相比就业的一大优势，正如开源和博客的例子所显示的那样，是人们在自己感兴趣的项目上工作时，生产力会大幅提升。"
+    },
+    {
+      "original": "And a startup is a project of one's own in two senses, both of them important: it's creatively one's own, and also economically ones's own.Google is a rare example of a big company in tune with the forces I've described.",
+      "translated": "而创业公司在两个重要方面都是属于自己的项目：它在创意上是自己的，在经济上也是自己的。谷歌是一个罕见的大公司例子，它与我所描述的这些力量保持一致。"
+    },
+    {
+      "original": "They've tried hard to make their offices less sterile than the usual cube farm. They give employees who do great work large grants of stock to simulate the rewards of a startup. They even let hackers spend 20% of their time on their own projects.Why not let people spend 100% of their time on their own projects, and instead of trying to approximate the value of what they create, give them the actual market value?",
+      "translated": "他们努力使办公室不像典型的格子间那样冷漠。对于表现出色的员工，他们给予大量股票作为奖励，以模拟创业公司的回报。他们甚至允许黑客们将20%的时间用于自己的项目。为什么不让他们把100%的时间都用在自己的项目上，而不是试图估算他们所创造价值的近似值，而是给予他们实际的市场价值呢？"
+    },
+    {
+      "original": "Impossible? That is in fact what venture capitalists do.So am I claiming that no one is going to be an employee anymore-- that everyone should go and start a startup? Of course not. But more people could do it than do it now.",
+      "translated": "不可能？这实际上是风险投资家做的事情。所以，我是在说将来没有人会再当雇员——所有人都应该去创业吗？当然不是。但是，能够做到这一点的人比现在多得多。"
+    },
+    {
+      "original": "At the moment, even the smartest students leave school thinking they have to get a job. Actually what they need to do is make something valuable. A job is one way to do that, but the more ambitious ones will ordinarily be better off taking money from an investor than an employer.Hackers tend to think business is for MBAs.",
+      "translated": "目前，即使是最聪明的学生毕业时也认为他们必须找份工作。实际上，他们需要做的是创造有价值的东西。工作是一种实现这一目标的方式，但更有雄心的学生通常从投资者那里获得资金会比从雇主那里获得工作更好。黑客们往往认为商业是MBA的事情。"
+    },
+    {
+      "original": "But business administration is not what you're doing in a startup. What you're doing is business creation. And the first phase of that is mostly product creation-- that is, hacking. That's the hard part.",
+      "translated": "但你在创业公司做的并不是企业管理。你做的是企业创建。而这一过程的第一阶段主要是产品创建——也就是说，开发。这是最难的部分。"
+    },
+    {
+      "original": "It's a lot harder to create something people love than to take something people love and figure out how to make money from it.Another thing that keeps people away from starting startups is the risk. Someone with kids and a mortgage should think twice before doing it.",
+      "translated": "创造出人们喜爱的东西要比从人们喜爱的东西中找到赚钱的方法难得多。另一个让人们远离创业的是风险。有孩子和房贷的人应该三思而后行。"
+    },
+    {
+      "original": "But most young hackers have neither.And as the example of open source and blogging suggests, you'll enjoy it more, even if you fail. You'll be working on your own thing, instead of going to some office and doing what you're told.",
+      "translated": "但大多数年轻黑客都没有这些。正如开源和博客的例子所表明的，即使失败了，你也会更享受这个过程。你将从事自己感兴趣的事情，而不是去某个办公室做别人吩咐的事。"
+    },
+    {
+      "original": "There may be more pain in your own company, but it won't hurt as much.That may be the greatest effect, in the long run, of the forces underlying open source and blogging: finally ditching the old paternalistic employer-employee relationship, and replacing it with a purely economic one, between equals.",
+      "translated": "在自己的公司里可能会有更多的痛苦，但不会那么伤人。从长远来看，这可能是推动开源和博客发展的根本力量所产生的最大影响：最终摆脱旧的家长式雇主-员工关系，取而代之的是平等主体之间的纯粹经济关系。"
+    },
+    {
+      "original": "Notes[1] Survey by Forrester Research reported in the cover story of Business Week, 31 Jan 2005. Apparently someone believed you have to replace the actual server in order to switch the operating system.[2] It derives from the late Latin tripalium, a torture device so called because it consisted of three stakes.",
+      "translated": "注释[1] 《商业周刊》2005年1月31日封面故事报道的Forrester Research的调查。显然，有人认为必须更换实际的服务器才能更换操作系统。[2] 这个词源自后期拉丁语tripalium，这是一种酷刑工具，因其由三根桩组成而得名。"
+    },
+    {
+      "original": "I don't know how the stakes were used. \"Travel\" has the same root.[3] It would be much bigger news, in that sense, if the president faced unscripted questions by giving a press conference.[4] One measure of the incompetence of newspapers is that so many still make you register to read stories.",
+      "translated": "我不知道这些赌注是如何使用的。“旅行”这个词有相同的词根。从这个意义上说，如果总统通过召开新闻发布会来面对没有剧本的问题，那将是一个更大的新闻。报纸无能的一个标志是，仍然有许多报纸要求读者注册才能阅读文章。"
+    },
+    {
+      "original": "I have yet to find a blog that tried that.[5] They accepted the article, but I took so long to send them the final version that by the time I did the section of the magazine they'd accepted it for had disappeared in a reorganization.[6] The word \"boss\" is derived from the Dutch baas, meaning \"master.\"Thanks to Sarah Harlin, Jessica Livingston, and Robert Morris for reading drafts of this.French TranslationRussian TranslationJapanese TranslationSpanish TranslationArabic Translation",
+      "translated": "我还没有找到尝试过这样做的博客。[5] 他们接受了这篇文章，但我花了太长时间才把最终版本寄给他们，以至于等我寄出时，杂志上他们接受的那个版块已经在改组中消失了。[6] “老板”这个词源自荷兰语的“baas”，意为“主人”。感谢 Sarah Harlin、Jessica Livingston 和 Robert Morris 阅读了本文的草稿。法语译文俄语译文日语译文西班牙语译文阿拉伯语译文"
+    }
+  ],
+  "translation_completed": "2025-07-28T23:59:03.157217",
+  "translation_stats": {
+    "total_paragraphs": 85,
+    "success_count": 85,
+    "success_rate": "100.0%"
+  }
+}

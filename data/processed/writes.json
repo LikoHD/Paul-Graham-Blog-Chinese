@@ -1,0 +1,79 @@
+{
+  "title": "Writes and Write-Nots",
+  "title_zh": "[待翻译] Writes and Write-Nots",
+  "url": "https://www.paulgraham.com/writes.html",
+  "filename": "writes.html",
+  "date": "2020-08-03",
+  "id": 96,
+  "content": {
+    "success": true,
+    "paragraphs": [
+      "October 2024I'm usually reluctant to make predictions about technology, but I feel fairly confident about this one: in a couple decades there won't be many people who can write.One of the strangest things you learn if you're a writer is how many people have trouble writing.",
+      "Doctors know how many people have a mole they're worried about; people who are good at setting up computers know how many people aren't; writers know how many people need help writing.The reason so many people have trouble writing is that it's fundamentally difficult.",
+      "To write well you have to think clearly, and thinking clearly is hard.And yet writing pervades many jobs, and the more prestigious the job, the more writing it tends to require.These two powerful opposing forces, the pervasive expectation of writing and the irreducible difficulty of doing it, create enormous pressure.",
+      "This is why eminent professors often turn out to have resorted to plagiarism. The most striking thing to me about these cases is the pettiness of the thefts. The stuff they steal is usually the most mundane boilerplate — the sort of thing that anyone who was even halfway decent at writing could turn out with no effort at all.",
+      "Which means they're not even halfway decent at writing.Till recently there was no convenient escape valve for the pressure created by these opposing forces. You could pay someone to write for you, like JFK, or plagiarize, like MLK, but if you couldn't buy or steal words, you had to write them yourself.",
+      "And as a result nearly everyone who was expected to write had to learn how.Not anymore. AI has blown this world open. Almost all pressure to write has dissipated. You can have AI do it for you, both in school and at work.The result will be a world divided into writes and write-nots.",
+      "There will still be some people who can write. Some of us like it. But the middle ground between those who are good at writing and those who can't write at all will disappear. Instead of good writers, ok writers, and people who can't write, there will just be good writers and people who can't write.Is that so bad?",
+      "Isn't it common for skills to disappear when technology makes them obsolete? There aren't many blacksmiths left, and it doesn't seem to be a problem.Yes, it's bad. The reason is something I mentioned earlier: writing is thinking.",
+      "In fact there's a kind of thinking that can only be done by writing. You can't make this point better than Leslie Lamport did: If you're thinking without writing, you only think you're thinking. So a world divided into writes and write-nots is more dangerous than it sounds.",
+      "It will be a world of thinks and think-nots. I know which half I want to be in, and I bet you do too.This situation is not unprecedented. In preindustrial times most people's jobs made them strong. Now if you want to be strong, you work out.",
+      "So there are still strong people, but only those who choose to be.It will be the same with writing. There will still be smart people, but only those who choose to be.Thanks to Jessica Livingston, Ben Miller, and Robert Morris for reading drafts of this."
+    ],
+    "word_count": 541,
+    "paragraph_count": 11
+  },
+  "processed_at": "2025-07-26T19:04:31.371761",
+  "paragraphs": [
+    {
+      "original": "October 2024I'm usually reluctant to make predictions about technology, but I feel fairly confident about this one: in a couple decades there won't be many people who can write.One of the strangest things you learn if you're a writer is how many people have trouble writing.",
+      "translated": "2024年10月，我通常不太愿意对技术做出预测，但对这一点我相当有信心：在未来的几十年里，能写作的人将会很少。作为一个作家，你会了解到的一件最奇怪的事情就是，有多少人写作有困难。"
+    },
+    {
+      "original": "Doctors know how many people have a mole they're worried about; people who are good at setting up computers know how many people aren't; writers know how many people need help writing.The reason so many people have trouble writing is that it's fundamentally difficult.",
+      "translated": "医生知道有多少人对自己的痣感到担心；擅长装电脑的人知道有多少人对此一窍不通；作家知道有多少人需要帮助来写作。许多人写作困难的原因在于，写作本质上就是一件难事。"
+    },
+    {
+      "original": "To write well you have to think clearly, and thinking clearly is hard.And yet writing pervades many jobs, and the more prestigious the job, the more writing it tends to require.These two powerful opposing forces, the pervasive expectation of writing and the irreducible difficulty of doing it, create enormous pressure.",
+      "translated": "要写得好，你必须思路清晰，而思路清晰是很难的。然而，写作渗透到许多工作中，职位越显赫，往往需要的写作越多。这两种强大的对立力量——普遍的写作期望和难以克服的写作难度——创造了巨大的压力。"
+    },
+    {
+      "original": "This is why eminent professors often turn out to have resorted to plagiarism. The most striking thing to me about these cases is the pettiness of the thefts. The stuff they steal is usually the most mundane boilerplate — the sort of thing that anyone who was even halfway decent at writing could turn out with no effort at all.",
+      "translated": "这就是为什么著名的教授们常常被发现剽窃。这些案例中最令我震惊的是他们盗窃行为的琐碎。他们剽窃的内容通常是再普通不过的套话——任何人只要稍微有点写作能力，都不费吹灰之力就能写出这样的东西。"
+    },
+    {
+      "original": "Which means they're not even halfway decent at writing.Till recently there was no convenient escape valve for the pressure created by these opposing forces. You could pay someone to write for you, like JFK, or plagiarize, like MLK, but if you couldn't buy or steal words, you had to write them yourself.",
+      "translated": "这意味着他们甚至连一半像样的写作水平都达不到。直到最近，这些对立的力量所造成的压力还没有一个方便的释放途径。你可以像肯尼迪那样付钱让人替你写，或者像马丁·路德·金那样抄袭，但如果你既买不到也偷不来文字，就只能自己动手写了。"
+    },
+    {
+      "original": "And as a result nearly everyone who was expected to write had to learn how.Not anymore. AI has blown this world open. Almost all pressure to write has dissipated. You can have AI do it for you, both in school and at work.The result will be a world divided into writes and write-nots.",
+      "translated": "因此，几乎每个预期要写作的人都必须学会如何写作。但现在不一样了。人工智能彻底改变了这一局面。几乎所有写作的压力都消失了。无论是学校还是工作中，你都可以让人工智能代劳。结果将会是一个分为“写作者”和“非写作者”的世界。"
+    },
+    {
+      "original": "There will still be some people who can write. Some of us like it. But the middle ground between those who are good at writing and those who can't write at all will disappear. Instead of good writers, ok writers, and people who can't write, there will just be good writers and people who can't write.Is that so bad?",
+      "translated": "仍然会有人能够写作。我们中的一些人喜欢这样做。但是，那些擅长写作和完全不会写作的人之间的中间地带将会消失。届时，将只有擅长写作的人和完全不会写作的人，而不再有写作水平一般的人。这真的那么糟糕吗？"
+    },
+    {
+      "original": "Isn't it common for skills to disappear when technology makes them obsolete? There aren't many blacksmiths left, and it doesn't seem to be a problem.Yes, it's bad. The reason is something I mentioned earlier: writing is thinking.",
+      "translated": "技能随着技术的更新而消失，这不是很常见吗？现在剩下的铁匠已经不多了，但这似乎并不是一个问题。是的，这是个问题。原因是我前面提到的：写作就是思考。"
+    },
+    {
+      "original": "In fact there's a kind of thinking that can only be done by writing. You can't make this point better than Leslie Lamport did: If you're thinking without writing, you only think you're thinking. So a world divided into writes and write-nots is more dangerous than it sounds.",
+      "translated": "事实上，有一种思考方式只能通过写作来完成。你无法比莱斯利·兰波特更好地阐述这一点：如果你在思考时不写作，你只是以为自己在思考。因此，一个被分为写作和不写作的世界比听起来更加危险。"
+    },
+    {
+      "original": "It will be a world of thinks and think-nots. I know which half I want to be in, and I bet you do too.This situation is not unprecedented. In preindustrial times most people's jobs made them strong. Now if you want to be strong, you work out.",
+      "translated": "这将是一个思考者与非思考者并存的世界。我知道自己想属于哪一半，我打赌你也一样。这种情况并非史无前例。在前工业时代，大多数人的工作让他们变得强壮。如今，如果你想变得强壮，就得去锻炼。"
+    },
+    {
+      "original": "So there are still strong people, but only those who choose to be.It will be the same with writing. There will still be smart people, but only those who choose to be.Thanks to Jessica Livingston, Ben Miller, and Robert Morris for reading drafts of this.",
+      "translated": "所以，仍然会有强者，但只有那些选择成为强者的人。写作也是如此。仍然会有聪明人，但只有那些选择成为聪明人的人。感谢杰西卡·利文斯顿、本·米勒和罗伯特·莫里斯阅读本文的草稿。"
+    }
+  ],
+  "translation_completed": "2025-07-27T12:52:37.602009",
+  "translation_stats": {
+    "total_paragraphs": 11,
+    "success_count": 11,
+    "success_rate": "100.0%"
+  }
+}

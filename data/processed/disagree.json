@@ -1,0 +1,189 @@
+{
+  "title": "How to Disagree",
+  "title_zh": "[待翻译] How to Disagree",
+  "url": "https://www.paulgraham.com/disagree.html",
+  "filename": "disagree.html",
+  "date": "2008-03-01",
+  "id": 172,
+  "content": {
+    "success": true,
+    "paragraphs": [
+      "March 2008The web is turning writing into a conversation. Twenty years ago, writers wrote and readers read. The web lets readers respond, and increasingly they do—in comment threads, on forums, and in their own blog posts.Many who respond to something disagree with it.",
+      "That's to be expected. Agreeing tends to motivate people less than disagreeing. And when you agree there's less to say. You could expand on something the author said, but he has probably already explored the most interesting implications.",
+      "When you disagree you're entering territory he may not have explored.The result is there's a lot more disagreeing going on, especially measured by the word. That doesn't mean people are getting angrier.",
+      "The structural change in the way we communicate is enough to account for it. But though it's not anger that's driving the increase in disagreement, there's a danger that the increase in disagreement will make people angrier.",
+      "Particularly online, where it's easy to say things you'd never say face to face.If we're all going to be disagreeing more, we should be careful to do it well. What does it mean to disagree well? Most readers can tell the difference between mere name-calling and a carefully reasoned refutation, but I think it would help to put names on the intermediate stages.",
+      "So here's an attempt at a disagreement hierarchy: DH0. Name-calling.This is the lowest form of disagreement, and probably also the most common. We've all seen comments like this: u r a fag!!!!!!!!!! But it's important to realize that more articulate name-calling has just as little weight.",
+      "A comment like The author is a self-important dilettante. is really nothing more than a pretentious version of \"u r a fag.\" DH1. Ad Hominem.An ad hominem attack is not quite as weak as mere name-calling.",
+      "It might actually carry some weight. For example, if a senator wrote an article saying senators' salaries should be increased, one could respond: Of course he would say that. He's a senator. This wouldn't refute the author's argument, but it may at least be relevant to the case.",
+      "It's still a very weak form of disagreement, though. If there's something wrong with the senator's argument, you should say what it is; and if there isn't, what difference does it make that he's a senator?Saying that an author lacks the authority to write about a topic is a variant of ad hominem—and a particularly useless sort, because good ideas often come from outsiders.",
+      "The question is whether the author is correct or not. If his lack of authority caused him to make mistakes, point those out. And if it didn't, it's not a problem. DH2. Responding to Tone.The next level up we start to see responses to the writing, rather than the writer.",
+      "The lowest form of these is to disagree with the author's tone. E.g. I can't believe the author dismisses intelligent design in such a cavalier fashion. Though better than attacking the author, this is still a weak form of disagreement.",
+      "It matters much more whether the author is wrong or right than what his tone is. Especially since tone is so hard to judge. Someone who has a chip on their shoulder about some topic might be offended by a tone that to other readers seemed neutral.So if the worst thing you can say about something is to criticize its tone, you're not saying much.",
+      "Is the author flippant, but correct? Better that than grave and wrong. And if the author is incorrect somewhere, say where.DH3. Contradiction.In this stage we finally get responses to what was said, rather than how or by whom.",
+      "The lowest form of response to an argument is simply to state the opposing case, with little or no supporting evidence.This is often combined with DH2 statements, as in: I can't believe the author dismisses intelligent design in such a cavalier fashion.",
+      "Intelligent design is a legitimate scientific theory. Contradiction can sometimes have some weight. Sometimes merely seeing the opposing case stated explicitly is enough to see that it's right. But usually evidence will help.DH4.",
+      "Counterargument.At level 4 we reach the first form of convincing disagreement: counterargument. Forms up to this point can usually be ignored as proving nothing. Counterargument might prove something.",
+      "The problem is, it's hard to say exactly what.Counterargument is contradiction plus reasoning and/or evidence. When aimed squarely at the original argument, it can be convincing. But unfortunately it's common for counterarguments to be aimed at something slightly different.",
+      "More often than not, two people arguing passionately about something are actually arguing about two different things. Sometimes they even agree with one another, but are so caught up in their squabble they don't realize it.There could be a legitimate reason for arguing against something slightly different from what the original author said: when you feel they missed the heart of the matter.",
+      "But when you do that, you should say explicitly you're doing it.DH5. Refutation.The most convincing form of disagreement is refutation. It's also the rarest, because it's the most work. Indeed, the disagreement hierarchy forms a kind of pyramid, in the sense that the higher you go the fewer instances you find.To refute someone you probably have to quote them.",
+      "You have to find a \"smoking gun,\" a passage in whatever you disagree with that you feel is mistaken, and then explain why it's mistaken. If you can't find an actual quote to disagree with, you may be arguing with a straw man.While refutation generally entails quoting, quoting doesn't necessarily imply refutation.",
+      "Some writers quote parts of things they disagree with to give the appearance of legitimate refutation, then follow with a response as low as DH3 or even DH0.DH6. Refuting the Central Point.The force of a refutation depends on what you refute.",
+      "The most powerful form of disagreement is to refute someone's central point.Even as high as DH5 we still sometimes see deliberate dishonesty, as when someone picks out minor points of an argument and refutes those.",
+      "Sometimes the spirit in which this is done makes it more of a sophisticated form of ad hominem than actual refutation. For example, correcting someone's grammar, or harping on minor mistakes in names or numbers.",
+      "Unless the opposing argument actually depends on such things, the only purpose of correcting them is to discredit one's opponent.Truly refuting something requires one to refute its central point, or at least one of them.",
+      "And that means one has to commit explicitly to what the central point is. So a truly effective refutation would look like: The author's main point seems to be x. As he says: <quotation> But this is wrong for the following reasons...",
+      "The quotation you point out as mistaken need not be the actual statement of the author's main point. It's enough to refute something it depends upon. What It MeansNow we have a way of classifying forms of disagreement.",
+      "What good is it? One thing the disagreement hierarchy doesn't give us is a way of picking a winner. DH levels merely describe the form of a statement, not whether it's correct. A DH6 response could still be completely mistaken.But while DH levels don't set a lower bound on the convincingness of a reply, they do set an upper bound.",
+      "A DH6 response might be unconvincing, but a DH2 or lower response is always unconvincing.The most obvious advantage of classifying the forms of disagreement is that it will help people to evaluate what they read.",
+      "In particular, it will help them to see through intellectually dishonest arguments. An eloquent speaker or writer can give the impression of vanquishing an opponent merely by using forceful words. In fact that is probably the defining quality of a demagogue.",
+      "By giving names to the different forms of disagreement, we give critical readers a pin for popping such balloons.Such labels may help writers too. Most intellectual dishonesty is unintentional. Someone arguing against the tone of something he disagrees with may believe he's really saying something.",
+      "Zooming out and seeing his current position on the disagreement hierarchy may inspire him to try moving up to counterargument or refutation.But the greatest benefit of disagreeing well is not just that it will make conversations better, but that it will make the people who have them happier.",
+      "If you study conversations, you find there is a lot more meanness down in DH1 than up in DH6. You don't have to be mean when you have a real point to make. In fact, you don't want to. If you have something real to say, being mean just gets in the way.If moving up the disagreement hierarchy makes people less mean, that will make most of them happier.",
+      "Most people don't really enjoy being mean; they do it because they can't help it. Thanks to Trevor Blackwell and Jessica Livingston for reading drafts of this.Related:What You Can't SayThe Age of the EssayItalian TranslationRussian TranslationSwedish TranslationSpanish TranslationGerman TranslationFrench TranslationArabic TranslationFinnish TranslationItalian TranslationTurkish Translation"
+    ],
+    "word_count": 1484,
+    "paragraph_count": 33
+  },
+  "processed_at": "2025-07-26T19:07:00.191213",
+  "paragraphs": [
+    {
+      "original": "March 2008The web is turning writing into a conversation. Twenty years ago, writers wrote and readers read. The web lets readers respond, and increasingly they do—in comment threads, on forums, and in their own blog posts.Many who respond to something disagree with it.",
+      "translated": "2008年3月 网络正在将写作转变为对话。二十年前，作家写作，读者阅读。网络让读者能够做出回应，而且他们越来越多地在评论区、论坛和自己的博客文章中进行回应。许多做出回应的人对所回应的内容持不同意见。"
+    },
+    {
+      "original": "That's to be expected. Agreeing tends to motivate people less than disagreeing. And when you agree there's less to say. You could expand on something the author said, but he has probably already explored the most interesting implications.",
+      "translated": "这在意料之中。同意某人的观点往往不如反对某人的观点更能激发人的动力。而且，当你同意时，可说的内容也较少。你当然可以对作者的观点进行扩展，但他可能已经探讨了最有趣的影响。"
+    },
+    {
+      "original": "When you disagree you're entering territory he may not have explored.The result is there's a lot more disagreeing going on, especially measured by the word. That doesn't mean people are getting angrier.",
+      "translated": "当你提出异议时，你进入的可能是他未曾探索的领域。结果是，异议的出现频率增加了，尤其是从语言表达上来看。但这并不意味着人们变得更加愤怒。"
+    },
+    {
+      "original": "The structural change in the way we communicate is enough to account for it. But though it's not anger that's driving the increase in disagreement, there's a danger that the increase in disagreement will make people angrier.",
+      "translated": "我们沟通方式的结构性变化足以解释这一点。但尽管推动分歧增加的并非愤怒，分歧的增加却有可能使人们更加愤怒。"
+    },
+    {
+      "original": "Particularly online, where it's easy to say things you'd never say face to face.If we're all going to be disagreeing more, we should be careful to do it well. What does it mean to disagree well? Most readers can tell the difference between mere name-calling and a carefully reasoned refutation, but I think it would help to put names on the intermediate stages.",
+      "translated": "尤其在网上，人们很容易说出当面绝不会说的话。如果我们之间的分歧越来越多，我们应该更加注意如何妥善地表达这些分歧。那么，如何才算妥善地表达分歧呢？大多数读者能够区分简单的谩骂和经过深思熟虑的反驳，但我认为给这些中间阶段命名会有助于我们更好地理解。"
+    },
+    {
+      "original": "So here's an attempt at a disagreement hierarchy: DH0. Name-calling.This is the lowest form of disagreement, and probably also the most common. We've all seen comments like this: u r a fag!!!!!!!!!! But it's important to realize that more articulate name-calling has just as little weight.",
+      "translated": "所以这里尝试构建一个反对层次：DH0. 人身攻击。这是最低级的反对形式，可能也是最常见的。我们都有见过这样的评论：你是个同性恋!!!!!!!!!! 但重要的是要认识到，更加措辞得体的人身攻击同样没有分量。"
+    },
+    {
+      "original": "A comment like The author is a self-important dilettante. is really nothing more than a pretentious version of \"u r a fag.\" DH1. Ad Hominem.An ad hominem attack is not quite as weak as mere name-calling.",
+      "translated": "像“作者是一个自负的半吊子”这样的评论，实际上不过是一种装腔作势的“你是个废物”。DH1. 人身攻击。人身攻击并不像单纯的辱骂那样无力。"
+    },
+    {
+      "original": "It might actually carry some weight. For example, if a senator wrote an article saying senators' salaries should be increased, one could respond: Of course he would say that. He's a senator. This wouldn't refute the author's argument, but it may at least be relevant to the case.",
+      "translated": "这可能确实有一定的分量。例如，如果一位参议员写了一篇文章说参议员的薪水应该提高，人们可以回应说：他当然会这么说，他是参议员。这并不会驳倒作者的论点，但至少与问题相关。"
+    },
+    {
+      "original": "It's still a very weak form of disagreement, though. If there's something wrong with the senator's argument, you should say what it is; and if there isn't, what difference does it make that he's a senator?Saying that an author lacks the authority to write about a topic is a variant of ad hominem—and a particularly useless sort, because good ideas often come from outsiders.",
+      "translated": "这仍然是一种很微弱的反对形式。如果参议员的论点有问题，你应该指出问题所在；如果没有问题，他是否是参议员又有什么区别呢？说作者缺乏写作某个主题的权威是一种人身攻击的变体——而且是一种特别无用的形式，因为好的想法往往来自局外人。"
+    },
+    {
+      "original": "The question is whether the author is correct or not. If his lack of authority caused him to make mistakes, point those out. And if it didn't, it's not a problem. DH2. Responding to Tone.The next level up we start to see responses to the writing, rather than the writer.",
+      "translated": "问题在于作者的观点是否正确。如果他的权威不足导致了错误，应指出这些错误。如果没有，那就不成问题。DH2. 应对语气。在下一个层次上，我们开始看到对写作内容的回应，而不是对作者本人的回应。"
+    },
+    {
+      "original": "The lowest form of these is to disagree with the author's tone. E.g. I can't believe the author dismisses intelligent design in such a cavalier fashion. Though better than attacking the author, this is still a weak form of disagreement.",
+      "translated": "这些中最弱的一种是不同意作者的语气。例如，我无法相信作者如此轻率地否定智能设计。虽然比攻击作者要好，但这仍是一种较弱的反对形式。"
+    },
+    {
+      "original": "It matters much more whether the author is wrong or right than what his tone is. Especially since tone is so hard to judge. Someone who has a chip on their shoulder about some topic might be offended by a tone that to other readers seemed neutral.So if the worst thing you can say about something is to criticize its tone, you're not saying much.",
+      "translated": "作者的观点是否正确远比其语气重要得多。尤其是语气本身就很难评判。对于某个话题心存芥蒂的人，可能会因为其他读者认为中立的语气而感到冒犯。所以，如果你对某事物最严重的批评只是针对其语气，那么你实际上并没有说出多少有价值的内容。"
+    },
+    {
+      "original": "Is the author flippant, but correct? Better that than grave and wrong. And if the author is incorrect somewhere, say where.DH3. Contradiction.In this stage we finally get responses to what was said, rather than how or by whom.",
+      "translated": "作者是否轻率但正确？这总比严肃却错误要好。如果作者在某些地方有误，请指出具体哪里错误。DH3. 矛盾。在这个阶段，我们终于得到了对所述内容的回应，而不是对表达方式或表达者本身的回应。"
+    },
+    {
+      "original": "The lowest form of response to an argument is simply to state the opposing case, with little or no supporting evidence.This is often combined with DH2 statements, as in: I can't believe the author dismisses intelligent design in such a cavalier fashion.",
+      "translated": "对论点最底层的回应方式就是简单地陈述对立的观点，而几乎不提供任何支持证据。这通常会与DH2陈述结合使用，例如：我无法相信作者以如此轻率的方式驳斥智能设计。"
+    },
+    {
+      "original": "Intelligent design is a legitimate scientific theory. Contradiction can sometimes have some weight. Sometimes merely seeing the opposing case stated explicitly is enough to see that it's right. But usually evidence will help.DH4.",
+      "translated": "智能设计是一个合法的科学理论。矛盾有时也会有一定的分量。有时仅仅明确地看到对立的观点就足以认识到它是正确的。但通常，证据会有所帮助。"
+    },
+    {
+      "original": "Counterargument.At level 4 we reach the first form of convincing disagreement: counterargument. Forms up to this point can usually be ignored as proving nothing. Counterargument might prove something.",
+      "translated": "反论。在第4级，我们达到了第一种有说服力的异议形式：反论。到目前为止的这些形式通常可以被忽略，因为它们证明不了什么。而反论则可能证明某些东西。"
+    },
+    {
+      "original": "The problem is, it's hard to say exactly what.Counterargument is contradiction plus reasoning and/or evidence. When aimed squarely at the original argument, it can be convincing. But unfortunately it's common for counterarguments to be aimed at something slightly different.",
+      "translated": "问题在于，很难准确地说清楚。反驳是矛盾加上推理和/或证据。当直接针对原始论点时，它可以是令人信服的。但不幸的是，反驳常常针对的是稍有偏差的对象。"
+    },
+    {
+      "original": "More often than not, two people arguing passionately about something are actually arguing about two different things. Sometimes they even agree with one another, but are so caught up in their squabble they don't realize it.There could be a legitimate reason for arguing against something slightly different from what the original author said: when you feel they missed the heart of the matter.",
+      "translated": "很多时候，两个人激烈地争论某件事时，实际上是在争论两件不同的事情。有时他们甚至彼此同意，但由于争执不休而没有意识到这一点。对某人所说的稍微不同的事情进行争论可能有正当的理由：当你觉得他们没有抓住问题的核心时。"
+    },
+    {
+      "original": "But when you do that, you should say explicitly you're doing it.DH5. Refutation.The most convincing form of disagreement is refutation. It's also the rarest, because it's the most work. Indeed, the disagreement hierarchy forms a kind of pyramid, in the sense that the higher you go the fewer instances you find.To refute someone you probably have to quote them.",
+      "translated": "但当你这样做时，你应该明确地说你在这样做。DH5. 反驳。最令人信服的反对形式是反驳。这也是最罕见的形式，因为它需要最多的工作。事实上，反对的层次形成了一种金字塔结构，层次越高，实例越少。要反驳某人，你可能需要引用他们的话。"
+    },
+    {
+      "original": "You have to find a \"smoking gun,\" a passage in whatever you disagree with that you feel is mistaken, and then explain why it's mistaken. If you can't find an actual quote to disagree with, you may be arguing with a straw man.While refutation generally entails quoting, quoting doesn't necessarily imply refutation.",
+      "translated": "你必须找到一个“实锤”，即在你不同意的内容中找到一处你认为是错误的段落，然后解释为什么它是错误的。如果你找不到具体可反驳的引文，那你可能是在与一个稻草人争论。虽然反驳通常涉及引用，但引用并不一定意味着反驳。"
+    },
+    {
+      "original": "Some writers quote parts of things they disagree with to give the appearance of legitimate refutation, then follow with a response as low as DH3 or even DH0.DH6. Refuting the Central Point.The force of a refutation depends on what you refute.",
+      "translated": "一些作者引用他们不同意的观点的部分内容，以制造出正当反驳的表象，然后跟着给出的回应却低至DH3甚至DH0。DH6。反驳核心观点。反驳的力量取决于你所反驳的内容。"
+    },
+    {
+      "original": "The most powerful form of disagreement is to refute someone's central point.Even as high as DH5 we still sometimes see deliberate dishonesty, as when someone picks out minor points of an argument and refutes those.",
+      "translated": "最有力的反对形式是驳斥对方的核心观点。即使在DH5这样高的水平上，我们有时仍会看到故意的不诚实，比如有人挑出论点中的小问题进行反驳。"
+    },
+    {
+      "original": "Sometimes the spirit in which this is done makes it more of a sophisticated form of ad hominem than actual refutation. For example, correcting someone's grammar, or harping on minor mistakes in names or numbers.",
+      "translated": "有时候，这种做法的态度使其更像是高明的人身攻击，而非真正的驳斥。例如，纠正某人的语法错误，或者对名字或数字中的小错误大做文章。"
+    },
+    {
+      "original": "Unless the opposing argument actually depends on such things, the only purpose of correcting them is to discredit one's opponent.Truly refuting something requires one to refute its central point, or at least one of them.",
+      "translated": "除非反对意见确实依赖于这些内容，否则纠正它们的唯一目的就是诋毁对方。真正驳斥某观点，需要驳斥其核心论点，或者至少驳斥其中一个。"
+    },
+    {
+      "original": "And that means one has to commit explicitly to what the central point is. So a truly effective refutation would look like: The author's main point seems to be x. As he says: <quotation> But this is wrong for the following reasons...",
+      "translated": "这意味着必须明确地指出中心论点是什么。因此，一个真正有效的反驳应该是这样的：作者的中心观点似乎是x。正如他所说：<引文> 但这出于以下原因不成立……"
+    },
+    {
+      "original": "The quotation you point out as mistaken need not be the actual statement of the author's main point. It's enough to refute something it depends upon. What It MeansNow we have a way of classifying forms of disagreement.",
+      "translated": "你指出的错误引用不一定是作者主要观点的直接陈述。只要反驳它所依赖的某一点就足够了。这意味着我们现在有一种方法可以对不同意的形式进行分类。"
+    },
+    {
+      "original": "What good is it? One thing the disagreement hierarchy doesn't give us is a way of picking a winner. DH levels merely describe the form of a statement, not whether it's correct. A DH6 response could still be completely mistaken.But while DH levels don't set a lower bound on the convincingness of a reply, they do set an upper bound.",
+      "translated": "有什么好处？分歧层次结构并不能给我们提供一种选择胜者的方法。DH层次仅仅描述了一种陈述的形式，而不是其正确性。一个DH6的回应仍然可能是完全错误的。但是，虽然DH层次不能设定回应的最低说服力，它们确实设定了一个上限。"
+    },
+    {
+      "original": "A DH6 response might be unconvincing, but a DH2 or lower response is always unconvincing.The most obvious advantage of classifying the forms of disagreement is that it will help people to evaluate what they read.",
+      "translated": "DH6的回应可能不太令人信服，但DH2或更低级别的回应则总是不令人信服。对分歧形式进行分类的最明显优势在于，它将帮助人们评估他们所读的内容。"
+    },
+    {
+      "original": "In particular, it will help them to see through intellectually dishonest arguments. An eloquent speaker or writer can give the impression of vanquishing an opponent merely by using forceful words. In fact that is probably the defining quality of a demagogue.",
+      "translated": "特别是，这将帮助他们识破那些在智识上不诚实的论点。一位雄辩的演讲者或作家可能会仅仅通过使用强有力的言辞，就给人以击败对手的印象。事实上，这可能就是煽动者的定义特质。"
+    },
+    {
+      "original": "By giving names to the different forms of disagreement, we give critical readers a pin for popping such balloons.Such labels may help writers too. Most intellectual dishonesty is unintentional. Someone arguing against the tone of something he disagrees with may believe he's really saying something.",
+      "translated": "通过给不同形式的分歧命名，我们为批判性的读者提供了一种刺破这些气球的针。这样的标签也可能帮助作者。大多数的智力不诚实都是无意的。某人如果在争论他不同意的东西的语气，他可能真的认为自己在说出某些有意义的内容。"
+    },
+    {
+      "original": "Zooming out and seeing his current position on the disagreement hierarchy may inspire him to try moving up to counterargument or refutation.But the greatest benefit of disagreeing well is not just that it will make conversations better, but that it will make the people who have them happier.",
+      "translated": "放大视角，看看自己目前在分歧层级中的位置，可能会激发他尝试向上移动到反驳或驳斥。但良好的分歧所带来的最大好处不仅在于它能让对话更好，还在于它能让参与对话的人更快乐。"
+    },
+    {
+      "original": "If you study conversations, you find there is a lot more meanness down in DH1 than up in DH6. You don't have to be mean when you have a real point to make. In fact, you don't want to. If you have something real to say, being mean just gets in the way.If moving up the disagreement hierarchy makes people less mean, that will make most of them happier.",
+      "translated": "如果你研究对话，你会发现DH1层次中的恶意比DH6层次中多得多。当你有真正的观点时，不必表现出恶意。事实上，你不应该这样做。如果你有实质性的话要说，恶意只会成为障碍。如果沿着分歧层次上升能让人减少恶意，那么这会使大多数人更快乐。"
+    },
+    {
+      "original": "Most people don't really enjoy being mean; they do it because they can't help it. Thanks to Trevor Blackwell and Jessica Livingston for reading drafts of this.Related:What You Can't SayThe Age of the EssayItalian TranslationRussian TranslationSwedish TranslationSpanish TranslationGerman TranslationFrench TranslationArabic TranslationFinnish TranslationItalian TranslationTurkish Translation",
+      "translated": "大多数人其实并不喜欢刻薄；他们这样做是因为无法控制。感谢特雷弗·布莱克威尔和杰西卡·利文斯顿审阅了本文的草稿。相关文章：你不能说的话文章的时代意大利语译文俄语译文瑞典语译文西班牙语译文德语译文法语译文阿拉伯语译文芬兰语译文意大利语译文土耳其语译文"
+    }
+  ],
+  "translation_completed": "2025-07-28T13:13:52.397564",
+  "translation_stats": {
+    "total_paragraphs": 33,
+    "success_count": 33,
+    "success_rate": "100.0%"
+  }
+}

@@ -1,0 +1,149 @@
+{
+  "title": "Could VC be a Casualty of the Recession?",
+  "title_zh": "[待翻译] Could VC be a Casualty of the Recession?",
+  "url": "https://www.paulgraham.com/divergence.html",
+  "filename": "divergence.html",
+  "date": "2008-12-01",
+  "id": 162,
+  "content": {
+    "success": true,
+    "paragraphs": [
+      "December 2008(I originally wrote this at the request of a company producing a report about entrepreneurship. Unfortunately after reading it they decided it was too controversial to include.) VC funding will probably dry up somewhat during the present recession, like it usually does in bad times.",
+      "But this time the result may be different. This time the number of new startups may not decrease. And that could be dangerous for VCs.When VC funding dried up after the Internet Bubble, startups dried up too.",
+      "There were not a lot of new startups being founded in 2003. But startups aren't tied to VC the way they were 10 years ago. It's now possible for VCs and startups to diverge. And if they do, they may not reconverge once the economy gets better.The reason startups no longer depend so much on VCs is one that everyone in the startup business knows by now: it has gotten much cheaper to start a startup.",
+      "There are four main reasons: Moore's law has made hardware cheap; open source has made software free; the web has made marketing and distribution free; and more powerful programming languages mean development teams can be smaller.",
+      "These changes have pushed the cost of starting a startup down into the noise. In a lot of startups—probaby most startups funded by Y Combinator—the biggest expense is simply the founders' living expenses.",
+      "We've had startups that were profitable on revenues of $3000 a month.$3000 is insignificant as revenues go. Why should anyone care about a startup making $3000 a month? Because, although insignificant as revenue, this amount of money can change a startup's funding situation completely.Someone running a startup is always calculating in the back of their mind how much \"runway\" they have—how long they have till the money in the bank runs out and they either have to be profitable, raise more money, or go out of business.",
+      "Once you cross the threshold of profitability, however low, your runway becomes infinite. It's a qualitative change, like the stars turning into lines and disappearing when the Enterprise accelerates to warp speed.",
+      "Once you're profitable you don't need investors' money. And because Internet startups have become so cheap to run, the threshold of profitability can be trivially low. Which means many Internet startups don't need VC-scale investments anymore.",
+      "For many startups, VC funding has, in the language of VCs, gone from a must-have to a nice-to-have.This change happened while no one was looking, and its effects have been largely masked so far. It was during the trough after the Internet Bubble that it became trivially cheap to start a startup, but few realized it because startups were so out of fashion.",
+      "When startups came back into fashion, around 2005, investors were starting to write checks again. And while founders may not have needed VC money the way they used to, they were willing to take it if offered—partly because there was a tradition of startups taking VC money, and partly because startups, like dogs, tend to eat when given the opportunity.",
+      "As long as VCs were writing checks, founders were never forced to explore the limits of how little they needed them. There were a few startups who hit these limits accidentally because of their unusual circumstances—most famously 37signals, which hit the limit because they crossed into startup land from the other direction: they started as a consulting firm, so they had revenue before they had a product.VCs and founders are like two components that used to be bolted together.",
+      "Around 2000 the bolt was removed. Because the components have so far been subjected to the same forces, they still seem to be joined together, but really one is just resting on the other. A sharp impact would make them fly apart.",
+      "And the present recession could be that impact.Because of Y Combinator's position at the extreme end of the spectrum, we'd be the first to see signs of a separation between founders and investors, and we are in fact seeing it.",
+      "For example, though the stock market crash does seem to have made investors more cautious, it doesn't seem to have had any effect on the number of people who want to start startups. We take applications for funding every 6 months.",
+      "Applications for the current funding cycle closed on October 17, well after the markets tanked, and even so we got a record number, up 40% from the same cycle a year before.Maybe things will be different a year from now, if the economy continues to get worse, but so far there is zero slackening of interest among potential founders.",
+      "That's different from the way things felt in 2001. Then there was a widespread feeling among potential founders that startups were over, and that one should just go to grad school. That isn't happening this time, and part of the reason is that even in a bad economy it's not that hard to build something that makes $3000 a month.",
+      "If investors stop writing checks, who cares?We also see signs of a divergence between founders and investors in the attitudes of existing startups we've funded. I was talking to one recently that had a round fall through at the last minute over the sort of trifle that breaks deals when investors feel they have the upper hand—over an uncertainty about whether the founders had correctly filed their 83(b) forms, if you can believe that.",
+      "And yet this startup is obviously going to succeed: their traffic and revenue graphs look like a jet taking off. So I asked them if they wanted me to introduce them to more investors. To my surprise, they said no—that they'd just spent four months dealing with investors, and they were actually a lot happier now that they didn't have to.",
+      "There was a friend they wanted to hire with the investor money, and now they'd have to postpone that. But otherwise they felt they had enough in the bank to make it to profitability. To make sure, they were moving to a cheaper apartment.",
+      "And in this economy I bet they got a good deal on it.I've detected this \"investors aren't worth the trouble\" vibe from several YC founders I've talked to recently. At least one startup from the most recent (summer) cycle may not even raise angel money, let alone VC.",
+      "Ticketstumbler made it to profitability on Y Combinator's $15,000 investment and they hope not to need more. This surprised even us. Although YC is based on the idea of it being cheap to start a startup, we never anticipated that founders would grow successful startups on nothing more than YC funding.If founders decide VCs aren't worth the trouble, that could be bad for VCs.",
+      "When the economy bounces back in a few years and they're ready to write checks again, they may find that founders have moved on.There is a founder community just as there's a VC community. They all know one another, and techniques spread rapidly between them.",
+      "If one tries a new programming language or a new hosting provider and gets good results, 6 months later half of them are using it. And the same is true for funding. The current generation of founders want to raise money from VCs, and Sequoia specifically, because Larry and Sergey took money from VCs, and Sequoia specifically.",
+      "Imagine what it would do to the VC business if the next hot company didn't take VC at all.VCs think they're playing a zero sum game. In fact, it's not even that. If you lose a deal to Benchmark, you lose that deal, but VC as an industry still wins.",
+      "If you lose a deal to None, all VCs lose.This recession may be different from the one after the Internet Bubble. This time founders may keep starting startups. And if they do, VCs will have to keep writing checks, or they could become irrelevant.Thanks to Sam Altman, Trevor Blackwell, David Hornik, Jessica Livingston, Robert Morris, and Fred Wilson for reading drafts of this.Russian Translation"
+    ],
+    "word_count": 1334,
+    "paragraph_count": 25
+  },
+  "processed_at": "2025-07-26T19:06:39.842325",
+  "paragraphs": [
+    {
+      "original": "December 2008(I originally wrote this at the request of a company producing a report about entrepreneurship. Unfortunately after reading it they decided it was too controversial to include.) VC funding will probably dry up somewhat during the present recession, like it usually does in bad times.",
+      "translated": "2008年12月（我最初应一家撰写关于企业家精神报告的公司之邀撰写了这篇文章。不幸的是，他们读过之后认为内容过于有争议，决定不将其包括在内。）在当前的经济衰退期间，风险投资可能会像往常在经济不景气时期那样减少。"
+    },
+    {
+      "original": "But this time the result may be different. This time the number of new startups may not decrease. And that could be dangerous for VCs.When VC funding dried up after the Internet Bubble, startups dried up too.",
+      "translated": "但这一次结果可能会不同。这一次，新创业公司的数量可能不会减少。而这对于风险投资公司来说可能是危险的。当互联网泡沫破裂后，风险投资枯竭，创业公司也随之减少。"
+    },
+    {
+      "original": "There were not a lot of new startups being founded in 2003. But startups aren't tied to VC the way they were 10 years ago. It's now possible for VCs and startups to diverge. And if they do, they may not reconverge once the economy gets better.The reason startups no longer depend so much on VCs is one that everyone in the startup business knows by now: it has gotten much cheaper to start a startup.",
+      "translated": "2003年并没有很多新的创业公司成立。但如今，创业公司对风险投资的依赖程度已不像十年前那么高。现在，风险投资和创业公司可以各自走自己的路。一旦它们分道扬镳，即使经济好转，也未必会重新聚合。创业公司不再那么依赖风险投资的原因，现在在创业圈内已经是众所周知：创立一家创业公司的成本已经大大降低。"
+    },
+    {
+      "original": "There are four main reasons: Moore's law has made hardware cheap; open source has made software free; the web has made marketing and distribution free; and more powerful programming languages mean development teams can be smaller.",
+      "translated": "有四个主要原因：摩尔定律使得硬件变得便宜；开源使得软件变得免费；网络使得营销和分发变得免费；更强大的编程语言意味着开发团队可以更小。"
+    },
+    {
+      "original": "These changes have pushed the cost of starting a startup down into the noise. In a lot of startups—probaby most startups funded by Y Combinator—the biggest expense is simply the founders' living expenses.",
+      "translated": "这些变化已经将创业的成本降低到了可以忽略不计的程度。在很多初创公司——可能是大多数由Y Combinator资助的公司——最大的开支仅仅是创始人的生活费用。"
+    },
+    {
+      "original": "We've had startups that were profitable on revenues of $3000 a month.$3000 is insignificant as revenues go. Why should anyone care about a startup making $3000 a month? Because, although insignificant as revenue, this amount of money can change a startup's funding situation completely.Someone running a startup is always calculating in the back of their mind how much \"runway\" they have—how long they have till the money in the bank runs out and they either have to be profitable, raise more money, or go out of business.",
+      "translated": "我们见过一些创业公司，每月收入3000美元就已经实现盈利。3000美元作为收入来说是微不足道的。为什么有人会关心一家每月赚3000美元的创业公司呢？因为，尽管作为收入来说微不足道，但这笔钱可以彻底改变一家初创公司的融资状况。创业公司的创始人总是会在心里盘算他们的“资金跑道”有多长——也就是说，银行里的钱还能维持多久，直到他们必须盈利、筹集更多资金或停止运营。"
+    },
+    {
+      "original": "Once you cross the threshold of profitability, however low, your runway becomes infinite. It's a qualitative change, like the stars turning into lines and disappearing when the Enterprise accelerates to warp speed.",
+      "translated": "一旦你跨越了盈利的门槛，无论这个门槛有多低，你的跑道就会变得无限长。这是一次质的变化，就像企业号加速到曲速时，星星变成线条并消失一样。"
+    },
+    {
+      "original": "Once you're profitable you don't need investors' money. And because Internet startups have become so cheap to run, the threshold of profitability can be trivially low. Which means many Internet startups don't need VC-scale investments anymore.",
+      "translated": "一旦你开始盈利，就不需要投资者的资金了。由于互联网创业公司的运营成本变得如此低廉，盈利的门槛可以低到微不足道。这意味着许多互联网创业公司不再需要风险投资规模的资金了。"
+    },
+    {
+      "original": "For many startups, VC funding has, in the language of VCs, gone from a must-have to a nice-to-have.This change happened while no one was looking, and its effects have been largely masked so far. It was during the trough after the Internet Bubble that it became trivially cheap to start a startup, but few realized it because startups were so out of fashion.",
+      "translated": "对许多初创公司而言，风险投资资金已经从“必不可少”变成了“锦上添花”。这种变化在大家不经意间悄然发生，其影响至今在很大程度上被掩盖。正是在互联网泡沫破裂后的低谷期，启动一家初创公司的成本变得微不足道，但由于初创公司当时已不再流行，很少有人意识到这一点。"
+    },
+    {
+      "original": "When startups came back into fashion, around 2005, investors were starting to write checks again. And while founders may not have needed VC money the way they used to, they were willing to take it if offered—partly because there was a tradition of startups taking VC money, and partly because startups, like dogs, tend to eat when given the opportunity.",
+      "translated": "当创业公司再次流行起来，大约在2005年左右，投资者开始重新开出支票。尽管创始人可能不再像以前那样需要风险投资的资金，但如果有机会，他们也愿意接受——部分原因是创业公司有一个接受风险投资的传统，部分原因在于创业公司，像狗一样，有机会时就会吃。"
+    },
+    {
+      "original": "As long as VCs were writing checks, founders were never forced to explore the limits of how little they needed them. There were a few startups who hit these limits accidentally because of their unusual circumstances—most famously 37signals, which hit the limit because they crossed into startup land from the other direction: they started as a consulting firm, so they had revenue before they had a product.VCs and founders are like two components that used to be bolted together.",
+      "translated": "只要风险投资人在写支票，创始人们就从未被迫去探索他们对资金需求的最低限度。有一些初创公司因为特殊的情况偶然触及了这个限度——最著名的是37signals，他们之所以触及这个限度是因为他们从另一个方向进入了初创公司领域：他们最初是一家咨询公司，所以在拥有产品之前就已经有了收入。风险投资人和创始人就像是两个曾经紧密连接的部件。"
+    },
+    {
+      "original": "Around 2000 the bolt was removed. Because the components have so far been subjected to the same forces, they still seem to be joined together, but really one is just resting on the other. A sharp impact would make them fly apart.",
+      "translated": "大约在2000年，螺栓被拆除了。由于这些部件至今仍受到相同的力的作用，它们看起来仍然连接在一起，但实际上一个只是放在另一个上面。一旦受到剧烈冲击，它们就会飞散开来。"
+    },
+    {
+      "original": "And the present recession could be that impact.Because of Y Combinator's position at the extreme end of the spectrum, we'd be the first to see signs of a separation between founders and investors, and we are in fact seeing it.",
+      "translated": "当前的经济衰退可能就是这种影响。由于 Y Combinator 处于这一谱系的极端位置，我们会最先看到创始人与投资者之间出现分歧的迹象，事实上，我们确实看到了这种迹象。"
+    },
+    {
+      "original": "For example, though the stock market crash does seem to have made investors more cautious, it doesn't seem to have had any effect on the number of people who want to start startups. We take applications for funding every 6 months.",
+      "translated": "例如，尽管股市崩盘似乎让投资者变得更加谨慎，但这似乎并没有影响到想要创业的人数。我们每6个月接收一次融资申请。"
+    },
+    {
+      "original": "Applications for the current funding cycle closed on October 17, well after the markets tanked, and even so we got a record number, up 40% from the same cycle a year before.Maybe things will be different a year from now, if the economy continues to get worse, but so far there is zero slackening of interest among potential founders.",
+      "translated": "当前资助周期的申请已于10月17日截止，这比市场崩盘晚了很多，即便如此，我们收到的申请数量创下了历史新高，比去年同期增长了40%。也许一年后情况会有所不同，如果经济继续恶化的话，但到目前为止，潜在创始人之间的兴趣丝毫没有减弱。"
+    },
+    {
+      "original": "That's different from the way things felt in 2001. Then there was a widespread feeling among potential founders that startups were over, and that one should just go to grad school. That isn't happening this time, and part of the reason is that even in a bad economy it's not that hard to build something that makes $3000 a month.",
+      "translated": "这与2001年的情况大不相同。那时，潜在的创业者普遍感到创业时代已经结束，应该去读研究生。而这次情况不同，部分原因是即使在经济不景气的时候，创建一个月收入3000美元的项目也并不难。"
+    },
+    {
+      "original": "If investors stop writing checks, who cares?We also see signs of a divergence between founders and investors in the attitudes of existing startups we've funded. I was talking to one recently that had a round fall through at the last minute over the sort of trifle that breaks deals when investors feel they have the upper hand—over an uncertainty about whether the founders had correctly filed their 83(b) forms, if you can believe that.",
+      "translated": "如果投资者停止投资，谁会在乎？我们还注意到，在我们资助的现有初创企业中，创始人和投资者的态度出现了分歧。最近我与其中一家进行交谈时，他们的融资轮在最后一刻因一些微不足道的问题而破裂，这通常发生在投资者觉得他们处于优势地位时——问题是关于创始人是否正确提交了83(b)表格，你恐怕难以置信。"
+    },
+    {
+      "original": "And yet this startup is obviously going to succeed: their traffic and revenue graphs look like a jet taking off. So I asked them if they wanted me to introduce them to more investors. To my surprise, they said no—that they'd just spent four months dealing with investors, and they were actually a lot happier now that they didn't have to.",
+      "translated": "然而，这家初创公司显然将会成功：他们的流量和收入图表看起来像一架正在起飞的喷气式飞机。所以我问他们是否希望我介绍更多的投资者给他们。令我惊讶的是，他们说不——他们刚刚花了四个月的时间与投资者打交道，现在他们反而因为不需要再这样做而感到更快乐。"
+    },
+    {
+      "original": "There was a friend they wanted to hire with the investor money, and now they'd have to postpone that. But otherwise they felt they had enough in the bank to make it to profitability. To make sure, they were moving to a cheaper apartment.",
+      "translated": "他们本想用投资人的钱聘请一位朋友，现在不得不推迟这个计划。不过，他们觉得银行里的资金足够支撑到实现盈利。为了确保这一点，他们搬到了一个更便宜的公寓。"
+    },
+    {
+      "original": "And in this economy I bet they got a good deal on it.I've detected this \"investors aren't worth the trouble\" vibe from several YC founders I've talked to recently. At least one startup from the most recent (summer) cycle may not even raise angel money, let alone VC.",
+      "translated": "在这个经济环境下，我敢打赌他们肯定是以一个好价钱拿到的。最近我和几位YC的创始人交谈时，都感觉到了他们认为“投资者根本不值得麻烦”的氛围。至少有一家来自最近（夏季）周期的初创公司可能连天使资金都筹集不到，更不用说风投了。"
+    },
+    {
+      "original": "Ticketstumbler made it to profitability on Y Combinator's $15,000 investment and they hope not to need more. This surprised even us. Although YC is based on the idea of it being cheap to start a startup, we never anticipated that founders would grow successful startups on nothing more than YC funding.If founders decide VCs aren't worth the trouble, that could be bad for VCs.",
+      "translated": "Ticketstumbler 凭借 Y Combinator 的 15,000 美元投资实现了盈利，他们希望不再需要更多资金。这甚至让我们感到惊讶。尽管 YC 的理念是创业成本低廉，但我们从未预料到创始人仅靠 YC 的资金就能发展壮大。如果创始人认为风险投资不值得麻烦，这对风险投资界来说可能是个坏消息。"
+    },
+    {
+      "original": "When the economy bounces back in a few years and they're ready to write checks again, they may find that founders have moved on.There is a founder community just as there's a VC community. They all know one another, and techniques spread rapidly between them.",
+      "translated": "当经济在几年后回暖，他们准备再次投资时，可能会发现创始人已经转投其他领域。创始人之间也有一个像风险投资界那样的社区。他们彼此都很熟悉，技巧和经验在他们之间传播得非常迅速。"
+    },
+    {
+      "original": "If one tries a new programming language or a new hosting provider and gets good results, 6 months later half of them are using it. And the same is true for funding. The current generation of founders want to raise money from VCs, and Sequoia specifically, because Larry and Sergey took money from VCs, and Sequoia specifically.",
+      "translated": "如果有人尝试了一种新的编程语言或新的托管服务提供商并取得了良好的效果，六个月后，有一半的人会在使用它。同样的道理也适用于融资。现在这一代的创业者希望从风险投资公司，特别是红杉资本，那里筹集资金，因为拉里和谢尔盖也是从风险投资公司，特别是红杉资本，那里获得了资金。"
+    },
+    {
+      "original": "Imagine what it would do to the VC business if the next hot company didn't take VC at all.VCs think they're playing a zero sum game. In fact, it's not even that. If you lose a deal to Benchmark, you lose that deal, but VC as an industry still wins.",
+      "translated": "想象一下，如果下一个热门公司根本不接受风险投资，这将对风险投资行业产生什么影响。风险投资家认为他们玩的是零和游戏。实际上，情况甚至并非如此。如果你在一个交易中输给了Benchmark，你确实失去了那个交易，但风险投资行业整体上仍然在赢。"
+    },
+    {
+      "original": "If you lose a deal to None, all VCs lose.This recession may be different from the one after the Internet Bubble. This time founders may keep starting startups. And if they do, VCs will have to keep writing checks, or they could become irrelevant.Thanks to Sam Altman, Trevor Blackwell, David Hornik, Jessica Livingston, Robert Morris, and Fred Wilson for reading drafts of this.Russian Translation",
+      "translated": "如果你把生意丢给了None，所有的风险投资人都会输。这次的经济衰退可能与互联网泡沫后的那次不同。这次，创业者们可能会继续创办初创公司。如果他们这样做，风险投资人就必须继续投资，否则他们可能会变得无关紧要。感谢Sam Altman、Trevor Blackwell、David Hornik、Jessica Livingston、Robert Morris和Fred Wilson阅读本文的草稿。俄语翻译"
+    }
+  ],
+  "translation_completed": "2025-07-27T15:06:24.954864",
+  "translation_stats": {
+    "total_paragraphs": 25,
+    "success_count": 25,
+    "success_rate": "100.0%"
+  }
+}

@@ -1,0 +1,84 @@
+{
+  "title": "High Resolution Fundraising",
+  "title_zh": "[待翻译] High Resolution Fundraising",
+  "url": "https://www.paulgraham.com/hiresfund.html",
+  "filename": "hiresfund.html",
+  "date": "2010-09-01",
+  "id": 143,
+  "content": {
+    "success": true,
+    "paragraphs": [
+      "Want to start a startup? Get funded by Y Combinator. September 2010The reason startups have been using more convertible notes in angel rounds is that they make deals close faster. By making it easier for startups to give different prices to different investors, they help them break the sort of deadlock that happens when investors all wait to see who else is going to invest.By far the biggest influence on investors' opinions of a startup is the opinion of other investors.",
+      "There are very, very few who simply decide for themselves. Any startup founder can tell you the most common question they hear from investors is not about the founders or the product, but \"who else is investing?\"That tends to produce deadlocks.",
+      "Raising an old-fashioned fixed-size equity round can take weeks, because all the angels sit around waiting for the others to commit, like competitors in a bicycle sprint who deliberately ride slowly at the start so they can follow whoever breaks first.Convertible notes let startups beat such deadlocks by rewarding investors willing to move first with lower (effective) valuations.",
+      "Which they deserve because they're taking more risk. It's much safer to invest in a startup Ron Conway has already invested in; someone who comes after him should pay a higher price.The reason convertible notes allow more flexibility in price is that valuation caps aren't actual valuations, and notes are cheap and easy to do.",
+      "So you can do high-resolution fundraising: if you wanted you could have a separate note with a different cap for each investor.That cap need not simply rise monotonically. A startup could also give better deals to investors they expected to help them most.",
+      "The point is simply that different investors, whether because of the help they offer or their willingness to commit, have different values for startups, and their terms should reflect that.Different terms for different investors is clearly the way of the future.",
+      "Markets always evolve toward higher resolution. You may not need to use convertible notes to do it. With sufficiently lightweight standardized equity terms (and some changes in investors' and lawyers' expectations about equity rounds) you might be able to do the same thing with equity instead of debt.",
+      "Either would be fine with startups, so long as they can easily change their valuation.Deadlocks weren't the only problem with fixed-size equity rounds. Another was that startups had to decide in advance how much to raise.",
+      "I think it's a mistake for a startup to fix upon a specific number. If investors are easily convinced, the startup should raise more now, and if investors are skeptical, the startup should take a smaller amount and use that to get the company to the point where it's more convincing.It's just not reasonable to expect startups to pick an optimal round size in advance, because that depends on the reactions of investors, and those are impossible to predict.Fixed-size, multi-investor angel rounds are such a bad idea for startups that one wonders why things were ever done that way.",
+      "One possibility is that this custom reflects the way investors like to collude when they can get away with it. But I think the actual explanation is less sinister. I think angels (and their lawyers) organized rounds this way in unthinking imitation of VC series A rounds.",
+      "In a series A, a fixed-size equity round with a lead makes sense, because there is usually just one big investor, who is unequivocally the lead. Fixed-size series A rounds already are high res. But the more investors you have in a round, the less sense it makes for everyone to get the same price.The most interesting question here may be what high res fundraising will do to the world of investors.",
+      "Bolder investors will now get rewarded with lower prices. But more important, in a hits-driven business, is that they'll be able to get into the deals they want. Whereas the \"who else is investing?\" type of investors will not only pay higher prices, but may not be able to get into the best deals at all.Thanks to Immad Akhund, Sam Altman, John Bautista, Pete Koomen, Jessica Livingston, Dan Siroker, Harj Taggar, and Fred Wilson for reading drafts of this."
+    ],
+    "word_count": 700,
+    "paragraph_count": 12
+  },
+  "processed_at": "2025-07-26T19:06:04.011543",
+  "paragraphs": [
+    {
+      "original": "Want to start a startup? Get funded by Y Combinator. September 2010The reason startups have been using more convertible notes in angel rounds is that they make deals close faster. By making it easier for startups to give different prices to different investors, they help them break the sort of deadlock that happens when investors all wait to see who else is going to invest.By far the biggest influence on investors' opinions of a startup is the opinion of other investors.",
+      "translated": "想创业吗？获得Y Combinator的投资吧。2010年9月\n\n创业公司越来越多地在天使轮融资中使用可转换债券的原因是，这可以使交易更快完成。通过使创业公司更容易向不同的投资者提供不同的价格，它们有助于打破那种所有投资者都在等待看谁会投资的僵局。对创业公司的看法受其他投资者意见的影响最大。"
+    },
+    {
+      "original": "There are very, very few who simply decide for themselves. Any startup founder can tell you the most common question they hear from investors is not about the founders or the product, but \"who else is investing?\"That tends to produce deadlocks.",
+      "translated": "很少有人能够完全自主地做出决定。任何初创公司的创始人告诉你，他们从投资者那里听到的最常见问题不是关于创始人或产品的，而是“还有谁在投资？”这往往会形成僵局。"
+    },
+    {
+      "original": "Raising an old-fashioned fixed-size equity round can take weeks, because all the angels sit around waiting for the others to commit, like competitors in a bicycle sprint who deliberately ride slowly at the start so they can follow whoever breaks first.Convertible notes let startups beat such deadlocks by rewarding investors willing to move first with lower (effective) valuations.",
+      "translated": "筹集传统的固定规模股权融资可能需要数周时间，因为所有的天使投资者都会互相等待对方先承诺投资，就像自行车冲刺比赛中的选手故意在开始时慢骑，以便跟随最先加速的人。可转换债券使初创公司能够通过给予愿意率先行动的投资者更低（实际）估值来打破这种僵局。"
+    },
+    {
+      "original": "Which they deserve because they're taking more risk. It's much safer to invest in a startup Ron Conway has already invested in; someone who comes after him should pay a higher price.The reason convertible notes allow more flexibility in price is that valuation caps aren't actual valuations, and notes are cheap and easy to do.",
+      "translated": "他们应得的，因为他们承担了更多的风险。投资罗恩·康威已经投资的初创公司要安全得多；在他之后跟进的人应该支付更高的价格。可转换债券允许价格更灵活的原因在于，估值上限并不是实际估值，而且债券的成本低且易于操作。"
+    },
+    {
+      "original": "So you can do high-resolution fundraising: if you wanted you could have a separate note with a different cap for each investor.That cap need not simply rise monotonically. A startup could also give better deals to investors they expected to help them most.",
+      "translated": "因此，你可以进行高精度融资：如果需要，你可以为每个投资者设定一个不同的投资额度。这个额度不必简单地单调上升。创业公司也可以为那些预期会给予最大帮助的投资者提供更优惠的条件。"
+    },
+    {
+      "original": "The point is simply that different investors, whether because of the help they offer or their willingness to commit, have different values for startups, and their terms should reflect that.Different terms for different investors is clearly the way of the future.",
+      "translated": "关键在于，不同的投资者，无论是因为他们提供的帮助还是他们愿意投入的程度，对初创企业都有不同的价值，因此他们的条款应该体现这一点。对不同的投资者采用不同的条款显然是未来的发展方向。"
+    },
+    {
+      "original": "Markets always evolve toward higher resolution. You may not need to use convertible notes to do it. With sufficiently lightweight standardized equity terms (and some changes in investors' and lawyers' expectations about equity rounds) you might be able to do the same thing with equity instead of debt.",
+      "translated": "市场总是朝着更高的分辨率发展。你可能不需要使用可转换债券来实现这一点。通过足够轻量化的标准化股权条款（以及投资者和律师对股权融资的一些预期变化），你或许可以用股权而不是债务来达到同样的目的。"
+    },
+    {
+      "original": "Either would be fine with startups, so long as they can easily change their valuation.Deadlocks weren't the only problem with fixed-size equity rounds. Another was that startups had to decide in advance how much to raise.",
+      "translated": "两种方式对初创企业来说都可以接受，只要它们能够轻松调整估值即可。固定规模股权融资的死锁问题并非唯一困扰，另一个问题是初创企业必须提前决定要筹集多少资金。"
+    },
+    {
+      "original": "I think it's a mistake for a startup to fix upon a specific number. If investors are easily convinced, the startup should raise more now, and if investors are skeptical, the startup should take a smaller amount and use that to get the company to the point where it's more convincing.It's just not reasonable to expect startups to pick an optimal round size in advance, because that depends on the reactions of investors, and those are impossible to predict.Fixed-size, multi-investor angel rounds are such a bad idea for startups that one wonders why things were ever done that way.",
+      "translated": "我认为创业公司不应该固守一个特定的数字。如果投资者很容易被说服，创业公司应该现在多筹集一些资金；如果投资者持怀疑态度，创业公司应该筹集较少的资金，并利用这笔资金使公司发展到更有说服力的阶段。要求创业公司在事前确定一个最佳的融资规模是不合理的，因为这取决于投资者的反应，而这些反应是不可能预测的。固定规模、多位投资者参与的天使轮融资对创业公司来说是一个如此糟糕的主意，以至于让人不禁要问，为什么曾经会这样做。"
+    },
+    {
+      "original": "One possibility is that this custom reflects the way investors like to collude when they can get away with it. But I think the actual explanation is less sinister. I think angels (and their lawyers) organized rounds this way in unthinking imitation of VC series A rounds.",
+      "translated": "一种可能是这种做法反映了投资者在可以逃避的情况下喜欢串通的行为。但我认为实际情况并没有那么险恶。我认为天使投资人（及其律师）这样组织融资轮次，只是无意识地模仿了风险投资的A轮融资。"
+    },
+    {
+      "original": "In a series A, a fixed-size equity round with a lead makes sense, because there is usually just one big investor, who is unequivocally the lead. Fixed-size series A rounds already are high res. But the more investors you have in a round, the less sense it makes for everyone to get the same price.The most interesting question here may be what high res fundraising will do to the world of investors.",
+      "translated": "在A轮融资中，有一个领投方的固定规模股权融资是合理的，因为通常只有一个主要投资者，且该投资者无疑是领投方。固定规模的A轮融资已经具有较高的灵活性。但是，融资轮次中的投资者越多，让所有人都获得相同价格的合理性就越低。这里最有趣的问题可能是，高灵活性的融资将如何影响投资者的世界。"
+    },
+    {
+      "original": "Bolder investors will now get rewarded with lower prices. But more important, in a hits-driven business, is that they'll be able to get into the deals they want. Whereas the \"who else is investing?\" type of investors will not only pay higher prices, but may not be able to get into the best deals at all.Thanks to Immad Akhund, Sam Altman, John Bautista, Pete Koomen, Jessica Livingston, Dan Siroker, Harj Taggar, and Fred Wilson for reading drafts of this.",
+      "translated": "更勇敢的投资者现在将以更低的价格获得回报。但更重要的是，在一个由“爆款”驱动的行业中，他们将能够参与他们想要的交易。而那些关注“还有谁在投资？”的投资者不仅会支付更高的价格，甚至可能根本无法参与最好的交易。感谢Immad Akhund、Sam Altman、John Bautista、Pete Koomen、Jessica Livingston、Dan Siroker、Harj Taggar和Fred Wilson审阅本文草稿。"
+    }
+  ],
+  "translation_completed": "2025-07-27T12:53:16.885312",
+  "translation_stats": {
+    "total_paragraphs": 12,
+    "success_count": 12,
+    "success_rate": "100.0%"
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "title": "Change Your Name",
+  "title_zh": "[待翻译] Change Your Name",
+  "url": "https://www.paulgraham.com/name.html",
+  "filename": "name.html",
+  "date": "2015-08-01",
+  "id": 117,
+  "content": {
+    "success": true,
+    "paragraphs": [
+      "August 2015If you have a US startup called X and you don't have x.com, you should probably change your name.The reason is not just that people can't find you. For companies with mobile apps, especially, having the right domain name is not as critical as it used to be for getting users.",
+      "The problem with not having the .com of your name is that it signals weakness. Unless you're so big that your reputation precedes you, a marginal domain suggests you're a marginal company. Whereas (as Stripe shows) having x.com signals strength even if it has no relation to what you do.Even good founders can be in denial about this.",
+      "Their denial derives from two very powerful forces: identity, and lack of imagination.X is what we are, founders think. There's no other name as good. Both of which are false.You can fix the first by stepping back from the problem.",
+      "Imagine you'd called your company something else. If you had, surely you'd be just as attached to that name as you are to your current one. The idea of switching to your current name would seem repellent.",
+      "[1]There's nothing intrinsically great about your current name. Nearly all your attachment to it comes from it being attached to you. [2]The way to neutralize the second source of denial, your inability to think of other potential names, is to acknowledge that you're bad at naming.",
+      "Naming is a completely separate skill from those you need to be a good founder. You can be a great startup founder but hopeless at thinking of names for your company.Once you acknowledge that, you stop believing there is nothing else you could be called.",
+      "There are lots of other potential names that are as good or better; you just can't think of them.How do you find them? One answer is the default way to solve problems you're bad at: find someone else who can think of names.",
+      "But with company names there is another possible approach. It turns out almost any word or word pair that is not an obviously bad name is a sufficiently good one, and the number of such domains is so large that you can find plenty that are cheap or even untaken.",
+      "So make a list and try to buy some. That's what Stripe did. (Their search also turned up parse.com, which their friends at Parse took.)The reason I know that naming companies is a distinct skill orthogonal to the others you need in a startup is that I happen to have it.",
+      "Back when I was running YC and did more office hours with startups, I would often help them find new names. 80% of the time we could find at least one good name in a 20 minute office hour slot.Now when I do office hours I have to focus on more important questions, like what the company is doing.",
+      "I tell them when they need to change their name. But I know the power of the forces that have them in their grip, so I know most won't listen. [3]There are of course examples of startups that have succeeded without having the .com of their name.",
+      "There are startups that have succeeded despite any number of different mistakes. But this mistake is less excusable than most. It's something that can be fixed in a couple days if you have sufficient discipline to acknowledge the problem.100% of the top 20 YC companies by valuation have the .com of their name.",
+      "94% of the top 50 do. But only 66% of companies in the current batch have the .com of their name. Which suggests there are lessons ahead for most of the rest, one way or another. Notes[1] Incidentally, this thought experiment works for nationality and religion too.[2] The liking you have for a name that has become part of your identity manifests itself not directly, which would be easy to discount, but as a collection of specious beliefs about its intrinsic qualities.",
+      "(This too is true of nationality and religion as well.)[3] Sometimes founders know it's a problem that they don't have the .com of their name, but delusion strikes a step later in the belief that they'll be able to buy it despite having no evidence it's for sale.",
+      "Don't believe a domain is for sale unless the owner has already told you an asking price. Thanks to Sam Altman, Jessica Livingston, and Geoff Ralston for reading drafts of this."
+    ],
+    "word_count": 742,
+    "paragraph_count": 15
+  },
+  "processed_at": "2025-07-26T19:05:11.002704",
+  "paragraphs": [
+    {
+      "original": "August 2015If you have a US startup called X and you don't have x.com, you should probably change your name.The reason is not just that people can't find you. For companies with mobile apps, especially, having the right domain name is not as critical as it used to be for getting users.",
+      "translated": "2015年8月如果你有一个叫做X的美国创业公司，而你没有x.com，你可能应该考虑改名。原因不仅在于人们找不到你。对于有移动应用的公司来说，拥有正确的域名对于吸引用户的重要性已经不像以前那么关键了。"
+    },
+    {
+      "original": "The problem with not having the .com of your name is that it signals weakness. Unless you're so big that your reputation precedes you, a marginal domain suggests you're a marginal company. Whereas (as Stripe shows) having x.com signals strength even if it has no relation to what you do.Even good founders can be in denial about this.",
+      "translated": "没有你的名字的.com域名的问题在于，这会显示出弱势。除非你的名气已经很大，否则一个次要的域名会让人认为你是一家次要的公司。而拥有x.com（即使它与你的业务无关）则像Stripe所展示的那样，会给人一种实力感。即使是一些优秀的创始人也可能对此视而不见。"
+    },
+    {
+      "original": "Their denial derives from two very powerful forces: identity, and lack of imagination.X is what we are, founders think. There's no other name as good. Both of which are false.You can fix the first by stepping back from the problem.",
+      "translated": "他们的否认源于两种非常强大的力量：身份认同和缺乏想象力。X就是我们，创始人们认为。没有其他名字比这更好。这两点都是错误的。你可以通过退一步看待问题来解决第一个问题。"
+    },
+    {
+      "original": "Imagine you'd called your company something else. If you had, surely you'd be just as attached to that name as you are to your current one. The idea of switching to your current name would seem repellent.",
+      "translated": "想象一下，如果你给公司起了另一个名字。如果你真的那样做了，你肯定会对那个名字像现在这个名字一样有感情。现在让你改用现在这个名字，你可能会觉得非常不情愿。"
+    },
+    {
+      "original": "[1]There's nothing intrinsically great about your current name. Nearly all your attachment to it comes from it being attached to you. [2]The way to neutralize the second source of denial, your inability to think of other potential names, is to acknowledge that you're bad at naming.",
+      "translated": "[1]你的现有名字本身并没有什么特别之处。你对它的大部分依恋只是因为它与你相连。[2]要消除第二个否认来源，即你无法想出其他可能的名字，办法是承认你并不擅长取名。"
+    },
+    {
+      "original": "Naming is a completely separate skill from those you need to be a good founder. You can be a great startup founder but hopeless at thinking of names for your company.Once you acknowledge that, you stop believing there is nothing else you could be called.",
+      "translated": "命名是一项完全不同于成为一名优秀创始人所需技能的技能。你可以是一名出色的企业家，但在为公司取名方面却一筹莫展。一旦你认识到这一点，就不会再固执地认为公司除了现有的名字外，没有其他更好的选择。"
+    },
+    {
+      "original": "There are lots of other potential names that are as good or better; you just can't think of them.How do you find them? One answer is the default way to solve problems you're bad at: find someone else who can think of names.",
+      "translated": "还有很多其他潜在的名字可能同样好或更好；你只是想不到而已。怎么找到它们呢？一个办法就是解决你不太擅长问题的默认方法：找一个能想出名字的人。"
+    },
+    {
+      "original": "But with company names there is another possible approach. It turns out almost any word or word pair that is not an obviously bad name is a sufficiently good one, and the number of such domains is so large that you can find plenty that are cheap or even untaken.",
+      "translated": "但对于公司名称，还有一种可能的方法。事实证明，几乎任何不是明显糟糕的单词或词组都是足够好的，而且这类域名的数量如此之多，以至于你可以找到许多便宜甚至无人使用的域名。"
+    },
+    {
+      "original": "So make a list and try to buy some. That's what Stripe did. (Their search also turned up parse.com, which their friends at Parse took.)The reason I know that naming companies is a distinct skill orthogonal to the others you need in a startup is that I happen to have it.",
+      "translated": "所以列出一个清单，然后试着买一些。Stripe就是这么做的。（他们的搜索还发现了parse.com，不过他们的朋友已经把Parse这个名字占用了。）我知道给公司起名是一项独立的技能，与其他创业所需技能正交，是因为我恰好具备这种能力。"
+    },
+    {
+      "original": "Back when I was running YC and did more office hours with startups, I would often help them find new names. 80% of the time we could find at least one good name in a 20 minute office hour slot.Now when I do office hours I have to focus on more important questions, like what the company is doing.",
+      "translated": "当我还在运营YC并为初创公司提供更多办公时间时，我经常帮助他们寻找新的名字。80%的情况下，我们能在20分钟的办公时间内找到至少一个好名字。现在当我提供办公时间时，我必须关注更重要的问题，比如公司正在做什么。"
+    },
+    {
+      "original": "I tell them when they need to change their name. But I know the power of the forces that have them in their grip, so I know most won't listen. [3]There are of course examples of startups that have succeeded without having the .com of their name.",
+      "translated": "我告诉他们什么时候需要改名。但我知道那些掌控他们的力量有多强大，所以我知道大多数人不会听从。当然，也有不使用.com域名仍获得成功的创业公司的例子。"
+    },
+    {
+      "original": "There are startups that have succeeded despite any number of different mistakes. But this mistake is less excusable than most. It's something that can be fixed in a couple days if you have sufficient discipline to acknowledge the problem.100% of the top 20 YC companies by valuation have the .com of their name.",
+      "translated": "有一些初创公司尽管犯了各种错误仍然取得了成功。但这个错误比大多数错误都更难以原谅。如果有足够的自律承认问题，这个错误可以在几天内得到解决。按估值排名前20的YC公司中，100%都拥有与公司名称对应的.com域名。"
+    },
+    {
+      "original": "94% of the top 50 do. But only 66% of companies in the current batch have the .com of their name. Which suggests there are lessons ahead for most of the rest, one way or another. Notes[1] Incidentally, this thought experiment works for nationality and religion too.[2] The liking you have for a name that has become part of your identity manifests itself not directly, which would be easy to discount, but as a collection of specious beliefs about its intrinsic qualities.",
+      "translated": "在排名前50的公司中，94%都这样做。但在当前这批公司中，只有66%的公司使用了自己名字的.com域名。这表明，对于大多数其他公司来说，无论以何种方式，都有需要吸取的教训。注[1] 顺便说一句，这个思想实验同样适用于国籍和宗教。[2] 你对自己身份的一部分——一个名字的喜爱，并不是直接表现出来的，那样很容易被忽视，而是以对其内在特质的一系列似是而非的信念形式表现出来。"
+    },
+    {
+      "original": "(This too is true of nationality and religion as well.)[3] Sometimes founders know it's a problem that they don't have the .com of their name, but delusion strikes a step later in the belief that they'll be able to buy it despite having no evidence it's for sale.",
+      "translated": "（这同样适用于国籍和宗教。）[3] 有时创始人知道他们没有自己名字的.com域名是一个问题，但随后他们会产生一种错觉，认为自己能够买到它，尽管没有任何证据表明这个域名在出售。"
+    },
+    {
+      "original": "Don't believe a domain is for sale unless the owner has already told you an asking price. Thanks to Sam Altman, Jessica Livingston, and Geoff Ralston for reading drafts of this.",
+      "translated": "除非域名所有者已经告知你他们要价多少，否则不要相信该域名在出售。感谢Sam Altman、Jessica Livingston和Geoff Ralston审阅本文草稿。"
+    }
+  ],
+  "translation_completed": "2025-07-28T13:51:17.865340",
+  "translation_stats": {
+    "total_paragraphs": 15,
+    "success_count": 15,
+    "success_rate": "100.0%"
+  }
+}

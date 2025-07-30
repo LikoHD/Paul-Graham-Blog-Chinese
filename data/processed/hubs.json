@@ -1,0 +1,194 @@
+{
+  "title": "Why Startup Hubs Work",
+  "title_zh": "[待翻译] Why Startup Hubs Work",
+  "url": "https://www.paulgraham.com/hubs.html",
+  "filename": "hubs.html",
+  "date": "2020-10-31",
+  "id": 70,
+  "content": {
+    "success": true,
+    "paragraphs": [
+      "Want to start a startup? Get funded by Y Combinator. October 2011If you look at a list of US cities sorted by population, the number of successful startups per capita varies by orders of magnitude. Somehow it's as if most places were sprayed with startupicide.I wondered about this for years.",
+      "I could see the average town was like a roach motel for startup ambitions: smart, ambitious people went in, but no startups came out. But I was never able to figure out exactly what happened inside the motel—exactly what was killing all the potential startups.",
+      "[1]A couple weeks ago I finally figured it out. I was framing the question wrong. The problem is not that most towns kill startups. It's that death is the default for startups, and most towns don't save them.",
+      "Instead of thinking of most places as being sprayed with startupicide, it's more accurate to think of startups as all being poisoned, and a few places being sprayed with the antidote.Startups in other places are just doing what startups naturally do: fail.",
+      "The real question is, what's saving startups in places like Silicon Valley? [2]EnvironmentI think there are two components to the antidote: being in a place where startups are the cool thing to do, and chance meetings with people who can help you.",
+      "And what drives them both is the number of startup people around you.The first component is particularly helpful in the first stage of a startup's life, when you go from merely having an interest in starting a company to actually doing it.",
+      "It's quite a leap to start a startup. It's an unusual thing to do. But in Silicon Valley it seems normal. [3]In most places, if you start a startup, people treat you as if you're unemployed. People in the Valley aren't automatically impressed with you just because you're starting a company, but they pay attention.",
+      "Anyone who's been here any amount of time knows not to default to skepticism, no matter how inexperienced you seem or how unpromising your idea sounds at first, because they've all seen inexperienced founders with unpromising sounding ideas who a few years later were billionaires.Having people around you care about what you're doing is an extraordinarily powerful force.",
+      "Even the most willful people are susceptible to it. About a year after we started Y Combinator I said something to a partner at a well known VC firm that gave him the (mistaken) impression I was considering starting another startup.",
+      "He responded so eagerly that for about half a second I found myself considering doing it.In most other cities, the prospect of starting a startup just doesn't seem real. In the Valley it's not only real but fashionable.",
+      "That no doubt causes a lot of people to start startups who shouldn't. But I think that's ok. Few people are suited to running a startup, and it's very hard to predict beforehand which are (as I know all too well from being in the business of trying to predict beforehand), so lots of people starting startups who shouldn't is probably the optimal state of affairs.",
+      "As long as you're at a point in your life when you can bear the risk of failure, the best way to find out if you're suited to running a startup is to try it.ChanceThe second component of the antidote is chance meetings with people who can help you.",
+      "This force works in both phases: both in the transition from the desire to start a startup to starting one, and the transition from starting a company to succeeding. The power of chance meetings is more variable than people around you caring about startups, which is like a sort of background radiation that affects everyone equally, but at its strongest it is far stronger.Chance meetings produce miracles to compensate for the disasters that characteristically befall startups.",
+      "In the Valley, terrible things happen to startups all the time, just like they do to startups everywhere. The reason startups are more likely to make it here is that great things happen to them too. In the Valley, lightning has a sign bit.For example, you start a site for college students and you decide to move to the Valley for the summer to work on it.",
+      "And then on a random suburban street in Palo Alto you happen to run into Sean Parker, who understands the domain really well because he started a similar startup himself, and also knows all the investors.",
+      "And moreover has advanced views, for 2004, on founders retaining control of their companies.You can't say precisely what the miracle will be, or even for sure that one will happen. The best one can say is: if you're in a startup hub, unexpected good things will probably happen to you, especially if you deserve them.I bet this is true even for startups we fund.",
+      "Even with us working to make things happen for them on purpose rather than by accident, the frequency of helpful chance meetings in the Valley is so high that it's still a significant increment on what we can deliver.Chance meetings play a role like the role relaxation plays in having ideas.",
+      "Most people have had the experience of working hard on some problem, not being able to solve it, giving up and going to bed, and then thinking of the answer in the shower in the morning. What makes the answer appear is letting your thoughts drift a bit—and thus drift off the wrong path you'd been pursuing last night and onto the right one adjacent to it.Chance meetings let your acquaintance drift in the same way taking a shower lets your thoughts drift.",
+      "The critical thing in both cases is that they drift just the right amount. The meeting between Larry Page and Sergey Brin was a good example. They let their acquaintance drift, but only a little; they were both meeting someone they had a lot in common with.For Larry Page the most important component of the antidote was Sergey Brin, and vice versa.",
+      "The antidote is people. It's not the physical infrastructure of Silicon Valley that makes it work, or the weather, or anything like that. Those helped get it started, but now that the reaction is self-sustaining what drives it is the people.Many observers have noticed that one of the most distinctive things about startup hubs is the degree to which people help one another out, with no expectation of getting anything in return.",
+      "I'm not sure why this is so. Perhaps it's because startups are less of a zero sum game than most types of business; they are rarely killed by competitors. Or perhaps it's because so many startup founders have backgrounds in the sciences, where collaboration is encouraged.A large part of YC's function is to accelerate that process.",
+      "We're a sort of Valley within the Valley, where the density of people working on startups and their willingness to help one another are both artificially amplified.NumbersBoth components of the antidote—an environment that encourages startups, and chance meetings with people who help you—are driven by the same underlying cause: the number of startup people around you.",
+      "To make a startup hub, you need a lot of people interested in startups.There are three reasons. The first, obviously, is that if you don't have enough density, the chance meetings don't happen. [4] The second is that different startups need such different things, so you need a lot of people to supply each startup with what they need most.",
+      "Sean Parker was exactly what Facebook needed in 2004. Another startup might have needed a database guy, or someone with connections in the movie business.This is one of the reasons we fund such a large number of companies, incidentally.",
+      "The bigger the community, the greater the chance it will contain the person who has that one thing you need most.The third reason you need a lot of people to make a startup hub is that once you have enough people interested in the same problem, they start to set the social norms.",
+      "And it is a particularly valuable thing when the atmosphere around you encourages you to do something that would otherwise seem too ambitious. In most places the atmosphere pulls you back toward the mean.I flew into the Bay Area a few days ago.",
+      "I notice this every time I fly over the Valley: somehow you can sense something is going on. Obviously you can sense prosperity in how well kept a place looks. But there are different kinds of prosperity.",
+      "Silicon Valley doesn't look like Boston, or New York, or LA, or DC. I tried asking myself what word I'd use to describe the feeling the Valley radiated, and the word that came to mind was optimism.Notes[1] I'm not saying it's impossible to succeed in a city with few other startups, just harder.",
+      "If you're sufficiently good at generating your own morale, you can survive without external encouragement. Wufoo was based in Tampa and they succeeded. But the Wufoos are exceptionally disciplined.[2] Incidentally, this phenomenon is not limited to startups.",
+      "Most unusual ambitions fail, unless the person who has them manages to find the right sort of community.[3] Starting a company is common, but starting a startup is rare. I've talked about the distinction between the two elsewhere, but essentially a startup is a new business designed for scale.",
+      "Most new businesses are service businesses and except in rare cases those don't scale.[4] As I was writing this, I had a demonstration of the density of startup people in the Valley. Jessica and I bicycled to University Ave in Palo Alto to have lunch at the fabulous Oren's Hummus.",
+      "As we walked in, we met Charlie Cheever sitting near the door. Selina Tobaccowala stopped to say hello on her way out. Then Josh Wilson came in to pick up a take out order. After lunch we went to get frozen yogurt.",
+      "On the way we met Rajat Suri. When we got to the yogurt place, we found Dave Shen there, and as we walked out we ran into Yuri Sagalov. We walked with him for a block or so and we ran into Muzzammil Zaveri, and then a block later we met Aydin Senkut.",
+      "This is everyday life in Palo Alto. I wasn't trying to meet people; I was just having lunch. And I'm sure for every startup founder or investor I saw that I knew, there were 5 more I didn't. If Ron Conway had been with us he would have met 30 people he knew.Thanks to Sam Altman, Paul Buchheit, Jessica Livingston, and Harj Taggar for reading drafts of this."
+    ],
+    "word_count": 1773,
+    "paragraph_count": 34
+  },
+  "processed_at": "2025-07-26T19:03:39.884623",
+  "paragraphs": [
+    {
+      "original": "Want to start a startup? Get funded by Y Combinator. October 2011If you look at a list of US cities sorted by population, the number of successful startups per capita varies by orders of magnitude. Somehow it's as if most places were sprayed with startupicide.I wondered about this for years.",
+      "translated": "想创业吗？获得Y Combinator的资助。2011年10月如果你查看按人口排序的美国城市列表，每 capita 成功的创业公司数量相差几个数量级。不知为何，大多数地方似乎被喷洒了“创业杀手”。这个问题困扰了我多年。"
+    },
+    {
+      "original": "I could see the average town was like a roach motel for startup ambitions: smart, ambitious people went in, but no startups came out. But I was never able to figure out exactly what happened inside the motel—exactly what was killing all the potential startups.",
+      "translated": "我可以看到，普通的小镇就像是初创梦想的蟑螂旅馆：聪明、有抱负的人进去了，但没有初创企业出来。但我始终没能弄清楚旅馆里到底发生了什么——究竟是什么扼杀了所有的潜在初创企业。"
+    },
+    {
+      "original": "[1]A couple weeks ago I finally figured it out. I was framing the question wrong. The problem is not that most towns kill startups. It's that death is the default for startups, and most towns don't save them.",
+      "translated": "几周前，我终于想明白了。我之前的问题在于提问的方式不对。问题不在于大多数城镇扼杀了初创企业，而在于死亡是初创企业的默认结局，而大多数城镇并没有挽救它们。"
+    },
+    {
+      "original": "Instead of thinking of most places as being sprayed with startupicide, it's more accurate to think of startups as all being poisoned, and a few places being sprayed with the antidote.Startups in other places are just doing what startups naturally do: fail.",
+      "translated": "与其认为大多数地方都被喷洒了创业毒药，不如说创业公司都是中毒的，而少数地方被喷洒了解毒剂。其他地方的创业公司只是在做创业公司自然会做的事情：失败。"
+    },
+    {
+      "original": "The real question is, what's saving startups in places like Silicon Valley? [2]EnvironmentI think there are two components to the antidote: being in a place where startups are the cool thing to do, and chance meetings with people who can help you.",
+      "translated": "真正的问题是，是什么在拯救像硅谷这样的地方的初创企业？[2]环境我认为解药有两个组成部分：身处一个创业被视为酷事的地方，以及与能够帮助你的人偶然相遇。"
+    },
+    {
+      "original": "And what drives them both is the number of startup people around you.The first component is particularly helpful in the first stage of a startup's life, when you go from merely having an interest in starting a company to actually doing it.",
+      "translated": "而推动这两者的是你周围创业者的数量。第一个因素在创业公司的初期阶段尤其有帮助，当你从仅仅对创业有兴趣转变为真正付诸行动时。"
+    },
+    {
+      "original": "It's quite a leap to start a startup. It's an unusual thing to do. But in Silicon Valley it seems normal. [3]In most places, if you start a startup, people treat you as if you're unemployed. People in the Valley aren't automatically impressed with you just because you're starting a company, but they pay attention.",
+      "translated": "开始创业是一大步。这是一件不寻常的事情。但在硅谷，这似乎很正常。在大多数地方，如果你开始创业，人们会把你当作失业者看待。而在硅谷，人们不会因为你创业就自动对你印象深刻，但他们确实会关注你。"
+    },
+    {
+      "original": "Anyone who's been here any amount of time knows not to default to skepticism, no matter how inexperienced you seem or how unpromising your idea sounds at first, because they've all seen inexperienced founders with unpromising sounding ideas who a few years later were billionaires.Having people around you care about what you're doing is an extraordinarily powerful force.",
+      "translated": "任何在这里待过一段时间的人都知道，不要一开始就持怀疑态度，无论你看起来多么缺乏经验，或者你的想法听起来多么没有希望，因为他们都见过一些缺乏经验的创始人，他们的想法起初听起来并不怎么样，但几年后却成了亿万富翁。周围的人关心你正在做的事情是一种极其强大的力量。"
+    },
+    {
+      "original": "Even the most willful people are susceptible to it. About a year after we started Y Combinator I said something to a partner at a well known VC firm that gave him the (mistaken) impression I was considering starting another startup.",
+      "translated": "即使是最有主见的人也会受到影响。在我们开始Y Combinator大约一年后，我对一家知名风险投资公司的一位合伙人说了一些话，让他产生了（错误的）印象，以为我正在考虑创办另一家初创公司。"
+    },
+    {
+      "original": "He responded so eagerly that for about half a second I found myself considering doing it.In most other cities, the prospect of starting a startup just doesn't seem real. In the Valley it's not only real but fashionable.",
+      "translated": "他回应得如此热切，以至于有那么半秒钟我发现自己在考虑要不要做这件事。在大多数其他城市，创业的前景似乎并不现实。而在硅谷，这不仅现实，而且很流行。"
+    },
+    {
+      "original": "That no doubt causes a lot of people to start startups who shouldn't. But I think that's ok. Few people are suited to running a startup, and it's very hard to predict beforehand which are (as I know all too well from being in the business of trying to predict beforehand), so lots of people starting startups who shouldn't is probably the optimal state of affairs.",
+      "translated": "这无疑会让很多不适合创业的人开始创业。但我认为这是可以接受的。很少有人适合经营初创企业，而且很难在事前预测出谁适合（我对此非常清楚，因为我从事的就是这种预测工作），所以，许多不适合创业的人开始创业可能是最理想的状态。"
+    },
+    {
+      "original": "As long as you're at a point in your life when you can bear the risk of failure, the best way to find out if you're suited to running a startup is to try it.ChanceThe second component of the antidote is chance meetings with people who can help you.",
+      "translated": "只要你处于生命中能够承受失败风险的阶段，检验你是否适合创业的最佳方式就是去尝试。机遇是解药的第二个组成部分，即与能够帮助你的人偶然相遇。"
+    },
+    {
+      "original": "This force works in both phases: both in the transition from the desire to start a startup to starting one, and the transition from starting a company to succeeding. The power of chance meetings is more variable than people around you caring about startups, which is like a sort of background radiation that affects everyone equally, but at its strongest it is far stronger.Chance meetings produce miracles to compensate for the disasters that characteristically befall startups.",
+      "translated": "这种力量在两个阶段都起作用：从有创业欲望到真正开始创业的转变，以及从创立公司到取得成功的转变。偶然相遇的力量比周围人对创业的关注更加多变，后者就像一种背景辐射，对每个人都有影响，但在最强时，前者的力量要远超后者。偶然的相遇会产生奇迹，以弥补创业公司特有的灾难。"
+    },
+    {
+      "original": "In the Valley, terrible things happen to startups all the time, just like they do to startups everywhere. The reason startups are more likely to make it here is that great things happen to them too. In the Valley, lightning has a sign bit.For example, you start a site for college students and you decide to move to the Valley for the summer to work on it.",
+      "translated": "在硅谷，初创公司经常遭遇不幸，就像世界各地的初创公司一样。但这里之所以有更多初创公司能够成功，是因为在这里也会发生许多美好的事情。在硅谷，机遇就像闪电一样，带有标志位。例如，你创建了一个面向大学生的网站，并决定在夏天搬到硅谷来专心发展它。"
+    },
+    {
+      "original": "And then on a random suburban street in Palo Alto you happen to run into Sean Parker, who understands the domain really well because he started a similar startup himself, and also knows all the investors.",
+      "translated": "然后在一个帕洛阿尔托的普通郊区街道上，你碰巧遇到了肖恩·帕克，他非常了解这个领域，因为他自己也创办过类似的初创公司，而且还认识所有的投资者。"
+    },
+    {
+      "original": "And moreover has advanced views, for 2004, on founders retaining control of their companies.You can't say precisely what the miracle will be, or even for sure that one will happen. The best one can say is: if you're in a startup hub, unexpected good things will probably happen to you, especially if you deserve them.I bet this is true even for startups we fund.",
+      "translated": "而且，对于2004年的创始人保留公司控制权的问题，有着先进的观点。你无法准确地说出奇迹会是什么，甚至不能确定是否会有一个奇迹发生。最好的说法是：如果你身处一个创业中心，那么可能会有一些意想不到的好事发生在你身上，特别是如果你值得这些好事的话。我敢打赌，即使是对于我们资助的创业公司来说，这一点也是成立的。"
+    },
+    {
+      "original": "Even with us working to make things happen for them on purpose rather than by accident, the frequency of helpful chance meetings in the Valley is so high that it's still a significant increment on what we can deliver.Chance meetings play a role like the role relaxation plays in having ideas.",
+      "translated": "即使我们有意为他们创造机会，而不是偶然促成，硅谷内有益的偶然相遇的频率仍然如此之高，以至于这对我们所能提供的帮助是一个显著的增量。偶然相遇的作用类似于放松在产生想法中的作用。"
+    },
+    {
+      "original": "Most people have had the experience of working hard on some problem, not being able to solve it, giving up and going to bed, and then thinking of the answer in the shower in the morning. What makes the answer appear is letting your thoughts drift a bit—and thus drift off the wrong path you'd been pursuing last night and onto the right one adjacent to it.Chance meetings let your acquaintance drift in the same way taking a shower lets your thoughts drift.",
+      "translated": "大多数人都有过这样的经历：努力解决某个问题，却无法找到答案，于是放弃，上床睡觉。然后在第二天早晨洗澡时，突然想到了答案。答案之所以会出现，是因为你让自己的思绪稍微飘荡了一下——从而偏离了昨晚一直走的错误路径，转而走向了旁边的正确路径。偶然的相遇让你的熟人关系以同样的方式飘荡，就像洗澡时让思绪飘荡一样。"
+    },
+    {
+      "original": "The critical thing in both cases is that they drift just the right amount. The meeting between Larry Page and Sergey Brin was a good example. They let their acquaintance drift, but only a little; they were both meeting someone they had a lot in common with.For Larry Page the most important component of the antidote was Sergey Brin, and vice versa.",
+      "translated": "在两种情况下，最关键的是它们恰好漂移了适当的程度。拉里·佩奇和谢尔盖·布林的会面就是一个很好的例子。他们让彼此的关系有所发展，但幅度不大；他们都遇到了一个与自己有很多共同点的人。对拉里·佩奇来说，解药中最重要的成分是谢尔盖·布林，反之亦然。"
+    },
+    {
+      "original": "The antidote is people. It's not the physical infrastructure of Silicon Valley that makes it work, or the weather, or anything like that. Those helped get it started, but now that the reaction is self-sustaining what drives it is the people.Many observers have noticed that one of the most distinctive things about startup hubs is the degree to which people help one another out, with no expectation of getting anything in return.",
+      "translated": "解药是人。使硅谷运作的并不是其物理基础设施，也不是天气，或类似的因素。这些因素帮助它起步，但如今这种反应已经自给自足，推动它发展的关键在于人。许多观察者注意到，创业中心最显著的特点之一就是人们彼此帮助的程度，而无需期望得到任何回报。"
+    },
+    {
+      "original": "I'm not sure why this is so. Perhaps it's because startups are less of a zero sum game than most types of business; they are rarely killed by competitors. Or perhaps it's because so many startup founders have backgrounds in the sciences, where collaboration is encouraged.A large part of YC's function is to accelerate that process.",
+      "translated": "我不确定为什么会这样。也许是因为初创企业不像大多数类型的生意那样是零和游戏；它们很少被竞争对手击败。或者也许是因为许多初创企业的创始人有科学背景，在科学界合作是被鼓励的。YC 的一大作用就是加速这一过程。"
+    },
+    {
+      "original": "We're a sort of Valley within the Valley, where the density of people working on startups and their willingness to help one another are both artificially amplified.NumbersBoth components of the antidote—an environment that encourages startups, and chance meetings with people who help you—are driven by the same underlying cause: the number of startup people around you.",
+      "translated": "我们就像山谷中的一个山谷，这里创业者的密度以及他们互相帮助的意愿都被人为地放大了。这两个因素——鼓励创业的环境和与能帮助你的人偶然相遇——都是由同一个根本原因驱动的：你周围创业者的数量。"
+    },
+    {
+      "original": "To make a startup hub, you need a lot of people interested in startups.There are three reasons. The first, obviously, is that if you don't have enough density, the chance meetings don't happen. [4] The second is that different startups need such different things, so you need a lot of people to supply each startup with what they need most.",
+      "translated": "要打造一个创业中心，你需要有很多对创业感兴趣的人。原因有三个。首先，显而易见的是，如果密度不够，偶然的相遇就不会发生。[4] 其次，不同的创业公司需要的东西差异很大，所以你需要有很多人来为每个创业公司提供它们最需要的东西。"
+    },
+    {
+      "original": "Sean Parker was exactly what Facebook needed in 2004. Another startup might have needed a database guy, or someone with connections in the movie business.This is one of the reasons we fund such a large number of companies, incidentally.",
+      "translated": "肖恩·帕克正是2004年的Facebook所需要的。其他初创公司可能需要一个数据库专家，或者在电影行业有关系的人。顺便说一句，这也是我们资助如此多公司的原因之一。"
+    },
+    {
+      "original": "The bigger the community, the greater the chance it will contain the person who has that one thing you need most.The third reason you need a lot of people to make a startup hub is that once you have enough people interested in the same problem, they start to set the social norms.",
+      "translated": "社区越大，就越有可能包含那个拥有你最需要的东西的人。你需要很多人来创建一个创业中心的第三个原因是，一旦有足够的人都对同一个问题感兴趣，他们就开始制定社会规范。"
+    },
+    {
+      "original": "And it is a particularly valuable thing when the atmosphere around you encourages you to do something that would otherwise seem too ambitious. In most places the atmosphere pulls you back toward the mean.I flew into the Bay Area a few days ago.",
+      "translated": "而当你周围的人鼓励你去做一些原本看似过于雄心勃勃的事情时，这尤其有价值。在大多数地方，氛围会把你拉回到平均水平。我几天前飞到了旧金山湾区。"
+    },
+    {
+      "original": "I notice this every time I fly over the Valley: somehow you can sense something is going on. Obviously you can sense prosperity in how well kept a place looks. But there are different kinds of prosperity.",
+      "translated": "每次飞越硅谷时我都有这样的感觉：总能感觉到那里有些事情正在发生。显然，从一个地方的维护状况可以看出它的繁荣。但繁荣有多种形式。"
+    },
+    {
+      "original": "Silicon Valley doesn't look like Boston, or New York, or LA, or DC. I tried asking myself what word I'd use to describe the feeling the Valley radiated, and the word that came to mind was optimism.Notes[1] I'm not saying it's impossible to succeed in a city with few other startups, just harder.",
+      "translated": "硅谷的风貌与波士顿、纽约、洛杉矶或华盛顿特区截然不同。我试着问自己，用一个词来形容硅谷散发出的感觉，这个词就是乐观。我并不是说在初创公司不多的城市里成功是不可能的，只是更难一些。"
+    },
+    {
+      "original": "If you're sufficiently good at generating your own morale, you can survive without external encouragement. Wufoo was based in Tampa and they succeeded. But the Wufoos are exceptionally disciplined.[2] Incidentally, this phenomenon is not limited to startups.",
+      "translated": "如果你足够擅长自我激励，就可以在没有外部鼓励的情况下生存下去。Wufoo 在坦帕成立并且取得了成功。但 Wufoo 的团队异常自律。顺便说一句，这种现象并不局限于初创公司。"
+    },
+    {
+      "original": "Most unusual ambitions fail, unless the person who has them manages to find the right sort of community.[3] Starting a company is common, but starting a startup is rare. I've talked about the distinction between the two elsewhere, but essentially a startup is a new business designed for scale.",
+      "translated": "大多数不寻常的志向都会失败，除非有这些志向的人能够找到合适的社群。[3] 创办公司很常见，但创办初创企业却很少见。我在其他地方讨论过这两者之间的区别，但基本上，初创企业是一种旨在规模化发展的新业务。"
+    },
+    {
+      "original": "Most new businesses are service businesses and except in rare cases those don't scale.[4] As I was writing this, I had a demonstration of the density of startup people in the Valley. Jessica and I bicycled to University Ave in Palo Alto to have lunch at the fabulous Oren's Hummus.",
+      "translated": "大多数新企业都是服务型企业，而这些企业在大多数情况下是无法实现规模化的。在我写这篇文章的时候，我在硅谷亲身经历了一次创业人士密度的展示。我和杰西卡骑自行车去了帕洛阿尔托的大学大道，在那里我们去了非常棒的Oren's Hummus餐厅吃午餐。"
+    },
+    {
+      "original": "As we walked in, we met Charlie Cheever sitting near the door. Selina Tobaccowala stopped to say hello on her way out. Then Josh Wilson came in to pick up a take out order. After lunch we went to get frozen yogurt.",
+      "translated": "我们走进去时，遇到了坐在门附近的查理·切弗。塞莉娜·托巴科瓦拉在出门时停下来打了招呼。然后乔什·威尔逊进来取外卖订单。午饭后，我们去买了冷冻酸奶。"
+    },
+    {
+      "original": "On the way we met Rajat Suri. When we got to the yogurt place, we found Dave Shen there, and as we walked out we ran into Yuri Sagalov. We walked with him for a block or so and we ran into Muzzammil Zaveri, and then a block later we met Aydin Senkut.",
+      "translated": "在路上我们遇到了Rajat Suri。当我们到达酸奶店时，发现Dave Shen也在那里，当我们走出店门时，又碰到了Yuri Sagalov。我们和他一起走了大约一个街区，又遇到了Muzzammil Zaveri，再走了一个街区后，我们遇到了Aydin Senkut。"
+    },
+    {
+      "original": "This is everyday life in Palo Alto. I wasn't trying to meet people; I was just having lunch. And I'm sure for every startup founder or investor I saw that I knew, there were 5 more I didn't. If Ron Conway had been with us he would have met 30 people he knew.Thanks to Sam Altman, Paul Buchheit, Jessica Livingston, and Harj Taggar for reading drafts of this.",
+      "translated": "这是帕洛阿尔托的日常生活。我并不是想认识人，我只是在吃午饭。我相信，对于我认识的每一个创业者或投资者，还有五个我不认识。如果罗恩·康威和我们在一起，他会遇到30个他认识的人。感谢萨姆·阿尔特曼、保罗·布赫海特、杰西卡·利文斯顿和哈吉·塔格为本文的草稿提供意见。"
+    }
+  ],
+  "translation_completed": "2025-07-27T10:39:48.514844",
+  "translation_stats": {
+    "total_paragraphs": 34,
+    "success_count": 34,
+    "success_rate": "100.0%"
+  }
+}

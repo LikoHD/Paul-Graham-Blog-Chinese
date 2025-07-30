@@ -1,0 +1,74 @@
+{
+  "title": "What You (Want to)* Want",
+  "title_zh": "[待翻译] What You (Want to)* Want",
+  "url": "https://www.paulgraham.com/want.html",
+  "filename": "want.html",
+  "date": "2022-11-01",
+  "id": 11,
+  "content": {
+    "success": true,
+    "paragraphs": [
+      "November 2022Since I was about 9 I've been puzzled by the apparent contradiction between being made of matter that behaves in a predictable way, and the feeling that I could choose to do whatever I wanted.",
+      "At the time I had a self-interested motive for exploring the question. At that age (like most succeeding ages) I was always in trouble with the authorities, and it seemed to me that there might possibly be some way to get out of trouble by arguing that I wasn't responsible for my actions.",
+      "I gradually lost hope of that, but the puzzle remained: How do you reconcile being a machine made of matter with the feeling that you're free to choose what you do? [1]The best way to explain the answer may be to start with a slightly wrong version, and then fix it.",
+      "The wrong version is: You can do what you want, but you can't want what you want. Yes, you can control what you do, but you'll do what you want, and you can't control that.The reason this is mistaken is that people do sometimes change what they want.",
+      "People who don't want to want something — drug addicts, for example — can sometimes make themselves stop wanting it. And people who want to want something — who want to like classical music, or broccoli — sometimes succeed.So we modify our initial statement: You can do what you want, but you can't want to want what you want.That's still not quite true.",
+      "It's possible to change what you want to want. I can imagine someone saying \"I decided to stop wanting to like classical music.\" But we're getting closer to the truth. It's rare for people to change what they want to want, and the more \"want to\"s we add, the rarer it gets.We can get arbitrarily close to a true statement by adding more \"want to\"s in much the same way we can get arbitrarily close to 1 by adding more 9s to a string of 9s following a decimal point.",
+      "In practice three or four \"want to\"s must surely be enough. It's hard even to envision what it would mean to change what you want to want to want to want, let alone actually do it.So one way to express the correct answer is to use a regular expression.",
+      "You can do what you want, but there's some statement of the form \"you can't (want to)* want what you want\" that's true. Ultimately you get back to a want that you don't control. [2] Notes[1] I didn't know when I was 9 that matter might behave randomly, but I don't think it affects the problem much.",
+      "Randomness destroys the ghost in the machine as effectively as determinism.[2] If you don't like using an expression, you can make the same point using higher-order desires: There is some n such that you don't control your nth-order desires.",
+      "Thanks to Trevor Blackwell, Jessica Livingston, Robert Morris, and Michael Nielsen for reading drafts of this.Irish Translation"
+    ],
+    "word_count": 503,
+    "paragraph_count": 10
+  },
+  "processed_at": "2025-07-26T19:01:44.734085",
+  "paragraphs": [
+    {
+      "original": "November 2022Since I was about 9 I've been puzzled by the apparent contradiction between being made of matter that behaves in a predictable way, and the feeling that I could choose to do whatever I wanted.",
+      "translated": "2022年11月 自从我大约9岁起，我就对一种看似矛盾的现象感到困惑：一方面是构成我的物质以可预测的方式行为，另一方面是我感觉自己可以随意选择做任何事情。"
+    },
+    {
+      "original": "At the time I had a self-interested motive for exploring the question. At that age (like most succeeding ages) I was always in trouble with the authorities, and it seemed to me that there might possibly be some way to get out of trouble by arguing that I wasn't responsible for my actions.",
+      "translated": "当时，我探索这个问题有着自私的动机。在那个年纪（就像大多数后来的年纪一样），我总是和当局闹矛盾，我觉得也许可以通过争辩说我对自己的行为不负责任来摆脱麻烦。"
+    },
+    {
+      "original": "I gradually lost hope of that, but the puzzle remained: How do you reconcile being a machine made of matter with the feeling that you're free to choose what you do? [1]The best way to explain the answer may be to start with a slightly wrong version, and then fix it.",
+      "translated": "我逐渐对那件事失去了希望，但谜团仍然存在：如何调和你是由物质构成的机器这一事实与你觉得自己可以自由选择所做之事的感觉？[1]解释这个问题的最佳方法可能是先从一个略有偏差的版本开始，然后再进行修正。"
+    },
+    {
+      "original": "The wrong version is: You can do what you want, but you can't want what you want. Yes, you can control what you do, but you'll do what you want, and you can't control that.The reason this is mistaken is that people do sometimes change what they want.",
+      "translated": "错误的版本是：你可以做你想做的，但你不能想要你想要的。是的，你可以控制你的行为，但你会去做你想要的，而你无法控制这一点。这个观点之所以错误，是因为人们确实有时会改变他们的欲望。"
+    },
+    {
+      "original": "People who don't want to want something — drug addicts, for example — can sometimes make themselves stop wanting it. And people who want to want something — who want to like classical music, or broccoli — sometimes succeed.So we modify our initial statement: You can do what you want, but you can't want to want what you want.That's still not quite true.",
+      "translated": "不想想要某些东西的人——比如毒瘾者——有时可以让自己不再想要它。而那些想要喜欢上某些东西的人——比如古典音乐或西兰花——有时也会成功。因此，我们修改最初的陈述：你可以做你想要的，但你不能想要求自己去想要你想要的。但这仍然不完全正确。"
+    },
+    {
+      "original": "It's possible to change what you want to want. I can imagine someone saying \"I decided to stop wanting to like classical music.\" But we're getting closer to the truth. It's rare for people to change what they want to want, and the more \"want to\"s we add, the rarer it gets.We can get arbitrarily close to a true statement by adding more \"want to\"s in much the same way we can get arbitrarily close to 1 by adding more 9s to a string of 9s following a decimal point.",
+      "translated": "可以改变你想要的东西。我可以想象某人说：“我决定不再想喜欢古典音乐了。”但我们正逐渐接近真相。人们很少改变他们想要的东西，而我们添加的“想要”越多，这种情况就越罕见。我们可以通过添加更多的“想要”来无限接近真相，就像通过在小数点后添加更多的9来无限接近1一样。"
+    },
+    {
+      "original": "In practice three or four \"want to\"s must surely be enough. It's hard even to envision what it would mean to change what you want to want to want to want, let alone actually do it.So one way to express the correct answer is to use a regular expression.",
+      "translated": "实际上，三四个“想要”就足够了。很难想象改变你想要的想要的想要的目标意味着什么，更不用说实际上去做到这一点了。因此，表达正确答案的一种方法是使用正则表达式。"
+    },
+    {
+      "original": "You can do what you want, but there's some statement of the form \"you can't (want to)* want what you want\" that's true. Ultimately you get back to a want that you don't control. [2] Notes[1] I didn't know when I was 9 that matter might behave randomly, but I don't think it affects the problem much.",
+      "translated": "你可以做你想做的事情，但总有一些类似“你不能（想）想你所想”的陈述是正确的。最终，你还是会回到一个你无法控制的欲望上。[2] 注释[1] 我在9岁时并不知道物质可能会表现出随机性，但我不认为这会对问题产生多大影响。"
+    },
+    {
+      "original": "Randomness destroys the ghost in the machine as effectively as determinism.[2] If you don't like using an expression, you can make the same point using higher-order desires: There is some n such that you don't control your nth-order desires.",
+      "translated": "随机性摧毁机器中的幽灵的效果与决定性一样彻底。如果你不喜欢使用某个表达，你可以用高阶欲望来表达同样的观点：存在某个n，使得你无法控制你的第n阶欲望。"
+    },
+    {
+      "original": "Thanks to Trevor Blackwell, Jessica Livingston, Robert Morris, and Michael Nielsen for reading drafts of this.Irish Translation",
+      "translated": "感谢特雷弗·布莱克威尔、杰西卡·利文斯顿、罗伯特·莫里斯和迈克尔·尼尔森阅读本文的草稿。爱尔兰语翻译"
+    }
+  ],
+  "translation_completed": "2025-07-27T12:50:54.466903",
+  "translation_stats": {
+    "total_paragraphs": 10,
+    "success_count": 10,
+    "success_rate": "100.0%"
+  }
+}

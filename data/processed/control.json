@@ -1,0 +1,99 @@
+{
+  "title": "Founder Control",
+  "title_zh": "[待翻译] Founder Control",
+  "url": "https://www.paulgraham.com/control.html",
+  "filename": "control.html",
+  "date": "2020-09-01",
+  "id": 91,
+  "content": {
+    "success": true,
+    "paragraphs": [
+      "Want to start a startup? Get funded by Y Combinator. December 2010Someone we funded is talking to VCs now, and asked me how common it was for a startup's founders to retain control of the board after a series A round.",
+      "He said VCs told him this almost never happened.Ten years ago that was true. In the past, founders rarely kept control of the board through a series A. The traditional series A board consisted of two founders, two VCs, and one independent member.",
+      "More recently the recipe is often one founder, one VC, and one independent. In either case the founders lose their majority.But not always. Mark Zuckerberg kept control of Facebook's board through the series A and still has it today.",
+      "Mark Pincus has kept control of Zynga's too. But are these just outliers? How common is it for founders to keep control after an A round? I'd heard of several cases among the companies we've funded, but I wasn't sure how many there were, so I emailed the ycfounders list.The replies surprised me.",
+      "In a dozen companies we've funded, the founders still had a majority of the board seats after the series A round.I feel like we're at a tipping point here. A lot of VCs still act as if founders retaining board control after a series A is unheard-of.",
+      "A lot of them try to make you feel bad if you even ask — as if you're a noob or a control freak for wanting such a thing. But the founders I heard from aren't noobs or control freaks. Or if they are, they are, like Mark Zuckerberg, the kind of noobs and control freaks VCs should be trying to fund more of.Founders retaining control after a series A is clearly heard-of.",
+      "And barring financial catastrophe, I think in the coming year it will become the norm.Control of a company is a more complicated matter than simply outvoting other parties in board meetings. Investors usually get vetos over certain big decisions, like selling the company, regardless of how many board seats they have.",
+      "And board votes are rarely split. Matters are decided in the discussion preceding the vote, not in the vote itself, which is usually unanimous. But if opinion is divided in such discussions, the side that knows it would lose in a vote will tend to be less insistent.",
+      "That's what board control means in practice. You don't simply get to do whatever you want; the board still has to act in the interest of the shareholders; but if you have a majority of board seats, then your opinion about what's in the interest of the shareholders will tend to prevail.So while board control is not total control, it's not imaginary either.",
+      "There's inevitably a difference in how things feel within the company. Which means if it becomes the norm for founders to retain board control after a series A, that will change the way things feel in the whole startup world.The switch to the new norm may be surprisingly fast, because the startups that can retain control tend to be the best ones.",
+      "They're the ones that set the trends, both for other startups and for VCs.A lot of the reason VCs are harsh when negotiating with startups is that they're embarrassed to go back to their partners looking like they got beaten.",
+      "When they sign a termsheet, they want to be able to brag about the good terms they got. A lot of them don't care that much personally about whether founders keep board control. They just don't want to seem like they had to make concessions.",
+      "Which means if letting the founders keep control stops being perceived as a concession, it will rapidly become much more common.Like a lot of changes that have been forced on VCs, this change won't turn out to be as big a problem as they might think.",
+      "VCs will still be able to convince; they just won't be able to compel. And the startups where they have to resort to compulsion are not the ones that matter anyway. VCs make most of their money from a few big hits, and those aren't them.Knowing that founders will keep control of the board may even help VCs pick better.",
+      "If they know they can't fire the founders, they'll have to choose founders they can trust. And that's who they should have been choosing all along.Thanks to Sam Altman, John Bautista, Trevor Blackwell, Paul Buchheit, Brian Chesky, Bill Clerico, Patrick Collison, Adam Goldstein, James Lindenbaum, Jessica Livingston, and Fred Wilson for reading drafts of this."
+    ],
+    "word_count": 766,
+    "paragraph_count": 15
+  },
+  "processed_at": "2025-07-26T19:04:22.284667",
+  "paragraphs": [
+    {
+      "original": "Want to start a startup? Get funded by Y Combinator. December 2010Someone we funded is talking to VCs now, and asked me how common it was for a startup's founders to retain control of the board after a series A round.",
+      "translated": "想创业吗？那就争取获得Y Combinator的投资吧。2010年12月，我们资助的一位创业者现在正在与风险投资家交谈，他问我，在A轮融资后，创业公司的创始人保留董事会控制权的情况有多普遍。"
+    },
+    {
+      "original": "He said VCs told him this almost never happened.Ten years ago that was true. In the past, founders rarely kept control of the board through a series A. The traditional series A board consisted of two founders, two VCs, and one independent member.",
+      "translated": "他说风投们告诉他这种情况几乎从未发生过。十年前确实如此。过去，创始人很少能在A轮融资后仍保持对董事会的控制。传统的A轮融资后的董事会由两位创始人、两位风投代表和一位独立董事组成。"
+    },
+    {
+      "original": "More recently the recipe is often one founder, one VC, and one independent. In either case the founders lose their majority.But not always. Mark Zuckerberg kept control of Facebook's board through the series A and still has it today.",
+      "translated": "最近，这种组合通常是创始人一名、风险投资家一名和独立董事一名。在这两种情况下，创始人都会失去多数席位。但并非总是如此。马克·扎克伯格在A轮融资后仍然控制着Facebook的董事会，至今依然如此。"
+    },
+    {
+      "original": "Mark Pincus has kept control of Zynga's too. But are these just outliers? How common is it for founders to keep control after an A round? I'd heard of several cases among the companies we've funded, but I wasn't sure how many there were, so I emailed the ycfounders list.The replies surprised me.",
+      "translated": "马克·平库斯也一直掌控着Zynga。但这些只是特例吗？在A轮融资后，创始人保持控制权的情况普遍吗？我听说过我们投资的公司中有几起这样的案例，但我不确定有多少，所以我给ycfounders列表发了邮件。回复让我感到意外。"
+    },
+    {
+      "original": "In a dozen companies we've funded, the founders still had a majority of the board seats after the series A round.I feel like we're at a tipping point here. A lot of VCs still act as if founders retaining board control after a series A is unheard-of.",
+      "translated": "在我们资助的十几家公司中，创始人在A轮融资后仍然持有董事会的多数席位。我觉得我们正处在一个转折点。许多风险投资家仍然表现得好像创始人在A轮融资后保留董事会控制权是前所未闻的事情。"
+    },
+    {
+      "original": "A lot of them try to make you feel bad if you even ask — as if you're a noob or a control freak for wanting such a thing. But the founders I heard from aren't noobs or control freaks. Or if they are, they are, like Mark Zuckerberg, the kind of noobs and control freaks VCs should be trying to fund more of.Founders retaining control after a series A is clearly heard-of.",
+      "translated": "很多人甚至在你提出这样的要求时，就会让你感到很糟糕——好像你是一个新手或是一个控制狂。但我听到的这些创始人既不是新手也不是控制狂。或者即使他们是，他们也像马克·扎克伯格那样，是风投应该更多支持的那种新手和控制狂。创始人在A轮融资后仍保留控制权的情况显然是有先例的。"
+    },
+    {
+      "original": "And barring financial catastrophe, I think in the coming year it will become the norm.Control of a company is a more complicated matter than simply outvoting other parties in board meetings. Investors usually get vetos over certain big decisions, like selling the company, regardless of how many board seats they have.",
+      "translated": "除非发生金融灾难，我认为在来年这将成为常态。公司控制权是一个比在董事会会议上简单投票更为复杂的问题。投资者通常对某些重大决策（如出售公司）拥有否决权，无论他们拥有多少董事会席位。"
+    },
+    {
+      "original": "And board votes are rarely split. Matters are decided in the discussion preceding the vote, not in the vote itself, which is usually unanimous. But if opinion is divided in such discussions, the side that knows it would lose in a vote will tend to be less insistent.",
+      "translated": "董事会的投票很少会出现分歧。决定通常是在投票前的讨论中做出的，而不是在投票本身，投票通常是一致通过的。但如果在这样的讨论中意见出现分歧，认为自己会在投票中失利的一方往往会减少坚持。"
+    },
+    {
+      "original": "That's what board control means in practice. You don't simply get to do whatever you want; the board still has to act in the interest of the shareholders; but if you have a majority of board seats, then your opinion about what's in the interest of the shareholders will tend to prevail.So while board control is not total control, it's not imaginary either.",
+      "translated": "这就是实际控制董事会的含义。你不能随心所欲地行事；董事会仍然必须为股东的利益行事；但如果你拥有董事会多数席位，那么你对什么符合股东利益的看法往往会占上风。因此，虽然董事会控制不是完全控制，但它也不是虚幻的。"
+    },
+    {
+      "original": "There's inevitably a difference in how things feel within the company. Which means if it becomes the norm for founders to retain board control after a series A, that will change the way things feel in the whole startup world.The switch to the new norm may be surprisingly fast, because the startups that can retain control tend to be the best ones.",
+      "translated": "公司内部的感觉不可避免地会有所不同。这意味着，如果A轮融资后创始人保留董事会控制权成为常态，这将改变整个创业世界的感觉。这种新规范的转变可能会出奇地迅速，因为能够保留控制权的创业公司往往是最好的那些。"
+    },
+    {
+      "original": "They're the ones that set the trends, both for other startups and for VCs.A lot of the reason VCs are harsh when negotiating with startups is that they're embarrassed to go back to their partners looking like they got beaten.",
+      "translated": "他们不仅为其他初创公司，也为风险投资公司设定趋势。风险投资公司在与初创公司谈判时之所以态度强硬，很大程度上是因为他们不愿意回去面对自己的合伙人时显得自己被打败了。"
+    },
+    {
+      "original": "When they sign a termsheet, they want to be able to brag about the good terms they got. A lot of them don't care that much personally about whether founders keep board control. They just don't want to seem like they had to make concessions.",
+      "translated": "当他们签署条款清单时，他们希望可以炫耀自己争取到的有利条件。很多人并不太在意创始人是否能保持董事会的控制权。他们只是不想显得自己做出了让步。"
+    },
+    {
+      "original": "Which means if letting the founders keep control stops being perceived as a concession, it will rapidly become much more common.Like a lot of changes that have been forced on VCs, this change won't turn out to be as big a problem as they might think.",
+      "translated": "这意味着，如果让创始人保持控制权不再被视为一种让步，这种情况将迅速变得更加普遍。就像许多被迫施加给风险投资家的改变一样，这一变化最终不会像他们想象的那样成为一个大问题。"
+    },
+    {
+      "original": "VCs will still be able to convince; they just won't be able to compel. And the startups where they have to resort to compulsion are not the ones that matter anyway. VCs make most of their money from a few big hits, and those aren't them.Knowing that founders will keep control of the board may even help VCs pick better.",
+      "translated": "风投们仍然可以说服；他们只是不能强迫。而那些需要诉诸强迫手段的初创公司，本来就不是关键的。风投们大部分的钱都是从少数几个大成功中赚来的，而那些公司并不是这样的。知道创始人将保持对董事会的控制，甚至可能帮助风投们做出更好的选择。"
+    },
+    {
+      "original": "If they know they can't fire the founders, they'll have to choose founders they can trust. And that's who they should have been choosing all along.Thanks to Sam Altman, John Bautista, Trevor Blackwell, Paul Buchheit, Brian Chesky, Bill Clerico, Patrick Collison, Adam Goldstein, James Lindenbaum, Jessica Livingston, and Fred Wilson for reading drafts of this.",
+      "translated": "如果他们知道不能解雇创始人，他们就不得不选择他们可以信任的创始人。而这本应该是他们一直以来的选择标准。感谢Sam Altman、John Bautista、Trevor Blackwell、Paul Buchheit、Brian Chesky、Bill Clerico、Patrick Collison、Adam Goldstein、James Lindenbaum、Jessica Livingston和Fred Wilson阅读本文的草稿。"
+    }
+  ],
+  "translation_completed": "2025-07-27T09:53:13.939561",
+  "translation_stats": {
+    "total_paragraphs": 15,
+    "success_count": 15,
+    "success_rate": "100.0%"
+  }
+}

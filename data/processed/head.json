@@ -1,0 +1,209 @@
+{
+  "title": "Holding a Program in One's Head",
+  "title_zh": "[待翻译] Holding a Program in One's Head",
+  "url": "https://www.paulgraham.com/head.html",
+  "filename": "head.html",
+  "date": "2021-02-12",
+  "id": 45,
+  "content": {
+    "success": true,
+    "paragraphs": [
+      "August 2007A good programmer working intensively on his own code can hold it in his mind the way a mathematician holds a problem he's working on. Mathematicians don't answer questions by working them out on paper the way schoolchildren are taught to.",
+      "They do more in their heads: they try to understand a problem space well enough that they can walk around it the way you can walk around the memory of the house you grew up in. At its best programming is the same.",
+      "You hold the whole program in your head, and you can manipulate it at will.That's particularly valuable at the start of a project, because initially the most important thing is to be able to change what you're doing.",
+      "Not just to solve the problem in a different way, but to change the problem you're solving.Your code is your understanding of the problem you're exploring. So it's only when you have your code in your head that you really understand the problem.It's not easy to get a program into your head.",
+      "If you leave a project for a few months, it can take days to really understand it again when you return to it. Even when you're actively working on a program it can take half an hour to load into your head when you start work each day.",
+      "And that's in the best case. Ordinary programmers working in typical office conditions never enter this mode. Or to put it more dramatically, ordinary programmers working in typical office conditions never really understand the problems they're solving.Even the best programmers don't always have the whole program they're working on loaded into their heads.",
+      "But there are things you can do to help: Avoid distractions. Distractions are bad for many types of work, but especially bad for programming, because programmers tend to operate at the limit of the detail they can handle.The danger of a distraction depends not on how long it is, but on how much it scrambles your brain.",
+      "A programmer can leave the office and go and get a sandwich without losing the code in his head. But the wrong kind of interruption can wipe your brain in 30 seconds.Oddly enough, scheduled distractions may be worse than unscheduled ones.",
+      "If you know you have a meeting in an hour, you don't even start working on something hard. Work in long stretches. Since there's a fixed cost each time you start working on a program, it's more efficient to work in a few long sessions than many short ones.",
+      "There will of course come a point where you get stupid because you're tired. This varies from person to person. I've heard of people hacking for 36 hours straight, but the most I've ever been able to manage is about 18, and I work best in chunks of no more than 12.The optimum is not the limit you can physically endure.",
+      "There's an advantage as well as a cost of breaking up a project. Sometimes when you return to a problem after a rest, you find your unconscious mind has left an answer waiting for you. Use succinct languages.",
+      "More powerful programming languages make programs shorter. And programmers seem to think of programs at least partially in the language they're using to write them. The more succinct the language, the shorter the program, and the easier it is to load and keep in your head.You can magnify the effect of a powerful language by using a style called bottom-up programming, where you write programs in multiple layers, the lower ones acting as programming languages for those above.",
+      "If you do this right, you only have to keep the topmost layer in your head. Keep rewriting your program. Rewriting a program often yields a cleaner design. But it would have advantages even if it didn't: you have to understand a program completely to rewrite it, so there is no better way to get one loaded into your head.",
+      "Write rereadable code. All programmers know it's good to write readable code. But you yourself are the most important reader. Especially in the beginning; a prototype is a conversation with yourself.",
+      "And when writing for yourself you have different priorities. If you're writing for other people, you may not want to make code too dense. Some parts of a program may be easiest to read if you spread things out, like an introductory textbook.",
+      "Whereas if you're writing code to make it easy to reload into your head, it may be best to go for brevity. Work in small groups. When you manipulate a program in your head, your vision tends to stop at the edge of the code you own.",
+      "Other parts you don't understand as well, and more importantly, can't take liberties with. So the smaller the number of programmers, the more completely a project can mutate. If there's just one programmer, as there often is at first, you can do all-encompassing redesigns.",
+      "Don't have multiple people editing the same piece of code. You never understand other people's code as well as your own. No matter how thoroughly you've read it, you've only read it, not written it. So if a piece of code is written by multiple authors, none of them understand it as well as a single author would.And of course you can't safely redesign something other people are working on.",
+      "It's not just that you'd have to ask permission. You don't even let yourself think of such things. Redesigning code with several authors is like changing laws; redesigning code you alone control is like seeing the other interpretation of an ambiguous image.If you want to put several people to work on a project, divide it into components and give each to one person.",
+      "Start small. A program gets easier to hold in your head as you become familiar with it. You can start to treat parts as black boxes once you feel confident you've fully explored them. But when you first start working on a project, you're forced to see everything.",
+      "If you start with too big a problem, you may never quite be able to encompass it. So if you need to write a big, complex program, the best way to begin may not be to write a spec for it, but to write a prototype that solves a subset of the problem.",
+      "Whatever the advantages of planning, they're often outweighed by the advantages of being able to keep a program in your head. It's striking how often programmers manage to hit all eight points by accident.",
+      "Someone has an idea for a new project, but because it's not officially sanctioned, he has to do it in off hours—which turn out to be more productive because there are no distractions. Driven by his enthusiasm for the new project he works on it for many hours at a stretch.",
+      "Because it's initially just an experiment, instead of a \"production\" language he uses a mere \"scripting\" language—which is in fact far more powerful. He completely rewrites the program several times; that wouldn't be justifiable for an official project, but this is a labor of love and he wants it to be perfect.",
+      "And since no one is going to see it except him, he omits any comments except the note-to-self variety. He works in a small group perforce, because he either hasn't told anyone else about the idea yet, or it seems so unpromising that no one else is allowed to work on it.",
+      "Even if there is a group, they couldn't have multiple people editing the same code, because it changes too fast for that to be possible. And the project starts small because the idea is small at first; he just has some cool hack he wants to try out.Even more striking are the number of officially sanctioned projects that manage to do all eight things wrong.",
+      "In fact, if you look at the way software gets written in most organizations, it's almost as if they were deliberately trying to do things wrong. In a sense, they are. One of the defining qualities of organizations since there have been such a thing is to treat individuals as interchangeable parts.",
+      "This works well for more parallelizable tasks, like fighting wars. For most of history a well-drilled army of professional soldiers could be counted on to beat an army of individual warriors, no matter how valorous.",
+      "But having ideas is not very parallelizable. And that's what programs are: ideas.It's not merely true that organizations dislike the idea of depending on individual genius, it's a tautology. It's part of the definition of an organization not to.",
+      "Of our current concept of an organization, at least.Maybe we could define a new kind of organization that combined the efforts of individuals without requiring them to be interchangeable. Arguably a market is such a form of organization, though it may be more accurate to describe a market as a degenerate case—as what you get by default when organization isn't possible.Probably the best we'll do is some kind of hack, like making the programming parts of an organization work differently from the rest.",
+      "Perhaps the optimal solution is for big companies not even to try to develop ideas in house, but simply to buy them. But regardless of what the solution turns out to be, the first step is to realize there's a problem.",
+      "There is a contradiction in the very phrase \"software company.\" The two words are pulling in opposite directions. Any good programmer in a large organization is going to be at odds with it, because organizations are designed to prevent what programmers strive for.Good programmers manage to get a lot done anyway.",
+      "But often it requires practically an act of rebellion against the organizations that employ them. Perhaps it will help if more people understand that the way programmers behave is driven by the demands of the work they do.",
+      "It's not because they're irresponsible that they work in long binges during which they blow off all other obligations, plunge straight into programming instead of writing specs first, and rewrite code that already works.",
+      "It's not because they're unfriendly that they prefer to work alone, or growl at people who pop their head in the door to say hello. This apparently random collection of annoying habits has a single explanation: the power of holding a program in one's head.Whether or not understanding this can help large organizations, it can certainly help their competitors.",
+      "The weakest point in big companies is that they don't let individual programmers do great work. So if you're a little startup, this is the place to attack them. Take on the kind of problems that have to be solved in one big brain.",
+      "Thanks to Sam Altman, David Greenspan, Aaron Iba, Jessica Livingston, Robert Morris, Peter Norvig, Lisa Randall, Emmett Shear, Sergei Tsarev, and Stephen Wolfram for reading drafts of this.Japanese TranslationSimplified Chinese TranslationPortuguese TranslationBulgarian TranslationRussian Translation"
+    ],
+    "word_count": 1823,
+    "paragraph_count": 37
+  },
+  "processed_at": "2025-07-26T19:02:51.824383",
+  "paragraphs": [
+    {
+      "original": "August 2007A good programmer working intensively on his own code can hold it in his mind the way a mathematician holds a problem he's working on. Mathematicians don't answer questions by working them out on paper the way schoolchildren are taught to.",
+      "translated": "2007年8月 一个优秀的程序员可以像数学家对待他们正在解决的问题那样，将自己编写的代码铭记于心。数学家并不会像学生那样通过在纸上计算来解答问题。"
+    },
+    {
+      "original": "They do more in their heads: they try to understand a problem space well enough that they can walk around it the way you can walk around the memory of the house you grew up in. At its best programming is the same.",
+      "translated": "他们在脑海中做得更多：他们努力充分理解一个问题领域，以便能够像你在脑海中回忆你成长的房子那样在其周围游走。在最好的情况下，编程也是如此。"
+    },
+    {
+      "original": "You hold the whole program in your head, and you can manipulate it at will.That's particularly valuable at the start of a project, because initially the most important thing is to be able to change what you're doing.",
+      "translated": "你将整个程序都装在脑子里，可以随心所欲地操纵它。这在项目开始时尤其有价值，因为最初最重要的是能够改变你正在做的事情。"
+    },
+    {
+      "original": "Not just to solve the problem in a different way, but to change the problem you're solving.Your code is your understanding of the problem you're exploring. So it's only when you have your code in your head that you really understand the problem.It's not easy to get a program into your head.",
+      "translated": "不仅仅是为了以不同的方式解决问题，而是要改变你所解决的问题。你的代码是你对所探索问题的理解。因此，只有当你将代码融入脑海时，你才真正理解了问题。将一个程序装进脑子里并不容易。"
+    },
+    {
+      "original": "If you leave a project for a few months, it can take days to really understand it again when you return to it. Even when you're actively working on a program it can take half an hour to load into your head when you start work each day.",
+      "translated": "如果你把一个项目放下几个月，再回来时可能需要几天时间才能真正理解它。即使在你积极从事一个项目时，每天开始工作时也需要半小时才能将它重新加载到脑海中。"
+    },
+    {
+      "original": "And that's in the best case. Ordinary programmers working in typical office conditions never enter this mode. Or to put it more dramatically, ordinary programmers working in typical office conditions never really understand the problems they're solving.Even the best programmers don't always have the whole program they're working on loaded into their heads.",
+      "translated": "这还是在最好的情况下。普通的程序员在典型的办公环境中工作时，从来不会进入这种状态。或者更戏剧性地说，普通的程序员在典型的办公环境中工作时，从来不会真正理解他们要解决的问题。即使是最好的程序员，也并不总是能将他们正在开发的整个程序都装在脑子里。"
+    },
+    {
+      "original": "But there are things you can do to help: Avoid distractions. Distractions are bad for many types of work, but especially bad for programming, because programmers tend to operate at the limit of the detail they can handle.The danger of a distraction depends not on how long it is, but on how much it scrambles your brain.",
+      "translated": "但你可以采取一些措施来帮助自己：避免分心。分心对许多类型的工作都是不利的，但对编程尤其有害，因为程序员通常处于他们能处理的细节极限。分心的危害不在于其持续时间的长短，而在于它对你的思维有多大的扰乱。"
+    },
+    {
+      "original": "A programmer can leave the office and go and get a sandwich without losing the code in his head. But the wrong kind of interruption can wipe your brain in 30 seconds.Oddly enough, scheduled distractions may be worse than unscheduled ones.",
+      "translated": "程序员可以离开办公室去拿个三明治，而不会因此忘记脑海中的代码。但不恰当的打扰却可能在30秒内让你的思路全乱。奇怪的是，有计划的打扰可能比突如其来的打扰更糟糕。"
+    },
+    {
+      "original": "If you know you have a meeting in an hour, you don't even start working on something hard. Work in long stretches. Since there's a fixed cost each time you start working on a program, it's more efficient to work in a few long sessions than many short ones.",
+      "translated": "如果你知道一小时后有一个会议，你就不会开始处理一件困难的任务。要长时间集中工作。因为每次开始编程都有一定的启动成本，所以与其分多次短时间工作，不如集中几次长时间工作更为高效。"
+    },
+    {
+      "original": "There will of course come a point where you get stupid because you're tired. This varies from person to person. I've heard of people hacking for 36 hours straight, but the most I've ever been able to manage is about 18, and I work best in chunks of no more than 12.The optimum is not the limit you can physically endure.",
+      "translated": "当然，当你因为疲劳而变得头脑不清的时候，这一点迟早会到来。这因人而异。我听说过有人连续工作36小时，但我最多只能坚持大约18小时，而且我最适合的工作时间是每次不超过12小时。最佳状态并不是你能物理上承受的极限。"
+    },
+    {
+      "original": "There's an advantage as well as a cost of breaking up a project. Sometimes when you return to a problem after a rest, you find your unconscious mind has left an answer waiting for you. Use succinct languages.",
+      "translated": "将项目分解既有优势也有成本。有时，你在休息后回到一个问题时，会发现你的潜意识已经为你准备了一个答案。使用简洁的语言。"
+    },
+    {
+      "original": "More powerful programming languages make programs shorter. And programmers seem to think of programs at least partially in the language they're using to write them. The more succinct the language, the shorter the program, and the easier it is to load and keep in your head.You can magnify the effect of a powerful language by using a style called bottom-up programming, where you write programs in multiple layers, the lower ones acting as programming languages for those above.",
+      "translated": "更强大的编程语言使程序变得更短。程序员在编写程序时，至少部分地会用到他们所使用的语言来思考。语言越简洁，程序就越短，也越容易在脑海中加载和保持。你可以通过使用一种称为自底向上的编程风格来放大强大语言的效果，这种风格是在多个层次上编写程序，较低层次的程序充当较高层次程序的编程语言。"
+    },
+    {
+      "original": "If you do this right, you only have to keep the topmost layer in your head. Keep rewriting your program. Rewriting a program often yields a cleaner design. But it would have advantages even if it didn't: you have to understand a program completely to rewrite it, so there is no better way to get one loaded into your head.",
+      "translated": "如果你做得正确，只需将最上层的内容牢记在心。不断重写你的程序。重写程序通常会产生更简洁的设计。即使没有产生更好的设计，这样做也有好处：要完全理解一个程序才能重写它，因此没有比这更好的方法将程序装进你的头脑中。"
+    },
+    {
+      "original": "Write rereadable code. All programmers know it's good to write readable code. But you yourself are the most important reader. Especially in the beginning; a prototype is a conversation with yourself.",
+      "translated": "编写可重读的代码。所有程序员都知道编写可读代码很重要。但最重要的读者其实是你自己。尤其是在刚开始的时候；原型就是你与自己的对话。"
+    },
+    {
+      "original": "And when writing for yourself you have different priorities. If you're writing for other people, you may not want to make code too dense. Some parts of a program may be easiest to read if you spread things out, like an introductory textbook.",
+      "translated": "当你为自己写作时，你有不同的优先事项。如果你是为其他人写作，你可能不希望让代码过于密集。程序的某些部分可能在分散开来写时更容易阅读，就像入门教科书一样。"
+    },
+    {
+      "original": "Whereas if you're writing code to make it easy to reload into your head, it may be best to go for brevity. Work in small groups. When you manipulate a program in your head, your vision tends to stop at the edge of the code you own.",
+      "translated": "如果你编写代码的目的是为了便于重新加载到你的大脑中，那么简洁可能是最好的选择。小团队工作。当你在脑海中操作一个程序时，你的视野往往只限于你所拥有的代码部分。"
+    },
+    {
+      "original": "Other parts you don't understand as well, and more importantly, can't take liberties with. So the smaller the number of programmers, the more completely a project can mutate. If there's just one programmer, as there often is at first, you can do all-encompassing redesigns.",
+      "translated": "其他部分你也不太理解，更重要的是，不能随意改动。因此，程序员数量越少，项目的变化就可能越彻底。如果只有一个程序员，就像最初时常出现的情况那样，你可以进行全面的重新设计。"
+    },
+    {
+      "original": "Don't have multiple people editing the same piece of code. You never understand other people's code as well as your own. No matter how thoroughly you've read it, you've only read it, not written it. So if a piece of code is written by multiple authors, none of them understand it as well as a single author would.And of course you can't safely redesign something other people are working on.",
+      "translated": "不要让多个人同时编辑同一段代码。你永远无法像理解自己的代码那样理解他人的代码。无论你读得多么仔细，你只是读过，而不是写过。因此，如果一段代码由多个作者编写，他们中没有人能像单一作者那样理解它。当然，你也不能安全地重新设计其他人在处理的内容。"
+    },
+    {
+      "original": "It's not just that you'd have to ask permission. You don't even let yourself think of such things. Redesigning code with several authors is like changing laws; redesigning code you alone control is like seeing the other interpretation of an ambiguous image.If you want to put several people to work on a project, divide it into components and give each to one person.",
+      "translated": "这不仅是要征得许可。你甚至不允许自己去想这样的事。重新设计多位作者的代码就像修改法律；重新设计你自己掌控的代码则像是看到模棱两可图像的另一种解释。如果你想让多个人参与一个项目，就将其分成若干组件，每个组件分配给一个人。"
+    },
+    {
+      "original": "Start small. A program gets easier to hold in your head as you become familiar with it. You can start to treat parts as black boxes once you feel confident you've fully explored them. But when you first start working on a project, you're forced to see everything.",
+      "translated": "从小处着手。当你对一个程序越来越熟悉时，理解它就会变得更容易。一旦你对自己的探索充满信心，就可以开始将某些部分视为黑盒。但在刚开始着手一个项目时，你不得不面对所有细节。"
+    },
+    {
+      "original": "If you start with too big a problem, you may never quite be able to encompass it. So if you need to write a big, complex program, the best way to begin may not be to write a spec for it, but to write a prototype that solves a subset of the problem.",
+      "translated": "如果你一开始面对的问题太过庞大，你可能永远都无法完全解决它。所以，如果你需要编写一个大型、复杂的程序，最好的开始方式可能不是先编写程序规格说明，而是先编写一个解决部分问题的原型。"
+    },
+    {
+      "original": "Whatever the advantages of planning, they're often outweighed by the advantages of being able to keep a program in your head. It's striking how often programmers manage to hit all eight points by accident.",
+      "translated": "无论计划的优点如何，它们常常被能够将程序保持在头脑中的优势所超越。令人惊讶的是，程序员经常意外地达到了这八个要点。"
+    },
+    {
+      "original": "Someone has an idea for a new project, but because it's not officially sanctioned, he has to do it in off hours—which turn out to be more productive because there are no distractions. Driven by his enthusiasm for the new project he works on it for many hours at a stretch.",
+      "translated": "有人对一个新项目有了想法，但由于没有正式批准，他不得不在业余时间进行——而这段时间反而更高效，因为没有干扰。出于对新项目的热情，他连续工作了多个小时。"
+    },
+    {
+      "original": "Because it's initially just an experiment, instead of a \"production\" language he uses a mere \"scripting\" language—which is in fact far more powerful. He completely rewrites the program several times; that wouldn't be justifiable for an official project, but this is a labor of love and he wants it to be perfect.",
+      "translated": "因为这最初只是一个实验，他使用了一种简单的“脚本”语言，而不是“生产”语言——实际上这种语言更加强大。他多次完全重写了程序；对于正式项目来说，这样做是不合理的，但这是他出于热爱的项目，他希望它能尽善尽美。"
+    },
+    {
+      "original": "And since no one is going to see it except him, he omits any comments except the note-to-self variety. He works in a small group perforce, because he either hasn't told anyone else about the idea yet, or it seems so unpromising that no one else is allowed to work on it.",
+      "translated": "由于除了他自己没有人会看到，他省略了除自我提醒之外的所有评论。他被迫在一个小组中工作，因为他要么还没有告诉其他人这个想法，要么这个想法显得如此没有希望，以至于不允许其他人参与。"
+    },
+    {
+      "original": "Even if there is a group, they couldn't have multiple people editing the same code, because it changes too fast for that to be possible. And the project starts small because the idea is small at first; he just has some cool hack he wants to try out.Even more striking are the number of officially sanctioned projects that manage to do all eight things wrong.",
+      "translated": "即使有一个团队，他们也无法让多人同时编辑同一段代码，因为代码变化得太快，使得这样做根本不可能。项目一开始规模很小，因为最初的想法也很小；他只是想尝试一些很酷的黑客技术。更令人震惊的是，那些正式批准的项目竟然能把这八件事全都做错。"
+    },
+    {
+      "original": "In fact, if you look at the way software gets written in most organizations, it's almost as if they were deliberately trying to do things wrong. In a sense, they are. One of the defining qualities of organizations since there have been such a thing is to treat individuals as interchangeable parts.",
+      "translated": "事实上，如果你看看大多数组织中软件的开发方式，几乎就像是故意要把事情做错一样。从某种意义上说，他们确实如此。自从有组织以来，将个人视为可互换的部件，这一直是组织的一个显著特征。"
+    },
+    {
+      "original": "This works well for more parallelizable tasks, like fighting wars. For most of history a well-drilled army of professional soldiers could be counted on to beat an army of individual warriors, no matter how valorous.",
+      "translated": "这在处理更易并行化的任务时效果显著，比如战争。在大多数历史时期，一支训练有素的职业军队可以指望击败由个体勇士组成的军队，无论这些勇士多么英勇。"
+    },
+    {
+      "original": "But having ideas is not very parallelizable. And that's what programs are: ideas.It's not merely true that organizations dislike the idea of depending on individual genius, it's a tautology. It's part of the definition of an organization not to.",
+      "translated": "但是，产生想法并不能很好地并行化。而程序正是由这些想法构成的。组织不喜欢依赖个人天才的想法不仅是一个事实，而是一个同义反复。根据组织的定义，它们就是不会这样做。"
+    },
+    {
+      "original": "Of our current concept of an organization, at least.Maybe we could define a new kind of organization that combined the efforts of individuals without requiring them to be interchangeable. Arguably a market is such a form of organization, though it may be more accurate to describe a market as a degenerate case—as what you get by default when organization isn't possible.Probably the best we'll do is some kind of hack, like making the programming parts of an organization work differently from the rest.",
+      "translated": "关于我们目前对组织的概念，至少可以这么说。也许我们可以定义一种新的组织形式，将个人的努力结合起来，而不需要他们彼此可互换。可以说，市场就是这样的组织形式，尽管更准确的描述可能是市场是一种退化形式——即当无法实现组织时所得到的默认状态。我们可能能做到的最好的就是某种“权宜之计”，比如让组织中的编程部分与其他部分运作方式不同。"
+    },
+    {
+      "original": "Perhaps the optimal solution is for big companies not even to try to develop ideas in house, but simply to buy them. But regardless of what the solution turns out to be, the first step is to realize there's a problem.",
+      "translated": "或许最佳的解决方案是大公司根本不要试图内部开发创意，而是直接购买。但无论最终的解决方案是什么，第一步是要意识到问题的存在。"
+    },
+    {
+      "original": "There is a contradiction in the very phrase \"software company.\" The two words are pulling in opposite directions. Any good programmer in a large organization is going to be at odds with it, because organizations are designed to prevent what programmers strive for.Good programmers manage to get a lot done anyway.",
+      "translated": "“软件公司”这一说法本身存在矛盾。这两个词的含义是朝着相反方向的。在大型组织中，任何优秀的程序员都可能与之产生冲突，因为组织的设计是为了阻止程序员所追求的目标。尽管如此，优秀的程序员仍然设法完成了许多工作。"
+    },
+    {
+      "original": "But often it requires practically an act of rebellion against the organizations that employ them. Perhaps it will help if more people understand that the way programmers behave is driven by the demands of the work they do.",
+      "translated": "但往往这需要他们对雇佣他们的组织几乎进行一场反抗。如果更多的人能理解程序员的行为是由他们工作的需求所驱动的，也许会有帮助。"
+    },
+    {
+      "original": "It's not because they're irresponsible that they work in long binges during which they blow off all other obligations, plunge straight into programming instead of writing specs first, and rewrite code that already works.",
+      "translated": "这并不是因为他们不负责任，所以他们会长时间地工作，期间忽略所有其他义务，直接投入编程而不是先写规范，甚至重写已经可以正常工作的代码。"
+    },
+    {
+      "original": "It's not because they're unfriendly that they prefer to work alone, or growl at people who pop their head in the door to say hello. This apparently random collection of annoying habits has a single explanation: the power of holding a program in one's head.Whether or not understanding this can help large organizations, it can certainly help their competitors.",
+      "translated": "他们喜欢独自工作，或者对那些探头进来打招呼的人皱眉，并不是因为他们不友好。这些看似随意的令人讨厌的习惯，其实有一个共同的解释：将程序装在脑子里的力量。无论理解这一点是否能帮助大型组织，它肯定能帮助他们的竞争对手。"
+    },
+    {
+      "original": "The weakest point in big companies is that they don't let individual programmers do great work. So if you're a little startup, this is the place to attack them. Take on the kind of problems that have to be solved in one big brain.",
+      "translated": "大公司在最薄弱的地方是不允许个别程序员做出杰出的工作。所以，如果你是一个小创业公司，这就是你攻击他们的地方。承担那些需要在一个大脑中解决的问题。"
+    },
+    {
+      "original": "Thanks to Sam Altman, David Greenspan, Aaron Iba, Jessica Livingston, Robert Morris, Peter Norvig, Lisa Randall, Emmett Shear, Sergei Tsarev, and Stephen Wolfram for reading drafts of this.Japanese TranslationSimplified Chinese TranslationPortuguese TranslationBulgarian TranslationRussian Translation",
+      "translated": "感谢Sam Altman、David Greenspan、Aaron Iba、Jessica Livingston、Robert Morris、Peter Norvig、Lisa Randall、Emmett Shear、Sergei Tsarev和Stephen Wolfram阅读本文的草稿。日文翻译简体中文翻译葡萄牙语翻译保加利亚语翻译俄语翻译"
+    }
+  ],
+  "translation_completed": "2025-07-28T15:05:17.623593",
+  "translation_stats": {
+    "total_paragraphs": 37,
+    "success_count": 37,
+    "success_rate": "100.0%"
+  }
+}

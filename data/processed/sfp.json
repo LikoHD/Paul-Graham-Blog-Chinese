@@ -1,0 +1,269 @@
+{
+  "title": "What I Did this Summer",
+  "title_zh": "[待翻译] What I Did this Summer",
+  "url": "https://www.paulgraham.com/sfp.html",
+  "filename": "sfp.html",
+  "date": "2021-04-06",
+  "id": 30,
+  "content": {
+    "success": true,
+    "paragraphs": [
+      "October 2005The first Summer Founders Program has just finished. We were surprised how well it went. Overall only about 10% of startups succeed, but if I had to guess now, I'd predict three or four of the eight startups we funded will make it.Of the startups that needed further funding, I believe all have either closed a round or are likely to soon.",
+      "Two have already turned down (lowball) acquisition offers.We would have been happy if just one of the eight seemed promising by the end of the summer. What's going on? Did some kind of anomaly make this summer's applicants especially good?",
+      "We worry about that, but we can't think of one. We'll find out this winter.The whole summer was full of surprises. The best was that the hypothesis we were testing seems to be correct. Young hackers can start viable companies.",
+      "This is good news for two reasons: (a) it's an encouraging thought, and (b) it means that Y Combinator, which is predicated on the idea, is not hosed.AgeMore precisely, the hypothesis was that success in a startup depends mainly on how smart and energetic you are, and much less on how old you are or how much business experience you have.",
+      "The results so far bear this out. The 2005 summer founders ranged in age from 18 to 28 (average 23), and there is no correlation between their ages and how well they're doing.This should not really be surprising.",
+      "Bill Gates and Michael Dell were both 19 when they started the companies that made them famous. Young founders are not a new phenomenon: the trend began as soon as computers got cheap enough for college kids to afford them.Another of our hypotheses was that you can start a startup on less money than most people think.",
+      "Other investors were surprised to hear the most we gave any group was $20,000. But we knew it was possible to start on that little because we started Viaweb on $10,000.And so it proved this summer. Three months' funding is enough to get into second gear.",
+      "We had a demo day for potential investors ten weeks in, and seven of the eight groups had a prototype ready by that time. One, Reddit, had already launched, and were able to give a demo of their live site.A researcher who studied the SFP startups said the one thing they had in common was that they all worked ridiculously hard.",
+      "People this age are commonly seen as lazy. I think in some cases it's not so much that they lack the appetite for work, but that the work they're offered is unappetizing.The experience of the SFP suggests that if you let motivated people do real work, they work hard, whatever their age.",
+      "As one of the founders said \"I'd read that starting a startup consumed your life, but I had no idea what that meant until I did it.\"I'd feel guilty if I were a boss making people work this hard. But we're not these people's bosses.",
+      "They're working on their own projects. And what makes them work is not us but their competitors. Like good athletes, they don't work hard because the coach yells at them, but because they want to win.We have less power than bosses, and yet the founders work harder than employees.",
+      "It seems like a win for everyone. The only catch is that we get on average only about 5-7% of the upside, while an employer gets nearly all of it. (We're counting on it being 5-7% of a much larger number.)As well as working hard, the groups all turned out to be extraordinarily responsible.",
+      "I can't think of a time when one failed to do something they'd promised to, even by being late for an appointment. This is another lesson the world has yet to learn. One of the founders discovered that the hardest part of arranging a meeting with executives at a big cell phone carrier was getting a rental company to rent him a car, because he was too young.I think the problem here is much the same as with the apparent laziness of people this age.",
+      "They seem lazy because the work they're given is pointless, and they act irresponsible because they're not given any power. Some of them, anyway. We only have a sample size of about twenty, but it seems so far that if you let people in their early twenties be their own bosses, they rise to the occasion.MoraleThe summer founders were as a rule very idealistic.",
+      "They also wanted very much to get rich. These qualities might seem incompatible, but they're not. These guys want to get rich, but they want to do it by changing the world. They wouldn't (well, seven of the eight groups wouldn't) be interested in making money by speculating in stocks.",
+      "They want to make something people use.I think this makes them more effective as founders. As hard as people will work for money, they'll work harder for a cause. And since success in a startup depends so much on motivation, the paradoxical result is that the people likely to make the most money are those who aren't in it just for the money.The founders of Kiko, for example, are working on an Ajax calendar.",
+      "They want to get rich, but they pay more attention to design than they would if that were their only motivation. You can tell just by looking at it.I never considered it till this summer, but this might be another reason startups run by hackers tend to do better than those run by MBAs.",
+      "Perhaps it's not just that hackers understand technology better, but that they're driven by more powerful motivations. Microsoft, as I've said before, is a dangerously misleading example. Their mean corporate culture only works for monopolies.",
+      "Google is a better model.Considering that the summer founders are the sharks in this ocean, we were surprised how frightened most of them were of competitors. But now that I think of it, we were just as frightened when we started Viaweb.",
+      "For the first year, our initial reaction to news of a competitor was always: we're doomed. Just as a hypochondriac magnifies his symptoms till he's convinced he has some terrible disease, when you're not used to competitors you magnify them into monsters.Here's a handy rule for startups: competitors are rarely as dangerous as they seem.",
+      "Most will self-destruct before you can destroy them. And it certainly doesn't matter how many of them there are, any more than it matters to the winner of a marathon how many runners are behind him.\"It's a crowded market,\" I remember one founder saying worriedly.\"Are you the current leader?\" I asked.\"Yes.\"\"Is anyone able to develop software faster than you?\"\"Probably not.\"\"Well, if you're ahead now, and you're the fastest, then you'll stay ahead.",
+      "What difference does it make how many others there are?\"Another group was worried when they realized they had to rewrite their software from scratch. I told them it would be a bad sign if they didn't.",
+      "The main function of your initial version is to be rewritten.That's why we advise groups to ignore issues like scalability, internationalization, and heavy-duty security at first. [1] I can imagine an advocate of \"best practices\" saying these ought to be considered from the start.",
+      "And he'd be right, except that they interfere with the primary function of software in a startup: to be a vehicle for experimenting with its own design. Having to retrofit internationalization or scalability is a pain, certainly.",
+      "The only bigger pain is not needing to, because your initial version was too big and rigid to evolve into something users wanted.I suspect this is another reason startups beat big companies. Startups can be irresponsible and release version 1s that are light enough to evolve.",
+      "In big companies, all the pressure is in the direction of over-engineering.What Got LearnedOne thing we were curious about this summer was where these groups would need help. That turned out to vary a lot.",
+      "Some we helped with technical advice-- for example, about how to set up an application to run on multiple servers. Most we helped with strategy questions, like what to patent, and what to charge for and what to give away.",
+      "Nearly all wanted advice about dealing with future investors: how much money should they take and what kind of terms should they expect?However, all the groups quickly learned how to deal with stuff like patents and investors.",
+      "These problems aren't intrinsically difficult, just unfamiliar.It was surprising-- slightly frightening even-- how fast they learned. The weekend before the demo day for investors, we had a practice session where all the groups gave their presentations.",
+      "They were all terrible. We tried to explain how to make them better, but we didn't have much hope. So on demo day I told the assembled angels and VCs that these guys were hackers, not MBAs, and so while their software was good, we should not expect slick presentations from them.The groups then proceeded to give fabulously slick presentations.",
+      "Gone were the mumbling recitations of lists of features. It was as if they'd spent the past week at acting school. I still don't know how they did it.Perhaps watching each others' presentations helped them see what they'd been doing wrong.",
+      "Just as happens in college, the summer founders learned a lot from one another-- maybe more than they learned from us. A lot of the problems they face are the same, from dealing with investors to hacking Javascript.I don't want to give the impression there were no problems this summer.",
+      "A lot went wrong, as usually happens with startups. One group got an \"exploding term-sheet\" from some VCs. Pretty much all the groups who had dealings with big companies found that big companies do everything infinitely slowly.",
+      "(This is to be expected. If big companies weren't incapable, there would be no room for startups to exist.) And of course there were the usual nightmares associated with servers. In short, the disasters this summer were just the usual childhood diseases.",
+      "Some of this summer's eight startups will probably die eventually; it would be extraordinary if all eight succeeded. But what kills them will not be dramatic, external threats, but a mundane, internal one: not getting enough done.So far, though, the news is all good.",
+      "In fact, we were surprised how much fun the summer was for us. The main reason was how much we liked the founders. They're so earnest and hard-working. They seem to like us too. And this illustrates another advantage of investing over hiring: our relationship with them is way better than it would be between a boss and an employee.",
+      "Y Combinator ends up being more like an older brother than a parent.I was surprised how much time I spent making introductions. Fortunately I discovered that when a startup needed to talk to someone, I could usually get to the right person by at most one hop.",
+      "I remember wondering, how did my friends get to be so eminent? and a second later realizing: shit, I'm forty.Another surprise was that the three-month batch format, which we were forced into by the constraints of the summer, turned out to be an advantage.",
+      "When we started Y Combinator, we planned to invest the way other venture firms do: as proposals came in, we'd evaluate them and decide yes or no. The SFP was just an experiment to get things started.",
+      "But it worked so well that we plan to do all our investing this way, one cycle in the summer and one in winter. It's more efficient for us, and better for the startups too.Several groups said our weekly dinners saved them from a common problem afflicting startups: working so hard that one has no social life.",
+      "(I remember that part all too well.) This way, they were guaranteed a social event at least once a week.IndependenceI've heard Y Combinator described as an \"incubator.\" Actually we're the opposite: incubators exert more control than ordinary VCs, and we make a point of exerting less.",
+      "Among other things, incubators usually make you work in their office-- that's where the word \"incubator\" comes from. That seems the wrong model. If investors get too involved, they smother one of the most powerful forces in a startup: the feeling that it's your own company.Incubators were conspicuous failures during the Bubble.",
+      "There's still debate about whether this was because of the Bubble, or because they're a bad idea. My vote is they're a bad idea. I think they fail because they select for the wrong people. When we were starting a startup, we would never have taken funding from an \"incubator.\" We can find office space, thanks; just give us the money.",
+      "And people with that attitude are the ones likely to succeed in startups.Indeed, one quality all the founders shared this summer was a spirit of independence. I've been wondering about that. Are some people just a lot more independent than others, or would everyone be this way if they were allowed to?As with most nature/nurture questions, the answer is probably: some of each.",
+      "But my main conclusion from the summer is that there's more environment in the mix than most people realize. I could see that from how the founders' attitudes changed during the summer. Most were emerging from twenty or so years of being told what to do.",
+      "They seemed a little surprised at having total freedom. But they grew into it really quickly; some of these guys now seem about four inches taller (metaphorically) than they did at the beginning of the summer.When we asked the summer founders what surprised them most about starting a company, one said \"the most shocking thing is that it worked.\"It will take more experience to know for sure, but my guess is that a lot of hackers could do this-- that if you put people in a position of independence, they develop the qualities they need.",
+      "Throw them off a cliff, and most will find on the way down that they have wings.The reason this is news to anyone is that the same forces work in the other direction too. Most hackers are employees, and this molds you into someone to whom starting a startup seems impossible as surely as starting a startup molds you into someone who can handle it.If I'm right, \"hacker\" will mean something different in twenty years than it does now.",
+      "Increasingly it will mean the people who run the company. Y Combinator is just accelerating a process that would have happened anyway. Power is shifting from the people who deal with money to the people who create technology, and if our experience this summer is any guide, this will be a good thing.Notes[1] By heavy-duty security I mean efforts to protect against truly determined attackers.The image shows us, the 2005 summer founders, and Smartleaf co-founders Mark Nitzberg and Olin Shivers at the 30-foot table Kate Courteau designed for us.",
+      "Photo by Alex Lewin.Thanks to Sarah Harlin, Steve Huffman, Jessica Livingston, Zak Stone, and Aaron Swartz for reading drafts of this. Romanian TranslationJapanese Translation"
+    ],
+    "word_count": 2522,
+    "paragraph_count": 49
+  },
+  "processed_at": "2025-07-26T19:02:19.787018",
+  "paragraphs": [
+    {
+      "original": "October 2005The first Summer Founders Program has just finished. We were surprised how well it went. Overall only about 10% of startups succeed, but if I had to guess now, I'd predict three or four of the eight startups we funded will make it.Of the startups that needed further funding, I believe all have either closed a round or are likely to soon.",
+      "translated": "2005年10月，第一届夏季创始人计划刚刚结束。我们对它的顺利进行感到惊讶。总体而言，大约只有10%的创业公司能成功，但如果我现在要预测的话，我会认为我们资助的八家创业公司中，有三到四家将会成功。对于需要进一步资金支持的创业公司，我相信它们要么已经完成了一轮融资，要么很快就会完成。"
+    },
+    {
+      "original": "Two have already turned down (lowball) acquisition offers.We would have been happy if just one of the eight seemed promising by the end of the summer. What's going on? Did some kind of anomaly make this summer's applicants especially good?",
+      "translated": "已经有两家拒绝了（压低报价的）收购提议。如果到夏天结束时，八个申请人中只有一个看起来有希望，我们也会感到满意。到底发生了什么？是某种异常情况使得今年夏天的申请人特别优秀吗？"
+    },
+    {
+      "original": "We worry about that, but we can't think of one. We'll find out this winter.The whole summer was full of surprises. The best was that the hypothesis we were testing seems to be correct. Young hackers can start viable companies.",
+      "translated": "我们对此感到担忧，但想不出解决办法。我们会在今年冬天见分晓。整个夏天充满了意外。最好的消息是，我们所测试的假设似乎是对的。年轻的黑客们确实可以创办有潜力的公司。"
+    },
+    {
+      "original": "This is good news for two reasons: (a) it's an encouraging thought, and (b) it means that Y Combinator, which is predicated on the idea, is not hosed.AgeMore precisely, the hypothesis was that success in a startup depends mainly on how smart and energetic you are, and much less on how old you are or how much business experience you have.",
+      "translated": "这是个好消息，原因有二：（a）这是一个令人鼓舞的想法，（b）这意味着基于这一理念的 Y Combinator 并没有陷入困境。更准确地说，这一假设认为，创业公司的成功主要取决于你的智慧和精力，而与你的年龄或商业经验关系不大。"
+    },
+    {
+      "original": "The results so far bear this out. The 2005 summer founders ranged in age from 18 to 28 (average 23), and there is no correlation between their ages and how well they're doing.This should not really be surprising.",
+      "translated": "迄今为止的结果证明了这一点。2005年夏季的创始人年龄在18岁到28岁之间（平均23岁），他们的年龄与表现之间没有相关性。这实际上并不令人惊讶。"
+    },
+    {
+      "original": "Bill Gates and Michael Dell were both 19 when they started the companies that made them famous. Young founders are not a new phenomenon: the trend began as soon as computers got cheap enough for college kids to afford them.Another of our hypotheses was that you can start a startup on less money than most people think.",
+      "translated": "比尔·盖茨和迈克尔·戴尔在19岁时都创办了让他们成名的公司。年轻创始人并不是一个新现象：这一趋势始于计算机便宜到大学生买得起的时候。我们的另一个假设是，你可以用比大多数人想象的更少的资金来创办一家创业公司。"
+    },
+    {
+      "original": "Other investors were surprised to hear the most we gave any group was $20,000. But we knew it was possible to start on that little because we started Viaweb on $10,000.And so it proved this summer. Three months' funding is enough to get into second gear.",
+      "translated": "其他投资者听到我们给任何团队的最高投资是2万美元时都感到惊讶。但我们知道，用这么少的钱开始创业是完全可能的，因为我们当初用1万美元就创办了Viaweb。事实证明，今年夏天，三个月的资金就足以让项目进入加速阶段。"
+    },
+    {
+      "original": "We had a demo day for potential investors ten weeks in, and seven of the eight groups had a prototype ready by that time. One, Reddit, had already launched, and were able to give a demo of their live site.A researcher who studied the SFP startups said the one thing they had in common was that they all worked ridiculously hard.",
+      "translated": "我们在进行到第十周时为潜在投资者举办了一次展示日，八组中有七组到那时已经准备好了一个原型。其中，Reddit已经上线，能够展示他们的实际网站。一位研究SFP初创企业的研究人员表示，这些企业共同的特点是他们都异常努力地工作。"
+    },
+    {
+      "original": "People this age are commonly seen as lazy. I think in some cases it's not so much that they lack the appetite for work, but that the work they're offered is unappetizing.The experience of the SFP suggests that if you let motivated people do real work, they work hard, whatever their age.",
+      "translated": "这个时代的人常常被认为是懒惰的。我认为在某些情况下，并不是他们缺乏工作热情，而是提供的工作缺乏吸引力。SFP的经验表明，如果你让有动力的人去做真正的工作，无论年龄大小，他们都会努力工作。"
+    },
+    {
+      "original": "As one of the founders said \"I'd read that starting a startup consumed your life, but I had no idea what that meant until I did it.\"I'd feel guilty if I were a boss making people work this hard. But we're not these people's bosses.",
+      "translated": "正如一位创始人所说：“我读过创办一家创业公司会占据你的全部生活，但直到我真正去做了，才明白这意味着什么。”如果我是老板，让别人这么努力工作，我会感到内疚。但我们并不是这些人的老板。"
+    },
+    {
+      "original": "They're working on their own projects. And what makes them work is not us but their competitors. Like good athletes, they don't work hard because the coach yells at them, but because they want to win.We have less power than bosses, and yet the founders work harder than employees.",
+      "translated": "他们正在自己的项目上努力工作。促使他们努力的并非我们，而是他们的竞争对手。就像优秀的运动员一样，他们努力并不是因为教练的呵斥，而是因为他们想要获胜。我们作为老板的权力其实很小，但创始人却比员工更加努力。"
+    },
+    {
+      "original": "It seems like a win for everyone. The only catch is that we get on average only about 5-7% of the upside, while an employer gets nearly all of it. (We're counting on it being 5-7% of a much larger number.)As well as working hard, the groups all turned out to be extraordinarily responsible.",
+      "translated": "这似乎对每个人都有利。唯一的缺点是，我们平均只能获得大约5-7%的收益，而雇主几乎可以得到全部。（我们指望这是更大数字的5-7%。）除了努力工作，这些团队还表现出了极其强烈的责任感。"
+    },
+    {
+      "original": "I can't think of a time when one failed to do something they'd promised to, even by being late for an appointment. This is another lesson the world has yet to learn. One of the founders discovered that the hardest part of arranging a meeting with executives at a big cell phone carrier was getting a rental company to rent him a car, because he was too young.I think the problem here is much the same as with the apparent laziness of people this age.",
+      "translated": "我想不出有哪个时候，有人没有履行他们承诺要做的事情，哪怕是因为迟到而爽约。这是世界尚未学会的另一课。一位创始人发现，与一家大型手机运营商的高管安排会面时，最困难的部分是从租车公司租到车，因为他年龄太小。我认为这里的问题与这个时代人们表面上的懒惰是一样的。"
+    },
+    {
+      "original": "They seem lazy because the work they're given is pointless, and they act irresponsible because they're not given any power. Some of them, anyway. We only have a sample size of about twenty, but it seems so far that if you let people in their early twenties be their own bosses, they rise to the occasion.MoraleThe summer founders were as a rule very idealistic.",
+      "translated": "他们看起来懒散，是因为分配给他们的工作毫无意义，他们表现得不负责任，是因为没有赋予他们任何权力。当然，这仅适用于其中一些人。我们目前只有大约二十人的样本量，但到目前为止，似乎如果你让二十出头的年轻人自己当老板，他们会不负众望。士气这些暑期创始人普遍非常理想主义。"
+    },
+    {
+      "original": "They also wanted very much to get rich. These qualities might seem incompatible, but they're not. These guys want to get rich, but they want to do it by changing the world. They wouldn't (well, seven of the eight groups wouldn't) be interested in making money by speculating in stocks.",
+      "translated": "他们也非常想变得富有。这些特质看似不相容，但实际上并非如此。这些人想变得富有，但他们希望通过改变世界来实现这一目标。他们（好吧，是八个团体中的七个）对通过股票投机来赚钱不感兴趣。"
+    },
+    {
+      "original": "They want to make something people use.I think this makes them more effective as founders. As hard as people will work for money, they'll work harder for a cause. And since success in a startup depends so much on motivation, the paradoxical result is that the people likely to make the most money are those who aren't in it just for the money.The founders of Kiko, for example, are working on an Ajax calendar.",
+      "translated": "他们希望做出人们会使用的产品。我认为这使他们作为创始人更加有效。尽管人们为了钱会努力工作，但他们会为了一个目标更加努力。由于创业公司的成功很大程度上取决于动力，因此产生了一个看似矛盾的结果，那就是最有可能赚大钱的人是那些不仅仅为了钱而创业的人。例如，Kiko 的创始人正在开发一个 Ajax 日历。"
+    },
+    {
+      "original": "They want to get rich, but they pay more attention to design than they would if that were their only motivation. You can tell just by looking at it.I never considered it till this summer, but this might be another reason startups run by hackers tend to do better than those run by MBAs.",
+      "translated": "他们想要致富，但比起单纯追求财富，他们更加注重设计。这一点只要看看就能明白。直到今年夏天之前，我从未考虑过这个问题，但这可能是黑客创办的初创公司比MBA创办的公司表现更好的另一个原因。"
+    },
+    {
+      "original": "Perhaps it's not just that hackers understand technology better, but that they're driven by more powerful motivations. Microsoft, as I've said before, is a dangerously misleading example. Their mean corporate culture only works for monopolies.",
+      "translated": "也许不仅仅是因为黑客更懂技术，而是因为他们有着更强大的动力。正如我之前所说，微软是一个危险的误导性例子。他们那种冷酷的企业文化只适用于垄断企业。"
+    },
+    {
+      "original": "Google is a better model.Considering that the summer founders are the sharks in this ocean, we were surprised how frightened most of them were of competitors. But now that I think of it, we were just as frightened when we started Viaweb.",
+      "translated": "谷歌是一个更好的模型。考虑到这些夏季创始人是这片海洋中的鲨鱼，我们对大多数创始人对竞争对手的恐惧感到惊讶。但回想起来，当我们开始Viaweb时，我们也同样感到害怕。"
+    },
+    {
+      "original": "For the first year, our initial reaction to news of a competitor was always: we're doomed. Just as a hypochondriac magnifies his symptoms till he's convinced he has some terrible disease, when you're not used to competitors you magnify them into monsters.Here's a handy rule for startups: competitors are rarely as dangerous as they seem.",
+      "translated": "在第一年，我们对竞争对手的消息最初的反应总是：我们完了。就像一个疑病症患者会夸大自己的症状，直到相信自己患上了某种可怕的疾病一样，当你不习惯面对竞争对手时，你会将它们夸大成怪物。这里有一个对初创公司很有用的规则：竞争对手很少像看上去那么危险。"
+    },
+    {
+      "original": "Most will self-destruct before you can destroy them. And it certainly doesn't matter how many of them there are, any more than it matters to the winner of a marathon how many runners are behind him.\"It's a crowded market,\" I remember one founder saying worriedly.\"Are you the current leader?\" I asked.\"Yes.\"\"Is anyone able to develop software faster than you?\"\"Probably not.\"\"Well, if you're ahead now, and you're the fastest, then you'll stay ahead.",
+      "translated": "大多数人会在你消灭他们之前自毁。当然，他们的数量多少并不重要，就像马拉松的冠军不会关心身后有多少选手一样。“这是一个竞争激烈的市场，”我记得一位创始人曾担忧地说。“你是当前的领先者吗？”我问道。“是的。”“有人能比你更快地开发软件吗？”“大概没有。”“那么，如果你现在领先，而且你是最快的，那你就会一直领先。”"
+    },
+    {
+      "original": "What difference does it make how many others there are?\"Another group was worried when they realized they had to rewrite their software from scratch. I told them it would be a bad sign if they didn't.",
+      "translated": "“其他人有多少有什么区别吗？”另一个团队在意识到他们必须从头开始重写软件时感到担心。我告诉他们，如果不这样的话反而是个不好的迹象。"
+    },
+    {
+      "original": "The main function of your initial version is to be rewritten.That's why we advise groups to ignore issues like scalability, internationalization, and heavy-duty security at first. [1] I can imagine an advocate of \"best practices\" saying these ought to be considered from the start.",
+      "translated": "你初始版本的主要功能是需要重写的。这就是为什么我们建议团队在一开始忽略可扩展性、国际化和 heavyweight 安全等问题。[1] 我可以想象一位“最佳实践”的倡导者会说这些应该从一开始就考虑。"
+    },
+    {
+      "original": "And he'd be right, except that they interfere with the primary function of software in a startup: to be a vehicle for experimenting with its own design. Having to retrofit internationalization or scalability is a pain, certainly.",
+      "translated": "他这么说没错，只是他们干扰了初创公司软件的主要功能：作为自我设计实验的载体。确实，事后添加国际化或可扩展性会很麻烦。"
+    },
+    {
+      "original": "The only bigger pain is not needing to, because your initial version was too big and rigid to evolve into something users wanted.I suspect this is another reason startups beat big companies. Startups can be irresponsible and release version 1s that are light enough to evolve.",
+      "translated": "更大的痛苦是不需要这样做，因为最初的版本太大太僵化，无法演变成用户想要的东西。我怀疑这是初创公司击败大公司的另一个原因。初创公司可以不负责任地发布足够轻量、易于演进的1.0版本。"
+    },
+    {
+      "original": "In big companies, all the pressure is in the direction of over-engineering.What Got LearnedOne thing we were curious about this summer was where these groups would need help. That turned out to vary a lot.",
+      "translated": "在大公司中，所有的压力都倾向于过度工程化。我们今年夏天好奇的一件事是这些团队会在哪些地方需要帮助。结果发现，这些需求差异很大。"
+    },
+    {
+      "original": "Some we helped with technical advice-- for example, about how to set up an application to run on multiple servers. Most we helped with strategy questions, like what to patent, and what to charge for and what to give away.",
+      "translated": "我们为一些人提供了技术建议——例如，如何设置应用程序以在多台服务器上运行。大多数情况下，我们帮助他们解决战略问题，比如该申请哪些专利，哪些应该收费，哪些应该免费提供。"
+    },
+    {
+      "original": "Nearly all wanted advice about dealing with future investors: how much money should they take and what kind of terms should they expect?However, all the groups quickly learned how to deal with stuff like patents and investors.",
+      "translated": "几乎所有团队都希望得到关于如何处理未来投资者的建议：他们应该接受多少资金，以及应该期待什么样的条款？然而，所有团队很快就学会了如何处理专利和投资者等问题。"
+    },
+    {
+      "original": "These problems aren't intrinsically difficult, just unfamiliar.It was surprising-- slightly frightening even-- how fast they learned. The weekend before the demo day for investors, we had a practice session where all the groups gave their presentations.",
+      "translated": "这些问题本身并不难，只是不太熟悉。令人惊讶的是——甚至有点令人害怕——他们学得有多快。在向投资者展示的前一个周末，我们进行了一次彩排，所有小组都做了他们的演讲。"
+    },
+    {
+      "original": "They were all terrible. We tried to explain how to make them better, but we didn't have much hope. So on demo day I told the assembled angels and VCs that these guys were hackers, not MBAs, and so while their software was good, we should not expect slick presentations from them.The groups then proceeded to give fabulously slick presentations.",
+      "translated": "他们都很糟糕。我们试图解释如何改进，但并不抱太大希望。所以在演示日，我告诉在场的天使投资人和风险投资家，这些人是黑客，不是MBA，所以虽然他们的软件很好，但我们不应期望他们的演讲会很出色。然而，这些小组随后却给出了极其精彩的演讲。"
+    },
+    {
+      "original": "Gone were the mumbling recitations of lists of features. It was as if they'd spent the past week at acting school. I still don't know how they did it.Perhaps watching each others' presentations helped them see what they'd been doing wrong.",
+      "translated": "那些含糊不清地列举功能的日子一去不复返了。他们看起来像是在过去的一周里上了表演课。我至今仍不知道他们是如何做到的。也许互相观看彼此的演讲帮助他们看到了自己之前的错误。"
+    },
+    {
+      "original": "Just as happens in college, the summer founders learned a lot from one another-- maybe more than they learned from us. A lot of the problems they face are the same, from dealing with investors to hacking Javascript.I don't want to give the impression there were no problems this summer.",
+      "translated": "就像在大学里一样，这些夏季创业者的创始人从彼此身上学到了很多——也许比他们从我们这里学到的还要多。他们面临的问题很多是相同的，从应对投资者到破解JavaScript。我不想给人一种这个夏天没有任何问题的印象。"
+    },
+    {
+      "original": "A lot went wrong, as usually happens with startups. One group got an \"exploding term-sheet\" from some VCs. Pretty much all the groups who had dealings with big companies found that big companies do everything infinitely slowly.",
+      "translated": "很多事情出了问题，这在初创公司中是很常见的。一个团队从一些风投那里得到了一份“爆炸性条款清单”。几乎所有与大公司打交道的团队都发现，大公司做事的速度慢得不可思议。"
+    },
+    {
+      "original": "(This is to be expected. If big companies weren't incapable, there would be no room for startups to exist.) And of course there were the usual nightmares associated with servers. In short, the disasters this summer were just the usual childhood diseases.",
+      "translated": "（这是意料之中的。如果大公司无所不能，初创企业就没有存在的空间了。）当然，还有服务器相关的常见问题。总之，今年夏天的灾难不过是常见的成长烦恼。"
+    },
+    {
+      "original": "Some of this summer's eight startups will probably die eventually; it would be extraordinary if all eight succeeded. But what kills them will not be dramatic, external threats, but a mundane, internal one: not getting enough done.So far, though, the news is all good.",
+      "translated": "今年夏天的这八家初创企业中，有些最终可能会失败；如果八家都能成功，那将是非常罕见的。但导致它们失败的不会是戏剧性的外部威胁，而是平庸的内部问题：没有完成足够的工作。不过，到目前为止，一切消息都是积极的。"
+    },
+    {
+      "original": "In fact, we were surprised how much fun the summer was for us. The main reason was how much we liked the founders. They're so earnest and hard-working. They seem to like us too. And this illustrates another advantage of investing over hiring: our relationship with them is way better than it would be between a boss and an employee.",
+      "translated": "事实上，我们对这个夏天过得如此愉快感到惊讶。主要原因是我们非常喜欢这些创始人。他们非常真诚且勤奋。他们似乎也很喜欢我们。这说明了投资相比雇佣的另一个优势：我们与他们的关系比老板和员工之间的关系要好得多。"
+    },
+    {
+      "original": "Y Combinator ends up being more like an older brother than a parent.I was surprised how much time I spent making introductions. Fortunately I discovered that when a startup needed to talk to someone, I could usually get to the right person by at most one hop.",
+      "translated": "Y Combinator 更像是一个大哥而不是父母。我惊讶于自己花了多少时间去介绍人脉。幸运的是，我发现当一家初创公司需要与某人交谈时，我通常只需通过最多一次引荐就能找到合适的人。"
+    },
+    {
+      "original": "I remember wondering, how did my friends get to be so eminent? and a second later realizing: shit, I'm forty.Another surprise was that the three-month batch format, which we were forced into by the constraints of the summer, turned out to be an advantage.",
+      "translated": "我记得我曾经纳闷，我的朋友们是怎么变得如此杰出的？然后下一秒意识到：天哪，我已经四十岁了。另一个意外是，由于夏季时间的限制，我们被迫采用的三个月集中学习模式，最终证明是一个优势。"
+    },
+    {
+      "original": "When we started Y Combinator, we planned to invest the way other venture firms do: as proposals came in, we'd evaluate them and decide yes or no. The SFP was just an experiment to get things started.",
+      "translated": "当我们创办Y Combinator时，计划像其他风险投资公司那样进行投资：随着提案的提交，我们会评估并决定是否投资。SFP只是一个启动项目的实验。"
+    },
+    {
+      "original": "But it worked so well that we plan to do all our investing this way, one cycle in the summer and one in winter. It's more efficient for us, and better for the startups too.Several groups said our weekly dinners saved them from a common problem afflicting startups: working so hard that one has no social life.",
+      "translated": "但它效果非常好，我们计划以后都这样投资，每年夏季和冬季各进行一次投资周期。这对我们来说更高效，对初创公司也更有利。几个团队表示，我们每周的晚餐帮助他们避免了一个困扰许多初创公司的常见问题：工作太辛苦以至于没有社交生活。"
+    },
+    {
+      "original": "(I remember that part all too well.) This way, they were guaranteed a social event at least once a week.IndependenceI've heard Y Combinator described as an \"incubator.\" Actually we're the opposite: incubators exert more control than ordinary VCs, and we make a point of exerting less.",
+      "translated": "（我对此记忆犹新。）这样，他们每周至少能保证有一次社交活动。独立性我曾听人把 Y Combinator 描述为一个“孵化器”。其实我们正好相反：孵化器比一般的风投公司有更多的控制权，而我们则特意减少干预。"
+    },
+    {
+      "original": "Among other things, incubators usually make you work in their office-- that's where the word \"incubator\" comes from. That seems the wrong model. If investors get too involved, they smother one of the most powerful forces in a startup: the feeling that it's your own company.Incubators were conspicuous failures during the Bubble.",
+      "translated": "除了其他事项，孵化器通常要求你在他们的办公室工作——这也是“孵化器”这个词的来源。这似乎是一个错误的模式。如果投资者介入过多，他们会扼杀创业公司中最强大的力量之一：这是你自己的公司的感觉。在互联网泡沫期间，孵化器的表现尤为失败。"
+    },
+    {
+      "original": "There's still debate about whether this was because of the Bubble, or because they're a bad idea. My vote is they're a bad idea. I think they fail because they select for the wrong people. When we were starting a startup, we would never have taken funding from an \"incubator.\" We can find office space, thanks; just give us the money.",
+      "translated": "关于这是否是因为泡沫，或者是因为它们本身是个糟糕的主意，仍有争议。我的看法是它们是个糟糕的主意。我认为它们之所以失败，是因为选错了人。当我们开始创业时，绝对不会从“孵化器”那里接受资金。我们能找到办公地点，谢谢；只要给我们钱就好了。"
+    },
+    {
+      "original": "And people with that attitude are the ones likely to succeed in startups.Indeed, one quality all the founders shared this summer was a spirit of independence. I've been wondering about that. Are some people just a lot more independent than others, or would everyone be this way if they were allowed to?As with most nature/nurture questions, the answer is probably: some of each.",
+      "translated": "而持有这种态度的人更有可能在创业公司中取得成功。事实上，今年夏天所有创始人都具有的一个共同特点是独立精神。我一直对此感到好奇。有些人天生就比其他人更加独立，还是说如果给予足够的自由，每个人都能变得这样？就像大多数关于天性与养育的问题一样，答案可能是：两者都有。"
+    },
+    {
+      "original": "But my main conclusion from the summer is that there's more environment in the mix than most people realize. I could see that from how the founders' attitudes changed during the summer. Most were emerging from twenty or so years of being told what to do.",
+      "translated": "但今年夏天我的主要结论是，环境因素在其中所起的作用比大多数人意识到的要多。我从创始人态度的变化中看出了这一点。大多数人都经历了大约二十年的被指导的生活。"
+    },
+    {
+      "original": "They seemed a little surprised at having total freedom. But they grew into it really quickly; some of these guys now seem about four inches taller (metaphorically) than they did at the beginning of the summer.When we asked the summer founders what surprised them most about starting a company, one said \"the most shocking thing is that it worked.\"It will take more experience to know for sure, but my guess is that a lot of hackers could do this-- that if you put people in a position of independence, they develop the qualities they need.",
+      "translated": "他们似乎对拥有完全的自由感到有些惊讶。但很快就适应了这种状态；有些人（打个比方）现在看起来比夏天开始时高出了四英寸。当我们问这些暑期创办人的时候，什么最让他们感到惊讶，其中一位说：“最令人震惊的是，这真的奏效了。”虽然还需要更多的经验才能确定，但我猜测很多黑客都能做到这一点——即，如果你把人们置于独立的位置，他们就会发展出所需的各种品质。"
+    },
+    {
+      "original": "Throw them off a cliff, and most will find on the way down that they have wings.The reason this is news to anyone is that the same forces work in the other direction too. Most hackers are employees, and this molds you into someone to whom starting a startup seems impossible as surely as starting a startup molds you into someone who can handle it.If I'm right, \"hacker\" will mean something different in twenty years than it does now.",
+      "translated": "把他们从悬崖上扔下去，大多数人在下落的过程中会发现自己有翅膀。这个事实对任何人来说都是新闻，原因在于同样的力量也在反方向起作用。大多数黑客是雇员，这种环境会把你塑造成为一个认为创办初创企业不可能的人，正如创办初创企业会把你塑造成为一个能够应对挑战的人一样。如果我是对的，“黑客”这个词在二十年后会有与现在不同的含义。"
+    },
+    {
+      "original": "Increasingly it will mean the people who run the company. Y Combinator is just accelerating a process that would have happened anyway. Power is shifting from the people who deal with money to the people who create technology, and if our experience this summer is any guide, this will be a good thing.Notes[1] By heavy-duty security I mean efforts to protect against truly determined attackers.The image shows us, the 2005 summer founders, and Smartleaf co-founders Mark Nitzberg and Olin Shivers at the 30-foot table Kate Courteau designed for us.",
+      "translated": "这将越来越多地意味着公司的运营者。Y Combinator 只是在加速一个本来就会发生的过程。权力正在从处理资金的人手中转移到创造技术的人手中，而如果今年夏天我们的经历可以作为参考的话，这将是一件好事。注[1] 我所说的高级安全措施是指防范真正有决心的攻击者的努力。图片显示的是我们，2005 年夏季的创始人们，以及 Smartleaf 的联合创始人 Mark Nitzberg 和 Olin Shivers，站在 Kate Courteau 为我们设计的 30 英尺长的桌子前。"
+    },
+    {
+      "original": "Photo by Alex Lewin.Thanks to Sarah Harlin, Steve Huffman, Jessica Livingston, Zak Stone, and Aaron Swartz for reading drafts of this. Romanian TranslationJapanese Translation",
+      "translated": "照片由 Alex Lewin 拍摄。感谢 Sarah Harlin、Steve Huffman、Jessica Livingston、Zak Stone 和 Aaron Swartz 阅读本文的草稿。罗马尼亚语翻译日语翻译"
+    }
+  ],
+  "translation_completed": "2025-07-28T15:36:53.809220",
+  "translation_stats": {
+    "total_paragraphs": 49,
+    "success_count": 49,
+    "success_rate": "100.0%"
+  }
+}

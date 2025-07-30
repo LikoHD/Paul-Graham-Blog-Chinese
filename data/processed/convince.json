@@ -1,0 +1,399 @@
+{
+  "title": "How to Convince Investors",
+  "title_zh": "[待翻译] How to Convince Investors",
+  "url": "https://www.paulgraham.com/convince.html",
+  "filename": "convince.html",
+  "date": "2020-09-20",
+  "id": 87,
+  "content": {
+    "success": true,
+    "paragraphs": [
+      "Want to start a startup? Get funded by Y Combinator. August 2013When people hurt themselves lifting heavy things, it's usually because they try to lift with their back. The right way to lift heavy things is to let your legs do the work.",
+      "Inexperienced founders make the same mistake when trying to convince investors. They try to convince with their pitch. Most would be better off if they let their startup do the work — if they started by understanding why their startup is worth investing in, then simply explained this well to investors.Investors are looking for startups that will be very successful.",
+      "But that test is not as simple as it sounds. In startups, as in a lot of other domains, the distribution of outcomes follows a power law, but in startups the curve is startlingly steep. The big successes are so big they dwarf the rest.",
+      "And since there are only a handful each year (the conventional wisdom is 15), investors treat \"big success\" as if it were binary. Most are interested in you if you seem like you have a chance, however small, of being one of the 15 big successes, and otherwise not.",
+      "[1](There are a handful of angels who'd be interested in a company with a high probability of being moderately successful. But angel investors like big successes too.)How do you seem like you'll be one of the big successes?",
+      "You need three things: formidable founders, a promising market, and (usually) some evidence of success so far.FormidableThe most important ingredient is formidable founders. Most investors decide in the first few minutes whether you seem like a winner or a loser, and once their opinion is set it's hard to change.",
+      "[2] Every startup has reasons both to invest and not to invest. If investors think you're a winner they focus on the former, and if not they focus on the latter. For example, it might be a rich market, but with a slow sales cycle.",
+      "If investors are impressed with you as founders, they say they want to invest because it's a rich market, and if not, they say they can't invest because of the slow sales cycle.They're not necessarily trying to mislead you.",
+      "Most investors are genuinely unclear in their own minds why they like or dislike startups. If you seem like a winner, they'll like your idea more. But don't be too smug about this weakness of theirs, because you have it too; almost everyone does.There is a role for ideas of course.",
+      "They're fuel for the fire that starts with liking the founders. Once investors like you, you'll see them reaching for ideas: they'll be saying \"yes, and you could also do x.\" (Whereas when they don't like you, they'll be saying \"but what about y?\")But the foundation of convincing investors is to seem formidable, and since this isn't a word most people use in conversation much, I should explain what it means.",
+      "A formidable person is one who seems like they'll get what they want, regardless of whatever obstacles are in the way. Formidable is close to confident, except that someone could be confident and mistaken.",
+      "Formidable is roughly justifiably confident.There are a handful of people who are really good at seeming formidable — some because they actually are very formidable and just let it show, and others because they are more or less con artists.",
+      "[3] But most founders, including many who will go on to start very successful companies, are not that good at seeming formidable the first time they try fundraising. What should they do? [4]What they should not do is try to imitate the swagger of more experienced founders.",
+      "Investors are not always that good at judging technology, but they're good at judging confidence. If you try to act like something you're not, you'll just end up in an uncanny valley. You'll depart from sincere, but never arrive at convincing.TruthThe way to seem most formidable as an inexperienced founder is to stick to the truth.",
+      "How formidable you seem isn't a constant. It varies depending on what you're saying. Most people can seem confident when they're saying \"one plus one is two,\" because they know it's true. The most diffident person would be puzzled and even slightly contemptuous if they told a VC \"one plus one is two\" and the VC reacted with skepticism.",
+      "The magic ability of people who are good at seeming formidable is that they can do this with the sentence \"we're going to make a billion dollars a year.\" But you can do the same, if not with that sentence with some fairly impressive ones, so long as you convince yourself first.That's the secret.",
+      "Convince yourself that your startup is worth investing in, and then when you explain this to investors they'll believe you. And by convince yourself, I don't mean play mind games with yourself to boost your confidence.",
+      "I mean truly evaluate whether your startup is worth investing in. If it isn't, don't try to raise money. [5] But if it is, you'll be telling the truth when you tell investors it's worth investing in, and they'll sense that.",
+      "You don't have to be a smooth presenter if you understand something well and tell the truth about it.To evaluate whether your startup is worth investing in, you have to be a domain expert. If you're not a domain expert, you can be as convinced as you like about your idea, and it will seem to investors no more than an instance of the Dunning-Kruger effect.",
+      "Which in fact it will usually be. And investors can tell fairly quickly whether you're a domain expert by how well you answer their questions. Know everything about your market. [6]Why do founders persist in trying to convince investors of things they're not convinced of themselves?",
+      "Partly because we've all been trained to.When my friends Robert Morris and Trevor Blackwell were in grad school, one of their fellow students was on the receiving end of a question from their faculty advisor that we still quote today.",
+      "When the unfortunate fellow got to his last slide, the professor burst out: Which one of these conclusions do you actually believe? One of the artifacts of the way schools are organized is that we all get trained to talk even when we have nothing to say.",
+      "If you have a ten page paper due, then ten pages you must write, even if you only have one page of ideas. Even if you have no ideas. You have to produce something. And all too many startups go into fundraising in the same spirit.",
+      "When they think it's time to raise money, they try gamely to make the best case they can for their startup. Most never think of pausing beforehand to ask whether what they're saying is actually convincing, because they've all been trained to treat the need to present as a given — as an area of fixed size, over which however much truth they have must needs be spread, however thinly.The time to raise money is not when you need it, or when you reach some artificial deadline like a Demo Day.",
+      "It's when you can convince investors, and not before. [7]And unless you're a good con artist, you'll never convince investors if you're not convinced yourself. They're far better at detecting bullshit than you are at producing it, even if you're producing it unknowingly.",
+      "If you try to convince investors before you've convinced yourself, you'll be wasting both your time.But pausing first to convince yourself will do more than save you from wasting your time. It will force you to organize your thoughts.",
+      "To convince yourself that your startup is worth investing in, you'll have to figure out why it's worth investing in. And if you can do that you'll end up with more than added confidence. You'll also have a provisional roadmap of how to succeed.MarketNotice I've been careful to talk about whether a startup is worth investing in, rather than whether it's going to succeed.",
+      "No one knows whether a startup is going to succeed. And it's a good thing for investors that this is so, because if you could know in advance whether a startup would succeed, the stock price would already be the future price, and there would be no room for investors to make money.",
+      "Startup investors know that every investment is a bet, and against pretty long odds.So to prove you're worth investing in, you don't have to prove you're going to succeed, just that you're a sufficiently good bet.",
+      "What makes a startup a sufficiently good bet? In addition to formidable founders, you need a plausible path to owning a big piece of a big market. Founders think of startups as ideas, but investors think of them as markets.",
+      "If there are x number of customers who'd pay an average of $y per year for what you're making, then the total addressable market, or TAM, of your company is $xy. Investors don't expect you to collect all that money, but it's an upper bound on how big you can get.Your target market has to be big, and it also has to be capturable by you.",
+      "But the market doesn't have to be big yet, nor do you necessarily have to be in it yet. Indeed, it's often better to start in a small market that will either turn into a big one or from which you can move into a big one.",
+      "There just has to be some plausible sequence of hops that leads to dominating a big market a few years down the line.The standard of plausibility varies dramatically depending on the age of the startup.",
+      "A three month old company at Demo Day only needs to be a promising experiment that's worth funding to see how it turns out. Whereas a two year old company raising a series A round needs to be able to show the experiment worked.",
+      "[8]But every company that gets really big is \"lucky\" in the sense that their growth is due mostly to some external wave they're riding, so to make a convincing case for becoming huge, you have to identify some specific trend you'll benefit from.",
+      "Usually you can find this by asking \"why now?\" If this is such a great idea, why hasn't someone else already done it? Ideally the answer is that it only recently became a good idea, because something changed, and no one else has noticed yet.Microsoft for example was not going to grow huge selling Basic interpreters.",
+      "But by starting there they were perfectly poised to expand up the stack of microcomputer software as microcomputers grew powerful enough to support one. And microcomputers turned out to be a really huge wave, bigger than even the most optimistic observers would have predicted in 1975.But while Microsoft did really well and there is thus a temptation to think they would have seemed a great bet a few months in, they probably didn't.",
+      "Good, but not great. No company, however successful, ever looks more than a pretty good bet a few months in. Microcomputers turned out to be a big deal, and Microsoft both executed well and got lucky.",
+      "But it was by no means obvious that this was how things would play out. Plenty of companies seem as good a bet a few months in. I don't know about startups in general, but at least half the startups we fund could make as good a case as Microsoft could have for being on a path to dominating a large market.",
+      "And who can reasonably expect more of a startup than that?RejectionIf you can make as good a case as Microsoft could have, will you convince investors? Not always. A lot of VCs would have rejected Microsoft.",
+      "[9] Certainly some rejected Google. And getting rejected will put you in a slightly awkward position, because as you'll see when you start fundraising, the most common question you'll get from investors will be \"who else is investing?\" What do you say if you've been fundraising for a while and no one has committed yet?",
+      "[10]The people who are really good at acting formidable often solve this problem by giving investors the impression that while no investors have committed yet, several are about to. This is arguably a permissible tactic.",
+      "It's slightly dickish of investors to care more about who else is investing than any other aspect of your startup, and misleading them about how far along you are with other investors seems the complementary countermove.",
+      "It's arguably an instance of scamming a scammer. But I don't recommend this approach to most founders, because most founders wouldn't be able to carry it off. This is the single most common lie told to investors, and you have to be really good at lying to tell members of some profession the most common lie they're told.If you're not a master of negotiation (and perhaps even if you are) the best solution is to tackle the problem head-on, and to explain why investors have turned you down and why they're mistaken.",
+      "If you know you're on the right track, then you also know why investors were wrong to reject you. Experienced investors are well aware that the best ideas are also the scariest. They all know about the VCs who rejected Google.",
+      "If instead of seeming evasive and ashamed about having been turned down (and thereby implicitly agreeing with the verdict) you talk candidly about what scared investors about you, you'll seem more confident, which they like, and you'll probably also do a better job of presenting that aspect of your startup.",
+      "At the very least, that worry will now be out in the open instead of being a gotcha left to be discovered by the investors you're currently talking to, who will be proud of and thus attached to their discovery.",
+      "[11]This strategy will work best with the best investors, who are both hard to bluff and who already believe most other investors are conventional-minded drones doomed always to miss the big outliers.",
+      "Raising money is not like applying to college, where you can assume that if you can get into MIT, you can also get into Foobar State. Because the best investors are much smarter than the rest, and the best startup ideas look initially like bad ideas, it's not uncommon for a startup to be rejected by all the VCs except the best ones.",
+      "That's what happened to Dropbox. Y Combinator started in Boston, and for the first 3 years we ran alternating batches in Boston and Silicon Valley. Because Boston investors were so few and so timid, we used to ship Boston batches out for a second Demo Day in Silicon Valley.",
+      "Dropbox was part of a Boston batch, which means all those Boston investors got the first look at Dropbox, and none of them closed the deal. Yet another backup and syncing thing, they all thought. A couple weeks later, Dropbox raised a series A round from Sequoia.",
+      "[12]DifferentNot understanding that investors view investments as bets combines with the ten page paper mentality to prevent founders from even considering the possibility of being certain of what they're saying.",
+      "They think they're trying to convince investors of something very uncertain — that their startup will be huge — and convincing anyone of something like that must obviously entail some wild feat of salesmanship.",
+      "But in fact when you raise money you're trying to convince investors of something so much less speculative — whether the company has all the elements of a good bet — that you can approach the problem in a qualitatively different way.",
+      "You can convince yourself, then convince them.And when you convince them, use the same matter-of-fact language you used to convince yourself. You wouldn't use vague, grandiose marketing-speak among yourselves.",
+      "Don't use it with investors either. It not only doesn't work on them, but seems a mark of incompetence. Just be concise. Many investors explicitly use that as a test, reasoning (correctly) that if you can't explain your plans concisely, you don't really understand them.",
+      "But even investors who don't have a rule about this will be bored and frustrated by unclear explanations. [13]So here's the recipe for impressing investors when you're not already good at seeming formidable: Make something worth investing in.",
+      "Understand why it's worth investing in. Explain that clearly to investors. If you're saying something you know is true, you'll seem confident when you're saying it. Conversely, never let pitching draw you into bullshitting.",
+      "As long as you stay on the territory of truth, you're strong. Make the truth good, then just tell it.Notes[1] There's no reason to believe this number is a constant. In fact it's our explicit goal at Y Combinator to increase it, by encouraging people to start startups who otherwise wouldn't have.[2] Or more precisely, investors decide whether you're a loser or possibly a winner.",
+      "If you seem like a winner, they may then, depending on how much you're raising, have several more meetings with you to test whether that initial impression holds up.But if you seem like a loser they're done, at least for the next year or so.",
+      "And when they decide you're a loser they usually decide in way less than the 50 minutes they may have allotted for the first meeting. Which explains the astonished stories one always hears about VC inattentiveness.",
+      "How could these people make investment decisions well when they're checking their messages during startups' presentations? The solution to that mystery is that they've already made the decision.[3] The two are not mutually exclusive.",
+      "There are people who are both genuinely formidable, and also really good at acting that way.[4] How can people who will go on to create giant companies not seem formidable early on? I think the main reason is that their experience so far has trained them to keep their wings folded, as it were.",
+      "Family, school, and jobs encourage cooperation, not conquest. And it's just as well they do, because even being Genghis Khan is probably 99% cooperation. But the result is that most people emerge from the tube of their upbringing in their early twenties compressed into the shape of the tube.",
+      "Some find they have wings and start to spread them. But this takes a few years. In the beginning even they don't know yet what they're capable of.[5] In fact, change what you're doing. You're investing your own time in your startup.",
+      "If you're not convinced that what you're working on is a sufficiently good bet, why are you even working on that?[6] When investors ask you a question you don't know the answer to, the best response is neither to bluff nor give up, but instead to explain how you'd figure out the answer.",
+      "If you can work out a preliminary answer on the spot, so much the better, but explain that's what you're doing.[7] At YC we try to ensure startups are ready to raise money on Demo Day by encouraging them to ignore investors and instead focus on their companies till about a week before.",
+      "That way most reach the stage where they're sufficiently convincing well before Demo Day. But not all do, so we also give any startup that wants to the option of deferring to a later Demo Day.[8] Founders are often surprised by how much harder it is to raise the next round.",
+      "There is a qualitative difference in investors' attitudes. It's like the difference between being judged as a kid and as an adult. The next time you raise money, it's not enough to be promising. You have to be delivering results.So although it works well to show growth graphs at either stage, investors treat them differently.",
+      "At three months, a growth graph is mostly evidence that the founders are effective. At two years, it has to be evidence of a promising market and a company tuned to exploit it.[9] By this I mean that if the present day equivalent of the 3 month old Microsoft presented at a Demo Day, there would be investors who turned them down.",
+      "Microsoft itself didn't raise outside money, and indeed the venture business barely existed when they got started in 1975.[10] The best investors rarely care who else is investing, but mediocre investors almost all do.",
+      "So you can use this question as a test of investor quality.[11] To use this technique, you'll have to find out why investors who rejected you did so, or at least what they claim was the reason. That may require asking, because investors don't always volunteer a lot of detail.",
+      "Make it clear when you ask that you're not trying to dispute their decision — just that if there is some weakness in your plans, you need to know about it. You won't always get a real reason out of them, but you should at least try.[12] Dropbox wasn't rejected by all the East Coast VCs.",
+      "There was one firm that wanted to invest but tried to lowball them.[13] Alfred Lin points out that it's doubly important for the explanation of a startup to be clear and concise, because it has to convince at one remove: it has to work not just on the partner you talk to, but when that partner re-tells it to colleagues.We consciously optimize for this at YC.",
+      "When we work with founders create a Demo Day pitch, the last step is to imagine how an investor would sell it to colleagues. Thanks to Marc Andreessen, Sam Altman, Patrick Collison, Ron Conway, Chris Dixon, Alfred Lin, Ben Horowitz, Steve Huffman, Jessica Livingston, Greg Mcadoo, Andrew Mason, Geoff Ralston, Yuri Sagalov, Emmett Shear, Rajat Suri, Garry Tan, Albert Wenger, Fred Wilson, and Qasar Younis for reading drafts of this."
+    ],
+    "word_count": 3634,
+    "paragraph_count": 75
+  },
+  "processed_at": "2025-07-26T19:04:12.916810",
+  "paragraphs": [
+    {
+      "original": "Want to start a startup? Get funded by Y Combinator. August 2013When people hurt themselves lifting heavy things, it's usually because they try to lift with their back. The right way to lift heavy things is to let your legs do the work.",
+      "translated": "想创业吗？获得Y Combinator的投资。2013年8月当人们在搬重物时受伤，通常是因为他们试图用背部发力。正确的方法是让腿部来做主要的工作。"
+    },
+    {
+      "original": "Inexperienced founders make the same mistake when trying to convince investors. They try to convince with their pitch. Most would be better off if they let their startup do the work — if they started by understanding why their startup is worth investing in, then simply explained this well to investors.Investors are looking for startups that will be very successful.",
+      "translated": "缺乏经验的创始人在试图说服投资者时会犯同样的错误。他们试图通过路演来打动投资者。如果他们能让自己的初创公司说话——首先理解为什么他们的初创公司值得投资，然后向投资者清晰地解释这一点，情况会更好。投资者在寻找那些将会非常成功的初创公司。"
+    },
+    {
+      "original": "But that test is not as simple as it sounds. In startups, as in a lot of other domains, the distribution of outcomes follows a power law, but in startups the curve is startlingly steep. The big successes are so big they dwarf the rest.",
+      "translated": "但这项测试并不像听起来那么简单。在初创企业中，就像在许多其他领域一样，结果的分布遵循幂律，但在初创企业中，这条曲线异常陡峭。巨大的成功如此之大，以至于使其他一切相形见绌。"
+    },
+    {
+      "original": "And since there are only a handful each year (the conventional wisdom is 15), investors treat \"big success\" as if it were binary. Most are interested in you if you seem like you have a chance, however small, of being one of the 15 big successes, and otherwise not.",
+      "translated": "而由于每年这样的公司只有少数几家（普遍认为是15家），投资者对待“大成功”就像对待一个二元事件。大多数投资者对你感兴趣，是因为你似乎有那么一点机会成为那15个大成功之一，否则他们就不会感兴趣。"
+    },
+    {
+      "original": "[1](There are a handful of angels who'd be interested in a company with a high probability of being moderately successful. But angel investors like big successes too.)How do you seem like you'll be one of the big successes?",
+      "translated": "有些天使投资人会对那些有较高可能性获得中等成功的公司感兴趣。但天使投资人也喜欢大的成功。你如何让自己看起来像是会成为其中一个大成功者？"
+    },
+    {
+      "original": "You need three things: formidable founders, a promising market, and (usually) some evidence of success so far.FormidableThe most important ingredient is formidable founders. Most investors decide in the first few minutes whether you seem like a winner or a loser, and once their opinion is set it's hard to change.",
+      "translated": "你需要三样东西：强大的创始人、有前景的市场，以及（通常）一些迄今为止成功的证据。强大的创始人是最重要的因素。大多数投资者在最初的几分钟内就会决定你看起来像是赢家还是输家，而一旦他们的看法形成，就很难改变。"
+    },
+    {
+      "original": "[2] Every startup has reasons both to invest and not to invest. If investors think you're a winner they focus on the former, and if not they focus on the latter. For example, it might be a rich market, but with a slow sales cycle.",
+      "translated": "每个初创公司都有投资和不投资的理由。如果投资者认为你是赢家，他们就会关注前者，反之则关注后者。例如，市场可能很广阔，但销售周期可能很长。"
+    },
+    {
+      "original": "If investors are impressed with you as founders, they say they want to invest because it's a rich market, and if not, they say they can't invest because of the slow sales cycle.They're not necessarily trying to mislead you.",
+      "translated": "如果投资者对你们作为创始人印象深刻，他们会说想投资是因为市场潜力巨大；如果不满意，则会说因为销售周期长而无法投资。他们并非有意误导你。"
+    },
+    {
+      "original": "Most investors are genuinely unclear in their own minds why they like or dislike startups. If you seem like a winner, they'll like your idea more. But don't be too smug about this weakness of theirs, because you have it too; almost everyone does.There is a role for ideas of course.",
+      "translated": "大多数投资者对自己的喜好或厌恶初创企业的理由并不十分清楚。如果你看起来像是个赢家，他们就会更喜欢你的想法。但不要对他们的这个弱点过于得意，因为你自己也有这个问题；几乎每个人都有。当然，想法本身也是有其作用的。"
+    },
+    {
+      "original": "They're fuel for the fire that starts with liking the founders. Once investors like you, you'll see them reaching for ideas: they'll be saying \"yes, and you could also do x.\" (Whereas when they don't like you, they'll be saying \"but what about y?\")But the foundation of convincing investors is to seem formidable, and since this isn't a word most people use in conversation much, I should explain what it means.",
+      "translated": "他们是点燃投资者对创始人好感的燃料。一旦投资者喜欢你，你会看到他们开始提出想法：他们会说“是的，你还可以做X。”（而当他们不喜欢你时，他们会说“但是Y呢？”）但说服投资者的基础是显得有实力，由于“ formidable”这个词在日常对话中不常使用，我应该解释一下它的意思。"
+    },
+    {
+      "original": "A formidable person is one who seems like they'll get what they want, regardless of whatever obstacles are in the way. Formidable is close to confident, except that someone could be confident and mistaken.",
+      "translated": "一个 formidable（令人敬畏的）的人是指那种看起来无论遇到什么障碍都能实现自己目标的人。令人敬畏的人接近自信，但自信的人可能会犯错。"
+    },
+    {
+      "original": "Formidable is roughly justifiably confident.There are a handful of people who are really good at seeming formidable — some because they actually are very formidable and just let it show, and others because they are more or less con artists.",
+      "translated": "令人敬畏的人大致上是有充分理由自信的。有一些人确实很擅长表现出令人敬畏的一面——有些人是因为他们确实非常令人敬畏，只是表现了出来，而另一些人则或多或少是骗子。"
+    },
+    {
+      "original": "[3] But most founders, including many who will go on to start very successful companies, are not that good at seeming formidable the first time they try fundraising. What should they do? [4]What they should not do is try to imitate the swagger of more experienced founders.",
+      "translated": "[3] 但大多数创始人，包括许多后来创立非常成功公司的创始人，在他们第一次尝试募集资金时，并不擅长显得很有威势。他们该怎么办？[4] 他们不应该做的是试图模仿更有经验的创始人的那种自信姿态。"
+    },
+    {
+      "original": "Investors are not always that good at judging technology, but they're good at judging confidence. If you try to act like something you're not, you'll just end up in an uncanny valley. You'll depart from sincere, but never arrive at convincing.TruthThe way to seem most formidable as an inexperienced founder is to stick to the truth.",
+      "translated": "投资者并不总是擅长判断技术，但他们擅长判断信心。如果你试图假装成自己不是的样子，最终只会落入诡异的境地。你会偏离真诚，却永远无法达到令人信服的效果。对于缺乏经验的创始人来说，显得最强大的方式就是坚持事实。"
+    },
+    {
+      "original": "How formidable you seem isn't a constant. It varies depending on what you're saying. Most people can seem confident when they're saying \"one plus one is two,\" because they know it's true. The most diffident person would be puzzled and even slightly contemptuous if they told a VC \"one plus one is two\" and the VC reacted with skepticism.",
+      "translated": "你显得多么 formidable 并非一成不变。这取决于你所说的内容。大多数人在说“一加一等于二”时都能显得自信，因为他们知道这是正确的。即使是最不自信的人，如果对一位风险投资家说出“一加一等于二”而对方表现出怀疑时，也会感到困惑，甚至略带鄙视。"
+    },
+    {
+      "original": "The magic ability of people who are good at seeming formidable is that they can do this with the sentence \"we're going to make a billion dollars a year.\" But you can do the same, if not with that sentence with some fairly impressive ones, so long as you convince yourself first.That's the secret.",
+      "translated": "擅长显得强大的人的神奇能力在于，他们可以用“我们每年将赚十亿美元”这样的话来达到目的。但只要你首先说服自己，你也可以用一些相当令人印象深刻的话来做到这一点。这就是秘诀。"
+    },
+    {
+      "original": "Convince yourself that your startup is worth investing in, and then when you explain this to investors they'll believe you. And by convince yourself, I don't mean play mind games with yourself to boost your confidence.",
+      "translated": "说服自己你的创业公司值得投资，然后当你向投资者解释这一点时，他们也会相信你。而我说的说服自己，并不是指通过自我心理暗示来增强自信。"
+    },
+    {
+      "original": "I mean truly evaluate whether your startup is worth investing in. If it isn't, don't try to raise money. [5] But if it is, you'll be telling the truth when you tell investors it's worth investing in, and they'll sense that.",
+      "translated": "我是说，要真正评估你的初创公司是否值得投资。如果不值得，就不要试图募集资金。[5] 但如果是值得的，当你告诉投资者它值得投资时，你是在说真话，他们也会感受到这一点。"
+    },
+    {
+      "original": "You don't have to be a smooth presenter if you understand something well and tell the truth about it.To evaluate whether your startup is worth investing in, you have to be a domain expert. If you're not a domain expert, you can be as convinced as you like about your idea, and it will seem to investors no more than an instance of the Dunning-Kruger effect.",
+      "translated": "你不必成为一个口齿伶俐的演讲者，只要你对某件事有深刻的理解并能如实讲述。要评估你的初创公司是否值得投资，你必须是该领域的专家。如果你不是该领域的专家，即使你对自己的想法再怎么自信，在投资者看来，这也不过是邓宁-克鲁格效应的一个例证。"
+    },
+    {
+      "original": "Which in fact it will usually be. And investors can tell fairly quickly whether you're a domain expert by how well you answer their questions. Know everything about your market. [6]Why do founders persist in trying to convince investors of things they're not convinced of themselves?",
+      "translated": "这通常确实如此。投资者可以通过你回答他们问题的方式很快判断出你是否是该领域的专家。对你所在的市场了如指掌。[6]为什么创始人会坚持试图说服投资者接受他们自己都不相信的事情？"
+    },
+    {
+      "original": "Partly because we've all been trained to.When my friends Robert Morris and Trevor Blackwell were in grad school, one of their fellow students was on the receiving end of a question from their faculty advisor that we still quote today.",
+      "translated": "部分原因是我们都接受过这样的训练。当我的朋友罗伯特·莫里斯和特雷弗·布莱克威尔在研究生院时，他们的一位同学曾经被他们的导师问了一个问题，这个问题直到今天我们还在引用。"
+    },
+    {
+      "original": "When the unfortunate fellow got to his last slide, the professor burst out: Which one of these conclusions do you actually believe? One of the artifacts of the way schools are organized is that we all get trained to talk even when we have nothing to say.",
+      "translated": "当那位不幸的家伙展示到最后一张幻灯片时，教授突然说道：这些结论中你到底相信哪一个？学校组织方式的一个副产品就是，即使我们没什么可说的，也被训练得要说个不停。"
+    },
+    {
+      "original": "If you have a ten page paper due, then ten pages you must write, even if you only have one page of ideas. Even if you have no ideas. You have to produce something. And all too many startups go into fundraising in the same spirit.",
+      "translated": "如果你有一篇十页的论文要交，那么你就必须写满十页，即使你只有一页的思路。即使你没有任何思路。你必须产出一些东西。而太多初创公司在进行融资时也是抱着同样的心态。"
+    },
+    {
+      "original": "When they think it's time to raise money, they try gamely to make the best case they can for their startup. Most never think of pausing beforehand to ask whether what they're saying is actually convincing, because they've all been trained to treat the need to present as a given — as an area of fixed size, over which however much truth they have must needs be spread, however thinly.The time to raise money is not when you need it, or when you reach some artificial deadline like a Demo Day.",
+      "translated": "当他们认为是时候筹集资金时，他们会尽力为自己的初创公司做出最好的陈述。大多数人都不会事先停下来思考自己所说的话是否真正具有说服力，因为他们都接受过这样的训练，将展示需求视为理所当然——认为这是一个固定大小的领域，无论他们有多少真实的陈述，都需要在这个领域内铺开，哪怕再薄。筹集资金的时机不是当你需要资金时，也不是当你达到某些人为设定的期限，比如演示日。"
+    },
+    {
+      "original": "It's when you can convince investors, and not before. [7]And unless you're a good con artist, you'll never convince investors if you're not convinced yourself. They're far better at detecting bullshit than you are at producing it, even if you're producing it unknowingly.",
+      "translated": "只有当你能够说服投资者时，才能做到这一点，而且在此之前是不可能的。[7]除非你是一个高明的骗子，否则如果你自己都不相信，就永远无法说服投资者。他们比你更擅长识破谎言，即使你是无意中说出这些谎言的。"
+    },
+    {
+      "original": "If you try to convince investors before you've convinced yourself, you'll be wasting both your time.But pausing first to convince yourself will do more than save you from wasting your time. It will force you to organize your thoughts.",
+      "translated": "如果你想在说服自己之前就去说服投资者，那你就是在浪费双方的时间。但先停下来说服自己不仅能帮你节省时间，还能迫使你整理自己的思路。"
+    },
+    {
+      "original": "To convince yourself that your startup is worth investing in, you'll have to figure out why it's worth investing in. And if you can do that you'll end up with more than added confidence. You'll also have a provisional roadmap of how to succeed.MarketNotice I've been careful to talk about whether a startup is worth investing in, rather than whether it's going to succeed.",
+      "translated": "要说服自己你的创业公司值得投资，你必须弄清楚它为什么值得投资。如果你能做到这一点，你不仅会获得更多的信心，还会得到一个初步的成功路线图。请注意，我一直小心翼翼地谈论创业公司是否值得投资，而不是它是否会成功。"
+    },
+    {
+      "original": "No one knows whether a startup is going to succeed. And it's a good thing for investors that this is so, because if you could know in advance whether a startup would succeed, the stock price would already be the future price, and there would be no room for investors to make money.",
+      "translated": "没有人知道一家初创公司是否会成功。这对投资者来说是一件好事，因为如果能够提前知道一家初创公司是否会成功，那么股票价格就已经反映了未来的价值，投资者也就没有机会赚取利润了。"
+    },
+    {
+      "original": "Startup investors know that every investment is a bet, and against pretty long odds.So to prove you're worth investing in, you don't have to prove you're going to succeed, just that you're a sufficiently good bet.",
+      "translated": "初创投资者明白，每一笔投资都是一种赌博，而且胜算并不高。因此，要证明你值得投资，你不必证明自己一定会成功，只需证明自己是一个足够好的投资选择。"
+    },
+    {
+      "original": "What makes a startup a sufficiently good bet? In addition to formidable founders, you need a plausible path to owning a big piece of a big market. Founders think of startups as ideas, but investors think of them as markets.",
+      "translated": "是什么让一家初创公司成为足够好的投资对象？除了强大的创始人团队，还需要有一条合理的路径，以占据大市场的重要份额。创始人将初创公司视为创意，而投资者则将其视为市场。"
+    },
+    {
+      "original": "If there are x number of customers who'd pay an average of $y per year for what you're making, then the total addressable market, or TAM, of your company is $xy. Investors don't expect you to collect all that money, but it's an upper bound on how big you can get.Your target market has to be big, and it also has to be capturable by you.",
+      "translated": "如果有 x 个客户愿意平均每年支付 y 美元来购买你的产品，那么你公司的可寻址市场，或 TAM，就是 xy 美元。投资者并不期望你能赚到所有的钱，但这代表了你公司规模的上限。你的目标市场不仅需要足够大，而且你还需要有能力占领这个市场。"
+    },
+    {
+      "original": "But the market doesn't have to be big yet, nor do you necessarily have to be in it yet. Indeed, it's often better to start in a small market that will either turn into a big one or from which you can move into a big one.",
+      "translated": "但市场不必一开始就很大，也不一定非要你现在就进入。实际上，从一个小市场开始往往更好，这个小市场要么会发展成一个大市场，要么可以让你从中进入一个大市场。"
+    },
+    {
+      "original": "There just has to be some plausible sequence of hops that leads to dominating a big market a few years down the line.The standard of plausibility varies dramatically depending on the age of the startup.",
+      "translated": "必须存在某种合理的步骤序列，能够在未来几年内主导一个大市场。这种合理性的标准会根据创业公司的年龄而有显著差异。"
+    },
+    {
+      "original": "A three month old company at Demo Day only needs to be a promising experiment that's worth funding to see how it turns out. Whereas a two year old company raising a series A round needs to be able to show the experiment worked.",
+      "translated": "在演示日，一家只有三个月历史的公司只需要展示一个值得投资的有前景的实验，以观察其结果。而一家两年历史的公司，在筹集A轮融资时，则需要能够证明这个实验已经取得了成功。"
+    },
+    {
+      "original": "[8]But every company that gets really big is \"lucky\" in the sense that their growth is due mostly to some external wave they're riding, so to make a convincing case for becoming huge, you have to identify some specific trend you'll benefit from.",
+      "translated": "但每一家真正做大的公司都可以说是“幸运”的，因为它们的增长主要得益于搭上了某个外部大势的便车，因此，要令人信服地证明自己能够发展壮大，就必须识别出自己将受益于的某个具体趋势。"
+    },
+    {
+      "original": "Usually you can find this by asking \"why now?\" If this is such a great idea, why hasn't someone else already done it? Ideally the answer is that it only recently became a good idea, because something changed, and no one else has noticed yet.Microsoft for example was not going to grow huge selling Basic interpreters.",
+      "translated": "通常，你可以通过问“为什么是现在？”来找到答案。如果这是一个如此棒的主意，为什么之前没有人做过？理想的答案是，它只是最近才成为了一个好主意，因为某些事情发生了变化，而其他人还没有注意到。例如，微软通过出售Basic解释器并不会成长为一个巨无霸。"
+    },
+    {
+      "original": "But by starting there they were perfectly poised to expand up the stack of microcomputer software as microcomputers grew powerful enough to support one. And microcomputers turned out to be a really huge wave, bigger than even the most optimistic observers would have predicted in 1975.But while Microsoft did really well and there is thus a temptation to think they would have seemed a great bet a few months in, they probably didn't.",
+      "translated": "但通过从那里起步，他们处于一个完美的位置，随着微型计算机变得足够强大以支持软件堆栈，他们可以向上扩展微型计算机软件。而微型计算机最终成为了一场真正巨大的浪潮，比1975年最乐观的观察者所预测的还要大。尽管微软做得非常好，因此现在有一种诱惑认为在几个月后他们看起来会是一个很好的赌注，但事实可能并非如此。"
+    },
+    {
+      "original": "Good, but not great. No company, however successful, ever looks more than a pretty good bet a few months in. Microcomputers turned out to be a big deal, and Microsoft both executed well and got lucky.",
+      "translated": "好，但并不出色。无论一家公司多么成功，在最初的几个月里，它也只是一个不错的赌注。微型计算机最终成为了一件大事，而微软既执行得当，又运气不错。"
+    },
+    {
+      "original": "But it was by no means obvious that this was how things would play out. Plenty of companies seem as good a bet a few months in. I don't know about startups in general, but at least half the startups we fund could make as good a case as Microsoft could have for being on a path to dominating a large market.",
+      "translated": "但事情会这样发展绝非显而易见。几个月后，许多公司看起来仍然前景可期。我不清楚初创企业总体情况如何，但至少我们资助的初创企业中有一半可以像微软那样，有理由认为自己正处于主导一个大市场的道路上。"
+    },
+    {
+      "original": "And who can reasonably expect more of a startup than that?RejectionIf you can make as good a case as Microsoft could have, will you convince investors? Not always. A lot of VCs would have rejected Microsoft.",
+      "translated": "谁又能合理地对一家初创公司有更高的期望呢？拒绝。如果你能像微软那样提出有力的理由，就能说服投资者吗？并不总是如此。许多风投机构可能会拒绝微软。"
+    },
+    {
+      "original": "[9] Certainly some rejected Google. And getting rejected will put you in a slightly awkward position, because as you'll see when you start fundraising, the most common question you'll get from investors will be \"who else is investing?\" What do you say if you've been fundraising for a while and no one has committed yet?",
+      "translated": "[9] 当然，有些人拒绝了谷歌。而被拒绝会让你处于一个略微尴尬的位置，因为当你开始筹集资金时，你会发现在投资者中最常见的问题是“还有谁在投资？”如果你已经筹集资金一段时间了，但还没有人承诺投资，那你该怎么回答呢？"
+    },
+    {
+      "original": "[10]The people who are really good at acting formidable often solve this problem by giving investors the impression that while no investors have committed yet, several are about to. This is arguably a permissible tactic.",
+      "translated": "真正擅长装出强大姿态的人通常通过给投资者留下这样的印象来解决这个问题：虽然目前还没有投资者承诺投资，但已经有几位即将这样做。这可以说是一种可以接受的策略。"
+    },
+    {
+      "original": "It's slightly dickish of investors to care more about who else is investing than any other aspect of your startup, and misleading them about how far along you are with other investors seems the complementary countermove.",
+      "translated": "投资者更关心其他投资者是谁，而忽视你创业公司的其他方面，这多少有些自大。而对他们隐瞒与其他投资者进展的程度，似乎成了相应的对策。"
+    },
+    {
+      "original": "It's arguably an instance of scamming a scammer. But I don't recommend this approach to most founders, because most founders wouldn't be able to carry it off. This is the single most common lie told to investors, and you have to be really good at lying to tell members of some profession the most common lie they're told.If you're not a master of negotiation (and perhaps even if you are) the best solution is to tackle the problem head-on, and to explain why investors have turned you down and why they're mistaken.",
+      "translated": "这可以说是一个骗子骗骗子的案例。但我并不推荐大多数创始人采用这种方法，因为大多数创始人无法做到这一点。这是向投资者讲述的最常见的谎言，你必须非常擅长说谎，才能对某个职业群体说出他们最常听到的谎言。如果你不是谈判高手（也许即使你是）最好的解决方法是直接面对问题，解释为什么投资者拒绝了你，以及他们为什么会犯错。"
+    },
+    {
+      "original": "If you know you're on the right track, then you also know why investors were wrong to reject you. Experienced investors are well aware that the best ideas are also the scariest. They all know about the VCs who rejected Google.",
+      "translated": "如果你知道自己走在正确的道路上，那么你也明白为什么投资者会错误地拒绝你。有经验的投资者都很清楚，最好的想法往往也是最令人害怕的。他们都知道那些风投曾拒绝过谷歌。"
+    },
+    {
+      "original": "If instead of seeming evasive and ashamed about having been turned down (and thereby implicitly agreeing with the verdict) you talk candidly about what scared investors about you, you'll seem more confident, which they like, and you'll probably also do a better job of presenting that aspect of your startup.",
+      "translated": "如果你不是显得闪烁其词、对被拒绝感到羞愧（从而间接认同了这一裁决），而是坦率地谈论让投资者感到担忧的地方，你会显得更加自信，而这正是他们所喜欢的，同时你也很可能会更好地展示你的初创公司在这一方面的特点。"
+    },
+    {
+      "original": "At the very least, that worry will now be out in the open instead of being a gotcha left to be discovered by the investors you're currently talking to, who will be proud of and thus attached to their discovery.",
+      "translated": "至少，这种担忧现在可以公开讨论，而不是成为一个陷阱，留待你现在正在交谈的投资者去发现，他们会为自己的发现感到自豪并因此对其产生依恋。"
+    },
+    {
+      "original": "[11]This strategy will work best with the best investors, who are both hard to bluff and who already believe most other investors are conventional-minded drones doomed always to miss the big outliers.",
+      "translated": "[11]这一策略最适合那些最优秀的投资者，他们既不容易被吓倒，又认为大多数其他投资者都是墨守成规的庸碌之辈，注定会错过那些大冷门。"
+    },
+    {
+      "original": "Raising money is not like applying to college, where you can assume that if you can get into MIT, you can also get into Foobar State. Because the best investors are much smarter than the rest, and the best startup ideas look initially like bad ideas, it's not uncommon for a startup to be rejected by all the VCs except the best ones.",
+      "translated": "筹集资金不像申请大学，你不能假设如果你能被麻省理工学院录取，也能被Foobar州立大学录取。因为最优秀的投资者比其他人聪明得多，而最好的初创公司想法最初看起来像是糟糕的想法，所以初创公司被所有风险投资公司拒绝，只有最好的几家愿意投资，这种情况并不少见。"
+    },
+    {
+      "original": "That's what happened to Dropbox. Y Combinator started in Boston, and for the first 3 years we ran alternating batches in Boston and Silicon Valley. Because Boston investors were so few and so timid, we used to ship Boston batches out for a second Demo Day in Silicon Valley.",
+      "translated": "这就是发生在Dropbox身上的事情。Y Combinator起源于波士顿，在最初的3年里，我们在波士顿和硅谷轮流举办创业批次。由于波士顿的投资者数量很少且非常谨慎，我们通常会将波士顿的创业批次带到硅谷进行第二次演示日。"
+    },
+    {
+      "original": "Dropbox was part of a Boston batch, which means all those Boston investors got the first look at Dropbox, and none of them closed the deal. Yet another backup and syncing thing, they all thought. A couple weeks later, Dropbox raised a series A round from Sequoia.",
+      "translated": "Dropbox 是波士顿的一批创业公司之一，这意味着波士顿的所有投资者都最先看到了 Dropbox，但没有一个人决定投资。他们普遍认为，这又是一个备份和同步的项目。几周后，Dropbox 从红杉资本那里获得了 A 轮融资。"
+    },
+    {
+      "original": "[12]DifferentNot understanding that investors view investments as bets combines with the ten page paper mentality to prevent founders from even considering the possibility of being certain of what they're saying.",
+      "translated": "[12] 不同的是，创业者没有意识到投资者将投资视为赌博，这种观念与撰写十页论文的心态相结合，使得创业者甚至不会考虑对自己所说的内容确信无疑的可能性。"
+    },
+    {
+      "original": "They think they're trying to convince investors of something very uncertain — that their startup will be huge — and convincing anyone of something like that must obviously entail some wild feat of salesmanship.",
+      "translated": "他们认为自己正在试图说服投资者接受一个非常不确定的事情——他们的创业公司将变得巨大——而要让任何人相信这种事情，显然必须进行一番高超的推销。"
+    },
+    {
+      "original": "But in fact when you raise money you're trying to convince investors of something so much less speculative — whether the company has all the elements of a good bet — that you can approach the problem in a qualitatively different way.",
+      "translated": "但事实上，当你筹集资金时，你试图让投资者相信的并不是那么投机的事情——即公司是否具备所有成为良好投资的要素——因此你可以用一种完全不同的方式来处理这个问题。"
+    },
+    {
+      "original": "You can convince yourself, then convince them.And when you convince them, use the same matter-of-fact language you used to convince yourself. You wouldn't use vague, grandiose marketing-speak among yourselves.",
+      "translated": "你可以先说服自己，然后再去说服他们。而当你说服他们时，使用和说服自己时同样直截了当的语言。你们之间不会使用模糊、夸大的营销语言。"
+    },
+    {
+      "original": "Don't use it with investors either. It not only doesn't work on them, but seems a mark of incompetence. Just be concise. Many investors explicitly use that as a test, reasoning (correctly) that if you can't explain your plans concisely, you don't really understand them.",
+      "translated": "也不要对投资者使用它。这不仅对他们不起作用，反而显得你无能。只需简洁明了。许多投资者确实会以此作为测试，他们认为（正确地认为），如果你不能简洁地解释你的计划，那你实际上并不真正理解这些计划。"
+    },
+    {
+      "original": "But even investors who don't have a rule about this will be bored and frustrated by unclear explanations. [13]So here's the recipe for impressing investors when you're not already good at seeming formidable: Make something worth investing in.",
+      "translated": "但即使是那些没有这类规则的投资者，也会对不清晰的解释感到厌烦和沮丧。[13]所以，这里有一个让你在不善于显得强大时仍能吸引投资者的秘诀：创造值得投资的东西。"
+    },
+    {
+      "original": "Understand why it's worth investing in. Explain that clearly to investors. If you're saying something you know is true, you'll seem confident when you're saying it. Conversely, never let pitching draw you into bullshitting.",
+      "translated": "理解为什么值得投资。清晰地向投资者解释这一点。如果你说的是你知道的事实，你在陈述时会显得自信。相反，永远不要让推销引诱你去胡说八道。"
+    },
+    {
+      "original": "As long as you stay on the territory of truth, you're strong. Make the truth good, then just tell it.Notes[1] There's no reason to believe this number is a constant. In fact it's our explicit goal at Y Combinator to increase it, by encouraging people to start startups who otherwise wouldn't have.[2] Or more precisely, investors decide whether you're a loser or possibly a winner.",
+      "translated": "只要你站在真理的领地上，你就是强大的。把真理说得好，然后就直接说出来。注释[1] 没有任何理由相信这个数字是一个常数。实际上，我们的明确目标是在 Y Combinator 鼓励那些原本不会创业的人去创业，从而增加这个数字。[2] 或者更准确地说，投资者会决定你是失败者还是可能的胜利者。"
+    },
+    {
+      "original": "If you seem like a winner, they may then, depending on how much you're raising, have several more meetings with you to test whether that initial impression holds up.But if you seem like a loser they're done, at least for the next year or so.",
+      "translated": "如果你看起来像是个赢家，他们可能会根据你筹集的资金多少，再与你进行几次会面，以测试那最初的印象是否站得住脚。但如果你看起来像是个输家，他们就会放弃，至少在接下来的一年左右是这样。"
+    },
+    {
+      "original": "And when they decide you're a loser they usually decide in way less than the 50 minutes they may have allotted for the first meeting. Which explains the astonished stories one always hears about VC inattentiveness.",
+      "translated": "而当他们决定你是一个失败者时，通常不会等到原定的50分钟首次会议结束，这个过程可能要短得多。这也解释了为什么总能听到关于风投不专注的惊讶故事。"
+    },
+    {
+      "original": "How could these people make investment decisions well when they're checking their messages during startups' presentations? The solution to that mystery is that they've already made the decision.[3] The two are not mutually exclusive.",
+      "translated": "这些人在初创公司的演讲过程中还在查看信息，他们怎么可能做出投资决策呢？这个谜题的答案是，他们已经做出了决定。两者并不相互排斥。"
+    },
+    {
+      "original": "There are people who are both genuinely formidable, and also really good at acting that way.[4] How can people who will go on to create giant companies not seem formidable early on? I think the main reason is that their experience so far has trained them to keep their wings folded, as it were.",
+      "translated": "有些人既真正强大，又擅长表现出这种强大。[4] 那些将来会创建大公司的人，为什么在早期看起来不够强大呢？我认为主要原因在于，到目前为止的经历训练他们要收敛自己的锋芒，可以说是收敛了自己的翅膀。"
+    },
+    {
+      "original": "Family, school, and jobs encourage cooperation, not conquest. And it's just as well they do, because even being Genghis Khan is probably 99% cooperation. But the result is that most people emerge from the tube of their upbringing in their early twenties compressed into the shape of the tube.",
+      "translated": "家庭、学校和工作鼓励合作，而不是征服。这样做恰到好处，因为即使是成吉思汗，他的成功可能也有99%是靠合作。但结果是，大多数人到了二十多岁，从成长的管道中走出时，已经被压缩成了管道的形状。"
+    },
+    {
+      "original": "Some find they have wings and start to spread them. But this takes a few years. In the beginning even they don't know yet what they're capable of.[5] In fact, change what you're doing. You're investing your own time in your startup.",
+      "translated": "有些人发现自己有翅膀并开始张开它们。但这需要几年的时间。一开始，就连他们自己也不知道自己能做什么。事实上，改变你正在做的事情。你在自己的创业项目上投入了自己的时间。"
+    },
+    {
+      "original": "If you're not convinced that what you're working on is a sufficiently good bet, why are you even working on that?[6] When investors ask you a question you don't know the answer to, the best response is neither to bluff nor give up, but instead to explain how you'd figure out the answer.",
+      "translated": "如果你对正在做的事情没有足够的信心，认为它不是一个足够好的赌注，那你为什么还要做这件事呢？[6] 当投资者问你一个你不知道答案的问题时，最好的回答既不是瞎猜也不是放弃，而是解释你将如何找到答案。"
+    },
+    {
+      "original": "If you can work out a preliminary answer on the spot, so much the better, but explain that's what you're doing.[7] At YC we try to ensure startups are ready to raise money on Demo Day by encouraging them to ignore investors and instead focus on their companies till about a week before.",
+      "translated": "如果你能当场给出一个初步的答案，那就更好了，但要说明你正在这样做。在YC，我们通过鼓励创业公司在演示日之前大约一周内忽略投资者，专注于自己的公司，来确保他们准备好在演示日筹集资金。"
+    },
+    {
+      "original": "That way most reach the stage where they're sufficiently convincing well before Demo Day. But not all do, so we also give any startup that wants to the option of deferring to a later Demo Day.[8] Founders are often surprised by how much harder it is to raise the next round.",
+      "translated": "这样，大多数团队在演示日之前就能达到足够令人信服的阶段。但并非所有团队都能做到，因此我们还为任何希望推迟的初创公司提供了推迟到下一次演示日的选项。创始人常常惊讶于筹集下一轮资金的难度要大得多。"
+    },
+    {
+      "original": "There is a qualitative difference in investors' attitudes. It's like the difference between being judged as a kid and as an adult. The next time you raise money, it's not enough to be promising. You have to be delivering results.So although it works well to show growth graphs at either stage, investors treat them differently.",
+      "translated": "投资者的态度存在本质上的差异。这就像孩子和成年人被评判时的区别。下次你筹集资金时，仅仅表现出潜力是不够的。你必须展示出实际成果。因此，虽然在任何阶段展示增长图表都是有效的，但投资者对它们的看待方式不同。"
+    },
+    {
+      "original": "At three months, a growth graph is mostly evidence that the founders are effective. At two years, it has to be evidence of a promising market and a company tuned to exploit it.[9] By this I mean that if the present day equivalent of the 3 month old Microsoft presented at a Demo Day, there would be investors who turned them down.",
+      "translated": "在三个月时，增长图表主要是证明创始人是有效的。在两年时，它必须证明有一个有前景的市场和一家能够利用这个市场的公司。我的意思是，如果当今相当于三个月大的微软在演示日展示，也会有投资者拒绝他们。"
+    },
+    {
+      "original": "Microsoft itself didn't raise outside money, and indeed the venture business barely existed when they got started in 1975.[10] The best investors rarely care who else is investing, but mediocre investors almost all do.",
+      "translated": "微软自身并没有筹集外部资金，事实上，当他们在1975年开始创业时，风险投资业几乎还不存在。最好的投资者很少关心其他人在投资什么，但平庸的投资者几乎都关心。"
+    },
+    {
+      "original": "So you can use this question as a test of investor quality.[11] To use this technique, you'll have to find out why investors who rejected you did so, or at least what they claim was the reason. That may require asking, because investors don't always volunteer a lot of detail.",
+      "translated": "因此，你可以用这个问题来检验投资者的质量。要使用这种方法，你必须找出那些拒绝你的投资者这样做的原因，或者至少他们声称的原因是什么。这可能需要你主动去询问，因为投资者并不总是会提供很多细节。"
+    },
+    {
+      "original": "Make it clear when you ask that you're not trying to dispute their decision — just that if there is some weakness in your plans, you need to know about it. You won't always get a real reason out of them, but you should at least try.[12] Dropbox wasn't rejected by all the East Coast VCs.",
+      "translated": "当你询问时，要明确表示你并不是想质疑他们的决定——只是如果在你的计划中存在某些不足，你需要了解。你并不总能得到一个真实的理由，但至少应该尝试。[12] Dropbox 并没有被所有东海岸的风险投资家拒绝。"
+    },
+    {
+      "original": "There was one firm that wanted to invest but tried to lowball them.[13] Alfred Lin points out that it's doubly important for the explanation of a startup to be clear and concise, because it has to convince at one remove: it has to work not just on the partner you talk to, but when that partner re-tells it to colleagues.We consciously optimize for this at YC.",
+      "translated": "有一家公司想要投资，但试图压低价格。[13] 阿尔弗雷德·林指出，对于初创公司的解释清晰简洁尤为重要，因为它需要通过间接的方式来说服人：不仅要让你交谈的合伙人信服，还要在该合伙人向同事转述时依然有效。我们在YC有意对此进行优化。"
+    },
+    {
+      "original": "When we work with founders create a Demo Day pitch, the last step is to imagine how an investor would sell it to colleagues. Thanks to Marc Andreessen, Sam Altman, Patrick Collison, Ron Conway, Chris Dixon, Alfred Lin, Ben Horowitz, Steve Huffman, Jessica Livingston, Greg Mcadoo, Andrew Mason, Geoff Ralston, Yuri Sagalov, Emmett Shear, Rajat Suri, Garry Tan, Albert Wenger, Fred Wilson, and Qasar Younis for reading drafts of this.",
+      "translated": "当我们与创始人一起准备演示日的演讲时，最后一步是想象投资者会如何向同事推销这个项目。感谢Marc Andreessen、Sam Altman、Patrick Collison、Ron Conway、Chris Dixon、Alfred Lin、Ben Horowitz、Steve Huffman、Jessica Livingston、Greg Mcadoo、Andrew Mason、Geoff Ralston、Yuri Sagalov、Emmett Shear、Rajat Suri、Garry Tan、Albert Wenger、Fred Wilson和Qasar Younis审阅草稿。"
+    }
+  ],
+  "translation_completed": "2025-07-28T11:42:46.693266",
+  "translation_stats": {
+    "total_paragraphs": 75,
+    "success_count": 75,
+    "success_rate": "100.0%"
+  }
+}

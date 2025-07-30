@@ -1,0 +1,449 @@
+{
+  "title": "The Best Essay",
+  "title_zh": "[待翻译] The Best Essay",
+  "url": "https://www.paulgraham.com/best.html",
+  "filename": "best.html",
+  "date": "2024-03-01",
+  "id": 7,
+  "content": {
+    "success": true,
+    "paragraphs": [
+      "March 2024Despite its title this isn't meant to be the best essay. My goal here is to figure out what the best essay would be like.It would be well-written, but you can write well about any topic. What made it special would be what it was about.Obviously some topics would be better than others.",
+      "It probably wouldn't be about this year's lipstick colors. But it wouldn't be vaporous talk about elevated themes either. A good essay has to be surprising. It has to tell people something they don't already know.The best essay would be on the most important topic you could tell people something surprising about.That may sound obvious, but it has some unexpected consequences.",
+      "One is that science enters the picture like an elephant stepping into a rowboat. For example, Darwin first described the idea of natural selection in an essay written in 1844. Talk about an important topic you could tell people something surprising about.",
+      "If that's the test of a great essay, this was surely the best one written in 1844. And indeed, the best possible essay at any given time would usually be one describing the most important scientific or technological discovery it was possible to make.",
+      "[1]Another unexpected consequence: I imagined when I started writing this that the best essay would be fairly timeless — that the best essay you could write in 1844 would be much the same as the best one you could write now.",
+      "But in fact the opposite seems to be true. It might be true that the best painting would be timeless in this sense. But it wouldn't be impressive to write an essay introducing natural selection now. The best essay now would be one describing a great discovery we didn't yet know about.If the question of how to write the best possible essay reduces to the question of how to make great discoveries, then I started with the wrong question.",
+      "Perhaps what this exercise shows is that we shouldn't waste our time writing essays but instead focus on making discoveries in some specific domain. But I'm interested in essays and what can be done with them, so I want to see if there's some other question I could have asked.There is, and on the face of it, it seems almost identical to the one I started with.",
+      "Instead of asking what would the best essay be? I should have asked how do you write essays well? Though these seem only phrasing apart, their answers diverge. The answer to the first question, as we've seen, isn't really about essay writing.",
+      "The second question forces it to be.Writing essays, at its best, is a way of discovering ideas. How do you do that well? How do you discover by writing?An essay should ordinarily start with what I'm going to call a question, though I mean this in a very general sense: it doesn't have to be a question grammatically, just something that acts like one in the sense that it spurs some response.How do you get this initial question?",
+      "It probably won't work to choose some important-sounding topic at random and go at it. Professional traders won't even trade unless they have what they call an edge — a convincing story about why in some class of trades they'll win more than they lose.",
+      "Similarly, you shouldn't attack a topic unless you have a way in — some new insight about it or way of approaching it.You don't need to have a complete thesis; you just need some kind of gap you can explore.",
+      "In fact, merely having questions about something other people take for granted can be edge enough.If you come across a question that's sufficiently puzzling, it could be worth exploring even if it doesn't seem very momentous.",
+      "Many an important discovery has been made by pulling on a thread that seemed insignificant at first. How can they all be finches? [2]Once you've got a question, then what? You start thinking out loud about it.",
+      "Not literally out loud, but you commit to a specific string of words in response, as you would if you were talking. This initial response is usually mistaken or incomplete. Writing converts your ideas from vague to bad.",
+      "But that's a step forward, because once you can see the brokenness, you can fix it.Perhaps beginning writers are alarmed at the thought of starting with something mistaken or incomplete, but you shouldn't be, because this is why essay writing works.",
+      "Forcing yourself to commit to some specific string of words gives you a starting point, and if it's wrong, you'll see that when you reread it. At least half of essay writing is rereading what you've written and asking is this correct and complete?",
+      "You have to be very strict when rereading, not just because you want to keep yourself honest, but because a gap between your response and the truth is often a sign of new ideas to be discovered.The prize for being strict with what you've written is not just refinement.",
+      "When you take a roughly correct answer and try to make it exactly right, sometimes you find that you can't, and that the reason is that you were depending on a false assumption. And when you discard it, the answer turns out to be completely different.",
+      "[3]Ideally the response to a question is two things: the first step in a process that converges on the truth, and a source of additional questions (in my very general sense of the word). So the process continues recursively, as response spurs response.",
+      "[4]Usually there are several possible responses to a question, which means you're traversing a tree. But essays are linear, not tree-shaped, which means you have to choose one branch to follow at each point.",
+      "How do you choose? Usually you should follow whichever offers the greatest combination of generality and novelty. I don't consciously rank branches this way; I just follow whichever seems most exciting; but generality and novelty are what make a branch exciting.",
+      "[5]If you're willing to do a lot of rewriting, you don't have to guess right. You can follow a branch and see how it turns out, and if it isn't good enough, cut it and backtrack. I do this all the time.",
+      "In this essay I've already cut a 17-paragraph subtree, in addition to countless shorter ones. Maybe I'll reattach it at the end, or boil it down to a footnote, or spin it off as its own essay; we'll see.",
+      "[6]In general you want to be quick to cut. One of the most dangerous temptations in writing (and in software and painting) is to keep something that isn't right, just because it contains a few good bits or cost you a lot of effort.The most surprising new question being thrown off at this point is does it really matter what the initial question is?",
+      "If the space of ideas is highly connected, it shouldn't, because you should be able to get from any question to the most valuable ones in a few hops. And we see evidence that it's highly connected in the way, for example, that people who are obsessed with some topic can turn any conversation toward it.",
+      "But that only works if you know where you want to go, and you don't in an essay. That's the whole point. You don't want to be the obsessive conversationalist, or all your essays will be about the same thing.",
+      "[7]The other reason the initial question matters is that you usually feel somewhat obliged to stick to it. I don't think about this when I decide which branch to follow. I just follow novelty and generality.",
+      "Sticking to the question is enforced later, when I notice I've wandered too far and have to backtrack. But I think this is the optimal solution. You don't want the hunt for novelty and generality to be constrained in the moment.",
+      "Go with it and see what you get. [8]Since the initial question does constrain you, in the best case it sets an upper bound on the quality of essay you'll write. If you do as well as you possibly can on the chain of thoughts that follow from the initial question, the initial question itself is the only place where there's room for variation.It would be a mistake to let this make you too conservative though, because you can't predict where a question will lead.",
+      "Not if you're doing things right, because doing things right means making discoveries, and by definition you can't predict those. So the way to respond to this situation is not to be cautious about which initial question you choose, but to write a lot of essays.",
+      "Essays are for taking risks.Almost any question can get you a good essay. Indeed, it took some effort to think of a sufficiently unpromising topic in the third paragraph, because any essayist's first impulse on hearing that the best essay couldn't be about x would be to try to write it.",
+      "But if most questions yield good essays, only some yield great ones.Can we predict which questions will yield great essays? Considering how long I've been writing essays, it's alarming how novel that question feels.One thing I like in an initial question is outrageousness.",
+      "I love questions that seem naughty in some way — for example, by seeming counterintuitive or overambitious or heterodox. Ideally all three. This essay is an example. Writing about the best essay implies there is such a thing, which pseudo-intellectuals will dismiss as reductive, though it follows necessarily from the possibility of one essay being better than another.",
+      "And thinking about how to do something so ambitious is close enough to doing it that it holds your attention.I like to start an essay with a gleam in my eye. This could be just a taste of mine, but there's one aspect of it that probably isn't: to write a really good essay on some topic, you have to be interested in it.",
+      "A good writer can write well about anything, but to stretch for the novel insights that are the raison d'etre of the essay, you have to care.If caring about it is one of the criteria for a good initial question, then the optimal question varies from person to person.",
+      "It also means you're more likely to write great essays if you care about a lot of different things. The more curious you are, the greater the probable overlap between the set of things you're curious about and the set of topics that yield great essays.What other qualities would a great initial question have?",
+      "It's probably good if it has implications in a lot of different areas. And I find it's a good sign if it's one that people think has already been thoroughly explored. But the truth is that I've barely thought about how to choose initial questions, because I rarely do it.",
+      "I rarely choose what to write about; I just start thinking about something, and sometimes it turns into an essay.Am I going to stop writing essays about whatever I happen to be thinking about and instead start working my way through some systematically generated list of topics?",
+      "That doesn't sound like much fun. And yet I want to write good essays, and if the initial question matters, I should care about it.Perhaps the answer is to go one step earlier: to write about whatever pops into your head, but try to ensure that what pops into your head is good.",
+      "Indeed, now that I think about it, this has to be the answer, because a mere list of topics wouldn't be any use if you didn't have edge with any of them. To start writing an essay, you need a topic plus some initial insight about it, and you can't generate those systematically.",
+      "If only. [9]You can probably cause yourself to have more of them, though. The quality of the ideas that come out of your head depends on what goes in, and you can improve that in two dimensions, breadth and depth.You can't learn everything, so getting breadth implies learning about topics that are very different from one another.",
+      "When I tell people about my book-buying trips to Hay and they ask what I buy books about, I usually feel a bit sheepish answering, because the topics seem like a laundry list of unrelated subjects. But perhaps that's actually optimal in this business.You can also get ideas by talking to people, by doing and building things, and by going places and seeing things.",
+      "I don't think it's important to talk to new people so much as the sort of people who make you have new ideas. I get more new ideas after talking for an afternoon with Robert Morris than from talking to 20 new smart people.",
+      "I know because that's what a block of office hours at Y Combinator consists of.While breadth comes from reading and talking and seeing, depth comes from doing. The way to really learn about some domain is to have to solve problems in it.",
+      "Though this could take the form of writing, I suspect that to be a good essayist you also have to do, or have done, some other kind of work. That may not be true for most other fields, but essay writing is different.",
+      "You could spend half your time working on something else and be net ahead, so long as it was hard.I'm not proposing that as a recipe so much as an encouragement to those already doing it. If you've spent all your life so far working on other things, you're already halfway there.",
+      "Though of course to be good at writing you have to like it, and if you like writing you'd probably have spent at least some time doing it.Everything I've said about initial questions applies also to the questions you encounter in writing the essay.",
+      "They're the same thing; every subtree of an essay is usually a shorter essay, just as every subtree of a Calder mobile is a smaller mobile. So any technique that gets you good initial questions also gets you good whole essays.At some point the cycle of question and response reaches what feels like a natural end.",
+      "Which is a little suspicious; shouldn't every answer suggest more questions? I think what happens is that you start to feel sated. Once you've covered enough interesting ground, you start to lose your appetite for new questions.",
+      "Which is just as well, because the reader is probably feeling sated too. And it's not lazy to stop asking questions, because you could instead be asking the initial question of a new essay.That's the ultimate source of drag on the connectedness of ideas: the discoveries you make along the way.",
+      "If you discover enough starting from question A, you'll never make it to question B. Though if you keep writing essays you'll gradually fix this problem by burning off such discoveries. So bizarrely enough, writing lots of essays makes it as if the space of ideas were more highly connected.When a subtree comes to an end, you can do one of two things.",
+      "You can either stop, or pull the Cubist trick of laying separate subtrees end to end by returning to a question you skipped earlier. Usually it requires some sleight of hand to make the essay flow continuously at this point, but not this time.",
+      "This time I actually need an example of the phenomenon. For example, we discovered earlier that the best possible essay wouldn't usually be timeless in the way the best painting would. This seems surprising enough to be worth investigating further.There are two senses in which an essay can be timeless: to be about a matter of permanent importance, and always to have the same effect on readers.",
+      "With art these two senses blend together. Art that looked beautiful to the ancient Greeks still looks beautiful to us. But with essays the two senses diverge, because essays teach, and you can't teach people something they already know.",
+      "Natural selection is certainly a matter of permanent importance, but an essay explaining it couldn't have the same effect on us that it would have had on Darwin's contemporaries, precisely because his ideas were so successful that everyone already knows about them.",
+      "[10]I imagined when I started writing this that the best possible essay would be timeless in the stricter, evergreen sense: that it would contain some deep, timeless wisdom that would appeal equally to Aristotle and Feynman.",
+      "That doesn't seem to be true. But if the best possible essay wouldn't usually be timeless in this stricter sense, what would it take to write essays that were?The answer to that turns out to be very strange: to be the evergreen kind of timeless, an essay has to be ineffective, in the sense that its discoveries aren't assimilated into our shared culture.",
+      "Otherwise there will be nothing new in it for the second generation of readers. If you want to surprise readers not just now but in the future as well, you have to write essays that won't stick — essays that, no matter how good they are, won't become part of what people in the future learn before they read them.",
+      "[11]I can imagine several ways to do that. One would be to write about things people never learn. For example, it's a long-established pattern for ambitious people to chase after various types of prizes, and only later, perhaps too late, to realize that some of them weren't worth as much as they thought.",
+      "If you write about that, you can be confident of a conveyor belt of future readers to be surprised by it.Ditto if you write about the tendency of the inexperienced to overdo things — of young engineers to produce overcomplicated solutions, for example.",
+      "There are some kinds of mistakes people never learn to avoid except by making them. Any of those should be a timeless topic.Sometimes when we're slow to grasp things it's not just because we're obtuse or in denial but because we've been deliberately lied to.",
+      "There are a lot of things adults lie to kids about, and when you reach adulthood, they don't take you aside and hand you a list of them. They don't remember which lies they told you, and most were implicit anyway.",
+      "So contradicting such lies will be a source of surprises for as long as adults keep telling them.Sometimes it's systems that lie to you. For example, the educational systems in most countries train you to win by hacking the test.",
+      "But that's not how you win at the most important real-world tests, and after decades of training, this is hard for new arrivals in the real world to grasp. Helping them overcome such institutional lies will work as long as the institutions remain broken.",
+      "[12]Another recipe for timelessness is to write about things readers already know, but in much more detail than can be transmitted culturally. \"Everyone knows,\" for example, that it can be rewarding to have kids.",
+      "But till you have them you don't know precisely what forms that takes, and even then much of what you know you may never have put into words.I've written about all these kinds of topics. But I didn't do it in a deliberate attempt to write essays that were timeless in the stricter sense.",
+      "And indeed, the fact that this depends on one's ideas not sticking suggests that it's not worth making a deliberate attempt to. You should write about topics of timeless importance, yes, but if you do such a good job that your conclusions stick and future generations find your essay obvious instead of novel, so much the better.",
+      "You've crossed into Darwin territory.Writing about topics of timeless importance is an instance of something even more general, though: breadth of applicability. And there are more kinds of breadth than chronological — applying to lots of different fields, for example.",
+      "So breadth is the ultimate aim.I already aim for it. Breadth and novelty are the two things I'm always chasing. But I'm glad I understand where timelessness fits.I understand better where a lot of things fit now.",
+      "This essay has been a kind of tour of essay writing. I started out hoping to get advice about topics; if you assume good writing, the only thing left to differentiate the best essay is its topic. And I did get advice about topics: discover natural selection.",
+      "Yeah, that would be nice. But when you step back and ask what's the best you can do short of making some great discovery like that, the answer turns out to be about procedure. Ultimately the quality of an essay is a function of the ideas discovered in it, and the way you get them is by casting a wide net for questions and then being very exacting with the answers.The most striking feature of this map of essay writing are the alternating stripes of inspiration and effort required.",
+      "The questions depend on inspiration, but the answers can be got by sheer persistence. You don't have to get an answer right the first time, but there's no excuse for not getting it right eventually, because you can keep rewriting till you do.",
+      "And this is not just a theoretical possibility. It's a pretty accurate description of the way I work. I'm rewriting as we speak.But although I wish I could say that writing great essays depends mostly on effort, in the limit case it's inspiration that makes the difference.",
+      "In the limit case, the questions are the harder thing to get. That pool has no bottom.How to get more questions? That is the most important question of all.Notes[1] There might be some resistance to this conclusion on the grounds that some of these discoveries could only be understood by a small number of readers.",
+      "But you get into all sorts of difficulties if you want to disqualify essays on this account. How do you decide where the cutoff should be? If a virus kills off everyone except a handful of people sequestered at Los Alamos, could an essay that had been disqualified now be eligible?",
+      "Etc.Darwin's 1844 essay was derived from an earlier version written in 1839. Extracts from it were published in 1858.[2] When you find yourself very curious about an apparently minor question, that's an exciting sign.",
+      "Evolution has designed you to pay attention to things that matter. So when you're very curious about something random, that could mean you've unconsciously noticed it's less random than it seems.[3] Corollary: If you're not intellectually honest, your writing won't just be biased, but also boring, because you'll miss all the ideas you'd have discovered if you pushed for the truth.[4] Sometimes this process begins before you start writing.",
+      "Sometimes you've already figured out the first few things you want to say. Schoolchildren are often taught they should decide everything they want to say, and write this down as an outline before they start writing the essay itself.",
+      "Maybe that's a good way to get them started — or not, I don't know — but it's antithetical to the spirit of essay writing. The more detailed your outline, the less your ideas can benefit from the sort of discovery that essays are for.[5] The problem with this type of \"greedy\" algorithm is that you can end up on a local maximum.",
+      "If the most valuable question is preceded by a boring one, you'll overlook it. But I can't imagine a better strategy. There's no lookahead except by writing. So use a greedy algorithm and a lot of time.[6] I ended up reattaching the first 5 of the 17 paragraphs, and discarding the rest.[7] Stephen Fry confessed to making use of this phenomenon when taking exams at Oxford.",
+      "He had in his head a standard essay about some general literary topic, and he would find a way to turn the exam question toward it and then just reproduce it again.Strictly speaking it's the graph of ideas that would be highly connected, not the space, but that usage would confuse people who don't know graph theory, whereas people who do know it will get what I mean if I say \"space\".[8] Too far doesn't depend just on the distance from the original topic.",
+      "It's more like that distance divided by the value of whatever I've discovered in the subtree.[9] Or can you? I should try writing about this. Even if the chance of succeeding is small, the expected value is huge.[10] There was a vogue in the 20th century for saying that the purpose of art was also to teach.",
+      "Some artists tried to justify their work by explaining that their goal was not to produce something good, but to challenge our preconceptions about art. And to be fair, art can teach somewhat. The ancient Greeks' naturalistic sculptures represented a new idea, and must have been extra exciting to contemporaries on that account.",
+      "But they still look good to us.[11] Bertrand Russell caused huge controversy in the early 20th century with his ideas about \"trial marriage.\" But they make boring reading now, because they prevailed.",
+      "\"Trial marriage\" is what we call \"dating.\"[12] If you'd asked me 10 years ago, I'd have predicted that schools would continue to teach hacking the test for centuries. But now it seems plausible that students will soon be taught individually by AIs, and that exams will be replaced by ongoing, invisible micro-assessments.Thanks to Sam Altman, Trevor Blackwell, Jessica Livingston, Robert Morris, Courtenay Pipkin, and Harj Taggar for reading drafts of this."
+    ],
+    "word_count": 4266,
+    "paragraph_count": 85
+  },
+  "processed_at": "2025-07-26T19:01:36.618300",
+  "paragraphs": [
+    {
+      "original": "March 2024Despite its title this isn't meant to be the best essay. My goal here is to figure out what the best essay would be like.It would be well-written, but you can write well about any topic. What made it special would be what it was about.Obviously some topics would be better than others.",
+      "translated": "2024年3月\n尽管有这个题目，这并不是打算成为最好的文章。我的目标是弄清楚最好的文章会是什么样子。它会写得很好，但你可以对任何主题写得出色。让它特别的会是它的内容。显然，有些主题会比其他的好。"
+    },
+    {
+      "original": "It probably wouldn't be about this year's lipstick colors. But it wouldn't be vaporous talk about elevated themes either. A good essay has to be surprising. It has to tell people something they don't already know.The best essay would be on the most important topic you could tell people something surprising about.That may sound obvious, but it has some unexpected consequences.",
+      "translated": "这大概不会是关于今年的口红颜色。但也不会是那些高谈阔论的空洞话题。一篇好的文章必须出人意料。它必须告诉人们一些他们还不知道的事情。最好的文章会涉及一个你能告诉人们一些出人意料之事的最重要的话题。这听起来可能显而易见，但它却有一些意想不到的后果。"
+    },
+    {
+      "original": "One is that science enters the picture like an elephant stepping into a rowboat. For example, Darwin first described the idea of natural selection in an essay written in 1844. Talk about an important topic you could tell people something surprising about.",
+      "translated": "科学的介入就像大象踏上小船一样。例如，达尔文在1844年撰写的一篇文章中首次描述了自然选择的概念。谈谈一个你能够向人们揭示出令人惊讶事实的重要话题。"
+    },
+    {
+      "original": "If that's the test of a great essay, this was surely the best one written in 1844. And indeed, the best possible essay at any given time would usually be one describing the most important scientific or technological discovery it was possible to make.",
+      "translated": "如果这就是评判一篇伟大文章的标准，那么这无疑是在1844年写得最好的一篇文章。事实上，任何特定时期最优秀的文章通常都会是对当时可能做出的最重要科学或技术发现的描述。"
+    },
+    {
+      "original": "[1]Another unexpected consequence: I imagined when I started writing this that the best essay would be fairly timeless — that the best essay you could write in 1844 would be much the same as the best one you could write now.",
+      "translated": "[1]另一个出乎意料的结果：我在开始写作时想象，最好的文章应该是相当超越时间的——即你在1844年能写出的最佳文章与你现在能写出的最佳文章应该相差无几。"
+    },
+    {
+      "original": "But in fact the opposite seems to be true. It might be true that the best painting would be timeless in this sense. But it wouldn't be impressive to write an essay introducing natural selection now. The best essay now would be one describing a great discovery we didn't yet know about.If the question of how to write the best possible essay reduces to the question of how to make great discoveries, then I started with the wrong question.",
+      "translated": "但事实上，情况似乎恰恰相反。最好的画作确实可能是永恒的。但如今再写一篇介绍自然选择的论文并不会令人印象深刻。当今最好的论文应该是描述一个我们尚未了解的伟大发现。如果关于如何写出最优秀论文的问题归结为如何做出伟大发现的问题，那么我最初提出的问题就是错误的。"
+    },
+    {
+      "original": "Perhaps what this exercise shows is that we shouldn't waste our time writing essays but instead focus on making discoveries in some specific domain. But I'm interested in essays and what can be done with them, so I want to see if there's some other question I could have asked.There is, and on the face of it, it seems almost identical to the one I started with.",
+      "translated": "也许这个练习表明，我们不应该浪费时间写文章，而应该专注于在某个特定领域做出发现。但我对文章以及可以用它们做什么很感兴趣，所以我希望找到另一个可以提出的问题。确实有这样的问题，而且从表面上看，它似乎与我最初的问题几乎相同。"
+    },
+    {
+      "original": "Instead of asking what would the best essay be? I should have asked how do you write essays well? Though these seem only phrasing apart, their answers diverge. The answer to the first question, as we've seen, isn't really about essay writing.",
+      "translated": "与其问“最好的文章是什么样的？”我应该问“如何写好文章？”尽管这两个问题看起来只是措辞不同，但它们的答案却大相径庭。正如我们所见，第一个问题的答案实际上并不关乎文章写作。"
+    },
+    {
+      "original": "The second question forces it to be.Writing essays, at its best, is a way of discovering ideas. How do you do that well? How do you discover by writing?An essay should ordinarily start with what I'm going to call a question, though I mean this in a very general sense: it doesn't have to be a question grammatically, just something that acts like one in the sense that it spurs some response.How do you get this initial question?",
+      "translated": "第二个问题迫使我们这样做。写文章，最好的情况下，是一种发现思想的方式。你如何做到这一点？你如何通过写作来发现思想？一篇文章通常应该从我称之为一个问题开始，尽管我是从一个非常广泛的意义上说的：这不一定要在语法上是一个问题，只要它能起到类似问题的作用，激发某种反应即可。你如何获得这个初始问题？"
+    },
+    {
+      "original": "It probably won't work to choose some important-sounding topic at random and go at it. Professional traders won't even trade unless they have what they call an edge — a convincing story about why in some class of trades they'll win more than they lose.",
+      "translated": "随机选择一个听起来重要的主题并一头扎进去可能行不通。专业交易员甚至不会进行交易，除非他们有所谓的“优势”——一个令人信服的故事，说明在某一类交易中，他们赢多输少的原因。"
+    },
+    {
+      "original": "Similarly, you shouldn't attack a topic unless you have a way in — some new insight about it or way of approaching it.You don't need to have a complete thesis; you just need some kind of gap you can explore.",
+      "translated": "同样，除非你对某个话题有新的见解或处理方式，否则不应贸然涉足。你不需要有一个完整的论点；只需要找到一个可以探索的切入点。"
+    },
+    {
+      "original": "In fact, merely having questions about something other people take for granted can be edge enough.If you come across a question that's sufficiently puzzling, it could be worth exploring even if it doesn't seem very momentous.",
+      "translated": "事实上，对别人习以为常的事情提出疑问就足以成为优势。如果你遇到一个足够令人困惑的问题，即使它看起来并不十分重大，也值得去探索。"
+    },
+    {
+      "original": "Many an important discovery has been made by pulling on a thread that seemed insignificant at first. How can they all be finches? [2]Once you've got a question, then what? You start thinking out loud about it.",
+      "translated": "许多重要的发现都是从看似微不足道的线索中抽丝剥茧而来的。它们怎么可能都是雀鸟呢？[2]一旦你有了问题，接下来该怎么办？你开始大声思考这个问题。"
+    },
+    {
+      "original": "Not literally out loud, but you commit to a specific string of words in response, as you would if you were talking. This initial response is usually mistaken or incomplete. Writing converts your ideas from vague to bad.",
+      "translated": "不是真的大声说出来，但你要像在对话时那样，用特定的词句作出回应。最初的回应通常是错误的或不完整的。写作将你的想法从模糊变为糟糕。"
+    },
+    {
+      "original": "But that's a step forward, because once you can see the brokenness, you can fix it.Perhaps beginning writers are alarmed at the thought of starting with something mistaken or incomplete, but you shouldn't be, because this is why essay writing works.",
+      "translated": "但这是一种进步，因为一旦你看到了问题所在，你就可以去修正它。或许刚开始写作的人会对从一个错误或不完整的想法开始感到担忧，但你不必如此，因为这就是为什么写作文能够奏效的原因。"
+    },
+    {
+      "original": "Forcing yourself to commit to some specific string of words gives you a starting point, and if it's wrong, you'll see that when you reread it. At least half of essay writing is rereading what you've written and asking is this correct and complete?",
+      "translated": "强迫自己写下某些特定的词句可以给你一个起点，如果错了，你在重读时就会发现。至少有一半的作文写作是重读你写的内容，并问自己这是否正确和完整？"
+    },
+    {
+      "original": "You have to be very strict when rereading, not just because you want to keep yourself honest, but because a gap between your response and the truth is often a sign of new ideas to be discovered.The prize for being strict with what you've written is not just refinement.",
+      "translated": "在重读时，你必须非常严格，这不仅是为了保持诚实，还因为你的回答与事实之间的差距往往是新想法的迹象。对已写内容严格要求的奖赏不仅仅是精炼。"
+    },
+    {
+      "original": "When you take a roughly correct answer and try to make it exactly right, sometimes you find that you can't, and that the reason is that you were depending on a false assumption. And when you discard it, the answer turns out to be completely different.",
+      "translated": "当你试图将一个大致正确的答案变得完全正确时，有时你会发现无法做到，原因是你依赖了一个错误的假设。而当你放弃这个假设时，答案会变得完全不同。"
+    },
+    {
+      "original": "[3]Ideally the response to a question is two things: the first step in a process that converges on the truth, and a source of additional questions (in my very general sense of the word). So the process continues recursively, as response spurs response.",
+      "translated": "理想情况下，对一个问题的回答包含两个方面：一是逐步接近真理的过程中的第一步，二是引发更多问题的来源（按我广义上的理解）。因此，这一过程会递归地持续下去，回答激发新的回答。"
+    },
+    {
+      "original": "[4]Usually there are several possible responses to a question, which means you're traversing a tree. But essays are linear, not tree-shaped, which means you have to choose one branch to follow at each point.",
+      "translated": "通常，对一个问题有几种可能的回应，这意味着你是在遍历一棵树。但文章是线性的，而不是树形结构，这意味着在每个点上你都必须选择一个分支来跟随。"
+    },
+    {
+      "original": "How do you choose? Usually you should follow whichever offers the greatest combination of generality and novelty. I don't consciously rank branches this way; I just follow whichever seems most exciting; but generality and novelty are what make a branch exciting.",
+      "translated": "你如何选择？通常你应该选择那些提供最大通用性和新颖性组合的选项。我并不会刻意地这样排序分支；我只是追随那些看起来最令人兴奋的；但通用性和新颖性正是让一个分支变得令人兴奋的原因。"
+    },
+    {
+      "original": "[5]If you're willing to do a lot of rewriting, you don't have to guess right. You can follow a branch and see how it turns out, and if it isn't good enough, cut it and backtrack. I do this all the time.",
+      "translated": "如果你愿意做大量的改写，你不必一开始就猜对。你可以沿着一个思路继续发展，看看结果如何，如果不够好，就砍掉这条线，回溯到之前。我经常这样做。"
+    },
+    {
+      "original": "In this essay I've already cut a 17-paragraph subtree, in addition to countless shorter ones. Maybe I'll reattach it at the end, or boil it down to a footnote, or spin it off as its own essay; we'll see.",
+      "translated": "在这篇文章中，我已经删掉了一个17段的子章节，此外还有无数更短的部分。也许我会在最后重新附上它，或者将其简化为一个脚注，或者另辟为一篇独立的文章；我们拭目以待。"
+    },
+    {
+      "original": "[6]In general you want to be quick to cut. One of the most dangerous temptations in writing (and in software and painting) is to keep something that isn't right, just because it contains a few good bits or cost you a lot of effort.The most surprising new question being thrown off at this point is does it really matter what the initial question is?",
+      "translated": "通常，你应当迅速地进行删减。在写作（以及在软件开发和绘画中）最危险的诱惑之一就是保留那些不完美的部分，仅仅因为它们包含了一些好的元素或者耗费了你大量的努力。此时，最令人惊讶的新问题是：最初的提问真的那么重要吗？"
+    },
+    {
+      "original": "If the space of ideas is highly connected, it shouldn't, because you should be able to get from any question to the most valuable ones in a few hops. And we see evidence that it's highly connected in the way, for example, that people who are obsessed with some topic can turn any conversation toward it.",
+      "translated": "如果思想的空间高度连通，那么情况就不应该如此，因为你应该能够在几次跳跃后从任何问题到达最有价值的问题。我们从一些证据中看到它是高度连通的，例如，对某个话题着迷的人可以将任何对话导向那个话题。"
+    },
+    {
+      "original": "But that only works if you know where you want to go, and you don't in an essay. That's the whole point. You don't want to be the obsessive conversationalist, or all your essays will be about the same thing.",
+      "translated": "但只有在你知道自己要去哪里的情况下才有效，而在写文章时你并不知道。这才是关键所在。你不想成为一个强迫症式的对话者，否则你的所有文章都会是同一个主题。"
+    },
+    {
+      "original": "[7]The other reason the initial question matters is that you usually feel somewhat obliged to stick to it. I don't think about this when I decide which branch to follow. I just follow novelty and generality.",
+      "translated": "[7] 初始问题重要的另一个原因是，你通常会感到有义务坚持它。我在决定跟随哪个分支时并不会考虑这一点。我只是追随新颖性和普遍性。"
+    },
+    {
+      "original": "Sticking to the question is enforced later, when I notice I've wandered too far and have to backtrack. But I think this is the optimal solution. You don't want the hunt for novelty and generality to be constrained in the moment.",
+      "translated": "坚持问题是在后来我才注意到自己偏离得太远而不得不回溯时才得以实现的。但我认为这是最佳解决方案。你不想让对新颖性和普遍性的追求在当下受到限制。"
+    },
+    {
+      "original": "Go with it and see what you get. [8]Since the initial question does constrain you, in the best case it sets an upper bound on the quality of essay you'll write. If you do as well as you possibly can on the chain of thoughts that follow from the initial question, the initial question itself is the only place where there's room for variation.It would be a mistake to let this make you too conservative though, because you can't predict where a question will lead.",
+      "translated": "随它去，看看你会得到什么。[8]由于最初的问题确实对你有所限制，在最好的情况下，它也只是为你的文章质量设定了一个上限。如果你在最初问题引发的一系列思考中尽你所能地去做，那么最初的问题本身就成了唯一可能有变化的地方。然而，不要因此变得过于保守，因为你无法预测一个问题会引向何方。"
+    },
+    {
+      "original": "Not if you're doing things right, because doing things right means making discoveries, and by definition you can't predict those. So the way to respond to this situation is not to be cautious about which initial question you choose, but to write a lot of essays.",
+      "translated": "如果你做得正确，就不会这样，因为做得正确意味着会有发现，而这些发现按定义是无法预测的。所以应对这种情况的方法不是对选择哪个初始问题过于谨慎，而是要写大量的文章。"
+    },
+    {
+      "original": "Essays are for taking risks.Almost any question can get you a good essay. Indeed, it took some effort to think of a sufficiently unpromising topic in the third paragraph, because any essayist's first impulse on hearing that the best essay couldn't be about x would be to try to write it.",
+      "translated": "散文是用来冒险的。几乎任何问题都能写出一篇好散文。事实上，想到第三段中一个足够没有前景的话题还需要费一番功夫，因为任何散文家在听到最好的散文不能写x时，第一反应就是尝试去写它。"
+    },
+    {
+      "original": "But if most questions yield good essays, only some yield great ones.Can we predict which questions will yield great essays? Considering how long I've been writing essays, it's alarming how novel that question feels.One thing I like in an initial question is outrageousness.",
+      "translated": "但大多数问题只能产生不错的文章，只有少数能产生优秀的作品。我们能预测哪些问题会产生优秀的作品吗？考虑到我写文章的时间已经很长了，这个问题的新颖性仍让我感到惊讶。我在选择初始问题时喜欢的一个特点是出人意料。"
+    },
+    {
+      "original": "I love questions that seem naughty in some way — for example, by seeming counterintuitive or overambitious or heterodox. Ideally all three. This essay is an example. Writing about the best essay implies there is such a thing, which pseudo-intellectuals will dismiss as reductive, though it follows necessarily from the possibility of one essay being better than another.",
+      "translated": "我喜欢那些在某种程度上看起来有些调皮的问题——比如，显得反直觉、过分雄心勃勃或异端。理想的情况是，这三者兼而有之。这篇文章就是一个例子。写关于最佳文章的内容意味着确实存在这样的文章，尽管伪知识分子会将其视为过于简化，但这确实是从一篇文章可以比另一篇更好的可能性中必然得出的结论。"
+    },
+    {
+      "original": "And thinking about how to do something so ambitious is close enough to doing it that it holds your attention.I like to start an essay with a gleam in my eye. This could be just a taste of mine, but there's one aspect of it that probably isn't: to write a really good essay on some topic, you have to be interested in it.",
+      "translated": "思考如何完成这样一项雄心勃勃的任务，本身就是一种接近于实现它的过程，足以吸引你的注意力。我喜欢在写文章时带着一股灵光。这也许只是我个人的偏好，但其中有一点可能是普遍的：要写一篇真正优秀的文章，你必须对这个话题感兴趣。"
+    },
+    {
+      "original": "A good writer can write well about anything, but to stretch for the novel insights that are the raison d'etre of the essay, you have to care.If caring about it is one of the criteria for a good initial question, then the optimal question varies from person to person.",
+      "translated": "一个好的作家可以写好任何东西，但要追求作为散文存在理由的深刻见解，你必须关心所写的内容。如果关心它是良好初始问题的一个标准，那么最佳问题因人而异。"
+    },
+    {
+      "original": "It also means you're more likely to write great essays if you care about a lot of different things. The more curious you are, the greater the probable overlap between the set of things you're curious about and the set of topics that yield great essays.What other qualities would a great initial question have?",
+      "translated": "这也意味着，如果你对很多不同的事物感兴趣，你更有可能写出优秀的文章。你的好奇心越强，你感兴趣的事物与能写出优秀文章的话题之间的重叠可能性就越大。一个伟大的初始问题还应该具备哪些其他品质？"
+    },
+    {
+      "original": "It's probably good if it has implications in a lot of different areas. And I find it's a good sign if it's one that people think has already been thoroughly explored. But the truth is that I've barely thought about how to choose initial questions, because I rarely do it.",
+      "translated": "如果它在很多不同领域都有影响，那可能是个好事情。我认为，如果人们认为某个领域已经被彻底研究过了，这其实是一个好迹象。但事实是，我几乎没有考虑过如何选择最初的问题，因为这种情况我很少遇到。"
+    },
+    {
+      "original": "I rarely choose what to write about; I just start thinking about something, and sometimes it turns into an essay.Am I going to stop writing essays about whatever I happen to be thinking about and instead start working my way through some systematically generated list of topics?",
+      "translated": "我很少选择写什么；我只是开始思考某件事，有时它会变成一篇文章。我难道要停止写那些我恰好在思考的事情，转而开始按部就班地处理一些系统生成的主题列表吗？"
+    },
+    {
+      "original": "That doesn't sound like much fun. And yet I want to write good essays, and if the initial question matters, I should care about it.Perhaps the answer is to go one step earlier: to write about whatever pops into your head, but try to ensure that what pops into your head is good.",
+      "translated": "这听起来不是什么有趣的事。然而，我想写出好的文章，如果初始的问题很重要，那我就应该关注它。也许答案是再往前一步：写任何进入你脑海的东西，但要努力确保进入你脑海的是好东西。"
+    },
+    {
+      "original": "Indeed, now that I think about it, this has to be the answer, because a mere list of topics wouldn't be any use if you didn't have edge with any of them. To start writing an essay, you need a topic plus some initial insight about it, and you can't generate those systematically.",
+      "translated": "确实，现在想想，这一定是答案，因为如果对这些话题中的任何一个都没有特别的优势，那么仅仅列出话题是没有用的。要开始写一篇文章，你需要一个话题加上对这个话题的一些初步见解，而这些是无法系统地生成的。"
+    },
+    {
+      "original": "If only. [9]You can probably cause yourself to have more of them, though. The quality of the ideas that come out of your head depends on what goes in, and you can improve that in two dimensions, breadth and depth.You can't learn everything, so getting breadth implies learning about topics that are very different from one another.",
+      "translated": "如果可以的话。[9]不过，你大概可以让自己多产生一些这样的想法。你头脑中产生的想法的质量取决于输入的内容，而你可以从两个维度来提升这一点：广度和深度。你不可能学遍所有知识，所以广度意味着学习彼此差异很大的主题。"
+    },
+    {
+      "original": "When I tell people about my book-buying trips to Hay and they ask what I buy books about, I usually feel a bit sheepish answering, because the topics seem like a laundry list of unrelated subjects. But perhaps that's actually optimal in this business.You can also get ideas by talking to people, by doing and building things, and by going places and seeing things.",
+      "translated": "当我向人们讲述我在海伊的购书之旅，他们问我买了些什么书时，我通常会有些不好意思回答，因为这些主题似乎是一长串不相关的科目。但也许这在这一行其实是最佳的。你也可以通过与人交谈、动手做事情、去不同的地方和看不同的事物来获得灵感。"
+    },
+    {
+      "original": "I don't think it's important to talk to new people so much as the sort of people who make you have new ideas. I get more new ideas after talking for an afternoon with Robert Morris than from talking to 20 new smart people.",
+      "translated": "我认为重要的是与那些能激发你新想法的人交谈，而不是与很多新认识的人交谈。与罗伯特·莫里斯交谈一个下午，我得到的新想法比与20个新认识的聪明人交谈还要多。"
+    },
+    {
+      "original": "I know because that's what a block of office hours at Y Combinator consists of.While breadth comes from reading and talking and seeing, depth comes from doing. The way to really learn about some domain is to have to solve problems in it.",
+      "translated": "我知道，因为这就是在 Y Combinator 的一段办公时间所包含的内容。广度来自于阅读、交谈和观察，而深度则来自于实践。真正了解某个领域的方法是必须在这个领域内解决问题。"
+    },
+    {
+      "original": "Though this could take the form of writing, I suspect that to be a good essayist you also have to do, or have done, some other kind of work. That may not be true for most other fields, but essay writing is different.",
+      "translated": "虽然这可能以写作的形式出现，但我认为要成为一名优秀的散文家，你还必须做或曾经做过其他类型的工作。这可能对其他大多数领域并不适用，但散文写作有所不同。"
+    },
+    {
+      "original": "You could spend half your time working on something else and be net ahead, so long as it was hard.I'm not proposing that as a recipe so much as an encouragement to those already doing it. If you've spent all your life so far working on other things, you're already halfway there.",
+      "translated": "你可以花一半的时间去做其他事情，只要那件事足够难，你最终仍然会领先。我提出这一点更多的是为了鼓励那些已经在这样做的你。如果你迄今为止的大部分时间都在做其他事情，那么你已经走了一大半的路程。"
+    },
+    {
+      "original": "Though of course to be good at writing you have to like it, and if you like writing you'd probably have spent at least some time doing it.Everything I've said about initial questions applies also to the questions you encounter in writing the essay.",
+      "translated": "当然，要擅长写作，你必须喜欢它，而如果你喜欢写作，你大概已经花了一些时间在上面。我前面提到的所有关于初始问题的建议，同样适用于你在撰写论文时遇到的问题。"
+    },
+    {
+      "original": "They're the same thing; every subtree of an essay is usually a shorter essay, just as every subtree of a Calder mobile is a smaller mobile. So any technique that gets you good initial questions also gets you good whole essays.At some point the cycle of question and response reaches what feels like a natural end.",
+      "translated": "它们是同一件事；每篇论文的每个子部分通常都是一篇较短的论文，就像Calder活动雕塑的每个子部分都是一个较小的雕塑。因此，任何能让你提出良好初始问题的技巧，也能让你写出优秀的整篇论文。在某个时刻，问题和回答的循环会达到一个感觉像是自然结束的点。"
+    },
+    {
+      "original": "Which is a little suspicious; shouldn't every answer suggest more questions? I think what happens is that you start to feel sated. Once you've covered enough interesting ground, you start to lose your appetite for new questions.",
+      "translated": "这有点可疑；难道每个答案不应该引出更多的问题吗？我认为发生的情况是，你会开始感到满足。一旦你涉猎了足够有趣的内容，你对新问题的兴趣就会开始减退。"
+    },
+    {
+      "original": "Which is just as well, because the reader is probably feeling sated too. And it's not lazy to stop asking questions, because you could instead be asking the initial question of a new essay.That's the ultimate source of drag on the connectedness of ideas: the discoveries you make along the way.",
+      "translated": "这正好，因为读者可能也感到满足了。停止提问并不意味着懒惰，因为你可以转而去问一篇新文章的初始问题。这是思想连贯性的最大拖累：你在途中所做出的发现。"
+    },
+    {
+      "original": "If you discover enough starting from question A, you'll never make it to question B. Though if you keep writing essays you'll gradually fix this problem by burning off such discoveries. So bizarrely enough, writing lots of essays makes it as if the space of ideas were more highly connected.When a subtree comes to an end, you can do one of two things.",
+      "translated": "如果你从问题A开始发现足够多的内容，你就永远无法到达问题B。然而，如果你不断写文章，你将逐渐通过这样的发现来解决这个问题。所以，奇怪的是，写大量文章会使想法的空间似乎更加紧密地连接在一起。当一个子树结束时，你可以做两件事中的一件。"
+    },
+    {
+      "original": "You can either stop, or pull the Cubist trick of laying separate subtrees end to end by returning to a question you skipped earlier. Usually it requires some sleight of hand to make the essay flow continuously at this point, but not this time.",
+      "translated": "你可以选择停止，或者采用立体派的方法，将独立的子树首尾相连，回到之前跳过的问题。通常在这个节点上需要一些技巧来使文章流畅地衔接，但这次不需要。"
+    },
+    {
+      "original": "This time I actually need an example of the phenomenon. For example, we discovered earlier that the best possible essay wouldn't usually be timeless in the way the best painting would. This seems surprising enough to be worth investigating further.There are two senses in which an essay can be timeless: to be about a matter of permanent importance, and always to have the same effect on readers.",
+      "translated": "这次我实际上需要一个现象的例子。例如，我们之前发现，最好的文章通常不会像最好的画作那样具有永恒性。这一点足够令人惊讶，值得进一步探究。文章可以在两个意义上具有永恒性：一是涉及永恒重要的主题，二是对读者始终产生相同的效果。"
+    },
+    {
+      "original": "With art these two senses blend together. Art that looked beautiful to the ancient Greeks still looks beautiful to us. But with essays the two senses diverge, because essays teach, and you can't teach people something they already know.",
+      "translated": "艺术将这两种感觉融合在一起。古代希腊人认为美丽的作品，对我们而言仍然美丽。但文章则不同，因为文章是用来教育的，而你无法教给人们他们已经知道的东西。"
+    },
+    {
+      "original": "Natural selection is certainly a matter of permanent importance, but an essay explaining it couldn't have the same effect on us that it would have had on Darwin's contemporaries, precisely because his ideas were so successful that everyone already knows about them.",
+      "translated": "自然选择无疑是一个永久重要的问题，但一篇解释它的文章对我们来说不会产生与达尔文同时代人相同的效应，正是因为他的思想如此成功，以至于大家已经对它们耳熟能详。"
+    },
+    {
+      "original": "[10]I imagined when I started writing this that the best possible essay would be timeless in the stricter, evergreen sense: that it would contain some deep, timeless wisdom that would appeal equally to Aristotle and Feynman.",
+      "translated": "[10]我开始写作时曾设想，最理想的文章应该是具有永恒价值的，这里指的是更为严格意义上的常青之作：它将蕴含某种深刻的、永恒的智慧，对亚里士多德和费曼都能产生同等的吸引力。"
+    },
+    {
+      "original": "That doesn't seem to be true. But if the best possible essay wouldn't usually be timeless in this stricter sense, what would it take to write essays that were?The answer to that turns out to be very strange: to be the evergreen kind of timeless, an essay has to be ineffective, in the sense that its discoveries aren't assimilated into our shared culture.",
+      "translated": "这似乎并不正确。但是，如果最好的文章通常并不具备这种严格意义上的永恒价值，那么要怎样才能写出具有永恒价值的文章呢？答案显得非常奇特：要成为那种常青的永恒文章，它必须是无效的，也就是说，它的发现没有被融入我们的共享文化中。"
+    },
+    {
+      "original": "Otherwise there will be nothing new in it for the second generation of readers. If you want to surprise readers not just now but in the future as well, you have to write essays that won't stick — essays that, no matter how good they are, won't become part of what people in the future learn before they read them.",
+      "translated": "否则，对于第二代读者来说，就没有什么新意了。如果你想不仅现在，而且在未来也能让读者感到惊讶，你就必须写一些不会被定型的文章——无论这些文章多么出色，都不会成为未来人们在阅读之前就已经学到的东西。"
+    },
+    {
+      "original": "[11]I can imagine several ways to do that. One would be to write about things people never learn. For example, it's a long-established pattern for ambitious people to chase after various types of prizes, and only later, perhaps too late, to realize that some of them weren't worth as much as they thought.",
+      "translated": "我可以想象有几种方法可以做到这一点。一种方法是写一些人们从未学过的事情。例如，雄心勃勃的人追求各种奖项是一个长期存在的模式，但往往到了后来，也许是为时已晚，他们才意识到其中一些奖项并不像他们想象的那么有价值。"
+    },
+    {
+      "original": "If you write about that, you can be confident of a conveyor belt of future readers to be surprised by it.Ditto if you write about the tendency of the inexperienced to overdo things — of young engineers to produce overcomplicated solutions, for example.",
+      "translated": "如果你写到这些内容，可以确信未来会有源源不断的读者对此感到惊讶。同理，如果你写到初学者倾向于过度行事——比如年轻工程师倾向于提出过于复杂的设计方案——也是如此。"
+    },
+    {
+      "original": "There are some kinds of mistakes people never learn to avoid except by making them. Any of those should be a timeless topic.Sometimes when we're slow to grasp things it's not just because we're obtuse or in denial but because we've been deliberately lied to.",
+      "translated": "有些错误，人们只有亲身经历过后才能学会避免。这些都应该成为永恒的话题。有时候，我们理解事物缓慢，并不是因为我们迟钝或否认，而是因为我们被有意地欺骗了。"
+    },
+    {
+      "original": "There are a lot of things adults lie to kids about, and when you reach adulthood, they don't take you aside and hand you a list of them. They don't remember which lies they told you, and most were implicit anyway.",
+      "translated": "成年人对孩子们撒了很多谎，等你长大成人后，他们并不会把你拉到一边，给你一份这些谎言的清单。他们自己都不记得曾经对你撒过哪些谎，而大部分谎言还是隐性的。"
+    },
+    {
+      "original": "So contradicting such lies will be a source of surprises for as long as adults keep telling them.Sometimes it's systems that lie to you. For example, the educational systems in most countries train you to win by hacking the test.",
+      "translated": "因此，只要成年人继续编造这些谎言，反驳它们就会不断带来惊喜。有时是制度在对你撒谎。例如，大多数国家的教育制度都在训练你通过钻考试的空子来获胜。"
+    },
+    {
+      "original": "But that's not how you win at the most important real-world tests, and after decades of training, this is hard for new arrivals in the real world to grasp. Helping them overcome such institutional lies will work as long as the institutions remain broken.",
+      "translated": "但这并不是在最重要的现实考验中获胜的方式，经过数十年的训练，新进入现实世界的人很难理解这一点。只要这些机构仍然存在问题，帮助他们克服这些体制谎言就会奏效。"
+    },
+    {
+      "original": "[12]Another recipe for timelessness is to write about things readers already know, but in much more detail than can be transmitted culturally. \"Everyone knows,\" for example, that it can be rewarding to have kids.",
+      "translated": "[12]另一种追求永恒的方法是写读者已经了解的事情，但要以远超文化传递的细节来描述。例如，“每个人都明白”，养育孩子是值得的。"
+    },
+    {
+      "original": "But till you have them you don't know precisely what forms that takes, and even then much of what you know you may never have put into words.I've written about all these kinds of topics. But I didn't do it in a deliberate attempt to write essays that were timeless in the stricter sense.",
+      "translated": "但直到你有了这些经历，你才确切知道它们会以什么形式出现，即使如此，你所知道的许多事情可能从未被你用语言表达过。我写过关于所有这些主题的文章。但我的目的并不是为了写出那些严格意义上的永恒之作。"
+    },
+    {
+      "original": "And indeed, the fact that this depends on one's ideas not sticking suggests that it's not worth making a deliberate attempt to. You should write about topics of timeless importance, yes, but if you do such a good job that your conclusions stick and future generations find your essay obvious instead of novel, so much the better.",
+      "translated": "的确，这一事实表明，如果一个人的观点不易被接受，那么刻意去尝试也是不值得的。你应该撰写关于具有永恒价值的主题，这是没错的，但如果你的工作做得如此出色，以至于你的结论被后人视为理所当然而非新颖，那就更好了。"
+    },
+    {
+      "original": "You've crossed into Darwin territory.Writing about topics of timeless importance is an instance of something even more general, though: breadth of applicability. And there are more kinds of breadth than chronological — applying to lots of different fields, for example.",
+      "translated": "你已经进入了达尔文的领域。写作关于永恒重要主题的内容其实是一个更为普遍的现象的一个例子：应用的广泛性。而广泛性并不仅限于时间上的——例如，还可以适用于许多不同的领域。"
+    },
+    {
+      "original": "So breadth is the ultimate aim.I already aim for it. Breadth and novelty are the two things I'm always chasing. But I'm glad I understand where timelessness fits.I understand better where a lot of things fit now.",
+      "translated": "所以广度是最终的目标。我一直在追求它。广度和新颖性是我始终追求的两个方面。但我很高兴我理解了永恒的价值所在。现在我更清楚地认识到许多事物的位置。"
+    },
+    {
+      "original": "This essay has been a kind of tour of essay writing. I started out hoping to get advice about topics; if you assume good writing, the only thing left to differentiate the best essay is its topic. And I did get advice about topics: discover natural selection.",
+      "translated": "这篇论文是对论文写作的一种巡礼。我最初希望得到关于选题的建议；如果你假设写作本身是优秀的，那么区分最佳论文的唯一因素就是它的主题。而我也确实得到了关于选题的建议：发现自然选择。"
+    },
+    {
+      "original": "Yeah, that would be nice. But when you step back and ask what's the best you can do short of making some great discovery like that, the answer turns out to be about procedure. Ultimately the quality of an essay is a function of the ideas discovered in it, and the way you get them is by casting a wide net for questions and then being very exacting with the answers.The most striking feature of this map of essay writing are the alternating stripes of inspiration and effort required.",
+      "translated": "好的，那当然。但当你退一步思考，如果不做出如此重大的发现，你能做到最好的是什么时，答案其实就是关于程序的。最终，文章的质量取决于其中发现的思想，而获得这些思想的方法是广泛地提出问题，然后对答案进行严格的筛选。作文写作过程最引人注目的特点是灵感和努力交替出现的条纹。"
+    },
+    {
+      "original": "The questions depend on inspiration, but the answers can be got by sheer persistence. You don't have to get an answer right the first time, but there's no excuse for not getting it right eventually, because you can keep rewriting till you do.",
+      "translated": "问题依赖于灵感，但答案可以通过坚持不懈获得。你不必一开始就给出正确答案，但最终没有理由不给出正确答案，因为你可以不断重写直到做到。"
+    },
+    {
+      "original": "And this is not just a theoretical possibility. It's a pretty accurate description of the way I work. I'm rewriting as we speak.But although I wish I could say that writing great essays depends mostly on effort, in the limit case it's inspiration that makes the difference.",
+      "translated": "这不仅仅是一种理论上的可能性。它相当准确地描述了我工作的状态。我正在重写。但尽管我希望能说写出优秀的文章主要依赖于努力，但在最终决定性的因素还是灵感。"
+    },
+    {
+      "original": "In the limit case, the questions are the harder thing to get. That pool has no bottom.How to get more questions? That is the most important question of all.Notes[1] There might be some resistance to this conclusion on the grounds that some of these discoveries could only be understood by a small number of readers.",
+      "translated": "在极限情况下，问题是最难获得的。这个池子没有底。如何获得更多的问题？这是最重要的问题。注释[1] 可能有人会基于以下理由对这一结论提出异议：这些发现中的一些只能被少数读者理解。"
+    },
+    {
+      "original": "But you get into all sorts of difficulties if you want to disqualify essays on this account. How do you decide where the cutoff should be? If a virus kills off everyone except a handful of people sequestered at Los Alamos, could an essay that had been disqualified now be eligible?",
+      "translated": "但如果你想以此为由取消某些文章的资格，你会遇到各种困难。你如何决定截止点应该在哪里？如果一种病毒杀死了除洛斯阿拉莫斯隔离的一小群人之外的所有人，那么一篇本来会被取消资格的文章现在是否可以重新获得资格？"
+    },
+    {
+      "original": "Etc.Darwin's 1844 essay was derived from an earlier version written in 1839. Extracts from it were published in 1858.[2] When you find yourself very curious about an apparently minor question, that's an exciting sign.",
+      "translated": "达尔文1844年的论文是基于1839年所写的一个早期版本。它的部分内容在1858年被发表。当你发现自己对一个看似微不足道的问题非常好奇时，这是一个令人兴奋的迹象。"
+    },
+    {
+      "original": "Evolution has designed you to pay attention to things that matter. So when you're very curious about something random, that could mean you've unconsciously noticed it's less random than it seems.[3] Corollary: If you're not intellectually honest, your writing won't just be biased, but also boring, because you'll miss all the ideas you'd have discovered if you pushed for the truth.[4] Sometimes this process begins before you start writing.",
+      "translated": "进化让你注意到重要的事情。所以，当你对某件看似随机的事物非常好奇时，这可能意味着你无意识中注意到它并不像表面看起来那么随机。[3] 推论：如果你不做到知识上的诚实，你的写作不仅会有偏见，还会枯燥无味，因为你会错失那些在追求真相过程中本可以发现的思想。[4] 有时，这个过程在你开始写作之前就已经开始了。"
+    },
+    {
+      "original": "Sometimes you've already figured out the first few things you want to say. Schoolchildren are often taught they should decide everything they want to say, and write this down as an outline before they start writing the essay itself.",
+      "translated": "有时候，你已经想好了要表达的前几句话。学生们经常被教导应该先确定他们想说的所有内容，并将其作为提纲写下来，然后再开始写作文。"
+    },
+    {
+      "original": "Maybe that's a good way to get them started — or not, I don't know — but it's antithetical to the spirit of essay writing. The more detailed your outline, the less your ideas can benefit from the sort of discovery that essays are for.[5] The problem with this type of \"greedy\" algorithm is that you can end up on a local maximum.",
+      "translated": "也许这是一种让他们开始写作的好方法——或者不是，我不知道——但这与散文写作的精神背道而驰。你的提纲越详细，你的想法就越难以从散文写作所追求的那种发现中获益。[5] 这种“贪婪”算法的问题在于，你可能会陷入局部最优。"
+    },
+    {
+      "original": "If the most valuable question is preceded by a boring one, you'll overlook it. But I can't imagine a better strategy. There's no lookahead except by writing. So use a greedy algorithm and a lot of time.[6] I ended up reattaching the first 5 of the 17 paragraphs, and discarding the rest.[7] Stephen Fry confessed to making use of this phenomenon when taking exams at Oxford.",
+      "translated": "如果最有价值的问题前面有一个乏味的问题，你可能会忽略它。但我无法想象有比这更好的策略。除了通过写作，没有其他方法可以预知。所以使用贪心算法并花费大量时间。[6] 我最终重新附上了17段中的前5段，放弃了其余部分。[7] 史蒂芬·弗莱承认他在牛津大学考试时利用了这种现象。"
+    },
+    {
+      "original": "He had in his head a standard essay about some general literary topic, and he would find a way to turn the exam question toward it and then just reproduce it again.Strictly speaking it's the graph of ideas that would be highly connected, not the space, but that usage would confuse people who don't know graph theory, whereas people who do know it will get what I mean if I say \"space\".[8] Too far doesn't depend just on the distance from the original topic.",
+      "translated": "他的脑子里有一篇关于某个普遍文学主题的标准文章，他会设法将考题转向这个主题，然后直接复制下来。严格来说，是思想的图谱高度互联，而不是空间，但这种用法会让不懂图论的人感到困惑，而懂图论的人如果我用“空间”这个词也会明白我的意思。[8] 距离原主题的远近并不仅仅取决于与原主题的距离。"
+    },
+    {
+      "original": "It's more like that distance divided by the value of whatever I've discovered in the subtree.[9] Or can you? I should try writing about this. Even if the chance of succeeding is small, the expected value is huge.[10] There was a vogue in the 20th century for saying that the purpose of art was also to teach.",
+      "translated": "这更像是那个距离除以我在子树中发现的值。[9] 或者你可以？我应该试着写写这个。即使成功的机会很小，期望值也是巨大的。[10] 20世纪曾流行一种观点，认为艺术的目的也在于教育。"
+    },
+    {
+      "original": "Some artists tried to justify their work by explaining that their goal was not to produce something good, but to challenge our preconceptions about art. And to be fair, art can teach somewhat. The ancient Greeks' naturalistic sculptures represented a new idea, and must have been extra exciting to contemporaries on that account.",
+      "translated": "一些艺术家试图通过解释他们的目标不是创作出优秀的作品，而是挑战我们对艺术的先入之见来为自己的作品辩护。公平地说，艺术确实可以传授一些东西。古希腊的自然主义雕塑代表了一种新观念，因此对于当时的观众来说必定格外令人振奋。"
+    },
+    {
+      "original": "But they still look good to us.[11] Bertrand Russell caused huge controversy in the early 20th century with his ideas about \"trial marriage.\" But they make boring reading now, because they prevailed.",
+      "translated": "但是它们在我们看来仍然不错。[11] 伯特兰·罗素在20世纪初因其关于“试婚”的观点引起了巨大争议。但现在读来却显得乏味，因为这些观点已经广为接受。"
+    },
+    {
+      "original": "\"Trial marriage\" is what we call \"dating.\"[12] If you'd asked me 10 years ago, I'd have predicted that schools would continue to teach hacking the test for centuries. But now it seems plausible that students will soon be taught individually by AIs, and that exams will be replaced by ongoing, invisible micro-assessments.Thanks to Sam Altman, Trevor Blackwell, Jessica Livingston, Robert Morris, Courtenay Pipkin, and Harj Taggar for reading drafts of this.",
+      "translated": "“试婚”就是我们所说的“恋爱”。如果在10年前你问我，我可能会预测学校会继续教授应试技巧几百年。但现在看来，学生很快将由人工智能单独教授，考试将被持续的、无形的微型评估所取代。感谢Sam Altman、Trevor Blackwell、Jessica Livingston、Robert Morris、Courtenay Pipkin和Harj Taggar阅读本文的草稿。"
+    }
+  ],
+  "translation_completed": "2025-07-28T11:15:30.947110",
+  "translation_stats": {
+    "total_paragraphs": 85,
+    "success_count": 85,
+    "success_rate": "100.0%"
+  }
+}

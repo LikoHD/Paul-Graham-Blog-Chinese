@@ -1,0 +1,329 @@
+{
+  "title": "How to Write Usefully",
+  "title_zh": "[待翻译] How to Write Usefully",
+  "url": "https://www.paulgraham.com/useful.html",
+  "filename": "useful.html",
+  "date": "2020-11-25",
+  "id": 64,
+  "content": {
+    "success": true,
+    "paragraphs": [
+      "February 2020What should an essay be? Many people would say persuasive. That's what a lot of us were taught essays should be. But I think we can aim for something more ambitious: that an essay should be useful.To start with, that means it should be correct.",
+      "But it's not enough merely to be correct. It's easy to make a statement correct by making it vague. That's a common flaw in academic writing, for example. If you know nothing at all about an issue, you can't go wrong by saying that the issue is a complex one, that there are many factors to be considered, that it's a mistake to take too simplistic a view of it, and so on.Though no doubt correct, such statements tell the reader nothing.",
+      "Useful writing makes claims that are as strong as they can be made without becoming false.For example, it's more useful to say that Pike's Peak is near the middle of Colorado than merely somewhere in Colorado.",
+      "But if I say it's in the exact middle of Colorado, I've now gone too far, because it's a bit east of the middle.Precision and correctness are like opposing forces. It's easy to satisfy one if you ignore the other.",
+      "The converse of vaporous academic writing is the bold, but false, rhetoric of demagogues. Useful writing is bold, but true.It's also two other things: it tells people something important, and that at least some of them didn't already know.Telling people something they didn't know doesn't always mean surprising them.",
+      "Sometimes it means telling them something they knew unconsciously but had never put into words. In fact those may be the more valuable insights, because they tend to be more fundamental.Let's put them all together.",
+      "Useful writing tells people something true and important that they didn't already know, and tells them as unequivocally as possible.Notice these are all a matter of degree. For example, you can't expect an idea to be novel to everyone.",
+      "Any insight that you have will probably have already been had by at least one of the world's 7 billion people. But it's sufficient if an idea is novel to a lot of readers.Ditto for correctness, importance, and strength.",
+      "In effect the four components are like numbers you can multiply together to get a score for usefulness. Which I realize is almost awkwardly reductive, but nonetheless true._____ How can you ensure that the things you say are true and novel and important?",
+      "Believe it or not, there is a trick for doing this. I learned it from my friend Robert Morris, who has a horror of saying anything dumb. His trick is not to say anything unless he's sure it's worth hearing.",
+      "This makes it hard to get opinions out of him, but when you do, they're usually right.Translated into essay writing, what this means is that if you write a bad sentence, you don't publish it. You delete it and try again.",
+      "Often you abandon whole branches of four or five paragraphs. Sometimes a whole essay.You can't ensure that every idea you have is good, but you can ensure that every one you publish is, by simply not publishing the ones that aren't.In the sciences, this is called publication bias, and is considered bad.",
+      "When some hypothesis you're exploring gets inconclusive results, you're supposed to tell people about that too. But with essay writing, publication bias is the way to go.My strategy is loose, then tight.",
+      "I write the first draft of an essay fast, trying out all kinds of ideas. Then I spend days rewriting it very carefully.I've never tried to count how many times I proofread essays, but I'm sure there are sentences I've read 100 times before publishing them.",
+      "When I proofread an essay, there are usually passages that stick out in an annoying way, sometimes because they're clumsily written, and sometimes because I'm not sure they're true. The annoyance starts out unconscious, but after the tenth reading or so I'm saying \"Ugh, that part\" each time I hit it.",
+      "They become like briars that catch your sleeve as you walk past. Usually I won't publish an essay till they're all gone — till I can read through the whole thing without the feeling of anything catching.I'll sometimes let through a sentence that seems clumsy, if I can't think of a way to rephrase it, but I will never knowingly let through one that doesn't seem correct.",
+      "You never have to. If a sentence doesn't seem right, all you have to do is ask why it doesn't, and you've usually got the replacement right there in your head.This is where essayists have an advantage over journalists.",
+      "You don't have a deadline. You can work for as long on an essay as you need to get it right. You don't have to publish the essay at all, if you can't get it right. Mistakes seem to lose courage in the face of an enemy with unlimited resources.",
+      "Or that's what it feels like. What's really going on is that you have different expectations for yourself. You're like a parent saying to a child \"we can sit here all night till you eat your vegetables.\" Except you're the child too.I'm not saying no mistake gets through.",
+      "For example, I added condition (c) in \"A Way to Detect Bias\" after readers pointed out that I'd omitted it. But in practice you can catch nearly all of them.There's a trick for getting importance too.",
+      "It's like the trick I suggest to young founders for getting startup ideas: to make something you yourself want. You can use yourself as a proxy for the reader. The reader is not completely unlike you, so if you write about topics that seem important to you, they'll probably seem important to a significant number of readers as well.Importance has two factors.",
+      "It's the number of people something matters to, times how much it matters to them. Which means of course that it's not a rectangle, but a sort of ragged comb, like a Riemann sum.The way to get novelty is to write about topics you've thought about a lot.",
+      "Then you can use yourself as a proxy for the reader in this department too. Anything you notice that surprises you, who've thought about the topic a lot, will probably also surprise a significant number of readers.",
+      "And here, as with correctness and importance, you can use the Morris technique to ensure that you will. If you don't learn anything from writing an essay, don't publish it.You need humility to measure novelty, because acknowledging the novelty of an idea means acknowledging your previous ignorance of it.",
+      "Confidence and humility are often seen as opposites, but in this case, as in many others, confidence helps you to be humble. If you know you're an expert on some topic, you can freely admit when you learn something you didn't know, because you can be confident that most other people wouldn't know it either.The fourth component of useful writing, strength, comes from two things: thinking well, and the skillful use of qualification.",
+      "These two counterbalance each other, like the accelerator and clutch in a car with a manual transmission. As you try to refine the expression of an idea, you adjust the qualification accordingly. Something you're sure of, you can state baldly with no qualification at all, as I did the four components of useful writing.",
+      "Whereas points that seem dubious have to be held at arm's length with perhapses.As you refine an idea, you're pushing in the direction of less qualification. But you can rarely get it down to zero. Sometimes you don't even want to, if it's a side point and a fully refined version would be too long.Some say that qualifications weaken writing.",
+      "For example, that you should never begin a sentence in an essay with \"I think,\" because if you're saying it, then of course you think it. And it's true that \"I think x\" is a weaker statement than simply \"x.\" Which is exactly why you need \"I think.\" You need it to express your degree of certainty.But qualifications are not scalars.",
+      "They're not just experimental error. There must be 50 things they can express: how broadly something applies, how you know it, how happy you are it's so, even how it could be falsified. I'm not going to try to explore the structure of qualification here.",
+      "It's probably more complex than the whole topic of writing usefully. Instead I'll just give you a practical tip: Don't underestimate qualification. It's an important skill in its own right, not just a sort of tax you have to pay in order to avoid saying things that are false.",
+      "So learn and use its full range. It may not be fully half of having good ideas, but it's part of having them.There's one other quality I aim for in essays: to say things as simply as possible. But I don't think this is a component of usefulness.",
+      "It's more a matter of consideration for the reader. And it's a practical aid in getting things right; a mistake is more obvious when expressed in simple language. But I'll admit that the main reason I write simply is not for the reader's sake or because it helps get things right, but because it bothers me to use more or fancier words than I need to.",
+      "It seems inelegant, like a program that's too long.I realize florid writing works for some people. But unless you're sure you're one of them, the best advice is to write as simply as you can._____ I believe the formula I've given you, importance + novelty + correctness + strength, is the recipe for a good essay.",
+      "But I should warn you that it's also a recipe for making people mad.The root of the problem is novelty. When you tell people something they didn't know, they don't always thank you for it. Sometimes the reason people don't know something is because they don't want to know it.",
+      "Usually because it contradicts some cherished belief. And indeed, if you're looking for novel ideas, popular but mistaken beliefs are a good place to find them. Every popular mistaken belief creates a dead zone of ideas around it that are relatively unexplored because they contradict it.The strength component just makes things worse.",
+      "If there's anything that annoys people more than having their cherished assumptions contradicted, it's having them flatly contradicted.Plus if you've used the Morris technique, your writing will seem quite confident.",
+      "Perhaps offensively confident, to people who disagree with you. The reason you'll seem confident is that you are confident: you've cheated, by only publishing the things you're sure of. It will seem to people who try to disagree with you that you never admit you're wrong.",
+      "In fact you constantly admit you're wrong. You just do it before publishing instead of after.And if your writing is as simple as possible, that just makes things worse. Brevity is the diction of command.",
+      "If you watch someone delivering unwelcome news from a position of inferiority, you'll notice they tend to use lots of words, to soften the blow. Whereas to be short with someone is more or less to be rude to them.It can sometimes work to deliberately phrase statements more weakly than you mean.",
+      "To put \"perhaps\" in front of something you're actually quite sure of. But you'll notice that when writers do this, they usually do it with a wink.I don't like to do this too much. It's cheesy to adopt an ironic tone for a whole essay.",
+      "I think we just have to face the fact that elegance and curtness are two names for the same thing.You might think that if you work sufficiently hard to ensure that an essay is correct, it will be invulnerable to attack.",
+      "That's sort of true. It will be invulnerable to valid attacks. But in practice that's little consolation.In fact, the strength component of useful writing will make you particularly vulnerable to misrepresentation.",
+      "If you've stated an idea as strongly as you could without making it false, all anyone has to do is to exaggerate slightly what you said, and now it is false.Much of the time they're not even doing it deliberately.",
+      "One of the most surprising things you'll discover, if you start writing essays, is that people who disagree with you rarely disagree with what you've actually written. Instead they make up something you said and disagree with that.For what it's worth, the countermove is to ask someone who does this to quote a specific sentence or passage you wrote that they believe is false, and explain why.",
+      "I say \"for what it's worth\" because they never do. So although it might seem that this could get a broken discussion back on track, the truth is that it was never on track in the first place.Should you explicitly forestall likely misinterpretations?",
+      "Yes, if they're misinterpretations a reasonably smart and well-intentioned person might make. In fact it's sometimes better to say something slightly misleading and then add the correction than to try to get an idea right in one shot.",
+      "That can be more efficient, and can also model the way such an idea would be discovered.But I don't think you should explicitly forestall intentional misinterpretations in the body of an essay. An essay is a place to meet honest readers.",
+      "You don't want to spoil your house by putting bars on the windows to protect against dishonest ones. The place to protect against intentional misinterpretations is in end-notes. But don't think you can predict them all.",
+      "People are as ingenious at misrepresenting you when you say something they don't want to hear as they are at coming up with rationalizations for things they want to do but know they shouldn't. I suspect it's the same skill._____ As with most other things, the way to get better at writing essays is to practice.",
+      "But how do you start? Now that we've examined the structure of useful writing, we can rephrase that question more precisely. Which constraint do you relax initially? The answer is, the first component of importance: the number of people who care about what you write.If you narrow the topic sufficiently, you can probably find something you're an expert on.",
+      "Write about that to start with. If you only have ten readers who care, that's fine. You're helping them, and you're writing. Later you can expand the breadth of topics you write about.The other constraint you can relax is a little surprising: publication.",
+      "Writing essays doesn't have to mean publishing them. That may seem strange now that the trend is to publish every random thought, but it worked for me. I wrote what amounted to essays in notebooks for about 15 years.",
+      "I never published any of them and never expected to. I wrote them as a way of figuring things out. But when the web came along I'd had a lot of practice.Incidentally, Steve Wozniak did the same thing.",
+      "In high school he designed computers on paper for fun. He couldn't build them because he couldn't afford the components. But when Intel launched 4K DRAMs in 1975, he was ready._____ How many essays are there left to write though?",
+      "The answer to that question is probably the most exciting thing I've learned about essay writing. Nearly all of them are left to write.Although the essay is an old form, it hasn't been assiduously cultivated.",
+      "In the print era, publication was expensive, and there wasn't enough demand for essays to publish that many. You could publish essays if you were already well known for writing something else, like novels.",
+      "Or you could write book reviews that you took over to express your own ideas. But there was not really a direct path to becoming an essayist. Which meant few essays got written, and those that did tended to be about a narrow range of subjects.Now, thanks to the internet, there's a path.",
+      "Anyone can publish essays online. You start in obscurity, perhaps, but at least you can start. You don't need anyone's permission.It sometimes happens that an area of knowledge sits quietly for years, till some change makes it explode.",
+      "Cryptography did this to number theory. The internet is doing it to the essay.The exciting thing is not that there's a lot left to write, but that there's a lot left to discover. There's a certain kind of idea that's best discovered by writing essays.",
+      "If most essays are still unwritten, most such ideas are still undiscovered.Notes[1] Put railings on the balconies, but don't put bars on the windows.[2] Even now I sometimes write essays that are not meant for publication.",
+      "I wrote several to figure out what Y Combinator should do, and they were really helpful.Thanks to Trevor Blackwell, Daniel Gackle, Jessica Livingston, and Robert Morris for reading drafts of this.Spanish TranslationJapanese Translation"
+    ],
+    "word_count": 2815,
+    "paragraph_count": 61
+  },
+  "processed_at": "2025-07-26T19:03:31.228500",
+  "paragraphs": [
+    {
+      "original": "February 2020What should an essay be? Many people would say persuasive. That's what a lot of us were taught essays should be. But I think we can aim for something more ambitious: that an essay should be useful.To start with, that means it should be correct.",
+      "translated": "2020年2月\n\n一篇作文应该是什么样的？很多人会说应该是有说服力的。这是我们很多人被教导的作文应该具备的特质。但我认为我们可以追求更高的目标：一篇作文应该是有用的。首先，这意味着它应该是正确的。"
+    },
+    {
+      "original": "But it's not enough merely to be correct. It's easy to make a statement correct by making it vague. That's a common flaw in academic writing, for example. If you know nothing at all about an issue, you can't go wrong by saying that the issue is a complex one, that there are many factors to be considered, that it's a mistake to take too simplistic a view of it, and so on.Though no doubt correct, such statements tell the reader nothing.",
+      "translated": "但仅仅正确是不够的。通过使陈述模糊可以很容易地使其正确。这是学术写作中的一个常见缺陷。例如，如果你对某个问题一无所知，你可以说这个问题是一个复杂的问题，需要考虑许多因素，过于简单化地看待它是错误的，等等。虽然毫无疑问这些说法是正确的，但它们并没有告诉读者任何东西。"
+    },
+    {
+      "original": "Useful writing makes claims that are as strong as they can be made without becoming false.For example, it's more useful to say that Pike's Peak is near the middle of Colorado than merely somewhere in Colorado.",
+      "translated": "有用的文字提出尽可能强烈的主张，但又不至于失实。例如，说派克峰位于科罗拉多州中部比仅仅说它在科罗拉多州某处更有用。"
+    },
+    {
+      "original": "But if I say it's in the exact middle of Colorado, I've now gone too far, because it's a bit east of the middle.Precision and correctness are like opposing forces. It's easy to satisfy one if you ignore the other.",
+      "translated": "但如果我说它位于科罗拉多州的正中央，那我就说得太过了，因为它实际上位于中央偏东一点。精确性和正确性就像一对相互对立的力量，忽略其中一个就容易满足另一个。"
+    },
+    {
+      "original": "The converse of vaporous academic writing is the bold, but false, rhetoric of demagogues. Useful writing is bold, but true.It's also two other things: it tells people something important, and that at least some of them didn't already know.Telling people something they didn't know doesn't always mean surprising them.",
+      "translated": "与空洞的学术写作相对的是民粹主义者的豪言壮语，尽管大胆但却是虚假的。有用的写作既大胆又真实。它还有两个特点：它告诉人们一些重要的事情，而且至少有些人之前并不知道。告诉人们他们不知道的事情并不总是意味着让他们感到惊讶。"
+    },
+    {
+      "original": "Sometimes it means telling them something they knew unconsciously but had never put into words. In fact those may be the more valuable insights, because they tend to be more fundamental.Let's put them all together.",
+      "translated": "有时这意味着告诉他们一些他们潜意识里已经知道但从未用言语表达出来的东西。事实上，这些可能是更有价值的见解，因为它们往往更根本。让我们把它们全部放在一起。"
+    },
+    {
+      "original": "Useful writing tells people something true and important that they didn't already know, and tells them as unequivocally as possible.Notice these are all a matter of degree. For example, you can't expect an idea to be novel to everyone.",
+      "translated": "有用的文字会告诉人们一些他们原本不知道的、真实且重要的事情，并尽可能明确地传达这些信息。请注意，这些都是程度上的问题。例如，你不能期望一个想法对每个人都新颖。"
+    },
+    {
+      "original": "Any insight that you have will probably have already been had by at least one of the world's 7 billion people. But it's sufficient if an idea is novel to a lot of readers.Ditto for correctness, importance, and strength.",
+      "translated": "你所拥有的任何见解很可能至少已经被世界上70亿人中的某一个人所拥有。但只要一个想法对许多读者来说是新颖的就足够了。同理，对于正确性、重要性和力度也是如此。"
+    },
+    {
+      "original": "In effect the four components are like numbers you can multiply together to get a score for usefulness. Which I realize is almost awkwardly reductive, but nonetheless true._____ How can you ensure that the things you say are true and novel and important?",
+      "translated": "实际上，这四个组成部分就像是可以相乘以获得实用性分数的数字。我意识到这几乎是一种过于简化的说法，但确实如此。_____ 你如何确保你说的话既真实又新颖且重要？"
+    },
+    {
+      "original": "Believe it or not, there is a trick for doing this. I learned it from my friend Robert Morris, who has a horror of saying anything dumb. His trick is not to say anything unless he's sure it's worth hearing.",
+      "translated": "信不信由你，确实有一个诀窍。这是我从朋友罗伯特·莫里斯那里学来的，他非常害怕说任何愚蠢的话。他的诀窍是，除非确定说出来值得听，否则就不开口。"
+    },
+    {
+      "original": "This makes it hard to get opinions out of him, but when you do, they're usually right.Translated into essay writing, what this means is that if you write a bad sentence, you don't publish it. You delete it and try again.",
+      "translated": "这让他很难发表意见，但一旦发表，通常都是正确的。翻译成写作，这意味着如果你写了一个糟糕的句子，你就不要发表它。你应该删掉它，重新尝试。"
+    },
+    {
+      "original": "Often you abandon whole branches of four or five paragraphs. Sometimes a whole essay.You can't ensure that every idea you have is good, but you can ensure that every one you publish is, by simply not publishing the ones that aren't.In the sciences, this is called publication bias, and is considered bad.",
+      "translated": "你常常会放弃整段四五个段落的内容。有时甚至是一整篇文章。你不能保证每个想法都是好的，但你可以通过不发表那些不好的想法来确保你发表的每一个想法都是好的。在科学领域，这被称为发表偏差，被认为是不好的。"
+    },
+    {
+      "original": "When some hypothesis you're exploring gets inconclusive results, you're supposed to tell people about that too. But with essay writing, publication bias is the way to go.My strategy is loose, then tight.",
+      "translated": "当你探索的某个假设得出了不确定的结果时，你也应该告诉人们这一点。但在撰写论文时，出版偏倚才是王道。我的策略是先宽松，后严格。"
+    },
+    {
+      "original": "I write the first draft of an essay fast, trying out all kinds of ideas. Then I spend days rewriting it very carefully.I've never tried to count how many times I proofread essays, but I'm sure there are sentences I've read 100 times before publishing them.",
+      "translated": "我快速地写出论文的第一稿，尝试各种各样的想法。然后我会花几天时间仔细地修改。我从未统计过自己校对论文的次数，但肯定有些句子在发表前我已经读过上百遍。"
+    },
+    {
+      "original": "When I proofread an essay, there are usually passages that stick out in an annoying way, sometimes because they're clumsily written, and sometimes because I'm not sure they're true. The annoyance starts out unconscious, but after the tenth reading or so I'm saying \"Ugh, that part\" each time I hit it.",
+      "translated": "当我校对一篇文章时，通常有些段落会以令人厌烦的方式突兀地出现，有时是因为写得笨拙，有时是因为我不确定它们是否正确。这种厌烦感起初是无意识的，但到了第十次阅读左右，每当我看到那段时，都会说：“唉，就是这部分。”"
+    },
+    {
+      "original": "They become like briars that catch your sleeve as you walk past. Usually I won't publish an essay till they're all gone — till I can read through the whole thing without the feeling of anything catching.I'll sometimes let through a sentence that seems clumsy, if I can't think of a way to rephrase it, but I will never knowingly let through one that doesn't seem correct.",
+      "translated": "它们就像你走过时会勾住你衣袖的荆棘。通常，在我将所有这些都清除之前，我是不会发表一篇文章的——直到我能够通读全文而没有任何地方让我感到别扭。有时，如果我想不出更好的表达方式，我会放过一个看似笨拙的句子，但我绝不会明知一个句子不妥还让它通过。"
+    },
+    {
+      "original": "You never have to. If a sentence doesn't seem right, all you have to do is ask why it doesn't, and you've usually got the replacement right there in your head.This is where essayists have an advantage over journalists.",
+      "translated": "你永远不必这样做。如果一句话听起来不对劲，你只需要问为什么不对劲，通常你脑子里已经有了替代方案。这就是散文作家比记者占优势的地方。"
+    },
+    {
+      "original": "You don't have a deadline. You can work for as long on an essay as you need to get it right. You don't have to publish the essay at all, if you can't get it right. Mistakes seem to lose courage in the face of an enemy with unlimited resources.",
+      "translated": "你没有截止日期。你可以花尽可能多的时间来写一篇文章，直到你把它写好。如果你无法把它写好，你甚至不必发表这篇文章。错误似乎在面对一个资源无限的敌人时失去了勇气。"
+    },
+    {
+      "original": "Or that's what it feels like. What's really going on is that you have different expectations for yourself. You're like a parent saying to a child \"we can sit here all night till you eat your vegetables.\" Except you're the child too.I'm not saying no mistake gets through.",
+      "translated": "或者感觉像是这样。实际上，是你对自己有不同的期望。你就像一个对小孩说“我们可以坐在这里一整晚，直到你把蔬菜吃完”的父母。只不过，你也是那个小孩。我不是说完全没有错误会溜过去。"
+    },
+    {
+      "original": "For example, I added condition (c) in \"A Way to Detect Bias\" after readers pointed out that I'd omitted it. But in practice you can catch nearly all of them.There's a trick for getting importance too.",
+      "translated": "例如，在“检测偏差的方法”中，我在读者指出我遗漏了条件（c）后将其添加进去。但在实际操作中，你几乎可以捕捉到所有的情况。还有一个技巧可以用来获得重要性。"
+    },
+    {
+      "original": "It's like the trick I suggest to young founders for getting startup ideas: to make something you yourself want. You can use yourself as a proxy for the reader. The reader is not completely unlike you, so if you write about topics that seem important to you, they'll probably seem important to a significant number of readers as well.Importance has two factors.",
+      "translated": "这就像是我建议年轻创业者获取创业点子的技巧：创造一些你自己想要的东西。你可以把自己当作读者的代表。读者并非完全不同于你，因此，如果你写的话题对你来说显得重要，那么对相当一部分读者来说，这些话题可能也同样重要。重要性有两个因素。"
+    },
+    {
+      "original": "It's the number of people something matters to, times how much it matters to them. Which means of course that it's not a rectangle, but a sort of ragged comb, like a Riemann sum.The way to get novelty is to write about topics you've thought about a lot.",
+      "translated": "它关乎的人数，乘以这件事对他们的意义程度。这意味着，当然，它不是一个矩形，而是一种参差不齐的梳子，像黎曼和。要获得新颖性，就要写你思考过很多的主题。"
+    },
+    {
+      "original": "Then you can use yourself as a proxy for the reader in this department too. Anything you notice that surprises you, who've thought about the topic a lot, will probably also surprise a significant number of readers.",
+      "translated": "然后，你也可以在这个方面把自己当作读者的代表。任何让你感到惊讶的地方，尤其是你对这个话题已经思考良多时，很可能也会让相当数量的读者感到惊讶。"
+    },
+    {
+      "original": "And here, as with correctness and importance, you can use the Morris technique to ensure that you will. If you don't learn anything from writing an essay, don't publish it.You need humility to measure novelty, because acknowledging the novelty of an idea means acknowledging your previous ignorance of it.",
+      "translated": "在这里，就像对待正确性和重要性一样，你可以使用莫里斯技术来确保你能做到。如果你从写一篇文章中没有学到任何东西，就不要发表它。你需要谦逊来衡量新意，因为承认一个想法的新颖性就意味着承认你之前对它的无知。"
+    },
+    {
+      "original": "Confidence and humility are often seen as opposites, but in this case, as in many others, confidence helps you to be humble. If you know you're an expert on some topic, you can freely admit when you learn something you didn't know, because you can be confident that most other people wouldn't know it either.The fourth component of useful writing, strength, comes from two things: thinking well, and the skillful use of qualification.",
+      "translated": "自信和谦逊通常被视为对立面，但在这个例子中，就像在许多其他情况下一样，自信有助于你保持谦逊。如果你知道自己是某个领域的专家，你就可以坦率地承认自己学到了一些以前不知道的东西，因为你可以自信地认为大多数其他人也不知道。有用写作的第四个要素，力度，来源于两方面：良好的思考和恰当地使用限定语。"
+    },
+    {
+      "original": "These two counterbalance each other, like the accelerator and clutch in a car with a manual transmission. As you try to refine the expression of an idea, you adjust the qualification accordingly. Something you're sure of, you can state baldly with no qualification at all, as I did the four components of useful writing.",
+      "translated": "这两个因素相互制衡，就像手动挡汽车中的油门和离合器。当你试图精炼一个想法的表达时，你会相应地调整限定语。对于你确信无疑的事情，完全可以毫不含糊地陈述，不需要任何限定，就像我陈述有用写作的四个要素那样。"
+    },
+    {
+      "original": "Whereas points that seem dubious have to be held at arm's length with perhapses.As you refine an idea, you're pushing in the direction of less qualification. But you can rarely get it down to zero. Sometimes you don't even want to, if it's a side point and a fully refined version would be too long.Some say that qualifications weaken writing.",
+      "translated": "对于那些看似可疑的观点，必须保持一定的距离，用“或许”来处理。当你精炼一个想法时，你是在朝着减少修饰语的方向努力。但你很少能将其完全消除。有时，即使你不想这样做，如果这是一个次要观点，而完全精炼的版本会太长的话，你也不得不保留一些修饰语。有些人说，修饰语会削弱写作。"
+    },
+    {
+      "original": "For example, that you should never begin a sentence in an essay with \"I think,\" because if you're saying it, then of course you think it. And it's true that \"I think x\" is a weaker statement than simply \"x.\" Which is exactly why you need \"I think.\" You need it to express your degree of certainty.But qualifications are not scalars.",
+      "translated": "例如，你不应该在论文中用“I think”开头，因为如果你说出来，当然是你认为的。确实，“I think x”比直接说“x”显得更弱。这恰恰是你需要“I think”的原因。你需要它来表达你的确定程度。但限定词不是标量。"
+    },
+    {
+      "original": "They're not just experimental error. There must be 50 things they can express: how broadly something applies, how you know it, how happy you are it's so, even how it could be falsified. I'm not going to try to explore the structure of qualification here.",
+      "translated": "它们不仅仅是实验误差。它们可能表达了50种不同的含义：某个事物适用范围的广泛性、你是如何得知这一点的、你对此感到多么高兴，甚至它如何可能被证伪。我不会在这里尝试探讨这些限定条件的结构。"
+    },
+    {
+      "original": "It's probably more complex than the whole topic of writing usefully. Instead I'll just give you a practical tip: Don't underestimate qualification. It's an important skill in its own right, not just a sort of tax you have to pay in order to avoid saying things that are false.",
+      "translated": "这可能比整个关于有效写作的话题还要复杂。我只给你一个实用的建议：不要低估资格的重要性。这是一项重要的技能，而不仅仅是为了避免说出错误的话而必须付出的一种“税”。"
+    },
+    {
+      "original": "So learn and use its full range. It may not be fully half of having good ideas, but it's part of having them.There's one other quality I aim for in essays: to say things as simply as possible. But I don't think this is a component of usefulness.",
+      "translated": "所以要学习并充分利用它的全部范围。这可能不是产生好想法的全部，但确实是其中的一部分。我在写作时还追求另一个品质：尽量简洁地表达。但我不认为这是实用性的一个组成部分。"
+    },
+    {
+      "original": "It's more a matter of consideration for the reader. And it's a practical aid in getting things right; a mistake is more obvious when expressed in simple language. But I'll admit that the main reason I write simply is not for the reader's sake or because it helps get things right, but because it bothers me to use more or fancier words than I need to.",
+      "translated": "这更多是为读者着想。同时，它也是帮助把事情做对的实用工具；当用简单的语言表达时，错误会更加明显。不过我得承认，我之所以写得简单，并不是为了读者，也不是因为它有助于把事情做对，而是因为我用比需要的更多或更花哨的词汇会让我感到不安。"
+    },
+    {
+      "original": "It seems inelegant, like a program that's too long.I realize florid writing works for some people. But unless you're sure you're one of them, the best advice is to write as simply as you can._____ I believe the formula I've given you, importance + novelty + correctness + strength, is the recipe for a good essay.",
+      "translated": "这显得不够优雅，就像一个过长的程序。我明白华丽的文笔对某些人来说很有效。但除非你确定自己是其中之一，否则最好的建议是尽可能简洁地写作。_____ 我认为我给出的公式，重要性 + 新颖性 + 正确性 + 力度，是写出好文章的秘诀。"
+    },
+    {
+      "original": "But I should warn you that it's also a recipe for making people mad.The root of the problem is novelty. When you tell people something they didn't know, they don't always thank you for it. Sometimes the reason people don't know something is because they don't want to know it.",
+      "translated": "但我得提醒你，这也会让人生气。问题的根源在于新奇性。当你告诉人们他们不知道的事情时，他们并不总是会感谢你。有时人们不知道某些事情，是因为他们不想知道。"
+    },
+    {
+      "original": "Usually because it contradicts some cherished belief. And indeed, if you're looking for novel ideas, popular but mistaken beliefs are a good place to find them. Every popular mistaken belief creates a dead zone of ideas around it that are relatively unexplored because they contradict it.The strength component just makes things worse.",
+      "translated": "通常是因为它与某些珍视的信念相矛盾。确实，如果你想寻找新的想法，流行但错误的信念是一个很好的发现地点。每个流行但错误的信念都会在其周围形成一个相对未被探索的想法禁区，因为这些想法与它相矛盾。而这一强势因素只会使情况更糟。"
+    },
+    {
+      "original": "If there's anything that annoys people more than having their cherished assumptions contradicted, it's having them flatly contradicted.Plus if you've used the Morris technique, your writing will seem quite confident.",
+      "translated": "如果有什么事情比自己的珍视假设被反驳更让人恼火的话，那就是这些假设被直接否定。此外，如果你使用了莫里斯技巧，你的写作会显得相当自信。"
+    },
+    {
+      "original": "Perhaps offensively confident, to people who disagree with you. The reason you'll seem confident is that you are confident: you've cheated, by only publishing the things you're sure of. It will seem to people who try to disagree with you that you never admit you're wrong.",
+      "translated": "或许在那些与你意见不同的人看来，你会显得过于自信。你之所以显得自信，是因为你确实自信：你通过只发表那些你确信无疑的观点来“作弊”。对于那些试图与你意见相左的人，你会显得从不承认自己错了。"
+    },
+    {
+      "original": "In fact you constantly admit you're wrong. You just do it before publishing instead of after.And if your writing is as simple as possible, that just makes things worse. Brevity is the diction of command.",
+      "translated": "事实上，你一直在承认自己错了。只不过你是在发表之前而不是之后承认的。而且如果你的文章尽可能简洁，这只会使情况更糟。简洁是命令的言辞。"
+    },
+    {
+      "original": "If you watch someone delivering unwelcome news from a position of inferiority, you'll notice they tend to use lots of words, to soften the blow. Whereas to be short with someone is more or less to be rude to them.It can sometimes work to deliberately phrase statements more weakly than you mean.",
+      "translated": "如果你观察到有人从一个较低的地位传达不受欢迎的消息时，你会注意到他们往往会使用很多词语来缓和冲击。而对某人简短则或多或少是对他们粗鲁。有时故意把陈述说得比你实际想的更弱一些也是可行的。"
+    },
+    {
+      "original": "To put \"perhaps\" in front of something you're actually quite sure of. But you'll notice that when writers do this, they usually do it with a wink.I don't like to do this too much. It's cheesy to adopt an ironic tone for a whole essay.",
+      "translated": "在你其实相当确定的事情前面加上“或许”。但你会注意到，当作家这样做时，他们通常是以一种心照不宣的方式。我不太喜欢这样做。整篇文章都采用讽刺的语气显得有些俗气。"
+    },
+    {
+      "original": "I think we just have to face the fact that elegance and curtness are two names for the same thing.You might think that if you work sufficiently hard to ensure that an essay is correct, it will be invulnerable to attack.",
+      "translated": "我认为我们必须面对这样一个事实，即优雅和简洁其实是同一件事的两个名称。你可能会认为，如果你足够努力地确保一篇文章的正确性，它就会变得无懈可击。"
+    },
+    {
+      "original": "That's sort of true. It will be invulnerable to valid attacks. But in practice that's little consolation.In fact, the strength component of useful writing will make you particularly vulnerable to misrepresentation.",
+      "translated": "这在某种程度上是正确的。它将对有效的攻击无懈可击。但事实上，这在实践中几乎没有什么安慰。实际上，有用写作的力量部分会使你特别容易被误解。"
+    },
+    {
+      "original": "If you've stated an idea as strongly as you could without making it false, all anyone has to do is to exaggerate slightly what you said, and now it is false.Much of the time they're not even doing it deliberately.",
+      "translated": "如果你尽可能强烈地表达了一个观点，但没有使其变得错误，那么其他人只需稍微夸大你的话，它现在就变成了错误的。很多时候，他们甚至不是故意这么做的。"
+    },
+    {
+      "original": "One of the most surprising things you'll discover, if you start writing essays, is that people who disagree with you rarely disagree with what you've actually written. Instead they make up something you said and disagree with that.For what it's worth, the countermove is to ask someone who does this to quote a specific sentence or passage you wrote that they believe is false, and explain why.",
+      "translated": "如果你开始写文章，会发现最令人惊讶的一点是，那些与你意见不合的人很少会真正反对你写的内容。相反，他们会杜撰你说过的话，然后反对这些杜撰的内容。为了应对这种情况，你可以要求这些人引用你写的具体句子或段落，指出他们认为错误的地方，并解释原因。"
+    },
+    {
+      "original": "I say \"for what it's worth\" because they never do. So although it might seem that this could get a broken discussion back on track, the truth is that it was never on track in the first place.Should you explicitly forestall likely misinterpretations?",
+      "translated": "我说“值不值得”是因为它们从来都不值。所以，尽管这似乎可以使一段破裂的讨论重回正轨，但实际上，讨论从一开始就没有走上正轨。你是否应该明确地预防可能的误解？"
+    },
+    {
+      "original": "Yes, if they're misinterpretations a reasonably smart and well-intentioned person might make. In fact it's sometimes better to say something slightly misleading and then add the correction than to try to get an idea right in one shot.",
+      "translated": "是的，如果是聪明且善意的人可能会产生的误解的话。事实上，有时候先说一些稍有误导的话，然后再进行纠正，比试图一次就把概念说明白要更好。"
+    },
+    {
+      "original": "That can be more efficient, and can also model the way such an idea would be discovered.But I don't think you should explicitly forestall intentional misinterpretations in the body of an essay. An essay is a place to meet honest readers.",
+      "translated": "这可以更高效，也能模拟出这种想法被发现的方式。但我不认为你应该在文章中明确防止故意的误读。文章是与诚实的读者相遇的地方。"
+    },
+    {
+      "original": "You don't want to spoil your house by putting bars on the windows to protect against dishonest ones. The place to protect against intentional misinterpretations is in end-notes. But don't think you can predict them all.",
+      "translated": "你不希望为了防范不诚实之人而在窗户上安装栏杆，从而破坏了你的房子。防范故意误读的地方在于脚注。但不要以为你能预见所有的情况。"
+    },
+    {
+      "original": "People are as ingenious at misrepresenting you when you say something they don't want to hear as they are at coming up with rationalizations for things they want to do but know they shouldn't. I suspect it's the same skill._____ As with most other things, the way to get better at writing essays is to practice.",
+      "translated": "人们在你说了他们不想听的话时，歪曲你的意思的本领，与他们在做明知不该做但又想做的事时找理由的本领一样高明。我怀疑这其实是同一种技能。_____ 与其他大多数事情一样，提高写作水平的方法是多加练习。"
+    },
+    {
+      "original": "But how do you start? Now that we've examined the structure of useful writing, we can rephrase that question more precisely. Which constraint do you relax initially? The answer is, the first component of importance: the number of people who care about what you write.If you narrow the topic sufficiently, you can probably find something you're an expert on.",
+      "translated": "但是，你该如何开始呢？既然我们已经探讨了有效写作的结构，我们可以更精确地重新表述这个问题。你最初应该放松哪个限制条件？答案是：最重要的第一个组成部分——关心你写作内容的人数。如果你足够缩小话题范围，你很可能能够找到自己擅长的领域。"
+    },
+    {
+      "original": "Write about that to start with. If you only have ten readers who care, that's fine. You're helping them, and you're writing. Later you can expand the breadth of topics you write about.The other constraint you can relax is a little surprising: publication.",
+      "translated": "先从这点写起。即使只有十个读者在乎，也没关系。你在帮助他们，你在写作。之后你可以拓宽你写作的主题范围。另一个可以放松的限制可能有点出乎意料：发表。"
+    },
+    {
+      "original": "Writing essays doesn't have to mean publishing them. That may seem strange now that the trend is to publish every random thought, but it worked for me. I wrote what amounted to essays in notebooks for about 15 years.",
+      "translated": "写文章并不一定意味着要发表它们。这在如今这个趋势是将每一个随意的想法都发表出来的时代，可能显得有些奇怪，但对我来说却很有效。我在笔记本上写了大约15年的文章。"
+    },
+    {
+      "original": "I never published any of them and never expected to. I wrote them as a way of figuring things out. But when the web came along I'd had a lot of practice.Incidentally, Steve Wozniak did the same thing.",
+      "translated": "我从未发表过任何一篇，也从未期望发表。我写这些东西是为了弄清楚一些问题。但当互联网出现时，我已经有了很多练习。顺便提一下，史蒂夫·沃兹尼亚克也做过同样的事情。"
+    },
+    {
+      "original": "In high school he designed computers on paper for fun. He couldn't build them because he couldn't afford the components. But when Intel launched 4K DRAMs in 1975, he was ready._____ How many essays are there left to write though?",
+      "translated": "他在高中时为了好玩在纸上设计计算机。他无法实际建造这些计算机，因为他买不起所需的组件。但当英特尔在1975年推出4K DRAM时，他已经准备好了。_____ 还剩下多少篇作文要写呢？"
+    },
+    {
+      "original": "The answer to that question is probably the most exciting thing I've learned about essay writing. Nearly all of them are left to write.Although the essay is an old form, it hasn't been assiduously cultivated.",
+      "translated": "这个问题的答案可能是我学到的关于论文写作最令人兴奋的事情。几乎所有的论文都留待去写。尽管论文是一种古老的形式，但它并未得到精心的培养。"
+    },
+    {
+      "original": "In the print era, publication was expensive, and there wasn't enough demand for essays to publish that many. You could publish essays if you were already well known for writing something else, like novels.",
+      "translated": "在印刷时代，出版成本高昂，对于散文的需求并不足以支撑大量出版。如果你已经因为写其他东西，比如小说，而闻名，那么你就可以出版散文。"
+    },
+    {
+      "original": "Or you could write book reviews that you took over to express your own ideas. But there was not really a direct path to becoming an essayist. Which meant few essays got written, and those that did tended to be about a narrow range of subjects.Now, thanks to the internet, there's a path.",
+      "translated": "或者你可以写书评来表达自己的观点。但成为散文家并没有一条直接的路。这意味着很少有人写散文，而那些写出来的散文往往只涉及狭窄的主题。现在，多亏了互联网，这条路出现了。"
+    },
+    {
+      "original": "Anyone can publish essays online. You start in obscurity, perhaps, but at least you can start. You don't need anyone's permission.It sometimes happens that an area of knowledge sits quietly for years, till some change makes it explode.",
+      "translated": "任何人都可以在线发表文章。你或许是从默默无闻开始，但至少你可以开始。你不需要任何人的许可。有时，一个知识领域会安静地存在多年，直到某种变化使其爆发。"
+    },
+    {
+      "original": "Cryptography did this to number theory. The internet is doing it to the essay.The exciting thing is not that there's a lot left to write, but that there's a lot left to discover. There's a certain kind of idea that's best discovered by writing essays.",
+      "translated": "密码学对数论做了这样的事情。互联网正在对论文做同样的事情。令人兴奋的不是还有很多可以写的内容，而是还有很多可以发现的东西。有一种特定类型的想法最适合通过撰写论文来发现。"
+    },
+    {
+      "original": "If most essays are still unwritten, most such ideas are still undiscovered.Notes[1] Put railings on the balconies, but don't put bars on the windows.[2] Even now I sometimes write essays that are not meant for publication.",
+      "translated": "如果大多数文章尚未写成，那么大多数这样的想法也仍未被发现。注释[1] 在阳台上装上栏杆，但不要在窗户上装铁栅。[2] 即使现在，我有时仍会写一些不打算发表的文章。"
+    },
+    {
+      "original": "I wrote several to figure out what Y Combinator should do, and they were really helpful.Thanks to Trevor Blackwell, Daniel Gackle, Jessica Livingston, and Robert Morris for reading drafts of this.Spanish TranslationJapanese Translation",
+      "translated": "我写了好几篇文章来探讨Y Combinator 应该做什么，这些文章非常有帮助。感谢 Trevor Blackwell、Daniel Gackle、Jessica Livingston 和 Robert Morris 阅读这些草稿。西班牙语翻译日语翻译"
+    }
+  ],
+  "translation_completed": "2025-07-29T01:39:19.033176",
+  "translation_stats": {
+    "total_paragraphs": 61,
+    "success_count": 61,
+    "success_rate": "100.0%"
+  }
+}

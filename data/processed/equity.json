@@ -1,0 +1,124 @@
+{
+  "title": "The Equity Equation",
+  "title_zh": "[待翻译] The Equity Equation",
+  "url": "https://www.paulgraham.com/equity.html",
+  "filename": "equity.html",
+  "date": "2007-07-01",
+  "id": 180,
+  "content": {
+    "success": true,
+    "paragraphs": [
+      "July 2007An investor wants to give you money for a certain percentage of your startup. Should you take it? You're about to hire your first employee. How much stock should you give him?These are some of the hardest questions founders face.",
+      "And yet both have the same answer:1/(1 - n)Whenever you're trading stock in your company for anything, whether it's money or an employee or a deal with another company, the test for whether to do it is the same.",
+      "You should give up n% of your company if what you trade it for improves your average outcome enough that the (100 - n)% you have left is worth more than the whole company was before.For example, if an investor wants to buy half your company, how much does that investment have to improve your average outcome for you to break even?",
+      "Obviously it has to double: if you trade half your company for something that more than doubles the company's average outcome, you're net ahead. You have half as big a share of something worth more than twice as much.In the general case, if n is the fraction of the company you're giving up, the deal is a good one if it makes the company worth more than 1/(1 - n).For example, suppose Y Combinator offers to fund you in return for 7% of your company.",
+      "In this case, n is .07 and 1/(1 - n) is 1.075. So you should take the deal if you believe we can improve your average outcome by more than 7.5%. If we improve your outcome by 10%, you're net ahead, because the remaining .93 you hold is worth .93 x 1.1 = 1.023.",
+      "[1]One of the things the equity equation shows us is that, financially at least, taking money from a top VC firm can be a really good deal. Greg Mcadoo from Sequoia recently said at a YC dinner that when Sequoia invests alone they like to take about 30% of a company.",
+      "1/.7 = 1.43, meaning that deal is worth taking if they can improve your outcome by more than 43%. For the average startup, that would be an extraordinary bargain. It would improve the average startup's prospects by more than 43% just to be able to say they were funded by Sequoia, even if they never actually got the money.The reason Sequoia is such a good deal is that the percentage of the company they take is artificially low.",
+      "They don't even try to get market price for their investment; they limit their holdings to leave the founders enough stock to feel the company is still theirs.The catch is that Sequoia gets about 6000 business plans a year and funds about 20 of them, so the odds of getting this great deal are 1 in 300.",
+      "The companies that make it through are not average startups.Of course, there are other factors to consider in a VC deal. It's never just a straight trade of money for stock. But if it were, taking money from a top firm would generally be a bargain.You can use the same formula when giving stock to employees, but it works in the other direction.",
+      "If i is the average outcome for the company with the addition of some new person, then they're worth n such that i = 1/(1 - n). Which means n = (i - 1)/i.For example, suppose you're just two founders and you want to hire an additional hacker who's so good you feel he'll increase the average outcome of the whole company by 20%.",
+      "n = (1.2 - 1)/1.2 = .167. So you'll break even if you trade 16.7% of the company for him.That doesn't mean 16.7% is the right amount of stock to give him. Stock is not the only cost of hiring someone: there's usually salary and overhead as well.",
+      "And if the company merely breaks even on the deal, there's no reason to do it.I think to translate salary and overhead into stock you should multiply the annual rate by about 1.5. Most startups grow fast or die; if you die you don't have to pay the guy, and if you grow fast you'll be paying next year's salary out of next year's valuation, which should be 3x this year's.",
+      "If your valuation grows 3x a year, the total cost in stock of a new hire's salary and overhead is 1.5 years' cost at the present valuation. [2]How much of an additional margin should the company need as the \"activation energy\" for the deal?",
+      "Since this is in effect the company's profit on a hire, the market will determine that: if you're a hot opportunity, you can charge more.Let's run through an example. Suppose the company wants to make a \"profit\" of 50% on the new hire mentioned above.",
+      "So subtract a third from 16.7% and we have 11.1% as his \"retail\" price. Suppose further that he's going to cost $60k a year in salary and overhead, x 1.5 = $90k total. If the company's valuation is $2 million, $90k is 4.5%.",
+      "11.1% - 4.5% = an offer of 6.6%.Incidentally, notice how important it is for early employees to take little salary. It comes right out of stock that could otherwise be given to them.Obviously there is a great deal of play in these numbers.",
+      "I'm not claiming that stock grants can now be reduced to a formula. Ultimately you always have to guess. But at least know what you're guessing. If you choose a number based on your gut feel, or a table of typical grant sizes supplied by a VC firm, understand what those are estimates of.And more generally, when you make any decision involving equity, run it through 1/(1 - n) to see if it makes sense.",
+      "You should always feel richer after trading equity. If the trade didn't increase the value of your remaining shares enough to put you net ahead, you wouldn't have (or shouldn't have) done it.Notes[1] This is why we can't believe anyone would think Y Combinator was a bad deal.",
+      "Does anyone really think we're so useless that in three months we can't improve a startup's prospects by 7.5%? [2] The obvious choice for your present valuation is the post-money valuation of your last funding round.",
+      "This probably undervalues the company, though, because (a) unless your last round just happened, the company is presumably worth more, and (b) the valuation of an early funding round usually reflects some other contribution by the investors.Thanks to Sam Altman, Trevor Blackwell, Paul Buchheit, Hutch Fishman, David Hornik, Paul Kedrosky, Jessica Livingston, Gary Sabot, and Joshua Schachter for reading drafts of this."
+    ],
+    "word_count": 1109,
+    "paragraph_count": 20
+  },
+  "processed_at": "2025-07-26T19:07:13.753221",
+  "paragraphs": [
+    {
+      "original": "July 2007An investor wants to give you money for a certain percentage of your startup. Should you take it? You're about to hire your first employee. How much stock should you give him?These are some of the hardest questions founders face.",
+      "translated": "2007年7月，一位投资者希望以你初创公司一定股份的比例给你资金。你应该接受吗？你正准备雇佣你的第一位员工。你应该给他多少股份？这些都是创始人面临的最困难的问题之一。"
+    },
+    {
+      "original": "And yet both have the same answer:1/(1 - n)Whenever you're trading stock in your company for anything, whether it's money or an employee or a deal with another company, the test for whether to do it is the same.",
+      "translated": "然而，两者都有相同的答案：1/(1 - n)。无论你是用公司的股票换取资金、员工还是与其他公司的交易，判断是否进行的测试标准都是相同的。"
+    },
+    {
+      "original": "You should give up n% of your company if what you trade it for improves your average outcome enough that the (100 - n)% you have left is worth more than the whole company was before.For example, if an investor wants to buy half your company, how much does that investment have to improve your average outcome for you to break even?",
+      "translated": "你应该放弃公司n%的股份，如果换取的条件能够使你的平均收益提高到足以使剩下的(100 - n)%股份比之前整个公司的价值更高。例如，如果投资者想要购买你公司的一半股份，那么这项投资需要将你的平均收益提高到什么程度，你才能保本？"
+    },
+    {
+      "original": "Obviously it has to double: if you trade half your company for something that more than doubles the company's average outcome, you're net ahead. You have half as big a share of something worth more than twice as much.In the general case, if n is the fraction of the company you're giving up, the deal is a good one if it makes the company worth more than 1/(1 - n).For example, suppose Y Combinator offers to fund you in return for 7% of your company.",
+      "translated": "显然，它必须翻倍：如果你用公司的一半换取了能使公司平均收益翻倍以上的东西，你最终是获利的。你拥有的股份虽然减少了一半，但公司的价值却增加了一倍以上。在一般情况下，如果你放弃的公司股份比例为n，那么这笔交易是划算的，前提是它能使公司的价值超过1/(1 - n)。例如，假设Y Combinator提出以换取你公司7%的股份来为你提供资金。"
+    },
+    {
+      "original": "In this case, n is .07 and 1/(1 - n) is 1.075. So you should take the deal if you believe we can improve your average outcome by more than 7.5%. If we improve your outcome by 10%, you're net ahead, because the remaining .93 you hold is worth .93 x 1.1 = 1.023.",
+      "translated": "在这种情况下，n 是 0.07，而 1/(1 - n) 是 1.075。因此，如果你相信我们能将你的平均结果提高超过 7.5%，你就应该接受这个提议。如果我们能将你的结果提高 10%，你就会有净收益，因为你持有的剩余 0.93 部分将值 0.93 x 1.1 = 1.023。"
+    },
+    {
+      "original": "[1]One of the things the equity equation shows us is that, financially at least, taking money from a top VC firm can be a really good deal. Greg Mcadoo from Sequoia recently said at a YC dinner that when Sequoia invests alone they like to take about 30% of a company.",
+      "translated": "股权方程式向我们展示的一件事是，至少从财务角度来看，从顶级风投公司那里拿钱可以是一个非常好的交易。红杉资本的Greg Mcadoo最近在YC的一次晚宴上说，当红杉单独投资时，他们喜欢持有大约30%的公司股份。"
+    },
+    {
+      "original": "1/.7 = 1.43, meaning that deal is worth taking if they can improve your outcome by more than 43%. For the average startup, that would be an extraordinary bargain. It would improve the average startup's prospects by more than 43% just to be able to say they were funded by Sequoia, even if they never actually got the money.The reason Sequoia is such a good deal is that the percentage of the company they take is artificially low.",
+      "translated": "1/.7 = 1.43，这意味着如果他们能将你的结果提高43%以上，这个交易就值得接受。对于一般的初创公司来说，这将是一个极其划算的交易。仅仅能够说他们获得了红杉资本的投资，就能将一般初创公司的前景提高43%以上，即使他们实际上从未拿到这笔资金。红杉资本之所以如此划算，是因为他们所占公司股份的比例被人为地压低了。"
+    },
+    {
+      "original": "They don't even try to get market price for their investment; they limit their holdings to leave the founders enough stock to feel the company is still theirs.The catch is that Sequoia gets about 6000 business plans a year and funds about 20 of them, so the odds of getting this great deal are 1 in 300.",
+      "translated": "他们甚至不试图为自己的投资争取市场价格；他们限制自己的持股量，以确保创始人有足够的股份，让他们觉得公司仍然是自己的。问题在于，红杉资本每年大约收到6000份商业计划书，但只资助其中的20个，所以获得这笔好交易的几率是300分之1。"
+    },
+    {
+      "original": "The companies that make it through are not average startups.Of course, there are other factors to consider in a VC deal. It's never just a straight trade of money for stock. But if it were, taking money from a top firm would generally be a bargain.You can use the same formula when giving stock to employees, but it works in the other direction.",
+      "translated": "能够脱颖而出的公司绝非普通的初创企业。当然，在风投交易中还有其他因素需要考虑。这从来不只是简单的用资金换取股份。但如果真是这样的话，从顶级风投公司获取资金通常会是一个划算的交易。你可以在向员工授予股份时使用相同的公式，但方向相反。"
+    },
+    {
+      "original": "If i is the average outcome for the company with the addition of some new person, then they're worth n such that i = 1/(1 - n). Which means n = (i - 1)/i.For example, suppose you're just two founders and you want to hire an additional hacker who's so good you feel he'll increase the average outcome of the whole company by 20%.",
+      "translated": "如果i是公司新增某个人后的平均成果，那么他们的价值为n，使得i = 1/(1 - n)。这意味着n = (i - 1)/i。例如，假设你只有两位创始人，你想要聘请一位额外的黑客，他非常优秀，你认为他会使整个公司的平均成果增加20%。"
+    },
+    {
+      "original": "n = (1.2 - 1)/1.2 = .167. So you'll break even if you trade 16.7% of the company for him.That doesn't mean 16.7% is the right amount of stock to give him. Stock is not the only cost of hiring someone: there's usually salary and overhead as well.",
+      "translated": "n = (1.2 - 1)/1.2 = 0.167。所以，如果你用公司16.7%的股份来换取他的加入，你就能保本。但这并不意味着16.7%就是应该给他的正确股份比例。招聘某人的成本不仅仅是股份，通常还包括工资和管理费用。"
+    },
+    {
+      "original": "And if the company merely breaks even on the deal, there's no reason to do it.I think to translate salary and overhead into stock you should multiply the annual rate by about 1.5. Most startups grow fast or die; if you die you don't have to pay the guy, and if you grow fast you'll be paying next year's salary out of next year's valuation, which should be 3x this year's.",
+      "translated": "如果公司在这笔交易中仅仅保本，那就没有理由去做。我认为将工资和管理费用转换为股票，应该将年费率乘以大约1.5。大多数初创公司要么快速增长，要么死亡；如果你的公司死亡，你就不用支付这笔费用；而如果你的公司快速增长，你将用明年的估值来支付明年的工资，而明年的估值应该是今年的三倍。"
+    },
+    {
+      "original": "If your valuation grows 3x a year, the total cost in stock of a new hire's salary and overhead is 1.5 years' cost at the present valuation. [2]How much of an additional margin should the company need as the \"activation energy\" for the deal?",
+      "translated": "如果你的估值每年增长3倍，那么新员工的工资和开销的股票总成本相当于当前估值下1.5年的成本。[2]公司需要多少额外的“激活能”作为交易的缓冲？"
+    },
+    {
+      "original": "Since this is in effect the company's profit on a hire, the market will determine that: if you're a hot opportunity, you can charge more.Let's run through an example. Suppose the company wants to make a \"profit\" of 50% on the new hire mentioned above.",
+      "translated": "既然这实际上是公司在招聘上的利润，市场将会决定这一点：如果你是一个热门机会，你可以收取更多费用。让我们来看一个例子。假设公司希望在上述提到的新招聘上获得50%的“利润”。"
+    },
+    {
+      "original": "So subtract a third from 16.7% and we have 11.1% as his \"retail\" price. Suppose further that he's going to cost $60k a year in salary and overhead, x 1.5 = $90k total. If the company's valuation is $2 million, $90k is 4.5%.",
+      "translated": "所以从16.7%中减去三分之一，我们得到11.1%作为他的“零售”价格。进一步假设他的年薪和开销总计为6万美元，乘以1.5等于9万美元。如果公司的估值为200万美元，那么9万美元占4.5%。"
+    },
+    {
+      "original": "11.1% - 4.5% = an offer of 6.6%.Incidentally, notice how important it is for early employees to take little salary. It comes right out of stock that could otherwise be given to them.Obviously there is a great deal of play in these numbers.",
+      "translated": "11.1% - 4.5% = 6.6%的报价。顺便说一下，注意早期员工拿低薪是多么重要。这直接减少了本可以分配给他们的股票。显然，这些数字有很大的灵活性。"
+    },
+    {
+      "original": "I'm not claiming that stock grants can now be reduced to a formula. Ultimately you always have to guess. But at least know what you're guessing. If you choose a number based on your gut feel, or a table of typical grant sizes supplied by a VC firm, understand what those are estimates of.And more generally, when you make any decision involving equity, run it through 1/(1 - n) to see if it makes sense.",
+      "translated": "我并不是说现在可以把股票授予简化为一个公式。最终你总是要猜测。但至少要知道自己在猜测什么。如果你根据直觉选择一个数字，或者根据风险投资公司提供的典型授予规模表来选择，要明白这些只是估算值。更广泛地说，当你做出任何涉及股权的决定时，用1/(1 - n)来检验一下是否合理。"
+    },
+    {
+      "original": "You should always feel richer after trading equity. If the trade didn't increase the value of your remaining shares enough to put you net ahead, you wouldn't have (or shouldn't have) done it.Notes[1] This is why we can't believe anyone would think Y Combinator was a bad deal.",
+      "translated": "你应该在交易股权后感到更加富有。如果交易没有使你剩余股份的价值增加到足以让你整体上获利，你就不会（或者不应该）进行这笔交易。注[1] 这也是为什么我们无法相信有人会认为Y Combinator是一笔糟糕的交易。"
+    },
+    {
+      "original": "Does anyone really think we're so useless that in three months we can't improve a startup's prospects by 7.5%? [2] The obvious choice for your present valuation is the post-money valuation of your last funding round.",
+      "translated": "真的有人认为我们如此无能，以至于在三个月内无法将一家初创公司的前景提高7.5%吗？[2] 你目前估值的明显选择是你上一轮融资后的估值。"
+    },
+    {
+      "original": "This probably undervalues the company, though, because (a) unless your last round just happened, the company is presumably worth more, and (b) the valuation of an early funding round usually reflects some other contribution by the investors.Thanks to Sam Altman, Trevor Blackwell, Paul Buchheit, Hutch Fishman, David Hornik, Paul Kedrosky, Jessica Livingston, Gary Sabot, and Joshua Schachter for reading drafts of this.",
+      "translated": "这可能低估了公司，因为（a）除非你的上一轮融资刚刚完成，否则公司现在的价值应该更高，（b）早期融资轮的估值通常反映了投资者的其他贡献。感谢Sam Altman、Trevor Blackwell、Paul Buchheit、Hutch Fishman、David Hornik、Paul Kedrosky、Jessica Livingston、Gary Sabot和Joshua Schachter审阅本文的草稿。"
+    }
+  ],
+  "translation_completed": "2025-07-27T10:14:35.524837",
+  "translation_stats": {
+    "total_paragraphs": 20,
+    "success_count": 20,
+    "success_rate": "100.0%"
+  }
+}

@@ -1,0 +1,539 @@
+{
+  "title": "What You'll Wish You'd Known",
+  "title_zh": "[待翻译] What You'll Wish You'd Known",
+  "url": "https://www.paulgraham.com/hs.html",
+  "filename": "hs.html",
+  "date": "2005-01-01",
+  "id": 208,
+  "content": {
+    "success": true,
+    "paragraphs": [
+      "January 2005(I wrote this talk for a high school. I never actually gave it, because the school authorities vetoed the plan to invite me.)When I said I was speaking at a high school, my friends were curious.",
+      "What will you say to high school students? So I asked them, what do you wish someone had told you in high school? Their answers were remarkably similar. So I'm going to tell you what we all wish someone had told us.I'll start by telling you something you don't have to know in high school: what you want to do with your life.",
+      "People are always asking you this, so you think you're supposed to have an answer. But adults ask this mainly as a conversation starter. They want to know what sort of person you are, and this question is just to get you talking.",
+      "They ask it the way you might poke a hermit crab in a tide pool, to see what it does.If I were back in high school and someone asked about my plans, I'd say that my first priority was to learn what the options were.",
+      "You don't need to be in a rush to choose your life's work. What you need to do is discover what you like. You have to work on stuff you like if you want to be good at what you do.It might seem that nothing would be easier than deciding what you like, but it turns out to be hard, partly because it's hard to get an accurate picture of most jobs.",
+      "Being a doctor is not the way it's portrayed on TV. Fortunately you can also watch real doctors, by volunteering in hospitals. [1]But there are other jobs you can't learn about, because no one is doing them yet.",
+      "Most of the work I've done in the last ten years didn't exist when I was in high school. The world changes fast, and the rate at which it changes is itself speeding up. In such a world it's not a good idea to have fixed plans.And yet every May, speakers all over the country fire up the Standard Graduation Speech, the theme of which is: don't give up on your dreams.",
+      "I know what they mean, but this is a bad way to put it, because it implies you're supposed to be bound by some plan you made early on. The computer world has a name for this: premature optimization. And it is synonymous with disaster.",
+      "These speakers would do better to say simply, don't give up.What they really mean is, don't get demoralized. Don't think that you can't do what other people can. And I agree you shouldn't underestimate your potential.",
+      "People who've done great things tend to seem as if they were a race apart. And most biographies only exaggerate this illusion, partly due to the worshipful attitude biographers inevitably sink into, and partly because, knowing how the story ends, they can't help streamlining the plot till it seems like the subject's life was a matter of destiny, the mere unfolding of some innate genius.",
+      "In fact I suspect if you had the sixteen year old Shakespeare or Einstein in school with you, they'd seem impressive, but not totally unlike your other friends.Which is an uncomfortable thought. If they were just like us, then they had to work very hard to do what they did.",
+      "And that's one reason we like to believe in genius. It gives us an excuse for being lazy. If these guys were able to do what they did only because of some magic Shakespeareness or Einsteinness, then it's not our fault if we can't do something as good.I'm not saying there's no such thing as genius.",
+      "But if you're trying to choose between two theories and one gives you an excuse for being lazy, the other one is probably right.So far we've cut the Standard Graduation Speech down from \"don't give up on your dreams\" to \"what someone else can do, you can do.\" But it needs to be cut still further.",
+      "There is some variation in natural ability. Most people overestimate its role, but it does exist. If I were talking to a guy four feet tall whose ambition was to play in the NBA, I'd feel pretty stupid saying, you can do anything if you really try.",
+      "[2]We need to cut the Standard Graduation Speech down to, \"what someone else with your abilities can do, you can do; and don't underestimate your abilities.\" But as so often happens, the closer you get to the truth, the messier your sentence gets.",
+      "We've taken a nice, neat (but wrong) slogan, and churned it up like a mud puddle. It doesn't make a very good speech anymore. But worse still, it doesn't tell you what to do anymore. Someone with your abilities?",
+      "What are your abilities?UpwindI think the solution is to work in the other direction. Instead of working back from a goal, work forward from promising situations. This is what most successful people actually do anyway.In the graduation-speech approach, you decide where you want to be in twenty years, and then ask: what should I do now to get there?",
+      "I propose instead that you don't commit to anything in the future, but just look at the options available now, and choose those that will give you the most promising range of options afterward.It's not so important what you work on, so long as you're not wasting your time.",
+      "Work on things that interest you and increase your options, and worry later about which you'll take.Suppose you're a college freshman deciding whether to major in math or economics. Well, math will give you more options: you can go into almost any field from math.",
+      "If you major in math it will be easy to get into grad school in economics, but if you major in economics it will be hard to get into grad school in math.Flying a glider is a good metaphor here. Because a glider doesn't have an engine, you can't fly into the wind without losing a lot of altitude.",
+      "If you let yourself get far downwind of good places to land, your options narrow uncomfortably. As a rule you want to stay upwind. So I propose that as a replacement for \"don't give up on your dreams.\" Stay upwind.How do you do that, though?",
+      "Even if math is upwind of economics, how are you supposed to know that as a high school student?Well, you don't, and that's what you need to find out. Look for smart people and hard problems. Smart people tend to clump together, and if you can find such a clump, it's probably worthwhile to join it.",
+      "But it's not straightforward to find these, because there is a lot of faking going on.To a newly arrived undergraduate, all university departments look much the same. The professors all seem forbiddingly intellectual and publish papers unintelligible to outsiders.",
+      "But while in some fields the papers are unintelligible because they're full of hard ideas, in others they're deliberately written in an obscure way to seem as if they're saying something important. This may seem a scandalous proposition, but it has been experimentally verified, in the famous Social Text affair.",
+      "Suspecting that the papers published by literary theorists were often just intellectual-sounding nonsense, a physicist deliberately wrote a paper full of intellectual-sounding nonsense, and submitted it to a literary theory journal, which published it.The best protection is always to be working on hard problems.",
+      "Writing novels is hard. Reading novels isn't. Hard means worry: if you're not worrying that something you're making will come out badly, or that you won't be able to understand something you're studying, then it isn't hard enough.",
+      "There has to be suspense.Well, this seems a grim view of the world, you may think. What I'm telling you is that you should worry? Yes, but it's not as bad as it sounds. It's exhilarating to overcome worries.",
+      "You don't see faces much happier than people winning gold medals. And you know why they're so happy? Relief.I'm not saying this is the only way to be happy. Just that some kinds of worry are not as bad as they sound.AmbitionIn practice, \"stay upwind\" reduces to \"work on hard problems.\" And you can start today.",
+      "I wish I'd grasped that in high school.Most people like to be good at what they do. In the so-called real world this need is a powerful force. But high school students rarely benefit from it, because they're given a fake thing to do.",
+      "When I was in high school, I let myself believe that my job was to be a high school student. And so I let my need to be good at what I did be satisfied by merely doing well in school.If you'd asked me in high school what the difference was between high school kids and adults, I'd have said it was that adults had to earn a living.",
+      "Wrong. It's that adults take responsibility for themselves. Making a living is only a small part of it. Far more important is to take intellectual responsibility for oneself.If I had to go through high school again, I'd treat it like a day job.",
+      "I don't mean that I'd slack in school. Working at something as a day job doesn't mean doing it badly. It means not being defined by it. I mean I wouldn't think of myself as a high school student, just as a musician with a day job as a waiter doesn't think of himself as a waiter.",
+      "[3] And when I wasn't working at my day job I'd start trying to do real work.When I ask people what they regret most about high school, they nearly all say the same thing: that they wasted so much time.",
+      "If you're wondering what you're doing now that you'll regret most later, that's probably it. [4]Some people say this is inevitable — that high school students aren't capable of getting anything done yet.",
+      "But I don't think this is true. And the proof is that you're bored. You probably weren't bored when you were eight. When you're eight it's called \"playing\" instead of \"hanging out,\" but it's the same thing.",
+      "And when I was eight, I was rarely bored. Give me a back yard and a few other kids and I could play all day.The reason this got stale in middle school and high school, I now realize, is that I was ready for something else.",
+      "Childhood was getting old.I'm not saying you shouldn't hang out with your friends — that you should all become humorless little robots who do nothing but work. Hanging out with friends is like chocolate cake.",
+      "You enjoy it more if you eat it occasionally than if you eat nothing but chocolate cake for every meal. No matter how much you like chocolate cake, you'll be pretty queasy after the third meal of it.",
+      "And that's what the malaise one feels in high school is: mental queasiness. [5]You may be thinking, we have to do more than get good grades. We have to have extracurricular activities. But you know perfectly well how bogus most of these are.",
+      "Collecting donations for a charity is an admirable thing to do, but it's not hard. It's not getting something done. What I mean by getting something done is learning how to write well, or how to program computers, or what life was really like in preindustrial societies, or how to draw the human face from life.",
+      "This sort of thing rarely translates into a line item on a college application.CorruptionIt's dangerous to design your life around getting into college, because the people you have to impress to get into college are not a very discerning audience.",
+      "At most colleges, it's not the professors who decide whether you get in, but admissions officers, and they are nowhere near as smart. They're the NCOs of the intellectual world. They can't tell how smart you are.",
+      "The mere existence of prep schools is proof of that.Few parents would pay so much for their kids to go to a school that didn't improve their admissions prospects. Prep schools openly say this is one of their aims.",
+      "But what that means, if you stop to think about it, is that they can hack the admissions process: that they can take the very same kid and make him seem a more appealing candidate than he would if he went to the local public school.",
+      "[6]Right now most of you feel your job in life is to be a promising college applicant. But that means you're designing your life to satisfy a process so mindless that there's a whole industry devoted to subverting it.",
+      "No wonder you become cynical. The malaise you feel is the same that a producer of reality TV shows or a tobacco industry executive feels. And you don't even get paid a lot.So what do you do? What you should not do is rebel.",
+      "That's what I did, and it was a mistake. I didn't realize exactly what was happening to us, but I smelled a major rat. And so I just gave up. Obviously the world sucked, so why bother?When I discovered that one of our teachers was herself using Cliff's Notes, it seemed par for the course.",
+      "Surely it meant nothing to get a good grade in such a class.In retrospect this was stupid. It was like someone getting fouled in a soccer game and saying, hey, you fouled me, that's against the rules, and walking off the field in indignation.",
+      "Fouls happen. The thing to do when you get fouled is not to lose your cool. Just keep playing. By putting you in this situation, society has fouled you. Yes, as you suspect, a lot of the stuff you learn in your classes is crap.",
+      "And yes, as you suspect, the college admissions process is largely a charade. But like many fouls, this one was unintentional. [7] So just keep playing.Rebellion is almost as stupid as obedience. In either case you let yourself be defined by what they tell you to do.",
+      "The best plan, I think, is to step onto an orthogonal vector. Don't just do what they tell you, and don't just refuse to. Instead treat school as a day job. As day jobs go, it's pretty sweet. You're done at 3 o'clock, and you can even work on your own stuff while you're there.CuriosityAnd what's your real job supposed to be?",
+      "Unless you're Mozart, your first task is to figure that out. What are the great things to work on? Where are the imaginative people? And most importantly, what are you interested in? The word \"aptitude\" is misleading, because it implies something innate.",
+      "The most powerful sort of aptitude is a consuming interest in some question, and such interests are often acquired tastes.A distorted version of this idea has filtered into popular culture under the name \"passion.\" I recently saw an ad for waiters saying they wanted people with a \"passion for service.\" The real thing is not something one could have for waiting on tables.",
+      "And passion is a bad word for it. A better name would be curiosity.Kids are curious, but the curiosity I mean has a different shape from kid curiosity. Kid curiosity is broad and shallow; they ask why at random about everything.",
+      "In most adults this curiosity dries up entirely. It has to: you can't get anything done if you're always asking why about everything. But in ambitious adults, instead of drying up, curiosity becomes narrow and deep.",
+      "The mud flat morphs into a well.Curiosity turns work into play. For Einstein, relativity wasn't a book full of hard stuff he had to learn for an exam. It was a mystery he was trying to solve. So it probably felt like less work to him to invent it than it would seem to someone now to learn it in a class.One of the most dangerous illusions you get from school is the idea that doing great things requires a lot of discipline.",
+      "Most subjects are taught in such a boring way that it's only by discipline that you can flog yourself through them. So I was surprised when, early in college, I read a quote by Wittgenstein saying that he had no self-discipline and had never been able to deny himself anything, not even a cup of coffee.Now I know a number of people who do great work, and it's the same with all of them.",
+      "They have little discipline. They're all terrible procrastinators and find it almost impossible to make themselves do anything they're not interested in. One still hasn't sent out his half of the thank-you notes from his wedding, four years ago.",
+      "Another has 26,000 emails in her inbox.I'm not saying you can get away with zero self-discipline. You probably need about the amount you need to go running. I'm often reluctant to go running, but once I do, I enjoy it.",
+      "And if I don't run for several days, I feel ill. It's the same with people who do great things. They know they'll feel bad if they don't work, and they have enough discipline to get themselves to their desks to start working.",
+      "But once they get started, interest takes over, and discipline is no longer necessary.Do you think Shakespeare was gritting his teeth and diligently trying to write Great Literature? Of course not. He was having fun.",
+      "That's why he's so good.If you want to do good work, what you need is a great curiosity about a promising question. The critical moment for Einstein was when he looked at Maxwell's equations and said, what the hell is going on here?It can take years to zero in on a productive question, because it can take years to figure out what a subject is really about.",
+      "To take an extreme example, consider math. Most people think they hate math, but the boring stuff you do in school under the name \"mathematics\" is not at all like what mathematicians do.The great mathematician G.",
+      "H. Hardy said he didn't like math in high school either. He only took it up because he was better at it than the other students. Only later did he realize math was interesting — only later did he start to ask questions instead of merely answering them correctly.When a friend of mine used to grumble because he had to write a paper for school, his mother would tell him: find a way to make it interesting.",
+      "That's what you need to do: find a question that makes the world interesting. People who do great things look at the same world everyone else does, but notice some odd detail that's compellingly mysterious.And not only in intellectual matters.",
+      "Henry Ford's great question was, why do cars have to be a luxury item? What would happen if you treated them as a commodity? Franz Beckenbauer's was, in effect, why does everyone have to stay in his position?",
+      "Why can't defenders score goals too?NowIf it takes years to articulate great questions, what do you do now, at sixteen? Work toward finding one. Great questions don't appear suddenly. They gradually congeal in your head.",
+      "And what makes them congeal is experience. So the way to find great questions is not to search for them — not to wander about thinking, what great discovery shall I make? You can't answer that; if you could, you'd have made it.The way to get a big idea to appear in your head is not to hunt for big ideas, but to put in a lot of time on work that interests you, and in the process keep your mind open enough that a big idea can take roost.",
+      "Einstein, Ford, and Beckenbauer all used this recipe. They all knew their work like a piano player knows the keys. So when something seemed amiss to them, they had the confidence to notice it.Put in time how and on what?",
+      "Just pick a project that seems interesting: to master some chunk of material, or to make something, or to answer some question. Choose a project that will take less than a month, and make it something you have the means to finish.",
+      "Do something hard enough to stretch you, but only just, especially at first. If you're deciding between two projects, choose whichever seems most fun. If one blows up in your face, start another. Repeat till, like an internal combustion engine, the process becomes self-sustaining, and each project generates the next one.",
+      "(This could take years.)It may be just as well not to do a project \"for school,\" if that will restrict you or make it seem like work. Involve your friends if you want, but not too many, and only if they're not flakes.",
+      "Friends offer moral support (few startups are started by one person), but secrecy also has its advantages. There's something pleasing about a secret project. And you can take more risks, because no one will know if you fail.Don't worry if a project doesn't seem to be on the path to some goal you're supposed to have.",
+      "Paths can bend a lot more than you think. So let the path grow out the project. The most important thing is to be excited about it, because it's by doing that you learn.Don't disregard unseemly motivations.",
+      "One of the most powerful is the desire to be better than other people at something. Hardy said that's what got him started, and I think the only unusual thing about him is that he admitted it. Another powerful motivator is the desire to do, or know, things you're not supposed to.",
+      "Closely related is the desire to do something audacious. Sixteen year olds aren't supposed to write novels. So if you try, anything you achieve is on the plus side of the ledger; if you fail utterly, you're doing no worse than expectations.",
+      "[8]Beware of bad models. Especially when they excuse laziness. When I was in high school I used to write \"existentialist\" short stories like ones I'd seen by famous writers. My stories didn't have a lot of plot, but they were very deep.",
+      "And they were less work to write than entertaining ones would have been. I should have known that was a danger sign. And in fact I found my stories pretty boring; what excited me was the idea of writing serious, intellectual stuff like the famous writers.Now I have enough experience to realize that those famous writers actually sucked.",
+      "Plenty of famous people do; in the short term, the quality of one's work is only a small component of fame. I should have been less worried about doing something that seemed cool, and just done something I liked.",
+      "That's the actual road to coolness anyway.A key ingredient in many projects, almost a project on its own, is to find good books. Most books are bad. Nearly all textbooks are bad. [9] So don't assume a subject is to be learned from whatever book on it happens to be closest.",
+      "You have to search actively for the tiny number of good books.The important thing is to get out there and do stuff. Instead of waiting to be taught, go out and learn.Your life doesn't have to be shaped by admissions officers.",
+      "It could be shaped by your own curiosity. It is for all ambitious adults. And you don't have to wait to start. In fact, you don't have to wait to be an adult. There's no switch inside you that magically flips when you turn a certain age or graduate from some institution.",
+      "You start being an adult when you decide to take responsibility for your life. You can do that at any age. [10]This may sound like bullshit. I'm just a minor, you may think, I have no money, I have to live at home, I have to do what adults tell me all day long.",
+      "Well, most adults labor under restrictions just as cumbersome, and they manage to get things done. If you think it's restrictive being a kid, imagine having kids.The only real difference between adults and high school kids is that adults realize they need to get things done, and high school kids don't.",
+      "That realization hits most people around 23. But I'm letting you in on the secret early. So get to work. Maybe you can be the first generation whose greatest regret from high school isn't how much time you wasted.",
+      "Notes[1] A doctor friend warns that even this can give an inaccurate picture. \"Who knew how much time it would take up, how little autonomy one would have for endless years of training, and how unbelievably annoying it is to carry a beeper?\"[2] His best bet would probably be to become dictator and intimidate the NBA into letting him play.",
+      "So far the closest anyone has come is Secretary of Labor.[3] A day job is one you take to pay the bills so you can do what you really want, like play in a band, or invent relativity.Treating high school as a day job might actually make it easier for some students to get good grades.",
+      "If you treat your classes as a game, you won't be demoralized if they seem pointless.However bad your classes, you need to get good grades in them to get into a decent college. And that is worth doing, because universities are where a lot of the clumps of smart people are these days.[4] The second biggest regret was caring so much about unimportant things.",
+      "And especially about what other people thought of them.I think what they really mean, in the latter case, is caring what random people thought of them. Adults care just as much what other people think, but they get to be more selective about the other people.I have about thirty friends whose opinions I care about, and the opinion of the rest of the world barely affects me.",
+      "The problem in high school is that your peers are chosen for you by accidents of age and geography, rather than by you based on respect for their judgement.[5] The key to wasting time is distraction.",
+      "Without distractions it's too obvious to your brain that you're not doing anything with it, and you start to feel uncomfortable. If you want to measure how dependent you've become on distractions, try this experiment: set aside a chunk of time on a weekend and sit alone and think.",
+      "You can have a notebook to write your thoughts down in, but nothing else: no friends, TV, music, phone, IM, email, Web, games, books, newspapers, or magazines. Within an hour most people will feel a strong craving for distraction.[6] I don't mean to imply that the only function of prep schools is to trick admissions officers.",
+      "They also generally provide a better education. But try this thought experiment: suppose prep schools supplied the same superior education but had a tiny (.001) negative effect on college admissions.",
+      "How many parents would still send their kids to them?It might also be argued that kids who went to prep schools, because they've learned more, are better college candidates. But this seems empirically false.",
+      "What you learn in even the best high school is rounding error compared to what you learn in college. Public school kids arrive at college with a slight disadvantage, but they start to pull ahead in the sophomore year.(I'm not saying public school kids are smarter than preppies, just that they are within any given college.",
+      "That follows necessarily if you agree prep schools improve kids' admissions prospects.)[7] Why does society foul you? Indifference, mainly. There are simply no outside forces pushing high school to be good.",
+      "The air traffic control system works because planes would crash otherwise. Businesses have to deliver because otherwise competitors would take their customers. But no planes crash if your school sucks, and it has no competitors.",
+      "High school isn't evil; it's random; but random is pretty bad.[8] And then of course there is money. It's not a big factor in high school, because you can't do much that anyone wants. But a lot of great things were created mainly to make money.",
+      "Samuel Johnson said \"no man but a blockhead ever wrote except for money.\" (Many hope he was exaggerating.)[9] Even college textbooks are bad. When you get to college, you'll find that (with a few stellar exceptions) the textbooks are not written by the leading scholars in the field they describe.",
+      "Writing college textbooks is unpleasant work, done mostly by people who need the money. It's unpleasant because the publishers exert so much control, and there are few things worse than close supervision by someone who doesn't understand what you're doing.",
+      "This phenomenon is apparently even worse in the production of high school textbooks.[10] Your teachers are always telling you to behave like adults. I wonder if they'd like it if you did. You may be loud and disorganized, but you're very docile compared to adults.",
+      "If you actually started acting like adults, it would be just as if a bunch of adults had been transposed into your bodies. Imagine the reaction of an FBI agent or taxi driver or reporter to being told they had to ask permission to go the bathroom, and only one person could go at a time.",
+      "To say nothing of the things you're taught. If a bunch of actual adults suddenly found themselves trapped in high school, the first thing they'd do is form a union and renegotiate all the rules with the administration.Thanks to Ingrid Bassett, Trevor Blackwell, Rich Draves, Dan Giffin, Sarah Harlin, Jessica Livingston, Jackie McDonough, Robert Morris, Mark Nitzberg, Lisa Randall, and Aaron Swartz for reading drafts of this, and to many others for talking to me about high school.Why Nerds are UnpopularJapanese TranslationRussian TranslationGeorgian Translation"
+    ],
+    "word_count": 4989,
+    "paragraph_count": 103
+  },
+  "processed_at": "2025-07-26T19:08:13.181213",
+  "paragraphs": [
+    {
+      "original": "January 2005(I wrote this talk for a high school. I never actually gave it, because the school authorities vetoed the plan to invite me.)When I said I was speaking at a high school, my friends were curious.",
+      "translated": "2005年1月（我为一所高中写了这篇演讲。实际上我从未发表过，因为校方否决了邀请我的计划。）当我说我要在一所高中演讲时，我的朋友们都很好奇。"
+    },
+    {
+      "original": "What will you say to high school students? So I asked them, what do you wish someone had told you in high school? Their answers were remarkably similar. So I'm going to tell you what we all wish someone had told us.I'll start by telling you something you don't have to know in high school: what you want to do with your life.",
+      "translated": "你会对高中生说些什么？所以我问了他们，你们希望有人在高中时告诉你们什么？他们的回答惊人地相似。所以我要告诉你们的，是我们所有人都希望有人能告诉我们的。我先告诉你们一件在高中时不必知道的事：你将来想做什么。"
+    },
+    {
+      "original": "People are always asking you this, so you think you're supposed to have an answer. But adults ask this mainly as a conversation starter. They want to know what sort of person you are, and this question is just to get you talking.",
+      "translated": "人们总是问你这个问题，所以你觉得你应该有个答案。但成年人问这个问题主要是作为谈话的开场白。他们想知道你是怎样的人，这个问题只是为了让你说起来。"
+    },
+    {
+      "original": "They ask it the way you might poke a hermit crab in a tide pool, to see what it does.If I were back in high school and someone asked about my plans, I'd say that my first priority was to learn what the options were.",
+      "translated": "他们询问的方式就像你在潮汐池中用棍子触碰隐居蟹，看看它会有什么反应。如果我还在上高中的时候有人问起我的计划，我会说我首要的任务是了解有哪些选择。"
+    },
+    {
+      "original": "You don't need to be in a rush to choose your life's work. What you need to do is discover what you like. You have to work on stuff you like if you want to be good at what you do.It might seem that nothing would be easier than deciding what you like, but it turns out to be hard, partly because it's hard to get an accurate picture of most jobs.",
+      "translated": "你不必急于选择你一生的职业。你需要做的是发现自己的兴趣所在。如果你想在某件事上做得出色，就必须从事你喜欢的工作。决定自己喜欢什么似乎再简单不过了，但实际上却很难，部分原因是很难对大多数职业有一个准确的了解。"
+    },
+    {
+      "original": "Being a doctor is not the way it's portrayed on TV. Fortunately you can also watch real doctors, by volunteering in hospitals. [1]But there are other jobs you can't learn about, because no one is doing them yet.",
+      "translated": "做医生并不像电视上所描绘的那样。幸运的是，你还可以通过在医院做志愿者来观察真正的医生。但有些工作你是无法了解的，因为还没有人去做这些工作。"
+    },
+    {
+      "original": "Most of the work I've done in the last ten years didn't exist when I was in high school. The world changes fast, and the rate at which it changes is itself speeding up. In such a world it's not a good idea to have fixed plans.And yet every May, speakers all over the country fire up the Standard Graduation Speech, the theme of which is: don't give up on your dreams.",
+      "translated": "过去十年我所做的大部分工作在我上高中的时候都不存在。世界变化迅速，而且变化的速度本身也在加快。在这样的世界里，制定固定计划并不是一个好主意。然而，每年五月，全国各地的演讲者都会启动标准毕业演讲，其主题是：不要放弃你的梦想。"
+    },
+    {
+      "original": "I know what they mean, but this is a bad way to put it, because it implies you're supposed to be bound by some plan you made early on. The computer world has a name for this: premature optimization. And it is synonymous with disaster.",
+      "translated": "我知道他们是什么意思，但这种说法不好，因为它暗示你应该受制于早期制定的某个计划。计算机世界对此有一个术语：过早优化。而过早优化就意味着灾难。"
+    },
+    {
+      "original": "These speakers would do better to say simply, don't give up.What they really mean is, don't get demoralized. Don't think that you can't do what other people can. And I agree you shouldn't underestimate your potential.",
+      "translated": "这些演讲者最好简单地说，不要放弃。他们真正的意思是，不要气馁。不要认为自己做不到别人能做到的事情。我同意你不应该低估自己的潜力。"
+    },
+    {
+      "original": "People who've done great things tend to seem as if they were a race apart. And most biographies only exaggerate this illusion, partly due to the worshipful attitude biographers inevitably sink into, and partly because, knowing how the story ends, they can't help streamlining the plot till it seems like the subject's life was a matter of destiny, the mere unfolding of some innate genius.",
+      "translated": "成就伟业的人往往给人一种超凡脱俗的感觉。而大多数传记只会加剧这种错觉，部分原因在于传记作者不可避免地陷入崇拜的态度，部分原因在于，由于知道故事的结局，他们无法避免地将情节简化，使其显得主人公的一生仿佛命中注定，只是其天赋才华的自然展现。"
+    },
+    {
+      "original": "In fact I suspect if you had the sixteen year old Shakespeare or Einstein in school with you, they'd seem impressive, but not totally unlike your other friends.Which is an uncomfortable thought. If they were just like us, then they had to work very hard to do what they did.",
+      "translated": "事实上，如果你在学校里和十六岁的莎士比亚或爱因斯坦一起学习，他们可能会显得很出色，但也不会与你的其他朋友有太大的不同。这是一个令人不安的想法。如果他们和我们一样，那么他们为了取得那些成就，一定付出了非常艰苦的努力。"
+    },
+    {
+      "original": "And that's one reason we like to believe in genius. It gives us an excuse for being lazy. If these guys were able to do what they did only because of some magic Shakespeareness or Einsteinness, then it's not our fault if we can't do something as good.I'm not saying there's no such thing as genius.",
+      "translated": "这就是我们喜欢相信天才的一个原因。它给了我们偷懒的借口。如果这些人之所以能够做到他们所做的事情，仅仅是因为他们拥有某种神奇的莎士比亚特质或爱因斯坦特质，那么如果我们做不到像他们那样好，就不能怪我们了。我不是说天才不存在。"
+    },
+    {
+      "original": "But if you're trying to choose between two theories and one gives you an excuse for being lazy, the other one is probably right.So far we've cut the Standard Graduation Speech down from \"don't give up on your dreams\" to \"what someone else can do, you can do.\" But it needs to be cut still further.",
+      "translated": "但如果你在两个理论之间做选择，其中一个让你有借口偷懒，那么另一个可能就是正确的。到目前为止，我们已经将标准的毕业演讲从“不要放弃你的梦想”缩减为“别人能做到的，你也能做到。” 但它还需要进一步精简。"
+    },
+    {
+      "original": "There is some variation in natural ability. Most people overestimate its role, but it does exist. If I were talking to a guy four feet tall whose ambition was to play in the NBA, I'd feel pretty stupid saying, you can do anything if you really try.",
+      "translated": "人的自然能力确实存在差异。大多数人高估了它的作用，但它确实存在。如果我跟一个身高四英尺、梦想打NBA的人说话，我会觉得自己很傻，说只要你真想做，什么都能做到。"
+    },
+    {
+      "original": "[2]We need to cut the Standard Graduation Speech down to, \"what someone else with your abilities can do, you can do; and don't underestimate your abilities.\" But as so often happens, the closer you get to the truth, the messier your sentence gets.",
+      "translated": "我们需要将标准毕业演讲精简为：“别人能做到的事，你也可以做到；不要低估自己的能力。”但正如经常发生的那样，你越接近真相，句子就越混乱。"
+    },
+    {
+      "original": "We've taken a nice, neat (but wrong) slogan, and churned it up like a mud puddle. It doesn't make a very good speech anymore. But worse still, it doesn't tell you what to do anymore. Someone with your abilities?",
+      "translated": "我们把一个简洁明了（但错误）的口号搅得一团糟，就像泥潭一样。它现在已经不是一个很好的演讲了。但更糟的是，它不再告诉你该怎么做。像你这样有才能的人？"
+    },
+    {
+      "original": "What are your abilities?UpwindI think the solution is to work in the other direction. Instead of working back from a goal, work forward from promising situations. This is what most successful people actually do anyway.In the graduation-speech approach, you decide where you want to be in twenty years, and then ask: what should I do now to get there?",
+      "translated": "你的能力是什么？我认为解决办法是反其道而行之。不要从目标倒推，而是从有潜力的局面出发向前推进。这其实是大多数成功人士通常的做法。在毕业演讲式的做法中，你决定自己二十年后想成为什么样子，然后问自己：现在应该做什么才能到达那里？"
+    },
+    {
+      "original": "I propose instead that you don't commit to anything in the future, but just look at the options available now, and choose those that will give you the most promising range of options afterward.It's not so important what you work on, so long as you're not wasting your time.",
+      "translated": "我建议你不要对未来做出任何承诺，而是看看现在可用的选项，并选择那些能为你之后提供最有前景的选择范围的选项。重要的是不要浪费时间，至于你具体做什么倒不是那么重要。"
+    },
+    {
+      "original": "Work on things that interest you and increase your options, and worry later about which you'll take.Suppose you're a college freshman deciding whether to major in math or economics. Well, math will give you more options: you can go into almost any field from math.",
+      "translated": "从事你感兴趣的事情并增加你的选择，以后再担心你会选择哪一个。假设你是一名大一新生，正在决定是否主修数学或经济学。那么，数学会给你更多的选择：从数学出发，你可以进入几乎任何领域。"
+    },
+    {
+      "original": "If you major in math it will be easy to get into grad school in economics, but if you major in economics it will be hard to get into grad school in math.Flying a glider is a good metaphor here. Because a glider doesn't have an engine, you can't fly into the wind without losing a lot of altitude.",
+      "translated": "如果你主修数学，进入经济学研究生院将很容易，但如果你主修经济学，进入数学研究生院将很难。这里可以用滑翔机飞行作为比喻。因为滑翔机没有发动机，逆风飞行会损失大量高度。"
+    },
+    {
+      "original": "If you let yourself get far downwind of good places to land, your options narrow uncomfortably. As a rule you want to stay upwind. So I propose that as a replacement for \"don't give up on your dreams.\" Stay upwind.How do you do that, though?",
+      "translated": "如果你让自己远离了理想的着陆点，你的选择就会不舒适地变少。通常，你希望保持在上风。因此，我建议用“保持在上风”来替代“不要放弃你的梦想”。但是，你该如何做到这一点呢？"
+    },
+    {
+      "original": "Even if math is upwind of economics, how are you supposed to know that as a high school student?Well, you don't, and that's what you need to find out. Look for smart people and hard problems. Smart people tend to clump together, and if you can find such a clump, it's probably worthwhile to join it.",
+      "translated": "即使数学在经济学之前，你作为一个高中生怎么知道这一点呢？你确实不知道，而这正是你需要去发现的。寻找聪明的人和难题。聪明的人往往聚在一起，如果你能找到这样的群体，加入其中通常是值得的。"
+    },
+    {
+      "original": "But it's not straightforward to find these, because there is a lot of faking going on.To a newly arrived undergraduate, all university departments look much the same. The professors all seem forbiddingly intellectual and publish papers unintelligible to outsiders.",
+      "translated": "但要找到这些并不容易，因为存在很多假冒的情况。对刚入学的本科生来说，所有的大学系科看起来都差不多。教授们看起来都显得深不可测，发表的论文对外行人来说也难以理解。"
+    },
+    {
+      "original": "But while in some fields the papers are unintelligible because they're full of hard ideas, in others they're deliberately written in an obscure way to seem as if they're saying something important. This may seem a scandalous proposition, but it has been experimentally verified, in the famous Social Text affair.",
+      "translated": "但在某些领域，论文之所以难懂是因为充满了深奥的概念，而在另一些领域，论文则是故意写得晦涩难懂，以显得它们在阐述重要的内容。这听起来可能是一个惊人的说法，但已经在著名的《社会文本》事件中得到了实验验证。"
+    },
+    {
+      "original": "Suspecting that the papers published by literary theorists were often just intellectual-sounding nonsense, a physicist deliberately wrote a paper full of intellectual-sounding nonsense, and submitted it to a literary theory journal, which published it.The best protection is always to be working on hard problems.",
+      "translated": "怀疑文学理论家发表的论文常常是一些听起来很高深的胡言乱语，一位物理学家故意写了一篇充满高深胡言乱语的论文，并提交给了一本文学理论期刊，结果该期刊发表了这篇论文。最好的保护永远是致力于解决困难的问题。"
+    },
+    {
+      "original": "Writing novels is hard. Reading novels isn't. Hard means worry: if you're not worrying that something you're making will come out badly, or that you won't be able to understand something you're studying, then it isn't hard enough.",
+      "translated": "写小说很难。读小说不难。难意味着担忧：如果你在创作某样东西时没有担心它会做得很糟糕，或者在学习某样东西时没有担心自己无法理解，那就不够难。"
+    },
+    {
+      "original": "There has to be suspense.Well, this seems a grim view of the world, you may think. What I'm telling you is that you should worry? Yes, but it's not as bad as it sounds. It's exhilarating to overcome worries.",
+      "translated": "必须有悬念。你可能会觉得，这似乎是对世界的悲观看法。我是在告诉你应该担心吗？是的，但并没有听起来那么糟糕。克服担忧是令人振奋的。"
+    },
+    {
+      "original": "You don't see faces much happier than people winning gold medals. And you know why they're so happy? Relief.I'm not saying this is the only way to be happy. Just that some kinds of worry are not as bad as they sound.AmbitionIn practice, \"stay upwind\" reduces to \"work on hard problems.\" And you can start today.",
+      "translated": "你很少见到比赢得金牌的人更快乐的面孔。你知道他们为什么如此高兴吗？是因为如释重负。我不是说这是唯一的幸福之道。只是有些担忧其实没有听起来那么糟糕。雄心在实践中，“保持领先”归结为“解决难题。”而你可以从今天开始。"
+    },
+    {
+      "original": "I wish I'd grasped that in high school.Most people like to be good at what they do. In the so-called real world this need is a powerful force. But high school students rarely benefit from it, because they're given a fake thing to do.",
+      "translated": "我希望我在高中时就能明白这一点。大多数人喜欢擅长自己所做的事。在所谓的现实世界中，这种需求是一种强大的力量。但高中生很少能从中受益，因为他们被赋予的是一件虚假的事情去做。"
+    },
+    {
+      "original": "When I was in high school, I let myself believe that my job was to be a high school student. And so I let my need to be good at what I did be satisfied by merely doing well in school.If you'd asked me in high school what the difference was between high school kids and adults, I'd have said it was that adults had to earn a living.",
+      "translated": "当我还在上高中的时候，我让自己相信我的工作就是当一名高中生。因此，我把对自己所做事情出色的需要仅仅通过在学校表现良好来满足。如果你在我高中时问我，高中生和成年人的区别是什么，我会说区别在于成年人必须谋生。"
+    },
+    {
+      "original": "Wrong. It's that adults take responsibility for themselves. Making a living is only a small part of it. Far more important is to take intellectual responsibility for oneself.If I had to go through high school again, I'd treat it like a day job.",
+      "translated": "错了。成年人要为自己负责。谋生只是其中的一小部分。更重要的是要对自己的思想负责。如果我不得不再上一次高中，我会把它当作一份日常工作来对待。"
+    },
+    {
+      "original": "I don't mean that I'd slack in school. Working at something as a day job doesn't mean doing it badly. It means not being defined by it. I mean I wouldn't think of myself as a high school student, just as a musician with a day job as a waiter doesn't think of himself as a waiter.",
+      "translated": "我不是说我会在学校偷懒。把某件事作为日常工作并不意味着会做得不好。这意味着不会被这件事定义。我的意思是，我不会认为自己是一名高中生，就像一位音乐家把服务员作为日常工作时，不会认为自己是一名服务员。"
+    },
+    {
+      "original": "[3] And when I wasn't working at my day job I'd start trying to do real work.When I ask people what they regret most about high school, they nearly all say the same thing: that they wasted so much time.",
+      "translated": "[3] 而当我从日常工作抽身时，我开始努力做真正的工作。当我问人们他们对高中生活最后悔什么时，他们几乎都给出相同的回答：浪费了太多时间。"
+    },
+    {
+      "original": "If you're wondering what you're doing now that you'll regret most later, that's probably it. [4]Some people say this is inevitable — that high school students aren't capable of getting anything done yet.",
+      "translated": "如果你在想你现在做的哪些事情将来会后悔，那可能就是这些了。[4]有些人说这是不可避免的——高中生还没有能力做成任何事情。"
+    },
+    {
+      "original": "But I don't think this is true. And the proof is that you're bored. You probably weren't bored when you were eight. When you're eight it's called \"playing\" instead of \"hanging out,\" but it's the same thing.",
+      "translated": "但我不认为这是真的。证据就是你现在感到无聊。当你八岁的时候，你大概不会感到无聊。八岁时，这被称作“玩”，而不是“闲逛”，但其实是一回事。"
+    },
+    {
+      "original": "And when I was eight, I was rarely bored. Give me a back yard and a few other kids and I could play all day.The reason this got stale in middle school and high school, I now realize, is that I was ready for something else.",
+      "translated": "八岁的时候，我很少感到无聊。给我一个后院和几个小伙伴，我就能玩上一整天。现在我意识到，之所以到了中学和高中时这种乐趣变得索然无味，是因为我准备好迎接新的事物了。"
+    },
+    {
+      "original": "Childhood was getting old.I'm not saying you shouldn't hang out with your friends — that you should all become humorless little robots who do nothing but work. Hanging out with friends is like chocolate cake.",
+      "translated": "童年已经老去。我并不是说你不应该和朋友们出去玩——并不是要你们变成一群毫无幽默感的小机器人，只知道工作。和朋友们出去玩就像吃巧克力蛋糕一样。"
+    },
+    {
+      "original": "You enjoy it more if you eat it occasionally than if you eat nothing but chocolate cake for every meal. No matter how much you like chocolate cake, you'll be pretty queasy after the third meal of it.",
+      "translated": "如果你偶尔吃它，你会更享受，而如果你每顿饭都只吃巧克力蛋糕，就不会这样了。无论你多么喜欢巧克力蛋糕，吃了三顿之后，你大概也会感到相当腻歪。"
+    },
+    {
+      "original": "And that's what the malaise one feels in high school is: mental queasiness. [5]You may be thinking, we have to do more than get good grades. We have to have extracurricular activities. But you know perfectly well how bogus most of these are.",
+      "translated": "这就是你在高中时感到的不适：心理上的恶心。[5]你可能在想，我们不能仅仅满足于取得好成绩，我们还得参与课外活动。但你非常清楚，这些活动大部分都是假惺惺的。"
+    },
+    {
+      "original": "Collecting donations for a charity is an admirable thing to do, but it's not hard. It's not getting something done. What I mean by getting something done is learning how to write well, or how to program computers, or what life was really like in preindustrial societies, or how to draw the human face from life.",
+      "translated": "为慈善机构筹集捐款是一件值得称赞的事情，但并不难。这并不算是真正做成了一件事。我所说的做成一件事，是指学会如何写好文章，或者如何编程，或者了解前工业化社会人们的真实生活，或者如何从生活中画出人的面孔。"
+    },
+    {
+      "original": "This sort of thing rarely translates into a line item on a college application.CorruptionIt's dangerous to design your life around getting into college, because the people you have to impress to get into college are not a very discerning audience.",
+      "translated": "这类事情很少会成为大学申请表上的一项内容。围绕着进入大学来设计你的人生是危险的，因为你要取悦的那些大学录取官并不是一个非常有鉴别力的群体。"
+    },
+    {
+      "original": "At most colleges, it's not the professors who decide whether you get in, but admissions officers, and they are nowhere near as smart. They're the NCOs of the intellectual world. They can't tell how smart you are.",
+      "translated": "在大多数大学里，决定你是否被录取的不是教授，而是招生官，而招生官的智力水平远不如教授。他们是智力世界中的军士长。他们无法判断你有多聪明。"
+    },
+    {
+      "original": "The mere existence of prep schools is proof of that.Few parents would pay so much for their kids to go to a school that didn't improve their admissions prospects. Prep schools openly say this is one of their aims.",
+      "translated": "预备学校的 existence 本身就证明了这一点。很少有家长会为他们的孩子支付如此高昂的学费去上一所不能提高他们录取机会的学校。预备学校公开表示，提高录取机会是他们目标之一。"
+    },
+    {
+      "original": "But what that means, if you stop to think about it, is that they can hack the admissions process: that they can take the very same kid and make him seem a more appealing candidate than he would if he went to the local public school.",
+      "translated": "但仔细想想，这意味着他们可以操纵录取过程：他们可以将同一个孩子包装得比他如果在当地的公立学校就读时更具吸引力。"
+    },
+    {
+      "original": "[6]Right now most of you feel your job in life is to be a promising college applicant. But that means you're designing your life to satisfy a process so mindless that there's a whole industry devoted to subverting it.",
+      "translated": "现在，你们大多数人都觉得自己的人生任务是成为一个有前途的大学申请者。但这就意味着你们在设计自己的生活以满足一个如此缺乏思考的过程，以至于已经有一个完整的行业致力于颠覆它。"
+    },
+    {
+      "original": "No wonder you become cynical. The malaise you feel is the same that a producer of reality TV shows or a tobacco industry executive feels. And you don't even get paid a lot.So what do you do? What you should not do is rebel.",
+      "translated": "难怪你会变得愤世嫉俗。你所感到的沮丧与真人秀制作人或烟草行业高管所感到的是一样的。而你甚至连高额的薪酬都没有。那么，你该怎么办？你绝对不应该去做的是反抗。"
+    },
+    {
+      "original": "That's what I did, and it was a mistake. I didn't realize exactly what was happening to us, but I smelled a major rat. And so I just gave up. Obviously the world sucked, so why bother?When I discovered that one of our teachers was herself using Cliff's Notes, it seemed par for the course.",
+      "translated": "那就是我所做的，而且那是一个错误。我并没有完全意识到我们身上发生了什么，但我察觉到事情大有不妙。于是我就放弃了。显然，这个世界糟糕透了，那又何必去费心呢？当我发现我们的一位老师自己也在用《克里夫笔记》时，这似乎也在意料之中。"
+    },
+    {
+      "original": "Surely it meant nothing to get a good grade in such a class.In retrospect this was stupid. It was like someone getting fouled in a soccer game and saying, hey, you fouled me, that's against the rules, and walking off the field in indignation.",
+      "translated": "当然，在这样的课上取得好成绩毫无意义。回想起来，这真是愚蠢。这就像有人在足球比赛中被犯规，然后说，嘿，你犯规了，这是违反规则的，便气冲冲地走下球场。"
+    },
+    {
+      "original": "Fouls happen. The thing to do when you get fouled is not to lose your cool. Just keep playing. By putting you in this situation, society has fouled you. Yes, as you suspect, a lot of the stuff you learn in your classes is crap.",
+      "translated": "犯规会发生。当你被犯规时，不要失去冷静。继续比赛。通过将你置于这种情况，社会已经对你犯规了。是的，正如你所怀疑的，你在课堂上学到的很多东西都是垃圾。"
+    },
+    {
+      "original": "And yes, as you suspect, the college admissions process is largely a charade. But like many fouls, this one was unintentional. [7] So just keep playing.Rebellion is almost as stupid as obedience. In either case you let yourself be defined by what they tell you to do.",
+      "translated": "正如你所怀疑的那样，大学录取过程在很大程度上是一场闹剧。但就像许多违规行为一样，这一个是无心之失。所以，继续玩下去吧。反抗几乎和顺从一样愚蠢。在这两种情况下，你都是让自己被他们告诉你该做的事所定义。"
+    },
+    {
+      "original": "The best plan, I think, is to step onto an orthogonal vector. Don't just do what they tell you, and don't just refuse to. Instead treat school as a day job. As day jobs go, it's pretty sweet. You're done at 3 o'clock, and you can even work on your own stuff while you're there.CuriosityAnd what's your real job supposed to be?",
+      "translated": "最好的计划，我认为，是踏上一个正交向量。不要仅仅按照他们的要求去做，也不要一味地拒绝。相反，把学校当作一份白天的工作。作为白天的工作来说，这已经很不错了。你可以在三点钟就结束，甚至在那里的时候还能做自己的事情。那么，你真正的任务又是什么呢？"
+    },
+    {
+      "original": "Unless you're Mozart, your first task is to figure that out. What are the great things to work on? Where are the imaginative people? And most importantly, what are you interested in? The word \"aptitude\" is misleading, because it implies something innate.",
+      "translated": "除非你是莫扎特，否则你的首要任务是搞清楚这些问题。有哪些值得研究的伟大课题？哪里有充满想象力的人？最重要的是，你对什么感兴趣？“能力”这个词具有误导性，因为它暗示了某种与生俱来的东西。"
+    },
+    {
+      "original": "The most powerful sort of aptitude is a consuming interest in some question, and such interests are often acquired tastes.A distorted version of this idea has filtered into popular culture under the name \"passion.\" I recently saw an ad for waiters saying they wanted people with a \"passion for service.\" The real thing is not something one could have for waiting on tables.",
+      "translated": "最强大的才能是一种对某个问题的浓厚兴趣，而这种兴趣往往是后天培养的。这种观点的一个扭曲版本以“激情”之名渗透到了流行文化中。我最近看到一则招聘服务员的广告，说他们想要有“服务激情”的人。真正的兴趣并不是对端盘子这种工作所能拥有的。"
+    },
+    {
+      "original": "And passion is a bad word for it. A better name would be curiosity.Kids are curious, but the curiosity I mean has a different shape from kid curiosity. Kid curiosity is broad and shallow; they ask why at random about everything.",
+      "translated": "用“热情”来形容它并不准确，更好的词是“好奇心”。孩子们是好奇的，但我说的好奇心与孩子们的好奇心有所不同。孩子们的好奇心广泛而肤浅，他们对一切事物都会随机地问“为什么”。"
+    },
+    {
+      "original": "In most adults this curiosity dries up entirely. It has to: you can't get anything done if you're always asking why about everything. But in ambitious adults, instead of drying up, curiosity becomes narrow and deep.",
+      "translated": "在大多数成年人中，这种好奇心会完全消失。它必须如此：如果你对每件事都总是问为什么，就什么也做不成。但在有抱负的成年人中，好奇心并不会枯竭，而是变得狭窄而深邃。"
+    },
+    {
+      "original": "The mud flat morphs into a well.Curiosity turns work into play. For Einstein, relativity wasn't a book full of hard stuff he had to learn for an exam. It was a mystery he was trying to solve. So it probably felt like less work to him to invent it than it would seem to someone now to learn it in a class.One of the most dangerous illusions you get from school is the idea that doing great things requires a lot of discipline.",
+      "translated": "泥滩变成了井。好奇心让工作变成了游戏。对爱因斯坦来说，相对论不是一本他为了考试而必须学习的难懂的书。它是一个他试图解开的谜。因此，对他来说，发明相对论可能比现在的人在课堂上学习它感觉更像是一种游戏。从学校得到的最危险的错觉之一就是认为做伟大的事情需要大量的自律。"
+    },
+    {
+      "original": "Most subjects are taught in such a boring way that it's only by discipline that you can flog yourself through them. So I was surprised when, early in college, I read a quote by Wittgenstein saying that he had no self-discipline and had never been able to deny himself anything, not even a cup of coffee.Now I know a number of people who do great work, and it's the same with all of them.",
+      "translated": "大多数课程都以如此枯燥的方式教授，以至于你只能靠自律才能强迫自己完成学习。所以，当我在大学初期读到维特根斯坦的一句名言时，感到非常惊讶，他说自己没有任何自律，甚至一杯咖啡都无法拒绝。现在我认识许多做出杰出工作的人，他们都是这样。"
+    },
+    {
+      "original": "They have little discipline. They're all terrible procrastinators and find it almost impossible to make themselves do anything they're not interested in. One still hasn't sent out his half of the thank-you notes from his wedding, four years ago.",
+      "translated": "他们几乎没有纪律。他们都是严重的拖延症患者，几乎无法让自己去做任何不感兴趣的事情。其中一个人甚至在四年前的婚礼后，至今还没寄出他的那一半感谢信。"
+    },
+    {
+      "original": "Another has 26,000 emails in her inbox.I'm not saying you can get away with zero self-discipline. You probably need about the amount you need to go running. I'm often reluctant to go running, but once I do, I enjoy it.",
+      "translated": "另一个人的收件箱里有26,000封邮件。我不是说你可以完全不用自律。你大概需要的自律程度和跑步所需的差不多。我常常不愿意去跑步，但一旦开始跑，我就会很享受。"
+    },
+    {
+      "original": "And if I don't run for several days, I feel ill. It's the same with people who do great things. They know they'll feel bad if they don't work, and they have enough discipline to get themselves to their desks to start working.",
+      "translated": "如果我连续几天不跑步，我会感到不舒服。这和做大事的人是一样的。他们知道如果不工作就会感到糟糕，而且他们有足够的自律让自己坐到书桌前开始工作。"
+    },
+    {
+      "original": "But once they get started, interest takes over, and discipline is no longer necessary.Do you think Shakespeare was gritting his teeth and diligently trying to write Great Literature? Of course not. He was having fun.",
+      "translated": "但是一旦开始，兴趣就会占据主导，纪律就不再必要了。你认为莎士比亚是在咬紧牙关努力写作伟大的文学作品吗？当然不是。他是在享受乐趣。"
+    },
+    {
+      "original": "That's why he's so good.If you want to do good work, what you need is a great curiosity about a promising question. The critical moment for Einstein was when he looked at Maxwell's equations and said, what the hell is going on here?It can take years to zero in on a productive question, because it can take years to figure out what a subject is really about.",
+      "translated": "这就是他如此优秀的原因。如果你想做好工作，你需要对一个有前景的问题抱有极大的好奇心。对爱因斯坦来说，关键的时刻是他看到麦克斯韦方程时说，这里到底发生了什么？找到一个有成效的问题可能需要数年时间，因为理解一个领域真正涉及的内容可能也需要数年的时间。"
+    },
+    {
+      "original": "To take an extreme example, consider math. Most people think they hate math, but the boring stuff you do in school under the name \"mathematics\" is not at all like what mathematicians do.The great mathematician G.",
+      "translated": "以一个极端的例子来说，考虑数学。大多数人认为他们讨厌数学，但在学校里做的那些被称为“数学”的枯燥事情，与数学家所做的工作完全不同。伟大的数学家 G."
+    },
+    {
+      "original": "H. Hardy said he didn't like math in high school either. He only took it up because he was better at it than the other students. Only later did he realize math was interesting — only later did he start to ask questions instead of merely answering them correctly.When a friend of mine used to grumble because he had to write a paper for school, his mother would tell him: find a way to make it interesting.",
+      "translated": "H. 哈代说他在高中时也不喜欢数学。他只是因为比其他学生更擅长才学数学。后来他才意识到数学很有趣——后来他才开始提出问题，而不仅仅是正确地回答问题。当我的一个朋友因为不得不为学校写论文而抱怨时，他的母亲会告诉他：找到让它变得有趣的方法。"
+    },
+    {
+      "original": "That's what you need to do: find a question that makes the world interesting. People who do great things look at the same world everyone else does, but notice some odd detail that's compellingly mysterious.And not only in intellectual matters.",
+      "translated": "你需要做的是：找到一个让世界变得有趣的问题。那些成就伟业的人看待的世界与其他人相同，但他们注意到了一些引人入胜的神秘细节。这不仅仅限于智力领域。"
+    },
+    {
+      "original": "Henry Ford's great question was, why do cars have to be a luxury item? What would happen if you treated them as a commodity? Franz Beckenbauer's was, in effect, why does everyone have to stay in his position?",
+      "translated": "亨利·福特的伟大问题是，为什么汽车必须是奢侈品？如果将其视为商品，会发生什么？弗朗茨·贝肯鲍尔的问题实际上是，为什么每个人都必须坚守自己的位置？"
+    },
+    {
+      "original": "Why can't defenders score goals too?NowIf it takes years to articulate great questions, what do you do now, at sixteen? Work toward finding one. Great questions don't appear suddenly. They gradually congeal in your head.",
+      "translated": "为什么后卫不能进球呢？如果提出一个好问题需要数年的时间，那么你十六岁的时候应该做些什么？朝着找到一个问题而努力。好问题不会突然出现，它们会在你的脑海中逐渐形成。"
+    },
+    {
+      "original": "And what makes them congeal is experience. So the way to find great questions is not to search for them — not to wander about thinking, what great discovery shall I make? You can't answer that; if you could, you'd have made it.The way to get a big idea to appear in your head is not to hunt for big ideas, but to put in a lot of time on work that interests you, and in the process keep your mind open enough that a big idea can take roost.",
+      "translated": "使它们凝结的是经验。因此，找到好问题的方法不是去寻找它们——不是四处游荡思考，我要做出什么伟大的发现？你无法回答这个问题；如果可以，你就已经做出了那个发现。要让一个大想法出现在你的脑海中，不是去寻找大想法，而是要花大量时间在你感兴趣的事业上，并在此过程中保持思维足够开放，以便一个大想法能够驻足。"
+    },
+    {
+      "original": "Einstein, Ford, and Beckenbauer all used this recipe. They all knew their work like a piano player knows the keys. So when something seemed amiss to them, they had the confidence to notice it.Put in time how and on what?",
+      "translated": "爱因斯坦、福特和贝肯鲍尔都使用了这个方法。他们对自己的工作了如指掌，就像钢琴家熟悉琴键一样。因此，当他们发现有什么不对劲时，他们有足够的自信去察觉。那么，应该把时间花在什么上，以及如何花费呢？"
+    },
+    {
+      "original": "Just pick a project that seems interesting: to master some chunk of material, or to make something, or to answer some question. Choose a project that will take less than a month, and make it something you have the means to finish.",
+      "translated": "只需选择一个看起来有趣的项目：掌握某部分材料，制作一些东西，或者回答某个问题。选择一个可以在一个月内完成的项目，并确保你有完成它的条件。"
+    },
+    {
+      "original": "Do something hard enough to stretch you, but only just, especially at first. If you're deciding between two projects, choose whichever seems most fun. If one blows up in your face, start another. Repeat till, like an internal combustion engine, the process becomes self-sustaining, and each project generates the next one.",
+      "translated": "选择一个足够挑战你但又不至于过难的任务，尤其是在开始时。如果你在两个项目之间犹豫不决，就选择看起来最有趣的那个。如果其中一个项目失败了，就启动另一个。不断重复，直到像内燃机一样，这个过程变得自我维持，每个项目都能引出下一个。"
+    },
+    {
+      "original": "(This could take years.)It may be just as well not to do a project \"for school,\" if that will restrict you or make it seem like work. Involve your friends if you want, but not too many, and only if they're not flakes.",
+      "translated": "（这可能需要数年时间。）如果这样做会让你感到受限制或像是在工作，那么最好还是不要为了学校而做这个项目。如果你想的话，可以拉上你的朋友，但不要太多，而且前提是他们不是那种靠不住的人。"
+    },
+    {
+      "original": "Friends offer moral support (few startups are started by one person), but secrecy also has its advantages. There's something pleasing about a secret project. And you can take more risks, because no one will know if you fail.Don't worry if a project doesn't seem to be on the path to some goal you're supposed to have.",
+      "translated": "朋友们提供精神支持（很少有创业项目是由一个人独自发起的），但保密也有其优势。秘密项目有一种令人愉悦的感觉。而且你可以承担更多的风险，因为即使失败了也没有人会知道。如果一个项目看起来并没有朝着你本应追求的目标前进，也不要担心。"
+    },
+    {
+      "original": "Paths can bend a lot more than you think. So let the path grow out the project. The most important thing is to be excited about it, because it's by doing that you learn.Don't disregard unseemly motivations.",
+      "translated": "路径可以比你想象的更加蜿蜒曲折。所以让项目的发展自然而然地形成路径。最重要的是对它保持热情，因为只有通过实践才能学到东西。不要轻视那些看似不体面的动机。"
+    },
+    {
+      "original": "One of the most powerful is the desire to be better than other people at something. Hardy said that's what got him started, and I think the only unusual thing about him is that he admitted it. Another powerful motivator is the desire to do, or know, things you're not supposed to.",
+      "translated": "最强大的动力之一就是想要在某些方面比别人更出色。哈代说这就是他开始的原因，而我认为他唯一不寻常的地方在于他承认了这一点。另一个强大的动机是想要做或知道你不应该知道的事情。"
+    },
+    {
+      "original": "Closely related is the desire to do something audacious. Sixteen year olds aren't supposed to write novels. So if you try, anything you achieve is on the plus side of the ledger; if you fail utterly, you're doing no worse than expectations.",
+      "translated": "密切相关的是想要做一些大胆的事情。十六岁的孩子本不应该写小说。所以，如果你尝试了，无论取得什么成就都是加分的；即使彻底失败了，也并不比预期差。"
+    },
+    {
+      "original": "[8]Beware of bad models. Especially when they excuse laziness. When I was in high school I used to write \"existentialist\" short stories like ones I'd seen by famous writers. My stories didn't have a lot of plot, but they were very deep.",
+      "translated": "[8]警惕糟糕的模式。特别是当它们被用作懒惰的借口时。我上高中的时候，曾经写过一些“存在主义”短篇小说，模仿我见过的著名作家的作品。我的故事情节并不多，但非常深刻。"
+    },
+    {
+      "original": "And they were less work to write than entertaining ones would have been. I should have known that was a danger sign. And in fact I found my stories pretty boring; what excited me was the idea of writing serious, intellectual stuff like the famous writers.Now I have enough experience to realize that those famous writers actually sucked.",
+      "translated": "而且，写这些故事比写有趣的故事要省事得多。我本该意识到这是一个危险的信号。实际上，我觉得我的故事相当无趣；真正让我兴奋的是写像那些著名作家那样的严肃、有深度的作品。现在我有足够的经验认识到，那些著名作家实际上很糟糕。"
+    },
+    {
+      "original": "Plenty of famous people do; in the short term, the quality of one's work is only a small component of fame. I should have been less worried about doing something that seemed cool, and just done something I liked.",
+      "translated": "许多 famous people 都是这样；在短期内，一个人作品的质量只是成名的一个小因素。我本应该少担心做一些看起来很酷的事情，而只是去做我喜欢的事情。 \n\n注：这里的“famous people”直接翻译为“著名的人”或“名人”会更自然，但为了保持与原文的对应，这里保留了“famous people”的形式。如果不需要严格对应，建议翻译为“许多名人都是这样”。"
+    },
+    {
+      "original": "That's the actual road to coolness anyway.A key ingredient in many projects, almost a project on its own, is to find good books. Most books are bad. Nearly all textbooks are bad. [9] So don't assume a subject is to be learned from whatever book on it happens to be closest.",
+      "translated": "这其实是通往酷的真正道路。在许多项目中，一个关键成分，几乎可以算是一个项目本身，就是找到好书。大多数书都不好。几乎所有教科书都不好。[9] 所以不要以为随便拿本相关的书就能学好某个主题。"
+    },
+    {
+      "original": "You have to search actively for the tiny number of good books.The important thing is to get out there and do stuff. Instead of waiting to be taught, go out and learn.Your life doesn't have to be shaped by admissions officers.",
+      "translated": "你必须积极地寻找为数不多的好书。重要的是要走出去，去做事情。不要等着别人来教你，要主动去学习。你的生活不必由招生官来决定。"
+    },
+    {
+      "original": "It could be shaped by your own curiosity. It is for all ambitious adults. And you don't have to wait to start. In fact, you don't have to wait to be an adult. There's no switch inside you that magically flips when you turn a certain age or graduate from some institution.",
+      "translated": "它可以由你的好奇心塑造。它适合所有有志向的成年人。你不必等待开始。事实上，你不必等到成年。你内心并没有一个开关会在你达到某个年龄或从某个机构毕业时神奇地翻转。"
+    },
+    {
+      "original": "You start being an adult when you decide to take responsibility for your life. You can do that at any age. [10]This may sound like bullshit. I'm just a minor, you may think, I have no money, I have to live at home, I have to do what adults tell me all day long.",
+      "translated": "你从决定为自己的生活负责那一刻起就开始成为一个成年人。你可以在任何年龄做到这一点。[10]这听起来可能像是胡说八道。你可能会想，我只是一个未成年人，我没有钱，我必须住在家里，我整天都得听成年人的话。"
+    },
+    {
+      "original": "Well, most adults labor under restrictions just as cumbersome, and they manage to get things done. If you think it's restrictive being a kid, imagine having kids.The only real difference between adults and high school kids is that adults realize they need to get things done, and high school kids don't.",
+      "translated": "好吧，大多数成年人也承受着同样繁琐的限制，但他们仍然能把事情办好。如果你觉得当孩子受到很多限制，那想象一下有了孩子之后会怎样。成年人和高中生之间唯一的真正区别在于，成年人意识到他们需要完成事情，而高中生则没有这种意识。"
+    },
+    {
+      "original": "That realization hits most people around 23. But I'm letting you in on the secret early. So get to work. Maybe you can be the first generation whose greatest regret from high school isn't how much time you wasted.",
+      "translated": "这种觉悟大多数人是在23岁左右才有的。但我要提前把这个秘密告诉你。所以，开始努力吧。也许你能成为第一代人，高中时最大的遗憾不再是浪费了多少时间。"
+    },
+    {
+      "original": "Notes[1] A doctor friend warns that even this can give an inaccurate picture. \"Who knew how much time it would take up, how little autonomy one would have for endless years of training, and how unbelievably annoying it is to carry a beeper?\"[2] His best bet would probably be to become dictator and intimidate the NBA into letting him play.",
+      "translated": "注释[1] 一位医生朋友警告说，即使这样也可能给出不准确的图景。“谁知道这会占用多少时间，多年培训中几乎没有任何自主权，以及随身携带呼机是多么令人难以忍受呢？”[2] 他最好的选择可能是成为独裁者，然后威胁NBA让他上场。"
+    },
+    {
+      "original": "So far the closest anyone has come is Secretary of Labor.[3] A day job is one you take to pay the bills so you can do what you really want, like play in a band, or invent relativity.Treating high school as a day job might actually make it easier for some students to get good grades.",
+      "translated": "到目前为止，最接近的是劳工部长。[3] 一份养家糊口的工作是你为了支付账单而做的，这样你就可以去做你真正想做的事情，比如组乐队，或者发明相对论。把高中当作一份养家糊口的工作，实际上可能让一些学生更容易取得好成绩。"
+    },
+    {
+      "original": "If you treat your classes as a game, you won't be demoralized if they seem pointless.However bad your classes, you need to get good grades in them to get into a decent college. And that is worth doing, because universities are where a lot of the clumps of smart people are these days.[4] The second biggest regret was caring so much about unimportant things.",
+      "translated": "如果你把课程当作游戏来对待，即使它们看起来毫无意义，你也不会感到沮丧。无论你的课程有多糟糕，你都需要在其中取得好成绩，才能进入一所不错的大学。这是值得做的，因为如今很多聪明人都聚集在大学里。第二大的遗憾就是过于在意那些不重要的事情。"
+    },
+    {
+      "original": "And especially about what other people thought of them.I think what they really mean, in the latter case, is caring what random people thought of them. Adults care just as much what other people think, but they get to be more selective about the other people.I have about thirty friends whose opinions I care about, and the opinion of the rest of the world barely affects me.",
+      "translated": "而且特别在意别人对他们的看法。我认为，在后一种情况下，他们真正指的是在意那些陌生人的看法。成年后，人们依然在意他人的看法，但他们可以选择更在意哪个他人。我大约有三十个朋友，他们的意见我非常在意，而其他人的看法对我几乎没有影响。"
+    },
+    {
+      "original": "The problem in high school is that your peers are chosen for you by accidents of age and geography, rather than by you based on respect for their judgement.[5] The key to wasting time is distraction.",
+      "translated": "高中阶段的问题在于，你的同龄人是由年龄和地理位置的偶然性决定的，而不是根据你对他们判断的尊重来选择的。浪费时间的关键在于分心。"
+    },
+    {
+      "original": "Without distractions it's too obvious to your brain that you're not doing anything with it, and you start to feel uncomfortable. If you want to measure how dependent you've become on distractions, try this experiment: set aside a chunk of time on a weekend and sit alone and think.",
+      "translated": "没有 distraction，你的大脑会很明显地意识到你没有在做任何事情，于是开始感到不安。如果你想测量自己对 distraction 的依赖程度，可以尝试这个实验：在周末安排一段空闲时间，独自坐着思考。"
+    },
+    {
+      "original": "You can have a notebook to write your thoughts down in, but nothing else: no friends, TV, music, phone, IM, email, Web, games, books, newspapers, or magazines. Within an hour most people will feel a strong craving for distraction.[6] I don't mean to imply that the only function of prep schools is to trick admissions officers.",
+      "translated": "你可以有一个笔记本用来记录你的想法，但除此之外，不允许有其他任何东西：没有朋友、电视、音乐、电话、即时通讯、电子邮件、网络、游戏、书籍、报纸或杂志。在一个小时内，大多数人会感到强烈的分心欲望。我并不是想暗示预科学校的唯一功能就是欺骗招生官。"
+    },
+    {
+      "original": "They also generally provide a better education. But try this thought experiment: suppose prep schools supplied the same superior education but had a tiny (.001) negative effect on college admissions.",
+      "translated": "他们通常也提供更好的教育。但让我们做一个思想实验：假设预备学校提供了同样优秀的教育，但却对大学录取有微小的负面影响（-0.001）。"
+    },
+    {
+      "original": "How many parents would still send their kids to them?It might also be argued that kids who went to prep schools, because they've learned more, are better college candidates. But this seems empirically false.",
+      "translated": "有多少家长还会把孩子送到那里？也有人认为，上预备学校的孩子因为学得更多，所以是更好的大学候选人。但这一点似乎在事实上并不成立。"
+    },
+    {
+      "original": "What you learn in even the best high school is rounding error compared to what you learn in college. Public school kids arrive at college with a slight disadvantage, but they start to pull ahead in the sophomore year.(I'm not saying public school kids are smarter than preppies, just that they are within any given college.",
+      "translated": "即使在最好的高中所学的东西，与大学里学到的相比也只是微不足道的。公立学校的学生在进入大学时略微处于劣势，但在大二时开始领先。（我并不是说公立学校的学生比预科学校的学生更聪明，只是说在任何一所大学里都是如此。）"
+    },
+    {
+      "original": "That follows necessarily if you agree prep schools improve kids' admissions prospects.)[7] Why does society foul you? Indifference, mainly. There are simply no outside forces pushing high school to be good.",
+      "translated": "如果你同意预科学校能提高孩子们的录取机会，那么这一点是必然的。)[7] 为什么社会会对你不利？主要是因为漠不关心。简而言之，没有任何外部力量推动高中提高教学质量。"
+    },
+    {
+      "original": "The air traffic control system works because planes would crash otherwise. Businesses have to deliver because otherwise competitors would take their customers. But no planes crash if your school sucks, and it has no competitors.",
+      "translated": "空中交通管制系统之所以存在，是因为否则飞机就会相撞。企业必须提供服务，否则竞争对手就会抢走他们的客户。但是，即使你的学校很糟糕，也不会有飞机相撞，而且它也没有竞争对手。"
+    },
+    {
+      "original": "High school isn't evil; it's random; but random is pretty bad.[8] And then of course there is money. It's not a big factor in high school, because you can't do much that anyone wants. But a lot of great things were created mainly to make money.",
+      "translated": "高中并不是邪恶的；它是随机的；但随机性确实很糟糕。当然，还有金钱。金钱在高中并不是一个很大的因素，因为你无法做太多别人想要的事情。但许多伟大的事物主要是为了赚钱而创造的。"
+    },
+    {
+      "original": "Samuel Johnson said \"no man but a blockhead ever wrote except for money.\" (Many hope he was exaggerating.)[9] Even college textbooks are bad. When you get to college, you'll find that (with a few stellar exceptions) the textbooks are not written by the leading scholars in the field they describe.",
+      "translated": "塞缪尔·约翰逊说过：“除了蠢材，没有人会为了除金钱之外的任何原因去写作。”（许多人希望他是在夸大其词。）即便是大学教科书也是如此。当你上大学时，你会发现（少数几本优秀的除外）这些教科书并不是由该领域的一流学者撰写的。"
+    },
+    {
+      "original": "Writing college textbooks is unpleasant work, done mostly by people who need the money. It's unpleasant because the publishers exert so much control, and there are few things worse than close supervision by someone who doesn't understand what you're doing.",
+      "translated": "编写大学教材是一项令人不愉快的工作，主要由需要钱的人来完成。这项工作令人不愉快，因为出版商施加了太多的控制，而没有什么比被一个不懂你所做工作的人严密监督更糟糕了。"
+    },
+    {
+      "original": "This phenomenon is apparently even worse in the production of high school textbooks.[10] Your teachers are always telling you to behave like adults. I wonder if they'd like it if you did. You may be loud and disorganized, but you're very docile compared to adults.",
+      "translated": "这种现象在高中教科书的编写中似乎更加严重。[10] 老师们总是告诉你 behaves 要像成年人一样。我不知道如果你们真的那样做了，他们是否会喜欢。你们可能很吵闹且不守规矩，但与成年人相比，你们还是非常顺从的。"
+    },
+    {
+      "original": "If you actually started acting like adults, it would be just as if a bunch of adults had been transposed into your bodies. Imagine the reaction of an FBI agent or taxi driver or reporter to being told they had to ask permission to go the bathroom, and only one person could go at a time.",
+      "translated": "如果你们真的开始像成年人一样行事，那就像是有一群成年人被转移到了你们的身体里。想象一下，如果一个FBI特工、出租车司机或记者被告知，他们必须请求许可才能去洗手间，而且一次只能有一个人去，他们的反应会是如何。"
+    },
+    {
+      "original": "To say nothing of the things you're taught. If a bunch of actual adults suddenly found themselves trapped in high school, the first thing they'd do is form a union and renegotiate all the rules with the administration.Thanks to Ingrid Bassett, Trevor Blackwell, Rich Draves, Dan Giffin, Sarah Harlin, Jessica Livingston, Jackie McDonough, Robert Morris, Mark Nitzberg, Lisa Randall, and Aaron Swartz for reading drafts of this, and to many others for talking to me about high school.Why Nerds are UnpopularJapanese TranslationRussian TranslationGeorgian Translation",
+      "translated": "更不用说你所学到的东西了。如果一群真正的成年人突然发现自己被困在高中，他们首先会做的就是成立一个工会，并与管理层重新谈判所有规则。感谢英格丽·巴斯赛特、特雷弗·布莱克威尔、里奇·德雷夫斯、丹·吉芬、莎拉·哈林、杰西卡·利文斯顿、杰基·麦克唐纳、罗伯特·莫里斯、马克·尼茨伯格、丽莎·兰德尔和亚伦·斯沃茨审阅本文的草稿，也感谢许多其他人与我讨论高中生活的问题。为什么书呆子不受欢迎日文翻译俄文翻译格鲁吉亚文翻译"
+    }
+  ],
+  "translation_completed": "2025-07-29T11:15:18.614891",
+  "translation_stats": {
+    "total_paragraphs": 103,
+    "success_count": 103,
+    "success_rate": "100.0%"
+  }
+}

@@ -1,0 +1,484 @@
+{
+  "title": "The Hardest Lessons for Startups to Learn",
+  "title_zh": "[待翻译] The Hardest Lessons for Startups to Learn",
+  "url": "https://www.paulgraham.com/startuplessons.html",
+  "filename": "startuplessons.html",
+  "date": "2006-04-01",
+  "id": 193,
+  "content": {
+    "success": true,
+    "paragraphs": [
+      "April 2006(This essay is derived from a talk at the 2006 Startup School.)The startups we've funded so far are pretty quick, but they seem quicker to learn some lessons than others. I think it's because some things about startups are kind of counterintuitive.We've now invested in enough companies that I've learned a trick for determining which points are the counterintuitive ones: they're the ones I have to keep repeating.So I'm going to number these points, and maybe with future startups I'll be able to pull off a form of Huffman coding.",
+      "I'll make them all read this, and then instead of nagging them in detail, I'll just be able to say: number four! 1. Release Early.The thing I probably repeat most is this recipe for a startup: get a version 1 out fast, then improve it based on users' reactions.By \"release early\" I don't mean you should release something full of bugs, but that you should release something minimal.",
+      "Users hate bugs, but they don't seem to mind a minimal version 1, if there's more coming soon.There are several reasons it pays to get version 1 done fast. One is that this is simply the right way to write software, whether for a startup or not.",
+      "I've been repeating that since 1993, and I haven't seen much since to contradict it. I've seen a lot of startups die because they were too slow to release stuff, and none because they were too quick.",
+      "[1]One of the things that will surprise you if you build something popular is that you won't know your users. Reddit now has almost half a million unique visitors a month. Who are all those people? They have no idea.",
+      "No web startup does. And since you don't know your users, it's dangerous to guess what they'll like. Better to release something and let them tell you.Wufoo took this to heart and released their form-builder before the underlying database.",
+      "You can't even drive the thing yet, but 83,000 people came to sit in the driver's seat and hold the steering wheel. And Wufoo got valuable feedback from it: Linux users complained they used too much Flash, so they rewrote their software not to.",
+      "If they'd waited to release everything at once, they wouldn't have discovered this problem till it was more deeply wired in.Even if you had no users, it would still be important to release quickly, because for a startup the initial release acts as a shakedown cruise.",
+      "If anything major is broken-- if the idea's no good, for example, or the founders hate one another-- the stress of getting that first version out will expose it. And if you have such problems you want to find them early.Perhaps the most important reason to release early, though, is that it makes you work harder.",
+      "When you're working on something that isn't released, problems are intriguing. In something that's out there, problems are alarming. There is a lot more urgency once you release. And I think that's precisely why people put it off.",
+      "They know they'll have to work a lot harder once they do. [2] 2. Keep Pumping Out Features.Of course, \"release early\" has a second component, without which it would be bad advice. If you're going to start with something that doesn't do much, you better improve it fast.What I find myself repeating is \"pump out features.\" And this rule isn't just for the initial stages.",
+      "This is something all startups should do for as long as they want to be considered startups.I don't mean, of course, that you should make your application ever more complex. By \"feature\" I mean one unit of hacking-- one quantum of making users' lives better.As with exercise, improvements beget improvements.",
+      "If you run every day, you'll probably feel like running tomorrow. But if you skip running for a couple weeks, it will be an effort to drag yourself out. So it is with hacking: the more ideas you implement, the more ideas you'll have.",
+      "You should make your system better at least in some small way every day or two.This is not just a good way to get development done; it is also a form of marketing. Users love a site that's constantly improving.",
+      "In fact, users expect a site to improve. Imagine if you visited a site that seemed very good, and then returned two months later and not one thing had changed. Wouldn't it start to seem lame? [3]They'll like you even better when you improve in response to their comments, because customers are used to companies ignoring them.",
+      "If you're the rare exception-- a company that actually listens-- you'll generate fanatical loyalty. You won't need to advertise, because your users will do it for you.This seems obvious too, so why do I have to keep repeating it?",
+      "I think the problem here is that people get used to how things are. Once a product gets past the stage where it has glaring flaws, you start to get used to it, and gradually whatever features it happens to have become its identity.",
+      "For example, I doubt many people at Yahoo (or Google for that matter) realized how much better web mail could be till Paul Buchheit showed them.I think the solution is to assume that anything you've made is far short of what it could be.",
+      "Force yourself, as a sort of intellectual exercise, to keep thinking of improvements. Ok, sure, what you have is perfect. But if you had to change something, what would it be?If your product seems finished, there are two possible explanations: (a) it is finished, or (b) you lack imagination.",
+      "Experience suggests (b) is a thousand times more likely. 3. Make Users Happy.Improving constantly is an instance of a more general rule: make users happy. One thing all startups have in common is that they can't force anyone to do anything.",
+      "They can't force anyone to use their software, and they can't force anyone to do deals with them. A startup has to sing for its supper. That's why the successful ones make great things. They have to, or die.When you're running a startup you feel like a little bit of debris blown about by powerful winds.",
+      "The most powerful wind is users. They can either catch you and loft you up into the sky, as they did with Google, or leave you flat on the pavement, as they do with most startups. Users are a fickle wind, but more powerful than any other.",
+      "If they take you up, no competitor can keep you down.As a little piece of debris, the rational thing for you to do is not to lie flat, but to curl yourself into a shape the wind will catch.I like the wind metaphor because it reminds you how impersonal the stream of traffic is.",
+      "The vast majority of people who visit your site will be casual visitors. It's them you have to design your site for. The people who really care will find what they want by themselves.The median visitor will arrive with their finger poised on the Back button.",
+      "Think about your own experience: most links you follow lead to something lame. Anyone who has used the web for more than a couple weeks has been trained to click on Back after following a link. So your site has to say \"Wait!",
+      "Don't click on Back. This site isn't lame. Look at this, for example.\"There are two things you have to do to make people pause. The most important is to explain, as concisely as possible, what the hell your site is about.",
+      "How often have you visited a site that seemed to assume you already knew what they did? For example, the corporate site that says the company makes enterprise content management solutions for business that enable organizations to unify people, content and processes to minimize business risk, accelerate time-to-value and sustain lower total cost of ownership.",
+      "An established company may get away with such an opaque description, but no startup can. A startup should be able to explain in one or two sentences exactly what it does. [4] And not just to users. You need this for everyone: investors, acquirers, partners, reporters, potential employees, and even current employees.",
+      "You probably shouldn't even start a company to do something that can't be described compellingly in one or two sentences.The other thing I repeat is to give people everything you've got, right away. If you have something impressive, try to put it on the front page, because that's the only one most visitors will see.",
+      "Though indeed there's a paradox here: the more you push the good stuff toward the front, the more likely visitors are to explore further. [5]In the best case these two suggestions get combined: you tell visitors what your site is about by showing them.",
+      "One of the standard pieces of advice in fiction writing is \"show, don't tell.\" Don't say that a character's angry; have him grind his teeth, or break his pencil in half. Nothing will explain what your site does so well as using it.The industry term here is \"conversion.\" The job of your site is to convert casual visitors into users-- whatever your definition of a user is.",
+      "You can measure this in your growth rate. Either your site is catching on, or it isn't, and you must know which. If you have decent growth, you'll win in the end, no matter how obscure you are now. And if you don't, you need to fix something.",
+      "4. Fear the Right Things.Another thing I find myself saying a lot is \"don't worry.\" Actually, it's more often \"don't worry about this; worry about that instead.\" Startups are right to be paranoid, but they sometimes fear the wrong things.Most visible disasters are not so alarming as they seem.",
+      "Disasters are normal in a startup: a founder quits, you discover a patent that covers what you're doing, your servers keep crashing, you run into an insoluble technical problem, you have to change your name, a deal falls through-- these are all par for the course.",
+      "They won't kill you unless you let them.Nor will most competitors. A lot of startups worry \"what if Google builds something like us?\" Actually big companies are not the ones you have to worry about-- not even Google.",
+      "The people at Google are smart, but no smarter than you; they're not as motivated, because Google is not going to go out of business if this one product fails; and even at Google they have a lot of bureaucracy to slow them down.What you should fear, as a startup, is not the established players, but other startups you don't know exist yet.",
+      "They're way more dangerous than Google because, like you, they're cornered animals.Looking just at existing competitors can give you a false sense of security. You should compete against what someone else could be doing, not just what you can see people doing.",
+      "A corollary is that you shouldn't relax just because you have no visible competitors yet. No matter what your idea, there's someone else out there working on the same thing.That's the downside of it being easier to start a startup: more people are doing it.",
+      "But I disagree with Caterina Fake when she says that makes this a bad time to start a startup. More people are starting startups, but not as many more as could. Most college graduates still think they have to get a job.",
+      "The average person can't ignore something that's been beaten into their head since they were three just because serving web pages recently got a lot cheaper.And in any case, competitors are not the biggest threat.",
+      "Way more startups hose themselves than get crushed by competitors. There are a lot of ways to do it, but the three main ones are internal disputes, inertia, and ignoring users. Each is, by itself, enough to kill you.",
+      "But if I had to pick the worst, it would be ignoring users. If you want a recipe for a startup that's going to die, here it is: a couple of founders who have some great idea they know everyone is going to love, and that's what they're going to build, no matter what.Almost everyone's initial plan is broken.",
+      "If companies stuck to their initial plans, Microsoft would be selling programming languages, and Apple would be selling printed circuit boards. In both cases their customers told them what their business should be-- and they were smart enough to listen.As Richard Feynman said, the imagination of nature is greater than the imagination of man.",
+      "You'll find more interesting things by looking at the world than you could ever produce just by thinking. This principle is very powerful. It's why the best abstract painting still falls short of Leonardo, for example.",
+      "And it applies to startups too. No idea for a product could ever be so clever as the ones you can discover by smashing a beam of prototypes into a beam of users. 5. Commitment Is a Self-Fulfilling Prophecy.I now have enough experience with startups to be able to say what the most important quality is in a startup founder, and it's not what you might think.",
+      "The most important quality in a startup founder is determination. Not intelligence-- determination.This is a little depressing. I'd like to believe Viaweb succeeded because we were smart, not merely determined.",
+      "A lot of people in the startup world want to believe that. Not just founders, but investors too. They like the idea of inhabiting a world ruled by intelligence. And you can tell they really believe this, because it affects their investment decisions.Time after time VCs invest in startups founded by eminent professors.",
+      "This may work in biotech, where a lot of startups simply commercialize existing research, but in software you want to invest in students, not professors. Microsoft, Yahoo, and Google were all founded by people who dropped out of school to do it.",
+      "What students lack in experience they more than make up in dedication.Of course, if you want to get rich, it's not enough merely to be determined. You have to be smart too, right? I'd like to think so, but I've had an experience that convinced me otherwise: I spent several years living in New York.You can lose quite a lot in the brains department and it won't kill you.",
+      "But lose even a little bit in the commitment department, and that will kill you very rapidly.Running a startup is like walking on your hands: it's possible, but it requires extraordinary effort. If an ordinary employee were asked to do the things a startup founder has to, he'd be very indignant.",
+      "Imagine if you were hired at some big company, and in addition to writing software ten times faster than you'd ever had to before, they expected you to answer support calls, administer the servers, design the web site, cold-call customers, find the company office space, and go out and get everyone lunch.And to do all this not in the calm, womb-like atmosphere of a big company, but against a backdrop of constant disasters.",
+      "That's the part that really demands determination. In a startup, there's always some disaster happening. So if you're the least bit inclined to find an excuse to quit, there's always one right there.But if you lack commitment, chances are it will have been hurting you long before you actually quit.",
+      "Everyone who deals with startups knows how important commitment is, so if they sense you're ambivalent, they won't give you much attention. If you lack commitment, you'll just find that for some mysterious reason good things happen to your competitors but not to you.",
+      "If you lack commitment, it will seem to you that you're unlucky.Whereas if you're determined to stick around, people will pay attention to you, because odds are they'll have to deal with you later. You're a local, not just a tourist, so everyone has to come to terms with you.At Y Combinator we sometimes mistakenly fund teams who have the attitude that they're going to give this startup thing a shot for three months, and if something great happens, they'll stick with it-- \"something great\" meaning either that someone wants to buy them or invest millions of dollars in them.",
+      "But if this is your attitude, \"something great\" is very unlikely to happen to you, because both acquirers and investors judge you by your level of commitment.If an acquirer thinks you're going to stick around no matter what, they'll be more likely to buy you, because if they don't and you stick around, you'll probably grow, your price will go up, and they'll be left wishing they'd bought you earlier.",
+      "Ditto for investors. What really motivates investors, even big VCs, is not the hope of good returns, but the fear of missing out. [6] So if you make it clear you're going to succeed no matter what, and the only reason you need them is to make it happen a little faster, you're much more likely to get money.You can't fake this.",
+      "The only way to convince everyone that you're ready to fight to the death is actually to be ready to.You have to be the right kind of determined, though. I carefully chose the word determined rather than stubborn, because stubbornness is a disastrous quality in a startup.",
+      "You have to be determined, but flexible, like a running back. A successful running back doesn't just put his head down and try to run through people. He improvises: if someone appears in front of him, he runs around them; if someone tries to grab him, he spins out of their grip; he'll even run in the wrong direction briefly if that will help.",
+      "The one thing he'll never do is stand still. [7] 6. There Is Always Room.I was talking recently to a startup founder about whether it might be good to add a social component to their software. He said he didn't think so, because the whole social thing was tapped out.",
+      "Really? So in a hundred years the only social networking sites will be the Facebook, MySpace, Flickr, and Del.icio.us? Not likely.There is always room for new stuff. At every point in history, even the darkest bits of the dark ages, people were discovering things that made everyone say \"why didn't anyone think of that before?\" We know this continued to be true up till 2004, when the Facebook was founded-- though strictly speaking someone else did think of that.The reason we don't see the opportunities all around us is that we adjust to however things are, and assume that's how things have to be.",
+      "For example, it would seem crazy to most people to try to make a better search engine than Google. Surely that field, at least, is tapped out. Really? In a hundred years-- or even twenty-- are people still going to search for information using something like the current Google?",
+      "Even Google probably doesn't think that.In particular, I don't think there's any limit to the number of startups. Sometimes you hear people saying \"All these guys starting startups now are going to be disappointed.",
+      "How many little startups are Google and Yahoo going to buy, after all?\" That sounds cleverly skeptical, but I can prove it's mistaken. No one proposes that there's some limit to the number of people who can be employed in an economy consisting of big, slow-moving companies with a couple thousand people each.",
+      "Why should there be any limit to the number who could be employed by small, fast-moving companies with ten each? It seems to me the only limit would be the number of people who want to work that hard.The limit on the number of startups is not the number that can get acquired by Google and Yahoo-- though it seems even that should be unlimited, if the startups were actually worth buying-- but the amount of wealth that can be created.",
+      "And I don't think there's any limit on that, except cosmological ones.So for all practical purposes, there is no limit to the number of startups. Startups make wealth, which means they make things people want, and if there's a limit on the number of things people want, we are nowhere near it.",
+      "I still don't even have a flying car. 7. Don't Get Your Hopes Up.This is another one I've been repeating since long before Y Combinator. It was practically the corporate motto at Viaweb.Startup founders are naturally optimistic.",
+      "They wouldn't do it otherwise. But you should treat your optimism the way you'd treat the core of a nuclear reactor: as a source of power that's also very dangerous. You have to build a shield around it, or it will fry you.The shielding of a reactor is not uniform; the reactor would be useless if it were.",
+      "It's pierced in a few places to let pipes in. An optimism shield has to be pierced too. I think the place to draw the line is between what you expect of yourself, and what you expect of other people.",
+      "It's ok to be optimistic about what you can do, but assume the worst about machines and other people.This is particularly necessary in a startup, because you tend to be pushing the limits of whatever you're doing.",
+      "So things don't happen in the smooth, predictable way they do in the rest of the world. Things change suddenly, and usually for the worse.Shielding your optimism is nowhere more important than with deals.",
+      "If your startup is doing a deal, just assume it's not going to happen. The VCs who say they're going to invest in you aren't. The company that says they're going to buy you isn't. The big customer who wants to use your system in their whole company won't.",
+      "Then if things work out you can be pleasantly surprised.The reason I warn startups not to get their hopes up is not to save them from being disappointed when things fall through. It's for a more practical reason: to prevent them from leaning their company against something that's going to fall over, taking them with it.For example, if someone says they want to invest in you, there's a natural tendency to stop looking for other investors.",
+      "That's why people proposing deals seem so positive: they want you to stop looking. And you want to stop too, because doing deals is a pain. Raising money, in particular, is a huge time sink. So you have to consciously force yourself to keep looking.Even if you ultimately do the first deal, it will be to your advantage to have kept looking, because you'll get better terms.",
+      "Deals are dynamic; unless you're negotiating with someone unusually honest, there's not a single point where you shake hands and the deal's done. There are usually a lot of subsidiary questions to be cleared up after the handshake, and if the other side senses weakness-- if they sense you need this deal-- they will be very tempted to screw you in the details.VCs and corp dev guys are professional negotiators.",
+      "They're trained to take advantage of weakness. [8] So while they're often nice guys, they just can't help it. And as pros they do this more than you. So don't even try to bluff them. The only way a startup can have any leverage in a deal is genuinely not to need it.",
+      "And if you don't believe in a deal, you'll be less likely to depend on it.So I want to plant a hypnotic suggestion in your heads: when you hear someone say the words \"we want to invest in you\" or \"we want to acquire you,\" I want the following phrase to appear automatically in your head: don't get your hopes up.",
+      "Just continue running your company as if this deal didn't exist. Nothing is more likely to make it close.The way to succeed in a startup is to focus on the goal of getting lots of users, and keep walking swiftly toward it while investors and acquirers scurry alongside trying to wave money in your face.",
+      "Speed, not MoneyThe way I've described it, starting a startup sounds pretty stressful. It is. When I talk to the founders of the companies we've funded, they all say the same thing: I knew it would be hard, but I didn't realize it would be this hard.So why do it?",
+      "It would be worth enduring a lot of pain and stress to do something grand or heroic, but just to make money? Is making money really that important?No, not really. It seems ridiculous to me when people take business too seriously.",
+      "I regard making money as a boring errand to be got out of the way as soon as possible. There is nothing grand or heroic about starting a startup per se.So why do I spend so much time thinking about startups?",
+      "I'll tell you why. Economically, a startup is best seen not as a way to get rich, but as a way to work faster. You have to make a living, and a startup is a way to get that done quickly, instead of letting it drag on through your whole life.",
+      "[9]We take it for granted most of the time, but human life is fairly miraculous. It is also palpably short. You're given this marvellous thing, and then poof, it's taken away. You can see why people invent gods to explain it.",
+      "But even to people who don't believe in gods, life commands respect. There are times in most of our lives when the days go by in a blur, and almost everyone has a sense, when this happens, of wasting something precious.",
+      "As Ben Franklin said, if you love life, don't waste time, because time is what life is made of.So no, there's nothing particularly grand about making money. That's not what makes startups worth the trouble.",
+      "What's important about startups is the speed. By compressing the dull but necessary task of making a living into the smallest possible time, you show respect for life, and there is something grand about that.Notes[1] Startups can die from releasing something full of bugs, and not fixing them fast enough, but I don't know of any that died from releasing something stable but minimal very early, then promptly improving it.[2] I know this is why I haven't released Arc.",
+      "The moment I do, I'll have people nagging me for features.[3] A web site is different from a book or movie or desktop application in this respect. Users judge a site not as a single snapshot, but as an animation with multiple frames.",
+      "Of the two, I'd say the rate of improvement is more important to users than where you currently are.[4] It should not always tell this to users, however. For example, MySpace is basically a replacement mall for mallrats.",
+      "But it was wiser for them, initially, to pretend that the site was about bands.[5] Similarly, don't make users register to try your site. Maybe what you have is so valuable that visitors should gladly register to get at it.",
+      "But they've been trained to expect the opposite. Most of the things they've tried on the web have sucked-- and probably especially those that made them register.[6] VCs have rational reasons for behaving this way.",
+      "They don't make their money (if they make money) off their median investments. In a typical fund, half the companies fail, most of the rest generate mediocre returns, and one or two \"make the fund\" by succeeding spectacularly.",
+      "So if they miss just a few of the most promising opportunities, it could hose the whole fund.[7] The attitude of a running back doesn't translate to soccer. Though it looks great when a forward dribbles past multiple defenders, a player who persists in trying such things will do worse in the long term than one who passes.[8] The reason Y Combinator never negotiates valuations is that we're not professional negotiators, and don't want to turn into them.[9] There are two ways to do work you love: (a) to make money, then work on what you love, or (b) to get a job where you get paid to work on stuff you love.",
+      "In practice the first phases of both consist mostly of unedifying schleps, and in (b) the second phase is less secure.Thanks to Sam Altman, Trevor Blackwell, Beau Hartshorne, Jessica Livingston, and Robert Morris for reading drafts of this.Romanian TranslationRussian TranslationFrench TranslationJapanese Translation"
+    ],
+    "word_count": 4745,
+    "paragraph_count": 92
+  },
+  "processed_at": "2025-07-26T19:07:43.531705",
+  "paragraphs": [
+    {
+      "original": "April 2006(This essay is derived from a talk at the 2006 Startup School.)The startups we've funded so far are pretty quick, but they seem quicker to learn some lessons than others. I think it's because some things about startups are kind of counterintuitive.We've now invested in enough companies that I've learned a trick for determining which points are the counterintuitive ones: they're the ones I have to keep repeating.So I'm going to number these points, and maybe with future startups I'll be able to pull off a form of Huffman coding.",
+      "translated": "2006年4月（本文源自2006年创业学校的一次演讲。）到目前为止，我们资助的创业公司都很迅速，但他们在学习某些经验时似乎更快。我认为这是因为在创业公司中有些事情有点反直觉。现在我们已经投资了足够多的公司，我学会了如何判断哪些观点是反直觉的：这些就是我必须不断重复的观点。所以我要给这些观点编号，也许对于未来的创业公司，我能够实现一种霍夫曼编码的形式。"
+    },
+    {
+      "original": "I'll make them all read this, and then instead of nagging them in detail, I'll just be able to say: number four! 1. Release Early.The thing I probably repeat most is this recipe for a startup: get a version 1 out fast, then improve it based on users' reactions.By \"release early\" I don't mean you should release something full of bugs, but that you should release something minimal.",
+      "translated": "我会让他们都读这篇文章，然后就不用再详细地唠叨他们了，我只需要说：第四条！1. 尽早发布。我最常重复的一个创业秘诀就是：快速推出1.0版本，然后根据用户的反馈进行改进。所谓“尽早发布”，并不是说你应该发布一个满是bug的版本，而是应该发布一个功能最简化的版本。"
+    },
+    {
+      "original": "Users hate bugs, but they don't seem to mind a minimal version 1, if there's more coming soon.There are several reasons it pays to get version 1 done fast. One is that this is simply the right way to write software, whether for a startup or not.",
+      "translated": "用户讨厌软件漏洞，但如果后续会有更多更新，他们似乎并不介意使用一个功能较少的1.0版本。快速完成1.0版本有几个好处。其中一个原因是，无论对于初创公司还是其他情况，这本身就是编写软件的正确方式。"
+    },
+    {
+      "original": "I've been repeating that since 1993, and I haven't seen much since to contradict it. I've seen a lot of startups die because they were too slow to release stuff, and none because they were too quick.",
+      "translated": "自1993年以来，我一直在重复这句话，而且我还没有看到什么能反驳它的。我见过很多初创公司因为发布产品太慢而失败，但没有见过因为发布得太快而失败的。"
+    },
+    {
+      "original": "[1]One of the things that will surprise you if you build something popular is that you won't know your users. Reddit now has almost half a million unique visitors a month. Who are all those people? They have no idea.",
+      "translated": "[1]如果你创建了一些受欢迎的东西，你可能会感到惊讶的是，你并不了解你的用户。Reddit 现在每月有近五十万独立访客。这些人都是谁？Reddit 一无所知。"
+    },
+    {
+      "original": "No web startup does. And since you don't know your users, it's dangerous to guess what they'll like. Better to release something and let them tell you.Wufoo took this to heart and released their form-builder before the underlying database.",
+      "translated": "没有哪家网络初创公司会这样做。由于你不了解你的用户，猜测他们喜欢什么是很危险的。最好先发布一些东西，让用户来告诉你。Wufoo 深刻理解这一点，并在底层数据库之前发布了他们的表单构建器。"
+    },
+    {
+      "original": "You can't even drive the thing yet, but 83,000 people came to sit in the driver's seat and hold the steering wheel. And Wufoo got valuable feedback from it: Linux users complained they used too much Flash, so they rewrote their software not to.",
+      "translated": "你甚至还没有学会开车，但有83,000人来坐到驾驶座上，握住方向盘。而Wufoo从中获得了宝贵的反馈：Linux用户抱怨他们使用了过多的Flash，因此他们重写了软件以避免使用Flash。"
+    },
+    {
+      "original": "If they'd waited to release everything at once, they wouldn't have discovered this problem till it was more deeply wired in.Even if you had no users, it would still be important to release quickly, because for a startup the initial release acts as a shakedown cruise.",
+      "translated": "如果他们等到一次性发布所有内容，就不会在这个问题更深入地嵌入之前发现它了。即使没有用户，快速发布也仍然很重要，因为对于初创公司来说，最初的发布就像是一次试航。"
+    },
+    {
+      "original": "If anything major is broken-- if the idea's no good, for example, or the founders hate one another-- the stress of getting that first version out will expose it. And if you have such problems you want to find them early.Perhaps the most important reason to release early, though, is that it makes you work harder.",
+      "translated": "如果有什么重大的问题——比如想法不好，或者创始人之间不合——那么推出第一个版本的压力就会将其暴露出来。而如果你有这样的问题，最好早些发现。然而，尽早发布的最重要的原因可能是它能让你更加努力地工作。"
+    },
+    {
+      "original": "When you're working on something that isn't released, problems are intriguing. In something that's out there, problems are alarming. There is a lot more urgency once you release. And I think that's precisely why people put it off.",
+      "translated": "当你在处理尚未发布的东西时，问题会令人感到有趣。而对于已经发布的东西，问题则会让人感到震惊。一旦发布，紧迫感会大增。我想这正是人们会拖延的原因。"
+    },
+    {
+      "original": "They know they'll have to work a lot harder once they do. [2] 2. Keep Pumping Out Features.Of course, \"release early\" has a second component, without which it would be bad advice. If you're going to start with something that doesn't do much, you better improve it fast.What I find myself repeating is \"pump out features.\" And this rule isn't just for the initial stages.",
+      "translated": "他们知道一旦开始，就必须更加努力地工作。[2] 2. 持续推出新功能。当然，“尽早发布”还有第二个组成部分，缺少这个部分就会成为糟糕的建议。如果你打算从一个功能不多的产品开始，就必须迅速改进它。我反复强调的是“持续推出新功能”。而这个规则不仅适用于初期阶段。"
+    },
+    {
+      "original": "This is something all startups should do for as long as they want to be considered startups.I don't mean, of course, that you should make your application ever more complex. By \"feature\" I mean one unit of hacking-- one quantum of making users' lives better.As with exercise, improvements beget improvements.",
+      "translated": "这是所有初创公司只要还想被视为初创公司就应该做的事情。当然，我并不是说你应该不断增加应用的复杂性。我所说的“功能”是指一个单元的开发工作——一项提升用户生活的改进。就像锻炼一样，改进会带来更多的改进。"
+    },
+    {
+      "original": "If you run every day, you'll probably feel like running tomorrow. But if you skip running for a couple weeks, it will be an effort to drag yourself out. So it is with hacking: the more ideas you implement, the more ideas you'll have.",
+      "translated": "如果你每天跑步，你很可能明天还想跑。但如果你有几周没跑了，再想出门跑步就会觉得费劲。编程也是如此：你实现的想法越多，就会有更多的想法。"
+    },
+    {
+      "original": "You should make your system better at least in some small way every day or two.This is not just a good way to get development done; it is also a form of marketing. Users love a site that's constantly improving.",
+      "translated": "你应该每隔一两天至少在某个小方面改进你的系统。这不仅是一种良好的开发方式，也是一种营销手段。用户喜欢不断改进的网站。"
+    },
+    {
+      "original": "In fact, users expect a site to improve. Imagine if you visited a site that seemed very good, and then returned two months later and not one thing had changed. Wouldn't it start to seem lame? [3]They'll like you even better when you improve in response to their comments, because customers are used to companies ignoring them.",
+      "translated": "事实上，用户期望网站能够改进。想象一下，如果你访问了一个看起来非常好的网站，然后两个月后再去访问，却发现没有任何变化。难道不会开始觉得这个网站很无趣吗？[3]当他们发现你根据他们的意见进行了改进时，会更加喜欢你，因为用户已经习惯了企业对他们的忽视。"
+    },
+    {
+      "original": "If you're the rare exception-- a company that actually listens-- you'll generate fanatical loyalty. You won't need to advertise, because your users will do it for you.This seems obvious too, so why do I have to keep repeating it?",
+      "translated": "如果你是那少数的例外——一个真正倾听顾客声音的公司——你将赢得狂热的忠诚。你无需做广告，因为你的用户会为你宣传。这看起来显而易见，那我为什么还要不断重复这一点呢？"
+    },
+    {
+      "original": "I think the problem here is that people get used to how things are. Once a product gets past the stage where it has glaring flaws, you start to get used to it, and gradually whatever features it happens to have become its identity.",
+      "translated": "我认为这里的问题在于人们习惯了现状。一旦产品度过了有明显缺陷的阶段，你就会开始习惯它，渐渐地，它所具有的各种特性就成了它的身份标识。"
+    },
+    {
+      "original": "For example, I doubt many people at Yahoo (or Google for that matter) realized how much better web mail could be till Paul Buchheit showed them.I think the solution is to assume that anything you've made is far short of what it could be.",
+      "translated": "例如，我怀疑雅虎（或者谷歌）的许多人直到保罗·布赫海特展示给他们之前，都没有意识到网络邮件可以变得多么好。我认为解决办法是假定你所做的一切都远远没有达到它可能达到的水平。"
+    },
+    {
+      "original": "Force yourself, as a sort of intellectual exercise, to keep thinking of improvements. Ok, sure, what you have is perfect. But if you had to change something, what would it be?If your product seems finished, there are two possible explanations: (a) it is finished, or (b) you lack imagination.",
+      "translated": "强迫自己作为一种智力锻炼，不断思考改进的方法。好吧，确实，你现有的东西已经很完美了。但如果必须做出改变，你会改变什么？如果你的产品看起来已经完成了，可能有两种解释：(a) 它确实已经完成，或 (b) 你缺乏想象力。"
+    },
+    {
+      "original": "Experience suggests (b) is a thousand times more likely. 3. Make Users Happy.Improving constantly is an instance of a more general rule: make users happy. One thing all startups have in common is that they can't force anyone to do anything.",
+      "translated": "经验表明，(b) 的可能性要大上千倍。3. 让用户满意。不断改进是更广泛规则的一个例子：让用户满意。所有初创公司都有一个共同点，那就是他们无法强迫任何人做任何事情。"
+    },
+    {
+      "original": "They can't force anyone to use their software, and they can't force anyone to do deals with them. A startup has to sing for its supper. That's why the successful ones make great things. They have to, or die.When you're running a startup you feel like a little bit of debris blown about by powerful winds.",
+      "translated": "他们无法强迫任何人使用他们的软件，也无法强迫任何人与他们合作。一家初创公司必须自食其力。这就是为什么成功的企业会创造出伟大的产品。他们必须这样做，否则就会被淘汰。当你经营一家初创公司时，你会觉得自己像是一片被强风吹拂的碎片。"
+    },
+    {
+      "original": "The most powerful wind is users. They can either catch you and loft you up into the sky, as they did with Google, or leave you flat on the pavement, as they do with most startups. Users are a fickle wind, but more powerful than any other.",
+      "translated": "最强大的风是用户。他们既能把你抓住，把你送上天空，就像他们对谷歌所做的那样，也能让你跌落在地，就像他们对大多数初创公司所做的那样。用户是一股善变的风，但比任何其他力量都强大。"
+    },
+    {
+      "original": "If they take you up, no competitor can keep you down.As a little piece of debris, the rational thing for you to do is not to lie flat, but to curl yourself into a shape the wind will catch.I like the wind metaphor because it reminds you how impersonal the stream of traffic is.",
+      "translated": "如果他们把你捧起来，没有竞争对手能把你打下去。作为一小块碎片，理性的做法不是躺平，而是将自己卷成一个风能抓住的形状。我喜欢用风的比喻，因为它提醒你交通流是多么的不带个人情感。"
+    },
+    {
+      "original": "The vast majority of people who visit your site will be casual visitors. It's them you have to design your site for. The people who really care will find what they want by themselves.The median visitor will arrive with their finger poised on the Back button.",
+      "translated": "绝大多数访问你网站的人都是 casual 访客。你必须为他们设计你的网站。真正关心的人会自己找到他们想要的东西。普通访客在进入网站时，手指通常是放在后退按钮上的。"
+    },
+    {
+      "original": "Think about your own experience: most links you follow lead to something lame. Anyone who has used the web for more than a couple weeks has been trained to click on Back after following a link. So your site has to say \"Wait!",
+      "translated": "想想你自己的经历：大多数你点击的链接都导向一些无聊的内容。任何一个上网超过几周的人，都已经习惯在点击链接后按返回。所以你的网站必须说“等等！”"
+    },
+    {
+      "original": "Don't click on Back. This site isn't lame. Look at this, for example.\"There are two things you have to do to make people pause. The most important is to explain, as concisely as possible, what the hell your site is about.",
+      "translated": "不要点击后退。这个网站不LOW。看看这个，比如说。“要让人们对你的网站驻足，你需要做两件事。最重要的是尽可能简洁地解释你的网站到底是关于什么的。”"
+    },
+    {
+      "original": "How often have you visited a site that seemed to assume you already knew what they did? For example, the corporate site that says the company makes enterprise content management solutions for business that enable organizations to unify people, content and processes to minimize business risk, accelerate time-to-value and sustain lower total cost of ownership.",
+      "translated": "你有多少次访问某个网站时，感觉它们似乎认为你已经知道它们是做什么的？例如，某个公司网站上说，该公司为企业提供企业内容管理解决方案，使组织能够统一人员、内容和流程，以最小化业务风险，加快价值实现时间，并持续降低总体拥有成本。"
+    },
+    {
+      "original": "An established company may get away with such an opaque description, but no startup can. A startup should be able to explain in one or two sentences exactly what it does. [4] And not just to users. You need this for everyone: investors, acquirers, partners, reporters, potential employees, and even current employees.",
+      "translated": "一家成熟的企业或许能蒙混过关，但初创企业绝不能如此。初创企业应该能够用一两句话准确地说明自己在做什么。[4] 而这不仅仅是为了用户。你需要让每个人都能明白：投资者、收购方、合作伙伴、记者、潜在员工，甚至是现有员工。"
+    },
+    {
+      "original": "You probably shouldn't even start a company to do something that can't be described compellingly in one or two sentences.The other thing I repeat is to give people everything you've got, right away. If you have something impressive, try to put it on the front page, because that's the only one most visitors will see.",
+      "translated": "你大概不应该开始一个无法用一两句话生动描述的公司。另一件我反复强调的是，一开始就全力以赴地给予人们一切。如果你有令人印象深刻的东西，尽量把它放在首页，因为那几乎是大多数访客唯一会看到的页面。"
+    },
+    {
+      "original": "Though indeed there's a paradox here: the more you push the good stuff toward the front, the more likely visitors are to explore further. [5]In the best case these two suggestions get combined: you tell visitors what your site is about by showing them.",
+      "translated": "尽管这里确实存在一个悖论：你越是把好的内容放在前面，访问者就越有可能继续探索。[5]最理想的情况是将这两条建议结合起来：通过展示来告诉访问者你的网站是关于什么的。"
+    },
+    {
+      "original": "One of the standard pieces of advice in fiction writing is \"show, don't tell.\" Don't say that a character's angry; have him grind his teeth, or break his pencil in half. Nothing will explain what your site does so well as using it.The industry term here is \"conversion.\" The job of your site is to convert casual visitors into users-- whatever your definition of a user is.",
+      "translated": "在小说写作中有一条标准建议是“展示，不要讲述”。不要直接说某个角色生气了；让他磨牙，或者把铅笔折断。没有什么比使用你的网站更能说明它能做什么了。这里的行业术语是“转化”。你网站的任务是将 casual visitors 转化为用户——无论你如何定义用户。"
+    },
+    {
+      "original": "You can measure this in your growth rate. Either your site is catching on, or it isn't, and you must know which. If you have decent growth, you'll win in the end, no matter how obscure you are now. And if you don't, you need to fix something.",
+      "translated": "你可以通过增长率来衡量这一点。要么你的网站受到了欢迎，要么没有，而你必须知道是哪种情况。如果你有不错的增长率，那么无论你现在多么鲜为人知，最终你都会成功。而如果没有，你就需要作出一些调整。"
+    },
+    {
+      "original": "4. Fear the Right Things.Another thing I find myself saying a lot is \"don't worry.\" Actually, it's more often \"don't worry about this; worry about that instead.\" Startups are right to be paranoid, but they sometimes fear the wrong things.Most visible disasters are not so alarming as they seem.",
+      "translated": "4. 恐惧正确的事物。我经常说的一句话是“不要担心”。实际上，更多的是“不要担心这个，反而要去担心那个”。初创公司保持警惕是正确的，但有时他们害怕的东西并不对。大多数显而易见的灾难其实并没有看起来那么可怕。"
+    },
+    {
+      "original": "Disasters are normal in a startup: a founder quits, you discover a patent that covers what you're doing, your servers keep crashing, you run into an insoluble technical problem, you have to change your name, a deal falls through-- these are all par for the course.",
+      "translated": "创业公司遇到灾难是常态：创始人离职，你发现有一项专利涵盖了你的业务，服务器不断崩溃，遇到无法解决的技术问题，不得不更改公司名称，交易告吹——这些都是家常便饭。"
+    },
+    {
+      "original": "They won't kill you unless you let them.Nor will most competitors. A lot of startups worry \"what if Google builds something like us?\" Actually big companies are not the ones you have to worry about-- not even Google.",
+      "translated": "他们不会杀了你，除非你让他们这么做。大多数竞争对手也不会。很多初创公司担心“如果谷歌做出和我们一样的东西怎么办？”但实际上，你真正需要担心的并不是大公司——甚至不是谷歌。"
+    },
+    {
+      "original": "The people at Google are smart, but no smarter than you; they're not as motivated, because Google is not going to go out of business if this one product fails; and even at Google they have a lot of bureaucracy to slow them down.What you should fear, as a startup, is not the established players, but other startups you don't know exist yet.",
+      "translated": "谷歌的人很聪明，但并不比你更聪明；他们的动力也不如你，因为即使这个产品失败了，谷歌也不会因此破产；即使在谷歌内部，也有很多官僚程序会拖慢他们的进度。作为一家初创公司，你应该担心的不是那些已有的大公司，而是那些你还不知道存在的其他初创公司。"
+    },
+    {
+      "original": "They're way more dangerous than Google because, like you, they're cornered animals.Looking just at existing competitors can give you a false sense of security. You should compete against what someone else could be doing, not just what you can see people doing.",
+      "translated": "它们比谷歌危险得多，因为和你一样，它们是被逼到绝境的动物。只关注现有的竞争对手会让你产生虚假的安全感。你应该与别人可能做的事情竞争，而不仅仅是你看到人们正在做的事情。"
+    },
+    {
+      "original": "A corollary is that you shouldn't relax just because you have no visible competitors yet. No matter what your idea, there's someone else out there working on the same thing.That's the downside of it being easier to start a startup: more people are doing it.",
+      "translated": "一个推论是，即使目前没有明显的竞争对手，你也不应该放松警惕。无论你的想法是什么，总有人在做同样的事情。这就是创业变得更容易的负面影响：越来越多的人投身其中。"
+    },
+    {
+      "original": "But I disagree with Caterina Fake when she says that makes this a bad time to start a startup. More people are starting startups, but not as many more as could. Most college graduates still think they have to get a job.",
+      "translated": "但我不同意卡特里娜·福克的说法，她认为现在不是创办初创企业的良机。尽管更多的人开始创办初创企业，但还没有达到应有的数量。大多数大学毕业生仍然认为他们必须找到一份工作。"
+    },
+    {
+      "original": "The average person can't ignore something that's been beaten into their head since they were three just because serving web pages recently got a lot cheaper.And in any case, competitors are not the biggest threat.",
+      "translated": "普通人无法因为最近网页托管费用大幅降低就忽视自三岁起就被反复灌输的东西。而且，无论如何，竞争对手并不是最大的威胁。"
+    },
+    {
+      "original": "Way more startups hose themselves than get crushed by competitors. There are a lot of ways to do it, but the three main ones are internal disputes, inertia, and ignoring users. Each is, by itself, enough to kill you.",
+      "translated": "更多的初创企业是因为内部问题而失败，而不是被竞争对手击垮。导致失败的方式有很多，但主要的三种是内部纠纷、惰性和忽视用户。每一种都足以致命。"
+    },
+    {
+      "original": "But if I had to pick the worst, it would be ignoring users. If you want a recipe for a startup that's going to die, here it is: a couple of founders who have some great idea they know everyone is going to love, and that's what they're going to build, no matter what.Almost everyone's initial plan is broken.",
+      "translated": "但如果要我挑最糟糕的一项，那就是忽视用户。如果你想要一个注定失败的创业公司的配方，这就是了：几位创始人有一些他们自认为所有人都会喜欢的绝佳点子，无论发生什么，他们都会坚持去实现。几乎所有人的初始计划都有缺陷。"
+    },
+    {
+      "original": "If companies stuck to their initial plans, Microsoft would be selling programming languages, and Apple would be selling printed circuit boards. In both cases their customers told them what their business should be-- and they were smart enough to listen.As Richard Feynman said, the imagination of nature is greater than the imagination of man.",
+      "translated": "如果这些公司坚持最初的计划，微软将会出售编程语言，而苹果则会出售印刷电路板。在这两种情况下，他们的客户告诉他们应该做什么生意——而他们也足够聪明去倾听。正如理查德·费曼所说，自然的想象力比人类的想象力更为丰富。"
+    },
+    {
+      "original": "You'll find more interesting things by looking at the world than you could ever produce just by thinking. This principle is very powerful. It's why the best abstract painting still falls short of Leonardo, for example.",
+      "translated": "通过观察世界，你会发现比单纯思考所能产生的更多有趣的事物。这个原则非常有力。这也是为什么最好的抽象画仍然不及达·芬奇的作品。"
+    },
+    {
+      "original": "And it applies to startups too. No idea for a product could ever be so clever as the ones you can discover by smashing a beam of prototypes into a beam of users. 5. Commitment Is a Self-Fulfilling Prophecy.I now have enough experience with startups to be able to say what the most important quality is in a startup founder, and it's not what you might think.",
+      "translated": "这同样适用于初创企业。没有任何产品创意能比得上将原型和用户碰撞后发现的创意。5. 承诺是一种自我实现的预言。现在我有足够的初创企业经验，可以说明初创企业创始人最重要的品质是什么，而这可能并不是你所想的。"
+    },
+    {
+      "original": "The most important quality in a startup founder is determination. Not intelligence-- determination.This is a little depressing. I'd like to believe Viaweb succeeded because we were smart, not merely determined.",
+      "translated": "创业公司创始人最重要的品质是毅力。不是智力——而是毅力。这听起来有点令人沮丧。我希望能相信Viaweb之所以成功是因为我们聪明，而不仅仅是坚定。"
+    },
+    {
+      "original": "A lot of people in the startup world want to believe that. Not just founders, but investors too. They like the idea of inhabiting a world ruled by intelligence. And you can tell they really believe this, because it affects their investment decisions.Time after time VCs invest in startups founded by eminent professors.",
+      "translated": "很多创业圈的人士都愿意相信这一点。不仅是创始人，投资者也是如此。他们喜欢生活在一个由智力统治的世界的想法。你可以从他们的投资决策中看出他们真的相信这一点。一次又一次，风险投资家投资于由著名教授创立的初创公司。"
+    },
+    {
+      "original": "This may work in biotech, where a lot of startups simply commercialize existing research, but in software you want to invest in students, not professors. Microsoft, Yahoo, and Google were all founded by people who dropped out of school to do it.",
+      "translated": "这在生物技术领域可能行得通，许多初创公司只是将现有的研究商业化，但在软件行业，你想要投资的是学生，而不是教授。微软、雅虎和谷歌都是由辍学创业的人创立的。"
+    },
+    {
+      "original": "What students lack in experience they more than make up in dedication.Of course, if you want to get rich, it's not enough merely to be determined. You have to be smart too, right? I'd like to think so, but I've had an experience that convinced me otherwise: I spent several years living in New York.You can lose quite a lot in the brains department and it won't kill you.",
+      "translated": "学生可能缺乏经验，但他们的敬业精神却能弥补有余。当然，如果你想变得富有，光有决心是不够的。你还得聪明，对吧？我是这么认为的，但我的一段经历却让我对此产生了怀疑：我在纽约生活了几年。即使在智力方面有所欠缺，也并不会致命。"
+    },
+    {
+      "original": "But lose even a little bit in the commitment department, and that will kill you very rapidly.Running a startup is like walking on your hands: it's possible, but it requires extraordinary effort. If an ordinary employee were asked to do the things a startup founder has to, he'd be very indignant.",
+      "translated": "但只要在投入上稍微打点折扣，就会很快致命。经营一家初创公司就像用手走路：虽然可能，但需要付出非凡的努力。如果要求普通员工去做初创公司创始人必须做的事情，他会感到非常不满。"
+    },
+    {
+      "original": "Imagine if you were hired at some big company, and in addition to writing software ten times faster than you'd ever had to before, they expected you to answer support calls, administer the servers, design the web site, cold-call customers, find the company office space, and go out and get everyone lunch.And to do all this not in the calm, womb-like atmosphere of a big company, but against a backdrop of constant disasters.",
+      "translated": "想象一下，如果你被一家大公司雇用，除了要比以往快十倍地编写软件，他们还期望你接听技术支持电话、管理服务器、设计网站、给客户打电话推销、寻找公司办公地点，甚至还要出去给大家买午餐。而这一切都要在不断发生灾难的背景下完成，而不是在大公司那种平静、舒适的环境中。"
+    },
+    {
+      "original": "That's the part that really demands determination. In a startup, there's always some disaster happening. So if you're the least bit inclined to find an excuse to quit, there's always one right there.But if you lack commitment, chances are it will have been hurting you long before you actually quit.",
+      "translated": "这就是真正需要决心的部分。在初创公司里，总会有各种灾难发生。所以，如果你稍有借口想要放弃，那里总有一个现成的理由。但如果你缺乏承诺，很可能在你真正放弃之前，它就已经在拖你的后腿了。"
+    },
+    {
+      "original": "Everyone who deals with startups knows how important commitment is, so if they sense you're ambivalent, they won't give you much attention. If you lack commitment, you'll just find that for some mysterious reason good things happen to your competitors but not to you.",
+      "translated": "每个与初创企业打交道的人都知道承诺的重要性，因此如果他们感觉你态度模棱两可，就不会给予你太多关注。如果你缺乏承诺，就会发现一些神秘的原因，好事总是发生在你的竞争对手身上，而不会发生在你身上。"
+    },
+    {
+      "original": "If you lack commitment, it will seem to you that you're unlucky.Whereas if you're determined to stick around, people will pay attention to you, because odds are they'll have to deal with you later. You're a local, not just a tourist, so everyone has to come to terms with you.At Y Combinator we sometimes mistakenly fund teams who have the attitude that they're going to give this startup thing a shot for three months, and if something great happens, they'll stick with it-- \"something great\" meaning either that someone wants to buy them or invest millions of dollars in them.",
+      "translated": "如果你缺乏承诺，你就会觉得你很不幸。而如果你决心坚持下去，人们就会关注你，因为很有可能他们以后必须和你打交道。你是个当地人，而不仅仅是个游客，所以每个人都必须接受你。在 Y Combinator，我们有时会错误地资助那些态度是打算尝试创业三个月的团队，如果发生什么了不起的事情，他们就会坚持下去——“了不起的事情”意味着要么有人想收购他们，要么有人愿意向他们投资数百万美元。"
+    },
+    {
+      "original": "But if this is your attitude, \"something great\" is very unlikely to happen to you, because both acquirers and investors judge you by your level of commitment.If an acquirer thinks you're going to stick around no matter what, they'll be more likely to buy you, because if they don't and you stick around, you'll probably grow, your price will go up, and they'll be left wishing they'd bought you earlier.",
+      "translated": "但是，如果你的态度是这样的话，“伟大的事情”很可能不会发生在你身上，因为无论是收购方还是投资者都会根据你的投入程度来评判你。如果收购方认为无论发生什么你都会坚持下去，他们更有可能收购你，因为如果他们不收购而你依然坚持，你可能会继续成长，你的价值会上升，他们会后悔没有早些收购你。"
+    },
+    {
+      "original": "Ditto for investors. What really motivates investors, even big VCs, is not the hope of good returns, but the fear of missing out. [6] So if you make it clear you're going to succeed no matter what, and the only reason you need them is to make it happen a little faster, you're much more likely to get money.You can't fake this.",
+      "translated": "对于投资者来说也是如此。真正驱使投资者，甚至是大型风险投资机构的，并不是对良好回报的希望，而是对错失机会的恐惧。[6] 因此，如果你能清楚地表明，无论怎样你都会成功，而唯一需要他们的地方只是为了让你的成功来得更快一些，那么你获得资金的可能性会大得多。这一点是无法假装的。"
+    },
+    {
+      "original": "The only way to convince everyone that you're ready to fight to the death is actually to be ready to.You have to be the right kind of determined, though. I carefully chose the word determined rather than stubborn, because stubbornness is a disastrous quality in a startup.",
+      "translated": "唯一能让所有人相信你已经准备好拼死一战的方法，就是你确实已经做好了准备。不过，你必须是正确类型的坚定。我仔细选择了“坚定”这个词，而不是“固执”，因为固执对于初创公司来说是一种灾难性的品质。"
+    },
+    {
+      "original": "You have to be determined, but flexible, like a running back. A successful running back doesn't just put his head down and try to run through people. He improvises: if someone appears in front of him, he runs around them; if someone tries to grab him, he spins out of their grip; he'll even run in the wrong direction briefly if that will help.",
+      "translated": "你必须坚定但灵活，就像一名跑卫。一名成功的跑卫不会只是埋头硬闯。他会即兴发挥：如果有人挡在他前面，他会绕过去；如果有人试图抓住他，他会扭身摆脱；即使短时间内向错误的方向跑动，如果有助于摆脱防守，他也会这样做。"
+    },
+    {
+      "original": "The one thing he'll never do is stand still. [7] 6. There Is Always Room.I was talking recently to a startup founder about whether it might be good to add a social component to their software. He said he didn't think so, because the whole social thing was tapped out.",
+      "translated": "他唯一不会做的事情就是停滞不前。[7] 6. 总有空间。我最近和一位初创公司的创始人讨论是否应该在他们的软件中添加社交功能。他说他不这么认为，因为整个社交领域已经没有发展空间了。"
+    },
+    {
+      "original": "Really? So in a hundred years the only social networking sites will be the Facebook, MySpace, Flickr, and Del.icio.us? Not likely.There is always room for new stuff. At every point in history, even the darkest bits of the dark ages, people were discovering things that made everyone say \"why didn't anyone think of that before?\" We know this continued to be true up till 2004, when the Facebook was founded-- though strictly speaking someone else did think of that.The reason we don't see the opportunities all around us is that we adjust to however things are, and assume that's how things have to be.",
+      "translated": "真的吗？所以再过一百年，唯一的社交网站就只有Facebook、MySpace、Flickr和Del.icio.us了吗？这不太可能。总有新事物的空间。在历史的每一个时刻，即使是中世纪最黑暗的时期，人们都在发现让所有人都说“为什么以前没人想到这个？”的东西。我们知道这种情况一直持续到2004年，Facebook成立的时候——尽管严格来说，之前确实有人想到了这一点。我们看不到周围的机会，是因为我们适应了现状，并假设事情就应该是这样的。"
+    },
+    {
+      "original": "For example, it would seem crazy to most people to try to make a better search engine than Google. Surely that field, at least, is tapped out. Really? In a hundred years-- or even twenty-- are people still going to search for information using something like the current Google?",
+      "translated": "例如，对大多数人来说，试图打造一个比谷歌更好的搜索引擎似乎是个疯狂的想法。当然，至少在那个领域已经没有潜力可挖了。真的吗？一百年后——甚至二十年后——人们还会使用像现在这样的谷歌来搜索信息吗？"
+    },
+    {
+      "original": "Even Google probably doesn't think that.In particular, I don't think there's any limit to the number of startups. Sometimes you hear people saying \"All these guys starting startups now are going to be disappointed.",
+      "translated": "就连谷歌可能也不这么认为。特别是，我不认为初创企业的数量有什么限制。有时候你会听到人们说：“现在这些开始创办初创企业的人最终都会失望的。”"
+    },
+    {
+      "original": "How many little startups are Google and Yahoo going to buy, after all?\" That sounds cleverly skeptical, but I can prove it's mistaken. No one proposes that there's some limit to the number of people who can be employed in an economy consisting of big, slow-moving companies with a couple thousand people each.",
+      "translated": "谷歌和雅虎究竟能买下多少小创业公司呢？”这听起来很聪明地表示了怀疑，但我可以证明这是错误的。没有人认为，在一个由几千人组成的大型、行动缓慢的公司构成的经济中，就业人数会有什么限制。"
+    },
+    {
+      "original": "Why should there be any limit to the number who could be employed by small, fast-moving companies with ten each? It seems to me the only limit would be the number of people who want to work that hard.The limit on the number of startups is not the number that can get acquired by Google and Yahoo-- though it seems even that should be unlimited, if the startups were actually worth buying-- but the amount of wealth that can be created.",
+      "translated": "为什么小公司，每个公司十个人，雇用的人数应该有任何限制呢？在我看来，唯一的限制应该是愿意如此努力工作的人数。初创公司的数量限制并不是能被谷歌和雅虎收购的数量——尽管似乎即使在这方面也应该没有限制，如果这些初创公司确实值得收购的话——而是能够创造的财富量。"
+    },
+    {
+      "original": "And I don't think there's any limit on that, except cosmological ones.So for all practical purposes, there is no limit to the number of startups. Startups make wealth, which means they make things people want, and if there's a limit on the number of things people want, we are nowhere near it.",
+      "translated": "我认为在这方面没有任何限制，除非是宇宙学上的限制。所以实际上，初创企业的数量是没有上限的。初创企业创造财富，这意味着它们生产人们想要的产品，而如果人们对产品的需求存在上限的话，我们现在还远未达到那个点。"
+    },
+    {
+      "original": "I still don't even have a flying car. 7. Don't Get Your Hopes Up.This is another one I've been repeating since long before Y Combinator. It was practically the corporate motto at Viaweb.Startup founders are naturally optimistic.",
+      "translated": "我甚至还没有一辆会飞的车。7. 不要过于乐观。这是我从很久以前，甚至在 Y Combinator 之前就开始反复说的一句话。在 Viaweb 几乎就是公司的座右铭。初创公司的创始人天生就是乐观的。"
+    },
+    {
+      "original": "They wouldn't do it otherwise. But you should treat your optimism the way you'd treat the core of a nuclear reactor: as a source of power that's also very dangerous. You have to build a shield around it, or it will fry you.The shielding of a reactor is not uniform; the reactor would be useless if it were.",
+      "translated": "否则他们不会这么做。但你应该像对待核反应堆的核心一样对待你的乐观：它是一个能量来源，同时也非常危险。你必须围绕它建立一个屏蔽，否则它会烧毁你。反应堆的屏蔽不是均匀的；如果屏蔽是均匀的，反应堆就无法发挥作用。"
+    },
+    {
+      "original": "It's pierced in a few places to let pipes in. An optimism shield has to be pierced too. I think the place to draw the line is between what you expect of yourself, and what you expect of other people.",
+      "translated": "它在几个地方被打孔以便管道通过。乐观的盾牌也需要被打几个孔。我认为，划线的地方应该是在你对自己的期望和对别人的期望之间。"
+    },
+    {
+      "original": "It's ok to be optimistic about what you can do, but assume the worst about machines and other people.This is particularly necessary in a startup, because you tend to be pushing the limits of whatever you're doing.",
+      "translated": "对自己能做的事情保持乐观是好的，但对机器和其他人要假设最坏的情况。这在创业公司尤其必要，因为你往往在推动你所做事情的极限。"
+    },
+    {
+      "original": "So things don't happen in the smooth, predictable way they do in the rest of the world. Things change suddenly, and usually for the worse.Shielding your optimism is nowhere more important than with deals.",
+      "translated": "所以事情并不会像世界上其他地方那样顺利、可预测地发生。事情会突然发生变化，而且通常是变得更糟。保护你的乐观态度在处理交易时尤为重要。"
+    },
+    {
+      "original": "If your startup is doing a deal, just assume it's not going to happen. The VCs who say they're going to invest in you aren't. The company that says they're going to buy you isn't. The big customer who wants to use your system in their whole company won't.",
+      "translated": "如果你的初创公司在进行一笔交易，就假设它不会发生。那些说要投资你们的风险投资家不会投资。说要收购你们的公司不会收购。想要在整个公司使用你们系统的大型客户也不会使用。"
+    },
+    {
+      "original": "Then if things work out you can be pleasantly surprised.The reason I warn startups not to get their hopes up is not to save them from being disappointed when things fall through. It's for a more practical reason: to prevent them from leaning their company against something that's going to fall over, taking them with it.For example, if someone says they want to invest in you, there's a natural tendency to stop looking for other investors.",
+      "translated": "如果事情进展顺利，你会感到惊喜。我警告初创公司不要抱有过高的期望，并不是为了在事情不顺利时保护他们免受失望。而是出于一个更为实际的原因：防止他们将自己的公司倚靠在即将倒塌的东西上，把自己也带倒。例如，如果有人说想投资你，你自然会倾向于停止寻找其他投资者。"
+    },
+    {
+      "original": "That's why people proposing deals seem so positive: they want you to stop looking. And you want to stop too, because doing deals is a pain. Raising money, in particular, is a huge time sink. So you have to consciously force yourself to keep looking.Even if you ultimately do the first deal, it will be to your advantage to have kept looking, because you'll get better terms.",
+      "translated": "这就是为什么提出交易的人显得如此积极：他们希望你停止寻找。而你也想停止，因为做交易是一件麻烦事。特别是筹集资金，会占用大量的时间。所以你必须有意识地强迫自己继续寻找。即使最终你还是选择了第一个交易，但继续寻找对你有利，因为你会获得更好的条款。"
+    },
+    {
+      "original": "Deals are dynamic; unless you're negotiating with someone unusually honest, there's not a single point where you shake hands and the deal's done. There are usually a lot of subsidiary questions to be cleared up after the handshake, and if the other side senses weakness-- if they sense you need this deal-- they will be very tempted to screw you in the details.VCs and corp dev guys are professional negotiators.",
+      "translated": "交易是动态的；除非你与一个异常诚信的人谈判，否则没有一个时间点是握手后交易就算完成的。通常在握手之后还有很多附属问题需要解决，如果对方感觉到你的弱点——如果你表现出需要这笔交易——他们就会非常倾向于在细节上坑你。风险投资家和企业发展的专业人士都是职业谈判者。"
+    },
+    {
+      "original": "They're trained to take advantage of weakness. [8] So while they're often nice guys, they just can't help it. And as pros they do this more than you. So don't even try to bluff them. The only way a startup can have any leverage in a deal is genuinely not to need it.",
+      "translated": "他们受过利用弱点的训练。[8] 所以虽然他们通常很友善，但就是无法控制自己。作为专业人士，他们在这方面比你更胜一筹。所以不要试图虚张声势。初创公司在交易中唯一能有筹码的方式就是真正不需要这笔交易。"
+    },
+    {
+      "original": "And if you don't believe in a deal, you'll be less likely to depend on it.So I want to plant a hypnotic suggestion in your heads: when you hear someone say the words \"we want to invest in you\" or \"we want to acquire you,\" I want the following phrase to appear automatically in your head: don't get your hopes up.",
+      "translated": "如果你对某个交易没有信心，你就不太可能依赖它。所以我想在你们的脑海中植入一个催眠暗示：当你们听到有人说“我们想投资你”或“我们想收购你”时，我希望以下这句话能自动出现在你们的脑海中：不要抱太大的希望。"
+    },
+    {
+      "original": "Just continue running your company as if this deal didn't exist. Nothing is more likely to make it close.The way to succeed in a startup is to focus on the goal of getting lots of users, and keep walking swiftly toward it while investors and acquirers scurry alongside trying to wave money in your face.",
+      "translated": "就像这笔交易不存在一样继续经营你的公司。没有什么比这更有可能促成交易了。创业成功的方式是专注于获得大量用户的目标，并坚定地朝着这个目标前进，而投资者和收购方则会在一旁忙碌地试图向你展示资金。"
+    },
+    {
+      "original": "Speed, not MoneyThe way I've described it, starting a startup sounds pretty stressful. It is. When I talk to the founders of the companies we've funded, they all say the same thing: I knew it would be hard, but I didn't realize it would be this hard.So why do it?",
+      "translated": "速度，而非金钱\n\n我描述的方式，创办一家初创公司听起来相当有压力。确实如此。当我与我们资助的公司创始人交谈时，他们都说同样的话：我知道这会很难，但没想到会这么难。\n\n那么，为什么还要这样做呢？"
+    },
+    {
+      "original": "It would be worth enduring a lot of pain and stress to do something grand or heroic, but just to make money? Is making money really that important?No, not really. It seems ridiculous to me when people take business too seriously.",
+      "translated": "忍受大量的痛苦和压力去做一些宏伟或英雄事迹是值得的，但只是为了赚钱？赚钱真的那么重要吗？不，其实不是。人们把生意看得太认真，这在我看来是荒谬的。"
+    },
+    {
+      "original": "I regard making money as a boring errand to be got out of the way as soon as possible. There is nothing grand or heroic about starting a startup per se.So why do I spend so much time thinking about startups?",
+      "translated": "我认为赚钱是一件乏味的差事，越快完成越好。单纯地创办一家初创公司本身并没有什么伟大或英雄的地方。那么，我为什么还要花这么多时间思考初创公司呢？"
+    },
+    {
+      "original": "I'll tell you why. Economically, a startup is best seen not as a way to get rich, but as a way to work faster. You have to make a living, and a startup is a way to get that done quickly, instead of letting it drag on through your whole life.",
+      "translated": "我来告诉你原因。从经济角度来看，创业公司最好的定位不是一条致富的路径，而是一种加速工作的方式。你必须谋生，而创业公司是一种迅速实现这一目标的方法，而不是让这一过程拖延你的一生。"
+    },
+    {
+      "original": "[9]We take it for granted most of the time, but human life is fairly miraculous. It is also palpably short. You're given this marvellous thing, and then poof, it's taken away. You can see why people invent gods to explain it.",
+      "translated": "我们大多数时候都习以为常，但人类的生命确实是相当神奇的。生命也是明显地短暂。你得到了这奇妙的一切，然后砰的一声，它就消失了。你能够理解为什么人们会创造神来解释这一切。"
+    },
+    {
+      "original": "But even to people who don't believe in gods, life commands respect. There are times in most of our lives when the days go by in a blur, and almost everyone has a sense, when this happens, of wasting something precious.",
+      "translated": "但即使是那些不相信神的人，也会对生命怀有敬畏之心。在我们大多数人的生活中，有时日子会过得模糊不清，几乎每个人在这种时候都会有种虚度了宝贵时光的感觉。"
+    },
+    {
+      "original": "As Ben Franklin said, if you love life, don't waste time, because time is what life is made of.So no, there's nothing particularly grand about making money. That's not what makes startups worth the trouble.",
+      "translated": "正如本杰明·富兰克林所说，如果你热爱生命，就不要浪费时间，因为时间是生命所由之构成的。所以，不，赚钱并没有什么特别伟大的地方。这并不是让创业值得付出的原因。"
+    },
+    {
+      "original": "What's important about startups is the speed. By compressing the dull but necessary task of making a living into the smallest possible time, you show respect for life, and there is something grand about that.Notes[1] Startups can die from releasing something full of bugs, and not fixing them fast enough, but I don't know of any that died from releasing something stable but minimal very early, then promptly improving it.[2] I know this is why I haven't released Arc.",
+      "translated": "创业公司最重要的是速度。通过将维持生计这一必要但枯燥的任务压缩到最短的时间内，你表现出对生活的尊重，这当中有种崇高的意味。[1] 创业公司可能因为发布了一个满是bug的产品并且未能及时修复而死亡，但我从未听说过有哪家创业公司因为过早地发布了一个稳定但功能最少的产品，然后迅速改进而死亡。[2] 我知道这就是为什么我还没有发布Arc的原因。"
+    },
+    {
+      "original": "The moment I do, I'll have people nagging me for features.[3] A web site is different from a book or movie or desktop application in this respect. Users judge a site not as a single snapshot, but as an animation with multiple frames.",
+      "translated": "我一这么做，就会有人催着我要新功能。[3] 在这一点上，网站与书籍、电影或桌面应用程序不同。用户对网站的评价不是基于某个单一的时间点，而是像一个多帧的动画。"
+    },
+    {
+      "original": "Of the two, I'd say the rate of improvement is more important to users than where you currently are.[4] It should not always tell this to users, however. For example, MySpace is basically a replacement mall for mallrats.",
+      "translated": "在这两者中，我认为改进的速度对用户来说比你目前所处的位置更为重要。然而，这并不总是要告诉用户。例如，MySpace基本上是为“商场老鼠”提供的替代场所。"
+    },
+    {
+      "original": "But it was wiser for them, initially, to pretend that the site was about bands.[5] Similarly, don't make users register to try your site. Maybe what you have is so valuable that visitors should gladly register to get at it.",
+      "translated": "但起初，他们更明智的做法是假装这个网站是关于乐队的。[5] 同样，不要让用户注册才能尝试你的网站。也许你所提供的东西非常有价值，以至于访客会乐意注册以获取它。"
+    },
+    {
+      "original": "But they've been trained to expect the opposite. Most of the things they've tried on the web have sucked-- and probably especially those that made them register.[6] VCs have rational reasons for behaving this way.",
+      "translated": "但他们已经被训练成期待相反的结果。他们在网络上尝试的大多数事情都不怎么样——尤其是在那些需要他们注册的服务上。风险投资家们有合理的理由以这种方式行事。"
+    },
+    {
+      "original": "They don't make their money (if they make money) off their median investments. In a typical fund, half the companies fail, most of the rest generate mediocre returns, and one or two \"make the fund\" by succeeding spectacularly.",
+      "translated": "他们并不会从其投资组合中的中位数投资中赚钱（如果他们真的赚钱的话）。在一个典型的基金中，一半的公司会失败，剩下的大多数公司只会产生平庸的回报，而一两个公司则会通过取得巨大成功来“拯救基金”。"
+    },
+    {
+      "original": "So if they miss just a few of the most promising opportunities, it could hose the whole fund.[7] The attitude of a running back doesn't translate to soccer. Though it looks great when a forward dribbles past multiple defenders, a player who persists in trying such things will do worse in the long term than one who passes.[8] The reason Y Combinator never negotiates valuations is that we're not professional negotiators, and don't want to turn into them.[9] There are two ways to do work you love: (a) to make money, then work on what you love, or (b) to get a job where you get paid to work on stuff you love.",
+      "translated": "所以，如果他们错过了几个最有前景的机会，整个基金都可能受到影响。[7] 橄榄球跑卫的态度并不适用于足球。尽管当一名前锋过掉多名防守球员时看起来很精彩，但一个坚持这样做的人从长远来看，表现会比那些传球的人更差。[8] Y Combinator 从不谈判估值的原因是我们不是专业的谈判者，也不想变成那样的人。[9] 有两种方式可以做你热爱的工作：(a) 先赚钱，然后再去做你热爱的事情，或者 (b) 找一份能够支付你去做你热爱的事情的工作。"
+    },
+    {
+      "original": "In practice the first phases of both consist mostly of unedifying schleps, and in (b) the second phase is less secure.Thanks to Sam Altman, Trevor Blackwell, Beau Hartshorne, Jessica Livingston, and Robert Morris for reading drafts of this.Romanian TranslationRussian TranslationFrench TranslationJapanese Translation",
+      "translated": "实际上，两者的初期阶段大多都是不那么令人愉快的艰辛过程，而（b）的第二阶段则安全性更低。感谢 Sam Altman、Trevor Blackwell、Beau Hartshorne、Jessica Livingston 和 Robert Morris 阅读本文草稿。罗马尼亚语翻译俄语翻译法语翻译日语翻译"
+    }
+  ],
+  "translation_completed": "2025-07-29T01:24:30.641815",
+  "translation_stats": {
+    "total_paragraphs": 92,
+    "success_count": 92,
+    "success_rate": "100.0%"
+  }
+}

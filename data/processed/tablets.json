@@ -1,0 +1,79 @@
+{
+  "title": "Tablets",
+  "title_zh": "[待翻译] Tablets",
+  "url": "https://www.paulgraham.com/tablets.html",
+  "filename": "tablets.html",
+  "date": "2010-12-01",
+  "id": 139,
+  "content": {
+    "success": true,
+    "paragraphs": [
+      "December 2010I was thinking recently how inconvenient it was not to have a general term for iPhones, iPads, and the corresponding things running Android. The closest to a general term seems to be \"mobile devices,\" but that (a) applies to any mobile phone, and (b) doesn't really capture what's distinctive about the iPad.After a few seconds it struck me that what we'll end up calling these things is tablets.",
+      "The only reason we even consider calling them \"mobile devices\" is that the iPhone preceded the iPad. If the iPad had come first, we wouldn't think of the iPhone as a phone; we'd think of it as a tablet small enough to hold up to your ear.The iPhone isn't so much a phone as a replacement for a phone.",
+      "That's an important distinction, because it's an early instance of what will become a common pattern. Many if not most of the special-purpose objects around us are going to be replaced by apps running on tablets.This is already clear in cases like GPSes, music players, and cameras.",
+      "But I think it will surprise people how many things are going to get replaced. We funded one startup that's replacing keys. The fact that you can change font sizes easily means the iPad effectively replaces reading glasses.",
+      "I wouldn't be surprised if by playing some clever tricks with the accelerometer you could even replace the bathroom scale.The advantages of doing things in software on a single device are so great that everything that can get turned into software will.",
+      "So for the next couple years, a good recipe for startups will be to look around you for things that people haven't realized yet can be made unnecessary by a tablet app.In 1938 Buckminster Fuller coined the term ephemeralization to describe the increasing tendency of physical machinery to be replaced by what we would now call software.",
+      "The reason tablets are going to take over the world is not (just) that Steve Jobs and Co are industrial design wizards, but because they have this force behind them. The iPhone and the iPad have effectively drilled a hole that will allow ephemeralization to flow into a lot of new areas.",
+      "No one who has studied the history of technology would want to underestimate the power of that force.I worry about the power Apple could have with this force behind them. I don't want to see another era of client monoculture like the Microsoft one in the 80s and 90s.",
+      "But if ephemeralization is one of the main forces driving the spread of tablets, that suggests a way to compete with Apple: be a better platform for it.It has turned out to be a great thing that Apple tablets have accelerometers in them.",
+      "Developers have used the accelerometer in ways Apple could never have imagined. That's the nature of platforms. The more versatile the tool, the less you can predict how people will use it. So tablet makers should be thinking: what else can we put in there?",
+      "Not merely hardware, but software too. What else can we give developers access to? Give hackers an inch and they'll take you a mile. Thanks to Sam Altman, Paul Buchheit, Jessica Livingston, and Robert Morris for reading drafts of this."
+    ],
+    "word_count": 541,
+    "paragraph_count": 11
+  },
+  "processed_at": "2025-07-26T19:05:54.277688",
+  "paragraphs": [
+    {
+      "original": "December 2010I was thinking recently how inconvenient it was not to have a general term for iPhones, iPads, and the corresponding things running Android. The closest to a general term seems to be \"mobile devices,\" but that (a) applies to any mobile phone, and (b) doesn't really capture what's distinctive about the iPad.After a few seconds it struck me that what we'll end up calling these things is tablets.",
+      "translated": "2010年12月，我最近在想，没有一个通用术语来指代iPhone、iPad以及运行Android的相应设备是多么不便。最接近的通用术语似乎是“移动设备”，但这个词（a）适用于任何手机，（b）并未真正体现出iPad的独特之处。几秒钟后，我意识到，最终我们会将这些设备称为平板电脑。"
+    },
+    {
+      "original": "The only reason we even consider calling them \"mobile devices\" is that the iPhone preceded the iPad. If the iPad had come first, we wouldn't think of the iPhone as a phone; we'd think of it as a tablet small enough to hold up to your ear.The iPhone isn't so much a phone as a replacement for a phone.",
+      "translated": "我们之所以称它们为“移动设备”，唯一的原因是iPhone先于iPad出现。如果iPad先问世，我们就不会把iPhone看作是一部电话，而会认为它是一部可以贴近耳朵的小型平板。iPhone与其说是一部电话，不如说是一部电话的替代品。"
+    },
+    {
+      "original": "That's an important distinction, because it's an early instance of what will become a common pattern. Many if not most of the special-purpose objects around us are going to be replaced by apps running on tablets.This is already clear in cases like GPSes, music players, and cameras.",
+      "translated": "这是一个重要的区别，因为它是一个早期的例子，预示着将变得常见的模式。我们周围的许多专用对象将被运行在平板电脑上的应用程序所取代。这已经在诸如GPS、音乐播放器和相机等设备上表现得很明显。"
+    },
+    {
+      "original": "But I think it will surprise people how many things are going to get replaced. We funded one startup that's replacing keys. The fact that you can change font sizes easily means the iPad effectively replaces reading glasses.",
+      "translated": "但我认为，人们会惊讶于有多少东西将被取代。我们资助了一家初创公司，他们正在用新技术取代钥匙。由于可以轻松调整字体大小，iPad 实际上已经取代了老花镜。"
+    },
+    {
+      "original": "I wouldn't be surprised if by playing some clever tricks with the accelerometer you could even replace the bathroom scale.The advantages of doing things in software on a single device are so great that everything that can get turned into software will.",
+      "translated": "我不会感到惊讶，通过巧妙地利用加速度计，甚至可以替代浴室秤。在单个设备上通过软件完成任务的优势如此之大，以至于所有能转化为软件的东西最终都会被转化为软件。"
+    },
+    {
+      "original": "So for the next couple years, a good recipe for startups will be to look around you for things that people haven't realized yet can be made unnecessary by a tablet app.In 1938 Buckminster Fuller coined the term ephemeralization to describe the increasing tendency of physical machinery to be replaced by what we would now call software.",
+      "translated": "所以在接下来的几年里，初创企业的良方将是环顾四周，寻找人们尚未意识到可以通过平板应用程序使其变得不必要的事物。1938年，巴克敏斯特·富勒创造了“非物质化”一词，用来描述物理机械日益被我们如今称为软件的东西所取代的趋势。"
+    },
+    {
+      "original": "The reason tablets are going to take over the world is not (just) that Steve Jobs and Co are industrial design wizards, but because they have this force behind them. The iPhone and the iPad have effectively drilled a hole that will allow ephemeralization to flow into a lot of new areas.",
+      "translated": "平板电脑之所以能够风靡全球，不仅仅是因为史蒂夫·乔布斯及其团队是工业设计的奇才，还因为它们背后有着一股强大的力量。iPhone 和 iPad 已经有效地打开了一个缺口，使得这种趋势能够流向许多新的领域。"
+    },
+    {
+      "original": "No one who has studied the history of technology would want to underestimate the power of that force.I worry about the power Apple could have with this force behind them. I don't want to see another era of client monoculture like the Microsoft one in the 80s and 90s.",
+      "translated": "任何研究过技术历史的人都不会低估这股力量的威力。我担心苹果在这股力量的推动下会拥有巨大的权力。我不想再看到像80年代和90年代微软那样的客户端单一文化时代。"
+    },
+    {
+      "original": "But if ephemeralization is one of the main forces driving the spread of tablets, that suggests a way to compete with Apple: be a better platform for it.It has turned out to be a great thing that Apple tablets have accelerometers in them.",
+      "translated": "但如果瞬时化是推动平板电脑普及的主要力量之一，这暗示了一种与苹果竞争的方式：成为更好的瞬时化平台。事实证明，苹果平板电脑内置加速度计是一个非常好的设计。"
+    },
+    {
+      "original": "Developers have used the accelerometer in ways Apple could never have imagined. That's the nature of platforms. The more versatile the tool, the less you can predict how people will use it. So tablet makers should be thinking: what else can we put in there?",
+      "translated": "开发人员以苹果公司从未设想的方式使用了加速度计。这就是平台的特性。工具越多功能，就越难以预测人们会如何使用它。因此，平板电脑制造商应该思考：我们还能在里面加入些什么？"
+    },
+    {
+      "original": "Not merely hardware, but software too. What else can we give developers access to? Give hackers an inch and they'll take you a mile. Thanks to Sam Altman, Paul Buchheit, Jessica Livingston, and Robert Morris for reading drafts of this.",
+      "translated": "不仅仅是硬件，还有软件。我们还能给开发者提供些什么？给黑客一点机会，他们就会走得更远。感谢Sam Altman、Paul Buchheit、Jessica Livingston和Robert Morris审阅本文草稿。"
+    }
+  ],
+  "translation_completed": "2025-07-27T12:52:01.932564",
+  "translation_stats": {
+    "total_paragraphs": 11,
+    "success_count": 11,
+    "success_rate": "100.0%"
+  }
+}

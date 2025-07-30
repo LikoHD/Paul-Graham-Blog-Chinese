@@ -1,0 +1,104 @@
+{
+  "title": "The Patent Pledge",
+  "title_zh": "[待翻译] The Patent Pledge",
+  "url": "https://www.paulgraham.com/patentpledge.html",
+  "filename": "patentpledge.html",
+  "date": "2011-08-01",
+  "id": 137,
+  "content": {
+    "success": true,
+    "paragraphs": [
+      "August 2011I realized recently that we may be able to solve part of the patent problem without waiting for the government.I've never been 100% sure whether patents help or hinder technological progress.",
+      "When I was a kid I thought they helped. I thought they protected inventors from having their ideas stolen by big companies. Maybe that was truer in the past, when more things were physical. But regardless of whether patents are in general a good thing, there do seem to be bad ways of using them.",
+      "And since bad uses of patents seem to be increasing, there is an increasing call for patent reform.The problem with patent reform is that it has to go through the government. That tends to be slow. But recently I realized we can also attack the problem downstream.",
+      "As well as pinching off the stream of patents at the point where they're issued, we may in some cases be able to pinch it off at the point where they're used.One way of using patents that clearly does not encourage innovation is when established companies with bad products use patents to suppress small competitors with good products.",
+      "This is the type of abuse we may be able to decrease without having to go through the government.The way to do it is to get the companies that are above pulling this sort of trick to pledge publicly not to.",
+      "Then the ones that won't make such a pledge will be very conspicuous. Potential employees won't want to work for them. And investors, too, will be able to see that they're the sort of company that competes by litigation rather than by making good products.Here's the pledge: No first use of software patents against companies with less than 25 people.",
+      "I've deliberately traded precision for brevity. The patent pledge is not legally binding. It's like Google's \"Don't be evil.\" They don't define what evil is, but by publicly saying that, they're saying they're willing to be held to a standard that, say, Altria is not.",
+      "And though constraining, \"Don't be evil\" has been good for Google. Technology companies win by attracting the most productive people, and the most productive people are attracted to employers who hold themselves to a higher standard than the law requires.",
+      "[1]The patent pledge is in effect a narrower but open source \"Don't be evil.\" I encourage every technology company to adopt it. If you want to help fix patents, encourage your employer to.Already most technology companies wouldn't sink to using patents on startups.",
+      "You don't see Google or Facebook suing startups for patent infringement. They don't need to. So for the better technology companies, the patent pledge requires no change in behavior. They're just promising to do what they'd do anyway.",
+      "And when all the companies that won't use patents on startups have said so, the holdouts will be very conspicuous.The patent pledge doesn't fix every problem with patents. It won't stop patent trolls, for example; they're already pariahs.",
+      "But the problem the patent pledge does fix may be more serious than the problem of patent trolls. Patent trolls are just parasites. A clumsy parasite may occasionally kill the host, but that's not its goal.",
+      "Whereas companies that sue startups for patent infringement generally do it with explicit goal of keeping their product off the market.Companies that use patents on startups are attacking innovation at the root.",
+      "Now there's something any individual can do about this problem, without waiting for the government: ask companies where they stand. Patent Pledge Site Notes:[1] Because the pledge is deliberately vague, we're going to need common sense when intepreting it.",
+      "And even more vice versa: the pledge is vague in order to make people use common sense when interpreting it.So for example I've deliberately avoided saying whether the 25 people have to be employees, or whether contractors count too.",
+      "If a company has to split hairs that fine about whether a suit would violate the patent pledge, it's probably still a dick move.The Investment That Didn't Happen"
+    ],
+    "word_count": 671,
+    "paragraph_count": 16
+  },
+  "processed_at": "2025-07-26T19:05:51.118969",
+  "paragraphs": [
+    {
+      "original": "August 2011I realized recently that we may be able to solve part of the patent problem without waiting for the government.I've never been 100% sure whether patents help or hinder technological progress.",
+      "translated": "2011年8月，我最近意识到，我们可能无需等待政府就能解决部分专利问题。我从未完全确定专利是促进还是阻碍技术进步。"
+    },
+    {
+      "original": "When I was a kid I thought they helped. I thought they protected inventors from having their ideas stolen by big companies. Maybe that was truer in the past, when more things were physical. But regardless of whether patents are in general a good thing, there do seem to be bad ways of using them.",
+      "translated": "当我还是个孩子的时候，我以为专利是有帮助的。我以为它们能保护发明者免受大公司窃取他们的想法。或许在过去，当更多的东西是实体的时候，这一观点更为真实。但无论专利总体上是否是件好事，似乎确实存在滥用专利的情况。"
+    },
+    {
+      "original": "And since bad uses of patents seem to be increasing, there is an increasing call for patent reform.The problem with patent reform is that it has to go through the government. That tends to be slow. But recently I realized we can also attack the problem downstream.",
+      "translated": "由于专利的不当使用似乎在增加，因此对于专利改革的呼声也越来越高。专利改革的问题在于它需要通过政府来实现，而这个过程往往很缓慢。但最近我意识到，我们也可以从下游来解决这个问题。"
+    },
+    {
+      "original": "As well as pinching off the stream of patents at the point where they're issued, we may in some cases be able to pinch it off at the point where they're used.One way of using patents that clearly does not encourage innovation is when established companies with bad products use patents to suppress small competitors with good products.",
+      "translated": "除了在专利发放时掐断专利流，我们有时还可以在专利使用时掐断它。一种明显不会鼓励创新的专利使用方式是，当那些产品糟糕的成熟公司利用专利来压制拥有好产品的新兴竞争对手。"
+    },
+    {
+      "original": "This is the type of abuse we may be able to decrease without having to go through the government.The way to do it is to get the companies that are above pulling this sort of trick to pledge publicly not to.",
+      "translated": "这种滥用行为我们可能无需通过政府就能减少。方法是让那些从事此类行为的公司公开承诺不再这样做。"
+    },
+    {
+      "original": "Then the ones that won't make such a pledge will be very conspicuous. Potential employees won't want to work for them. And investors, too, will be able to see that they're the sort of company that competes by litigation rather than by making good products.Here's the pledge: No first use of software patents against companies with less than 25 people.",
+      "translated": "那么，那些不愿意做出此类承诺的公司就会显得非常突出。潜在的员工不会愿意为它们工作。投资者也能看出，它们是那种通过诉讼而非制造优质产品来竞争的公司。承诺如下：不对员工人数少于25人的公司首先使用软件专利。"
+    },
+    {
+      "original": "I've deliberately traded precision for brevity. The patent pledge is not legally binding. It's like Google's \"Don't be evil.\" They don't define what evil is, but by publicly saying that, they're saying they're willing to be held to a standard that, say, Altria is not.",
+      "translated": "我有意牺牲了精确性以求简洁。专利承诺并不具有法律约束力。这就像谷歌的“不作恶”口号。他们并没有定义什么是恶，但通过公开声明这一点，他们表示愿意接受一种标准的约束，而类似奥驰亚这样的公司则不受这种标准的约束。"
+    },
+    {
+      "original": "And though constraining, \"Don't be evil\" has been good for Google. Technology companies win by attracting the most productive people, and the most productive people are attracted to employers who hold themselves to a higher standard than the law requires.",
+      "translated": "尽管“不作恶”这一原则具有约束性，但对谷歌来说却是有益的。科技公司通过吸引最优秀的人才而获得成功，而最优秀的人才往往被那些对自己提出比法律更高的要求的雇主所吸引。"
+    },
+    {
+      "original": "[1]The patent pledge is in effect a narrower but open source \"Don't be evil.\" I encourage every technology company to adopt it. If you want to help fix patents, encourage your employer to.Already most technology companies wouldn't sink to using patents on startups.",
+      "translated": "[1]专利质押实际上是一种更为狭窄但开放来源的“不作恶”原则。我鼓励每一家科技公司采纳这一原则。如果你想帮助改进专利制度，就鼓励你的雇主这样做。大多数科技公司其实不会卑劣到用专利来针对初创企业。"
+    },
+    {
+      "original": "You don't see Google or Facebook suing startups for patent infringement. They don't need to. So for the better technology companies, the patent pledge requires no change in behavior. They're just promising to do what they'd do anyway.",
+      "translated": "你不会看到谷歌或脸书因为专利侵权而起诉初创公司。它们不需要这样做。因此，对于更好的科技公司来说，专利承诺并不需要改变其行为。它们只是承诺会做本来就会做的事情。"
+    },
+    {
+      "original": "And when all the companies that won't use patents on startups have said so, the holdouts will be very conspicuous.The patent pledge doesn't fix every problem with patents. It won't stop patent trolls, for example; they're already pariahs.",
+      "translated": "当所有表示不会对初创公司使用专利的公司都表态后，那些拒绝表态的公司就会非常显眼。专利承诺并不能解决专利制度的所有问题，例如，它无法阻止专利流氓；这些人已经是人人喊打的对象了。"
+    },
+    {
+      "original": "But the problem the patent pledge does fix may be more serious than the problem of patent trolls. Patent trolls are just parasites. A clumsy parasite may occasionally kill the host, but that's not its goal.",
+      "translated": "但专利质押所解决的问题可能比专利流氓问题更为严重。专利流氓只不过是寄生虫。笨拙的寄生虫偶尔可能会杀死宿主，但这并不是它的目的。"
+    },
+    {
+      "original": "Whereas companies that sue startups for patent infringement generally do it with explicit goal of keeping their product off the market.Companies that use patents on startups are attacking innovation at the root.",
+      "translated": "而那些起诉初创企业专利侵权的公司，通常是为了明确地阻止其产品进入市场。使用专利来针对初创企业的公司是在扼杀创新的根源。"
+    },
+    {
+      "original": "Now there's something any individual can do about this problem, without waiting for the government: ask companies where they stand. Patent Pledge Site Notes:[1] Because the pledge is deliberately vague, we're going to need common sense when intepreting it.",
+      "translated": "现在，每个人都可以在不等待政府的情况下采取行动：询问公司它们的立场。专利承诺网站说明：[1] 由于承诺故意含糊，我们在解释时需要运用常识。"
+    },
+    {
+      "original": "And even more vice versa: the pledge is vague in order to make people use common sense when interpreting it.So for example I've deliberately avoided saying whether the 25 people have to be employees, or whether contractors count too.",
+      "translated": "而且，反过来说，誓言是模糊的，目的是让人们在解释时运用常识。因此，例如，我故意没有说明这25人是否必须是员工，或者合同工是否也算在内。"
+    },
+    {
+      "original": "If a company has to split hairs that fine about whether a suit would violate the patent pledge, it's probably still a dick move.The Investment That Didn't Happen",
+      "translated": "如果一家公司对于是否违反专利承诺的问题还要如此斤斤计较，那这大概率还是个不地道的行为。没能实现的投资"
+    }
+  ],
+  "translation_completed": "2025-07-28T13:53:12.083409",
+  "translation_stats": {
+    "total_paragraphs": 16,
+    "success_count": 16,
+    "success_rate": "100.0%"
+  }
+}

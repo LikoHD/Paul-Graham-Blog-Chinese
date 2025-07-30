@@ -1,0 +1,414 @@
+{
+  "title": "Ideas for Startups",
+  "title_zh": "[待翻译] Ideas for Startups",
+  "url": "https://www.paulgraham.com/ideas.html",
+  "filename": "ideas.html",
+  "date": "2005-10-01",
+  "id": 199,
+  "content": {
+    "success": true,
+    "paragraphs": [
+      "Want to start a startup? Get funded by Y Combinator. October 2005(This essay is derived from a talk at the 2005 Startup School.)How do you get good ideas for startups? That's probably the number one question people ask me.I'd like to reply with another question: why do people think it's hard to come up with ideas for startups?That might seem a stupid thing to ask.",
+      "Why do they think it's hard? If people can't do it, then it is hard, at least for them. Right?Well, maybe not. What people usually say is not that they can't think of ideas, but that they don't have any.",
+      "That's not quite the same thing. It could be the reason they don't have any is that they haven't tried to generate them.I think this is often the case. I think people believe that coming up with ideas for startups is very hard-- that it must be very hard-- and so they don't try do to it.",
+      "They assume ideas are like miracles: they either pop into your head or they don't.I also have a theory about why people think this. They overvalue ideas. They think creating a startup is just a matter of implementing some fabulous initial idea.",
+      "And since a successful startup is worth millions of dollars, a good idea is therefore a million dollar idea.If coming up with an idea for a startup equals coming up with a million dollar idea, then of course it's going to seem hard.",
+      "Too hard to bother trying. Our instincts tell us something so valuable would not be just lying around for anyone to discover.Actually, startup ideas are not million dollar ideas, and here's an experiment you can try to prove it: just try to sell one.",
+      "Nothing evolves faster than markets. The fact that there's no market for startup ideas suggests there's no demand. Which means, in the narrow sense of the word, that startup ideas are worthless.QuestionsThe fact is, most startups end up nothing like the initial idea.",
+      "It would be closer to the truth to say the main value of your initial idea is that, in the process of discovering it's broken, you'll come up with your real idea.The initial idea is just a starting point-- not a blueprint, but a question.",
+      "It might help if they were expressed that way. Instead of saying that your idea is to make a collaborative, web-based spreadsheet, say: could one make a collaborative, web-based spreadsheet? A few grammatical tweaks, and a woefully incomplete idea becomes a promising question to explore.There's a real difference, because an assertion provokes objections in a way a question doesn't.",
+      "If you say: I'm going to build a web-based spreadsheet, then critics-- the most dangerous of which are in your own head-- will immediately reply that you'd be competing with Microsoft, that you couldn't give people the kind of UI they expect, that users wouldn't want to have their data on your servers, and so on.A question doesn't seem so challenging.",
+      "It becomes: let's try making a web-based spreadsheet and see how far we get. And everyone knows that if you tried this you'd be able to make something useful. Maybe what you'd end up with wouldn't even be a spreadsheet.",
+      "Maybe it would be some kind of new spreadsheet-like collaboration tool that doesn't even have a name yet. You wouldn't have thought of something like that except by implementing your way toward it.Treating a startup idea as a question changes what you're looking for.",
+      "If an idea is a blueprint, it has to be right. But if it's a question, it can be wrong, so long as it's wrong in a way that leads to more ideas.One valuable way for an idea to be wrong is to be only a partial solution.",
+      "When someone's working on a problem that seems too big, I always ask: is there some way to bite off some subset of the problem, then gradually expand from there? That will generally work unless you get trapped on a local maximum, like 1980s-style AI, or C.UpwindSo far, we've reduced the problem from thinking of a million dollar idea to thinking of a mistaken question.",
+      "That doesn't seem so hard, does it?To generate such questions you need two things: to be familiar with promising new technologies, and to have the right kind of friends. New technologies are the ingredients startup ideas are made of, and conversations with friends are the kitchen they're cooked in.Universities have both, and that's why so many startups grow out of them.",
+      "They're filled with new technologies, because they're trying to produce research, and only things that are new count as research. And they're full of exactly the right kind of people to have ideas with: the other students, who will be not only smart but elastic-minded to a fault.The opposite extreme would be a well-paying but boring job at a big company.",
+      "Big companies are biased against new technologies, and the people you'd meet there would be wrong too.In an essay I wrote for high school students, I said a good rule of thumb was to stay upwind-- to work on things that maximize your future options.",
+      "The principle applies for adults too, though perhaps it has to be modified to: stay upwind for as long as you can, then cash in the potential energy you've accumulated when you need to pay for kids.I don't think people consciously realize this, but one reason downwind jobs like churning out Java for a bank pay so well is precisely that they are downwind.",
+      "The market price for that kind of work is higher because it gives you fewer options for the future. A job that lets you work on exciting new stuff will tend to pay less, because part of the compensation is in the form of the new skills you'll learn.Grad school is the other end of the spectrum from a coding job at a big company: the pay's low but you spend most of your time working on new stuff.",
+      "And of course, it's called \"school,\" which makes that clear to everyone, though in fact all jobs are some percentage school.The right environment for having startup ideas need not be a university per se.",
+      "It just has to be a situation with a large percentage of school.It's obvious why you want exposure to new technology, but why do you need other people? Can't you just think of new ideas yourself? The empirical answer is: no.",
+      "Even Einstein needed people to bounce ideas off. Ideas get developed in the process of explaining them to the right kind of person. You need that resistance, just as a carver needs the resistance of the wood.This is one reason Y Combinator has a rule against investing in startups with only one founder.",
+      "Practically every successful company has at least two. And because startup founders work under great pressure, it's critical they be friends.I didn't realize it till I was writing this, but that may help explain why there are so few female startup founders.",
+      "I read on the Internet (so it must be true) that only 1.7% of VC-backed startups are founded by women. The percentage of female hackers is small, but not that small. So why the discrepancy?When you realize that successful startups tend to have multiple founders who were already friends, a possible explanation emerges.",
+      "People's best friends are likely to be of the same sex, and if one group is a minority in some population, pairs of them will be a minority squared. [1]DoodlingWhat these groups of co-founders do together is more complicated than just sitting down and trying to think of ideas.",
+      "I suspect the most productive setup is a kind of together-alone-together sandwich. Together you talk about some hard problem, probably getting nowhere. Then, the next morning, one of you has an idea in the shower about how to solve it.",
+      "He runs eagerly to to tell the others, and together they work out the kinks.What happens in that shower? It seems to me that ideas just pop into my head. But can we say more than that?Taking a shower is like a form of meditation.",
+      "You're alert, but there's nothing to distract you. It's in a situation like this, where your mind is free to roam, that it bumps into new ideas.What happens when your mind wanders? It may be like doodling.",
+      "Most people have characteristic ways of doodling. This habit is unconscious, but not random: I found my doodles changed after I started studying painting. I started to make the kind of gestures I'd make if I were drawing from life.",
+      "They were atoms of drawing, but arranged randomly. [2]Perhaps letting your mind wander is like doodling with ideas. You have certain mental gestures you've learned in your work, and when you're not paying attention, you keep making these same gestures, but somewhat randomly.",
+      "In effect, you call the same functions on random arguments. That's what a metaphor is: a function applied to an argument of the wrong type.Conveniently, as I was writing this, my mind wandered: would it be useful to have metaphors in a programming language?",
+      "I don't know; I don't have time to think about this. But it's convenient because this is an example of what I mean by habits of mind. I spend a lot of time thinking about language design, and my habit of always asking \"would x be useful in a programming language\" just got invoked.If new ideas arise like doodles, this would explain why you have to work at something for a while before you have any.",
+      "It's not just that you can't judge ideas till you're an expert in a field. You won't even generate ideas, because you won't have any habits of mind to invoke.Of course the habits of mind you invoke on some field don't have to be derived from working in that field.",
+      "In fact, it's often better if they're not. You're not just looking for good ideas, but for good new ideas, and you have a better chance of generating those if you combine stuff from distant fields. As hackers, one of our habits of mind is to ask, could one open-source x?",
+      "For example, what if you made an open-source operating system? A fine idea, but not very novel. Whereas if you ask, could you make an open-source play? you might be onto something.Are some kinds of work better sources of habits of mind than others?",
+      "I suspect harder fields may be better sources, because to attack hard problems you need powerful solvents. I find math is a good source of metaphors-- good enough that it's worth studying just for that.",
+      "Related fields are also good sources, especially when they're related in unexpected ways. Everyone knows computer science and electrical engineering are related, but precisely because everyone knows it, importing ideas from one to the other doesn't yield great profits.",
+      "It's like importing something from Wisconsin to Michigan. Whereas (I claim) hacking and painting are also related, in the sense that hackers and painters are both makers, and this source of new ideas is practically virgin territory.ProblemsIn theory you could stick together ideas at random and see what you came up with.",
+      "What if you built a peer-to-peer dating site? Would it be useful to have an automatic book? Could you turn theorems into a commodity? When you assemble ideas at random like this, they may not be just stupid, but semantically ill-formed.",
+      "What would it even mean to make theorems a commodity? You got me. I didn't think of that idea, just its name.You might come up with something useful this way, but I never have. It's like knowing a fabulous sculpture is hidden inside a block of marble, and all you have to do is remove the marble that isn't part of it.",
+      "It's an encouraging thought, because it reminds you there is an answer, but it's not much use in practice because the search space is too big.I find that to have good ideas I need to be working on some problem.",
+      "You can't start with randomness. You have to start with a problem, then let your mind wander just far enough for new ideas to form.In a way, it's harder to see problems than their solutions. Most people prefer to remain in denial about problems.",
+      "It's obvious why: problems are irritating. They're problems! Imagine if people in 1700 saw their lives the way we'd see them. It would have been unbearable. This denial is such a powerful force that, even when presented with possible solutions, people often prefer to believe they wouldn't work.I saw this phenomenon when I worked on spam filters.",
+      "In 2002, most people preferred to ignore spam, and most of those who didn't preferred to believe the heuristic filters then available were the best you could do.I found spam intolerable, and I felt it had to be possible to recognize it statistically.",
+      "And it turns out that was all you needed to solve the problem. The algorithm I used was ridiculously simple. Anyone who'd really tried to solve the problem would have found it. It was just that no one had really tried to solve the problem.",
+      "[3]Let me repeat that recipe: finding the problem intolerable and feeling it must be possible to solve it. Simple as it seems, that's the recipe for a lot of startup ideas.WealthSo far most of what I've said applies to ideas in general.",
+      "What's special about startup ideas? Startup ideas are ideas for companies, and companies have to make money. And the way to make money is to make something people want.Wealth is what people want. I don't mean that as some kind of philosophical statement; I mean it as a tautology.So an idea for a startup is an idea for something people want.",
+      "Wouldn't any good idea be something people want? Unfortunately not. I think new theorems are a fine thing to create, but there is no great demand for them. Whereas there appears to be great demand for celebrity gossip magazines.",
+      "Wealth is defined democratically. Good ideas and valuable ideas are not quite the same thing; the difference is individual tastes.But valuable ideas are very close to good ideas, especially in technology.",
+      "I think they're so close that you can get away with working as if the goal were to discover good ideas, so long as, in the final stage, you stop and ask: will people actually pay for this? Only a few ideas are likely to make it that far and then get shot down; RPN calculators might be one example.One way to make something people want is to look at stuff people use now that's broken.",
+      "Dating sites are a prime example. They have millions of users, so they must be promising something people want. And yet they work horribly. Just ask anyone who uses them. It's as if they used the worse-is-better approach but stopped after the first stage and handed the thing over to marketers.Of course, the most obvious breakage in the average computer user's life is Windows itself.",
+      "But this is a special case: you can't defeat a monopoly by a frontal attack. Windows can and will be overthrown, but not by giving people a better desktop OS. The way to kill it is to redefine the problem as a superset of the current one.",
+      "The problem is not, what operating system should people use on desktop computers? but how should people use applications? There are answers to that question that don't even involve desktop computers.Everyone thinks Google is going to solve this problem, but it is a very subtle one, so subtle that a company as big as Google might well get it wrong.",
+      "I think the odds are better than 50-50 that the Windows killer-- or more accurately, Windows transcender-- will come from some little startup.Another classic way to make something people want is to take a luxury and make it into a commmodity.",
+      "People must want something if they pay a lot for it. And it is a very rare product that can't be made dramatically cheaper if you try.This was Henry Ford's plan. He made cars, which had been a luxury item, into a commodity.",
+      "But the idea is much older than Henry Ford. Water mills transformed mechanical power from a luxury into a commodity, and they were used in the Roman empire. Arguably pastoralism transformed a luxury into a commodity.When you make something cheaper you can sell more of them.",
+      "But if you make something dramatically cheaper you often get qualitative changes, because people start to use it in different ways. For example, once computers get so cheap that most people can have one of their own, you can use them as communication devices.Often to make something dramatically cheaper you have to redefine the problem.",
+      "The Model T didn't have all the features previous cars did. It only came in black, for example. But it solved the problem people cared most about, which was getting from place to place.One of the most useful mental habits I know I learned from Michael Rabin: that the best way to solve a problem is often to redefine it.",
+      "A lot of people use this technique without being consciously aware of it, but Rabin was spectacularly explicit. You need a big prime number? Those are pretty expensive. How about if I give you a big number that only has a 10 to the minus 100 chance of not being prime?",
+      "Would that do? Well, probably; I mean, that's probably smaller than the chance that I'm imagining all this anyway.Redefining the problem is a particularly juicy heuristic when you have competitors, because it's so hard for rigid-minded people to follow.",
+      "You can work in plain sight and they don't realize the danger. Don't worry about us. We're just working on search. Do one thing and do it well, that's our motto.Making things cheaper is actually a subset of a more general technique: making things easier.",
+      "For a long time it was most of making things easier, but now that the things we build are so complicated, there's another rapidly growing subset: making things easier to use.This is an area where there's great room for improvement.",
+      "What you want to be able to say about technology is: it just works. How often do you say that now?Simplicity takes effort-- genius, even. The average programmer seems to produce UI designs that are almost willfully bad.",
+      "I was trying to use the stove at my mother's house a couple weeks ago. It was a new one, and instead of physical knobs it had buttons and an LED display. I tried pressing some buttons I thought would cause it to get hot, and you know what it said?",
+      "\"Err.\" Not even \"Error.\" \"Err.\" You can't just say \"Err\" to the user of a stove. You should design the UI so that errors are impossible. And the boneheads who designed this stove even had an example of such a UI to work from: the old one.",
+      "You turn one knob to set the temperature and another to set the timer. What was wrong with that? It just worked.It seems that, for the average engineer, more options just means more rope to hang yourself.",
+      "So if you want to start a startup, you can take almost any existing technology produced by a big company, and assume you could build something way easier to use.Design for ExitSuccess for a startup approximately equals getting bought.",
+      "You need some kind of exit strategy, because you can't get the smartest people to work for you without giving them options likely to be worth something. Which means you either have to get bought or go public, and the number of startups that go public is very small.If success probably means getting bought, should you make that a conscious goal?",
+      "The old answer was no: you were supposed to pretend that you wanted to create a giant, public company, and act surprised when someone made you an offer. Really, you want to buy us? Well, I suppose we'd consider it, for the right price.I think things are changing.",
+      "If 98% of the time success means getting bought, why not be open about it? If 98% of the time you're doing product development on spec for some big company, why not think of that as your task? One advantage of this approach is that it gives you another source of ideas: look at big companies, think what they should be doing, and do it yourself.",
+      "Even if they already know it, you'll probably be done faster.Just be sure to make something multiple acquirers will want. Don't fix Windows, because the only potential acquirer is Microsoft, and when there's only one acquirer, they don't have to hurry.",
+      "They can take their time and copy you instead of buying you. If you want to get market price, work on something where there's competition.If an increasing number of startups are created to do product development on spec, it will be a natural counterweight to monopolies.",
+      "Once some type of technology is captured by a monopoly, it will only evolve at big company rates instead of startup rates, whereas alternatives will evolve with especial speed. A free market interprets monopoly as damage and routes around it.The Woz RouteThe most productive way to generate startup ideas is also the most unlikely-sounding: by accident.",
+      "If you look at how famous startups got started, a lot of them weren't initially supposed to be startups. Lotus began with a program Mitch Kapor wrote for a friend. Apple got started because Steve Wozniak wanted to build microcomputers, and his employer, Hewlett-Packard, wouldn't let him do it at work.",
+      "Yahoo began as David Filo's personal collection of links.This is not the only way to start startups. You can sit down and consciously come up with an idea for a company; we did. But measured in total market cap, the build-stuff-for-yourself model might be more fruitful.",
+      "It certainly has to be the most fun way to come up with startup ideas. And since a startup ought to have multiple founders who were already friends before they decided to start a company, the rather surprising conclusion is that the best way to generate startup ideas is to do what hackers do for fun: cook up amusing hacks with your friends.It seems like it violates some kind of conservation law, but there it is: the best way to get a \"million dollar idea\" is just to do what hackers enjoy doing anyway.",
+      "Notes[1] This phenomenon may account for a number of discrepancies currently blamed on various forbidden isms. Never attribute to malice what can be explained by math.[2] A lot of classic abstract expressionism is doodling of this type: artists trained to paint from life using the same gestures but without using them to represent anything.",
+      "This explains why such paintings are (slightly) more interesting than random marks would be.[3] Bill Yerazunis had solved the problem, but he got there by another path. He made a general-purpose file classifier so good that it also worked for spam.One Specific IdeaRomanian TranslationJapanese TranslationTraditional Chinese TranslationRussian TranslationArabic Translation"
+    ],
+    "word_count": 3871,
+    "paragraph_count": 78
+  },
+  "processed_at": "2025-07-26T19:07:54.289089",
+  "paragraphs": [
+    {
+      "original": "Want to start a startup? Get funded by Y Combinator. October 2005(This essay is derived from a talk at the 2005 Startup School.)How do you get good ideas for startups? That's probably the number one question people ask me.I'd like to reply with another question: why do people think it's hard to come up with ideas for startups?That might seem a stupid thing to ask.",
+      "translated": "想创业吗？那就让Y Combinator资助你。2005年10月（本文源自2005年创业学校的一次演讲。）如何获得创业的好点子？这可能是人们问我的头号问题。我想要用另一个问题来回答：为什么人们认为想出创业点子很难？这个问题听起来可能很愚蠢。"
+    },
+    {
+      "original": "Why do they think it's hard? If people can't do it, then it is hard, at least for them. Right?Well, maybe not. What people usually say is not that they can't think of ideas, but that they don't have any.",
+      "translated": "为什么他们认为这很难？如果人们做不到，那么这确实很难，至少对他们来说是这样的。对吧？嗯，也许并非如此。人们通常说的不是他们想不到主意，而是他们根本没有任何主意。"
+    },
+    {
+      "original": "That's not quite the same thing. It could be the reason they don't have any is that they haven't tried to generate them.I think this is often the case. I think people believe that coming up with ideas for startups is very hard-- that it must be very hard-- and so they don't try do to it.",
+      "translated": "这并不是一回事。他们没有提出任何想法的原因可能是他们根本没有尝试去创造这些想法。我认为这种情况经常发生。我认为人们认为为初创公司想出点子非常难——认为这一定非常难——所以他们根本不去尝试。"
+    },
+    {
+      "original": "They assume ideas are like miracles: they either pop into your head or they don't.I also have a theory about why people think this. They overvalue ideas. They think creating a startup is just a matter of implementing some fabulous initial idea.",
+      "translated": "他们认为想法就像奇迹一样：要么突然出现在你的脑海中，要么就根本不会出现。我也有一个关于为什么人们会有这种想法的理论。他们过于重视想法。他们认为创建一家初创公司只是实现某个绝妙的初始想法的问题。"
+    },
+    {
+      "original": "And since a successful startup is worth millions of dollars, a good idea is therefore a million dollar idea.If coming up with an idea for a startup equals coming up with a million dollar idea, then of course it's going to seem hard.",
+      "translated": "由于一个成功的创业公司价值数百万美元，因此一个好的创意也就相当于一个价值百万美元的创意。如果想出一个创业公司的创意等同于想出一个价值百万美元的创意，那么当然会觉得这很困难。"
+    },
+    {
+      "original": "Too hard to bother trying. Our instincts tell us something so valuable would not be just lying around for anyone to discover.Actually, startup ideas are not million dollar ideas, and here's an experiment you can try to prove it: just try to sell one.",
+      "translated": "太难了，不值得去尝试。我们的直觉告诉我们，如此有价值的东西不会随便摆在那儿任人发现。实际上，创业点子并不是价值百万美元的点子，这里有一个实验可以证明这一点：试着去卖掉一个。"
+    },
+    {
+      "original": "Nothing evolves faster than markets. The fact that there's no market for startup ideas suggests there's no demand. Which means, in the narrow sense of the word, that startup ideas are worthless.QuestionsThe fact is, most startups end up nothing like the initial idea.",
+      "translated": "没有什么比市场变化得更快。初创想法没有市场这一事实表明没有需求。这意味着，从狭义上讲，初创想法是没有价值的。事实上，大多数初创公司最终和最初的想法完全不同。"
+    },
+    {
+      "original": "It would be closer to the truth to say the main value of your initial idea is that, in the process of discovering it's broken, you'll come up with your real idea.The initial idea is just a starting point-- not a blueprint, but a question.",
+      "translated": "更准确地说，你最初想法的主要价值在于，通过发现它的不足，你会想出真正有用的想法。最初的想法只是一个起点——不是一个蓝图，而是一个问题。"
+    },
+    {
+      "original": "It might help if they were expressed that way. Instead of saying that your idea is to make a collaborative, web-based spreadsheet, say: could one make a collaborative, web-based spreadsheet? A few grammatical tweaks, and a woefully incomplete idea becomes a promising question to explore.There's a real difference, because an assertion provokes objections in a way a question doesn't.",
+      "translated": "如果这样表达可能会有帮助。不要说你的想法是制作一个协作性的、基于网络的电子表格，而是说：能否制作一个协作性的、基于网络的电子表格？经过一些语法上的调整，一个极其不完整的想法就变成了一个值得探索的有希望的问题。这里确实存在区别，因为陈述会引发反对，而问题则不会。"
+    },
+    {
+      "original": "If you say: I'm going to build a web-based spreadsheet, then critics-- the most dangerous of which are in your own head-- will immediately reply that you'd be competing with Microsoft, that you couldn't give people the kind of UI they expect, that users wouldn't want to have their data on your servers, and so on.A question doesn't seem so challenging.",
+      "translated": "如果你说：我打算开发一个基于网页的电子表格，那么批评者——其中最危险的是你自己的内心——会立刻反驳说，你将与微软竞争，你无法提供人们期望的用户界面，用户不会愿意将数据存储在你的服务器上，等等。一个问题似乎并没有那么具有挑战性。"
+    },
+    {
+      "original": "It becomes: let's try making a web-based spreadsheet and see how far we get. And everyone knows that if you tried this you'd be able to make something useful. Maybe what you'd end up with wouldn't even be a spreadsheet.",
+      "translated": "让我们尝试制作一个基于网络的电子表格，看看能进展到什么程度。大家都知道，如果你尝试这样做，肯定能做出一些有用的东西。也许最终的结果甚至不会是一个电子表格。"
+    },
+    {
+      "original": "Maybe it would be some kind of new spreadsheet-like collaboration tool that doesn't even have a name yet. You wouldn't have thought of something like that except by implementing your way toward it.Treating a startup idea as a question changes what you're looking for.",
+      "translated": "也许会是某种全新的类似电子表格的协作工具，甚至还没有命名。除非通过实现它的过程，否则你根本不会想到这样的东西。将创业点子视为一个问题，会改变你寻找的方向。"
+    },
+    {
+      "original": "If an idea is a blueprint, it has to be right. But if it's a question, it can be wrong, so long as it's wrong in a way that leads to more ideas.One valuable way for an idea to be wrong is to be only a partial solution.",
+      "translated": "如果一个想法是一张蓝图，它必须是正确的。但如果它是一个问题，它可以是错误的，只要这种错误能够引导出更多的想法。一个想法有价值的错误方式之一是仅仅是一个部分解决方案。"
+    },
+    {
+      "original": "When someone's working on a problem that seems too big, I always ask: is there some way to bite off some subset of the problem, then gradually expand from there? That will generally work unless you get trapped on a local maximum, like 1980s-style AI, or C.UpwindSo far, we've reduced the problem from thinking of a million dollar idea to thinking of a mistaken question.",
+      "translated": "当有人在处理一个看似太大的问题时，我总是会问：有没有办法先解决这个问题的一部分，然后再逐步扩展？除非你陷入了局部最优，就像20世纪80年代的人工智能或C.Upwind那样，否则这种方法通常都是有效的。到目前为止，我们已经将问题从思考一个百万美元的想法缩小到了思考一个错误的问题。"
+    },
+    {
+      "original": "That doesn't seem so hard, does it?To generate such questions you need two things: to be familiar with promising new technologies, and to have the right kind of friends. New technologies are the ingredients startup ideas are made of, and conversations with friends are the kitchen they're cooked in.Universities have both, and that's why so many startups grow out of them.",
+      "translated": "这看起来并不难，对吧？要提出这样的问题，你需要两样东西：熟悉有前景的新技术，以及拥有合适的朋友。新技术是创业想法的原材料，而与朋友的对话则是这些想法孕育的温床。大学同时具备这两者，这就是为什么许多创业公司都从中诞生。"
+    },
+    {
+      "original": "They're filled with new technologies, because they're trying to produce research, and only things that are new count as research. And they're full of exactly the right kind of people to have ideas with: the other students, who will be not only smart but elastic-minded to a fault.The opposite extreme would be a well-paying but boring job at a big company.",
+      "translated": "它们充满了新技术，因为它们致力于生产研究，而只有新颖的事物才能算作研究。而且，这里充满了能够产生想法的合适人群：其他学生，他们不仅聪明，而且思维极其灵活。相反的极端则是在大公司的一份高薪但枯燥的工作。"
+    },
+    {
+      "original": "Big companies are biased against new technologies, and the people you'd meet there would be wrong too.In an essay I wrote for high school students, I said a good rule of thumb was to stay upwind-- to work on things that maximize your future options.",
+      "translated": "大公司对新技术存在偏见，你在那里遇到的人也一样会犯错。在我为高中生写的一篇文章中，我说一个很好的经验法则是要“处于上风”——即从事那些能最大化你未来选择的工作。"
+    },
+    {
+      "original": "The principle applies for adults too, though perhaps it has to be modified to: stay upwind for as long as you can, then cash in the potential energy you've accumulated when you need to pay for kids.I don't think people consciously realize this, but one reason downwind jobs like churning out Java for a bank pay so well is precisely that they are downwind.",
+      "translated": "这一原则对成年人也同样适用，尽管可能需要稍作修改：尽可能长时间地处于上风，然后在需要为孩子支付费用时利用你积累的潜在能量。我认为人们并未有意识地意识到这一点，但下风行业的工作，比如为银行编写Java代码之所以薪酬丰厚，正是因为它们处于下风。"
+    },
+    {
+      "original": "The market price for that kind of work is higher because it gives you fewer options for the future. A job that lets you work on exciting new stuff will tend to pay less, because part of the compensation is in the form of the new skills you'll learn.Grad school is the other end of the spectrum from a coding job at a big company: the pay's low but you spend most of your time working on new stuff.",
+      "translated": "这种工作的市场价格较高，因为它给你的未来选择较少。一份让你能够接触激动人心的新事物的工作，往往会支付较少的薪酬，因为部分报酬是以你将学到的新技能的形式体现的。研究生院是大公司编程工作的另一个极端：薪酬较低，但你大部分时间都在研究新事物。"
+    },
+    {
+      "original": "And of course, it's called \"school,\" which makes that clear to everyone, though in fact all jobs are some percentage school.The right environment for having startup ideas need not be a university per se.",
+      "translated": "当然，它被称为“学校”，这让大家都知道了，尽管事实上所有工作都有一定程度上类似于学校。产生创业想法的合适环境不一定非要是大学。"
+    },
+    {
+      "original": "It just has to be a situation with a large percentage of school.It's obvious why you want exposure to new technology, but why do you need other people? Can't you just think of new ideas yourself? The empirical answer is: no.",
+      "translated": "这必须是一种有大量学校参与的情况。你希望接触新技术的原因显而易见，但为什么还需要其他人呢？你自己不能想出新点子吗？经验回答是：不能。"
+    },
+    {
+      "original": "Even Einstein needed people to bounce ideas off. Ideas get developed in the process of explaining them to the right kind of person. You need that resistance, just as a carver needs the resistance of the wood.This is one reason Y Combinator has a rule against investing in startups with only one founder.",
+      "translated": "即使是爱因斯坦也需要有人来交流想法。在向合适的人解释这些想法的过程中，想法会得到发展。你需要这种阻力，就像雕刻家需要木头的阻力一样。这就是为什么 Y Combinator 有一条规定，不投资只有一个创始人的初创公司。"
+    },
+    {
+      "original": "Practically every successful company has at least two. And because startup founders work under great pressure, it's critical they be friends.I didn't realize it till I was writing this, but that may help explain why there are so few female startup founders.",
+      "translated": "几乎每一家成功的公司至少有两个。由于初创公司的创始人承受着巨大的压力，因此他们之间建立友谊至关重要。直到我写这篇文章时我才意识到，这或许能够解释为什么女性初创公司创始人如此之少。"
+    },
+    {
+      "original": "I read on the Internet (so it must be true) that only 1.7% of VC-backed startups are founded by women. The percentage of female hackers is small, but not that small. So why the discrepancy?When you realize that successful startups tend to have multiple founders who were already friends, a possible explanation emerges.",
+      "translated": "我在网上看到（所以肯定是真的）只有1.7%的风投支持的初创公司是由女性创立的。女性黑客的比例虽然不大，但也没有那么低。那么，为什么会有这种差异呢？当你意识到成功的初创公司往往有多位创始人，而这些创始人通常是朋友时，一个可能的解释就出现了。"
+    },
+    {
+      "original": "People's best friends are likely to be of the same sex, and if one group is a minority in some population, pairs of them will be a minority squared. [1]DoodlingWhat these groups of co-founders do together is more complicated than just sitting down and trying to think of ideas.",
+      "translated": "人们的最佳朋友往往与自己同性，如果某一性别在某个群体中是少数，那么同性朋友对就是少数的平方。[1]涂鸦这些共同创始人团体一起做的事情比仅仅坐下来尝试想出点子要复杂得多。"
+    },
+    {
+      "original": "I suspect the most productive setup is a kind of together-alone-together sandwich. Together you talk about some hard problem, probably getting nowhere. Then, the next morning, one of you has an idea in the shower about how to solve it.",
+      "translated": "我怀疑最有效的方式是一种“一起-独自-一起”的模式。大家一起讨论某个难题，可能毫无进展。然后，第二天早上，其中一个人在洗澡时突然有了如何解决这个问题的想法。"
+    },
+    {
+      "original": "He runs eagerly to to tell the others, and together they work out the kinks.What happens in that shower? It seems to me that ideas just pop into my head. But can we say more than that?Taking a shower is like a form of meditation.",
+      "translated": "他急切地跑去告诉其他人，大家一起解决了问题。在淋浴时发生了什么？在我看来，想法似乎突然就冒出来了。但我们能否说得更多？洗澡就像是一种冥想。"
+    },
+    {
+      "original": "You're alert, but there's nothing to distract you. It's in a situation like this, where your mind is free to roam, that it bumps into new ideas.What happens when your mind wanders? It may be like doodling.",
+      "translated": "你很警觉，但没有什么能分散你的注意力。正是在这种情况下，你的思维可以自由驰骋，从而碰撞出新的想法。当你的心思漫游时，这可能就像涂鸦一样。"
+    },
+    {
+      "original": "Most people have characteristic ways of doodling. This habit is unconscious, but not random: I found my doodles changed after I started studying painting. I started to make the kind of gestures I'd make if I were drawing from life.",
+      "translated": "大多数人都有自己特有的涂鸦方式。这种习惯是无意识的，但并非随机：我发现我的涂鸦在我开始学习绘画后发生了变化。我开始做出仿佛在进行写生时的手势。"
+    },
+    {
+      "original": "They were atoms of drawing, but arranged randomly. [2]Perhaps letting your mind wander is like doodling with ideas. You have certain mental gestures you've learned in your work, and when you're not paying attention, you keep making these same gestures, but somewhat randomly.",
+      "translated": "它们是绘画的原子，但排列得杂乱无章。[2]也许让思维漫游就像随意勾勒想法。你在工作中学到了某些特定的思维动作，当你不集中注意力时，你会继续做出这些相同的动作，但却是随心所欲的。"
+    },
+    {
+      "original": "In effect, you call the same functions on random arguments. That's what a metaphor is: a function applied to an argument of the wrong type.Conveniently, as I was writing this, my mind wandered: would it be useful to have metaphors in a programming language?",
+      "translated": "实际上，你是在对随机的参数调用相同的函数。这就是隐喻：将一个函数应用于错误类型的参数。恰巧在我写这段文字时，我的思绪飘忽：在编程语言中使用隐喻是否有用呢？"
+    },
+    {
+      "original": "I don't know; I don't have time to think about this. But it's convenient because this is an example of what I mean by habits of mind. I spend a lot of time thinking about language design, and my habit of always asking \"would x be useful in a programming language\" just got invoked.If new ideas arise like doodles, this would explain why you have to work at something for a while before you have any.",
+      "translated": "我不知道；我没时间考虑这个问题。但这样很方便，因为这正是我所说的思维方式的一个例子。我花了很多时间思考语言设计，而我总是会问“x 是否对编程语言有用”这一习惯刚刚被触发了。如果新想法像涂鸦一样涌现，这就能解释为什么你必须在某件事上努力一段时间后才会产生新的想法。"
+    },
+    {
+      "original": "It's not just that you can't judge ideas till you're an expert in a field. You won't even generate ideas, because you won't have any habits of mind to invoke.Of course the habits of mind you invoke on some field don't have to be derived from working in that field.",
+      "translated": "不仅仅是在你成为某个领域的专家之前无法评判想法，你甚至不会产生想法，因为你没有任何可以调用的思维习惯。当然，你在某个领域中调用的思维习惯并不一定要从该领域的工作中得来。"
+    },
+    {
+      "original": "In fact, it's often better if they're not. You're not just looking for good ideas, but for good new ideas, and you have a better chance of generating those if you combine stuff from distant fields. As hackers, one of our habits of mind is to ask, could one open-source x?",
+      "translated": "事实上，情况往往并非如此更好。你不仅在寻找好的想法，而是在寻找好的新想法，而如果你能将来自遥远领域的知识结合起来，生成这些新想法的机会更大。作为黑客，我们的一种思维方式是问，能否将某个领域开源？"
+    },
+    {
+      "original": "For example, what if you made an open-source operating system? A fine idea, but not very novel. Whereas if you ask, could you make an open-source play? you might be onto something.Are some kinds of work better sources of habits of mind than others?",
+      "translated": "例如，如果你制作一个开源操作系统会怎样？这是个好主意，但并不新颖。然而，如果你问，能否制作一个开源剧本？你可能会有所发现。某些类型的工作是否比其他类型的工作更能培养思维方式？"
+    },
+    {
+      "original": "I suspect harder fields may be better sources, because to attack hard problems you need powerful solvents. I find math is a good source of metaphors-- good enough that it's worth studying just for that.",
+      "translated": "我怀疑更难的领域可能是更好的来源，因为要攻克难题，你需要强大的“溶剂”。我发现数学是一个很好的比喻来源——好到值得专门为此去学习。"
+    },
+    {
+      "original": "Related fields are also good sources, especially when they're related in unexpected ways. Everyone knows computer science and electrical engineering are related, but precisely because everyone knows it, importing ideas from one to the other doesn't yield great profits.",
+      "translated": "相关领域也是很好的资源，尤其是当它们以意想不到的方式相关时。每个人都知道计算机科学和电气工程是相关的，但正因为每个人都知道这一点，从一个领域向另一个领域引入想法并不会带来巨大的收益。"
+    },
+    {
+      "original": "It's like importing something from Wisconsin to Michigan. Whereas (I claim) hacking and painting are also related, in the sense that hackers and painters are both makers, and this source of new ideas is practically virgin territory.ProblemsIn theory you could stick together ideas at random and see what you came up with.",
+      "translated": "这就像从威斯康星州运货到密歇根州。而我主张，黑客和画家也是相关的，因为他们都是创造者，而这种新想法的来源几乎是未开发的领域。问题在于，理论上你可以随机拼凑想法，看看会得出什么结果。"
+    },
+    {
+      "original": "What if you built a peer-to-peer dating site? Would it be useful to have an automatic book? Could you turn theorems into a commodity? When you assemble ideas at random like this, they may not be just stupid, but semantically ill-formed.",
+      "translated": "如果你建立了一个点对点的约会网站会怎样？拥有一个自动化的书籍是否有用？你能把定理变成商品吗？当你像这样随机拼凑想法时，它们可能不仅仅是愚蠢的，甚至是语义上不成立的。"
+    },
+    {
+      "original": "What would it even mean to make theorems a commodity? You got me. I didn't think of that idea, just its name.You might come up with something useful this way, but I never have. It's like knowing a fabulous sculpture is hidden inside a block of marble, and all you have to do is remove the marble that isn't part of it.",
+      "translated": "将定理变成商品到底意味着什么？我也不知道。这个想法不是我提出来的，我只是想到了这个名字。你可能会通过这种方式想到一些有用的东西，但我从未做到过。这就像是知道一块大理石里藏着一尊绝妙的雕塑，你只需要去掉不属于它的部分就可以了。"
+    },
+    {
+      "original": "It's an encouraging thought, because it reminds you there is an answer, but it's not much use in practice because the search space is too big.I find that to have good ideas I need to be working on some problem.",
+      "translated": "这是一个令人鼓舞的想法，因为它提醒你有一个答案，但实际操作中用处不大，因为搜索空间太大了。我发现要想有好主意，我需要在某个问题上努力工作。"
+    },
+    {
+      "original": "You can't start with randomness. You have to start with a problem, then let your mind wander just far enough for new ideas to form.In a way, it's harder to see problems than their solutions. Most people prefer to remain in denial about problems.",
+      "translated": "你不能从随机性开始。你必须从一个具体的问题出发，然后让你的思维恰到好处地游离，以便新的想法得以形成。某种程度上，发现问题比找到解决方案更难。大多数人更愿意对问题视而不见。"
+    },
+    {
+      "original": "It's obvious why: problems are irritating. They're problems! Imagine if people in 1700 saw their lives the way we'd see them. It would have been unbearable. This denial is such a powerful force that, even when presented with possible solutions, people often prefer to believe they wouldn't work.I saw this phenomenon when I worked on spam filters.",
+      "translated": "很明显：问题令人烦恼。它们就是问题！想象一下，如果1700年的人们以我们今天的眼光看待他们的生活，那将是无法忍受的。这种否认的力量如此强大，以至于即使面对可能的解决方案，人们也常常宁愿相信它们不起作用。我在从事垃圾邮件过滤器工作时就目睹了这一现象。"
+    },
+    {
+      "original": "In 2002, most people preferred to ignore spam, and most of those who didn't preferred to believe the heuristic filters then available were the best you could do.I found spam intolerable, and I felt it had to be possible to recognize it statistically.",
+      "translated": "2002年，大多数人宁愿忽略垃圾邮件，而那些不这样做的人则大多认为当时可用的启发式过滤器已经是最好的选择。我觉得垃圾邮件令人无法容忍，并且认为应该可以通过统计方法来识别它。"
+    },
+    {
+      "original": "And it turns out that was all you needed to solve the problem. The algorithm I used was ridiculously simple. Anyone who'd really tried to solve the problem would have found it. It was just that no one had really tried to solve the problem.",
+      "translated": "结果证明，这就足以解决问题了。我使用的算法极其简单。任何一个真正尝试解决问题的人都能找到这个方法。只是没有人真正尝试过解决这个问题。"
+    },
+    {
+      "original": "[3]Let me repeat that recipe: finding the problem intolerable and feeling it must be possible to solve it. Simple as it seems, that's the recipe for a lot of startup ideas.WealthSo far most of what I've said applies to ideas in general.",
+      "translated": "让我再重复一遍这个秘诀：发现问题是无法容忍的，并且感觉它必须是可解决的。尽管看似简单，但这却是许多创业点子的秘诀。财富迄今为止，我所说的大部分内容都适用于一般性的想法。"
+    },
+    {
+      "original": "What's special about startup ideas? Startup ideas are ideas for companies, and companies have to make money. And the way to make money is to make something people want.Wealth is what people want. I don't mean that as some kind of philosophical statement; I mean it as a tautology.So an idea for a startup is an idea for something people want.",
+      "translated": "创业想法有何特别之处？创业想法是关于公司的想法，而公司必须赚钱。赚钱的方式是制作人们想要的东西。财富就是人们想要的。我这么说并不是在表达某种哲学观点；我是在陈述一个不证自明的道理。所以，创业的想法就是关于人们想要的东西的想法。"
+    },
+    {
+      "original": "Wouldn't any good idea be something people want? Unfortunately not. I think new theorems are a fine thing to create, but there is no great demand for them. Whereas there appears to be great demand for celebrity gossip magazines.",
+      "translated": "难道好主意不就是人们想要的东西吗？不幸的是，并非如此。我认为创造新的定理是一件很好的事情，但对此并没有很大的需求。然而，对于名人八卦杂志，似乎有着巨大的需求。"
+    },
+    {
+      "original": "Wealth is defined democratically. Good ideas and valuable ideas are not quite the same thing; the difference is individual tastes.But valuable ideas are very close to good ideas, especially in technology.",
+      "translated": "财富的定义是民主的。好主意和有价值的主意并不完全相同；区别在于个人的偏好。但有价值的主意与好主意非常接近，尤其是在技术领域。"
+    },
+    {
+      "original": "I think they're so close that you can get away with working as if the goal were to discover good ideas, so long as, in the final stage, you stop and ask: will people actually pay for this? Only a few ideas are likely to make it that far and then get shot down; RPN calculators might be one example.One way to make something people want is to look at stuff people use now that's broken.",
+      "translated": "我认为它们如此接近，以至于你可以像目标是发现好主意那样工作，只要在最后阶段停下来问自己：人们真的会为这个买单吗？只有少数想法可能会走到这一步，然后被否决；RPN计算器可能就是一个例子。制造人们想要的东西的一种方法是观察现在人们使用但存在问题的东西。"
+    },
+    {
+      "original": "Dating sites are a prime example. They have millions of users, so they must be promising something people want. And yet they work horribly. Just ask anyone who uses them. It's as if they used the worse-is-better approach but stopped after the first stage and handed the thing over to marketers.Of course, the most obvious breakage in the average computer user's life is Windows itself.",
+      "translated": "约会网站就是一个典型的例子。它们拥有数百万用户，所以一定是在提供人们想要的东西。然而，它们的效果极差。随便问一个使用过的人就知道。就好像它们采用了“更糟即更好”的方法，但在第一阶段就停止了，然后把产品交给了营销人员。当然，普通电脑用户生活中最明显的故障就是Windows本身。"
+    },
+    {
+      "original": "But this is a special case: you can't defeat a monopoly by a frontal attack. Windows can and will be overthrown, but not by giving people a better desktop OS. The way to kill it is to redefine the problem as a superset of the current one.",
+      "translated": "但这是一种特殊情况：你不能通过正面攻击来击败垄断。Windows 可以被推翻，但不是通过提供更好的桌面操作系统。要击败它，必须将问题重新定义为当前问题的超集。"
+    },
+    {
+      "original": "The problem is not, what operating system should people use on desktop computers? but how should people use applications? There are answers to that question that don't even involve desktop computers.Everyone thinks Google is going to solve this problem, but it is a very subtle one, so subtle that a company as big as Google might well get it wrong.",
+      "translated": "问题不在于人们应该在台式机上使用哪种操作系统，而在于人们应该如何使用应用程序？对于这个问题，有些答案甚至不涉及台式机。每个人都认为谷歌会解决这个问题，但它非常微妙，以至于像谷歌这样大的公司也可能会弄错。"
+    },
+    {
+      "original": "I think the odds are better than 50-50 that the Windows killer-- or more accurately, Windows transcender-- will come from some little startup.Another classic way to make something people want is to take a luxury and make it into a commmodity.",
+      "translated": "我认为，取代或更准确地说超越Windows的操作系统，有超过50%的可能性来自某个小型初创公司。另一种创造人们需求的产品的经典方式，是将奢侈品变成普通商品。"
+    },
+    {
+      "original": "People must want something if they pay a lot for it. And it is a very rare product that can't be made dramatically cheaper if you try.This was Henry Ford's plan. He made cars, which had been a luxury item, into a commodity.",
+      "translated": "人们如果愿意为某样东西付出高价，那一定是他们想要它。而几乎所有产品，只要你努力尝试，都可以大幅度降低成本。这正是亨利·福特的计划。他将汽车，这一曾经的奢侈品，变成了普通商品。"
+    },
+    {
+      "original": "But the idea is much older than Henry Ford. Water mills transformed mechanical power from a luxury into a commodity, and they were used in the Roman empire. Arguably pastoralism transformed a luxury into a commodity.When you make something cheaper you can sell more of them.",
+      "translated": "但这个想法比亨利·福特要古老得多。水磨将机械动力从奢侈品变为商品，它们在罗马帝国时期就已经被使用。可以说，畜牧业也将奢侈品变为商品。当你把某样东西的价格降低时，你就可以卖出更多的产品。"
+    },
+    {
+      "original": "But if you make something dramatically cheaper you often get qualitative changes, because people start to use it in different ways. For example, once computers get so cheap that most people can have one of their own, you can use them as communication devices.Often to make something dramatically cheaper you have to redefine the problem.",
+      "translated": "但是，如果你将某样东西的价格大幅降低，通常会带来质量上的变化，因为人们开始以不同的方式使用它。例如，一旦计算机变得足够便宜，多数人都能拥有一台，就可以将它们用作通信设备。要大幅降低成本，通常需要重新定义问题。"
+    },
+    {
+      "original": "The Model T didn't have all the features previous cars did. It only came in black, for example. But it solved the problem people cared most about, which was getting from place to place.One of the most useful mental habits I know I learned from Michael Rabin: that the best way to solve a problem is often to redefine it.",
+      "translated": "T型车并没有配备前代汽车的所有功能。例如，它只有黑色一种颜色。但它解决了人们最关心的问题，即从一个地方到另一个地方。我所知道的一个最有用的思维习惯是从迈克尔·拉宾那里学来的：解决问题的最佳方式往往是重新定义问题。"
+    },
+    {
+      "original": "A lot of people use this technique without being consciously aware of it, but Rabin was spectacularly explicit. You need a big prime number? Those are pretty expensive. How about if I give you a big number that only has a 10 to the minus 100 chance of not being prime?",
+      "translated": "很多人在使用这种技术时并没有自觉意识到，但拉宾对此却异常明确。你需要一个大素数？这些可不便宜。那我给你一个大数，它只有10的负100次方的概率不是素数，怎么样？"
+    },
+    {
+      "original": "Would that do? Well, probably; I mean, that's probably smaller than the chance that I'm imagining all this anyway.Redefining the problem is a particularly juicy heuristic when you have competitors, because it's so hard for rigid-minded people to follow.",
+      "translated": "这样行吗？嗯，大概可以；我是说，这可能比我自己想象出这一切的几率还要小。重新定义问题是一个特别有效的策略，尤其是在有竞争对手的情况下，因为对于那些思维僵化的人来说，这太难做到了。"
+    },
+    {
+      "original": "You can work in plain sight and they don't realize the danger. Don't worry about us. We're just working on search. Do one thing and do it well, that's our motto.Making things cheaper is actually a subset of a more general technique: making things easier.",
+      "translated": "你可以在光天化日之下工作，而他们却没有意识到危险。不要担心我们。我们只是在做搜索。做好一件事，这是我们的座右铭。让事情变得更便宜其实是更广泛的技术的一个子集：让事情变得更简单。"
+    },
+    {
+      "original": "For a long time it was most of making things easier, but now that the things we build are so complicated, there's another rapidly growing subset: making things easier to use.This is an area where there's great room for improvement.",
+      "translated": "长期以来，我们主要致力于简化事物，但如今我们所构建的事物变得如此复杂，因此另一个快速增长的领域是：使事物更易于使用。这个领域有很大的改进空间。"
+    },
+    {
+      "original": "What you want to be able to say about technology is: it just works. How often do you say that now?Simplicity takes effort-- genius, even. The average programmer seems to produce UI designs that are almost willfully bad.",
+      "translated": "你希望对技术能够说的是：它就是好用。你现在有多大频率这么说呢？简洁需要努力——甚至是天才。普通程序员似乎设计出的用户界面几乎是故意糟糕的。"
+    },
+    {
+      "original": "I was trying to use the stove at my mother's house a couple weeks ago. It was a new one, and instead of physical knobs it had buttons and an LED display. I tried pressing some buttons I thought would cause it to get hot, and you know what it said?",
+      "translated": "几周前，我试着用我妈妈家的新炉子。这个新炉子没有实体旋钮，而是有按钮和LED显示屏。我试着按了一些我认为会让它加热的按钮，你知道它显示了什么吗？"
+    },
+    {
+      "original": "\"Err.\" Not even \"Error.\" \"Err.\" You can't just say \"Err\" to the user of a stove. You should design the UI so that errors are impossible. And the boneheads who designed this stove even had an example of such a UI to work from: the old one.",
+      "translated": "“Err。”不是“Error。”而是“Err。”你不能只对使用炉子的用户显示“Err”。你应该设计用户界面，使得错误无法发生。而那些设计这个炉子的笨蛋们甚至有一个可以参考的用户界面例子：旧的那一个。"
+    },
+    {
+      "original": "You turn one knob to set the temperature and another to set the timer. What was wrong with that? It just worked.It seems that, for the average engineer, more options just means more rope to hang yourself.",
+      "translated": "你转动一个旋钮来设置温度，另一个旋钮来设置定时。这有什么不对呢？它就是好用。看来，对于普通工程师来说，更多的选项只是意味着更多的自缚手脚的机会。"
+    },
+    {
+      "original": "So if you want to start a startup, you can take almost any existing technology produced by a big company, and assume you could build something way easier to use.Design for ExitSuccess for a startup approximately equals getting bought.",
+      "translated": "所以，如果你想创办一家初创公司，你可以采用大公司生产的几乎任何现有技术，并假设你可以开发出更加易于使用的产品。设计以退出为目标对于初创公司来说，成功大致等同于被收购。"
+    },
+    {
+      "original": "You need some kind of exit strategy, because you can't get the smartest people to work for you without giving them options likely to be worth something. Which means you either have to get bought or go public, and the number of startups that go public is very small.If success probably means getting bought, should you make that a conscious goal?",
+      "translated": "你需要某种退出策略，因为如果不提供可能有价值的选择权，你就无法吸引最优秀的人才为你工作。这意味着你要么被收购，要么上市，而实际上能够上市的创业公司数量非常少。如果成功大概率意味着被收购，那么你应该将此作为一个明确的目标吗？"
+    },
+    {
+      "original": "The old answer was no: you were supposed to pretend that you wanted to create a giant, public company, and act surprised when someone made you an offer. Really, you want to buy us? Well, I suppose we'd consider it, for the right price.I think things are changing.",
+      "translated": "过去的答案是否定的：你本应假装自己想要创建一家大型的上市公司，并在有人提出收购时表现出惊讶。真的，你们想收购我们？嗯，我想如果我们能谈妥价格，我们可以考虑。我认为这种情况正在发生变化。"
+    },
+    {
+      "original": "If 98% of the time success means getting bought, why not be open about it? If 98% of the time you're doing product development on spec for some big company, why not think of that as your task? One advantage of this approach is that it gives you another source of ideas: look at big companies, think what they should be doing, and do it yourself.",
+      "translated": "如果98%的情况下成功意味着被收购，为什么不坦率面对呢？如果98%的时间你都在为某个大公司做投机性的产品开发，为什么不把这当作你的任务呢？这种方法的一个优势是，它为你提供了另一种想法来源：观察大公司，思考它们应该做什么，然后自己去做。"
+    },
+    {
+      "original": "Even if they already know it, you'll probably be done faster.Just be sure to make something multiple acquirers will want. Don't fix Windows, because the only potential acquirer is Microsoft, and when there's only one acquirer, they don't have to hurry.",
+      "translated": "即使他们已经知道这一点，你可能也会更快完成。只要确保你制作的东西能吸引多个收购者。不要去修复Windows，因为唯一的潜在收购者是微软，而当只有一个收购者时，他们不必急于行动。"
+    },
+    {
+      "original": "They can take their time and copy you instead of buying you. If you want to get market price, work on something where there's competition.If an increasing number of startups are created to do product development on spec, it will be a natural counterweight to monopolies.",
+      "translated": "他们可以慢慢来，复制你而不是购买你。如果你想获得市场价格，就去从事有竞争的领域。如果越来越多的初创公司为了做产品开发而投机，这将自然成为垄断的制衡力量。"
+    },
+    {
+      "original": "Once some type of technology is captured by a monopoly, it will only evolve at big company rates instead of startup rates, whereas alternatives will evolve with especial speed. A free market interprets monopoly as damage and routes around it.The Woz RouteThe most productive way to generate startup ideas is also the most unlikely-sounding: by accident.",
+      "translated": "一旦某种技术被垄断，它将只会以大公司的速度发展，而不是初创企业的速度，而替代方案将以特别快的速度发展。自由市场将垄断视为损害，并绕过它。\n\n沃兹路线\n产生初创企业想法的最有效方式也是最出人意料的方式：偶然。"
+    },
+    {
+      "original": "If you look at how famous startups got started, a lot of them weren't initially supposed to be startups. Lotus began with a program Mitch Kapor wrote for a friend. Apple got started because Steve Wozniak wanted to build microcomputers, and his employer, Hewlett-Packard, wouldn't let him do it at work.",
+      "translated": "如果你观察那些著名的初创公司是如何起步的，你会发现很多都不是一开始就有意成为初创公司的。Lotus 起源于 Mitch Kapor 为朋友编写的一个程序。而 Apple 的成立则是因为 Steve Wozniak 想要制造微型计算机，但他的雇主惠普不允许他在工作中做这件事。"
+    },
+    {
+      "original": "Yahoo began as David Filo's personal collection of links.This is not the only way to start startups. You can sit down and consciously come up with an idea for a company; we did. But measured in total market cap, the build-stuff-for-yourself model might be more fruitful.",
+      "translated": "雅虎最初是大卫·菲洛的个人链接收藏。这并不是创办初创公司的唯一方式。你可以坐下来有意识地想出一个公司的点子；我们就是这么做的。但以总市值来衡量，为自己打造东西的模式可能更有成效。"
+    },
+    {
+      "original": "It certainly has to be the most fun way to come up with startup ideas. And since a startup ought to have multiple founders who were already friends before they decided to start a company, the rather surprising conclusion is that the best way to generate startup ideas is to do what hackers do for fun: cook up amusing hacks with your friends.It seems like it violates some kind of conservation law, but there it is: the best way to get a \"million dollar idea\" is just to do what hackers enjoy doing anyway.",
+      "translated": "这无疑是想出创业点子最有趣的方式。既然一家创业公司应该有多个创始人，而且他们应该在决定创办公司之前就是朋友，那么得出这样一个相当令人惊讶的结论也就不足为奇了：产生创业点子的最佳方式就是做黑客们出于兴趣做的事情：和你的朋友们一起设计有趣的黑客项目。这似乎违反了某种守恒定律，但事实就是如此：获得“百万美元点子”的最佳方式就是去做黑客们本来就很乐意做的事情。"
+    },
+    {
+      "original": "Notes[1] This phenomenon may account for a number of discrepancies currently blamed on various forbidden isms. Never attribute to malice what can be explained by math.[2] A lot of classic abstract expressionism is doodling of this type: artists trained to paint from life using the same gestures but without using them to represent anything.",
+      "translated": "注释[1] 这种现象可能解释了许多目前归咎于各种禁忌主义的不一致之处。不要将可以用数学解释的问题归咎于恶意。[2] 许多经典抽象表现主义作品都是这种涂鸦：艺术家们受过从生活中绘画的训练，使用相同的笔触，但不用于表现任何具体事物。"
+    },
+    {
+      "original": "This explains why such paintings are (slightly) more interesting than random marks would be.[3] Bill Yerazunis had solved the problem, but he got there by another path. He made a general-purpose file classifier so good that it also worked for spam.One Specific IdeaRomanian TranslationJapanese TranslationTraditional Chinese TranslationRussian TranslationArabic Translation",
+      "translated": "这解释了为什么这些画作（稍微）比随意的标记更有趣。[3] 比尔·耶拉祖尼斯解决了这个问题，但他走的是另一条路。他制作了一个通用的文件分类器，效果非常好，甚至可以用于过滤垃圾邮件。一个具体的想法罗马尼亚语翻译日语翻译繁体中文翻译俄语翻译阿拉伯语翻译"
+    }
+  ],
+  "translation_completed": "2025-07-28T23:07:07.544884",
+  "translation_stats": {
+    "total_paragraphs": 78,
+    "success_count": 78,
+    "success_rate": "100.0%"
+  }
+}

@@ -1,0 +1,209 @@
+{
+  "title": "Can You Buy a Silicon Valley?  Maybe.",
+  "title_zh": "[待翻译] Can You Buy a Silicon Valley?  Maybe.",
+  "url": "https://www.paulgraham.com/maybe.html",
+  "filename": "maybe.html",
+  "date": "2009-02-01",
+  "id": 161,
+  "content": {
+    "success": true,
+    "paragraphs": [
+      "February 2009A lot of cities look at Silicon Valley and ask \"How could we make something like that happen here?\" The organic way to do it is to establish a first-rate university in a place where rich people want to live.",
+      "That's how Silicon Valley happened. But could you shortcut the process by funding startups?Possibly. Let's consider what it would take.The first thing to understand is that encouraging startups is a different problem from encouraging startups in a particular city.",
+      "The latter is much more expensive.People sometimes think they could improve the startup scene in their town by starting something like Y Combinator there, but in fact it will have near zero effect. I know because Y Combinator itself had near zero effect on Boston when we were based there half the year.",
+      "The people we funded came from all over the country (indeed, the world) and afterward they went wherever they could get more funding—which generally meant Silicon Valley.The seed funding business is not a regional business, because at that stage startups are mobile.",
+      "They're just a couple founders with laptops. [1]If you want to encourage startups in a particular city, you have to fund startups that won't leave. There are two ways to do that: have rules preventing them from leaving, or fund them at the point in their life when they naturally take root.",
+      "The first approach is a mistake, because it becomes a filter for selecting bad startups. If your terms force startups to do things they don't want to, only the desperate ones will take your money.Good startups will move to another city as a condition of funding.",
+      "What they won't do is agree not to move the next time they need funding. So the only way to get them to stay is to give them enough that they never need to leave.___How much would that take? If you want to keep startups from leaving your town, you have to give them enough that they're not tempted by an offer from Silicon Valley VCs that requires them to move.",
+      "A startup would be able to refuse such an offer if they had grown to the point where they were (a) rooted in your town and/or (b) so successful that VCs would fund them even if they didn't move.How much would it cost to grow a startup to that point?",
+      "A minimum of several hundred thousand dollars. Wufoo seem to have rooted themselves in Tampa on $118k, but they're an extreme case. On average it would take at least half a million.So if it seems too good to be true to think you could grow a local silicon valley by giving startups $15-20k each like Y Combinator, that's because it is.",
+      "To make them stick around you'd have to give them at least 20 times that much.However, even that is an interesting prospect. Suppose to be on the safe side it would cost a million dollars per startup.",
+      "If you could get startups to stick to your town for a million apiece, then for a billion dollars you could bring in a thousand startups. That probably wouldn't push you past Silicon Valley itself, but it might get you second place.For the price of a football stadium, any town that was decent to live in could make itself one of the biggest startup hubs in the world.What's more, it wouldn't take very long.",
+      "You could probably do it in five years. During the term of one mayor. And it would get easier over time, because the more startups you had in town, the less it would take to get new ones to move there.",
+      "By the time you had a thousand startups in town, the VCs wouldn't be trying so hard to get them to move to Silicon Valley; instead they'd be opening local offices. Then you'd really be in good shape.",
+      "You'd have started a self-sustaining chain reaction like the one that drives the Valley.___But now comes the hard part. You have to pick the startups. How do you do that? Picking startups is a rare and valuable skill, and the handful of people who have it are not readily hireable.",
+      "And this skill is so hard to measure that if a government did try to hire people with it, they'd almost certainly get the wrong ones.For example, a city could give money to a VC fund to establish a local branch, and let them make the choices.",
+      "But only a bad VC fund would take that deal. They wouldn't seem bad to the city officials. They'd seem very impressive. But they'd be bad at picking startups. That's the characteristic failure mode of VCs.",
+      "All VCs look impressive to limited partners. The difference between the good ones and the bad ones only becomes visible in the other half of their jobs: choosing and advising startups. [2]What you really want is a pool of local angel investors—people investing money they made from their own startups.",
+      "But unfortunately you run into a chicken and egg problem here. If your city isn't already a startup hub, there won't be people there who got rich from startups. And there is no way I can think of that a city could attract angels from outside.",
+      "By definition they're rich. There's no incentive that would make them move. [3]However, a city could select startups by piggybacking on the expertise of investors who weren't local. It would be pretty straightforward to make a list of the most eminent Silicon Valley angels and from that to generate a list of all the startups they'd invested in.",
+      "If a city offered these companies a million dollars each to move, a lot of the earlier stage ones would probably take it.Preposterous as this plan sounds, it's probably the most efficient way a city could select good startups.It would hurt the startups somewhat to be separated from their original investors.",
+      "On the other hand, the extra million dollars would give them a lot more runway.___Would the transplanted startups survive? Quite possibly. The only way to find out would be to try it. It would be a pretty cheap experiment, as civil expenditures go.",
+      "Pick 30 startups that eminent angels have recently invested in, give them each a million dollars if they'll relocate to your city, and see what happens after a year. If they seem to be thriving, you can try importing startups on a larger scale.Don't be too legalistic about the conditions under which they're allowed to leave.",
+      "Just have a gentlemen's agreement.Don't try to do it on the cheap and pick only 10 for the initial experiment. If you do this on too small a scale you'll just guarantee failure. Startups need to be around other startups.",
+      "30 would be enough to feel like a community.Don't try to make them all work in some renovated warehouse you've made into an \"incubator.\" Real startups prefer to work in their own spaces.In fact, don't impose any restrictions on the startups at all.",
+      "Startup founders are mostly hackers, and hackers are much more constrained by gentlemen's agreements than regulations. If they shake your hand on a promise, they'll keep it. But show them a lock and their first thought is how to pick it.Interestingly, the 30-startup experiment could be done by any sufficiently rich private citizen.",
+      "And what pressure it would put on the city if it worked. [4]___Should the city take stock in return for the money? In principle they're entitled to, but how would they choose valuations for the startups?",
+      "You couldn't just give them all the same valuation: that would be too low for some (who'd turn you down) and too high for others (because it might make their next round a \"down round\"). And since we're assuming we're doing this without being able to pick startups, we also have to assume we can't value them, since that's practically the same thing.Another reason not to take stock in the startups is that startups are often involved in disreputable things.",
+      "So are established companies, but they don't get blamed for it. If someone gets murdered by someone they met on Facebook, the press will treat the story as if it were about Facebook. If someone gets murdered by someone they met at a supermarket, the press will just treat it as a story about a murder.",
+      "So understand that if you invest in startups, they might build things that get used for pornography, or file-sharing, or the expression of unfashionable opinions. You should probably sponsor this project jointly with your political opponents, so they can't use whatever the startups do as a club to beat you with.It would be too much of a political liability just to give the startups the money, though.",
+      "So the best plan would be to make it convertible debt, but which didn't convert except in a really big round, like $20 million.___How well this scheme worked would depend on the city. There are some towns, like Portland, that would be easy to turn into startup hubs, and others, like Detroit, where it would really be an uphill battle.",
+      "So be honest with yourself about the sort of town you have before you try this.It will be easier in proportion to how much your town resembles San Francisco. Do you have good weather? Do people live downtown, or have they abandoned the center for the suburbs?",
+      "Would the city be described as \"hip\" and \"tolerant,\" or as reflecting \"traditional values?\" Are there good universities nearby? Are there walkable neighborhoods? Would nerds feel at home? If you answered yes to all these questions, you might be able not only to pull off this scheme, but to do it for less than a million per startup.I realize the chance of any city having the political will to carry out this plan is microscopically small.",
+      "I just wanted to explore what it would take if one did. How hard would it be to jumpstart a silicon valley? It's fascinating to think this prize might be within the reach of so many cities. So even though they'll all still spend the money on the stadium, at least now someone can ask them: why did you choose to do that instead of becoming a serious rival to Silicon Valley?",
+      "Notes[1] What people who start these supposedly local seed firms always find is that (a) their applicants come from all over, not just the local area, and (b) the local startups also apply to the other seed firms.",
+      "So what ends up happening is that the applicant pool gets partitioned by quality rather than geography.[2] Interestingly, the bad VCs fail by choosing startups run by people like them—people who are good presenters, but have no real substance.",
+      "It's a case of the fake leading the fake. And since everyone involved is so plausible, the LPs who invest in these funds have no idea what's happening till they measure their returns.[3] Not even being a tax haven, I suspect.",
+      "That makes some rich people move, but not the type who would make good angel investors in startups.[4] Thanks to Michael Keenan for pointing this out.Thanks to Trevor Blackwell, Jessica Livingston, Robert Morris, and Fred Wilson for reading drafts of this."
+    ],
+    "word_count": 1871,
+    "paragraph_count": 37
+  },
+  "processed_at": "2025-07-26T19:06:38.250437",
+  "paragraphs": [
+    {
+      "original": "February 2009A lot of cities look at Silicon Valley and ask \"How could we make something like that happen here?\" The organic way to do it is to establish a first-rate university in a place where rich people want to live.",
+      "translated": "2009年2月，许多城市看着硅谷，问：“我们怎样才能在这里创造类似的事情？”最自然的方法是在富人想要居住的地方建立一所一流大学。"
+    },
+    {
+      "original": "That's how Silicon Valley happened. But could you shortcut the process by funding startups?Possibly. Let's consider what it would take.The first thing to understand is that encouraging startups is a different problem from encouraging startups in a particular city.",
+      "translated": "这就是硅谷的形成过程。但是否可以通过资助初创企业来加速这一过程呢？有可能。让我们考虑一下这需要什么。首先需要明白的是，鼓励初创企业与在特定城市鼓励初创企业是两个不同的问题。"
+    },
+    {
+      "original": "The latter is much more expensive.People sometimes think they could improve the startup scene in their town by starting something like Y Combinator there, but in fact it will have near zero effect. I know because Y Combinator itself had near zero effect on Boston when we were based there half the year.",
+      "translated": "后者要昂贵得多。人们有时认为，他们可以通过在自己的城市启动类似Y Combinator的项目来改善当地的创业环境，但实际上这将几乎没有效果。我知道这一点，因为当我们在波士顿半年时，Y Combinator 对波士顿的影响也几乎是零。"
+    },
+    {
+      "original": "The people we funded came from all over the country (indeed, the world) and afterward they went wherever they could get more funding—which generally meant Silicon Valley.The seed funding business is not a regional business, because at that stage startups are mobile.",
+      "translated": "我们资助的人来自全国各地（事实上，来自世界各地），之后他们去了能够获得更多资金的地方——这通常意味着硅谷。种子基金业务不是区域性的业务，因为在初创阶段，创业公司是流动的。"
+    },
+    {
+      "original": "They're just a couple founders with laptops. [1]If you want to encourage startups in a particular city, you have to fund startups that won't leave. There are two ways to do that: have rules preventing them from leaving, or fund them at the point in their life when they naturally take root.",
+      "translated": "他们只是几个带着笔记本电脑的创始人。[1]如果你想在一个特定的城市鼓励创业公司，你必须资助那些不会离开的公司。有两种方法可以做到这一点：制定规则防止他们离开，或者在他们自然扎根的阶段给予资助。"
+    },
+    {
+      "original": "The first approach is a mistake, because it becomes a filter for selecting bad startups. If your terms force startups to do things they don't want to, only the desperate ones will take your money.Good startups will move to another city as a condition of funding.",
+      "translated": "第一种方法是错误的，因为它会成为一个筛选劣质创业公司的过滤器。如果你的条款迫使创业公司去做它们不愿意做的事情，只有那些走投无路的公司才会接受你的资金。好的创业公司会将搬到另一个城市作为获得资金的条件。"
+    },
+    {
+      "original": "What they won't do is agree not to move the next time they need funding. So the only way to get them to stay is to give them enough that they never need to leave.___How much would that take? If you want to keep startups from leaving your town, you have to give them enough that they're not tempted by an offer from Silicon Valley VCs that requires them to move.",
+      "translated": "他们不会同意在下次需要资金时不再搬迁。所以，唯一让他们留下的方法就是给予他们足够的资金，使他们永远不必离开。这需要多少资金呢？如果你想阻止初创公司离开你的城市，你必须给予他们足够的资金，使他们不会因为硅谷风投提供的需要他们搬迁的诱人条件而动摇。"
+    },
+    {
+      "original": "A startup would be able to refuse such an offer if they had grown to the point where they were (a) rooted in your town and/or (b) so successful that VCs would fund them even if they didn't move.How much would it cost to grow a startup to that point?",
+      "translated": "一家初创公司如果已经发展到（a）在你的城市扎根和/或（b）如此成功，即使不搬迁，风险投资公司也会为其提供资金，那么它就可以拒绝这样的提议。要发展到这个阶段，需要花费多少成本？"
+    },
+    {
+      "original": "A minimum of several hundred thousand dollars. Wufoo seem to have rooted themselves in Tampa on $118k, but they're an extreme case. On average it would take at least half a million.So if it seems too good to be true to think you could grow a local silicon valley by giving startups $15-20k each like Y Combinator, that's because it is.",
+      "translated": "至少需要几十万美元。Wufoo 似乎在只有11.8万美元的情况下就在坦帕扎下了根，但他们是一个极端的例子。平均而言，至少需要50万美元。所以，如果你认为可以通过像Y Combinator那样给每个初创公司1.5万到2万美元来打造一个本地的硅谷，那听起来太美好而不真实，确实如此。"
+    },
+    {
+      "original": "To make them stick around you'd have to give them at least 20 times that much.However, even that is an interesting prospect. Suppose to be on the safe side it would cost a million dollars per startup.",
+      "translated": "要让他们留下来，你至少得给他们二十倍于此的报酬。然而，即使这样也颇具吸引力。假设为了保险起见，每家初创公司需要投入一百万美元。"
+    },
+    {
+      "original": "If you could get startups to stick to your town for a million apiece, then for a billion dollars you could bring in a thousand startups. That probably wouldn't push you past Silicon Valley itself, but it might get you second place.For the price of a football stadium, any town that was decent to live in could make itself one of the biggest startup hubs in the world.What's more, it wouldn't take very long.",
+      "translated": "如果能让每家初创公司都以一百万美元的价格留在你的城市，那么用十亿美元就可以吸引一千家初创公司。这可能还无法让你超越硅谷，但可能会让你成为第二。对于一个体面的居住城市来说，用建造一个足球场的代价，就能让自己成为世界上最大的创业中心之一。更重要的是，这不需要花费很长时间。"
+    },
+    {
+      "original": "You could probably do it in five years. During the term of one mayor. And it would get easier over time, because the more startups you had in town, the less it would take to get new ones to move there.",
+      "translated": "你大概可以在五年内完成。在一个市长的任期内。随着时间的推移，这会变得更容易，因为镇上的初创企业越多，吸引新的企业来此所需的条件就越少。"
+    },
+    {
+      "original": "By the time you had a thousand startups in town, the VCs wouldn't be trying so hard to get them to move to Silicon Valley; instead they'd be opening local offices. Then you'd really be in good shape.",
+      "translated": "等到镇上有了一千家初创公司，风险投资家就不会再那么努力地试图让它们迁往硅谷；相反，他们会开设当地办事处。那时你才会真正处于有利地位。"
+    },
+    {
+      "original": "You'd have started a self-sustaining chain reaction like the one that drives the Valley.___But now comes the hard part. You have to pick the startups. How do you do that? Picking startups is a rare and valuable skill, and the handful of people who have it are not readily hireable.",
+      "translated": "你本可以启动一个像推动硅谷那样的自维持连锁反应。但现在 comes the hard part. 你得挑选初创公司。你该如何做呢？挑选初创公司是一项罕见且宝贵的技能，而拥有这项技能的少数人并不容易被雇佣。"
+    },
+    {
+      "original": "And this skill is so hard to measure that if a government did try to hire people with it, they'd almost certainly get the wrong ones.For example, a city could give money to a VC fund to establish a local branch, and let them make the choices.",
+      "translated": "这项技能如此难以衡量，以至于如果政府真的试图聘请具备这种技能的人，几乎肯定会选错人。例如，一个城市可以拨款给一家风险投资基金，让他们在当地设立分支机构，并让他们来做决策。"
+    },
+    {
+      "original": "But only a bad VC fund would take that deal. They wouldn't seem bad to the city officials. They'd seem very impressive. But they'd be bad at picking startups. That's the characteristic failure mode of VCs.",
+      "translated": "但只有糟糕的风险投资基金才会接受这种交易。它们在城市官员看来并不会显得糟糕，反而会显得非常 impressive。但它们在挑选初创企业方面却很糟糕。这就是风险投资公司的典型失败模式。"
+    },
+    {
+      "original": "All VCs look impressive to limited partners. The difference between the good ones and the bad ones only becomes visible in the other half of their jobs: choosing and advising startups. [2]What you really want is a pool of local angel investors—people investing money they made from their own startups.",
+      "translated": "所有风险投资机构在有限合伙人看来都很 impressive。优秀与平庸之间的区别只在他们工作的另一半中显现出来：选择和指导初创企业。你真正需要的是一群当地的天使投资者——那些用自己的创业所得进行投资的人。"
+    },
+    {
+      "original": "But unfortunately you run into a chicken and egg problem here. If your city isn't already a startup hub, there won't be people there who got rich from startups. And there is no way I can think of that a city could attract angels from outside.",
+      "translated": "但不幸的是，这里你遇到了一个先有鸡还是先有蛋的问题。如果你所在的城市还不是创业中心，那么那里就不会有通过创业致富的人。而且，我也想不出有什么办法能让这座城市吸引到外部的天使投资者。"
+    },
+    {
+      "original": "By definition they're rich. There's no incentive that would make them move. [3]However, a city could select startups by piggybacking on the expertise of investors who weren't local. It would be pretty straightforward to make a list of the most eminent Silicon Valley angels and from that to generate a list of all the startups they'd invested in.",
+      "translated": "按定义，他们很富有。没有任何激励能让他们搬家。[3]然而，一个城市可以通过借鉴非本地投资者的专业知识来挑选初创企业。列出最著名的硅谷天使投资者，然后根据这些投资者所投资的初创企业来生成一个清单，这是相当直接的。"
+    },
+    {
+      "original": "If a city offered these companies a million dollars each to move, a lot of the earlier stage ones would probably take it.Preposterous as this plan sounds, it's probably the most efficient way a city could select good startups.It would hurt the startups somewhat to be separated from their original investors.",
+      "translated": "如果一个城市提供给这些公司每家一百万美元来搬迁，很多早期的公司可能会接受。尽管这个计划听起来荒诞不经，但它可能是城市选择优质初创企业的最有效方式。这会让初创企业与原始投资者分离，从而在一定程度上受到损害。"
+    },
+    {
+      "original": "On the other hand, the extra million dollars would give them a lot more runway.___Would the transplanted startups survive? Quite possibly. The only way to find out would be to try it. It would be a pretty cheap experiment, as civil expenditures go.",
+      "translated": "另一方面，额外的一百万美元会给他们更多的资金周转空间。___这些移植过来的初创企业能生存下去吗？很有可能。唯一的方法就是尝试一下。这在民用支出中算是一项相当便宜的实验。"
+    },
+    {
+      "original": "Pick 30 startups that eminent angels have recently invested in, give them each a million dollars if they'll relocate to your city, and see what happens after a year. If they seem to be thriving, you can try importing startups on a larger scale.Don't be too legalistic about the conditions under which they're allowed to leave.",
+      "translated": "挑选30家最近受到知名天使投资者青睐的初创企业，如果它们愿意搬迁到你的城市，每家给予100万美元的资金支持，然后观察一年后的情况。如果它们看起来发展良好，你可以尝试更大规模地引入初创企业。对于它们获准离开的条件，不要过于拘泥于法律条文。"
+    },
+    {
+      "original": "Just have a gentlemen's agreement.Don't try to do it on the cheap and pick only 10 for the initial experiment. If you do this on too small a scale you'll just guarantee failure. Startups need to be around other startups.",
+      "translated": "就定个君子协议吧。不要为了省钱而只挑选10个来做初期实验。如果规模太小，只会确保失败。初创企业需要与其他初创企业为邻。"
+    },
+    {
+      "original": "30 would be enough to feel like a community.Don't try to make them all work in some renovated warehouse you've made into an \"incubator.\" Real startups prefer to work in their own spaces.In fact, don't impose any restrictions on the startups at all.",
+      "translated": "30 人就足以形成一个社区了。不要试图让他们都在你改建的“孵化器”仓库里工作。真正的初创企业更喜欢在自己的空间里工作。事实上，不要对这些初创企业施加任何限制。"
+    },
+    {
+      "original": "Startup founders are mostly hackers, and hackers are much more constrained by gentlemen's agreements than regulations. If they shake your hand on a promise, they'll keep it. But show them a lock and their first thought is how to pick it.Interestingly, the 30-startup experiment could be done by any sufficiently rich private citizen.",
+      "translated": "初创公司的创始人大多是黑客，而黑客更受君子协议的约束，而非法规。如果他们与你握手许下承诺，他们就会遵守。但如果你给他们看一把锁，他们的第一反应就是如何破解它。有趣的是，这项涉及30家初创公司的实验完全可以由任何足够富有的私人公民来实施。"
+    },
+    {
+      "original": "And what pressure it would put on the city if it worked. [4]___Should the city take stock in return for the money? In principle they're entitled to, but how would they choose valuations for the startups?",
+      "translated": "如果这种方法奏效，将给这座城市带来多大的压力。[4]___城市是否应该以资金换取股权？原则上他们有这个权利，但他们将如何为这些初创公司估值？"
+    },
+    {
+      "original": "You couldn't just give them all the same valuation: that would be too low for some (who'd turn you down) and too high for others (because it might make their next round a \"down round\"). And since we're assuming we're doing this without being able to pick startups, we also have to assume we can't value them, since that's practically the same thing.Another reason not to take stock in the startups is that startups are often involved in disreputable things.",
+      "translated": "你不能给它们都定一样的估值：对于一些公司来说，这个估值会太低（它们会拒绝你），而对于另一些公司来说，这个估值又会太高（因为这可能会使它们的下一轮融资变成“降价融资”）。由于我们假设无法挑选初创公司，我们也必须假设我们无法对它们进行估值，因为这实际上是同一回事。另一个不接受初创公司股权的原因是，初创公司经常涉足不光彩的事情。"
+    },
+    {
+      "original": "So are established companies, but they don't get blamed for it. If someone gets murdered by someone they met on Facebook, the press will treat the story as if it were about Facebook. If someone gets murdered by someone they met at a supermarket, the press will just treat it as a story about a murder.",
+      "translated": "因此，对于老牌公司来说也是如此，但它们不会因此受到指责。如果有人被他们在Facebook上认识的人杀害，媒体会将这个故事当作是关于Facebook的。如果有人被他们在超市认识的人杀害，媒体只会将其当作是一起谋杀案来报道。"
+    },
+    {
+      "original": "So understand that if you invest in startups, they might build things that get used for pornography, or file-sharing, or the expression of unfashionable opinions. You should probably sponsor this project jointly with your political opponents, so they can't use whatever the startups do as a club to beat you with.It would be too much of a political liability just to give the startups the money, though.",
+      "translated": "所以你要明白，如果你投资初创企业，他们可能会开发出被用于色情、文件共享或表达不流行观点的产品。你最好与你的政治对手共同资助这个项目，这样他们就不能利用初创企业的行为来攻击你。不过，仅仅给这些初创企业资金可能会带来太大的政治风险。"
+    },
+    {
+      "original": "So the best plan would be to make it convertible debt, but which didn't convert except in a really big round, like $20 million.___How well this scheme worked would depend on the city. There are some towns, like Portland, that would be easy to turn into startup hubs, and others, like Detroit, where it would really be an uphill battle.",
+      "translated": "所以最好的方案是将其设定为可转换债务，但仅在大规模融资轮，比如2000万美元的融资轮中才进行转换。这个方案的效果将取决于城市。有些城市，比如波特兰，很容易转型为创业中心，而另一些城市，比如底特律，则会面临巨大的挑战。"
+    },
+    {
+      "original": "So be honest with yourself about the sort of town you have before you try this.It will be easier in proportion to how much your town resembles San Francisco. Do you have good weather? Do people live downtown, or have they abandoned the center for the suburbs?",
+      "translated": "所以，在尝试之前，请诚实地评估你所在城镇的情况。这将会随着你的城镇与旧金山的相似程度而变得更容易。你们的天气好吗？人们是住在市中心，还是已经搬到了郊区？"
+    },
+    {
+      "original": "Would the city be described as \"hip\" and \"tolerant,\" or as reflecting \"traditional values?\" Are there good universities nearby? Are there walkable neighborhoods? Would nerds feel at home? If you answered yes to all these questions, you might be able not only to pull off this scheme, but to do it for less than a million per startup.I realize the chance of any city having the political will to carry out this plan is microscopically small.",
+      "translated": "这座城市会被描述为“时髦”和“包容”，还是会反映“传统价值观”？附近是否有好的大学？是否有适合步行的街区？极客们是否会感到宾至如归？如果你对所有这些问题都回答“是”，那么你不仅有可能成功实施这个计划，而且每个初创公司的成本可能还不到一百万美元。我意识到，任何城市都有微乎其微的政治意愿来实施这一计划。"
+    },
+    {
+      "original": "I just wanted to explore what it would take if one did. How hard would it be to jumpstart a silicon valley? It's fascinating to think this prize might be within the reach of so many cities. So even though they'll all still spend the money on the stadium, at least now someone can ask them: why did you choose to do that instead of becoming a serious rival to Silicon Valley?",
+      "translated": "我只是想探讨一下如果有人真的这么做会需要什么。启动一个新的硅谷究竟有多难？令人着迷的是，这个目标可能在许多城市触手可及。所以即使他们仍然会把钱花在体育场建设上，至少现在有人可以问他们：为什么你们选择这样做而不是成为硅谷的真正竞争对手？"
+    },
+    {
+      "original": "Notes[1] What people who start these supposedly local seed firms always find is that (a) their applicants come from all over, not just the local area, and (b) the local startups also apply to the other seed firms.",
+      "translated": "注[1] 开设这些所谓的本地种子企业的人都会发现：(a) 他们的申请者来自全国各地，而不仅仅是本地；(b) 本地的初创企业也会申请其他种子企业。"
+    },
+    {
+      "original": "So what ends up happening is that the applicant pool gets partitioned by quality rather than geography.[2] Interestingly, the bad VCs fail by choosing startups run by people like them—people who are good presenters, but have no real substance.",
+      "translated": "于是，申请者群体最终是按质量而非地理位置被划分的。有趣的是，糟糕的风险投资人失败的原因在于他们选择了与自己相似的创业者——那些善于表现但没有真正内涵的人。"
+    },
+    {
+      "original": "It's a case of the fake leading the fake. And since everyone involved is so plausible, the LPs who invest in these funds have no idea what's happening till they measure their returns.[3] Not even being a tax haven, I suspect.",
+      "translated": "这是一个假的引领假的现象。由于所有相关人员都显得如此可信，直到投资者衡量回报之前，这些基金的LP（有限合伙人）都不会意识到发生了什么。[3] 我怀疑这甚至与是否是避税天堂无关。"
+    },
+    {
+      "original": "That makes some rich people move, but not the type who would make good angel investors in startups.[4] Thanks to Michael Keenan for pointing this out.Thanks to Trevor Blackwell, Jessica Livingston, Robert Morris, and Fred Wilson for reading drafts of this.",
+      "translated": "这使得一些有钱人搬迁，但不是那种会成为初创企业良好天使投资者的类型。[4] 感谢 Michael Keenan 指出这一点。感谢 Trevor Blackwell、Jessica Livingston、Robert Morris 和 Fred Wilson 阅读本文草稿。"
+    }
+  ],
+  "translation_completed": "2025-07-28T15:06:52.912548",
+  "translation_stats": {
+    "total_paragraphs": 37,
+    "success_count": 37,
+    "success_rate": "100.0%"
+  }
+}

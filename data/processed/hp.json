@@ -1,0 +1,584 @@
+{
+  "title": "Hackers and Painters",
+  "title_zh": "[待翻译] Hackers and Painters",
+  "url": "https://www.paulgraham.com/hp.html",
+  "filename": "hp.html",
+  "date": "2003-05-01",
+  "id": 219,
+  "content": {
+    "success": true,
+    "paragraphs": [
+      "May 2003(This essay is derived from a guest lecture at Harvard, which incorporated an earlier talk at Northeastern.)When I finished grad school in computer science I went to art school to study painting.",
+      "A lot of people seemed surprised that someone interested in computers would also be interested in painting. They seemed to think that hacking and painting were very different kinds of work-- that hacking was cold, precise, and methodical, and that painting was the frenzied expression of some primal urge.Both of these images are wrong.",
+      "Hacking and painting have a lot in common. In fact, of all the different types of people I've known, hackers and painters are among the most alike.What hackers and painters have in common is that they're both makers.",
+      "Along with composers, architects, and writers, what hackers and painters are trying to do is make good things. They're not doing research per se, though if in the course of trying to make good things they discover some new technique, so much the better.I've never liked the term \"computer science.\" The main reason I don't like it is that there's no such thing.",
+      "Computer science is a grab bag of tenuously related areas thrown together by an accident of history, like Yugoslavia. At one end you have people who are really mathematicians, but call what they're doing computer science so they can get DARPA grants.",
+      "In the middle you have people working on something like the natural history of computers-- studying the behavior of algorithms for routing data through networks, for example. And then at the other extreme you have the hackers, who are trying to write interesting software, and for whom computers are just a medium of expression, as concrete is for architects or paint for painters.",
+      "It's as if mathematicians, physicists, and architects all had to be in the same department.Sometimes what the hackers do is called \"software engineering,\" but this term is just as misleading. Good software designers are no more engineers than architects are.",
+      "The border between architecture and engineering is not sharply defined, but it's there. It falls between what and how: architects decide what to do, and engineers figure out how to do it.What and how should not be kept too separate.",
+      "You're asking for trouble if you try to decide what to do without understanding how to do it. But hacking can certainly be more than just deciding how to implement some spec. At its best, it's creating the spec-- though it turns out the best way to do that is to implement it.Perhaps one day \"computer science\" will, like Yugoslavia, get broken up into its component parts.",
+      "That might be a good thing. Especially if it meant independence for my native land, hacking.Bundling all these different types of work together in one department may be convenient administratively, but it's confusing intellectually.",
+      "That's the other reason I don't like the name \"computer science.\" Arguably the people in the middle are doing something like an experimental science. But the people at either end, the hackers and the mathematicians, are not actually doing science.The mathematicians don't seem bothered by this.",
+      "They happily set to work proving theorems like the other mathematicians over in the math department, and probably soon stop noticing that the building they work in says ``computer science'' on the outside.",
+      "But for the hackers this label is a problem. If what they're doing is called science, it makes them feel they ought to be acting scientific. So instead of doing what they really want to do, which is to design beautiful software, hackers in universities and research labs feel they ought to be writing research papers.In the best case, the papers are just a formality.",
+      "Hackers write cool software, and then write a paper about it, and the paper becomes a proxy for the achievement represented by the software. But often this mismatch causes problems. It's easy to drift away from building beautiful things toward building ugly things that make more suitable subjects for research papers.Unfortunately, beautiful things don't always make the best subjects for papers.",
+      "Number one, research must be original-- and as anyone who has written a PhD dissertation knows, the way to be sure that you're exploring virgin territory is to stake out a piece of ground that no one wants.",
+      "Number two, research must be substantial-- and awkward systems yield meatier papers, because you can write about the obstacles you have to overcome in order to get things done. Nothing yields meaty problems like starting with the wrong assumptions.",
+      "Most of AI is an example of this rule; if you assume that knowledge can be represented as a list of predicate logic expressions whose arguments represent abstract concepts, you'll have a lot of papers to write about how to make this work.",
+      "As Ricky Ricardo used to say, \"Lucy, you got a lot of explaining to do.\"The way to create something beautiful is often to make subtle tweaks to something that already exists, or to combine existing ideas in a slightly new way.",
+      "This kind of work is hard to convey in a research paper.So why do universities and research labs continue to judge hackers by publications? For the same reason that \"scholastic aptitude\" gets measured by simple-minded standardized tests, or the productivity of programmers gets measured in lines of code.",
+      "These tests are easy to apply, and there is nothing so tempting as an easy test that kind of works.Measuring what hackers are actually trying to do, designing beautiful software, would be much more difficult.",
+      "You need a good sense of design to judge good design. And there is no correlation, except possibly a negative one, between people's ability to recognize good design and their confidence that they can.The only external test is time.",
+      "Over time, beautiful things tend to thrive, and ugly things tend to get discarded. Unfortunately, the amounts of time involved can be longer than human lifetimes. Samuel Johnson said it took a hundred years for a writer's reputation to converge.",
+      "You have to wait for the writer's influential friends to die, and then for all their followers to die.I think hackers just have to resign themselves to having a large random component in their reputations.",
+      "In this they are no different from other makers. In fact, they're lucky by comparison. The influence of fashion is not nearly so great in hacking as it is in painting.There are worse things than having people misunderstand your work.",
+      "A worse danger is that you will yourself misunderstand your work. Related fields are where you go looking for ideas. If you find yourself in the computer science department, there is a natural temptation to believe, for example, that hacking is the applied version of what theoretical computer science is the theory of.",
+      "All the time I was in graduate school I had an uncomfortable feeling in the back of my mind that I ought to know more theory, and that it was very remiss of me to have forgotten all that stuff within three weeks of the final exam.Now I realize I was mistaken.",
+      "Hackers need to understand the theory of computation about as much as painters need to understand paint chemistry. You need to know how to calculate time and space complexity and about Turing completeness.",
+      "You might also want to remember at least the concept of a state machine, in case you have to write a parser or a regular expression library. Painters in fact have to remember a good deal more about paint chemistry than that.I've found that the best sources of ideas are not the other fields that have the word \"computer\" in their names, but the other fields inhabited by makers.",
+      "Painting has been a much richer source of ideas than the theory of computation.For example, I was taught in college that one ought to figure out a program completely on paper before even going near a computer.",
+      "I found that I did not program this way. I found that I liked to program sitting in front of a computer, not a piece of paper. Worse still, instead of patiently writing out a complete program and assuring myself it was correct, I tended to just spew out code that was hopelessly broken, and gradually beat it into shape.",
+      "Debugging, I was taught, was a kind of final pass where you caught typos and oversights. The way I worked, it seemed like programming consisted of debugging.For a long time I felt bad about this, just as I once felt bad that I didn't hold my pencil the way they taught me to in elementary school.",
+      "If I had only looked over at the other makers, the painters or the architects, I would have realized that there was a name for what I was doing: sketching. As far as I can tell, the way they taught me to program in college was all wrong.",
+      "You should figure out programs as you're writing them, just as writers and painters and architects do.Realizing this has real implications for software design. It means that a programming language should, above all, be malleable.",
+      "A programming language is for thinking of programs, not for expressing programs you've already thought of. It should be a pencil, not a pen. Static typing would be a fine idea if people actually did write programs the way they taught me to in college.",
+      "But that's not how any of the hackers I know write programs. We need a language that lets us scribble and smudge and smear, not a language where you have to sit with a teacup of types balanced on your knee and make polite conversation with a strict old aunt of a compiler.While we're on the subject of static typing, identifying with the makers will save us from another problem that afflicts the sciences: math envy.",
+      "Everyone in the sciences secretly believes that mathematicians are smarter than they are. I think mathematicians also believe this. At any rate, the result is that scientists tend to make their work look as mathematical as possible.",
+      "In a field like physics this probably doesn't do much harm, but the further you get from the natural sciences, the more of a problem it becomes.A page of formulas just looks so impressive. (Tip: for extra impressiveness, use Greek variables.) And so there is a great temptation to work on problems you can treat formally, rather than problems that are, say, important.If hackers identified with other makers, like writers and painters, they wouldn't feel tempted to do this.",
+      "Writers and painters don't suffer from math envy. They feel as if they're doing something completely unrelated. So are hackers, I think.If universities and research labs keep hackers from doing the kind of work they want to do, perhaps the place for them is in companies.",
+      "Unfortunately, most companies won't let hackers do what they want either. Universities and research labs force hackers to be scientists, and companies force them to be engineers.I only discovered this myself quite recently.",
+      "When Yahoo bought Viaweb, they asked me what I wanted to do. I had never liked the business side very much, and said that I just wanted to hack. When I got to Yahoo, I found that what hacking meant to them was implementing software, not designing it.",
+      "Programmers were seen as technicians who translated the visions (if that is the word) of product managers into code.This seems to be the default plan in big companies. They do it because it decreases the standard deviation of the outcome.",
+      "Only a small percentage of hackers can actually design software, and it's hard for the people running a company to pick these out. So instead of entrusting the future of the software to one brilliant hacker, most companies set things up so that it is designed by committee, and the hackers merely implement the design.If you want to make money at some point, remember this, because this is one of the reasons startups win.",
+      "Big companies want to decrease the standard deviation of design outcomes because they want to avoid disasters. But when you damp oscillations, you lose the high points as well as the low. This is not a problem for big companies, because they don't win by making great products.",
+      "Big companies win by sucking less than other big companies.So if you can figure out a way to get in a design war with a company big enough that its software is designed by product managers, they'll never be able to keep up with you.",
+      "These opportunities are not easy to find, though. It's hard to engage a big company in a design war, just as it's hard to engage an opponent inside a castle in hand to hand combat. It would be pretty easy to write a better word processor than Microsoft Word, for example, but Microsoft, within the castle of their operating system monopoly, probably wouldn't even notice if you did.The place to fight design wars is in new markets, where no one has yet managed to establish any fortifications.",
+      "That's where you can win big by taking the bold approach to design, and having the same people both design and implement the product. Microsoft themselves did this at the start. So did Apple. And Hewlett-Packard.",
+      "I suspect almost every successful startup has.So one way to build great software is to start your own startup. There are two problems with this, though. One is that in a startup you have to do so much besides write software.",
+      "At Viaweb I considered myself lucky if I got to hack a quarter of the time. And the things I had to do the other three quarters of the time ranged from tedious to terrifying. I have a benchmark for this, because I once had to leave a board meeting to have some cavities filled.",
+      "I remember sitting back in the dentist's chair, waiting for the drill, and feeling like I was on vacation.The other problem with startups is that there is not much overlap between the kind of software that makes money and the kind that's interesting to write.",
+      "Programming languages are interesting to write, and Microsoft's first product was one, in fact, but no one will pay for programming languages now. If you want to make money, you tend to be forced to work on problems that are too nasty for anyone to solve for free.All makers face this problem.",
+      "Prices are determined by supply and demand, and there is just not as much demand for things that are fun to work on as there is for things that solve the mundane problems of individual customers. Acting in off-Broadway plays just doesn't pay as well as wearing a gorilla suit in someone's booth at a trade show.",
+      "Writing novels doesn't pay as well as writing ad copy for garbage disposals. And hacking programming languages doesn't pay as well as figuring out how to connect some company's legacy database to their Web server.I think the answer to this problem, in the case of software, is a concept known to nearly all makers: the day job.",
+      "This phrase began with musicians, who perform at night. More generally, it means that you have one kind of work you do for money, and another for love.Nearly all makers have day jobs early in their careers.",
+      "Painters and writers notoriously do. If you're lucky you can get a day job that's closely related to your real work. Musicians often seem to work in record stores. A hacker working on some programming language or operating system might likewise be able to get a day job using it.",
+      "[1]When I say that the answer is for hackers to have day jobs, and work on beautiful software on the side, I'm not proposing this as a new idea. This is what open-source hacking is all about. What I'm saying is that open-source is probably the right model, because it has been independently confirmed by all the other makers.It seems surprising to me that any employer would be reluctant to let hackers work on open-source projects.",
+      "At Viaweb, we would have been reluctant to hire anyone who didn't. When we interviewed programmers, the main thing we cared about was what kind of software they wrote in their spare time. You can't do anything really well unless you love it, and if you love to hack you'll inevitably be working on projects of your own.",
+      "[2]Because hackers are makers rather than scientists, the right place to look for metaphors is not in the sciences, but among other kinds of makers. What else can painting teach us about hacking?One thing we can learn, or at least confirm, from the example of painting is how to learn to hack.",
+      "You learn to paint mostly by doing it. Ditto for hacking. Most hackers don't learn to hack by taking college courses in programming. They learn to hack by writing programs of their own at age thirteen.",
+      "Even in college classes, you learn to hack mostly by hacking. [3]Because painters leave a trail of work behind them, you can watch them learn by doing. If you look at the work of a painter in chronological order, you'll find that each painting builds on things that have been learned in previous ones.",
+      "When there's something in a painting that works very well, you can usually find version 1 of it in a smaller form in some earlier painting.I think most makers work this way. Writers and architects seem to as well.",
+      "Maybe it would be good for hackers to act more like painters, and regularly start over from scratch, instead of continuing to work for years on one project, and trying to incorporate all their later ideas as revisions.The fact that hackers learn to hack by doing it is another sign of how different hacking is from the sciences.",
+      "Scientists don't learn science by doing it, but by doing labs and problem sets. Scientists start out doing work that's perfect, in the sense that they're just trying to reproduce work someone else has already done for them.",
+      "Eventually, they get to the point where they can do original work. Whereas hackers, from the start, are doing original work; it's just very bad. So hackers start original, and get good, and scientists start good, and get original.",
+      "The other way makers learn is from examples. For a painter, a museum is a reference library of techniques. For hundreds of years it has been part of the traditional education of painters to copy the works of the great masters, because copying forces you to look closely at the way a painting is made.Writers do this too.",
+      "Benjamin Franklin learned to write by summarizing the points in the essays of Addison and Steele and then trying to reproduce them. Raymond Chandler did the same thing with detective stories.Hackers, likewise, can learn to program by looking at good programs-- not just at what they do, but the source code too.",
+      "One of the less publicized benefits of the open-source movement is that it has made it easier to learn to program. When I learned to program, we had to rely mostly on examples in books. The one big chunk of code available then was Unix, but even this was not open source.",
+      "Most of the people who read the source read it in illicit photocopies of John Lions' book, which though written in 1977 was not allowed to be published until 1996.Another example we can take from painting is the way that paintings are created by gradual refinement.",
+      "Paintings usually begin with a sketch. Gradually the details get filled in. But it is not merely a process of filling in. Sometimes the original plans turn out to be mistaken. Countless paintings, when you look at them in xrays, turn out to have limbs that have been moved or facial features that have been readjusted.Here's a case where we can learn from painting.",
+      "I think hacking should work this way too. It's unrealistic to expect that the specifications for a program will be perfect. You're better off if you admit this up front, and write programs in a way that allows specifications to change on the fly.(The structure of large companies makes this hard for them to do, so here is another place where startups have an advantage.)Everyone by now presumably knows about the danger of premature optimization.",
+      "I think we should be just as worried about premature design-- deciding too early what a program should do.The right tools can help us avoid this danger. A good programming language should, like oil paint, make it easy to change your mind.",
+      "Dynamic typing is a win here because you don't have to commit to specific data representations up front. But the key to flexibility, I think, is to make the language very abstract. The easiest program to change is one that's very short.",
+      "This sounds like a paradox, but a great painting has to be better than it has to be. For example, when Leonardo painted the portrait of Ginevra de Benci in the National Gallery, he put a juniper bush behind her head.",
+      "In it he carefully painted each individual leaf. Many painters might have thought, this is just something to put in the background to frame her head. No one will look that closely at it.Not Leonardo.",
+      "How hard he worked on part of a painting didn't depend at all on how closely he expected anyone to look at it. He was like Michael Jordan. Relentless.Relentlessness wins because, in the aggregate, unseen details become visible.",
+      "When people walk by the portrait of Ginevra de Benci, their attention is often immediately arrested by it, even before they look at the label and notice that it says Leonardo da Vinci. All those unseen details combine to produce something that's just stunning, like a thousand barely audible voices all singing in tune.Great software, likewise, requires a fanatical devotion to beauty.",
+      "If you look inside good software, you find that parts no one is ever supposed to see are beautiful too. I'm not claiming I write great software, but I know that when it comes to code I behave in a way that would make me eligible for prescription drugs if I approached everyday life the same way.",
+      "It drives me crazy to see code that's badly indented, or that uses ugly variable names.If a hacker were a mere implementor, turning a spec into code, then he could just work his way through it from one end to the other like someone digging a ditch.",
+      "But if the hacker is a creator, we have to take inspiration into account.In hacking, like painting, work comes in cycles. Sometimes you get excited about some new project and you want to work sixteen hours a day on it.",
+      "Other times nothing seems interesting.To do good work you have to take these cycles into account, because they're affected by how you react to them. When you're driving a car with a manual transmission on a hill, you have to back off the clutch sometimes to avoid stalling.",
+      "Backing off can likewise prevent ambition from stalling. In both painting and hacking there are some tasks that are terrifyingly ambitious, and others that are comfortingly routine. It's a good idea to save some easy tasks for moments when you would otherwise stall.In hacking, this can literally mean saving up bugs.",
+      "I like debugging: it's the one time that hacking is as straightforward as people think it is. You have a totally constrained problem, and all you have to do is solve it. Your program is supposed to do x.",
+      "Instead it does y. Where does it go wrong? You know you're going to win in the end. It's as relaxing as painting a wall.The example of painting can teach us not only how to manage our own work, but how to work together.",
+      "A lot of the great art of the past is the work of multiple hands, though there may only be one name on the wall next to it in the museum. Leonardo was an apprentice in the workshop of Verrocchio and painted one of the angels in his Baptism of Christ.",
+      "This sort of thing was the rule, not the exception. Michelangelo was considered especially dedicated for insisting on painting all the figures on the ceiling of the Sistine Chapel himself.As far as I know, when painters worked together on a painting, they never worked on the same parts.",
+      "It was common for the master to paint the principal figures and for assistants to paint the others and the background. But you never had one guy painting over the work of another.I think this is the right model for collaboration in software too.",
+      "Don't push it too far. When a piece of code is being hacked by three or four different people, no one of whom really owns it, it will end up being like a common-room. It will tend to feel bleak and abandoned, and accumulate cruft.",
+      "The right way to collaborate, I think, is to divide projects into sharply defined modules, each with a definite owner, and with interfaces between them that are as carefully designed and, if possible, as articulated as programming languages.Like painting, most software is intended for a human audience.",
+      "And so hackers, like painters, must have empathy to do really great work. You have to be able to see things from the user's point of view.When I was a kid I was always being told to look at things from someone else's point of view.",
+      "What this always meant in practice was to do what someone else wanted, instead of what I wanted. This of course gave empathy a bad name, and I made a point of not cultivating it.Boy, was I wrong. It turns out that looking at things from other people's point of view is practically the secret of success.",
+      "It doesn't necessarily mean being self-sacrificing. Far from it. Understanding how someone else sees things doesn't imply that you'll act in his interest; in some situations-- in war, for example-- you want to do exactly the opposite.",
+      "[4]Most makers make things for a human audience. And to engage an audience you have to understand what they need. Nearly all the greatest paintings are paintings of people, for example, because people are what people are interested in.Empathy is probably the single most important difference between a good hacker and a great one.",
+      "Some hackers are quite smart, but when it comes to empathy are practically solipsists. It's hard for such people to design great software [5], because they can't see things from the user's point of view.One way to tell how good people are at empathy is to watch them explain a technical question to someone without a technical background.",
+      "We probably all know people who, though otherwise smart, are just comically bad at this. If someone asks them at a dinner party what a programming language is, they'll say something like ``Oh, a high-level language is what the compiler uses as input to generate object code.'' High-level language?",
+      "Compiler? Object code? Someone who doesn't know what a programming language is obviously doesn't know what these things are, either.Part of what software has to do is explain itself. So to write good software you have to understand how little users understand.",
+      "They're going to walk up to the software with no preparation, and it had better do what they guess it will, because they're not going to read the manual. The best system I've ever seen in this respect was the original Macintosh, in 1985.",
+      "It did what software almost never does: it just worked. [6]Source code, too, should explain itself. If I could get people to remember just one quote about programming, it would be the one at the beginning of Structure and Interpretation of Computer Programs.",
+      "Programs should be written for people to read, and only incidentally for machines to execute. You need to have empathy not just for your users, but for your readers. It's in your interest, because you'll be one of them.",
+      "Many a hacker has written a program only to find on returning to it six months later that he has no idea how it works. I know several people who've sworn off Perl after such experiences. [7]Lack of empathy is associated with intelligence, to the point that there is even something of a fashion for it in some places.",
+      "But I don't think there's any correlation. You can do well in math and the natural sciences without having to learn empathy, and people in these fields tend to be smart, so the two qualities have come to be associated.",
+      "But there are plenty of dumb people who are bad at empathy too. Just listen to the people who call in with questions on talk shows. They ask whatever it is they're asking in such a roundabout way that the hosts often have to rephrase the question for them.So, if hacking works like painting and writing, is it as cool?",
+      "After all, you only get one life. You might as well spend it working on something great.Unfortunately, the question is hard to answer. There is always a big time lag in prestige. It's like light from a distant star.",
+      "Painting has prestige now because of great work people did five hundred years ago. At the time, no one thought these paintings were as important as we do today. It would have seemed very odd to people at the time that Federico da Montefeltro, the Duke of Urbino, would one day be known mostly as the guy with the strange nose in a painting by Piero della Francesca.So while I admit that hacking doesn't seem as cool as painting now, we should remember that painting itself didn't seem as cool in its glory days as it does now.What we can say with some confidence is that these are the glory days of hacking.",
+      "In most fields the great work is done early on. The paintings made between 1430 and 1500 are still unsurpassed. Shakespeare appeared just as professional theater was being born, and pushed the medium so far that every playwright since has had to live in his shadow.",
+      "Albrecht Durer did the same thing with engraving, and Jane Austen with the novel.Over and over we see the same pattern. A new medium appears, and people are so excited about it that they explore most of its possibilities in the first couple generations.",
+      "Hacking seems to be in this phase now.Painting was not, in Leonardo's time, as cool as his work helped make it. How cool hacking turns out to be will depend on what we can do with this new medium. Notes[1] The greatest damage that photography has done to painting may be the fact that it killed the best day job.",
+      "Most of the great painters in history supported themselves by painting portraits. [2] I've been told that Microsoft discourages employees from contributing to open-source projects, even in their spare time.",
+      "But so many of the best hackers work on open-source projects now that the main effect of this policy may be to ensure that they won't be able to hire any first-rate programmers.[3] What you learn about programming in college is much like what you learn about books or clothes or dating: what bad taste you had in high school.[4] Here's an example of applied empathy.",
+      "At Viaweb, if we couldn't decide between two alternatives, we'd ask, what would our competitors hate most? At one point a competitor added a feature to their software that was basically useless, but since it was one of few they had that we didn't, they made much of it in the trade press.",
+      "We could have tried to explain that the feature was useless, but we decided it would annoy our competitor more if we just implemented it ourselves, so we hacked together our own version that afternoon.[5] Except text editors and compilers.",
+      "Hackers don't need empathy to design these, because they are themselves typical users.[6] Well, almost. They overshot the available RAM somewhat, causing much inconvenient disk swapping, but this could be fixed within a few months by buying an additional disk drive.[7] The way to make programs easy to read is not to stuff them with comments.",
+      "I would take Abelson and Sussman's quote a step further. Programming languages should be designed to express algorithms, and only incidentally to tell computers how to execute them. A good programming language ought to be better for explaining software than English.",
+      "You should only need comments when there is some kind of kludge you need to warn readers about, just as on a road there are only arrows on parts with unexpectedly sharp curves. Thanks to Trevor Blackwell, Robert Morris, Dan Giffin, and Lisa Randall for reading drafts of this, and to Henry Leitner and Larry Finkelstein for inviting me to speak.Japanese TranslationSpanish TranslationGerman TranslationPortuguese TranslationCzech TranslationWhy Good Design Comes from Bad DesignKnuth: Computer Programming as an Art You'll find this essay and 14 others in Hackers & Painters."
+    ],
+    "word_count": 5530,
+    "paragraph_count": 112
+  },
+  "processed_at": "2025-07-26T19:08:37.441844",
+  "paragraphs": [
+    {
+      "original": "May 2003(This essay is derived from a guest lecture at Harvard, which incorporated an earlier talk at Northeastern.)When I finished grad school in computer science I went to art school to study painting.",
+      "translated": "2003年5月（本文源自在哈佛大学的一次客座演讲，该演讲融合了之前在东北大学的一次演讲内容。）当我从计算机科学专业毕业时，我去艺术学院学习绘画。"
+    },
+    {
+      "original": "A lot of people seemed surprised that someone interested in computers would also be interested in painting. They seemed to think that hacking and painting were very different kinds of work-- that hacking was cold, precise, and methodical, and that painting was the frenzied expression of some primal urge.Both of these images are wrong.",
+      "translated": "很多人似乎对一个对计算机感兴趣的人也会对绘画感兴趣感到惊讶。他们似乎认为黑客和绘画是非常不同种类的工作——认为黑客工作是冷冰冰的、精确的、有条不紊的，而绘画则是某种原始冲动的狂热表达。这两种形象都是错误的。"
+    },
+    {
+      "original": "Hacking and painting have a lot in common. In fact, of all the different types of people I've known, hackers and painters are among the most alike.What hackers and painters have in common is that they're both makers.",
+      "translated": "黑客和画家有很多共同点。事实上，在我认识的各种类型的人中，黑客和画家是最相似的。黑客和画家的共同之处在于，他们都是创造者。"
+    },
+    {
+      "original": "Along with composers, architects, and writers, what hackers and painters are trying to do is make good things. They're not doing research per se, though if in the course of trying to make good things they discover some new technique, so much the better.I've never liked the term \"computer science.\" The main reason I don't like it is that there's no such thing.",
+      "translated": "除了作曲家、建筑师和作家，黑客和画家所追求的也是创造美好的事物。他们并非在进行严格意义上的研究，但如果在尝试创造美好事物的过程中发现了一些新的技术，那自然是再好不过了。我从来不喜欢“计算机科学”这个术语。我不喜欢它的主要原因是，根本就不存在所谓的“计算机科学”。"
+    },
+    {
+      "original": "Computer science is a grab bag of tenuously related areas thrown together by an accident of history, like Yugoslavia. At one end you have people who are really mathematicians, but call what they're doing computer science so they can get DARPA grants.",
+      "translated": "计算机科学是一堆勉强相关的领域，因历史的偶然被拼凑在一起，就像南斯拉夫一样。一端是那些实际上是数学家的人，但他们称自己的工作为计算机科学，以便能够申请DARPA的拨款。"
+    },
+    {
+      "original": "In the middle you have people working on something like the natural history of computers-- studying the behavior of algorithms for routing data through networks, for example. And then at the other extreme you have the hackers, who are trying to write interesting software, and for whom computers are just a medium of expression, as concrete is for architects or paint for painters.",
+      "translated": "中间有一群人在研究计算机的自然历史——比如研究算法在网络中路由数据的行为。而在另一个极端，则是黑客们，他们试图编写有趣的软件，对于他们来说，计算机只是一种表达媒介，就像混凝土对于建筑师或颜料对于画家一样。"
+    },
+    {
+      "original": "It's as if mathematicians, physicists, and architects all had to be in the same department.Sometimes what the hackers do is called \"software engineering,\" but this term is just as misleading. Good software designers are no more engineers than architects are.",
+      "translated": "这就好像数学家、物理学家和建筑师都必须在同一个系里。有时候黑客所做的工作被称为“软件工程”，但这个术语同样具有误导性。优秀的软件设计师并不比建筑师更像工程师。"
+    },
+    {
+      "original": "The border between architecture and engineering is not sharply defined, but it's there. It falls between what and how: architects decide what to do, and engineers figure out how to do it.What and how should not be kept too separate.",
+      "translated": "建筑与工程之间的界限虽然不十分明确，但确实存在。这一界限在于“是什么”与“如何做”之间：建筑师决定要做什么，而工程师则研究如何实现。然而，“是什么”与“如何做”不应被过分割裂。"
+    },
+    {
+      "original": "You're asking for trouble if you try to decide what to do without understanding how to do it. But hacking can certainly be more than just deciding how to implement some spec. At its best, it's creating the spec-- though it turns out the best way to do that is to implement it.Perhaps one day \"computer science\" will, like Yugoslavia, get broken up into its component parts.",
+      "translated": "如果你试图在不了解如何操作的情况下决定该做什么，那你就自找麻烦了。但黑客行为绝不仅仅是决定如何实现某个规范。在最好的情况下，它是创造规范——尽管事实证明，最好的方法是去实现它。也许有一天，“计算机科学”会像南斯拉夫一样，被分解为其组成部分。"
+    },
+    {
+      "original": "That might be a good thing. Especially if it meant independence for my native land, hacking.Bundling all these different types of work together in one department may be convenient administratively, but it's confusing intellectually.",
+      "translated": "这可能是一件好事。尤其是如果这意味着我的祖国能够独立。将所有这些不同类型的工作归到一个部门里可能在行政上比较方便，但在智力上却令人困惑。"
+    },
+    {
+      "original": "That's the other reason I don't like the name \"computer science.\" Arguably the people in the middle are doing something like an experimental science. But the people at either end, the hackers and the mathematicians, are not actually doing science.The mathematicians don't seem bothered by this.",
+      "translated": "这就是我不喜欢“计算机科学”这个名字的另一个原因。可以说，中间的人在做某种实验科学。但两端的人，黑客和数学家，实际上并没有在做科学。数学家似乎对此并不在意。"
+    },
+    {
+      "original": "They happily set to work proving theorems like the other mathematicians over in the math department, and probably soon stop noticing that the building they work in says ``computer science'' on the outside.",
+      "translated": "他们高兴地开始证明定理，就像数学系的其他数学家一样，可能很快就不会注意到他们工作的楼外面写着“计算机科学”。"
+    },
+    {
+      "original": "But for the hackers this label is a problem. If what they're doing is called science, it makes them feel they ought to be acting scientific. So instead of doing what they really want to do, which is to design beautiful software, hackers in universities and research labs feel they ought to be writing research papers.In the best case, the papers are just a formality.",
+      "translated": "但对于黑客来说，这个标签是个问题。如果他们所做的事情被称为科学，这让他们觉得自己应该表现得像科学家一样。因此，他们没有去做他们真正想做的事情，即设计美丽的软件，而是在大学和研究实验室里觉得应该去写研究论文。在最好的情况下，这些论文只是一种形式。"
+    },
+    {
+      "original": "Hackers write cool software, and then write a paper about it, and the paper becomes a proxy for the achievement represented by the software. But often this mismatch causes problems. It's easy to drift away from building beautiful things toward building ugly things that make more suitable subjects for research papers.Unfortunately, beautiful things don't always make the best subjects for papers.",
+      "translated": "黑客编写酷炫的软件，然后撰写一篇关于它的论文，论文就成了软件成就的代表。但这种错配往往会导致问题。人们很容易从创造美好的事物转向创造更适合研究论文的丑陋事物。不幸的是，美好的事物并不总是最适合论文的主题。"
+    },
+    {
+      "original": "Number one, research must be original-- and as anyone who has written a PhD dissertation knows, the way to be sure that you're exploring virgin territory is to stake out a piece of ground that no one wants.",
+      "translated": "首先，研究必须是原创的——正如任何写过博士论文的人都知道，确保你正在探索的是未开发领域的方法是选择一块没有人感兴趣的地方。"
+    },
+    {
+      "original": "Number two, research must be substantial-- and awkward systems yield meatier papers, because you can write about the obstacles you have to overcome in order to get things done. Nothing yields meaty problems like starting with the wrong assumptions.",
+      "translated": "第二，研究必须具有实质内容——而笨拙的系统会产生更丰富的内容，因为你可以写你在克服障碍以完成任务时的经历。没有什么比从错误的假设开始更能产生实质性的问题了。"
+    },
+    {
+      "original": "Most of AI is an example of this rule; if you assume that knowledge can be represented as a list of predicate logic expressions whose arguments represent abstract concepts, you'll have a lot of papers to write about how to make this work.",
+      "translated": "大多数人工智能都是这一规则的例证；如果你认为知识可以表示为一串谓词逻辑表达式，其中的参数代表抽象概念，那么你将有许多论文要写，探讨如何使这种方法奏效。"
+    },
+    {
+      "original": "As Ricky Ricardo used to say, \"Lucy, you got a lot of explaining to do.\"The way to create something beautiful is often to make subtle tweaks to something that already exists, or to combine existing ideas in a slightly new way.",
+      "translated": "正如里奇·里卡多过去常说的那样：“露西，你有很多解释要做。”创造美丽事物的方式往往是对已有的东西进行细微的调整，或是以略微新颖的方式结合现有的想法。"
+    },
+    {
+      "original": "This kind of work is hard to convey in a research paper.So why do universities and research labs continue to judge hackers by publications? For the same reason that \"scholastic aptitude\" gets measured by simple-minded standardized tests, or the productivity of programmers gets measured in lines of code.",
+      "translated": "这种工作很难在研究论文中表达出来。那么，为什么大学和研究实验室仍然以发表论文来评价黑客呢？原因与“学术能力”通过简单的标准化测试来衡量，或者程序员的生产率通过代码行数来衡量是一样的。"
+    },
+    {
+      "original": "These tests are easy to apply, and there is nothing so tempting as an easy test that kind of works.Measuring what hackers are actually trying to do, designing beautiful software, would be much more difficult.",
+      "translated": "这些测试很容易应用，没有什么比一个勉强能用的简单测试更诱人的了。测量黑客实际在做的事情，设计出优美的软件，将会困难得多。"
+    },
+    {
+      "original": "You need a good sense of design to judge good design. And there is no correlation, except possibly a negative one, between people's ability to recognize good design and their confidence that they can.The only external test is time.",
+      "translated": "你需要有良好的设计感才能判断好的设计。除了可能的负面相关外，人们识别好设计的能力与他们对自己判断力的信心之间没有关联。唯一的外部检验标准是时间。"
+    },
+    {
+      "original": "Over time, beautiful things tend to thrive, and ugly things tend to get discarded. Unfortunately, the amounts of time involved can be longer than human lifetimes. Samuel Johnson said it took a hundred years for a writer's reputation to converge.",
+      "translated": "随着时间的推移，美好的事物往往会繁荣昌盛，而丑陋的事物则往往会遭到淘汰。不幸的是，这一过程所涉及的时间可能超过人的寿命。塞缪尔·约翰逊曾说，一个作家的声誉需要一百年才能趋于稳定。"
+    },
+    {
+      "original": "You have to wait for the writer's influential friends to die, and then for all their followers to die.I think hackers just have to resign themselves to having a large random component in their reputations.",
+      "translated": "你得等到那位作家有影响力的朋友去世，然后再等他们所有的追随者去世。我认为，黑客们只能接受他们的声誉中存在很大的随机成分。"
+    },
+    {
+      "original": "In this they are no different from other makers. In fact, they're lucky by comparison. The influence of fashion is not nearly so great in hacking as it is in painting.There are worse things than having people misunderstand your work.",
+      "translated": "在这方面，他们与其他创造者并无二致。事实上，相比之下他们是幸运的。时尚对黑客的影响远不如对绘画的影响那么大。被人误解你的作品并非最糟糕的事情。"
+    },
+    {
+      "original": "A worse danger is that you will yourself misunderstand your work. Related fields are where you go looking for ideas. If you find yourself in the computer science department, there is a natural temptation to believe, for example, that hacking is the applied version of what theoretical computer science is the theory of.",
+      "translated": "更大的危险是你自己误解你的工作。相关领域是你寻找想法的地方。如果你发现自己在计算机科学系，就很容易自然而然地认为，比如说，黑客行为是理论计算机科学的实用版本。"
+    },
+    {
+      "original": "All the time I was in graduate school I had an uncomfortable feeling in the back of my mind that I ought to know more theory, and that it was very remiss of me to have forgotten all that stuff within three weeks of the final exam.Now I realize I was mistaken.",
+      "translated": "在我整个研究生期间，我总是有一种不舒服的感觉，觉得我应该了解更多理论，而且在期末考试后的三周内就忘记了所有这些东西，真是太不应该了。现在我意识到我错了。"
+    },
+    {
+      "original": "Hackers need to understand the theory of computation about as much as painters need to understand paint chemistry. You need to know how to calculate time and space complexity and about Turing completeness.",
+      "translated": "黑客需要了解计算理论，就像画家需要了解颜料化学一样。你需要知道如何计算时间和空间复杂度，以及图灵完备性。"
+    },
+    {
+      "original": "You might also want to remember at least the concept of a state machine, in case you have to write a parser or a regular expression library. Painters in fact have to remember a good deal more about paint chemistry than that.I've found that the best sources of ideas are not the other fields that have the word \"computer\" in their names, but the other fields inhabited by makers.",
+      "translated": "你可能还需要记住状态机的概念，以备你需要编写解析器或正则表达式库时使用。实际上，画家需要记住的关于颜料化学的知识远不止这些。我发现，最好的创意来源不是那些名字中带有“计算机”字样的领域，而是其他由创造者所占据的领域。"
+    },
+    {
+      "original": "Painting has been a much richer source of ideas than the theory of computation.For example, I was taught in college that one ought to figure out a program completely on paper before even going near a computer.",
+      "translated": "绘画一直是比计算理论更丰富的思想来源。例如，我在大学时被教导，应该在接触计算机之前就完全在纸上构思好程序。"
+    },
+    {
+      "original": "I found that I did not program this way. I found that I liked to program sitting in front of a computer, not a piece of paper. Worse still, instead of patiently writing out a complete program and assuring myself it was correct, I tended to just spew out code that was hopelessly broken, and gradually beat it into shape.",
+      "translated": "我发现我并不是这样编程的。我发现我喜欢坐在电脑前编程，而不是在纸上。更糟的是，我并不是耐心地写出一个完整的程序并确保它是正确的，而是倾向于随便吐出一堆完全无法运行的代码，然后逐渐将其调整到可以运行的状态。"
+    },
+    {
+      "original": "Debugging, I was taught, was a kind of final pass where you caught typos and oversights. The way I worked, it seemed like programming consisted of debugging.For a long time I felt bad about this, just as I once felt bad that I didn't hold my pencil the way they taught me to in elementary school.",
+      "translated": "调试，我被告知，是一种最终的检查，用来发现拼写错误和疏漏。而我工作的方式，似乎编程就是由调试组成的。很长一段时间里，我对此感到很沮丧，就像我曾经因为没有按照小学老师教的方法握笔而感到沮丧一样。"
+    },
+    {
+      "original": "If I had only looked over at the other makers, the painters or the architects, I would have realized that there was a name for what I was doing: sketching. As far as I can tell, the way they taught me to program in college was all wrong.",
+      "translated": "如果我早些看看其他创作者，比如画家或建筑师，我就会意识到我所做的其实有个名字：草图。据我所知，大学里教我编程的方法全都是错误的。"
+    },
+    {
+      "original": "You should figure out programs as you're writing them, just as writers and painters and architects do.Realizing this has real implications for software design. It means that a programming language should, above all, be malleable.",
+      "translated": "你应该在编写程序的过程中逐渐理清它们，就像作家、画家和建筑师一样。认识到这一点对软件设计有实际的影响。这意味着，编程语言首先应该是可塑的。"
+    },
+    {
+      "original": "A programming language is for thinking of programs, not for expressing programs you've already thought of. It should be a pencil, not a pen. Static typing would be a fine idea if people actually did write programs the way they taught me to in college.",
+      "translated": "编程语言是用来思考程序的，而不是用来表达你已经想好的程序的。它应该是一支铅笔，而不是一支钢笔。如果人们真的像大学里教我的那样编写程序，静态类型将是一个很好的主意。"
+    },
+    {
+      "original": "But that's not how any of the hackers I know write programs. We need a language that lets us scribble and smudge and smear, not a language where you have to sit with a teacup of types balanced on your knee and make polite conversation with a strict old aunt of a compiler.While we're on the subject of static typing, identifying with the makers will save us from another problem that afflicts the sciences: math envy.",
+      "translated": "但这并不是我认识的黑客们编写程序的方式。我们需要一种可以让我们随意涂鸦、涂抹和乱写的语言，而不是一种要求你端着类型这杯茶，坐在膝盖上，与一位严格的编译器老阿姨进行礼貌交谈的语言。说到静态类型，与制造者站在一起将使我们避免科学界面临的另一个问题：数学嫉妒。"
+    },
+    {
+      "original": "Everyone in the sciences secretly believes that mathematicians are smarter than they are. I think mathematicians also believe this. At any rate, the result is that scientists tend to make their work look as mathematical as possible.",
+      "translated": "科学界的每个人都暗自认为数学家比他们更聪明。我想数学家自己也这么认为。无论如何，结果就是科学家们总是尽量让自己的工作看起来尽可能数学化。"
+    },
+    {
+      "original": "In a field like physics this probably doesn't do much harm, but the further you get from the natural sciences, the more of a problem it becomes.A page of formulas just looks so impressive. (Tip: for extra impressiveness, use Greek variables.) And so there is a great temptation to work on problems you can treat formally, rather than problems that are, say, important.If hackers identified with other makers, like writers and painters, they wouldn't feel tempted to do this.",
+      "translated": "在物理学这样的领域，这可能没有什么害处，但你离自然科学越远，问题就变得越严重。一页公式看起来非常令人印象深刻。（小贴士：为了更加令人印象深刻，使用希腊字母作为变量。）因此，有一种很大的诱惑去研究可以用形式化方法处理的问题，而不是那些，比如说，重要的问题。如果黑客认同其他创作者，比如作家和画家，他们就不会有这样的诱惑。"
+    },
+    {
+      "original": "Writers and painters don't suffer from math envy. They feel as if they're doing something completely unrelated. So are hackers, I think.If universities and research labs keep hackers from doing the kind of work they want to do, perhaps the place for them is in companies.",
+      "translated": "作家和画家不会患数学嫉妒症。他们感觉自己的工作与数学完全无关。我想黑客也是如此。如果大学和研究实验室阻止黑客做他们想做的工作，那么也许他们应该去公司。"
+    },
+    {
+      "original": "Unfortunately, most companies won't let hackers do what they want either. Universities and research labs force hackers to be scientists, and companies force them to be engineers.I only discovered this myself quite recently.",
+      "translated": "不幸的是，大多数公司也不会让黑客随心所欲。大学和研究实验室迫使黑客成为科学家，而公司则迫使他们成为工程师。我也是最近才意识到这一点。"
+    },
+    {
+      "original": "When Yahoo bought Viaweb, they asked me what I wanted to do. I had never liked the business side very much, and said that I just wanted to hack. When I got to Yahoo, I found that what hacking meant to them was implementing software, not designing it.",
+      "translated": "当雅虎收购Viaweb时，他们问我想要做什么。我从来都不太喜欢业务方面的事情，所以我回答说，我只是想写代码。到了雅虎后，我发现他们所说的写代码是指实现软件，而不是设计软件。"
+    },
+    {
+      "original": "Programmers were seen as technicians who translated the visions (if that is the word) of product managers into code.This seems to be the default plan in big companies. They do it because it decreases the standard deviation of the outcome.",
+      "translated": "程序员被视为将产品经理的构想（如果可以这样称呼的话）转化为代码的技术人员。这似乎是大公司的默认做法。他们这样做是因为这可以降低结果的标准偏差。"
+    },
+    {
+      "original": "Only a small percentage of hackers can actually design software, and it's hard for the people running a company to pick these out. So instead of entrusting the future of the software to one brilliant hacker, most companies set things up so that it is designed by committee, and the hackers merely implement the design.If you want to make money at some point, remember this, because this is one of the reasons startups win.",
+      "translated": "只有少数黑客真正能够设计软件，而公司管理者很难识别出这些人。因此，大多数公司不会将软件的未来寄托于某一个天才黑客，而是设立一个委员会来设计软件，黑客们只是负责实现设计。如果你打算在某个时候赚钱，记住这一点，因为这是初创公司能够胜出的原因之一。"
+    },
+    {
+      "original": "Big companies want to decrease the standard deviation of design outcomes because they want to avoid disasters. But when you damp oscillations, you lose the high points as well as the low. This is not a problem for big companies, because they don't win by making great products.",
+      "translated": "大公司希望减少设计结果的标准偏差，因为他们想要避免灾难。但当你抑制波动时，不仅会消除低点，也会失去高点。这对大公司来说不是问题，因为他们并不是通过制造优秀产品来取胜的。"
+    },
+    {
+      "original": "Big companies win by sucking less than other big companies.So if you can figure out a way to get in a design war with a company big enough that its software is designed by product managers, they'll never be able to keep up with you.",
+      "translated": "大公司通过比其他大公司“逊色”得少而取胜。所以，如果你能找到一种方法与一家足够大的公司展开设计竞争，而这家公司的软件是由产品经理设计的，那么他们将永远无法赶上你。"
+    },
+    {
+      "original": "These opportunities are not easy to find, though. It's hard to engage a big company in a design war, just as it's hard to engage an opponent inside a castle in hand to hand combat. It would be pretty easy to write a better word processor than Microsoft Word, for example, but Microsoft, within the castle of their operating system monopoly, probably wouldn't even notice if you did.The place to fight design wars is in new markets, where no one has yet managed to establish any fortifications.",
+      "translated": "这些机会并不容易找到。与大公司在设计上竞争，就像试图在城堡内与对手进行肉搏战一样困难。例如，编写一个比微软Word更好的文字处理软件可能相对容易，但微软在操作系统垄断的城堡内，可能根本不会注意到你的努力。设计之战应在新兴市场进行，在那里还没有人建立起任何防御工事。"
+    },
+    {
+      "original": "That's where you can win big by taking the bold approach to design, and having the same people both design and implement the product. Microsoft themselves did this at the start. So did Apple. And Hewlett-Packard.",
+      "translated": "这就是你可以通过大胆的设计方法赢得胜利的地方，让同一团队既负责设计又负责实现产品。微软在初创时就是这样做的。苹果也是如此。还有惠普。"
+    },
+    {
+      "original": "I suspect almost every successful startup has.So one way to build great software is to start your own startup. There are two problems with this, though. One is that in a startup you have to do so much besides write software.",
+      "translated": "我怀疑几乎每个成功的初创公司都是这样。因此，创建伟大软件的一种方式是自己创办一家初创公司。不过，这样做有两个问题。一是，在初创公司里，除了编写软件，你还需要做很多其他的事情。"
+    },
+    {
+      "original": "At Viaweb I considered myself lucky if I got to hack a quarter of the time. And the things I had to do the other three quarters of the time ranged from tedious to terrifying. I have a benchmark for this, because I once had to leave a board meeting to have some cavities filled.",
+      "translated": "在 Viaweb，如果我有四分之一的时间可以编程，我就觉得自己很幸运了。而剩下的四分之三时间里，我做的事情从乏味到可怕不等。我有一个衡量标准，因为有一次我不得不离开董事会去补几颗牙。"
+    },
+    {
+      "original": "I remember sitting back in the dentist's chair, waiting for the drill, and feeling like I was on vacation.The other problem with startups is that there is not much overlap between the kind of software that makes money and the kind that's interesting to write.",
+      "translated": "我记得坐在牙医的椅子上，等待钻牙的时候，感觉像是在度假。创业公司的另一个问题是，能赚钱的软件和有趣编写的软件之间几乎没有重叠。"
+    },
+    {
+      "original": "Programming languages are interesting to write, and Microsoft's first product was one, in fact, but no one will pay for programming languages now. If you want to make money, you tend to be forced to work on problems that are too nasty for anyone to solve for free.All makers face this problem.",
+      "translated": "编程语言很有趣，微软的第一个产品实际上就是一种编程语言，但如今没有人会为编程语言付费。如果你想赚钱，往往会迫于无奈去解决那些复杂得没人愿意免费解决的问题。所有制造者都会面临这个问题。"
+    },
+    {
+      "original": "Prices are determined by supply and demand, and there is just not as much demand for things that are fun to work on as there is for things that solve the mundane problems of individual customers. Acting in off-Broadway plays just doesn't pay as well as wearing a gorilla suit in someone's booth at a trade show.",
+      "translated": "价格由供求关系决定，有趣的工作项目的需求并不如同解决个别客户日常问题的项目那样多。在非百老汇剧院演出的报酬远不如在贸易展会上扮演大猩猩来得高。"
+    },
+    {
+      "original": "Writing novels doesn't pay as well as writing ad copy for garbage disposals. And hacking programming languages doesn't pay as well as figuring out how to connect some company's legacy database to their Web server.I think the answer to this problem, in the case of software, is a concept known to nearly all makers: the day job.",
+      "translated": "写小说的收入不如为垃圾处理器写广告词。而破解编程语言的收入也不如弄清楚如何将某公司的遗留数据库连接到其网络服务器。我认为，对于软件行业来说，解决这个问题的方法是一个几乎所有的创作者都熟悉的概念：白天的工作。"
+    },
+    {
+      "original": "This phrase began with musicians, who perform at night. More generally, it means that you have one kind of work you do for money, and another for love.Nearly all makers have day jobs early in their careers.",
+      "translated": "这个说法起源于音乐家，他们晚上演出。更广泛地说，这意味着你有一份为了钱而做的工作，另一份则是出于热爱。几乎所有创作者在职业生涯初期都有白天的工作。"
+    },
+    {
+      "original": "Painters and writers notoriously do. If you're lucky you can get a day job that's closely related to your real work. Musicians often seem to work in record stores. A hacker working on some programming language or operating system might likewise be able to get a day job using it.",
+      "translated": "画家和作家臭名昭著地如此。如果你足够幸运，你可以找到一份与你真正的工作密切相关的日间工作。音乐家们常常似乎在唱片店工作。一个从事某种编程语言或操作系统工作的黑客也可能能够找到一份使用它的日间工作。"
+    },
+    {
+      "original": "[1]When I say that the answer is for hackers to have day jobs, and work on beautiful software on the side, I'm not proposing this as a new idea. This is what open-source hacking is all about. What I'm saying is that open-source is probably the right model, because it has been independently confirmed by all the other makers.It seems surprising to me that any employer would be reluctant to let hackers work on open-source projects.",
+      "translated": "[1] 当我说黑客应该有正式工作，而在业余时间开发美丽的软件时，我并不是在提出一个新想法。这正是开源黑客文化的精髓所在。我的意思是，开源很可能是一个正确的模式，因为其他所有创造者都独立地证实了这一点。我觉得任何雇主不愿意让黑客参与开源项目都是令人惊讶的。"
+    },
+    {
+      "original": "At Viaweb, we would have been reluctant to hire anyone who didn't. When we interviewed programmers, the main thing we cared about was what kind of software they wrote in their spare time. You can't do anything really well unless you love it, and if you love to hack you'll inevitably be working on projects of your own.",
+      "translated": "在Viaweb，我们对于不这样做的人是不会轻易雇佣的。当我们面试程序员时，我们最关心的是他们在业余时间写了什么样的软件。除非你热爱它，否则你不可能真正做得很好，而如果你喜欢编程，你必然会自己着手一些项目。"
+    },
+    {
+      "original": "[2]Because hackers are makers rather than scientists, the right place to look for metaphors is not in the sciences, but among other kinds of makers. What else can painting teach us about hacking?One thing we can learn, or at least confirm, from the example of painting is how to learn to hack.",
+      "translated": "[2]因为黑客是创造者而非科学家，所以寻找比喻的正确地方不是在科学领域，而是在其他类型的创造者之中。绘画还能教给我们关于黑客的哪些知识？我们从绘画的例子中学到，或者至少可以确认的一点是，如何学习黑客技术。"
+    },
+    {
+      "original": "You learn to paint mostly by doing it. Ditto for hacking. Most hackers don't learn to hack by taking college courses in programming. They learn to hack by writing programs of their own at age thirteen.",
+      "translated": "你主要通过实践来学习绘画。同样适用于黑客技术。大多数黑客并不是通过上大学的编程课程来学习黑客技术的。他们是在13岁时通过自己编写程序来学习的。"
+    },
+    {
+      "original": "Even in college classes, you learn to hack mostly by hacking. [3]Because painters leave a trail of work behind them, you can watch them learn by doing. If you look at the work of a painter in chronological order, you'll find that each painting builds on things that have been learned in previous ones.",
+      "translated": "即使在大学课程中，你也主要通过实际操作来学习编程。[3]因为画家在创作过程中会留下一系列作品，所以你可以通过他们的作品看到他们的学习过程。如果你按照时间顺序查看一位画家的作品，你会发现每幅画都建立在之前作品所学到的基础上。"
+    },
+    {
+      "original": "When there's something in a painting that works very well, you can usually find version 1 of it in a smaller form in some earlier painting.I think most makers work this way. Writers and architects seem to as well.",
+      "translated": "当一幅画中的某个部分非常成功时，你通常可以在某个早期的画作中找到它的雏形。我认为大多数创作者都是这样工作的。作家和建筑师似乎也是如此。"
+    },
+    {
+      "original": "Maybe it would be good for hackers to act more like painters, and regularly start over from scratch, instead of continuing to work for years on one project, and trying to incorporate all their later ideas as revisions.The fact that hackers learn to hack by doing it is another sign of how different hacking is from the sciences.",
+      "translated": "也许黑客们应该更像画家一样行事，经常从头开始，而不是在同一个项目上工作多年，并试图将后来的想法作为修订纳入其中。黑客通过实践来学习黑客技术，这也再次表明了黑客与科学之间的不同。"
+    },
+    {
+      "original": "Scientists don't learn science by doing it, but by doing labs and problem sets. Scientists start out doing work that's perfect, in the sense that they're just trying to reproduce work someone else has already done for them.",
+      "translated": "科学家并不是通过从事科学工作来学习科学，而是通过做实验和解题集来学习。科学家一开始所做的工作是完美的，因为他们只是试图重现别人已经为他们完成的工作。"
+    },
+    {
+      "original": "Eventually, they get to the point where they can do original work. Whereas hackers, from the start, are doing original work; it's just very bad. So hackers start original, and get good, and scientists start good, and get original.",
+      "translated": "最终，他们能够进行原创工作。而黑客从一开始就进行原创工作；只是非常糟糕。所以，黑客是从原创开始，然后变得优秀，而科学家是从优秀开始，然后变得原创。"
+    },
+    {
+      "original": "The other way makers learn is from examples. For a painter, a museum is a reference library of techniques. For hundreds of years it has been part of the traditional education of painters to copy the works of the great masters, because copying forces you to look closely at the way a painting is made.Writers do this too.",
+      "translated": "另一种学习方式是通过例子。对画家而言，博物馆是技艺的参考图书馆。数百年来，临摹大师们的作品一直是画家传统教育的一部分，因为临摹迫使你仔细观察一幅画的制作方式。作家也是如此。"
+    },
+    {
+      "original": "Benjamin Franklin learned to write by summarizing the points in the essays of Addison and Steele and then trying to reproduce them. Raymond Chandler did the same thing with detective stories.Hackers, likewise, can learn to program by looking at good programs-- not just at what they do, but the source code too.",
+      "translated": "本杰明·富兰克林通过总结艾迪生和斯蒂尔散文中的要点，然后尝试复述它们来学习写作。雷蒙德·钱德勒也用同样的方法学习侦探小说的写作。同样，黑客可以通过查看优秀的程序来学习编程——不仅仅是看它们的功能，还要研究源代码。"
+    },
+    {
+      "original": "One of the less publicized benefits of the open-source movement is that it has made it easier to learn to program. When I learned to program, we had to rely mostly on examples in books. The one big chunk of code available then was Unix, but even this was not open source.",
+      "translated": "开源运动的一个较少被宣传的好处是，它使得学习编程变得更加容易。当我学习编程时，我们主要依赖书籍中的例子。当时唯一可获得的大块代码是Unix，但即便是Unix也不是开源的。"
+    },
+    {
+      "original": "Most of the people who read the source read it in illicit photocopies of John Lions' book, which though written in 1977 was not allowed to be published until 1996.Another example we can take from painting is the way that paintings are created by gradual refinement.",
+      "translated": "大多数读过源代码的人都是通过非法影印的约翰·莱昂斯的书来看的，这本书虽然写于1977年，但直到1996年才被允许出版。另一个我们可以从绘画中找到的例子是，绘画是通过逐渐完善的方式创作出来的。"
+    },
+    {
+      "original": "Paintings usually begin with a sketch. Gradually the details get filled in. But it is not merely a process of filling in. Sometimes the original plans turn out to be mistaken. Countless paintings, when you look at them in xrays, turn out to have limbs that have been moved or facial features that have been readjusted.Here's a case where we can learn from painting.",
+      "translated": "绘画通常始于草图。逐渐地，细节被填充进去。但这并不仅仅是一个填充的过程。有时，最初的计划会被证明是错误的。无数画作在用X光观察时，会发现肢体被移动过或面部特征被重新调整过。这里有一个我们可以从绘画中学到的例子。"
+    },
+    {
+      "original": "I think hacking should work this way too. It's unrealistic to expect that the specifications for a program will be perfect. You're better off if you admit this up front, and write programs in a way that allows specifications to change on the fly.(The structure of large companies makes this hard for them to do, so here is another place where startups have an advantage.)Everyone by now presumably knows about the danger of premature optimization.",
+      "translated": "我认为黑客行为也应该如此。期望一个程序的规格说明完美无缺是不现实的。不如一开始就承认这一点，并以一种允许规格随时变更的方式编写程序。（大型公司的结构使得他们很难做到这一点，所以这里又是初创公司占据优势的一个地方。）现在大家想必都知道过早优化的危险了。"
+    },
+    {
+      "original": "I think we should be just as worried about premature design-- deciding too early what a program should do.The right tools can help us avoid this danger. A good programming language should, like oil paint, make it easy to change your mind.",
+      "translated": "我认为我们应该同样担心过早设计——过早决定程序应该做什么。正确的工具可以帮助我们避免这种危险。一个好的编程语言应该像油画颜料一样，使改变主意变得容易。"
+    },
+    {
+      "original": "Dynamic typing is a win here because you don't have to commit to specific data representations up front. But the key to flexibility, I think, is to make the language very abstract. The easiest program to change is one that's very short.",
+      "translated": "动态类型在这里是一种胜利，因为你不必一开始就承诺特定的数据表示。但我觉得灵活性的关键在于使语言非常抽象。最容易修改的程序是非常简短的程序。"
+    },
+    {
+      "original": "This sounds like a paradox, but a great painting has to be better than it has to be. For example, when Leonardo painted the portrait of Ginevra de Benci in the National Gallery, he put a juniper bush behind her head.",
+      "translated": "这听起来像是个悖论，但一幅伟大的画作必须比它应该的更好。例如，当列奥纳多在国家美术馆绘制吉内薇拉·德·本奇的肖像时，他在她头后方画了一丛桧柏。"
+    },
+    {
+      "original": "In it he carefully painted each individual leaf. Many painters might have thought, this is just something to put in the background to frame her head. No one will look that closely at it.Not Leonardo.",
+      "translated": "他在画中仔细描绘了每一片叶子。许多画家可能会想，这只不过是用来衬托她头部背景的东西，没有人会仔细看。但达芬奇不是这样想的。"
+    },
+    {
+      "original": "How hard he worked on part of a painting didn't depend at all on how closely he expected anyone to look at it. He was like Michael Jordan. Relentless.Relentlessness wins because, in the aggregate, unseen details become visible.",
+      "translated": "他对画作某一部分的努力程度，完全不取决于他预期别人会多么仔细地观看。他就像迈克尔·乔丹一样，坚持不懈。正是这种 relentless 态度赢得了胜利，因为在总体上，那些不易被察觉的细节终将显现。"
+    },
+    {
+      "original": "When people walk by the portrait of Ginevra de Benci, their attention is often immediately arrested by it, even before they look at the label and notice that it says Leonardo da Vinci. All those unseen details combine to produce something that's just stunning, like a thousand barely audible voices all singing in tune.Great software, likewise, requires a fanatical devotion to beauty.",
+      "translated": "当人们走过吉内薇拉·德·本奇的肖像时，往往会被它立刻吸引住，甚至在他们看到标签并注意到是列奥纳多·达·芬奇的作品之前。所有那些看不见的细节结合在一起，产生了一种令人惊叹的效果，就像一千个几乎听不见的声音在齐声歌唱。优秀的软件同样需要对美的狂热追求。"
+    },
+    {
+      "original": "If you look inside good software, you find that parts no one is ever supposed to see are beautiful too. I'm not claiming I write great software, but I know that when it comes to code I behave in a way that would make me eligible for prescription drugs if I approached everyday life the same way.",
+      "translated": "如果你仔细研究优秀的软件，你会发现那些从来没有人应该看到的部分也是美丽的。我并不声称我编写了出色的软件，但我知道，当我处理代码时，我的行为方式如果用在日常生活中，足以让我有资格服用处方药。"
+    },
+    {
+      "original": "It drives me crazy to see code that's badly indented, or that uses ugly variable names.If a hacker were a mere implementor, turning a spec into code, then he could just work his way through it from one end to the other like someone digging a ditch.",
+      "translated": "看到代码缩进混乱或使用难看的变量名就让我抓狂。如果程序员只是一个单纯的实现者，将规范转化为代码，那么他就可以像挖沟的人一样从一端到另一端逐步完成任务。"
+    },
+    {
+      "original": "But if the hacker is a creator, we have to take inspiration into account.In hacking, like painting, work comes in cycles. Sometimes you get excited about some new project and you want to work sixteen hours a day on it.",
+      "translated": "但若黑客是一位创造者，我们就必须考虑到灵感的作用。在黑客活动中，如同绘画一样，工作是呈周期性的。有时你会对某个新项目感到兴奋，想要每天投入十六个小时来工作。"
+    },
+    {
+      "original": "Other times nothing seems interesting.To do good work you have to take these cycles into account, because they're affected by how you react to them. When you're driving a car with a manual transmission on a hill, you have to back off the clutch sometimes to avoid stalling.",
+      "translated": "有时候什么都没意思。要做好工作，你必须考虑这些周期，因为它们会受到你反应的影响。当你在坡上驾驶手动挡汽车时，有时必须松开离合器以避免熄火。"
+    },
+    {
+      "original": "Backing off can likewise prevent ambition from stalling. In both painting and hacking there are some tasks that are terrifyingly ambitious, and others that are comfortingly routine. It's a good idea to save some easy tasks for moments when you would otherwise stall.In hacking, this can literally mean saving up bugs.",
+      "translated": "退一步同样可以防止雄心停滞。在绘画和编程中，有些任务雄心勃勃，令人望而生畏，而有些任务则令人安心地例行公事。在感到难以推进时，留一些简单任务是个好主意。在编程中，这实际上意味着保留一些 bug 以待解决。"
+    },
+    {
+      "original": "I like debugging: it's the one time that hacking is as straightforward as people think it is. You have a totally constrained problem, and all you have to do is solve it. Your program is supposed to do x.",
+      "translated": "我喜欢调试：这是黑客行为最符合人们想象的时刻。你面对的是一个完全限定的问题，你所需要做的就是解决它。你的程序本应完成 x。"
+    },
+    {
+      "original": "Instead it does y. Where does it go wrong? You know you're going to win in the end. It's as relaxing as painting a wall.The example of painting can teach us not only how to manage our own work, but how to work together.",
+      "translated": "相反，它做了 y。问题出在哪里？你知道最终你会赢的。这就像粉刷一面墙一样轻松。粉刷的例子不仅可以教会我们如何管理自己的工作，还可以教会我们如何协作。"
+    },
+    {
+      "original": "A lot of the great art of the past is the work of multiple hands, though there may only be one name on the wall next to it in the museum. Leonardo was an apprentice in the workshop of Verrocchio and painted one of the angels in his Baptism of Christ.",
+      "translated": "许多过去的伟大艺术作品是多人合作的成果，尽管在博物馆的墙上可能只署有一个名字。达芬奇曾是韦罗基奥工作室的学徒，并在他的《基督受洗》中绘制了一位天使。"
+    },
+    {
+      "original": "This sort of thing was the rule, not the exception. Michelangelo was considered especially dedicated for insisting on painting all the figures on the ceiling of the Sistine Chapel himself.As far as I know, when painters worked together on a painting, they never worked on the same parts.",
+      "translated": "这种事情是常态，而不是例外。米开朗基罗因为坚持亲自绘制西斯廷教堂天花板上所有的人物而被认为特别敬业。据我所知，当画家们共同完成一幅画时，他们从不绘制相同的部分。"
+    },
+    {
+      "original": "It was common for the master to paint the principal figures and for assistants to paint the others and the background. But you never had one guy painting over the work of another.I think this is the right model for collaboration in software too.",
+      "translated": "过去，师傅通常负责绘制主要人物，助手则绘制其他人物和背景。但绝不会有一个画家在另一个人的工作上再作画。我认为这种合作模式也适用于软件开发。"
+    },
+    {
+      "original": "Don't push it too far. When a piece of code is being hacked by three or four different people, no one of whom really owns it, it will end up being like a common-room. It will tend to feel bleak and abandoned, and accumulate cruft.",
+      "translated": "不要太过分。当一段代码被三四个不同的人修改时，而其中没有人真正负责，最终它会变得像一个公共休息室。它会显得凄凉荒废，积累各种杂物。"
+    },
+    {
+      "original": "The right way to collaborate, I think, is to divide projects into sharply defined modules, each with a definite owner, and with interfaces between them that are as carefully designed and, if possible, as articulated as programming languages.Like painting, most software is intended for a human audience.",
+      "translated": "正确的合作方式，我认为，是将项目划分为界限分明的模块，每个模块都有明确的所有者，并且模块之间的接口应精心设计，如果可能的话，应像编程语言一样明确定义。像绘画一样，大多数软件都是为人类观众设计的。"
+    },
+    {
+      "original": "And so hackers, like painters, must have empathy to do really great work. You have to be able to see things from the user's point of view.When I was a kid I was always being told to look at things from someone else's point of view.",
+      "translated": "因此，黑客就像画家一样，必须具备同理心才能做出真正出色的作品。你必须能够从用户的角度来看待事物。当我还是个孩子的时候，我总是被要求从别人的角度来看问题。"
+    },
+    {
+      "original": "What this always meant in practice was to do what someone else wanted, instead of what I wanted. This of course gave empathy a bad name, and I made a point of not cultivating it.Boy, was I wrong. It turns out that looking at things from other people's point of view is practically the secret of success.",
+      "translated": "这在实践中总是意味着去做别人想要的事，而不是我想要的。这当然让同理心蒙上了不好的名声，我特意不去培养它。然而，我错了。事实证明，从别人的角度看问题几乎就是成功的秘诀。"
+    },
+    {
+      "original": "It doesn't necessarily mean being self-sacrificing. Far from it. Understanding how someone else sees things doesn't imply that you'll act in his interest; in some situations-- in war, for example-- you want to do exactly the opposite.",
+      "translated": "这并不一定意味着要自我牺牲。远非如此。理解别人的观点并不意味着你会为他的利益行事；在某些情况下——比如战争中——你恰恰希望做相反的事。"
+    },
+    {
+      "original": "[4]Most makers make things for a human audience. And to engage an audience you have to understand what they need. Nearly all the greatest paintings are paintings of people, for example, because people are what people are interested in.Empathy is probably the single most important difference between a good hacker and a great one.",
+      "translated": "大多数制造者都是为人类观众创作的。要吸引观众，就必须了解他们的需求。几乎所有最伟大的画作都是人物画，因为人们最感兴趣的就是人。同理心可能是区分好黑客和伟大黑客的最重要因素。"
+    },
+    {
+      "original": "Some hackers are quite smart, but when it comes to empathy are practically solipsists. It's hard for such people to design great software [5], because they can't see things from the user's point of view.One way to tell how good people are at empathy is to watch them explain a technical question to someone without a technical background.",
+      "translated": "一些黑客非常聪明，但在同理心方面几乎像是唯我论者。这样的人很难设计出优秀的软件[5]，因为他们无法从用户的角度来看问题。判断一个人的同理心好坏的一个方法是观察他们如何向没有技术背景的人解释一个技术问题。"
+    },
+    {
+      "original": "We probably all know people who, though otherwise smart, are just comically bad at this. If someone asks them at a dinner party what a programming language is, they'll say something like ``Oh, a high-level language is what the compiler uses as input to generate object code.'' High-level language?",
+      "translated": "我们大概都认识这样一些人，虽然其他方面很聪明，但在这一点上却显得可笑地糟糕。如果在聚会上有人问他们什么是编程语言，他们可能会说：“哦，高级语言就是编译器用来生成目标代码的输入。” 高级语言？"
+    },
+    {
+      "original": "Compiler? Object code? Someone who doesn't know what a programming language is obviously doesn't know what these things are, either.Part of what software has to do is explain itself. So to write good software you have to understand how little users understand.",
+      "translated": "编译器？目标代码？对于不懂编程语言的人来说，自然也不会知道这些东西。软件的一部分工作就是自我解释。因此，编写好的软件需要理解用户理解得多么有限。"
+    },
+    {
+      "original": "They're going to walk up to the software with no preparation, and it had better do what they guess it will, because they're not going to read the manual. The best system I've ever seen in this respect was the original Macintosh, in 1985.",
+      "translated": "他们会毫无准备地使用软件，而且软件最好能符合他们的预期，因为他们不会去看使用手册。在这方面我见过的最好的系统是1985年的第一代Macintosh。"
+    },
+    {
+      "original": "It did what software almost never does: it just worked. [6]Source code, too, should explain itself. If I could get people to remember just one quote about programming, it would be the one at the beginning of Structure and Interpretation of Computer Programs.",
+      "translated": "它做到了软件几乎从未做到的事情：它就是能用。[6]源代码也应该能够自我解释。如果我能让人记住有关编程的一句话，那就是《计算机程序的结构和解释》开头的那句话。"
+    },
+    {
+      "original": "Programs should be written for people to read, and only incidentally for machines to execute. You need to have empathy not just for your users, but for your readers. It's in your interest, because you'll be one of them.",
+      "translated": "程序应该写给人读的，只是顺便让机器执行。你需要有同理心，不仅是对你的用户，也对你的读者。这对你有好处，因为你自己也会是其中之一。"
+    },
+    {
+      "original": "Many a hacker has written a program only to find on returning to it six months later that he has no idea how it works. I know several people who've sworn off Perl after such experiences. [7]Lack of empathy is associated with intelligence, to the point that there is even something of a fashion for it in some places.",
+      "translated": "许多黑客编写了一个程序，结果在六个月后重新审视时发现根本不知道它是如何工作的。我认识几个人在经历过这种情况后发誓不再使用Perl。缺乏同理心与智力有关，以至于在某些地方甚至成了一种风尚。"
+    },
+    {
+      "original": "But I don't think there's any correlation. You can do well in math and the natural sciences without having to learn empathy, and people in these fields tend to be smart, so the two qualities have come to be associated.",
+      "translated": "但我不认为这两者之间有任何关联。你可以在数学和自然科学方面表现出色，而无需学习同理心，而这些领域的人往往很聪明，因此这两种品质被联系在了一起。"
+    },
+    {
+      "original": "But there are plenty of dumb people who are bad at empathy too. Just listen to the people who call in with questions on talk shows. They ask whatever it is they're asking in such a roundabout way that the hosts often have to rephrase the question for them.So, if hacking works like painting and writing, is it as cool?",
+      "translated": "但也有许多不擅长共情的蠢人。听听那些在谈话节目中打电话提问的人就知道了。他们以一种非常绕弯的方式提问，以至于主持人常常不得不替他们重新表述问题。所以，如果黑客技术像绘画和写作一样，它是否也很酷？"
+    },
+    {
+      "original": "After all, you only get one life. You might as well spend it working on something great.Unfortunately, the question is hard to answer. There is always a big time lag in prestige. It's like light from a distant star.",
+      "translated": "毕竟，你只有一次生命。你不妨把它花在一些伟大的事情上。不幸的是，这个问题很难回答。声望总是有一个很长的时间滞后，就像来自遥远恒星的光。"
+    },
+    {
+      "original": "Painting has prestige now because of great work people did five hundred years ago. At the time, no one thought these paintings were as important as we do today. It would have seemed very odd to people at the time that Federico da Montefeltro, the Duke of Urbino, would one day be known mostly as the guy with the strange nose in a painting by Piero della Francesca.So while I admit that hacking doesn't seem as cool as painting now, we should remember that painting itself didn't seem as cool in its glory days as it does now.What we can say with some confidence is that these are the glory days of hacking.",
+      "translated": "绘画如今之所以享有盛誉，是因为五百年前人们创作的杰出作品。当时，没有人认为这些画作像我们今天这样重要。对于当时的人们来说，乌尔比诺公爵费德里科·达·蒙特费尔特罗有一天会主要因为皮耶罗·德拉·弗朗切斯卡的一幅画中的奇怪鼻子而闻名，这似乎是非常奇怪的。因此，虽然我承认现在编程看起来没有绘画那么酷，但我们应该记住，在绘画的鼎盛时期，它也没有像现在这样酷。我们可以相当自信地说，现在是编程的鼎盛时期。"
+    },
+    {
+      "original": "In most fields the great work is done early on. The paintings made between 1430 and 1500 are still unsurpassed. Shakespeare appeared just as professional theater was being born, and pushed the medium so far that every playwright since has had to live in his shadow.",
+      "translated": "在大多数领域，伟大的工作都是在早期完成的。1430年至1500年间创作的绘画至今仍无人能及。莎士比亚在职业戏剧刚刚诞生时出现，并将这一媒介推向了极致，以至于此后每一位剧作家都不得不生活在他的阴影之下。"
+    },
+    {
+      "original": "Albrecht Durer did the same thing with engraving, and Jane Austen with the novel.Over and over we see the same pattern. A new medium appears, and people are so excited about it that they explore most of its possibilities in the first couple generations.",
+      "translated": "阿尔布雷特·丢勒在版画上做了同样的事情，简·奥斯汀在小说上也是如此。我们一次又一次地看到同样的模式。一种新的媒介出现，人们对其如此兴奋，以至于在头一两代人的时间里就探索了它的大部分可能性。"
+    },
+    {
+      "original": "Hacking seems to be in this phase now.Painting was not, in Leonardo's time, as cool as his work helped make it. How cool hacking turns out to be will depend on what we can do with this new medium. Notes[1] The greatest damage that photography has done to painting may be the fact that it killed the best day job.",
+      "translated": "黑客似乎现在正处于这一阶段。在达·芬奇的时代，绘画并没有像他的作品所帮助塑造的那样酷。黑客最终会变得多么酷，将取决于我们能够利用这一新的媒介做些什么。注释[1] 摄影对绘画造成的最大损害可能是，它杀死了最好的兼职工作。"
+    },
+    {
+      "original": "Most of the great painters in history supported themselves by painting portraits. [2] I've been told that Microsoft discourages employees from contributing to open-source projects, even in their spare time.",
+      "translated": "历史上大多数伟大的画家都是通过绘制肖像来维持生计的。[2] 据说微软不鼓励员工在业余时间参与开源项目。"
+    },
+    {
+      "original": "But so many of the best hackers work on open-source projects now that the main effect of this policy may be to ensure that they won't be able to hire any first-rate programmers.[3] What you learn about programming in college is much like what you learn about books or clothes or dating: what bad taste you had in high school.[4] Here's an example of applied empathy.",
+      "translated": "但是，现在许多最优秀的黑客都在从事开源项目，这项政策的主要影响可能是确保他们无法聘请到任何一流的程序员。[3] 你在大学里学到的编程知识很像你在高中时学到的关于书籍、衣服或约会的知识：你当时是多么缺乏品味。[4] 这是一个应用同理心的例子。"
+    },
+    {
+      "original": "At Viaweb, if we couldn't decide between two alternatives, we'd ask, what would our competitors hate most? At one point a competitor added a feature to their software that was basically useless, but since it was one of few they had that we didn't, they made much of it in the trade press.",
+      "translated": "在Viaweb，如果我们无法在两个选项之间做出决定，我们会问，竞争对手最讨厌哪个？有一次，一个竞争对手在他们的软件中添加了一个基本上毫无用处的功能，但由于这是我们没有的少数几个功能之一，他们在行业媒体上大肆宣传。"
+    },
+    {
+      "original": "We could have tried to explain that the feature was useless, but we decided it would annoy our competitor more if we just implemented it ourselves, so we hacked together our own version that afternoon.[5] Except text editors and compilers.",
+      "translated": "我们可以试着解释这个功能是无用的，但我们决定，如果我们自己实现它，会更让竞争对手恼火，所以那天下午我们就自己拼凑了一个版本。[5] 除了文本编辑器和编译器。"
+    },
+    {
+      "original": "Hackers don't need empathy to design these, because they are themselves typical users.[6] Well, almost. They overshot the available RAM somewhat, causing much inconvenient disk swapping, but this could be fixed within a few months by buying an additional disk drive.[7] The way to make programs easy to read is not to stuff them with comments.",
+      "translated": "黑客设计这些时并不需要同理心，因为他们本身就是典型的用户。[6] 嗯，差不多。他们稍微超出了可用的内存，导致频繁的磁盘交换，但这可以通过在几个月内购买一个额外的磁盘驱动器来解决。[7] 让程序易于阅读的方法不是往里面塞满注释。"
+    },
+    {
+      "original": "I would take Abelson and Sussman's quote a step further. Programming languages should be designed to express algorithms, and only incidentally to tell computers how to execute them. A good programming language ought to be better for explaining software than English.",
+      "translated": "我会进一步扩展阿伯森和苏斯曼的名言。编程语言应该设计用于表达算法，而只是顺便告诉计算机如何执行它们。一种好的编程语言应该比英语更适合解释软件。"
+    },
+    {
+      "original": "You should only need comments when there is some kind of kludge you need to warn readers about, just as on a road there are only arrows on parts with unexpectedly sharp curves. Thanks to Trevor Blackwell, Robert Morris, Dan Giffin, and Lisa Randall for reading drafts of this, and to Henry Leitner and Larry Finkelstein for inviting me to speak.Japanese TranslationSpanish TranslationGerman TranslationPortuguese TranslationCzech TranslationWhy Good Design Comes from Bad DesignKnuth: Computer Programming as an Art You'll find this essay and 14 others in Hackers & Painters.",
+      "translated": "只有在需要警告读者某些权宜之计时，才需要注释，就像在道路上，只有在那些出乎意料地急转弯的地方才有箭头。感谢 Trevor Blackwell、Robert Morris、Dan Giffin 和 Lisa Randall 阅读本文的草稿，以及 Henry Leitner 和 Larry Finkelstein 邀请我作演讲。日语翻译西班牙语翻译德语翻译葡萄牙语翻译捷克语翻译为什么好的设计来自糟糕的设计高德纳：计算机编程作为一门艺术 你可以在《黑客与画家》中找到这篇文章以及另外14篇其他文章。"
+    }
+  ],
+  "translation_completed": "2025-07-29T11:11:53.977013",
+  "translation_stats": {
+    "total_paragraphs": 112,
+    "success_count": 112,
+    "success_rate": "100.0%"
+  }
+}

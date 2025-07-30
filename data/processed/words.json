@@ -1,0 +1,144 @@
+{
+  "title": "Putting Ideas into Words",
+  "title_zh": "[待翻译] Putting Ideas into Words",
+  "url": "https://www.paulgraham.com/words.html",
+  "filename": "words.html",
+  "date": "2021-04-18",
+  "id": 26,
+  "content": {
+    "success": true,
+    "paragraphs": [
+      "February 2022Writing about something, even something you know well, usually shows you that you didn't know it as well as you thought. Putting ideas into words is a severe test. The first words you choose are usually wrong; you have to rewrite sentences over and over to get them exactly right.",
+      "And your ideas won't just be imprecise, but incomplete too. Half the ideas that end up in an essay will be ones you thought of while you were writing it. Indeed, that's why I write them.Once you publish something, the convention is that whatever you wrote was what you thought before you wrote it.",
+      "These were your ideas, and now you've expressed them. But you know this isn't true. You know that putting your ideas into words changed them. And not just the ideas you published. Presumably there were others that turned out to be too broken to fix, and those you discarded instead.It's not just having to commit your ideas to specific words that makes writing so exacting.",
+      "The real test is reading what you've written. You have to pretend to be a neutral reader who knows nothing of what's in your head, only what you wrote. When he reads what you wrote, does it seem correct?",
+      "Does it seem complete? If you make an effort, you can read your writing as if you were a complete stranger, and when you do the news is usually bad. It takes me many cycles before I can get an essay past the stranger.",
+      "But the stranger is rational, so you always can, if you ask him what he needs. If he's not satisfied because you failed to mention x or didn't qualify some sentence sufficiently, then you mention x or add more qualifications.",
+      "Happy now? It may cost you some nice sentences, but you have to resign yourself to that. You just have to make them as good as you can and still satisfy the stranger.This much, I assume, won't be that controversial.",
+      "I think it will accord with the experience of anyone who has tried to write about anything nontrivial. There may exist people whose thoughts are so perfectly formed that they just flow straight into words.",
+      "But I've never known anyone who could do this, and if I met someone who said they could, it would seem evidence of their limitations rather than their ability. Indeed, this is a trope in movies: the guy who claims to have a plan for doing some difficult thing, and who when questioned further, taps his head and says \"It's all up here.\" Everyone watching the movie knows what that means.",
+      "At best the plan is vague and incomplete. Very likely there's some undiscovered flaw that invalidates it completely. At best it's a plan for a plan.In precisely defined domains it's possible to form complete ideas in your head.",
+      "People can play chess in their heads, for example. And mathematicians can do some amount of math in their heads, though they don't seem to feel sure of a proof over a certain length till they write it down.",
+      "But this only seems possible with ideas you can express in a formal language. [1] Arguably what such people are doing is putting ideas into words in their heads. I can to some extent write essays in my head.",
+      "I'll sometimes think of a paragraph while walking or lying in bed that survives nearly unchanged in the final version. But really I'm writing when I do this. I'm doing the mental part of writing; my fingers just aren't moving as I do it.",
+      "[2]You can know a great deal about something without writing about it. Can you ever know so much that you wouldn't learn more from trying to explain what you know? I don't think so. I've written about at least two subjects I know well — Lisp hacking and startups — and in both cases I learned a lot from writing about them.",
+      "In both cases there were things I didn't consciously realize till I had to explain them. And I don't think my experience was anomalous. A great deal of knowledge is unconscious, and experts have if anything a higher proportion of unconscious knowledge than beginners.I'm not saying that writing is the best way to explore all ideas.",
+      "If you have ideas about architecture, presumably the best way to explore them is to build actual buildings. What I'm saying is that however much you learn from exploring ideas in other ways, you'll still learn new things from writing about them.Putting ideas into words doesn't have to mean writing, of course.",
+      "You can also do it the old way, by talking. But in my experience, writing is the stricter test. You have to commit to a single, optimal sequence of words. Less can go unsaid when you don't have tone of voice to carry meaning.",
+      "And you can focus in a way that would seem excessive in conversation. I'll often spend 2 weeks on an essay and reread drafts 50 times. If you did that in conversation it would seem evidence of some kind of mental disorder.",
+      "If you're lazy, of course, writing and talking are equally useless. But if you want to push yourself to get things right, writing is the steeper hill. [3]The reason I've spent so long establishing this rather obvious point is that it leads to another that many people will find shocking.",
+      "If writing down your ideas always makes them more precise and more complete, then no one who hasn't written about a topic has fully formed ideas about it. And someone who never writes has no fully formed ideas about anything nontrivial.It feels to them as if they do, especially if they're not in the habit of critically examining their own thinking.",
+      "Ideas can feel complete. It's only when you try to put them into words that you discover they're not. So if you never subject your ideas to that test, you'll not only never have fully formed ideas, but also never realize it.Putting ideas into words is certainly no guarantee that they'll be right.",
+      "Far from it. But though it's not a sufficient condition, it is a necessary one.Notes[1] Machinery and circuits are formal languages.[2] I thought of this sentence as I was walking down the street in Palo Alto.[3] There are two senses of talking to someone: a strict sense in which the conversation is verbal, and a more general sense in which it can take any form, including writing.",
+      "In the limit case (e.g. Seneca's letters), conversation in the latter sense becomes essay writing.It can be very useful to talk (in either sense) with other people as you're writing something. But a verbal conversation will never be more exacting than when you're talking about something you're writing.",
+      "Thanks to Trevor Blackwell, Patrick Collison, and Robert Morris for reading drafts of this. French Translation"
+    ],
+    "word_count": 1150,
+    "paragraph_count": 24
+  },
+  "processed_at": "2025-07-26T19:02:12.612828",
+  "paragraphs": [
+    {
+      "original": "February 2022Writing about something, even something you know well, usually shows you that you didn't know it as well as you thought. Putting ideas into words is a severe test. The first words you choose are usually wrong; you have to rewrite sentences over and over to get them exactly right.",
+      "translated": "2022年2月\n\n即使写自己熟悉的内容，通常也会发现你并没有自己想象中那么了解它。将思想转化为文字是一种严苛的考验。最初选择的词汇往往并不准确；你必须反复修改句子，才能使之完美无缺。"
+    },
+    {
+      "original": "And your ideas won't just be imprecise, but incomplete too. Half the ideas that end up in an essay will be ones you thought of while you were writing it. Indeed, that's why I write them.Once you publish something, the convention is that whatever you wrote was what you thought before you wrote it.",
+      "translated": "你的想法不仅会不精确，还会不完整。一篇论文中有一半的想法是在写作过程中产生的。事实上，这就是我写作的原因。一旦你发表了一些东西，惯例就是你写的内容是你在写作之前的想法。"
+    },
+    {
+      "original": "These were your ideas, and now you've expressed them. But you know this isn't true. You know that putting your ideas into words changed them. And not just the ideas you published. Presumably there were others that turned out to be too broken to fix, and those you discarded instead.It's not just having to commit your ideas to specific words that makes writing so exacting.",
+      "translated": "这些想法都是你的，现在你已经表达出来了。但你知道这并不是事实。你知道，将想法付诸文字时，它们已经发生了变化。不仅是你发表的那些想法。想必还有一些想法被证明过于破碎而无法修复，那些你舍弃了。写作之所以如此苛刻，不仅仅是因为要把想法用具体的文字表达出来。"
+    },
+    {
+      "original": "The real test is reading what you've written. You have to pretend to be a neutral reader who knows nothing of what's in your head, only what you wrote. When he reads what you wrote, does it seem correct?",
+      "translated": "真正的考验是阅读你写的内容。你必须假装自己是一个对你的想法一无所知的中立读者，只能看到你写下的内容。当他读到你写的内容时，是否觉得它是正确的？"
+    },
+    {
+      "original": "Does it seem complete? If you make an effort, you can read your writing as if you were a complete stranger, and when you do the news is usually bad. It takes me many cycles before I can get an essay past the stranger.",
+      "translated": "这看起来完整吗？如果你努力一下，可以像一个完全陌生的人那样阅读自己的作品，而当你这样做的时候，通常会发现不少问题。我需要经过多次修改，才能让文章经得起陌生人的审视。"
+    },
+    {
+      "original": "But the stranger is rational, so you always can, if you ask him what he needs. If he's not satisfied because you failed to mention x or didn't qualify some sentence sufficiently, then you mention x or add more qualifications.",
+      "translated": "但这个陌生人是理性的，所以你总是可以问他需要什么。如果他不满意是因为你没有提到x或没有充分限定某些句子，那么你就提到x或添加更多的限定。"
+    },
+    {
+      "original": "Happy now? It may cost you some nice sentences, but you have to resign yourself to that. You just have to make them as good as you can and still satisfy the stranger.This much, I assume, won't be that controversial.",
+      "translated": "现在开心了吗？这可能会让你说出一些得体的话，但你不得不认命。你只能尽量把话说得尽可能好，同时还要让陌生人满意。这一点，我想不会引起太大争议。"
+    },
+    {
+      "original": "I think it will accord with the experience of anyone who has tried to write about anything nontrivial. There may exist people whose thoughts are so perfectly formed that they just flow straight into words.",
+      "translated": "我认为这将符合任何尝试过写作非平凡主题的人的经验。可能存在那些思维如此完善，以至于它们可以直接转化为文字的人。"
+    },
+    {
+      "original": "But I've never known anyone who could do this, and if I met someone who said they could, it would seem evidence of their limitations rather than their ability. Indeed, this is a trope in movies: the guy who claims to have a plan for doing some difficult thing, and who when questioned further, taps his head and says \"It's all up here.\" Everyone watching the movie knows what that means.",
+      "translated": "但我从未见过有人能做到这一点，如果遇到有人说他们能做到，我会认为这证明了他们的不足而非能力。事实上，这在电影中是一个常见的桥段：那个声称自己有一个计划来完成某件难事的人，当被进一步询问时，会敲敲自己的头说“一切都在这里。”每个看电影的人都明白这意味着什么。"
+    },
+    {
+      "original": "At best the plan is vague and incomplete. Very likely there's some undiscovered flaw that invalidates it completely. At best it's a plan for a plan.In precisely defined domains it's possible to form complete ideas in your head.",
+      "translated": "最好的情况下，这个计划是模糊且不完整的。很可能存在某个未被发现的缺陷，使其完全无效。最好的情况下，它只是一个计划的草案。在定义明确的领域内，才可能在脑海中形成完整的想法。"
+    },
+    {
+      "original": "People can play chess in their heads, for example. And mathematicians can do some amount of math in their heads, though they don't seem to feel sure of a proof over a certain length till they write it down.",
+      "translated": "人们可以在脑海中下棋，例如。数学家们也可以在脑中进行一定程度的数学运算，尽管他们对于超过一定长度的证明，似乎只有在写下后才会感到确定。"
+    },
+    {
+      "original": "But this only seems possible with ideas you can express in a formal language. [1] Arguably what such people are doing is putting ideas into words in their heads. I can to some extent write essays in my head.",
+      "translated": "但这似乎只可能通过可以用形式语言表达的想法来实现。[1] 有人认为，这些人实际上是在将想法转化为脑海中的语言。在某种程度上，我可以在脑海中写作。"
+    },
+    {
+      "original": "I'll sometimes think of a paragraph while walking or lying in bed that survives nearly unchanged in the final version. But really I'm writing when I do this. I'm doing the mental part of writing; my fingers just aren't moving as I do it.",
+      "translated": "我有时会在散步或躺在床上时想到一段话，这段话几乎原封不动地保留在最终版本中。但其实那时我是在写作。我只是在做写作的思维部分；只是我的手指没有动而已。"
+    },
+    {
+      "original": "[2]You can know a great deal about something without writing about it. Can you ever know so much that you wouldn't learn more from trying to explain what you know? I don't think so. I've written about at least two subjects I know well — Lisp hacking and startups — and in both cases I learned a lot from writing about them.",
+      "translated": "你可以对某件事了解很多，而不一定要写下来。但你是否可能知道得如此之多，以至于尝试解释你所知道的时不会再学到新的东西？我不这么认为。我曾经写过至少两个我非常熟悉的主题——Lisp编程和创业——在这两种情况下，通过写作我都学到了很多。"
+    },
+    {
+      "original": "In both cases there were things I didn't consciously realize till I had to explain them. And I don't think my experience was anomalous. A great deal of knowledge is unconscious, and experts have if anything a higher proportion of unconscious knowledge than beginners.I'm not saying that writing is the best way to explore all ideas.",
+      "translated": "在这两种情况下，直到我不得不解释时，我才意识到有些事情是我并未有意识地认识到的。我认为我的经历并不特殊。大量的知识是无意识的，而且专家们的无意识知识比例可能比初学者更高。我并不是说写作是探索所有想法的最佳方式。"
+    },
+    {
+      "original": "If you have ideas about architecture, presumably the best way to explore them is to build actual buildings. What I'm saying is that however much you learn from exploring ideas in other ways, you'll still learn new things from writing about them.Putting ideas into words doesn't have to mean writing, of course.",
+      "translated": "如果你有关于建筑的想法，最理想的方式大概就是建造实际的建筑来探索这些想法。我的意思是，尽管你可以通过其他方式探索这些想法学到很多，但你仍然会从写作中学习到新的东西。当然，把想法转化为文字并不一定意味着写作。"
+    },
+    {
+      "original": "You can also do it the old way, by talking. But in my experience, writing is the stricter test. You have to commit to a single, optimal sequence of words. Less can go unsaid when you don't have tone of voice to carry meaning.",
+      "translated": "你也可以用传统的方式，通过交谈来完成。但根据我的经验，写作是更严格的考验。你必须选择一组最优的词序。当没有语气来传达意义时，就更少有东西能被省略。"
+    },
+    {
+      "original": "And you can focus in a way that would seem excessive in conversation. I'll often spend 2 weeks on an essay and reread drafts 50 times. If you did that in conversation it would seem evidence of some kind of mental disorder.",
+      "translated": "你可以以一种在对话中显得过分的方式集中注意力。我经常花两周时间写一篇文章，并反复阅读五十遍草稿。如果在对话中这样做，人们可能会认为这是某种精神障碍的迹象。"
+    },
+    {
+      "original": "If you're lazy, of course, writing and talking are equally useless. But if you want to push yourself to get things right, writing is the steeper hill. [3]The reason I've spent so long establishing this rather obvious point is that it leads to another that many people will find shocking.",
+      "translated": "如果你懒惰，当然，写作和说话都同样无用。但如果你想逼自己把事情做好，写作就是更陡的山坡。我之所以花这么长时间来确立这个显而易见的观点，是因为它引出了另一个许多人会觉得震惊的观点。"
+    },
+    {
+      "original": "If writing down your ideas always makes them more precise and more complete, then no one who hasn't written about a topic has fully formed ideas about it. And someone who never writes has no fully formed ideas about anything nontrivial.It feels to them as if they do, especially if they're not in the habit of critically examining their own thinking.",
+      "translated": "如果把想法写下来总是能让它们更加精确和完整，那么没有写过某个主题的人就不可能对这个主题有完全成型的想法。而一个从不写作的人对任何非 trivial 的事情都没有完全成型的想法。他们可能会觉得自己有，特别是如果他们没有习惯批判性地审视自己的思考。"
+    },
+    {
+      "original": "Ideas can feel complete. It's only when you try to put them into words that you discover they're not. So if you never subject your ideas to that test, you'll not only never have fully formed ideas, but also never realize it.Putting ideas into words is certainly no guarantee that they'll be right.",
+      "translated": "想法可以感觉是完整的。只有当你试图将它们付诸文字时，才会发现它们并非如此。因此，如果你从不让你的想法接受这种考验，你不仅永远不会拥有完全成型的想法，而且永远不会意识到这一点。将想法转化为文字当然不能保证它们就是正确的。"
+    },
+    {
+      "original": "Far from it. But though it's not a sufficient condition, it is a necessary one.Notes[1] Machinery and circuits are formal languages.[2] I thought of this sentence as I was walking down the street in Palo Alto.[3] There are two senses of talking to someone: a strict sense in which the conversation is verbal, and a more general sense in which it can take any form, including writing.",
+      "translated": "远非如此。但尽管它不是充分条件，却是必要条件。注释[1] 机械和电路是形式语言。[2] 我在帕洛阿尔托的街上散步时想到了这句话。[3] 与人交谈有两种含义：一种是严格意义上的，即对话是口头的；另一种是更广泛的含义，可以采取任何形式，包括书写。"
+    },
+    {
+      "original": "In the limit case (e.g. Seneca's letters), conversation in the latter sense becomes essay writing.It can be very useful to talk (in either sense) with other people as you're writing something. But a verbal conversation will never be more exacting than when you're talking about something you're writing.",
+      "translated": "在极限情况下（例如塞内卡的书信），后一种意义上的对话变成了论文写作。在写作过程中，与他人交谈（无论是哪种意义上的交谈）都是非常有用的。但口头交谈的严谨性永远不会超过你在谈论自己正在写作的内容时的严谨性。"
+    },
+    {
+      "original": "Thanks to Trevor Blackwell, Patrick Collison, and Robert Morris for reading drafts of this. French Translation",
+      "translated": "感谢特雷弗·布莱克威尔、帕特里克·科林森和罗伯特·莫里斯审阅本文的草稿。法语翻译"
+    }
+  ],
+  "translation_completed": "2025-07-28T14:33:22.295038",
+  "translation_stats": {
+    "total_paragraphs": 24,
+    "success_count": 24,
+    "success_rate": "100.0%"
+  }
+}

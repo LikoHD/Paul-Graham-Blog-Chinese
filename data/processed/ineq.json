@@ -1,0 +1,354 @@
+{
+  "title": "Economic Inequality",
+  "title_zh": "[待翻译] Economic Inequality",
+  "url": "https://www.paulgraham.com/ineq.html",
+  "filename": "ineq.html",
+  "date": "2021-04-07",
+  "id": 29,
+  "content": {
+    "success": true,
+    "paragraphs": [
+      "January 2016Since the 1970s, economic inequality in the US has increased dramatically. And in particular, the rich have gotten a lot richer. Nearly everyone who writes about the topic says that economic inequality should be decreased.I'm interested in this question because I was one of the founders of a company called Y Combinator that helps people start startups.",
+      "Almost by definition, if a startup succeeds, its founders become rich. Which means by helping startup founders I've been helping to increase economic inequality. If economic inequality should be decreased, I shouldn't be helping founders.",
+      "No one should be.But that doesn't sound right. What's going on here? What's going on is that while economic inequality is a single measure (or more precisely, two: variation in income, and variation in wealth), it has multiple causes.",
+      "Many of these causes are bad, like tax loopholes and drug addiction. But some are good, like Larry Page and Sergey Brin starting the company you use to find things online.If you want to understand economic inequality — and more importantly, if you actually want to fix the bad aspects of it — you have to tease apart the components.",
+      "And yet the trend in nearly everything written about the subject is to do the opposite: to squash together all the aspects of economic inequality as if it were a single phenomenon.Sometimes this is done for ideological reasons.",
+      "Sometimes it's because the writer only has very high-level data and so draws conclusions from that, like the proverbial drunk who looks for his keys under the lamppost, instead of where he dropped them, because the light is better there.",
+      "Sometimes it's because the writer doesn't understand critical aspects of inequality, like the role of technology in wealth creation. Much of the time, perhaps most of the time, writing about economic inequality combines all three.___The most common mistake people make about economic inequality is to treat it as a single phenomenon.",
+      "The most naive version of which is the one based on the pie fallacy: that the rich get rich by taking money from the poor.Usually this is an assumption people start from rather than a conclusion they arrive at by examining the evidence.",
+      "Sometimes the pie fallacy is stated explicitly: ...those at the top are grabbing an increasing fraction of the nation's income — so much of a larger share that what's left over for the rest is diminished....",
+      "[1] Other times it's more unconscious. But the unconscious form is very widespread. I think because we grow up in a world where the pie fallacy is actually true. To kids, wealth is a fixed pie that's shared out, and if one person gets more, it's at the expense of another.",
+      "It takes a conscious effort to remind oneself that the real world doesn't work that way.In the real world you can create wealth as well as taking it from others. A woodworker creates wealth. He makes a chair, and you willingly give him money in return for it.",
+      "A high-frequency trader does not. He makes a dollar only when someone on the other end of a trade loses a dollar.If the rich people in a society got that way by taking wealth from the poor, then you have the degenerate case of economic inequality, where the cause of poverty is the same as the cause of wealth.",
+      "But instances of inequality don't have to be instances of the degenerate case. If one woodworker makes 5 chairs and another makes none, the second woodworker will have less money, but not because anyone took anything from him.Even people sophisticated enough to know about the pie fallacy are led toward it by the custom of describing economic inequality as a ratio of one quantile's income or wealth to another's.",
+      "It's so easy to slip from talking about income shifting from one quantile to another, as a figure of speech, into believing that is literally what's happening.Except in the degenerate case, economic inequality can't be described by a ratio or even a curve.",
+      "In the general case it consists of multiple ways people become poor, and multiple ways people become rich. Which means to understand economic inequality in a country, you have to go find individual people who are poor or rich and figure out why.",
+      "[2]If you want to understand change in economic inequality, you should ask what those people would have done when it was different. This is one way I know the rich aren't all getting richer simply from some new system for transferring wealth to them from everyone else.",
+      "When you use the would-have method with startup founders, you find what most would have done back in 1960, when economic inequality was lower, was to join big companies or become professors. Before Mark Zuckerberg started Facebook, his default expectation was that he'd end up working at Microsoft.",
+      "The reason he and most other startup founders are richer than they would have been in the mid 20th century is not because of some right turn the country took during the Reagan administration, but because progress in technology has made it much easier to start a new company that grows fast.Traditional economists seem strangely averse to studying individual humans.",
+      "It seems to be a rule with them that everything has to start with statistics. So they give you very precise numbers about variation in wealth and income, then follow it with the most naive speculation about the underlying causes.But while there are a lot of people who get rich through rent-seeking of various forms, and a lot who get rich by playing zero-sum games, there are also a significant number who get rich by creating wealth.",
+      "And creating wealth, as a source of economic inequality, is different from taking it — not just morally, but also practically, in the sense that it is harder to eradicate. One reason is that variation in productivity is accelerating.",
+      "The rate at which individuals can create wealth depends on the technology available to them, and that grows exponentially. The other reason creating wealth is such a tenacious source of inequality is that it can expand to accommodate a lot of people.___I'm all for shutting down the crooked ways to get rich.",
+      "But that won't eliminate great variations in wealth, because as long as you leave open the option of getting rich by creating wealth, people who want to get rich will do that instead.Most people who get rich tend to be fairly driven.",
+      "Whatever their other flaws, laziness is usually not one of them. Suppose new policies make it hard to make a fortune in finance. Does it seem plausible that the people who currently go into finance to make their fortunes will continue to do so, but be content to work for ordinary salaries?",
+      "The reason they go into finance is not because they love finance but because they want to get rich. If the only way left to get rich is to start startups, they'll start startups. They'll do well at it too, because determination is the main factor in the success of a startup.",
+      "[3] And while it would probably be a good thing for the world if people who wanted to get rich switched from playing zero-sum games to creating wealth, that would not only not eliminate great variations in wealth, but might even exacerbate them.",
+      "In a zero-sum game there is at least a limit to the upside. Plus a lot of the new startups would create new technology that further accelerated variation in productivity.Variation in productivity is far from the only source of economic inequality, but it is the irreducible core of it, in the sense that you'll have that left when you eliminate all other sources.",
+      "And if you do, that core will be big, because it will have expanded to include the efforts of all the refugees. Plus it will have a large Baumol penumbra around it: anyone who could get rich by creating wealth on their own account will have to be paid enough to prevent them from doing it.You can't prevent great variations in wealth without preventing people from getting rich, and you can't do that without preventing them from starting startups.So let's be clear about that.",
+      "Eliminating great variations in wealth would mean eliminating startups. And that doesn't seem a wise move. Especially since it would only mean you eliminated startups in your own country. Ambitious people already move halfway around the world to further their careers, and startups can operate from anywhere nowadays.",
+      "So if you made it impossible to get rich by creating wealth in your country, people who wanted to do that would just leave and do it somewhere else. Which would certainly get you a lower Gini coefficient, along with a lesson in being careful what you ask for.",
+      "[4]I think rising economic inequality is the inevitable fate of countries that don't choose something worse. We had a 40 year stretch in the middle of the 20th century that convinced some people otherwise.",
+      "But as I explained in The Refragmentation, that was an anomaly — a unique combination of circumstances that compressed American society not just economically but culturally too. [5]And while some of the growth in economic inequality we've seen since then has been due to bad behavior of various kinds, there has simultaneously been a huge increase in individuals' ability to create wealth.",
+      "Startups are almost entirely a product of this period. And even within the startup world, there has been a qualitative change in the last 10 years. Technology has decreased the cost of starting a startup so much that founders now have the upper hand over investors.",
+      "Founders get less diluted, and it is now common for them to retain board control as well. Both further increase economic inequality, the former because founders own more stock, and the latter because, as investors have learned, founders tend to be better at running their companies than investors.While the surface manifestations change, the underlying forces are very, very old.",
+      "The acceleration of productivity we see in Silicon Valley has been happening for thousands of years. If you look at the history of stone tools, technology was already accelerating in the Mesolithic. The acceleration would have been too slow to perceive in one lifetime.",
+      "Such is the nature of the leftmost part of an exponential curve. But it was the same curve.You do not want to design your society in a way that's incompatible with this curve. The evolution of technology is one of the most powerful forces in history.Louis Brandeis said \"We may have democracy, or we may have wealth concentrated in the hands of a few, but we can't have both.\" That sounds plausible.",
+      "But if I have to choose between ignoring him and ignoring an exponential curve that has been operating for thousands of years, I'll bet on the curve. Ignoring any trend that has been operating for thousands of years is dangerous.",
+      "But exponential growth, especially, tends to bite you.___If accelerating variation in productivity is always going to produce some baseline growth in economic inequality, it would be a good idea to spend some time thinking about that future.",
+      "Can you have a healthy society with great variation in wealth? What would it look like?Notice how novel it feels to think about that. The public conversation so far has been exclusively about the need to decrease economic inequality.",
+      "We've barely given a thought to how to live with it.I'm hopeful we'll be able to. Brandeis was a product of the Gilded Age, and things have changed since then. It's harder to hide wrongdoing now. And to get rich now you don't have to buy politicians the way railroad or oil magnates did.",
+      "[6] The great concentrations of wealth I see around me in Silicon Valley don't seem to be destroying democracy.There are lots of things wrong with the US that have economic inequality as a symptom. We should fix those things.",
+      "In the process we may decrease economic inequality. But we can't start from the symptom and hope to fix the underlying causes. [7]The most obvious is poverty. I'm sure most of those who want to decrease economic inequality want to do it mainly to help the poor, not to hurt the rich.",
+      "[8] Indeed, a good number are merely being sloppy by speaking of decreasing economic inequality when what they mean is decreasing poverty. But this is a situation where it would be good to be precise about what we want.",
+      "Poverty and economic inequality are not identical. When the city is turning off your water because you can't pay the bill, it doesn't make any difference what Larry Page's net worth is compared to yours.",
+      "He might only be a few times richer than you, and it would still be just as much of a problem that your water was getting turned off.Closely related to poverty is lack of social mobility. I've seen this myself: you don't have to grow up rich or even upper middle class to get rich as a startup founder, but few successful founders grew up desperately poor.",
+      "But again, the problem here is not simply economic inequality. There is an enormous difference in wealth between the household Larry Page grew up in and that of a successful startup founder, but that didn't prevent him from joining their ranks.",
+      "It's not economic inequality per se that's blocking social mobility, but some specific combination of things that go wrong when kids grow up sufficiently poor.One of the most important principles in Silicon Valley is that \"you make what you measure.\" It means that if you pick some number to focus on, it will tend to improve, but that you have to choose the right number, because only the one you choose will improve; another that seems conceptually adjacent might not.",
+      "For example, if you're a university president and you decide to focus on graduation rates, then you'll improve graduation rates. But only graduation rates, not how much students learn. Students could learn less, if to improve graduation rates you made classes easier.Economic inequality is sufficiently far from identical with the various problems that have it as a symptom that we'll probably only hit whichever of the two we aim at.",
+      "If we aim at economic inequality, we won't fix these problems. So I say let's aim at the problems.For example, let's attack poverty, and if necessary damage wealth in the process. That's much more likely to work than attacking wealth in the hope that you will thereby fix poverty.",
+      "[9] And if there are people getting rich by tricking consumers or lobbying the government for anti-competitive regulations or tax loopholes, then let's stop them. Not because it's causing economic inequality, but because it's stealing.",
+      "[10]If all you have is statistics, it seems like that's what you need to fix. But behind a broad statistical measure like economic inequality there are some things that are good and some that are bad, some that are historical trends with immense momentum and others that are random accidents.",
+      "If we want to fix the world behind the statistics, we have to understand it, and focus our efforts where they'll do the most good.Notes[1] Stiglitz, Joseph. The Price of Inequality. Norton, 2012. p. 32.[2] Particularly since economic inequality is a matter of outliers, and outliers are disproportionately likely to have gotten where they are by ways that have little do with the sort of things economists usually think about, like wages and productivity, but rather by, say, ending up on the wrong side of the \"War on Drugs.\"[3] Determination is the most important factor in deciding between success and failure, which in startups tend to be sharply differentiated.",
+      "But it takes more than determination to create one of the hugely successful startups. Though most founders start out excited about the idea of getting rich, purely mercenary founders will usually take one of the big acquisition offers most successful startups get on the way up.",
+      "The founders who go on to the next stage tend to be driven by a sense of mission. They have the same attachment to their companies that an artist or writer has to their work. But it is very hard to predict at the outset which founders will do that.",
+      "It's not simply a function of their initial attitude. Starting a company changes people.[4] After reading a draft of this essay, Richard Florida told me how he had once talked to a group of Europeans \"who said they wanted to make Europe more entrepreneurial and more like Silicon Valley.",
+      "I said by definition this will give you more inequality. They thought I was insane — they could not process it.\"[5] Economic inequality has been decreasing globally. But this is mainly due to the erosion of the kleptocracies that formerly dominated all the poorer countries.",
+      "Once the playing field is leveler politically, we'll see economic inequality start to rise again. The US is the bellwether. The situation we face here, the rest of the world will sooner or later.[6] Some people still get rich by buying politicians.",
+      "My point is that it's no longer a precondition.[7] As well as problems that have economic inequality as a symptom, there are those that have it as a cause. But in most if not all, economic inequality is not the primary cause.",
+      "There is usually some injustice that is allowing economic inequality to turn into other forms of inequality, and that injustice is what we need to fix. For example, the police in the US treat the poor worse than the rich.",
+      "But the solution is not to make people richer. It's to make the police treat people more equitably. Otherwise they'll continue to maltreat people who are weak in other ways.[8] Some who read this essay will say that I'm clueless or even being deliberately misleading by focusing so much on the richer end of economic inequality — that economic inequality is really about poverty.",
+      "But that is exactly the point I'm making, though sloppier language than I'd use to make it. The real problem is poverty, not economic inequality. And if you conflate them you're aiming at the wrong target.Others will say I'm clueless or being misleading by focusing on people who get rich by creating wealth — that startups aren't the problem, but corrupt practices in finance, healthcare, and so on.",
+      "Once again, that is exactly my point. The problem is not economic inequality, but those specific abuses.It's a strange task to write an essay about why something isn't the problem, but that's the situation you find yourself in when so many people mistakenly think it is.[9] Particularly since many causes of poverty are only partially driven by people trying to make money from them.",
+      "For example, America's abnormally high incarceration rate is a major cause of poverty. But although for-profit prison companies and prison guard unions both spend a lot lobbying for harsh sentencing laws, they are not the original source of them.[10] Incidentally, tax loopholes are definitely not a product of some power shift due to recent increases in economic inequality.",
+      "The golden age of economic equality in the mid 20th century was also the golden age of tax avoidance. Indeed, it was so widespread and so effective that I'm skeptical whether economic inequality was really so low then as we think.",
+      "In a period when people are trying to hide wealth from the government, it will tend to be hidden from statistics too. One sign of the potential magnitude of the problem is the discrepancy between government receipts as a percentage of GDP, which have remained more or less constant during the entire period from the end of World War II to the present, and tax rates, which have varied dramatically.",
+      "Thanks to Sam Altman, Tiffani Ashley Bell, Patrick Collison, Ron Conway, Richard Florida, Ben Horowitz, Jessica Livingston, Robert Morris, Tim O'Reilly, Max Roser, and Alexia Tsotsis for reading drafts of this.Note: This is a new version from which I removed a pair of metaphors that made a lot of people mad, essentially by macroexpanding them.",
+      "If anyone wants to see the old version, I put it here.Related:The Short VersionA Reply to Ezra KleinA Reply to Russell OkungFrench Translation"
+    ],
+    "word_count": 3379,
+    "paragraph_count": 66
+  },
+  "processed_at": "2025-07-26T19:02:17.864994",
+  "paragraphs": [
+    {
+      "original": "January 2016Since the 1970s, economic inequality in the US has increased dramatically. And in particular, the rich have gotten a lot richer. Nearly everyone who writes about the topic says that economic inequality should be decreased.I'm interested in this question because I was one of the founders of a company called Y Combinator that helps people start startups.",
+      "translated": "2016年1月自20世纪70年代以来，美国的经济不平等现象显著加剧。尤其是，富人变得更加富有。几乎所有撰写这一主题的人都认为，应当减少经济不平等。我对这个问题感兴趣，是因为我是Y Combinator公司的创始人之一，这家公司帮助人们创办初创企业。"
+    },
+    {
+      "original": "Almost by definition, if a startup succeeds, its founders become rich. Which means by helping startup founders I've been helping to increase economic inequality. If economic inequality should be decreased, I shouldn't be helping founders.",
+      "translated": "几乎可以定义说，如果一家创业公司成功了，其创始人就会变得富有。这意味着通过帮助创业公司的创始人，我实际上是在加剧经济不平等。如果经济不平等需要减少，那么我就不应该帮助这些创始人。"
+    },
+    {
+      "original": "No one should be.But that doesn't sound right. What's going on here? What's going on is that while economic inequality is a single measure (or more precisely, two: variation in income, and variation in wealth), it has multiple causes.",
+      "translated": "没有人应该这样。但这听起来不对。这里发生了什么？实际情况是，尽管经济不平等是一个单一的指标（或者更准确地说，是两个指标：收入差异和财富差异），但它有多个原因。"
+    },
+    {
+      "original": "Many of these causes are bad, like tax loopholes and drug addiction. But some are good, like Larry Page and Sergey Brin starting the company you use to find things online.If you want to understand economic inequality — and more importantly, if you actually want to fix the bad aspects of it — you have to tease apart the components.",
+      "translated": "这些原因中有很多是负面的，比如税收漏洞和药物成瘾。但也有一些是积极的，比如拉里·佩奇和谢尔盖·布林创立了你用来在线查找信息的公司。如果你想理解经济不平等——更重要的是，如果你真的想解决其负面方面——你必须将这些因素区分开来。"
+    },
+    {
+      "original": "And yet the trend in nearly everything written about the subject is to do the opposite: to squash together all the aspects of economic inequality as if it were a single phenomenon.Sometimes this is done for ideological reasons.",
+      "translated": "然而，几乎所有关于这一主题的撰文趋势却是相反的：将经济不平等的所有方面混为一谈，仿佛它是一个单一的现象。有时这样做是出于意识形态的原因。"
+    },
+    {
+      "original": "Sometimes it's because the writer only has very high-level data and so draws conclusions from that, like the proverbial drunk who looks for his keys under the lamppost, instead of where he dropped them, because the light is better there.",
+      "translated": "有时候，这是因为作者只有非常宏观的数据，因此从中得出结论，就像那句谚语所说的醉汉在路灯下寻找丢失的钥匙，而不是在实际掉落的地方寻找，因为那里的光线更好。"
+    },
+    {
+      "original": "Sometimes it's because the writer doesn't understand critical aspects of inequality, like the role of technology in wealth creation. Much of the time, perhaps most of the time, writing about economic inequality combines all three.___The most common mistake people make about economic inequality is to treat it as a single phenomenon.",
+      "translated": "有时是因为作者不理解不平等的关键方面，比如技术在财富创造中的作用。很多时候，也许是大多数时候，关于经济不平等的写作将这三点结合起来。人们在谈论经济不平等时最常见的错误是将其视为单一现象。"
+    },
+    {
+      "original": "The most naive version of which is the one based on the pie fallacy: that the rich get rich by taking money from the poor.Usually this is an assumption people start from rather than a conclusion they arrive at by examining the evidence.",
+      "translated": "最幼稚的版本是基于“零和谬误”的：富人之所以富有，是因为他们从穷人那里拿走了钱。通常，这是一种人们最初的假设，而不是通过考察证据得出的结论。"
+    },
+    {
+      "original": "Sometimes the pie fallacy is stated explicitly: ...those at the top are grabbing an increasing fraction of the nation's income — so much of a larger share that what's left over for the rest is diminished....",
+      "translated": "有时，这种“馅饼谬误”会被明确表述出来：……位于顶层的人正在攫取国家收入中越来越大的份额——这部分份额如此之大，以至于剩下的部分对其他人来说减少了……"
+    },
+    {
+      "original": "[1] Other times it's more unconscious. But the unconscious form is very widespread. I think because we grow up in a world where the pie fallacy is actually true. To kids, wealth is a fixed pie that's shared out, and if one person gets more, it's at the expense of another.",
+      "translated": "有时候则更加无意识。但这种无意识的形式非常普遍。我认为这是因为我们成长在一个“零和游戏”假象真实存在的世界里。对孩子们来说，财富就像一个固定大小的饼，如果一个人分得更多，那必然是以另一个人的损失为代价。"
+    },
+    {
+      "original": "It takes a conscious effort to remind oneself that the real world doesn't work that way.In the real world you can create wealth as well as taking it from others. A woodworker creates wealth. He makes a chair, and you willingly give him money in return for it.",
+      "translated": "需要有意识地提醒自己，现实世界并非如此运作。在现实世界中，你既可以创造财富，也可以从他人那里获取财富。木匠创造财富，他制作了一把椅子，而你心甘情愿地为它付钱给他。"
+    },
+    {
+      "original": "A high-frequency trader does not. He makes a dollar only when someone on the other end of a trade loses a dollar.If the rich people in a society got that way by taking wealth from the poor, then you have the degenerate case of economic inequality, where the cause of poverty is the same as the cause of wealth.",
+      "translated": "高频交易者并非如此。他只有在交易的另一方亏损一美元时才能赚得一美元。如果一个社会中的富人是通过从穷人那里获取财富而变得富裕的，那么你就遇到了经济不平等的退化情形，其中贫困的原因与财富的原因是相同的。"
+    },
+    {
+      "original": "But instances of inequality don't have to be instances of the degenerate case. If one woodworker makes 5 chairs and another makes none, the second woodworker will have less money, but not because anyone took anything from him.Even people sophisticated enough to know about the pie fallacy are led toward it by the custom of describing economic inequality as a ratio of one quantile's income or wealth to another's.",
+      "translated": "但不平等的情况并不必然是退化情况。如果一个木匠做了5把椅子，而另一个一个都没做，那么第二个木匠的钱会少一些，但这并不是因为有人从他那里拿走了什么。即使那些足够明智、知道“零和博弈谬误”的人，也会因为习惯于将经济不平等描述为一个分位数的收入或财富与另一个分位数的比率而被导向这种谬误。"
+    },
+    {
+      "original": "It's so easy to slip from talking about income shifting from one quantile to another, as a figure of speech, into believing that is literally what's happening.Except in the degenerate case, economic inequality can't be described by a ratio or even a curve.",
+      "translated": "从谈论收入从一个分位数转移到另一个分位数，作为一种修辞手法，很容易滑入相信这确实是正在发生的事情。除非在退化的情形下，经济不平等不能仅用一个比率或甚至一条曲线来描述。"
+    },
+    {
+      "original": "In the general case it consists of multiple ways people become poor, and multiple ways people become rich. Which means to understand economic inequality in a country, you have to go find individual people who are poor or rich and figure out why.",
+      "translated": "在一般情况下，人们变穷和变富的原因多种多样。这意味着要理解一个国家的经济不平等，你必须找到那些贫穷或富有的人，弄清楚其中的原因。"
+    },
+    {
+      "original": "[2]If you want to understand change in economic inequality, you should ask what those people would have done when it was different. This is one way I know the rich aren't all getting richer simply from some new system for transferring wealth to them from everyone else.",
+      "translated": "如果你想了解经济不平等的变化，你应该问那些人在情况不同的时候会做什么。这是我所知道的，富人并不是简单地通过某种新制度从其他人那里转移财富而变得更富有的一个途径。"
+    },
+    {
+      "original": "When you use the would-have method with startup founders, you find what most would have done back in 1960, when economic inequality was lower, was to join big companies or become professors. Before Mark Zuckerberg started Facebook, his default expectation was that he'd end up working at Microsoft.",
+      "translated": "当你使用“本会”方法与初创企业的创始人交谈时，你会发现，大多数人在1960年，即经济不平等程度较低时，会选择加入大公司或成为教授。在马克·扎克伯格创立Facebook之前，他的默认预期是最终会在微软工作。"
+    },
+    {
+      "original": "The reason he and most other startup founders are richer than they would have been in the mid 20th century is not because of some right turn the country took during the Reagan administration, but because progress in technology has made it much easier to start a new company that grows fast.Traditional economists seem strangely averse to studying individual humans.",
+      "translated": "他和其他大多数初创企业创始人比20世纪中叶更富有的原因，并不是因为国家在里根政府期间转向了某种右翼政策，而是因为技术的进步使得创建一家快速增长的新公司变得容易得多。传统经济学家似乎对研究个体人类表现得出奇的反感。"
+    },
+    {
+      "original": "It seems to be a rule with them that everything has to start with statistics. So they give you very precise numbers about variation in wealth and income, then follow it with the most naive speculation about the underlying causes.But while there are a lot of people who get rich through rent-seeking of various forms, and a lot who get rich by playing zero-sum games, there are also a significant number who get rich by creating wealth.",
+      "translated": "他们似乎有一个规矩，凡事都要从统计数据开始。因此，他们会给你提供非常精确的关于财富和收入差异的数字，然后跟着就是对这些差异背后原因的最幼稚的推测。虽然有很多人是通过各种形式的寻租行为致富的，也有很多人是通过零和游戏致富的，但也有相当一部分人是通过创造财富而变得富裕的。"
+    },
+    {
+      "original": "And creating wealth, as a source of economic inequality, is different from taking it — not just morally, but also practically, in the sense that it is harder to eradicate. One reason is that variation in productivity is accelerating.",
+      "translated": "创造财富作为经济不平等的来源，与获取财富不同——不仅在道德上，而且在实际上也更难根除。其中一个原因是生产率的差异正在加速扩大。"
+    },
+    {
+      "original": "The rate at which individuals can create wealth depends on the technology available to them, and that grows exponentially. The other reason creating wealth is such a tenacious source of inequality is that it can expand to accommodate a lot of people.___I'm all for shutting down the crooked ways to get rich.",
+      "translated": "个人创造财富的速度取决于他们所拥有的技术，而技术是以指数级增长的。创造财富成为不平等的一个持久来源的另一个原因是，它可以扩展以容纳很多人。___我完全支持关闭那些不正当的致富途径。"
+    },
+    {
+      "original": "But that won't eliminate great variations in wealth, because as long as you leave open the option of getting rich by creating wealth, people who want to get rich will do that instead.Most people who get rich tend to be fairly driven.",
+      "translated": "但这并不会消除财富的巨大差异，因为只要你开放通过创造财富而致富的途径，那些想要致富的人就会选择这样做。大多数致富的人往往都相当有动力。"
+    },
+    {
+      "original": "Whatever their other flaws, laziness is usually not one of them. Suppose new policies make it hard to make a fortune in finance. Does it seem plausible that the people who currently go into finance to make their fortunes will continue to do so, but be content to work for ordinary salaries?",
+      "translated": "无论他们有哪些其他缺点，懒惰通常不在其中。假设新政策使得在金融行业赚大钱变得困难。这些人目前进入金融行业是为了赚大钱，那么他们是否会继续这样做，但满足于普通的薪水呢？"
+    },
+    {
+      "original": "The reason they go into finance is not because they love finance but because they want to get rich. If the only way left to get rich is to start startups, they'll start startups. They'll do well at it too, because determination is the main factor in the success of a startup.",
+      "translated": "他们进入金融行业并非因为热爱金融，而是因为想致富。如果致富的唯一途径是创办初创公司，他们就会去创办初创公司。他们在初创公司方面也会做得很好，因为决心是初创公司成功的主要因素。"
+    },
+    {
+      "original": "[3] And while it would probably be a good thing for the world if people who wanted to get rich switched from playing zero-sum games to creating wealth, that would not only not eliminate great variations in wealth, but might even exacerbate them.",
+      "translated": "如果那些想致富的人从零和游戏转向创造财富，这或许对世界来说是一件好事，但这不仅不会消除巨大的财富差距，甚至可能会加剧这种差距。"
+    },
+    {
+      "original": "In a zero-sum game there is at least a limit to the upside. Plus a lot of the new startups would create new technology that further accelerated variation in productivity.Variation in productivity is far from the only source of economic inequality, but it is the irreducible core of it, in the sense that you'll have that left when you eliminate all other sources.",
+      "translated": "在零和游戏中，至少还有上升空间的限制。此外，许多新的创业公司会创造新技术，进一步加速生产力的差异。生产力的差异远非经济不平等的唯一来源，但它是不可减少的核心，也就是说，当你消除所有其他来源后，这一点依然存在。"
+    },
+    {
+      "original": "And if you do, that core will be big, because it will have expanded to include the efforts of all the refugees. Plus it will have a large Baumol penumbra around it: anyone who could get rich by creating wealth on their own account will have to be paid enough to prevent them from doing it.You can't prevent great variations in wealth without preventing people from getting rich, and you can't do that without preventing them from starting startups.So let's be clear about that.",
+      "translated": "如果你这样做，那么这个核心将会很大，因为它将扩展以包括所有难民的努力。此外，它周围将有一个巨大的鲍莫尔边缘区：任何可以通过自己创造财富而变得富有的人，都必须得到足够的报酬以防止他们这样做。你不能在不阻止人们致富的情况下防止财富的巨大差异，而你不能在不阻止人们创办初创企业的情况下阻止他们致富。所以，让我们对此明确。"
+    },
+    {
+      "original": "Eliminating great variations in wealth would mean eliminating startups. And that doesn't seem a wise move. Especially since it would only mean you eliminated startups in your own country. Ambitious people already move halfway around the world to further their careers, and startups can operate from anywhere nowadays.",
+      "translated": "消除财富的巨大差异就意味着消除创业公司。而这似乎并不是明智之举。尤其是这样做只会消除你自己国家的创业公司。有抱负的人已经愿意为了事业发展而远赴他乡，而如今创业公司可以在任何地方运营。"
+    },
+    {
+      "original": "So if you made it impossible to get rich by creating wealth in your country, people who wanted to do that would just leave and do it somewhere else. Which would certainly get you a lower Gini coefficient, along with a lesson in being careful what you ask for.",
+      "translated": "所以，如果你让你的国家无法通过创造财富来致富，那些想要这样做的人就会离开，去其他地方做。这当然会让你的基尼系数降低，同时也会给你一个小心求愿的教训。"
+    },
+    {
+      "original": "[4]I think rising economic inequality is the inevitable fate of countries that don't choose something worse. We had a 40 year stretch in the middle of the 20th century that convinced some people otherwise.",
+      "translated": "我认为，经济不平等的加剧是那些没有选择更糟糕方案的国家不可避免的命运。20世纪中叶的40年让某些人对此产生了不同的看法。"
+    },
+    {
+      "original": "But as I explained in The Refragmentation, that was an anomaly — a unique combination of circumstances that compressed American society not just economically but culturally too. [5]And while some of the growth in economic inequality we've seen since then has been due to bad behavior of various kinds, there has simultaneously been a huge increase in individuals' ability to create wealth.",
+      "translated": "但正如我在《再碎片化》中解释的那样，那是一种异常现象——一种独特的环境组合，不仅在经济上，也在文化上压缩了美国社会。[5]尽管自那以后我们所看到的经济不平等的增长部分是由于各种不良行为造成的，但与此同时，个人创造财富的能力也有了巨大的提升。"
+    },
+    {
+      "original": "Startups are almost entirely a product of this period. And even within the startup world, there has been a qualitative change in the last 10 years. Technology has decreased the cost of starting a startup so much that founders now have the upper hand over investors.",
+      "translated": "初创企业几乎完全是这一时期的产物。即使在初创企业界，过去10年也发生了质的变化。技术大大降低了创业的成本，以至于创始人现在在与投资者的谈判中占据了上风。"
+    },
+    {
+      "original": "Founders get less diluted, and it is now common for them to retain board control as well. Both further increase economic inequality, the former because founders own more stock, and the latter because, as investors have learned, founders tend to be better at running their companies than investors.While the surface manifestations change, the underlying forces are very, very old.",
+      "translated": "创始人股份被稀释得更少，现在他们通常还能保持董事会的控制权。这两点进一步加剧了经济不平等，前者是因为创始人拥有更多的股票，后者则是因为，投资者已经意识到，创始人通常比投资者更擅长经营他们的公司。尽管表面现象在变化，但背后的驱动力却非常非常古老。"
+    },
+    {
+      "original": "The acceleration of productivity we see in Silicon Valley has been happening for thousands of years. If you look at the history of stone tools, technology was already accelerating in the Mesolithic. The acceleration would have been too slow to perceive in one lifetime.",
+      "translated": "我们在硅谷看到的生产率加速现象，其实已经持续了数千年。如果你回顾石器的历史，就会发现在中石器时代技术就已经在加速发展。这种加速在一个人的一生中是难以察觉的。"
+    },
+    {
+      "original": "Such is the nature of the leftmost part of an exponential curve. But it was the same curve.You do not want to design your society in a way that's incompatible with this curve. The evolution of technology is one of the most powerful forces in history.Louis Brandeis said \"We may have democracy, or we may have wealth concentrated in the hands of a few, but we can't have both.\" That sounds plausible.",
+      "translated": "这就是指数曲线最左侧部分的本质。但它是同一条曲线。你不能设计一个与这条曲线不兼容的社会。技术的演变是历史上最强大的力量之一。路易斯·布兰代斯曾说：“我们可以有民主，或者我们可以让财富集中在少数人手中，但两者不能兼得。”这听起来很有道理。"
+    },
+    {
+      "original": "But if I have to choose between ignoring him and ignoring an exponential curve that has been operating for thousands of years, I'll bet on the curve. Ignoring any trend that has been operating for thousands of years is dangerous.",
+      "translated": "但如果我必须在忽略他和忽略一条已经运行了数千年的指数曲线之间做出选择，我会押注这条曲线。忽略任何已经运行了数千年的趋势都是危险的。"
+    },
+    {
+      "original": "But exponential growth, especially, tends to bite you.___If accelerating variation in productivity is always going to produce some baseline growth in economic inequality, it would be a good idea to spend some time thinking about that future.",
+      "translated": "但指数增长，尤其是，往往会带来麻烦。如果生产力加速变化总是会导致经济不平等的基本增长，那么花点时间思考这一未来将是个好主意。"
+    },
+    {
+      "original": "Can you have a healthy society with great variation in wealth? What would it look like?Notice how novel it feels to think about that. The public conversation so far has been exclusively about the need to decrease economic inequality.",
+      "translated": "一个财富差异巨大的社会能是健康的吗？这会是什么样子？请注意，这种想法感觉多么新颖。到目前为止，公众的讨论一直 exclusively 关注减少经济不平等的需要。"
+    },
+    {
+      "original": "We've barely given a thought to how to live with it.I'm hopeful we'll be able to. Brandeis was a product of the Gilded Age, and things have changed since then. It's harder to hide wrongdoing now. And to get rich now you don't have to buy politicians the way railroad or oil magnates did.",
+      "translated": "我们几乎还没有考虑过如何与之共存。我对此抱有希望。布兰代斯是镀金时代的人，自那时起，世事已经发生了变化。现在要隐瞒不当行为更加困难。而且如今要致富，不必像铁路或石油大亨那样收买政客。"
+    },
+    {
+      "original": "[6] The great concentrations of wealth I see around me in Silicon Valley don't seem to be destroying democracy.There are lots of things wrong with the US that have economic inequality as a symptom. We should fix those things.",
+      "translated": "我周围在硅谷看到的大量财富集中似乎并没有破坏民主。美国有很多问题，经济不平等是其中的症状。我们应该解决这些问题。"
+    },
+    {
+      "original": "In the process we may decrease economic inequality. But we can't start from the symptom and hope to fix the underlying causes. [7]The most obvious is poverty. I'm sure most of those who want to decrease economic inequality want to do it mainly to help the poor, not to hurt the rich.",
+      "translated": "在这个过程中，我们可能会减少经济不平等。但我们不能从症状出发，希望解决根本原因。最明显的原因是贫困。我相信，大多数希望减少经济不平等的人主要是为了帮助穷人，而不是为了伤害富人。"
+    },
+    {
+      "original": "[8] Indeed, a good number are merely being sloppy by speaking of decreasing economic inequality when what they mean is decreasing poverty. But this is a situation where it would be good to be precise about what we want.",
+      "translated": "事实上，许多人只是在谈论减少经济不平等时有些草率，而他们真正想说的是减少贫困。但在这个问题上，准确表达我们的目标是件好事。"
+    },
+    {
+      "original": "Poverty and economic inequality are not identical. When the city is turning off your water because you can't pay the bill, it doesn't make any difference what Larry Page's net worth is compared to yours.",
+      "translated": "贫困和经济不平等并不是同一个概念。当城市因为你付不起水费而停水时，拉里·佩奇的净资产与你相比有多少并不重要。"
+    },
+    {
+      "original": "He might only be a few times richer than you, and it would still be just as much of a problem that your water was getting turned off.Closely related to poverty is lack of social mobility. I've seen this myself: you don't have to grow up rich or even upper middle class to get rich as a startup founder, but few successful founders grew up desperately poor.",
+      "translated": "他可能只是比你富裕几倍，但你的水被停掉仍然会是一个大问题。与贫困紧密相关的是社会流动性不足。我本人就见过这种情况：你不必出身富裕甚至中上阶层就能成为成功的创业公司创始人，但很少有成功的创始人是出身极度贫困的。"
+    },
+    {
+      "original": "But again, the problem here is not simply economic inequality. There is an enormous difference in wealth between the household Larry Page grew up in and that of a successful startup founder, but that didn't prevent him from joining their ranks.",
+      "translated": "但问题并不仅仅在于经济不平等。拉里·佩奇成长的家庭与成功创业者的家庭之间存在巨大的财富差距，但这并没有阻止他加入他们的行列。"
+    },
+    {
+      "original": "It's not economic inequality per se that's blocking social mobility, but some specific combination of things that go wrong when kids grow up sufficiently poor.One of the most important principles in Silicon Valley is that \"you make what you measure.\" It means that if you pick some number to focus on, it will tend to improve, but that you have to choose the right number, because only the one you choose will improve; another that seems conceptually adjacent might not.",
+      "translated": "阻碍社会流动的并非经济不平等本身，而是孩子们在极度贫困中成长时出现的一些特定问题的组合。硅谷最重要的原则之一是“你衡量什么，就创造什么。”这意味着，如果你选择某个数字作为关注点，这个数字往往会得到改善，但你必须选择正确的数字，因为只有你选择的数字会改善；另一个看似概念上相近的数字可能不会。"
+    },
+    {
+      "original": "For example, if you're a university president and you decide to focus on graduation rates, then you'll improve graduation rates. But only graduation rates, not how much students learn. Students could learn less, if to improve graduation rates you made classes easier.Economic inequality is sufficiently far from identical with the various problems that have it as a symptom that we'll probably only hit whichever of the two we aim at.",
+      "translated": "例如，如果你是大学校长，并决定专注于提高毕业率，那么你就会提高毕业率。但仅仅是毕业率，而不是学生的学习质量。为了提高毕业率而使课程变得更容易，学生可能会学得更少。经济不平等与各种以它为症状的问题之间存在足够的差异，以至于我们可能只能解决我们所针对的那一个问题。"
+    },
+    {
+      "original": "If we aim at economic inequality, we won't fix these problems. So I say let's aim at the problems.For example, let's attack poverty, and if necessary damage wealth in the process. That's much more likely to work than attacking wealth in the hope that you will thereby fix poverty.",
+      "translated": "如果我们针对经济不平等，我们无法解决这些问题。所以我建议我们应该针对问题本身。例如，让我们打击贫困，如果必要的话，过程中损害财富。这比希望通过打击财富来解决贫困更有可能奏效。"
+    },
+    {
+      "original": "[9] And if there are people getting rich by tricking consumers or lobbying the government for anti-competitive regulations or tax loopholes, then let's stop them. Not because it's causing economic inequality, but because it's stealing.",
+      "translated": "[9] 如果有人通过欺骗消费者或游说政府制定反竞争法规或税收漏洞来致富，那么我们应该制止他们。这不仅仅是因为它导致了经济不平等，而是因为这是在偷窃。"
+    },
+    {
+      "original": "[10]If all you have is statistics, it seems like that's what you need to fix. But behind a broad statistical measure like economic inequality there are some things that are good and some that are bad, some that are historical trends with immense momentum and others that are random accidents.",
+      "translated": "[10]如果你只有统计数据，似乎你需要解决的就是这些数据。但是在像经济不平等这样广泛的统计指标背后，有些事情是好的，有些是坏的，有些是具有巨大惯性的历史趋势，而有些则是随机事件。"
+    },
+    {
+      "original": "If we want to fix the world behind the statistics, we have to understand it, and focus our efforts where they'll do the most good.Notes[1] Stiglitz, Joseph. The Price of Inequality. Norton, 2012. p. 32.[2] Particularly since economic inequality is a matter of outliers, and outliers are disproportionately likely to have gotten where they are by ways that have little do with the sort of things economists usually think about, like wages and productivity, but rather by, say, ending up on the wrong side of the \"War on Drugs.\"[3] Determination is the most important factor in deciding between success and failure, which in startups tend to be sharply differentiated.",
+      "translated": "如果我们想要改善统计数字背后的世界，我们必须理解它，并将我们的努力集中在最能产生积极影响的地方。注释[1] 斯蒂格利茨，约瑟夫。《不平等的代价》。诺顿，2012年。第32页。[2] 特别是，由于经济不平等涉及的是极端值，而这些极端值更可能是因为与经济学家通常考虑的因素（如工资和生产率）无关的原因，比如在“毒品战争”中处于不利地位。[3] 决心是在成功与失败之间做出决定的最重要因素，而在创业公司中，成功与失败往往界限分明。"
+    },
+    {
+      "original": "But it takes more than determination to create one of the hugely successful startups. Though most founders start out excited about the idea of getting rich, purely mercenary founders will usually take one of the big acquisition offers most successful startups get on the way up.",
+      "translated": "但是，光有决心还不足以创建一个极为成功的初创企业。虽然大多数创始人一开始都对发财的前景感到兴奋，但纯粹出于金钱动机的创始人通常会在初创企业上升过程中接受那些大型收购提议之一。"
+    },
+    {
+      "original": "The founders who go on to the next stage tend to be driven by a sense of mission. They have the same attachment to their companies that an artist or writer has to their work. But it is very hard to predict at the outset which founders will do that.",
+      "translated": "继续前行的创始人往往被一种使命感所驱动。他们对自己的公司有着与艺术家或作家对其作品相同的感情。但很难在一开始就预测出哪些创始人会这样做。"
+    },
+    {
+      "original": "It's not simply a function of their initial attitude. Starting a company changes people.[4] After reading a draft of this essay, Richard Florida told me how he had once talked to a group of Europeans \"who said they wanted to make Europe more entrepreneurial and more like Silicon Valley.",
+      "translated": "这不仅仅取决于他们最初的態度。创建一家公司會改變人。[4] 理查德·佛羅里達在閱讀了這篇文章的草稿後，告訴我他曾經與一群歐洲人交談，他們表示希望使歐洲更加創業化，更像硅谷。"
+    },
+    {
+      "original": "I said by definition this will give you more inequality. They thought I was insane — they could not process it.\"[5] Economic inequality has been decreasing globally. But this is mainly due to the erosion of the kleptocracies that formerly dominated all the poorer countries.",
+      "translated": "我说，按定义这将导致更多的不平等。他们认为我疯了——他们无法理解这一点。\"[5] 全球经济不平等确实在下降。但主要是因为那些曾经主导所有较贫穷国家的 kleptocracies（ kleptocracy：寡头政治）已经逐渐消失。"
+    },
+    {
+      "original": "Once the playing field is leveler politically, we'll see economic inequality start to rise again. The US is the bellwether. The situation we face here, the rest of the world will sooner or later.[6] Some people still get rich by buying politicians.",
+      "translated": "一旦政治上的竞争环境变得更加公平，我们将会看到经济不平等再次加剧。美国是风向标。我们这里面临的情况，世界其他地区迟早也会遇到。[6] 有些人仍然通过收买政客来致富。"
+    },
+    {
+      "original": "My point is that it's no longer a precondition.[7] As well as problems that have economic inequality as a symptom, there are those that have it as a cause. But in most if not all, economic inequality is not the primary cause.",
+      "translated": "我的观点是，它不再是一个前提条件。除了那些将经济不平等视为症状的问题外，还有些问题将经济不平等视为原因。但在大多数，如果不是全部的情况下，经济不平等并不是主要原因。"
+    },
+    {
+      "original": "There is usually some injustice that is allowing economic inequality to turn into other forms of inequality, and that injustice is what we need to fix. For example, the police in the US treat the poor worse than the rich.",
+      "translated": "通常有一些不公正的现象使得经济不平等转化为其他形式的不平等，而正是这些不公正我们需要去纠正。例如，在美国，警察对待穷人比对待富人更差。"
+    },
+    {
+      "original": "But the solution is not to make people richer. It's to make the police treat people more equitably. Otherwise they'll continue to maltreat people who are weak in other ways.[8] Some who read this essay will say that I'm clueless or even being deliberately misleading by focusing so much on the richer end of economic inequality — that economic inequality is really about poverty.",
+      "translated": "但解决办法并不是让人们变得更富有。而是要让警察更公平地对待人们。否则，他们将继续虐待那些在其他方面处于弱势的人。[8] 有些读到这篇论文的人会说，我对问题一无所知，甚至故意误导，因为我过多地关注了经济不平等的富裕端——而经济不平等实际上是关于贫困的。"
+    },
+    {
+      "original": "But that is exactly the point I'm making, though sloppier language than I'd use to make it. The real problem is poverty, not economic inequality. And if you conflate them you're aiming at the wrong target.Others will say I'm clueless or being misleading by focusing on people who get rich by creating wealth — that startups aren't the problem, but corrupt practices in finance, healthcare, and so on.",
+      "translated": "但这一点恰恰是我想要表达的，尽管我的表述可能有些粗糙。真正的问题是贫困，而非经济不平等。如果你将两者混为一谈，那么你瞄准的目标就是错误的。其他人则会说我对此一无所知，或者说我通过关注那些通过创造财富而致富的人来误导他人——初创企业并不是问题所在，真正的问题在于金融、医疗等领域的腐败行为。"
+    },
+    {
+      "original": "Once again, that is exactly my point. The problem is not economic inequality, but those specific abuses.It's a strange task to write an essay about why something isn't the problem, but that's the situation you find yourself in when so many people mistakenly think it is.[9] Particularly since many causes of poverty are only partially driven by people trying to make money from them.",
+      "translated": "再次强调，这正是我的观点。问题不在于经济不平等，而是那些特定的滥用行为。写一篇关于为什么某件事不是问题的论文是一项奇怪的任务，但当你发现自己身处这样的境地时，这正是你所面临的状况，因为有那么多人错误地认为它是个问题。[9] 尤其是因为许多贫困的原因只是部分地由人们试图从中牟利所驱动。"
+    },
+    {
+      "original": "For example, America's abnormally high incarceration rate is a major cause of poverty. But although for-profit prison companies and prison guard unions both spend a lot lobbying for harsh sentencing laws, they are not the original source of them.[10] Incidentally, tax loopholes are definitely not a product of some power shift due to recent increases in economic inequality.",
+      "translated": "例如，美国异常高的监禁率是导致贫困的主要原因之一。但是，尽管营利性监狱公司和监狱警卫工会都大量游说支持严厉的量刑法律，它们并不是这些法律的最初源头。顺便说一下，税收漏洞绝对不是由于近期经济不平等加剧而导致的权力转移的产物。"
+    },
+    {
+      "original": "The golden age of economic equality in the mid 20th century was also the golden age of tax avoidance. Indeed, it was so widespread and so effective that I'm skeptical whether economic inequality was really so low then as we think.",
+      "translated": "20世纪中叶的经济平等黄金时代也是避税的黄金时代。事实上，避税如此普遍且有效，以至于我对当时经济不平等程度是否真的如我们所认为的那样低表示怀疑。"
+    },
+    {
+      "original": "In a period when people are trying to hide wealth from the government, it will tend to be hidden from statistics too. One sign of the potential magnitude of the problem is the discrepancy between government receipts as a percentage of GDP, which have remained more or less constant during the entire period from the end of World War II to the present, and tax rates, which have varied dramatically.",
+      "translated": "在人们试图向政府隐瞒财富的时期，这些财富也往往会从统计数据中消失。这一问题的潜在规模的一个迹象是，政府收入占GDP的比例与税率之间的差异。前者在整个二战结束到现在的时期内基本保持不变，而后者则发生了剧烈的变化。"
+    },
+    {
+      "original": "Thanks to Sam Altman, Tiffani Ashley Bell, Patrick Collison, Ron Conway, Richard Florida, Ben Horowitz, Jessica Livingston, Robert Morris, Tim O'Reilly, Max Roser, and Alexia Tsotsis for reading drafts of this.Note: This is a new version from which I removed a pair of metaphors that made a lot of people mad, essentially by macroexpanding them.",
+      "translated": "感谢Sam Altman、Tiffani Ashley Bell、Patrick Collison、Ron Conway、Richard Florida、Ben Horowitz、Jessica Livingston、Robert Morris、Tim O'Reilly、Max Roser和Alexia Tsotsis阅读本文的草稿。注：这是新版本，我从中删除了一对让很多人不满的比喻，实际上是通过宏展开它们。"
+    },
+    {
+      "original": "If anyone wants to see the old version, I put it here.Related:The Short VersionA Reply to Ezra KleinA Reply to Russell OkungFrench Translation",
+      "translated": "如果有人想看旧版本，我把它放在这里。相关链接：简短版 对Ezra Klein的回复 对Russell Okung的回复 法语翻译"
+    }
+  ],
+  "translation_completed": "2025-07-28T23:09:37.593319",
+  "translation_stats": {
+    "total_paragraphs": 66,
+    "success_count": 66,
+    "success_rate": "100.0%"
+  }
+}

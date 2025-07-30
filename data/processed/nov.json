@@ -1,0 +1,54 @@
+{
+  "title": "Novelty and Heresy",
+  "title_zh": "[待翻译] Novelty and Heresy",
+  "url": "https://www.paulgraham.com/nov.html",
+  "filename": "nov.html",
+  "date": "2019-11-01",
+  "id": 110,
+  "content": {
+    "success": true,
+    "paragraphs": [
+      "November 2019If you discover something new, there's a significant chance you'll be accused of some form of heresy.To discover new things, you have to work on ideas that are good but non-obvious; if an idea is obviously good, other people are probably already working on it.",
+      "One common way for a good idea to be non-obvious is for it to be hidden in the shadow of some mistaken assumption that people are very attached to. But anything you discover from working on such an idea will tend to contradict the mistaken assumption that was concealing it.",
+      "And you will thus get a lot of heat from people attached to the mistaken assumption. Galileo and Darwin are famous examples of this phenomenon, but it's probably always an ingredient in the resistance to new ideas.So it's particularly dangerous for an organization or society to have a culture of pouncing on heresy.",
+      "When you suppress heresies, you don't just prevent people from contradicting the mistaken assumption you're trying to protect. You also suppress any idea that implies indirectly that it's false. Every cherished mistaken assumption has a dead zone of unexplored ideas around it.",
+      "And the more preposterous the assumption, the bigger the dead zone it creates.There is a positive side to this phenomenon though. If you're looking for new ideas, one way to find them is by looking for heresies.",
+      "When you look at the question this way, the depressingly large dead zones around mistaken assumptions become excitingly large mines of new ideas.Japanese TranslationRussian TranslationSimplified Chinese Translation"
+    ],
+    "word_count": 255,
+    "paragraph_count": 6
+  },
+  "processed_at": "2025-07-26T19:04:56.362795",
+  "paragraphs": [
+    {
+      "original": "November 2019If you discover something new, there's a significant chance you'll be accused of some form of heresy.To discover new things, you have to work on ideas that are good but non-obvious; if an idea is obviously good, other people are probably already working on it.",
+      "translated": "2019年11月如果你发现了新事物，有很大可能会被指责为某种形式的异端。要发现新事物，你必须研究那些好但不明显的想法；如果一个想法明显是好的，那么其他人很可能已经在研究它了。"
+    },
+    {
+      "original": "One common way for a good idea to be non-obvious is for it to be hidden in the shadow of some mistaken assumption that people are very attached to. But anything you discover from working on such an idea will tend to contradict the mistaken assumption that was concealing it.",
+      "translated": "一个好主意不明显的一个常见原因是它隐藏在人们非常执着的某个错误假设的阴影之中。但你从研究这个主意中发现的任何东西都往往会与那个掩盖它的错误假设相矛盾。"
+    },
+    {
+      "original": "And you will thus get a lot of heat from people attached to the mistaken assumption. Galileo and Darwin are famous examples of this phenomenon, but it's probably always an ingredient in the resistance to new ideas.So it's particularly dangerous for an organization or society to have a culture of pouncing on heresy.",
+      "translated": "因此，你会受到许多坚持错误假设的人的强烈反对。伽利略和达尔文是这种现象的著名例子，但对新思想的抵制中可能总是存在这一因素。所以，对于一个组织或社会而言，拥有打击异端的文化尤其危险。"
+    },
+    {
+      "original": "When you suppress heresies, you don't just prevent people from contradicting the mistaken assumption you're trying to protect. You also suppress any idea that implies indirectly that it's false. Every cherished mistaken assumption has a dead zone of unexplored ideas around it.",
+      "translated": "当你压制异端时，你不仅阻止人们反驳你试图保护的那个错误假设，还会压制任何间接暗示该假设是错误的想法。每一个受珍视的错误假设周围都有一个未被探索的想法禁区。"
+    },
+    {
+      "original": "And the more preposterous the assumption, the bigger the dead zone it creates.There is a positive side to this phenomenon though. If you're looking for new ideas, one way to find them is by looking for heresies.",
+      "translated": "而且，假设越是荒谬，它所创造的盲区就越大。不过，这种现象也有积极的一面。如果你在寻找新思路，一个方法就是去寻找异端学说。"
+    },
+    {
+      "original": "When you look at the question this way, the depressingly large dead zones around mistaken assumptions become excitingly large mines of new ideas.Japanese TranslationRussian TranslationSimplified Chinese Translation",
+      "translated": "当你从这个角度来看问题时，围绕错误假设的那些令人沮丧的大范围死区，就变成了富含新想法的广阔矿藏。"
+    }
+  ],
+  "translation_completed": "2025-07-27T12:41:17.259862",
+  "translation_stats": {
+    "total_paragraphs": 6,
+    "success_count": 6,
+    "success_rate": "100.0%"
+  }
+}

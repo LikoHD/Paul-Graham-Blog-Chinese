@@ -1,0 +1,334 @@
+{
+  "title": "Why Smart People Have Bad Ideas",
+  "title_zh": "[待翻译] Why Smart People Have Bad Ideas",
+  "url": "https://www.paulgraham.com/bronze.html",
+  "filename": "bronze.html",
+  "date": "2005-04-01",
+  "id": 201,
+  "content": {
+    "success": true,
+    "paragraphs": [
+      "Want to start a startup? Get funded by Y Combinator. April 2005This summer, as an experiment, some friends and I are giving seed funding to a bunch of new startups. It's an experiment because we're prepared to fund younger founders than most investors would.",
+      "That's why we're doing it during the summer—so even college students can participate.We know from Google and Yahoo that grad students can start successful startups. And we know from experience that some undergrads are as capable as most grad students.",
+      "The accepted age for startup founders has been creeping downward. We're trying to find the lower bound. The deadline has now passed, and we're sifting through 227 applications. We expected to divide them into two categories, promising and unpromising.",
+      "But we soon saw we needed a third: promising people with unpromising ideas. [1]The Artix PhaseWe should have expected this. It's very common for a group of founders to go through one lame idea before realizing that a startup has to make something people will pay for.",
+      "In fact, we ourselves did.Viaweb wasn't the first startup Robert Morris and I started. In January 1995, we and a couple friends started a company called Artix. The plan was to put art galleries on the Web.",
+      "In retrospect, I wonder how we could have wasted our time on anything so stupid. Galleries are not especially excited about being on the Web even now, ten years later. They don't want to have their stock visible to any random visitor, like an antique store.",
+      "[2]Besides which, art dealers are the most technophobic people on earth. They didn't become art dealers after a difficult choice between that and a career in the hard sciences. Most of them had never seen the Web before we came to tell them why they should be on it.",
+      "Some didn't even have computers. It doesn't do justice to the situation to describe it as a hard sell; we soon sank to building sites for free, and it was hard to convince galleries even to do that.Gradually it dawned on us that instead of trying to make Web sites for people who didn't want them, we could make sites for people who did.",
+      "In fact, software that would let people who wanted sites make their own. So we ditched Artix and started a new company, Viaweb, to make software for building online stores. That one succeeded.We're in good company here.",
+      "Microsoft was not the first company Paul Allen and Bill Gates started either. The first was called Traf-o-data. It does not seem to have done as well as Micro-soft. In Robert's defense, he was skeptical about Artix.",
+      "I dragged him into it. [3] But there were moments when he was optimistic. And if we, who were 29 and 30 at the time, could get excited about such a thoroughly boneheaded idea, we should not be surprised that hackers aged 21 or 22 are pitching us ideas with little hope of making money.The Still Life EffectWhy does this happen?",
+      "Why do good hackers have bad business ideas?Let's look at our case. One reason we had such a lame idea was that it was the first thing we thought of. I was in New York trying to be a starving artist at the time (the starving part is actually quite easy), so I was haunting galleries anyway.",
+      "When I learned about the Web, it seemed natural to mix the two. Make Web sites for galleries—that's the ticket!If you're going to spend years working on something, you'd think it might be wise to spend at least a couple days considering different ideas, instead of going with the first that comes into your head.",
+      "You'd think. But people don't. In fact, this is a constant problem when you're painting still lifes. You plonk down a bunch of stuff on a table, and maybe spend five or ten minutes rearranging it to look interesting.",
+      "But you're so impatient to get started painting that ten minutes of rearranging feels very long. So you start painting. Three days later, having spent twenty hours staring at it, you're kicking yourself for having set up such an awkward and boring composition, but by then it's too late.Part of the problem is that big projects tend to grow out of small ones.",
+      "You set up a still life to make a quick sketch when you have a spare hour, and days later you're still working on it. I once spent a month painting three versions of a still life I set up in about four minutes.",
+      "At each point (a day, a week, a month) I thought I'd already put in so much time that it was too late to change.So the biggest cause of bad ideas is the still life effect: you come up with a random idea, plunge into it, and then at each point (a day, a week, a month) feel you've put so much time into it that this must be the idea.How do we fix that?",
+      "I don't think we should discard plunging. Plunging into an idea is a good thing. The solution is at the other end: to realize that having invested time in something doesn't make it good.This is clearest in the case of names.",
+      "Viaweb was originally called Webgen, but we discovered someone else had a product called that. We were so attached to our name that we offered him 5% of the company if he'd let us have it. But he wouldn't, so we had to think of another.",
+      "[4] The best we could do was Viaweb, which we disliked at first. It was like having a new mother. But within three days we loved it, and Webgen sounded lame and old-fashioned.If it's hard to change something so simple as a name, imagine how hard it is to garbage-collect an idea.",
+      "A name only has one point of attachment into your head. An idea for a company gets woven into your thoughts. So you must consciously discount for that. Plunge in, by all means, but remember later to look at your idea in the harsh light of morning and ask: is this something people will pay for?",
+      "Is this, of all the things we could make, the thing people will pay most for?MuckThe second mistake we made with Artix is also very common. Putting galleries on the Web seemed cool.One of the most valuable things my father taught me is an old Yorkshire saying: where there's muck, there's brass.",
+      "Meaning that unpleasant work pays. And more to the point here, vice versa. Work people like doesn't pay well, for reasons of supply and demand. The most extreme case is developing programming languages, which doesn't pay at all, because people like it so much they do it for free.When we started Artix, I was still ambivalent about business.",
+      "I wanted to keep one foot in the art world. Big, big, mistake. Going into business is like a hang-glider launch: you'd better do it wholeheartedly, or not at all. The purpose of a company, and a startup especially, is to make money.",
+      "You can't have divided loyalties.Which is not to say that you have to do the most disgusting sort of work, like spamming, or starting a company whose only purpose is patent litigation. What I mean is, if you're starting a company that will do something cool, the aim had better be to make money and maybe be cool, not to be cool and maybe make money.It's hard enough to make money that you can't do it by accident.",
+      "Unless it's your first priority, it's unlikely to happen at all.HyenasWhen I probe our motives with Artix, I see a third mistake: timidity. If you'd proposed at the time that we go into the e-commerce business, we'd have found the idea terrifying.",
+      "Surely a field like that would be dominated by fearsome startups with five million dollars of VC money each. Whereas we felt pretty sure that we could hold our own in the slightly less competitive business of generating Web sites for art galleries.We erred ridiculously far on the side of safety.",
+      "As it turns out, VC-backed startups are not that fearsome. They're too busy trying to spend all that money to get software written. In 1995, the e-commerce business was very competitive as measured in press releases, but not as measured in software.",
+      "And really it never was. The big fish like Open Market (rest their souls) were just consulting companies pretending to be product companies [5], and the offerings at our end of the market were a couple hundred lines of Perl scripts.",
+      "Or could have been implemented as a couple hundred lines of Perl; in fact they were probably tens of thousands of lines of C++ or Java. Once we actually took the plunge into e-commerce, it turned out to be surprisingly easy to compete.So why were we afraid?",
+      "We felt we were good at programming, but we lacked confidence in our ability to do a mysterious, undifferentiated thing we called \"business.\" In fact there is no such thing as \"business.\" There's selling, promotion, figuring out what people want, deciding how much to charge, customer support, paying your bills, getting customers to pay you, getting incorporated, raising money, and so on.",
+      "And the combination is not as hard as it seems, because some tasks (like raising money and getting incorporated) are an O(1) pain in the ass, whether you're big or small, and others (like selling and promotion) depend more on energy and imagination than any kind of special training.Artix was like a hyena, content to survive on carrion because we were afraid of the lions.",
+      "Except the lions turned out not to have any teeth, and the business of putting galleries online barely qualified as carrion.A Familiar ProblemSum up all these sources of error, and it's no wonder we had such a bad idea for a company.",
+      "We did the first thing we thought of; we were ambivalent about being in business at all; and we deliberately chose an impoverished market to avoid competition.Looking at the applications for the Summer Founders Program, I see signs of all three.",
+      "But the first is by far the biggest problem. Most of the groups applying have not stopped to ask: of all the things we could do, is this the one with the best chance of making money?If they'd already been through their Artix phase, they'd have learned to ask that.",
+      "After the reception we got from art dealers, we were ready to. This time, we thought, let's make something people want.Reading the Wall Street Journal for a week should give anyone ideas for two or three new startups.",
+      "The articles are full of descriptions of problems that need to be solved. But most of the applicants don't seem to have looked far for ideas.We expected the most common proposal to be for multiplayer games.",
+      "We were not far off: this was the second most common. The most common was some combination of a blog, a calendar, a dating site, and Friendster. Maybe there is some new killer app to be discovered here, but it seems perverse to go poking around in this fog when there are valuable, unsolved problems lying about in the open for anyone to see.",
+      "Why did no one propose a new scheme for micropayments? An ambitious project, perhaps, but I can't believe we've considered every alternative. And newspapers and magazines are (literally) dying for a solution.Why did so few applicants really think about what customers want?",
+      "I think the problem with many, as with people in their early twenties generally, is that they've been trained their whole lives to jump through predefined hoops. They've spent 15-20 years solving problems other people have set for them.",
+      "And how much time deciding what problems would be good to solve? Two or three course projects? They're good at solving problems, but bad at choosing them.But that, I'm convinced, is just the effect of training.",
+      "Or more precisely, the effect of grading. To make grading efficient, everyone has to solve the same problem, and that means it has to be decided in advance. It would be great if schools taught students how to choose problems as well as how to solve them, but I don't know how you'd run such a class in practice.Copper and TinThe good news is, choosing problems is something that can be learned.",
+      "I know that from experience. Hackers can learn to make things customers want. [6]This is a controversial view. One expert on \"entrepreneurship\" told me that any startup had to include business people, because only they could focus on what customers wanted.",
+      "I'll probably alienate this guy forever by quoting him, but I have to risk it, because his email was such a perfect example of this view: 80% of MIT spinoffs succeed provided they have at least one management person in the team at the start.",
+      "The business person represents the \"voice of the customer\" and that's what keeps the engineers and product development on track. This is, in my opinion, a crock. Hackers are perfectly capable of hearing the voice of the customer without a business person to amplify the signal for them.",
+      "Larry Page and Sergey Brin were grad students in computer science, which presumably makes them \"engineers.\" Do you suppose Google is only good because they had some business guy whispering in their ears what customers wanted?",
+      "It seems to me the business guys who did the most for Google were the ones who obligingly flew Altavista into a hillside just as Google was getting started.The hard part about figuring out what customers want is figuring out that you need to figure it out.",
+      "But that's something you can learn quickly. It's like seeing the other interpretation of an ambiguous picture. As soon as someone tells you there's a rabbit as well as a duck, it's hard not to see it.And compared to the sort of problems hackers are used to solving, giving customers what they want is easy.",
+      "Anyone who can write an optimizing compiler can design a UI that doesn't confuse users, once they choose to focus on that problem. And once you apply that kind of brain power to petty but profitable questions, you can create wealth very rapidly.That's the essence of a startup: having brilliant people do work that's beneath them.",
+      "Big companies try to hire the right person for the job. Startups win because they don't—because they take people so smart that they would in a big company be doing \"research,\" and set them to work instead on problems of the most immediate and mundane sort.",
+      "Think Einstein designing refrigerators. [7]If you want to learn what people want, read Dale Carnegie's How to Win Friends and Influence People. [8] When a friend recommended this book, I couldn't believe he was serious.",
+      "But he insisted it was good, so I read it, and he was right. It deals with the most difficult problem in human experience: how to see things from other people's point of view, instead of thinking only of yourself.Most smart people don't do that very well.",
+      "But adding this ability to raw brainpower is like adding tin to copper. The result is bronze, which is so much harder that it seems a different metal.A hacker who has learned what to make, and not just how to make, is extraordinarily powerful.",
+      "And not just at making money: look what a small group of volunteers has achieved with Firefox.Doing an Artix teaches you to make something people want in the same way that not drinking anything would teach you how much you depend on water.",
+      "But it would be more convenient for all involved if the Summer Founders didn't learn this on our dime—if they could skip the Artix phase and go right on to make something customers wanted. That, I think, is going to be the real experiment this summer.",
+      "How long will it take them to grasp this? We decided we ought to have T-Shirts for the SFP, and we'd been thinking about what to print on the back. Till now we'd been planning to use If you can read this, I should be working.",
+      "but now we've decided it's going to be Make something people want. Notes[1] SFP applicants: please don't assume that not being accepted means we think your idea is bad. Because we want to keep the number of startups small this first summer, we're going to have to turn down some good proposals too.[2] Dealers try to give each customer the impression that the stuff they're showing him is something special that only a few people have seen, when in fact it may have been sitting in their racks for years while they tried to unload it on buyer after buyer.[3] On the other hand, he was skeptical about Viaweb too.",
+      "I have a precise measure of that, because at one point in the first couple months we made a bet: if he ever made a million dollars out of Viaweb, he'd get his ear pierced. We didn't let him off, either.[4] I wrote a program to generate all the combinations of \"Web\" plus a three letter word.",
+      "I learned from this that most three letter words are bad: Webpig, Webdog, Webfat, Webzit, Webfug. But one of them was Webvia; I swapped them to make Viaweb.[5] It's much easier to sell services than a product, just as it's easier to make a living playing at weddings than by selling recordings.",
+      "But the margins are greater on products. So during the Bubble a lot of companies used consulting to generate revenues they could attribute to the sale of products, because it made a better story for an IPO.[6] Trevor Blackwell presents the following recipe for a startup: \"Watch people who have money to spend, see what they're wasting their time on, cook up a solution, and try selling it to them.",
+      "It's surprising how small a problem can be and still provide a profitable market for a solution.\"[7] You need to offer especially large rewards to get great people to do tedious work. That's why startups always pay equity rather than just salary.[8] Buy an old copy from the 1940s or 50s instead of the current edition, which has been rewritten to suit present fashions.",
+      "The original edition contained a few unPC ideas, but it's always better to read an original book, bearing in mind that it's a book from a past era, than to read a new version sanitized for your protection.Thanks to Bill Birch, Trevor Blackwell, Jessica Livingston, and Robert Morris for reading drafts of this.Russian TranslationItalian TranslationJapanese Translation If you liked this, you may also like Hackers & Painters."
+    ],
+    "word_count": 3125,
+    "paragraph_count": 62
+  },
+  "processed_at": "2025-07-26T19:08:00.745530",
+  "paragraphs": [
+    {
+      "original": "Want to start a startup? Get funded by Y Combinator. April 2005This summer, as an experiment, some friends and I are giving seed funding to a bunch of new startups. It's an experiment because we're prepared to fund younger founders than most investors would.",
+      "translated": "想创办一家初创公司吗？获得Y Combinator的资助。2005年4月这个夏天，作为一项实验，我和一些朋友将为一批新的初创公司提供种子资金。这是一项实验，因为我们准备资助比大多数投资者所愿意的更年轻的创始人。"
+    },
+    {
+      "original": "That's why we're doing it during the summer—so even college students can participate.We know from Google and Yahoo that grad students can start successful startups. And we know from experience that some undergrads are as capable as most grad students.",
+      "translated": "这就是为什么我们选择在夏天进行——这样就连大学生也可以参与。我们从谷歌和雅虎了解到，研究生可以创办成功的企业。而我们的经验也表明，有些本科生的能力可以与大多数研究生相媲美。"
+    },
+    {
+      "original": "The accepted age for startup founders has been creeping downward. We're trying to find the lower bound. The deadline has now passed, and we're sifting through 227 applications. We expected to divide them into two categories, promising and unpromising.",
+      "translated": "初创公司创始人的公认年龄一直在逐渐下降。我们正在试图找到这个下限。截止日期已过，我们现在正在筛选227份申请。我们原计划将它们分为有潜力和无潜力两类。"
+    },
+    {
+      "original": "But we soon saw we needed a third: promising people with unpromising ideas. [1]The Artix PhaseWe should have expected this. It's very common for a group of founders to go through one lame idea before realizing that a startup has to make something people will pay for.",
+      "translated": "但我们很快发现还需要第三类人：那些有着不靠谱想法的有潜力的人。[1]Artix阶段\n\n我们本应该预料到这一点。创始人团队在意识到创业公司必须做出人们愿意付费的产品之前，通常会经历一个不切实际的想法。"
+    },
+    {
+      "original": "In fact, we ourselves did.Viaweb wasn't the first startup Robert Morris and I started. In January 1995, we and a couple friends started a company called Artix. The plan was to put art galleries on the Web.",
+      "translated": "事实上，我们自己就是这样做的。Viaweb 并不是 Robert Morris 和我创立的第一家初创公司。1995 年 1 月，我们和几位朋友共同创办了一家名为 Artix 的公司，计划将艺术画廊搬到网络上。"
+    },
+    {
+      "original": "In retrospect, I wonder how we could have wasted our time on anything so stupid. Galleries are not especially excited about being on the Web even now, ten years later. They don't want to have their stock visible to any random visitor, like an antique store.",
+      "translated": "回想起来，我不禁疑惑我们怎么会在这么愚蠢的事情上浪费时间。即使到了十年后的今天，画廊对于上网展出仍旧不太热衷。他们不希望自己的藏品像古董店那样对任何随意的访客都公开可见。"
+    },
+    {
+      "original": "[2]Besides which, art dealers are the most technophobic people on earth. They didn't become art dealers after a difficult choice between that and a career in the hard sciences. Most of them had never seen the Web before we came to tell them why they should be on it.",
+      "translated": "此外，艺术品经销商是这个世界上最害怕技术的人。他们成为艺术品经销商并不是因为在这之前在艰难地选择科学硬学科的职业生涯之间犹豫不决。在我们来告诉他们为什么应该上网之前，他们中的大多数人从未见过网络。"
+    },
+    {
+      "original": "Some didn't even have computers. It doesn't do justice to the situation to describe it as a hard sell; we soon sank to building sites for free, and it was hard to convince galleries even to do that.Gradually it dawned on us that instead of trying to make Web sites for people who didn't want them, we could make sites for people who did.",
+      "translated": "有些人甚至连电脑都没有。说这是一次艰难的推销都算不上；我们很快就沦落到免费建网站的地步，甚至很难说服画廊这样做。渐渐地，我们意识到，与其为那些不想要网站的人制作网站，不如为真正需要的人制作。"
+    },
+    {
+      "original": "In fact, software that would let people who wanted sites make their own. So we ditched Artix and started a new company, Viaweb, to make software for building online stores. That one succeeded.We're in good company here.",
+      "translated": "事实上，我们开发了可以让人们自行创建网站的软件。所以我们放弃了Artix，成立了一家新公司Viaweb，专门制作用于构建网上商店的软件。这一举措取得了成功。我们在这方面并不孤单。"
+    },
+    {
+      "original": "Microsoft was not the first company Paul Allen and Bill Gates started either. The first was called Traf-o-data. It does not seem to have done as well as Micro-soft. In Robert's defense, he was skeptical about Artix.",
+      "translated": "微软也不是保罗·艾伦和比尔·盖茨创立的第一家公司。他们的第一家公司叫做交通数据处理（Traf-o-data）。这家公司似乎没有微软那么成功。为罗伯特辩护，他对阿蒂克斯（Artix）也持怀疑态度。"
+    },
+    {
+      "original": "I dragged him into it. [3] But there were moments when he was optimistic. And if we, who were 29 and 30 at the time, could get excited about such a thoroughly boneheaded idea, we should not be surprised that hackers aged 21 or 22 are pitching us ideas with little hope of making money.The Still Life EffectWhy does this happen?",
+      "translated": "我把他拉进来了。[3] 但有时候他是乐观的。如果像我们这样，在29岁和30岁的时候，还能对这样一个彻头彻尾愚蠢的想法感到兴奋，就不应该对21岁或22岁的黑客向我们推销那些几乎没有赚钱希望的想法感到惊讶。静物效应为什么会这样？"
+    },
+    {
+      "original": "Why do good hackers have bad business ideas?Let's look at our case. One reason we had such a lame idea was that it was the first thing we thought of. I was in New York trying to be a starving artist at the time (the starving part is actually quite easy), so I was haunting galleries anyway.",
+      "translated": "为什么好的黑客会有糟糕的商业想法？让我们看看我们的案例。我们之所以有这么糟糕的想法，原因之一就是这是我们想到的第一个点子。当时我在纽约试图做一个穷困潦倒的艺术家（实际上挨饿的部分相当容易），所以我本来就在四处逛画廊。"
+    },
+    {
+      "original": "When I learned about the Web, it seemed natural to mix the two. Make Web sites for galleries—that's the ticket!If you're going to spend years working on something, you'd think it might be wise to spend at least a couple days considering different ideas, instead of going with the first that comes into your head.",
+      "translated": "当我了解到网络时，将两者结合似乎是很自然的事。为画廊制作网站——这主意不错！如果你打算花几年的时间来做某件事，你可能会认为至少花上几天时间考虑不同的想法是明智的，而不是采纳最先想到的那个。"
+    },
+    {
+      "original": "You'd think. But people don't. In fact, this is a constant problem when you're painting still lifes. You plonk down a bunch of stuff on a table, and maybe spend five or ten minutes rearranging it to look interesting.",
+      "translated": "你可能会这么想。但人们可不是这么做的。事实上，当你画静物时，这始终是一个问题。你把一堆东西随意放在桌子上，或许会花上五到十分钟重新摆弄，让它们看起来有趣一些。"
+    },
+    {
+      "original": "But you're so impatient to get started painting that ten minutes of rearranging feels very long. So you start painting. Three days later, having spent twenty hours staring at it, you're kicking yourself for having set up such an awkward and boring composition, but by then it's too late.Part of the problem is that big projects tend to grow out of small ones.",
+      "translated": "但你迫不及待地想要开始绘画，以至于十分钟的布置都觉得非常漫长。于是你开始动笔。三天后，花了二十个小时盯着它看，你开始后悔当初设置了一个如此别扭又乏味的构图，但那时已经太晚了。问题的一部分在于，大型项目往往从小项目发展而来。"
+    },
+    {
+      "original": "You set up a still life to make a quick sketch when you have a spare hour, and days later you're still working on it. I once spent a month painting three versions of a still life I set up in about four minutes.",
+      "translated": "你安排一个静物，打算在空闲的一个小时内快速画个草图，结果几天后你还在继续完善它。我曾经用一个月的时间画了我四分钟内布置的一个静物的三个版本。"
+    },
+    {
+      "original": "At each point (a day, a week, a month) I thought I'd already put in so much time that it was too late to change.So the biggest cause of bad ideas is the still life effect: you come up with a random idea, plunge into it, and then at each point (a day, a week, a month) feel you've put so much time into it that this must be the idea.How do we fix that?",
+      "translated": "在每个时间点（一天、一周、一个月），我都觉得已经投入了太多时间，以至于无法做出改变。所以，坏主意的最大原因就是这种静止生命效应：你产生了一个随机的想法，一头扎进去，然后在每个时间点（一天、一周、一个月）都感觉已经投入了太多时间，这必须是那个想法。我们如何解决这个问题？"
+    },
+    {
+      "original": "I don't think we should discard plunging. Plunging into an idea is a good thing. The solution is at the other end: to realize that having invested time in something doesn't make it good.This is clearest in the case of names.",
+      "translated": "我认为我们不应该放弃深入。深入一个想法是件好事。解决方法在于另一端：要意识到在某件事情上投入了时间并不意味着它就是好的。这一点在名字的问题上最为明显。"
+    },
+    {
+      "original": "Viaweb was originally called Webgen, but we discovered someone else had a product called that. We were so attached to our name that we offered him 5% of the company if he'd let us have it. But he wouldn't, so we had to think of another.",
+      "translated": "Viaweb 起初叫做 Webgen，但后来我们发现已经有人用了这个名字。我们非常喜欢这个名字，以至于提出给他公司5%的股份，如果他愿意让我们使用。但他没有同意，所以我们不得不想另一个名字。"
+    },
+    {
+      "original": "[4] The best we could do was Viaweb, which we disliked at first. It was like having a new mother. But within three days we loved it, and Webgen sounded lame and old-fashioned.If it's hard to change something so simple as a name, imagine how hard it is to garbage-collect an idea.",
+      "translated": "[4] 我们能做到的最好的就是 Viaweb，起初我们并不喜欢它。这就像有了一个新妈妈。但三天之内我们就爱上了它，而 Webgen 听起来则显得陈旧过时。如果连改个名字这样简单的事情都这么难，那么清理一个想法该有多难呢。"
+    },
+    {
+      "original": "A name only has one point of attachment into your head. An idea for a company gets woven into your thoughts. So you must consciously discount for that. Plunge in, by all means, but remember later to look at your idea in the harsh light of morning and ask: is this something people will pay for?",
+      "translated": "一个名字只能在你的脑海中占据一个位置。而一个公司的想法会融入你的思想中。所以你必须有意识地对此进行折扣。当然，你可以全力以赴，但请记住，之后要在清晨冷峻的光线下审视你的想法，问问自己：这是人们愿意为之付费的东西吗？"
+    },
+    {
+      "original": "Is this, of all the things we could make, the thing people will pay most for?MuckThe second mistake we made with Artix is also very common. Putting galleries on the Web seemed cool.One of the most valuable things my father taught me is an old Yorkshire saying: where there's muck, there's brass.",
+      "translated": "在我们能制造的所有东西中，这是人们最愿意付钱购买的吗？关于Artix，我们犯的第二个错误也非常普遍。在网页上开设画廊似乎很酷。我父亲教给我的最有价值的一件事是一句古老的约克郡谚语：有土的地方就有金。"
+    },
+    {
+      "original": "Meaning that unpleasant work pays. And more to the point here, vice versa. Work people like doesn't pay well, for reasons of supply and demand. The most extreme case is developing programming languages, which doesn't pay at all, because people like it so much they do it for free.When we started Artix, I was still ambivalent about business.",
+      "translated": "这意味着不愉快的工作报酬丰厚。更重要的是，反之亦然。人们喜欢的工作报酬不高，这归因于供求关系。最极端的例子是开发编程语言，这完全不赚钱，因为人们非常喜欢它，所以愿意免费去做。当我们开始Artix时，我对商业还持犹豫态度。"
+    },
+    {
+      "original": "I wanted to keep one foot in the art world. Big, big, mistake. Going into business is like a hang-glider launch: you'd better do it wholeheartedly, or not at all. The purpose of a company, and a startup especially, is to make money.",
+      "translated": "我想在艺术界保持一只脚。这是个巨大的错误。做生意就像滑翔伞起飞：要么全力以赴，要么干脆别做。公司的目的，尤其是初创公司，就是赚钱。"
+    },
+    {
+      "original": "You can't have divided loyalties.Which is not to say that you have to do the most disgusting sort of work, like spamming, or starting a company whose only purpose is patent litigation. What I mean is, if you're starting a company that will do something cool, the aim had better be to make money and maybe be cool, not to be cool and maybe make money.It's hard enough to make money that you can't do it by accident.",
+      "translated": "你不能有分裂的忠诚。这并不是说你必须去做最令人厌恶的工作，比如发送垃圾邮件，或者创办一家唯一的目的是专利诉讼的公司。我的意思是，如果你要创办一家将要做一些很酷事情的公司，目标最好是为了赚钱并且可能很酷，而不是为了很酷并且可能赚钱。赚钱已经足够难了，你无法靠偶然做到这一点。"
+    },
+    {
+      "original": "Unless it's your first priority, it's unlikely to happen at all.HyenasWhen I probe our motives with Artix, I see a third mistake: timidity. If you'd proposed at the time that we go into the e-commerce business, we'd have found the idea terrifying.",
+      "translated": "除非这是你的首要任务，否则很可能根本就不会发生。当我们与Artix探讨我们的动机时，我发现了一个第三个错误：胆怯。如果你当时提议我们进入电子商务业务，我们肯定会觉得这个想法令人恐惧。"
+    },
+    {
+      "original": "Surely a field like that would be dominated by fearsome startups with five million dollars of VC money each. Whereas we felt pretty sure that we could hold our own in the slightly less competitive business of generating Web sites for art galleries.We erred ridiculously far on the side of safety.",
+      "translated": "当然，那样的领域肯定会被每家拥有五百万美元风投资金的可怕初创公司所主导。而我们相当肯定，我们可以在为艺术画廊生成网站这个竞争稍小的业务中立足。我们在安全方面走得太过头了。"
+    },
+    {
+      "original": "As it turns out, VC-backed startups are not that fearsome. They're too busy trying to spend all that money to get software written. In 1995, the e-commerce business was very competitive as measured in press releases, but not as measured in software.",
+      "translated": "事实证明，风险投资支持的初创公司并没有那么可怕。他们太忙于花掉那些钱来开发软件了。1995年，按新闻稿衡量，电子商务业务非常具有竞争力，但按软件衡量则不然。"
+    },
+    {
+      "original": "And really it never was. The big fish like Open Market (rest their souls) were just consulting companies pretending to be product companies [5], and the offerings at our end of the market were a couple hundred lines of Perl scripts.",
+      "translated": "实际上，它从来都不是这样。像Open Market这样的大公司（愿它们安息）只不过是伪装成产品公司的咨询公司[5]，而我们这一端市场的提供的产品只是几百行Perl脚本。"
+    },
+    {
+      "original": "Or could have been implemented as a couple hundred lines of Perl; in fact they were probably tens of thousands of lines of C++ or Java. Once we actually took the plunge into e-commerce, it turned out to be surprisingly easy to compete.So why were we afraid?",
+      "translated": "或者可以用几百行的Perl来实现；事实上，它们可能是成千上万行的C++或Java。一旦我们真正踏入电子商务领域，竞争竟然出乎意料地容易。那么，我们为什么害怕呢？"
+    },
+    {
+      "original": "We felt we were good at programming, but we lacked confidence in our ability to do a mysterious, undifferentiated thing we called \"business.\" In fact there is no such thing as \"business.\" There's selling, promotion, figuring out what people want, deciding how much to charge, customer support, paying your bills, getting customers to pay you, getting incorporated, raising money, and so on.",
+      "translated": "我们觉得自己擅长编程，但对我们称之为“商业”的这个神秘且不明确的事物缺乏信心。事实上，根本没有什么叫做“商业”的东西。有的是销售、推广、了解人们的需求、决定定价、客户服务、支付账单、让客户付款、注册公司、融资等等。"
+    },
+    {
+      "original": "And the combination is not as hard as it seems, because some tasks (like raising money and getting incorporated) are an O(1) pain in the ass, whether you're big or small, and others (like selling and promotion) depend more on energy and imagination than any kind of special training.Artix was like a hyena, content to survive on carrion because we were afraid of the lions.",
+      "translated": "而且，这种结合并没有看起来那么困难，因为有些任务（比如筹集资金和注册公司）无论你是大公司还是小公司，都是一个O(1)的麻烦事，而其他任务（比如销售和推广）则更多依赖于精力和想象力，而不是任何特殊培训。Artix 就像一只鬣狗，满足于靠残羹剩饭生存，因为我们害怕狮子。"
+    },
+    {
+      "original": "Except the lions turned out not to have any teeth, and the business of putting galleries online barely qualified as carrion.A Familiar ProblemSum up all these sources of error, and it's no wonder we had such a bad idea for a company.",
+      "translated": "除了那些狮子原来并没有牙齿，把画廊放到网上这门生意甚至连腐肉都算不上。一个熟悉的问题：把所有这些错误的来源加在一起，难怪我们公司的想法如此糟糕。"
+    },
+    {
+      "original": "We did the first thing we thought of; we were ambivalent about being in business at all; and we deliberately chose an impoverished market to avoid competition.Looking at the applications for the Summer Founders Program, I see signs of all three.",
+      "translated": "我们做了我们想到的第一件事；我们对是否真正从商感到矛盾；并且我们故意选择了一个贫穷的市场以避免竞争。在查看夏季创始人计划的申请时，我看到了这三方面的迹象。"
+    },
+    {
+      "original": "But the first is by far the biggest problem. Most of the groups applying have not stopped to ask: of all the things we could do, is this the one with the best chance of making money?If they'd already been through their Artix phase, they'd have learned to ask that.",
+      "translated": "但第一个问题是最严重的。大多数申请的团体都没有停下来思考：在所有我们能做的事情中，这是最有希望赚钱的吗？如果他们已经经历过他们的Artix阶段，他们就会学会问这个问题。"
+    },
+    {
+      "original": "After the reception we got from art dealers, we were ready to. This time, we thought, let's make something people want.Reading the Wall Street Journal for a week should give anyone ideas for two or three new startups.",
+      "translated": "在艺术经销商的接待之后，我们准备好了。这次，我们想，让我们做些人们想要的东西吧。读一周的《华尔街日报》应该能给任何人带来两三个新的创业点子。"
+    },
+    {
+      "original": "The articles are full of descriptions of problems that need to be solved. But most of the applicants don't seem to have looked far for ideas.We expected the most common proposal to be for multiplayer games.",
+      "translated": "文章中充满了需要解决的问题的描述。但大多数申请者似乎并没有花太多心思去寻找创意。我们本以为最常见的提案会是多人游戏。"
+    },
+    {
+      "original": "We were not far off: this was the second most common. The most common was some combination of a blog, a calendar, a dating site, and Friendster. Maybe there is some new killer app to be discovered here, but it seems perverse to go poking around in this fog when there are valuable, unsolved problems lying about in the open for anyone to see.",
+      "translated": "我们离真相不远了：这是第二常见的组合。最常见的是一些博客、日历、约会网站和Friendster的组合。或许这里可以发现一些新的杀手级应用，但在明面上还有许多有价值的问题亟待解决，去探索这片迷雾似乎有些本末倒置。"
+    },
+    {
+      "original": "Why did no one propose a new scheme for micropayments? An ambitious project, perhaps, but I can't believe we've considered every alternative. And newspapers and magazines are (literally) dying for a solution.Why did so few applicants really think about what customers want?",
+      "translated": "为什么没有人提出一个新的微支付方案？这可能是一个雄心勃勃的项目，但我不能相信我们已经考虑了所有的替代方案。而报纸和杂志（确实）迫切需要一个解决方案。为什么这么少的申请者真正思考过客户的需求？"
+    },
+    {
+      "original": "I think the problem with many, as with people in their early twenties generally, is that they've been trained their whole lives to jump through predefined hoops. They've spent 15-20 years solving problems other people have set for them.",
+      "translated": "我认为，许多人，尤其是二十出头的年轻人，存在的问题是，他们的一生都在接受训练，去完成别人设定的固定目标。他们花了15到20年的时间去解决别人给他们设定的问题。"
+    },
+    {
+      "original": "And how much time deciding what problems would be good to solve? Two or three course projects? They're good at solving problems, but bad at choosing them.But that, I'm convinced, is just the effect of training.",
+      "translated": "那么，决定哪些问题是值得解决的，又花了多少时间呢？两三个课程项目？他们擅长解决问题，却不擅长选择问题。但我相信，这仅仅是训练的效果。"
+    },
+    {
+      "original": "Or more precisely, the effect of grading. To make grading efficient, everyone has to solve the same problem, and that means it has to be decided in advance. It would be great if schools taught students how to choose problems as well as how to solve them, but I don't know how you'd run such a class in practice.Copper and TinThe good news is, choosing problems is something that can be learned.",
+      "translated": "或者更准确地说，评分的效果。为了使评分高效，每个人都必须解决同一个问题，这意味着必须提前确定问题。如果学校能教学生如何选择问题，而不仅仅是如何解决问题，那将是非常好的，但我不知道在实际操作中如何开展这样的课程。好消息是，选择问题是可以通过学习掌握的。"
+    },
+    {
+      "original": "I know that from experience. Hackers can learn to make things customers want. [6]This is a controversial view. One expert on \"entrepreneurship\" told me that any startup had to include business people, because only they could focus on what customers wanted.",
+      "translated": "我从经验中知道这一点。黑客可以学会创造顾客想要的东西。[6]这是一个有争议的观点。一位“创业”方面的专家告诉我，任何创业公司都必须包括商务人士，因为只有他们才能专注于顾客的需求。"
+    },
+    {
+      "original": "I'll probably alienate this guy forever by quoting him, but I have to risk it, because his email was such a perfect example of this view: 80% of MIT spinoffs succeed provided they have at least one management person in the team at the start.",
+      "translated": "我引用他的话可能会永远疏远他，但我必须冒这个险，因为他的邮件完美地体现了这种观点：只要团队从一开始就至少有一位管理人士，80% 的麻省理工学院衍生公司都能成功。"
+    },
+    {
+      "original": "The business person represents the \"voice of the customer\" and that's what keeps the engineers and product development on track. This is, in my opinion, a crock. Hackers are perfectly capable of hearing the voice of the customer without a business person to amplify the signal for them.",
+      "translated": "业务人员代表了“客户的声音”，这使得工程师和产品开发保持正确的方向。依我看来，这纯属胡说。黑客完全有能力听到客户的声音，而不需要业务人员来放大这种信号。"
+    },
+    {
+      "original": "Larry Page and Sergey Brin were grad students in computer science, which presumably makes them \"engineers.\" Do you suppose Google is only good because they had some business guy whispering in their ears what customers wanted?",
+      "translated": "拉里·佩奇和谢尔盖·布林是计算机科学的研究生，这大概使他们成为了“工程师”。你认为谷歌之所以优秀，仅仅是因为有某个懂生意的人在他们耳边低语，告诉他们客户想要什么吗？"
+    },
+    {
+      "original": "It seems to me the business guys who did the most for Google were the ones who obligingly flew Altavista into a hillside just as Google was getting started.The hard part about figuring out what customers want is figuring out that you need to figure it out.",
+      "translated": "在我看来，对谷歌贡献最大的商业人士是那些在谷歌刚刚起步时，心甘情愿地把阿尔塔维斯塔撞向山壁的人。弄清楚客户想要什么的难处在于，首先得意识到你需要弄清楚这一点。"
+    },
+    {
+      "original": "But that's something you can learn quickly. It's like seeing the other interpretation of an ambiguous picture. As soon as someone tells you there's a rabbit as well as a duck, it's hard not to see it.And compared to the sort of problems hackers are used to solving, giving customers what they want is easy.",
+      "translated": "但这是你可以迅速学会的东西。这就像看到一幅模棱两可的图画的另一种解释。一旦有人告诉你图中既有兔子也有鸭子，就很难不看到它。与黑客习惯解决的问题相比，满足客户的需求是容易的。"
+    },
+    {
+      "original": "Anyone who can write an optimizing compiler can design a UI that doesn't confuse users, once they choose to focus on that problem. And once you apply that kind of brain power to petty but profitable questions, you can create wealth very rapidly.That's the essence of a startup: having brilliant people do work that's beneath them.",
+      "translated": "任何能够编写优化编译器的人都可以在专注于该问题时设计出不会让用户感到困惑的用户界面。而一旦你将这种脑力应用到虽小却有利可图的问题上，你就能快速创造财富。这就是创业公司的本质：让才华横溢的人去做对他们来说过于简单的工作。"
+    },
+    {
+      "original": "Big companies try to hire the right person for the job. Startups win because they don't—because they take people so smart that they would in a big company be doing \"research,\" and set them to work instead on problems of the most immediate and mundane sort.",
+      "translated": "大公司努力聘用合适的人才。而初创企业之所以能胜出，恰恰是因为它们不这样做——它们吸引的是那些在大公司里会被安排做“研究”的聪明人，而让他们去解决最直接、最实际的问题。"
+    },
+    {
+      "original": "Think Einstein designing refrigerators. [7]If you want to learn what people want, read Dale Carnegie's How to Win Friends and Influence People. [8] When a friend recommended this book, I couldn't believe he was serious.",
+      "translated": "想象爱因斯坦设计冰箱。[7]如果你想了解人们的需求，就读戴尔·卡耐基的《如何赢得朋友和影响他人》。[8]当一个朋友推荐这本书时，我简直不敢相信他是认真的。"
+    },
+    {
+      "original": "But he insisted it was good, so I read it, and he was right. It deals with the most difficult problem in human experience: how to see things from other people's point of view, instead of thinking only of yourself.Most smart people don't do that very well.",
+      "translated": "但他坚持说这本书很好，所以我读了，他确实是对的。这本书处理的是人类经验中最难的问题：如何从他人的角度看待事物，而不是只考虑自己。大多数聪明人在这方面做得并不好。"
+    },
+    {
+      "original": "But adding this ability to raw brainpower is like adding tin to copper. The result is bronze, which is so much harder that it seems a different metal.A hacker who has learned what to make, and not just how to make, is extraordinarily powerful.",
+      "translated": "但是，将这种能力加入到原始脑力中，就像在铜中加入锡一样。结果是青铜，这种金属如此坚硬，以至于看起来像是一种完全不同的金属。一个学会了要制作什么，而不仅仅是如何制作的黑客，将变得异常强大。"
+    },
+    {
+      "original": "And not just at making money: look what a small group of volunteers has achieved with Firefox.Doing an Artix teaches you to make something people want in the same way that not drinking anything would teach you how much you depend on water.",
+      "translated": "这不仅仅是赚钱的问题：看看一小群志愿者用Firefox取得了什么成就。做Artix能教会你如何制作人们真正需要的东西，就像不喝水能让你明白自己有多依赖水一样。"
+    },
+    {
+      "original": "But it would be more convenient for all involved if the Summer Founders didn't learn this on our dime—if they could skip the Artix phase and go right on to make something customers wanted. That, I think, is going to be the real experiment this summer.",
+      "translated": "但如果夏季创始人不必以我们的代价来了解这一点——他们可以跳过Artix阶段，直接去创造顾客想要的东西，那对所有人来说都会更方便。我认为，这将是今年夏天真正的实验。"
+    },
+    {
+      "original": "How long will it take them to grasp this? We decided we ought to have T-Shirts for the SFP, and we'd been thinking about what to print on the back. Till now we'd been planning to use If you can read this, I should be working.",
+      "translated": "他们要多久才能明白这一点？我们决定为SFP制作T恤衫，并且一直在考虑在背面印些什么。直到现在，我们还计划印上“如果你能读到这行字，我应该在工作。”"
+    },
+    {
+      "original": "but now we've decided it's going to be Make something people want. Notes[1] SFP applicants: please don't assume that not being accepted means we think your idea is bad. Because we want to keep the number of startups small this first summer, we're going to have to turn down some good proposals too.[2] Dealers try to give each customer the impression that the stuff they're showing him is something special that only a few people have seen, when in fact it may have been sitting in their racks for years while they tried to unload it on buyer after buyer.[3] On the other hand, he was skeptical about Viaweb too.",
+      "translated": "但现在我们决定要把它定为“创造人们想要的东西”。注释[1] SFP申请者：请不要以为未被录取就意味着我们认为你的想法不好。由于我们希望在第一个夏天保持初创企业的数量较少，我们也不得不拒绝一些好的提案。[2] 经销商们会尽量给每位顾客留下印象，让他们觉得展示给他们的商品是特别的，只有少数人见过，实际上这些商品可能已经在他们的货架上放了好几年，他们一直在试图卖给一个又一个的买家。[3] 另一方面，他对Viaweb也持怀疑态度。"
+    },
+    {
+      "original": "I have a precise measure of that, because at one point in the first couple months we made a bet: if he ever made a million dollars out of Viaweb, he'd get his ear pierced. We didn't let him off, either.[4] I wrote a program to generate all the combinations of \"Web\" plus a three letter word.",
+      "translated": "我对此有一个精确的衡量标准，因为在最初的几个月里我们打了一个赌：如果他能从Viaweb赚到一百万美元，他就要去打耳洞。我们也没有放过他。[4] 我编写了一个程序来生成所有“Web”加上一个三个字母的词的组合。"
+    },
+    {
+      "original": "I learned from this that most three letter words are bad: Webpig, Webdog, Webfat, Webzit, Webfug. But one of them was Webvia; I swapped them to make Viaweb.[5] It's much easier to sell services than a product, just as it's easier to make a living playing at weddings than by selling recordings.",
+      "translated": "我从中了解到，大多数三个字母的词都不太好：Webpig、Webdog、Webfat、Webzit、Webfug。但其中一个词是 Webvia；我把它们对调了一下，就成了 Viaweb。销售服务比销售产品容易得多，就像靠演奏婚礼音乐谋生比靠卖唱片谋生容易一样。"
+    },
+    {
+      "original": "But the margins are greater on products. So during the Bubble a lot of companies used consulting to generate revenues they could attribute to the sale of products, because it made a better story for an IPO.[6] Trevor Blackwell presents the following recipe for a startup: \"Watch people who have money to spend, see what they're wasting their time on, cook up a solution, and try selling it to them.",
+      "translated": "但是，产品的利润率更高。因此，在互联网泡沫时期，许多公司利用咨询业务来产生可以归因于产品销售的收入，因为这为首次公开募股（IPO）讲述了一个更好的故事。[6] 特雷弗·布莱克威尔提出了以下创业配方：“观察那些有钱可花的人，看看他们浪费时间在什么事情上，想出一个解决方案，然后试着卖给他们。”"
+    },
+    {
+      "original": "It's surprising how small a problem can be and still provide a profitable market for a solution.\"[7] You need to offer especially large rewards to get great people to do tedious work. That's why startups always pay equity rather than just salary.[8] Buy an old copy from the 1940s or 50s instead of the current edition, which has been rewritten to suit present fashions.",
+      "translated": "令人惊讶的是，一个问题可以很小，但仍然为解决方案提供有利可图的市场。[7] 你需要提供特别大的奖励，才能让优秀的人去做繁琐的工作。这就是为什么初创公司总是支付股权而不是仅仅支付薪水。[8] 与其买现在改写以适应当前时尚的版本，不如买1940年代或50年代的旧版。"
+    },
+    {
+      "original": "The original edition contained a few unPC ideas, but it's always better to read an original book, bearing in mind that it's a book from a past era, than to read a new version sanitized for your protection.Thanks to Bill Birch, Trevor Blackwell, Jessica Livingston, and Robert Morris for reading drafts of this.Russian TranslationItalian TranslationJapanese Translation If you liked this, you may also like Hackers & Painters.",
+      "translated": "原版中包含了一些不那么政治正确的观点，但阅读原书总是更好的选择，只要记住这是一本来自过去时代的书，而不是读那些为了保护你而被净化的新版本。感谢Bill Birch、Trevor Blackwell、Jessica Livingston和Robert Morris审阅了本书的草稿。俄文翻译意大利文翻译日文翻译如果你喜欢这本书，你可能也会喜欢《黑客与画家》。"
+    }
+  ],
+  "translation_completed": "2025-07-28T11:25:45.672982",
+  "translation_stats": {
+    "total_paragraphs": 62,
+    "success_count": 62,
+    "success_rate": "100.0%"
+  }
+}

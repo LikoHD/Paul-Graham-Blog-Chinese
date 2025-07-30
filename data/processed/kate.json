@@ -1,0 +1,99 @@
+{
+  "title": "What Kate Saw in Silicon Valley",
+  "title_zh": "[待翻译] What Kate Saw in Silicon Valley",
+  "url": "https://www.paulgraham.com/kate.html",
+  "filename": "kate.html",
+  "date": "2009-08-01",
+  "id": 150,
+  "content": {
+    "success": true,
+    "paragraphs": [
+      "August 2009Kate Courteau is the architect who designed Y Combinator's office. Recently we managed to recruit her to help us run YC when she's not busy with architectural projects. Though she'd heard a lot about YC since the beginning, the last 9 months have been a total immersion.I've been around the startup world for so long that it seems normal to me, so I was curious to hear what had surprised her most about it.",
+      "This was her list:1. How many startups fail.Kate knew in principle that startups were very risky, but she was surprised to see how constant the threat of failure was — not just for the minnows, but even for the famous startups whose founders came to speak at YC dinners.",
+      "2. How much startups' ideas change.As usual, by Demo Day about half the startups were doing something significantly different than they started with. We encourage that. Starting a startup is like science in that you have to follow the truth wherever it leads.",
+      "In the rest of the world, people don't start things till they're sure what they want to do, and once started they tend to continue on their initial path even if it's mistaken. 3. How little money it can take to start a startup.In Kate's world, everything is still physical and expensive.",
+      "You can barely renovate a bathroom for the cost of starting a startup. 4. How scrappy founders are.That was her actual word. I agree with her, but till she mentioned this it never occurred to me how little this quality is appreciated in most of the rest of the world.",
+      "It wouldn't be a compliment in most organizations to call someone scrappy.What does it mean, exactly? It's basically the diminutive form of belligerent. Someone who's scrappy manages to be both threatening and undignified at the same time.",
+      "Which seems to me exactly what one would want to be, in any kind of work. If you're not threatening, you're probably not doing anything new, and dignity is merely a sort of plaque. 5. How tech-saturated Silicon Valley is.\"It seems like everybody here is in the industry.\" That isn't literally true, but there is a qualitative difference between Silicon Valley and other places.",
+      "You tend to keep your voice down, because there's a good chance the person at the next table would know some of the people you're talking about. I never felt that in Boston. The good news is, there's also a good chance the person at the next table could help you in some way.",
+      "6. That the speakers at YC were so consistent in their advice. Actually, I've noticed this too. I always worry the speakers will put us in an embarrassing position by contradicting what we tell the startups, but it happens surprisingly rarely.When I asked her what specific things she remembered speakers always saying, she mentioned: that the way to succeed was to launch something fast, listen to users, and then iterate; that startups required resilience because they were always an emotional rollercoaster; and that most VCs were sheep.I've been impressed by how consistently the speakers advocate launching fast and iterating.",
+      "That was contrarian advice 10 years ago, but it's clearly now the established practice. 7. How casual successful startup founders are.Most of the famous founders in Silicon Valley are people you'd overlook on the street.",
+      "It's not merely that they don't dress up. They don't project any kind of aura of power either. \"They're not trying to impress anyone.\"Interestingly, while Kate said that she could never pick out successful founders, she could recognize VCs, both by the way they dressed and the way they carried themselves.",
+      "8. How important it is for founders to have people to ask for advice.(I swear I didn't prompt this one.) Without advice \"they'd just be sort of lost.\" Fortunately, there are a lot of people to help them.",
+      "There's a strong tradition within YC of helping other YC-funded startups. But we didn't invent that idea: it's just a slightly more concentrated form of existing Valley culture. 9. What a solitary task startups are.Architects are constantly interacting face to face with other people, whereas doing a technology startup, at least, tends to require long stretches of uninterrupted time to work.",
+      "\"You could do it in a box.\"By inverting this list, we can get a portrait of the \"normal\" world. It's populated by people who talk a lot with one another as they work slowly but harmoniously on conservative, expensive projects whose destinations are decided in advance, and who carefully adjust their manner to reflect their position in the hierarchy.That's also a fairly accurate description of the past.",
+      "So startup culture may not merely be different in the way you'd expect any subculture to be, but a leading indicator.Japanese Translation"
+    ],
+    "word_count": 797,
+    "paragraph_count": 15
+  },
+  "processed_at": "2025-07-26T19:06:14.041532",
+  "paragraphs": [
+    {
+      "original": "August 2009Kate Courteau is the architect who designed Y Combinator's office. Recently we managed to recruit her to help us run YC when she's not busy with architectural projects. Though she'd heard a lot about YC since the beginning, the last 9 months have been a total immersion.I've been around the startup world for so long that it seems normal to me, so I was curious to hear what had surprised her most about it.",
+      "translated": "2009年8月，凯特·库尔特是设计 Y Combinator 办公室的建筑师。最近我们成功招募她，在她不忙于建筑项目时帮助我们管理 YC。尽管她从一开始就听说过 YC，但过去的9个月对她来说完全是沉浸式的体验。我在创业圈待了这么久，以至于这一切对我来说似乎很平常，所以我很好奇她对这个圈子最感到惊讶的是什么。"
+    },
+    {
+      "original": "This was her list:1. How many startups fail.Kate knew in principle that startups were very risky, but she was surprised to see how constant the threat of failure was — not just for the minnows, but even for the famous startups whose founders came to speak at YC dinners.",
+      "translated": "这是她的清单：1. 有多少初创公司失败。凯特原则上知道初创公司风险很大，但令她惊讶的是，失败的威胁是如此持续——不仅对那些小公司，甚至对那些创始人来YC晚宴演讲的著名初创公司也是如此。"
+    },
+    {
+      "original": "2. How much startups' ideas change.As usual, by Demo Day about half the startups were doing something significantly different than they started with. We encourage that. Starting a startup is like science in that you have to follow the truth wherever it leads.",
+      "translated": "2. 创业公司的想法变化有多大。通常，到演示日时，大约有一半的创业公司在做的事情与他们开始时有了显著的不同。我们鼓励这种变化。创办创业公司就像做科学研究一样，你必须追随真理，无论它指向何方。"
+    },
+    {
+      "original": "In the rest of the world, people don't start things till they're sure what they want to do, and once started they tend to continue on their initial path even if it's mistaken. 3. How little money it can take to start a startup.In Kate's world, everything is still physical and expensive.",
+      "translated": "在世界其他地方，人们不会在确定自己想做什么之前就开始行动，而一旦开始，即使方向错误，他们也往往会继续沿着最初的路径走下去。3. 开始一家创业公司所需的资金可以很少。在凯特的世界里，一切仍然是实体的，而且昂贵。"
+    },
+    {
+      "original": "You can barely renovate a bathroom for the cost of starting a startup. 4. How scrappy founders are.That was her actual word. I agree with her, but till she mentioned this it never occurred to me how little this quality is appreciated in most of the rest of the world.",
+      "translated": "你几乎可以用创业的启动资金来彻底翻新一个浴室。4. 节俭的创始人是怎样的。这是她实际用的词。我同意她的观点，但在她提到这一点之前，我从未意识到这种品质在世界其他大部分地方是多么不受重视。"
+    },
+    {
+      "original": "It wouldn't be a compliment in most organizations to call someone scrappy.What does it mean, exactly? It's basically the diminutive form of belligerent. Someone who's scrappy manages to be both threatening and undignified at the same time.",
+      "translated": "在大多数组织中，称某人为“有拼劲”并不算是一种恭维。这究竟是什么意思呢？基本上，这是“好斗”的贬义形式。有拼劲的人同时表现出威胁性和缺乏尊严。"
+    },
+    {
+      "original": "Which seems to me exactly what one would want to be, in any kind of work. If you're not threatening, you're probably not doing anything new, and dignity is merely a sort of plaque. 5. How tech-saturated Silicon Valley is.\"It seems like everybody here is in the industry.\" That isn't literally true, but there is a qualitative difference between Silicon Valley and other places.",
+      "translated": "这在我看来正是任何工作中都想要达到的状态。如果你不具威胁性，那可能你并没有做任何新的事情，而尊严不过是一种装饰。5. 硅谷的技术饱和度。“这里似乎每个人都在这个行业。”这并非字面意义上的事实，但硅谷与其他地方之间确实存在质的差异。"
+    },
+    {
+      "original": "You tend to keep your voice down, because there's a good chance the person at the next table would know some of the people you're talking about. I never felt that in Boston. The good news is, there's also a good chance the person at the next table could help you in some way.",
+      "translated": "你往往会压低声音说话，因为隔壁桌的人很可能认识你在谈论的某些人。我在波士顿从没有这种感觉。好消息是，隔壁桌的人也有可能在某些方面帮助到你。"
+    },
+    {
+      "original": "6. That the speakers at YC were so consistent in their advice. Actually, I've noticed this too. I always worry the speakers will put us in an embarrassing position by contradicting what we tell the startups, but it happens surprisingly rarely.When I asked her what specific things she remembered speakers always saying, she mentioned: that the way to succeed was to launch something fast, listen to users, and then iterate; that startups required resilience because they were always an emotional rollercoaster; and that most VCs were sheep.I've been impressed by how consistently the speakers advocate launching fast and iterating.",
+      "translated": "6. YC的演讲者在建议上出奇地一致。实际上，我也注意到了这一点。我总是担心演讲者会通过与我们告诉初创企业的内容相矛盾的话，使我们陷入尴尬的境地，但这种情况发生的频率远低于预期。当我问她记得演讲者总是说的具体内容时，她提到了以下几点：成功的关键是快速推出产品，倾听用户反馈，然后不断迭代；初创企业需要韧性，因为它们总是充满情感起伏；大多数风险投资家都是随大流的。我对演讲者们在倡导快速推出产品和不断迭代方面的一致性印象深刻。"
+    },
+    {
+      "original": "That was contrarian advice 10 years ago, but it's clearly now the established practice. 7. How casual successful startup founders are.Most of the famous founders in Silicon Valley are people you'd overlook on the street.",
+      "translated": "十年前这还是个反传统的建议，但现在显然已成为惯例。7. 成功的创业者的随意态度。大多数硅谷著名的创始人都是你在街上会忽略的人。"
+    },
+    {
+      "original": "It's not merely that they don't dress up. They don't project any kind of aura of power either. \"They're not trying to impress anyone.\"Interestingly, while Kate said that she could never pick out successful founders, she could recognize VCs, both by the way they dressed and the way they carried themselves.",
+      "translated": "他们不仅不刻意打扮，也不会散发出任何权力的气息。“他们并不想给任何人留下深刻印象。”有趣的是，尽管凯特说她从来无法辨认出成功的创始人，但她却能通过他们的穿着和举止认出风险投资家。"
+    },
+    {
+      "original": "8. How important it is for founders to have people to ask for advice.(I swear I didn't prompt this one.) Without advice \"they'd just be sort of lost.\" Fortunately, there are a lot of people to help them.",
+      "translated": "8. 创始人能够有可以请教的人是多么重要。（我发誓我没有暗示这一点。）没有建议，“他们就会迷失方向。” 幸运的是，有很多人可以帮助他们。"
+    },
+    {
+      "original": "There's a strong tradition within YC of helping other YC-funded startups. But we didn't invent that idea: it's just a slightly more concentrated form of existing Valley culture. 9. What a solitary task startups are.Architects are constantly interacting face to face with other people, whereas doing a technology startup, at least, tends to require long stretches of uninterrupted time to work.",
+      "translated": "YC 内部有着强烈帮助其他 YC 资助的初创企业的传统。但我们并不是这个想法的首创者：这只不过是现有硅谷文化的一种更为集中的形式。初创企业是一项孤独的任务。建筑师们经常与他人面对面互动，而做技术初创企业至少需要长时间的不间断工作。"
+    },
+    {
+      "original": "\"You could do it in a box.\"By inverting this list, we can get a portrait of the \"normal\" world. It's populated by people who talk a lot with one another as they work slowly but harmoniously on conservative, expensive projects whose destinations are decided in advance, and who carefully adjust their manner to reflect their position in the hierarchy.That's also a fairly accurate description of the past.",
+      "translated": "“你可以在一个盒子里完成它。”通过将这个列表倒置，我们可以得到一个“正常”世界的肖像。这个世界里的人们在缓慢但和谐地进行保守且昂贵的项目时，彼此之间频繁交流，项目的终点早已确定，他们小心翼翼地调整自己的举止以反映自己在等级结构中的位置。这同时也是对过去的相当准确的描述。"
+    },
+    {
+      "original": "So startup culture may not merely be different in the way you'd expect any subculture to be, but a leading indicator.Japanese Translation",
+      "translated": "因此，创业文化可能不仅仅是以你对任何亚文化所预期的方式不同，而是一个领先的指标。"
+    }
+  ],
+  "translation_completed": "2025-07-27T12:10:30.641584",
+  "translation_stats": {
+    "total_paragraphs": 15,
+    "success_count": 15,
+    "success_rate": "100.0%"
+  }
+}

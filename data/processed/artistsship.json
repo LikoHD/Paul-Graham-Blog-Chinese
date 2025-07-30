@@ -1,0 +1,159 @@
+{
+  "title": "The Other Half of \"Artists Ship\"",
+  "title_zh": "[待翻译] The Other Half of \"Artists Ship\"",
+  "url": "https://www.paulgraham.com/artistsship.html",
+  "filename": "artistsship.html",
+  "date": "2008-11-01",
+  "id": 164,
+  "content": {
+    "success": true,
+    "paragraphs": [
+      "November 2008One of the differences between big companies and startups is that big companies tend to have developed procedures to protect themselves against mistakes. A startup walks like a toddler, bashing into things and falling over all the time.",
+      "A big company is more deliberate.The gradual accumulation of checks in an organization is a kind of learning, based on disasters that have happened to it or others like it. After giving a contract to a supplier who goes bankrupt and fails to deliver, for example, a company might require all suppliers to prove they're solvent before submitting bids.As companies grow they invariably get more such checks, either in response to disasters they've suffered, or (probably more often) by hiring people from bigger companies who bring with them customs for protecting against new types of disasters.It's natural for organizations to learn from mistakes.",
+      "The problem is, people who propose new checks almost never consider that the check itself has a cost.Every check has a cost. For example, consider the case of making suppliers verify their solvency. Surely that's mere prudence?",
+      "But in fact it could have substantial costs. There's obviously the direct cost in time of the people on both sides who supply and check proofs of the supplier's solvency. But the real costs are the ones you never hear about: the company that would be the best supplier, but doesn't bid because they can't spare the effort to get verified.",
+      "Or the company that would be the best supplier, but falls just short of the threshold for solvency—which will of course have been set on the high side, since there is no apparent cost of increasing it.Whenever someone in an organization proposes to add a new check, they should have to explain not just the benefit but the cost.",
+      "No matter how bad a job they did of analyzing it, this meta-check would at least remind everyone there had to be a cost, and send them looking for it.If companies started doing that, they'd find some surprises.",
+      "Joel Spolsky recently spoke at Y Combinator about selling software to corporate customers. He said that in most companies software costing up to about $1000 could be bought by individual managers without any additional approvals.",
+      "Above that threshold, software purchases generally had to be approved by a committee. But babysitting this process was so expensive for software vendors that it didn't make sense to charge less than $50,000.",
+      "Which means if you're making something you might otherwise have charged $5000 for, you have to sell it for $50,000 instead.The purpose of the committee is presumably to ensure that the company doesn't waste money.",
+      "And yet the result is that the company pays 10 times as much.Checks on purchases will always be expensive, because the harder it is to sell something to you, the more it has to cost. And not merely linearly, either.",
+      "If you're hard enough to sell to, the people who are best at making things don't want to bother. The only people who will sell to you are companies that specialize in selling to you. Then you've sunk to a whole new level of inefficiency.",
+      "Market mechanisms no longer protect you, because the good suppliers are no longer in the market.Such things happen constantly to the biggest organizations of all, governments. But checks instituted by governments can cause much worse problems than merely overpaying.",
+      "Checks instituted by governments can cripple a country's whole economy. Up till about 1400, China was richer and more technologically advanced than Europe. One reason Europe pulled ahead was that the Chinese government restricted long trading voyages.",
+      "So it was left to the Europeans to explore and eventually to dominate the rest of the world, including China.In more recent times, Sarbanes-Oxley has practically destroyed the US IPO market. That wasn't the intention of the legislators who wrote it.",
+      "They just wanted to add a few more checks on public companies. But they forgot to consider the cost. They forgot that companies about to go public are usually rather stretched, and that the weight of a few extra checks that might be easy for General Electric to bear are enough to prevent younger companies from being public at all.Once you start to think about the cost of checks, you can start to ask other interesting questions.",
+      "Is the cost increasing or decreasing? Is it higher in some areas than others? Where does it increase discontinuously? If large organizations started to ask questions like that, they'd learn some frightening things.I think the cost of checks may actually be increasing.",
+      "The reason is that software plays an increasingly important role in companies, and the people who write software are particularly harmed by checks.Programmers are unlike many types of workers in that the best ones actually prefer to work hard.",
+      "This doesn't seem to be the case in most types of work. When I worked in fast food, we didn't prefer the busy times. And when I used to mow lawns, I definitely didn't prefer it when the grass was long after a week of rain.Programmers, though, like it better when they write more code.",
+      "Or more precisely, when they release more code. Programmers like to make a difference. Good ones, anyway.For good programmers, one of the best things about working for a startup is that there are few checks on releases.",
+      "In true startups, there are no external checks at all. If you have an idea for a new feature in the morning, you can write it and push it to the production servers before lunch. And when you can do that, you have more ideas.At big companies, software has to go through various approvals before it can be launched.",
+      "And the cost of doing this can be enormous—in fact, discontinuous. I was talking recently to a group of three programmers whose startup had been acquired a few years before by a big company. When they'd been independent, they could release changes instantly.",
+      "Now, they said, the absolute fastest they could get code released on the production servers was two weeks.This didn't merely make them less productive. It made them hate working for the acquirer.Here's a sign of how much programmers like to be able to work hard: these guys would have paid to be able to release code immediately, the way they used to.",
+      "I asked them if they'd trade 10% of the acquisition price for the ability to release code immediately, and all three instantly said yes. Then I asked what was the maximum percentage of the acquisition price they'd trade for it.",
+      "They said they didn't want to think about it, because they didn't want to know how high they'd go, but I got the impression it might be as much as half.They'd have sacrificed hundreds of thousands of dollars, perhaps millions, just to be able to deliver more software to users.",
+      "And you know what? It would have been perfectly safe to let them. In fact, the acquirer would have been better off; not only wouldn't these guys have broken anything, they'd have gotten a lot more done.",
+      "So the acquirer is in fact getting worse performance at greater cost. Just like the committee approving software purchases.And just as the greatest danger of being hard to sell to is not that you overpay but that the best suppliers won't even sell to you, the greatest danger of applying too many checks to your programmers is not that you'll make them unproductive, but that good programmers won't even want to work for you.Steve Jobs's famous maxim \"artists ship\" works both ways.",
+      "Artists aren't merely capable of shipping. They insist on it. So if you don't let people ship, you won't have any artists."
+    ],
+    "word_count": 1287,
+    "paragraph_count": 27
+  },
+  "processed_at": "2025-07-26T19:06:43.090797",
+  "paragraphs": [
+    {
+      "original": "November 2008One of the differences between big companies and startups is that big companies tend to have developed procedures to protect themselves against mistakes. A startup walks like a toddler, bashing into things and falling over all the time.",
+      "translated": "2008年11月 大公司和初创公司之间的一个区别是，大公司往往已经建立了保护自己免犯错误的程序。而初创公司则像蹒跚学步的幼儿，不断撞到东西，跌倒。"
+    },
+    {
+      "original": "A big company is more deliberate.The gradual accumulation of checks in an organization is a kind of learning, based on disasters that have happened to it or others like it. After giving a contract to a supplier who goes bankrupt and fails to deliver, for example, a company might require all suppliers to prove they're solvent before submitting bids.As companies grow they invariably get more such checks, either in response to disasters they've suffered, or (probably more often) by hiring people from bigger companies who bring with them customs for protecting against new types of disasters.It's natural for organizations to learn from mistakes.",
+      "translated": "大公司更为谨慎。组织内部检查机制的逐步积累是一种学习过程，这种学习基于自身或类似公司曾经遭遇过的灾难。例如，在将合同授予一家随后破产且无法交付的供应商之后，公司可能会要求所有供应商在提交投标前证明其财务状况良好。随着公司的发展，它们不可避免地会增加更多的此类检查，这些检查或是针对自身遭遇的灾难作出的反应，或是（可能更常见的是）通过雇佣来自更大公司的员工而引入的，这些员工带来了防范新型灾难的惯例。组织从错误中学习是自然而然的事情。"
+    },
+    {
+      "original": "The problem is, people who propose new checks almost never consider that the check itself has a cost.Every check has a cost. For example, consider the case of making suppliers verify their solvency. Surely that's mere prudence?",
+      "translated": "问题在于，提出新检查的人几乎从不考虑检查本身也有成本。每次检查都有成本。例如，要求供应商验证其偿付能力，这难道不是 mere prudence（审慎）吗？"
+    },
+    {
+      "original": "But in fact it could have substantial costs. There's obviously the direct cost in time of the people on both sides who supply and check proofs of the supplier's solvency. But the real costs are the ones you never hear about: the company that would be the best supplier, but doesn't bid because they can't spare the effort to get verified.",
+      "translated": "但实际上，这可能会带来巨大的成本。显然，双方提供和检查供应商偿付能力证明的人在时间上的直接成本。但真正的成本是那些你从未听说过的：本应成为最佳供应商的公司，却因为无法抽出精力进行验证而没有投标。"
+    },
+    {
+      "original": "Or the company that would be the best supplier, but falls just short of the threshold for solvency—which will of course have been set on the high side, since there is no apparent cost of increasing it.Whenever someone in an organization proposes to add a new check, they should have to explain not just the benefit but the cost.",
+      "translated": "或者，该公司可能是最佳供应商，但其偿债能力略低于设定的门槛——当然，这个门槛会被设定得较高，因为提高门槛似乎没有明显的成本。每当组织中有人提议增加新的审核时，他们不仅需要解释其好处，还必须说明其成本。"
+    },
+    {
+      "original": "No matter how bad a job they did of analyzing it, this meta-check would at least remind everyone there had to be a cost, and send them looking for it.If companies started doing that, they'd find some surprises.",
+      "translated": "无论他们分析得多么糟糕，这种元检查至少会提醒每个人必须有成本，并促使他们去寻找它。如果公司开始这样做，他们会发现一些意外。"
+    },
+    {
+      "original": "Joel Spolsky recently spoke at Y Combinator about selling software to corporate customers. He said that in most companies software costing up to about $1000 could be bought by individual managers without any additional approvals.",
+      "translated": "Joel Spolsky 最近在 Y Combinator 讲述了向企业客户销售软件的话题。他表示，在大多数公司中，成本在大约 1000 美元以内的软件可以由个别经理自行购买，无需额外审批。"
+    },
+    {
+      "original": "Above that threshold, software purchases generally had to be approved by a committee. But babysitting this process was so expensive for software vendors that it didn't make sense to charge less than $50,000.",
+      "translated": "超过这一门槛，软件采购通常需要委员会批准。但由于监督这一过程对软件供应商来说成本高昂，因此收取的费用低于50,000美元是不合理的。"
+    },
+    {
+      "original": "Which means if you're making something you might otherwise have charged $5000 for, you have to sell it for $50,000 instead.The purpose of the committee is presumably to ensure that the company doesn't waste money.",
+      "translated": "这意味着，如果你制作的是原本可能收费5000美元的东西，现在你必须以50,000美元的价格出售。委员会的目的是确保公司不浪费资金。"
+    },
+    {
+      "original": "And yet the result is that the company pays 10 times as much.Checks on purchases will always be expensive, because the harder it is to sell something to you, the more it has to cost. And not merely linearly, either.",
+      "translated": "然而，结果是公司支付的费用是原来的10倍。对采购的审核总是昂贵的，因为越难将某物售出，其成本就越高。而且这种增加并非仅仅是线性的。"
+    },
+    {
+      "original": "If you're hard enough to sell to, the people who are best at making things don't want to bother. The only people who will sell to you are companies that specialize in selling to you. Then you've sunk to a whole new level of inefficiency.",
+      "translated": "如果你太难打交道，那些最擅长制造产品的人就不会愿意费心。只有那些专门向你这类客户销售的公司才会来卖给你。这样一来，你就陷入了一个全新的低效层次。"
+    },
+    {
+      "original": "Market mechanisms no longer protect you, because the good suppliers are no longer in the market.Such things happen constantly to the biggest organizations of all, governments. But checks instituted by governments can cause much worse problems than merely overpaying.",
+      "translated": "市场机制不再保护你，因为好的供应商已经不再存在于市场中。这种情况经常发生在最大的组织——政府身上。但政府设立的监管措施可能会导致比仅仅支付过多更严重的问题。"
+    },
+    {
+      "original": "Checks instituted by governments can cripple a country's whole economy. Up till about 1400, China was richer and more technologically advanced than Europe. One reason Europe pulled ahead was that the Chinese government restricted long trading voyages.",
+      "translated": "政府实施的检查可以瘫痪一个国家的整个经济。直到大约1400年，中国在财富和技术上都比欧洲更先进。欧洲能够赶超的一个原因是，中国政府限制了长途贸易航行。"
+    },
+    {
+      "original": "So it was left to the Europeans to explore and eventually to dominate the rest of the world, including China.In more recent times, Sarbanes-Oxley has practically destroyed the US IPO market. That wasn't the intention of the legislators who wrote it.",
+      "translated": "因此，探索并最终主宰包括中国在内的世界其他地区的重任落到了欧洲人身上。在更近的时期，萨班斯-奥克斯利法案几乎摧毁了美国的首次公开募股市场。这并非立法者的初衷。"
+    },
+    {
+      "original": "They just wanted to add a few more checks on public companies. But they forgot to consider the cost. They forgot that companies about to go public are usually rather stretched, and that the weight of a few extra checks that might be easy for General Electric to bear are enough to prevent younger companies from being public at all.Once you start to think about the cost of checks, you can start to ask other interesting questions.",
+      "translated": "他们只是想对上市公司增加一些额外的审查。但他们忽略了成本问题。他们忘记了即将上市的公司通常已经相当紧张，而对通用电气这样的大公司来说可能轻而易举的几项额外审查，对于年轻公司来说却足以使其无法上市。一旦开始考虑审查的成本，你就可以开始提出其他有趣的问题。"
+    },
+    {
+      "original": "Is the cost increasing or decreasing? Is it higher in some areas than others? Where does it increase discontinuously? If large organizations started to ask questions like that, they'd learn some frightening things.I think the cost of checks may actually be increasing.",
+      "translated": "成本是在增加还是在减少？某些地区的成本是否更高？成本在哪里出现不连续增加？如果大型组织开始提出这样的问题，他们可能会发现一些令人不安的事情。我认为，检查的成本实际上可能在增加。"
+    },
+    {
+      "original": "The reason is that software plays an increasingly important role in companies, and the people who write software are particularly harmed by checks.Programmers are unlike many types of workers in that the best ones actually prefer to work hard.",
+      "translated": "原因是软件在公司中扮演着越来越重要的角色，而编写软件的人尤其受到检查的伤害。程序员不同于许多其他类型的工人，最好的程序员实际上更愿意努力工作。"
+    },
+    {
+      "original": "This doesn't seem to be the case in most types of work. When I worked in fast food, we didn't prefer the busy times. And when I used to mow lawns, I definitely didn't prefer it when the grass was long after a week of rain.Programmers, though, like it better when they write more code.",
+      "translated": "这在大多数工作中似乎并非如此。当我在快餐店工作时，我们并不喜欢忙碌的时候。而当我以前修剪草坪时，我肯定不喜欢在连续一周下雨后草长得特别长的时候。然而，程序员在编写更多代码时会更喜欢。"
+    },
+    {
+      "original": "Or more precisely, when they release more code. Programmers like to make a difference. Good ones, anyway.For good programmers, one of the best things about working for a startup is that there are few checks on releases.",
+      "translated": "或者更准确地说，当他们发布更多代码时。程序员喜欢有所作为。至少好的程序员是这样。对于优秀的程序员来说，在初创公司工作最好的一点就是发布代码时的限制很少。"
+    },
+    {
+      "original": "In true startups, there are no external checks at all. If you have an idea for a new feature in the morning, you can write it and push it to the production servers before lunch. And when you can do that, you have more ideas.At big companies, software has to go through various approvals before it can be launched.",
+      "translated": "在真正的创业公司里，完全没有外部的检查。如果你早上有一个新功能的想法，你可以在午餐前编写并推送到生产服务器。而当你能做到这一点时，你会有更多的想法。在大公司里，软件在发布前必须经过各种审批。"
+    },
+    {
+      "original": "And the cost of doing this can be enormous—in fact, discontinuous. I was talking recently to a group of three programmers whose startup had been acquired a few years before by a big company. When they'd been independent, they could release changes instantly.",
+      "translated": "而这样做可能代价巨大——事实上，是不连续的。我最近和三位程序员交谈，他们的初创公司在几年前被一家大公司收购了。当他们独立时，可以立即发布更改。"
+    },
+    {
+      "original": "Now, they said, the absolute fastest they could get code released on the production servers was two weeks.This didn't merely make them less productive. It made them hate working for the acquirer.Here's a sign of how much programmers like to be able to work hard: these guys would have paid to be able to release code immediately, the way they used to.",
+      "translated": "现在，他们说，代码能够在生产服务器上发布的最快时间是两周。这不仅降低了他们的工作效率，还让他们厌恶为收购方工作。这里有一个迹象表明程序员们多么喜欢能够努力工作：这些家伙甚至愿意付费以能够立即发布代码，就像他们过去那样。"
+    },
+    {
+      "original": "I asked them if they'd trade 10% of the acquisition price for the ability to release code immediately, and all three instantly said yes. Then I asked what was the maximum percentage of the acquisition price they'd trade for it.",
+      "translated": "我问他们是否愿意用收购价格的10%来换取立即发布代码的能力，三个人都立刻表示同意。然后我又问，他们愿意用收购价格的最大百分比是多少来换取这种能力。"
+    },
+    {
+      "original": "They said they didn't want to think about it, because they didn't want to know how high they'd go, but I got the impression it might be as much as half.They'd have sacrificed hundreds of thousands of dollars, perhaps millions, just to be able to deliver more software to users.",
+      "translated": "他们说他们不想去想这个问题，因为他们不想知道会有多高的比例，但我感觉这个比例可能高达一半。他们可能会牺牲数十万美元，甚至数百万美元，只是为了能够向用户交付更多的软件。"
+    },
+    {
+      "original": "And you know what? It would have been perfectly safe to let them. In fact, the acquirer would have been better off; not only wouldn't these guys have broken anything, they'd have gotten a lot more done.",
+      "translated": "你知道吗？让他们做其实是完全安全的。事实上，收购方会更好；这些人不仅不会搞砸任何事情，反而会完成更多的工作。"
+    },
+    {
+      "original": "So the acquirer is in fact getting worse performance at greater cost. Just like the committee approving software purchases.And just as the greatest danger of being hard to sell to is not that you overpay but that the best suppliers won't even sell to you, the greatest danger of applying too many checks to your programmers is not that you'll make them unproductive, but that good programmers won't even want to work for you.Steve Jobs's famous maxim \"artists ship\" works both ways.",
+      "translated": "因此，收购方实际上是在以更高的成本获得更差的性能。这就像批准软件采购的委员会一样。正如最难卖的情况最大的危险不是你支付过多，而是最好的供应商根本不愿意卖给你一样，对程序员施加过多检查的最大危险不是他们会变得没有生产力，而是优秀的程序员根本不愿意为你工作。史蒂夫·乔布斯的名言“艺术家发货”是双向的。"
+    },
+    {
+      "original": "Artists aren't merely capable of shipping. They insist on it. So if you don't let people ship, you won't have any artists.",
+      "translated": "艺术家不仅仅有能力完成作品。他们坚持要完成。所以，如果你不允许人们完成作品，你就不会有任何艺术家。"
+    }
+  ],
+  "translation_completed": "2025-07-26T23:33:23.699416",
+  "translation_stats": {
+    "total_paragraphs": 27,
+    "success_count": 27,
+    "success_rate": "100.0%"
+  }
+}

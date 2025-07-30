@@ -1,0 +1,119 @@
+{
+  "title": "Trolls",
+  "title_zh": "[待翻译] Trolls",
+  "url": "https://www.paulgraham.com/trolls.html",
+  "filename": "trolls.html",
+  "date": "2008-02-01",
+  "id": 173,
+  "content": {
+    "success": true,
+    "paragraphs": [
+      "February 2008A user on Hacker News recently posted a comment that set me thinking: Something about hacker culture that never really set well with me was this — the nastiness. ... I just don't understand why people troll like they do.",
+      "I've thought a lot over the last couple years about the problem of trolls. It's an old one, as old as forums, but we're still just learning what the causes are and how to address them.There are two senses of the word \"troll.\" In the original sense it meant someone, usually an outsider, who deliberately stirred up fights in a forum by saying controversial things.",
+      "[1] For example, someone who didn't use a certain programming language might go to a forum for users of that language and make disparaging remarks about it, then sit back and watch as people rose to the bait.",
+      "This sort of trolling was in the nature of a practical joke, like letting a bat loose in a room full of people.The definition then spread to people who behaved like assholes in forums, whether intentionally or not.",
+      "Now when people talk about trolls they usually mean this broader sense of the word. Though in a sense this is historically inaccurate, it is in other ways more accurate, because when someone is being an asshole it's usually uncertain even in their own mind how much is deliberate.",
+      "That is arguably one of the defining qualities of an asshole.I think trolling in the broader sense has four causes. The most important is distance. People will say things in anonymous forums that they'd never dare say to someone's face, just as they'll do things in cars that they'd never do as pedestrians — like tailgate people, or honk at them, or cut them off.Trolling tends to be particularly bad in forums related to computers, and I think that's due to the kind of people you find there.",
+      "Most of them (myself included) are more comfortable dealing with abstract ideas than with people. Hackers can be abrupt even in person. Put them on an anonymous forum, and the problem gets worse.The third cause of trolling is incompetence.",
+      "If you disagree with something, it's easier to say \"you suck\" than to figure out and explain exactly what you disagree with. You're also safe that way from refutation. In this respect trolling is a lot like graffiti.",
+      "Graffiti happens at the intersection of ambition and incompetence: people want to make their mark on the world, but have no other way to do it than literally making a mark on the world. [2]The final contributing factor is the culture of the forum.",
+      "Trolls are like children (many are children) in that they're capable of a wide range of behavior depending on what they think will be tolerated. In a place where rudeness isn't tolerated, most can be polite.",
+      "But vice versa as well.There's a sort of Gresham's Law of trolls: trolls are willing to use a forum with a lot of thoughtful people in it, but thoughtful people aren't willing to use a forum with a lot of trolls in it.",
+      "Which means that once trolling takes hold, it tends to become the dominant culture. That had already happened to Slashdot and Digg by the time I paid attention to comment threads there, but I watched it happen to Reddit.News.YC is, among other things, an experiment to see if this fate can be avoided.",
+      "The sites's guidelines explicitly ask people not to say things they wouldn't say face to face. If someone starts being rude, other users will step in and tell them to stop. And when people seem to be deliberately trolling, we ban them ruthlessly.Technical tweaks may also help.",
+      "On Reddit, votes on your comments don't affect your karma score, but they do on News.YC. And it does seem to influence people when they can see their reputation in the eyes of their peers drain away after making an asshole remark.",
+      "Often users have second thoughts and delete such comments.One might worry this would prevent people from expressing controversial ideas, but empirically that doesn't seem to be what happens. When people say something substantial that gets modded down, they stubbornly leave it up.",
+      "What people delete are wisecracks, because they have less invested in them.So far the experiment seems to be working. The level of conversation on News.YC is as high as on any forum I've seen. But we still only have about 8,000 uniques a day.",
+      "The conversations on Reddit were good when it was that small. The challenge is whether we can keep things this way.I'm optimistic we will. We're not depending just on technical tricks. The core users of News.YC are mostly refugees from other sites that were overrun by trolls.",
+      "They feel about trolls roughly the way refugees from Cuba or Eastern Europe feel about dictatorships. So there are a lot of people working to keep this from happening again. Notes[1] I mean forum in the general sense of a place to exchange views.",
+      "The original Internet forums were not web sites but Usenet newsgroups.[2] I'm talking here about everyday tagging. Some graffiti is quite impressive (anything becomes art if you do it well enough) but the median tag is just visual spam.Russian Translation"
+    ],
+    "word_count": 878,
+    "paragraph_count": 19
+  },
+  "processed_at": "2025-07-26T19:07:01.828126",
+  "paragraphs": [
+    {
+      "original": "February 2008A user on Hacker News recently posted a comment that set me thinking: Something about hacker culture that never really set well with me was this — the nastiness. ... I just don't understand why people troll like they do.",
+      "translated": "2008年2月，一位用户在Hacker News上发表了一条评论，让我陷入思考：关于黑客文化中有一件事我始终不太认同——那就是其中的恶劣行为。……我真的不明白为什么人们会如此进行网络恶搞。"
+    },
+    {
+      "original": "I've thought a lot over the last couple years about the problem of trolls. It's an old one, as old as forums, but we're still just learning what the causes are and how to address them.There are two senses of the word \"troll.\" In the original sense it meant someone, usually an outsider, who deliberately stirred up fights in a forum by saying controversial things.",
+      "translated": "在过去的几年里，我一直在思考关于网络喷子的问题。这是一个古老的问题，和论坛一样古老，但我们仍然在逐步了解其成因以及应对方法。\"喷子\"这个词有两个含义。在最初的含义中，指的是某个通常来自外部的人，通过发表有争议的言论故意在论坛中挑起争端。"
+    },
+    {
+      "original": "[1] For example, someone who didn't use a certain programming language might go to a forum for users of that language and make disparaging remarks about it, then sit back and watch as people rose to the bait.",
+      "translated": "例如，一个不使用某种编程语言的人可能会去该语言的用户论坛，发表贬低该语言的言论，然后坐等别人上钩。"
+    },
+    {
+      "original": "This sort of trolling was in the nature of a practical joke, like letting a bat loose in a room full of people.The definition then spread to people who behaved like assholes in forums, whether intentionally or not.",
+      "translated": "这种搞恶作剧的行为就像在满屋子的人中放一只蝙蝠一样，是一种 practical joke（恶作剧）。后来，这一定义扩展到那些在论坛中表现得像浑蛋的人，无论是有意还是无意。"
+    },
+    {
+      "original": "Now when people talk about trolls they usually mean this broader sense of the word. Though in a sense this is historically inaccurate, it is in other ways more accurate, because when someone is being an asshole it's usually uncertain even in their own mind how much is deliberate.",
+      "translated": "现在当人们谈到喷子时，通常是指这个词的广义。虽然从某种意义上说，这在历史上是不准确的，但在其他方面却更加准确，因为当有人表现得像混蛋时，即使在他们自己心中，也往往不确定自己有多大程度上是故意的。"
+    },
+    {
+      "original": "That is arguably one of the defining qualities of an asshole.I think trolling in the broader sense has four causes. The most important is distance. People will say things in anonymous forums that they'd never dare say to someone's face, just as they'll do things in cars that they'd never do as pedestrians — like tailgate people, or honk at them, or cut them off.Trolling tends to be particularly bad in forums related to computers, and I think that's due to the kind of people you find there.",
+      "translated": "这可以说是混蛋的一个显著特征。我认为，从广义上讲，网络喷子行为有四个原因。其中最重要的是距离感。人们会在匿名论坛上说出他们永远不会当面对某人说的言论，就像他们会在开车时做出一些作为行人时绝不会做的事情——比如紧跟前车、按喇叭或强行变道。计算机相关的论坛中，喷子行为尤为严重，我认为这与在那里出现的人群类型有关。"
+    },
+    {
+      "original": "Most of them (myself included) are more comfortable dealing with abstract ideas than with people. Hackers can be abrupt even in person. Put them on an anonymous forum, and the problem gets worse.The third cause of trolling is incompetence.",
+      "translated": "大多数人（包括我自己）更擅长处理抽象概念而非与人打交道。黑客即使面对面也可能会表现得非常直接。把他们放在一个匿名论坛上，问题就会变得更加严重。导致挑衅行为的第三个原因是无能。"
+    },
+    {
+      "original": "If you disagree with something, it's easier to say \"you suck\" than to figure out and explain exactly what you disagree with. You're also safe that way from refutation. In this respect trolling is a lot like graffiti.",
+      "translated": "如果你对某件事有异议，说“你真烂”比找出并解释你具体不同意的地方要容易得多。这样你也更安全，不会被反驳。在这方面，网络喷子的行为很像涂鸦。"
+    },
+    {
+      "original": "Graffiti happens at the intersection of ambition and incompetence: people want to make their mark on the world, but have no other way to do it than literally making a mark on the world. [2]The final contributing factor is the culture of the forum.",
+      "translated": "涂鸦发生在雄心与无能的交汇处：人们想要在世界上留下自己的印记，但除了字面意义上在世界上留下印记外，他们没有其他方式做到这一点。[2]最后一个促成因素是论坛的文化。"
+    },
+    {
+      "original": "Trolls are like children (many are children) in that they're capable of a wide range of behavior depending on what they think will be tolerated. In a place where rudeness isn't tolerated, most can be polite.",
+      "translated": "网络喷子就像孩子（很多人确实未成年）一样，他们的行为表现会根据他们认为能被接受的程度而变化。在一个不容忍粗鲁行为的地方，大多数人都能表现得礼貌。"
+    },
+    {
+      "original": "But vice versa as well.There's a sort of Gresham's Law of trolls: trolls are willing to use a forum with a lot of thoughtful people in it, but thoughtful people aren't willing to use a forum with a lot of trolls in it.",
+      "translated": "但反过来也是一样。有一种“劣币驱逐良币”的现象适用于网络喷子：喷子愿意在一个有许多理性人士的论坛上活动，但理性人士却不愿意在一个有许多喷子的论坛上发言。"
+    },
+    {
+      "original": "Which means that once trolling takes hold, it tends to become the dominant culture. That had already happened to Slashdot and Digg by the time I paid attention to comment threads there, but I watched it happen to Reddit.News.YC is, among other things, an experiment to see if this fate can be avoided.",
+      "translated": "这意味着一旦恶搞文化盛行，它往往会成为主导文化。在我关注那里评论区时，这种现象已经在Slashdot和Digg上发生了，但我目睹了Reddit经历这一过程。News.YC在其他方面之外，也是一个实验，旨在看看是否可以避免这种命运。"
+    },
+    {
+      "original": "The sites's guidelines explicitly ask people not to say things they wouldn't say face to face. If someone starts being rude, other users will step in and tell them to stop. And when people seem to be deliberately trolling, we ban them ruthlessly.Technical tweaks may also help.",
+      "translated": "该网站的指南明确要求人们不要说出他们在面对面交流时不会说的话。如果有人开始出言不逊，其他用户会介入并告诉他们停止。当有人似乎故意捣乱时，我们会毫不留情地封禁他们。技术上的调整也可能有所帮助。"
+    },
+    {
+      "original": "On Reddit, votes on your comments don't affect your karma score, but they do on News.YC. And it does seem to influence people when they can see their reputation in the eyes of their peers drain away after making an asshole remark.",
+      "translated": "在 Reddit 上，对您评论的投票不会影响您的业力分数，但在 News.YC 上则会影响。而且，当人们看到自己在同行眼中的声誉因发表混蛋言论而下降时，这确实会影响到他们的行为。"
+    },
+    {
+      "original": "Often users have second thoughts and delete such comments.One might worry this would prevent people from expressing controversial ideas, but empirically that doesn't seem to be what happens. When people say something substantial that gets modded down, they stubbornly leave it up.",
+      "translated": "用户常常会反悔并删除此类评论。有人可能会担心这会阻止人们表达有争议的想法，但根据实际情况来看，似乎并非如此。当人们发表了一些实质性的内容而被降低权重时，他们通常会顽固地保留这些内容。"
+    },
+    {
+      "original": "What people delete are wisecracks, because they have less invested in them.So far the experiment seems to be working. The level of conversation on News.YC is as high as on any forum I've seen. But we still only have about 8,000 uniques a day.",
+      "translated": "人们删除的是俏皮话，因为他们在这些话上投入较少。到目前为止，这个实验似乎奏效了。News.YC上的讨论水平如同我所见过的任何论坛一样高。但我们目前每天只有大约8,000个独立访客。"
+    },
+    {
+      "original": "The conversations on Reddit were good when it was that small. The challenge is whether we can keep things this way.I'm optimistic we will. We're not depending just on technical tricks. The core users of News.YC are mostly refugees from other sites that were overrun by trolls.",
+      "translated": "Reddit上的讨论在用户基数较小的时候非常好。挑战在于我们能否保持这种状态。我对这一点持乐观态度。我们不仅仅依赖技术手段。News.YC的核心用户大多是从其他被喷子占领的网站迁移过来的。"
+    },
+    {
+      "original": "They feel about trolls roughly the way refugees from Cuba or Eastern Europe feel about dictatorships. So there are a lot of people working to keep this from happening again. Notes[1] I mean forum in the general sense of a place to exchange views.",
+      "translated": "他们对网络喷子的感受，大致就像古巴或东欧的难民对独裁政权的感受一样。因此，有很多人在努力防止这种情况再次发生。注[1] 我这里所说的论坛是指广义上的观点交流场所。"
+    },
+    {
+      "original": "The original Internet forums were not web sites but Usenet newsgroups.[2] I'm talking here about everyday tagging. Some graffiti is quite impressive (anything becomes art if you do it well enough) but the median tag is just visual spam.Russian Translation",
+      "translated": "最初的互联网论坛并不是网站，而是Usenet新闻组。这里讨论的是日常的标记行为。有些涂鸦非常出色（任何事情只要你做得足够好就能成为艺术），但大多数标签只不过是视觉垃圾。"
+    }
+  ],
+  "translation_completed": "2025-07-28T14:00:53.665567",
+  "translation_stats": {
+    "total_paragraphs": 19,
+    "success_count": 19,
+    "success_rate": "100.0%"
+  }
+}

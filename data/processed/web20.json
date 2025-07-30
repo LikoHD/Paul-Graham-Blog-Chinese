@@ -1,0 +1,349 @@
+{
+  "title": "Web 2.0",
+  "title_zh": "[待翻译] Web 2.0",
+  "url": "https://www.paulgraham.com/web20.html",
+  "filename": "web20.html",
+  "date": "2005-11-01",
+  "id": 197,
+  "content": {
+    "success": true,
+    "paragraphs": [
+      "Want to start a startup? Get funded by Y Combinator. November 2005Does \"Web 2.0\" mean anything? Till recently I thought it didn't, but the truth turns out to be more complicated. Originally, yes, it was meaningless.",
+      "Now it seems to have acquired a meaning. And yet those who dislike the term are probably right, because if it means what I think it does, we don't need it.I first heard the phrase \"Web 2.0\" in the name of the Web 2.0 conference in 2004.",
+      "At the time it was supposed to mean using \"the web as a platform,\" which I took to refer to web-based applications. [1]So I was surprised at a conference this summer when Tim O'Reilly led a session intended to figure out a definition of \"Web 2.0.\" Didn't it already mean using the web as a platform?",
+      "And if it didn't already mean something, why did we need the phrase at all?OriginsTim says the phrase \"Web 2.0\" first arose in \"a brainstorming session between O'Reilly and Medialive International.\" What is Medialive International?",
+      "\"Producers of technology tradeshows and conferences,\" according to their site. So presumably that's what this brainstorming session was about. O'Reilly wanted to organize a conference about the web, and they were wondering what to call it.I don't think there was any deliberate plan to suggest there was a new version of the web.",
+      "They just wanted to make the point that the web mattered again. It was a kind of semantic deficit spending: they knew new things were coming, and the \"2.0\" referred to whatever those might turn out to be.And they were right.",
+      "New things were coming. But the new version number led to some awkwardness in the short term. In the process of developing the pitch for the first conference, someone must have decided they'd better take a stab at explaining what that \"2.0\" referred to.",
+      "Whatever it meant, \"the web as a platform\" was at least not too constricting.The story about \"Web 2.0\" meaning the web as a platform didn't live much past the first conference. By the second conference, what \"Web 2.0\" seemed to mean was something about democracy.",
+      "At least, it did when people wrote about it online. The conference itself didn't seem very grassroots. It cost $2800, so the only people who could afford to go were VCs and people from big companies.And yet, oddly enough, Ryan Singel's article about the conference in Wired News spoke of \"throngs of geeks.\" When a friend of mine asked Ryan about this, it was news to him.",
+      "He said he'd originally written something like \"throngs of VCs and biz dev guys\" but had later shortened it just to \"throngs,\" and that this must have in turn been expanded by the editors into \"throngs of geeks.\" After all, a Web 2.0 conference would presumably be full of geeks, right?Well, no.",
+      "There were about 7. Even Tim O'Reilly was wearing a suit, a sight so alien I couldn't parse it at first. I saw him walk by and said to one of the O'Reilly people \"that guy looks just like Tim.\"\"Oh, that's Tim.",
+      "He bought a suit.\" I ran after him, and sure enough, it was. He explained that he'd just bought it in Thailand.The 2005 Web 2.0 conference reminded me of Internet trade shows during the Bubble, full of prowling VCs looking for the next hot startup.",
+      "There was that same odd atmosphere created by a large number of people determined not to miss out. Miss out on what? They didn't know. Whatever was going to happen—whatever Web 2.0 turned out to be.I wouldn't quite call it \"Bubble 2.0\" just because VCs are eager to invest again.",
+      "The Internet is a genuinely big deal. The bust was as much an overreaction as the boom. It's to be expected that once we started to pull out of the bust, there would be a lot of growth in this area, just as there was in the industries that spiked the sharpest before the Depression.The reason this won't turn into a second Bubble is that the IPO market is gone.",
+      "Venture investors are driven by exit strategies. The reason they were funding all those laughable startups during the late 90s was that they hoped to sell them to gullible retail investors; they hoped to be laughing all the way to the bank.",
+      "Now that route is closed. Now the default exit strategy is to get bought, and acquirers are less prone to irrational exuberance than IPO investors. The closest you'll get to Bubble valuations is Rupert Murdoch paying $580 million for Myspace.",
+      "That's only off by a factor of 10 or so.1. AjaxDoes \"Web 2.0\" mean anything more than the name of a conference yet? I don't like to admit it, but it's starting to. When people say \"Web 2.0\" now, I have some idea what they mean.",
+      "And the fact that I both despise the phrase and understand it is the surest proof that it has started to mean something.One ingredient of its meaning is certainly Ajax, which I can still only just bear to use without scare quotes.",
+      "Basically, what \"Ajax\" means is \"Javascript now works.\" And that in turn means that web-based applications can now be made to work much more like desktop ones.As you read this, a whole new generation of software is being written to take advantage of Ajax.",
+      "There hasn't been such a wave of new applications since microcomputers first appeared. Even Microsoft sees it, but it's too late for them to do anything more than leak \"internal\" documents designed to give the impression they're on top of this new trend.In fact the new generation of software is being written way too fast for Microsoft even to channel it, let alone write their own in house.",
+      "Their only hope now is to buy all the best Ajax startups before Google does. And even that's going to be hard, because Google has as big a head start in buying microstartups as it did in search a few years ago.",
+      "After all, Google Maps, the canonical Ajax application, was the result of a startup they bought.So ironically the original description of the Web 2.0 conference turned out to be partially right: web-based applications are a big component of Web 2.0.",
+      "But I'm convinced they got this right by accident. The Ajax boom didn't start till early 2005, when Google Maps appeared and the term \"Ajax\" was coined.2. DemocracyThe second big element of Web 2.0 is democracy.",
+      "We now have several examples to prove that amateurs can surpass professionals, when they have the right kind of system to channel their efforts. Wikipedia may be the most famous. Experts have given Wikipedia middling reviews, but they miss the critical point: it's good enough.",
+      "And it's free, which means people actually read it. On the web, articles you have to pay for might as well not exist. Even if you were willing to pay to read them yourself, you can't link to them. They're not part of the conversation.Another place democracy seems to win is in deciding what counts as news.",
+      "I never look at any news site now except Reddit. [2] I know if something major happens, or someone writes a particularly interesting article, it will show up there. Why bother checking the front page of any specific paper or magazine?",
+      "Reddit's like an RSS feed for the whole web, with a filter for quality. Similar sites include Digg, a technology news site that's rapidly approaching Slashdot in popularity, and del.icio.us, the collaborative bookmarking network that set off the \"tagging\" movement.",
+      "And whereas Wikipedia's main appeal is that it's good enough and free, these sites suggest that voters do a significantly better job than human editors.The most dramatic example of Web 2.0 democracy is not in the selection of ideas, but their production.",
+      "I've noticed for a while that the stuff I read on individual people's sites is as good as or better than the stuff I read in newspapers and magazines. And now I have independent evidence: the top links on Reddit are generally links to individual people's sites rather than to magazine articles or news stories.My experience of writing for magazines suggests an explanation.",
+      "Editors. They control the topics you can write about, and they can generally rewrite whatever you produce. The result is to damp extremes. Editing yields 95th percentile writing—95% of articles are improved by it, but 5% are dragged down.",
+      "5% of the time you get \"throngs of geeks.\"On the web, people can publish whatever they want. Nearly all of it falls short of the editor-damped writing in print publications. But the pool of writers is very, very large.",
+      "If it's large enough, the lack of damping means the best writing online should surpass the best in print. [3] And now that the web has evolved mechanisms for selecting good stuff, the web wins net. Selection beats damping, for the same reason market economies beat centrally planned ones.Even the startups are different this time around.",
+      "They are to the startups of the Bubble what bloggers are to the print media. During the Bubble, a startup meant a company headed by an MBA that was blowing through several million dollars of VC money to \"get big fast\" in the most literal sense.",
+      "Now it means a smaller, younger, more technical group that just decided to make something great. They'll decide later if they want to raise VC-scale funding, and if they take it, they'll take it on their terms.3.",
+      "Don't Maltreat UsersI think everyone would agree that democracy and Ajax are elements of \"Web 2.0.\" I also see a third: not to maltreat users. During the Bubble a lot of popular sites were quite high-handed with users.",
+      "And not just in obvious ways, like making them register, or subjecting them to annoying ads. The very design of the average site in the late 90s was an abuse. Many of the most popular sites were loaded with obtrusive branding that made them slow to load and sent the user the message: this is our site, not yours.",
+      "(There's a physical analog in the Intel and Microsoft stickers that come on some laptops.)I think the root of the problem was that sites felt they were giving something away for free, and till recently a company giving anything away for free could be pretty high-handed about it.",
+      "Sometimes it reached the point of economic sadism: site owners assumed that the more pain they caused the user, the more benefit it must be to them. The most dramatic remnant of this model may be at salon.com, where you can read the beginning of a story, but to get the rest you have sit through a movie.At Y Combinator we advise all the startups we fund never to lord it over users.",
+      "Never make users register, unless you need to in order to store something for them. If you do make users register, never make them wait for a confirmation link in an email; in fact, don't even ask for their email address unless you need it for some reason.",
+      "Don't ask them any unnecessary questions. Never send them email unless they explicitly ask for it. Never frame pages you link to, or open them in new windows. If you have a free version and a pay version, don't make the free version too restricted.",
+      "And if you find yourself asking \"should we allow users to do x?\" just answer \"yes\" whenever you're unsure. Err on the side of generosity.In How to Start a Startup I advised startups never to let anyone fly under them, meaning never to let any other company offer a cheaper, easier solution.",
+      "Another way to fly low is to give users more power. Let users do what they want. If you don't and a competitor does, you're in trouble.iTunes is Web 2.0ish in this sense. Finally you can buy individual songs instead of having to buy whole albums.",
+      "The recording industry hated the idea and resisted it as long as possible. But it was obvious what users wanted, so Apple flew under the labels. [4] Though really it might be better to describe iTunes as Web 1.5.",
+      "Web 2.0 applied to music would probably mean individual bands giving away DRMless songs for free.The ultimate way to be nice to users is to give them something for free that competitors charge for. During the 90s a lot of people probably thought we'd have some working system for micropayments by now.",
+      "In fact things have gone in the other direction. The most successful sites are the ones that figure out new ways to give stuff away for free. Craigslist has largely destroyed the classified ad sites of the 90s, and OkCupid looks likely to do the same to the previous generation of dating sites.Serving web pages is very, very cheap.",
+      "If you can make even a fraction of a cent per page view, you can make a profit. And technology for targeting ads continues to improve. I wouldn't be surprised if ten years from now eBay had been supplanted by an ad-supported freeBay (or, more likely, gBay).Odd as it might sound, we tell startups that they should try to make as little money as possible.",
+      "If you can figure out a way to turn a billion dollar industry into a fifty million dollar industry, so much the better, if all fifty million go to you. Though indeed, making things cheaper often turns out to generate more money in the end, just as automating things often turns out to generate more jobs.The ultimate target is Microsoft.",
+      "What a bang that balloon is going to make when someone pops it by offering a free web-based alternative to MS Office. [5] Who will? Google? They seem to be taking their time. I suspect the pin will be wielded by a couple of 20 year old hackers who are too naive to be intimidated by the idea.",
+      "(How hard can it be?)The Common ThreadAjax, democracy, and not dissing users. What do they all have in common? I didn't realize they had anything in common till recently, which is one of the reasons I disliked the term \"Web 2.0\" so much.",
+      "It seemed that it was being used as a label for whatever happened to be new—that it didn't predict anything.But there is a common thread. Web 2.0 means using the web the way it's meant to be used. The \"trends\" we're seeing now are simply the inherent nature of the web emerging from under the broken models that got imposed on it during the Bubble.I realized this when I read an interview with Joe Kraus, the co-founder of Excite.",
+      "[6] Excite really never got the business model right at all. We fell into the classic problem of how when a new medium comes out it adopts the practices, the content, the business models of the old medium—which fails, and then the more appropriate models get figured out.",
+      "It may have seemed as if not much was happening during the years after the Bubble burst. But in retrospect, something was happening: the web was finding its natural angle of repose. The democracy component, for example—that's not an innovation, in the sense of something someone made happen.",
+      "That's what the web naturally tends to produce.Ditto for the idea of delivering desktop-like applications over the web. That idea is almost as old as the web. But the first time around it was co-opted by Sun, and we got Java applets.",
+      "Java has since been remade into a generic replacement for C++, but in 1996 the story about Java was that it represented a new model of software. Instead of desktop applications, you'd run Java \"applets\" delivered from a server.This plan collapsed under its own weight.",
+      "Microsoft helped kill it, but it would have died anyway. There was no uptake among hackers. When you find PR firms promoting something as the next development platform, you can be sure it's not. If it were, you wouldn't need PR firms to tell you, because hackers would already be writing stuff on top of it, the way sites like Busmonster used Google Maps as a platform before Google even meant it to be one.The proof that Ajax is the next hot platform is that thousands of hackers have spontaneously started building things on top of it.",
+      "Mikey likes it.There's another thing all three components of Web 2.0 have in common. Here's a clue. Suppose you approached investors with the following idea for a Web 2.0 startup: Sites like del.icio.us and flickr allow users to \"tag\" content with descriptive tokens.",
+      "But there is also huge source of implicit tags that they ignore: the text within web links. Moreover, these links represent a social network connecting the individuals and organizations who created the pages, and by using graph theory we can compute from this network an estimate of the reputation of each member.",
+      "We plan to mine the web for these implicit tags, and use them together with the reputation hierarchy they embody to enhance web searches. How long do you think it would take them on average to realize that it was a description of Google?Google was a pioneer in all three components of Web 2.0: their core business sounds crushingly hip when described in Web 2.0 terms, \"Don't maltreat users\" is a subset of \"Don't be evil,\" and of course Google set off the whole Ajax boom with Google Maps.Web 2.0 means using the web as it was meant to be used, and Google does.",
+      "That's their secret. They're sailing with the wind, instead of sitting becalmed praying for a business model, like the print media, or trying to tack upwind by suing their customers, like Microsoft and the record labels.",
+      "[7]Google doesn't try to force things to happen their way. They try to figure out what's going to happen, and arrange to be standing there when it does. That's the way to approach technology—and as business includes an ever larger technological component, the right way to do business.The fact that Google is a \"Web 2.0\" company shows that, while meaningful, the term is also rather bogus.",
+      "It's like the word \"allopathic.\" It just means doing things right, and it's a bad sign when you have a special word for that. Notes[1] From the conference site, June 2004: \"While the first wave of the Web was closely tied to the browser, the second wave extends applications across the web and enables a new generation of services and business opportunities.\" To the extent this means anything, it seems to be about web-based applications.[2] Disclosure: Reddit was funded by Y Combinator.",
+      "But although I started using it out of loyalty to the home team, I've become a genuine addict. While we're at it, I'm also an investor in !MSFT, having sold all my shares earlier this year.[3] I'm not against editing.",
+      "I spend more time editing than writing, and I have a group of picky friends who proofread almost everything I write. What I dislike is editing done after the fact by someone else.[4] Obvious is an understatement.",
+      "Users had been climbing in through the window for years before Apple finally moved the door.[5] Hint: the way to create a web-based alternative to Office may not be to write every component yourself, but to establish a protocol for web-based apps to share a virtual home directory spread across multiple servers.",
+      "Or it may be to write it all yourself.[6] In Jessica Livingston's Founders at Work.[7] Microsoft didn't sue their customers directly, but they seem to have done all they could to help SCO sue them.Thanks to Trevor Blackwell, Sarah Harlin, Jessica Livingston, Peter Norvig, Aaron Swartz, and Jeff Weiner for reading drafts of this, and to the guys at O'Reilly and Adaptive Path for answering my questions.Interview About Web 2.0Spanish TranslationGerman TranslationRussian TranslationJapanese Translation If you liked this, you may also like Hackers & Painters."
+    ],
+    "word_count": 3329,
+    "paragraph_count": 65
+  },
+  "processed_at": "2025-07-26T19:07:50.583838",
+  "paragraphs": [
+    {
+      "original": "Want to start a startup? Get funded by Y Combinator. November 2005Does \"Web 2.0\" mean anything? Till recently I thought it didn't, but the truth turns out to be more complicated. Originally, yes, it was meaningless.",
+      "translated": "想创办一家初创公司吗？那就争取获得Y Combinator的投资吧。2005年11月“Web 2.0”这个概念有意义吗？直到最近，我还以为它没有意义，但事实证明情况更为复杂。最初，这个概念确实是没有意义的。"
+    },
+    {
+      "original": "Now it seems to have acquired a meaning. And yet those who dislike the term are probably right, because if it means what I think it does, we don't need it.I first heard the phrase \"Web 2.0\" in the name of the Web 2.0 conference in 2004.",
+      "translated": "现在这个词似乎有了含义。然而，那些不喜欢这个词的人可能是对的，因为如果它的意思正如我所想，我们其实并不需要它。我第一次听到“Web 2.0”这个词是在2004年的Web 2.0大会的名称中。"
+    },
+    {
+      "original": "At the time it was supposed to mean using \"the web as a platform,\" which I took to refer to web-based applications. [1]So I was surprised at a conference this summer when Tim O'Reilly led a session intended to figure out a definition of \"Web 2.0.\" Didn't it already mean using the web as a platform?",
+      "translated": "当时的意思是指将“网络作为一个平台”，我理解为基于网络的应用程序。[1]因此，今年夏天在一个会议上，当蒂姆·奥赖利主持一个旨在确定“Web 2.0”定义的讨论会时，我感到很惊讶。它不是已经意味着将网络作为一个平台吗？"
+    },
+    {
+      "original": "And if it didn't already mean something, why did we need the phrase at all?OriginsTim says the phrase \"Web 2.0\" first arose in \"a brainstorming session between O'Reilly and Medialive International.\" What is Medialive International?",
+      "translated": "如果它原本没有其他含义，我们为什么需要这个短语呢？起源：蒂姆说，“Web 2.0”这个短语最早是在“O'Reilly 和 Medialive International 之间的一次头脑风暴会议”中提出的。什么是 Medialive International？"
+    },
+    {
+      "original": "\"Producers of technology tradeshows and conferences,\" according to their site. So presumably that's what this brainstorming session was about. O'Reilly wanted to organize a conference about the web, and they were wondering what to call it.I don't think there was any deliberate plan to suggest there was a new version of the web.",
+      "translated": "“科技展会和会议的制作人，”根据他们的网站介绍。所以可以推测，这次头脑风暴会议就是关于这个主题的。O'Reilly 想要组织一场关于互联网的会议，他们在讨论给这个会议起什么名字。我认为他们并没有刻意打算暗示互联网有了新版本。"
+    },
+    {
+      "original": "They just wanted to make the point that the web mattered again. It was a kind of semantic deficit spending: they knew new things were coming, and the \"2.0\" referred to whatever those might turn out to be.And they were right.",
+      "translated": "他们只是想强调网络再次变得重要。这可以算是一种语义上的透支：他们知道新事物即将来临，而“2.0”则指代这些新事物可能成为的任何东西。而他们是对的。"
+    },
+    {
+      "original": "New things were coming. But the new version number led to some awkwardness in the short term. In the process of developing the pitch for the first conference, someone must have decided they'd better take a stab at explaining what that \"2.0\" referred to.",
+      "translated": "新事物即将到来。但新版本号在短期内造成了一些尴尬。在为第一次会议制定宣传方案的过程中，有人认为最好尝试解释一下那个“2.0”指的是什么。"
+    },
+    {
+      "original": "Whatever it meant, \"the web as a platform\" was at least not too constricting.The story about \"Web 2.0\" meaning the web as a platform didn't live much past the first conference. By the second conference, what \"Web 2.0\" seemed to mean was something about democracy.",
+      "translated": "无论其含义如何，“网络作为一个平台”至少不会过于限制。关于“Web 2.0”意味着网络作为一个平台的说法并没有持续到第一次大会之后。到第二次大会时，“Web 2.0”似乎更多地与民主有关。"
+    },
+    {
+      "original": "At least, it did when people wrote about it online. The conference itself didn't seem very grassroots. It cost $2800, so the only people who could afford to go were VCs and people from big companies.And yet, oddly enough, Ryan Singel's article about the conference in Wired News spoke of \"throngs of geeks.\" When a friend of mine asked Ryan about this, it was news to him.",
+      "translated": "至少，当人们在网上谈论它时是这样。会议本身并不显得很草根。参会费用高达2800美元，所以只有风险投资家和大公司的人才负担得起。然而，奇怪的是，瑞安·辛格尔在《连线新闻》上关于这次会议的文章中提到了“成群的极客”。当我的一个朋友就此向瑞安提问时，这对他来说还是新闻。"
+    },
+    {
+      "original": "He said he'd originally written something like \"throngs of VCs and biz dev guys\" but had later shortened it just to \"throngs,\" and that this must have in turn been expanded by the editors into \"throngs of geeks.\" After all, a Web 2.0 conference would presumably be full of geeks, right?Well, no.",
+      "translated": "他说他最初写的是“成群的风险投资家和业务发展人士”，但后来简化为“成群”。而这很可能被编辑扩展为“成群的极客”。毕竟，一个Web 2.0大会应该会挤满极客，对吧？嗯，不对。"
+    },
+    {
+      "original": "There were about 7. Even Tim O'Reilly was wearing a suit, a sight so alien I couldn't parse it at first. I saw him walk by and said to one of the O'Reilly people \"that guy looks just like Tim.\"\"Oh, that's Tim.",
+      "translated": "大约有7个人。甚至连蒂姆·奥赖利都穿上了西装，这个场景如此不寻常，我一开始都没反应过来。我看到他走过，就对一个奥赖利的人说：“那家伙长得真像蒂姆。”“哦，那就是蒂姆。”"
+    },
+    {
+      "original": "He bought a suit.\" I ran after him, and sure enough, it was. He explained that he'd just bought it in Thailand.The 2005 Web 2.0 conference reminded me of Internet trade shows during the Bubble, full of prowling VCs looking for the next hot startup.",
+      "translated": "他买了一套西装。”我追上他，果然如此。他解释说他刚在泰国买的。2005年的Web 2.0大会让我想起了互联网泡沫时期的贸易展览，到处都是寻找下一个热门创业公司的风险投资家。"
+    },
+    {
+      "original": "There was that same odd atmosphere created by a large number of people determined not to miss out. Miss out on what? They didn't know. Whatever was going to happen—whatever Web 2.0 turned out to be.I wouldn't quite call it \"Bubble 2.0\" just because VCs are eager to invest again.",
+      "translated": "有一种同样的奇怪氛围，是由大量不愿错过的人都聚集在一起而形成的。错过什么呢？他们自己也不清楚。不管会发生什么——不管Web 2.0最终会变成什么。我不会仅仅因为风险投资家们再次热衷于投资就称之为“泡沫2.0”。"
+    },
+    {
+      "original": "The Internet is a genuinely big deal. The bust was as much an overreaction as the boom. It's to be expected that once we started to pull out of the bust, there would be a lot of growth in this area, just as there was in the industries that spiked the sharpest before the Depression.The reason this won't turn into a second Bubble is that the IPO market is gone.",
+      "translated": "互联网确实是一件大事。互联网泡沫的破裂与之前的繁荣一样，都是过度反应。可以预料，当我们开始走出萧条时，这个领域会出现大量增长，就像大萧条前那些快速增长的行业一样。这次不会形成第二个泡沫的原因是首次公开募股市场已经不复存在。"
+    },
+    {
+      "original": "Venture investors are driven by exit strategies. The reason they were funding all those laughable startups during the late 90s was that they hoped to sell them to gullible retail investors; they hoped to be laughing all the way to the bank.",
+      "translated": "风险投资者的行动受退出策略的驱动。90年代末，他们资助那些看似荒谬的初创公司，是因为希望将这些公司出售给轻信的散户投资者；他们希望这样做能让他们一路笑到银行。"
+    },
+    {
+      "original": "Now that route is closed. Now the default exit strategy is to get bought, and acquirers are less prone to irrational exuberance than IPO investors. The closest you'll get to Bubble valuations is Rupert Murdoch paying $580 million for Myspace.",
+      "translated": "现在这条路已经关闭。目前的默认退出策略是被收购，而收购方比IPO投资者更不容易出现非理性繁荣。你最接近泡沫估值的情况就是鲁珀特·默多克以5.8亿美元收购MySpace。"
+    },
+    {
+      "original": "That's only off by a factor of 10 or so.1. AjaxDoes \"Web 2.0\" mean anything more than the name of a conference yet? I don't like to admit it, but it's starting to. When people say \"Web 2.0\" now, I have some idea what they mean.",
+      "translated": "那只是相差大约10倍而已。1. Ajax“Web 2.0”除了作为一个会议的名称之外，还有什么更多的含义吗？虽然我不愿意承认，但它确实开始有了。现在当人们说“Web 2.0”时，我大概知道他们指的是什么。"
+    },
+    {
+      "original": "And the fact that I both despise the phrase and understand it is the surest proof that it has started to mean something.One ingredient of its meaning is certainly Ajax, which I can still only just bear to use without scare quotes.",
+      "translated": "我既厌恶这个短语，又理解它的意思，这无疑是它已经开始具有某种意义的最好证明。这个意义的一个成分当然是Ajax，这个词汇我现在勉强还能在不加引号的情况下使用。"
+    },
+    {
+      "original": "Basically, what \"Ajax\" means is \"Javascript now works.\" And that in turn means that web-based applications can now be made to work much more like desktop ones.As you read this, a whole new generation of software is being written to take advantage of Ajax.",
+      "translated": "基本上，“Ajax”意味着“JavaScript 现在可以正常工作了。”而这又意味着基于网络的应用程序现在可以被制作得更像桌面应用程序。当你阅读这段文字时，新一代的软件正在被编写以利用 Ajax。"
+    },
+    {
+      "original": "There hasn't been such a wave of new applications since microcomputers first appeared. Even Microsoft sees it, but it's too late for them to do anything more than leak \"internal\" documents designed to give the impression they're on top of this new trend.In fact the new generation of software is being written way too fast for Microsoft even to channel it, let alone write their own in house.",
+      "translated": "自微型计算机首次出现以来，还没有出现过如此多的新应用浪潮。就连微软也看到了这一点，但对于他们来说，除了泄露一些“内部”文件以营造出他们已经掌握了这一新趋势的假象外，已经为时太晚，无法采取更多行动。事实上，新一代软件的开发速度之快，以至于微软甚至连引导这一趋势都力不从心，更不用说自行开发了。"
+    },
+    {
+      "original": "Their only hope now is to buy all the best Ajax startups before Google does. And even that's going to be hard, because Google has as big a head start in buying microstartups as it did in search a few years ago.",
+      "translated": "他们现在唯一的希望是在谷歌之前收购所有最好的Ajax初创公司。即便如此，这也将会很难，因为谷歌在收购微型初创公司方面，就像几年前在搜索领域一样，已经有了很大的先发优势。"
+    },
+    {
+      "original": "After all, Google Maps, the canonical Ajax application, was the result of a startup they bought.So ironically the original description of the Web 2.0 conference turned out to be partially right: web-based applications are a big component of Web 2.0.",
+      "translated": "毕竟，Google 地图，这个经典的 Ajax 应用程序，是他们收购的一家初创公司的成果。所以，具有讽刺意味的是，Web 2.0 大会最初的描述部分是正确的：基于网络的应用程序确实是 Web 2.0 的重要组成部分。"
+    },
+    {
+      "original": "But I'm convinced they got this right by accident. The Ajax boom didn't start till early 2005, when Google Maps appeared and the term \"Ajax\" was coined.2. DemocracyThe second big element of Web 2.0 is democracy.",
+      "translated": "但我相信他们这是碰巧做对了。Ajax的热潮直到2005年初才开始，当时Google Maps出现，并且“Ajax”这个词被创造出来。2. 民主第二个构成Web 2.0的重要元素是民主。"
+    },
+    {
+      "original": "We now have several examples to prove that amateurs can surpass professionals, when they have the right kind of system to channel their efforts. Wikipedia may be the most famous. Experts have given Wikipedia middling reviews, but they miss the critical point: it's good enough.",
+      "translated": "我们现在有几个例子可以证明，当业余爱好者拥有合适的系统来引导他们的努力时，他们可以超越专业人士。最著名的例子可能就是维基百科了。专家们对维基百科的评价参差不齐，但他们忽略了关键的一点：它已经足够好。"
+    },
+    {
+      "original": "And it's free, which means people actually read it. On the web, articles you have to pay for might as well not exist. Even if you were willing to pay to read them yourself, you can't link to them. They're not part of the conversation.Another place democracy seems to win is in deciding what counts as news.",
+      "translated": "而且它是免费的，这意味着人们真的会去读它。在网络上，那些需要付费的文章几乎等同于不存在。即使你自己愿意付费阅读，也无法将它们链接给他人。它们不参与任何讨论。另一个民主似乎占上风的地方是决定什么算作新闻。"
+    },
+    {
+      "original": "I never look at any news site now except Reddit. [2] I know if something major happens, or someone writes a particularly interesting article, it will show up there. Why bother checking the front page of any specific paper or magazine?",
+      "translated": "我现在除了Reddit以外，从不看任何新闻网站。[2] 我知道如果有大事发生，或者有人写了一篇特别有趣的文章，那里会出现。何必去查看任何特定报纸或杂志的首页呢？"
+    },
+    {
+      "original": "Reddit's like an RSS feed for the whole web, with a filter for quality. Similar sites include Digg, a technology news site that's rapidly approaching Slashdot in popularity, and del.icio.us, the collaborative bookmarking network that set off the \"tagging\" movement.",
+      "translated": "Reddit 就像是整个网络的 RSS 订阅源，带有质量过滤器。类似的网站包括 Digg，一个技术新闻网站，其受欢迎程度正迅速接近 Slashdot，以及 del.icio.us，这个协作式书签网络引发了“标签”运动。"
+    },
+    {
+      "original": "And whereas Wikipedia's main appeal is that it's good enough and free, these sites suggest that voters do a significantly better job than human editors.The most dramatic example of Web 2.0 democracy is not in the selection of ideas, but their production.",
+      "translated": "而维基百科的主要吸引力在于它既够用又免费，这些网站则表明，用户群体的工作效果显著优于人类编辑。Web 2.0 民主的最显著例子不在于观点的选择，而在于观点的产生。"
+    },
+    {
+      "original": "I've noticed for a while that the stuff I read on individual people's sites is as good as or better than the stuff I read in newspapers and magazines. And now I have independent evidence: the top links on Reddit are generally links to individual people's sites rather than to magazine articles or news stories.My experience of writing for magazines suggests an explanation.",
+      "translated": "我注意到，一段时间以来，我在个人网站上读到的内容，质量与我在报纸和杂志上读到的一样好，甚至更好。现在我有了独立的证据：Reddit上的顶级链接通常是指向个人网站，而不是杂志文章或新闻报道。我为杂志撰稿的经验提供了一个解释。"
+    },
+    {
+      "original": "Editors. They control the topics you can write about, and they can generally rewrite whatever you produce. The result is to damp extremes. Editing yields 95th percentile writing—95% of articles are improved by it, but 5% are dragged down.",
+      "translated": "编辑。他们控制你可以撰写的主题，并且通常可以改写你所产出的内容。结果是抑制极端情况。编辑能够产出95百分位的文章——95%的文章通过编辑得到了改善，但5%的文章却被拉低了水平。"
+    },
+    {
+      "original": "5% of the time you get \"throngs of geeks.\"On the web, people can publish whatever they want. Nearly all of it falls short of the editor-damped writing in print publications. But the pool of writers is very, very large.",
+      "translated": "5% 的时候你会得到“一群极客”。在网上，人们可以发布他们想要的任何内容。几乎所有这些内容都达不到印刷出版物中经过编辑润色的写作水平。但作者的基数非常大。"
+    },
+    {
+      "original": "If it's large enough, the lack of damping means the best writing online should surpass the best in print. [3] And now that the web has evolved mechanisms for selecting good stuff, the web wins net. Selection beats damping, for the same reason market economies beat centrally planned ones.Even the startups are different this time around.",
+      "translated": "如果规模足够大，缺乏阻尼意味着网上最佳的写作应该超过印刷品中的最佳作品。[3] 而现在，随着网络发展出选择优质内容的机制，网络整体上胜出。选择胜过阻尼，就像市场经济胜过中央计划经济一样。即使是这次的初创公司也有所不同。"
+    },
+    {
+      "original": "They are to the startups of the Bubble what bloggers are to the print media. During the Bubble, a startup meant a company headed by an MBA that was blowing through several million dollars of VC money to \"get big fast\" in the most literal sense.",
+      "translated": "他们对于泡沫时期的初创企业来说，就像博客作者对于印刷媒体一样。在泡沫时期，初创企业指的是由MBA领导的公司，它们用风险投资的数百万美元来“快速做大”，这里的“快速做大”是最直接意义上的。"
+    },
+    {
+      "original": "Now it means a smaller, younger, more technical group that just decided to make something great. They'll decide later if they want to raise VC-scale funding, and if they take it, they'll take it on their terms.3.",
+      "translated": "现在，它指的是一群规模较小、较为年轻、更具技术背景的人，他们决定要创造一些伟大的东西。他们会在之后决定是否要筹集风险投资规模的资金，如果接受，也会按照自己的条件来接受。"
+    },
+    {
+      "original": "Don't Maltreat UsersI think everyone would agree that democracy and Ajax are elements of \"Web 2.0.\" I also see a third: not to maltreat users. During the Bubble a lot of popular sites were quite high-handed with users.",
+      "translated": "不要虐待用户\n\n我认为每个人都同意民主和Ajax是“Web 2.0”的元素。我还看到了第三个：不要虐待用户。在互联网泡沫时期，很多受欢迎的网站对用户的态度相当傲慢。"
+    },
+    {
+      "original": "And not just in obvious ways, like making them register, or subjecting them to annoying ads. The very design of the average site in the late 90s was an abuse. Many of the most popular sites were loaded with obtrusive branding that made them slow to load and sent the user the message: this is our site, not yours.",
+      "translated": "而且不仅仅是通过让他们注册或强迫他们看烦人的广告这种方式。20世纪90年代末，普通网站的设计本身就是一个侵权行为。许多最受欢迎的网站充斥着显眼的品牌标识，这不仅让页面加载缓慢，还向用户传递了一个信息：这是我们的网站，不是你的。"
+    },
+    {
+      "original": "(There's a physical analog in the Intel and Microsoft stickers that come on some laptops.)I think the root of the problem was that sites felt they were giving something away for free, and till recently a company giving anything away for free could be pretty high-handed about it.",
+      "translated": "（这有点像某些笔记本电脑上贴的英特尔和微软的标签。）我认为问题的根源在于，网站觉得自己在免费提供某种东西，而直到最近，公司对于免费提供任何东西都可能表现出相当专横的态度。"
+    },
+    {
+      "original": "Sometimes it reached the point of economic sadism: site owners assumed that the more pain they caused the user, the more benefit it must be to them. The most dramatic remnant of this model may be at salon.com, where you can read the beginning of a story, but to get the rest you have sit through a movie.At Y Combinator we advise all the startups we fund never to lord it over users.",
+      "translated": "有时这甚至达到了经济施虐的程度：网站所有者认为，他们给用户造成的痛苦越大，对自己就越有利。这种模式最戏剧性的残余可能出现在沙龙网站（salon.com）上，你可以在那里阅读一篇故事的开头，但要想读到其余部分，你必须看完一部电影。在Y Combinator，我们建议我们资助的所有初创公司永远不要对用户摆出高高在上的姿态。"
+    },
+    {
+      "original": "Never make users register, unless you need to in order to store something for them. If you do make users register, never make them wait for a confirmation link in an email; in fact, don't even ask for their email address unless you need it for some reason.",
+      "translated": "除非需要为用户存储某些信息，否则不要让用户注册。如果确实需要用户注册，千万不要让他们等待电子邮件中的确认链接；实际上，除非有特定原因，否则也不要索要他们的电子邮件地址。"
+    },
+    {
+      "original": "Don't ask them any unnecessary questions. Never send them email unless they explicitly ask for it. Never frame pages you link to, or open them in new windows. If you have a free version and a pay version, don't make the free version too restricted.",
+      "translated": "不要问他们任何不必要的问题。除非他们明确要求，否则不要给他们发邮件。不要将你链接的页面嵌入框架中，也不要将它们在新窗口中打开。如果你有免费版本和付费版本，不要让免费版本过于受限。"
+    },
+    {
+      "original": "And if you find yourself asking \"should we allow users to do x?\" just answer \"yes\" whenever you're unsure. Err on the side of generosity.In How to Start a Startup I advised startups never to let anyone fly under them, meaning never to let any other company offer a cheaper, easier solution.",
+      "translated": "如果你发现自己在问“我们应该允许用户做x吗？”在不确定时就回答“是”。倾向于慷慨。在《如何创业》中，我建议初创公司永远不要让任何人从他们下方飞过，意思是不要让任何其他公司提供更便宜、更容易的解决方案。"
+    },
+    {
+      "original": "Another way to fly low is to give users more power. Let users do what they want. If you don't and a competitor does, you're in trouble.iTunes is Web 2.0ish in this sense. Finally you can buy individual songs instead of having to buy whole albums.",
+      "translated": "另一种贴近用户的方法是赋予用户更多的权力。让用户做他们想做的事情。如果你不这样做，而你的竞争对手做到了，那你就有麻烦了。从这个意义上说，iTunes 具有 Web 2.0 的特点。最终，你可以单独购买单曲，而不再需要购买整张专辑。"
+    },
+    {
+      "original": "The recording industry hated the idea and resisted it as long as possible. But it was obvious what users wanted, so Apple flew under the labels. [4] Though really it might be better to describe iTunes as Web 1.5.",
+      "translated": "唱片行业讨厌这个想法，并尽可能地抵制它。但用户的需求显而易见，所以苹果绕开了唱片公司。[4] 虽然实际上，将iTunes描述为Web 1.5可能更为恰当。"
+    },
+    {
+      "original": "Web 2.0 applied to music would probably mean individual bands giving away DRMless songs for free.The ultimate way to be nice to users is to give them something for free that competitors charge for. During the 90s a lot of people probably thought we'd have some working system for micropayments by now.",
+      "translated": "Web 2.0 应用于音乐，可能意味着各个乐队免费提供无数字版权管理（DRM）的歌曲。对用户最好的方式莫过于免费提供竞争对手收费的内容。在 90 年代，很多人可能认为我们现在应该已经有一个有效的微支付系统了。"
+    },
+    {
+      "original": "In fact things have gone in the other direction. The most successful sites are the ones that figure out new ways to give stuff away for free. Craigslist has largely destroyed the classified ad sites of the 90s, and OkCupid looks likely to do the same to the previous generation of dating sites.Serving web pages is very, very cheap.",
+      "translated": "事实上，情况恰恰相反。最成功的网站是那些找到新方法免费提供内容的网站。Craigslist 已经极大地破坏了 90 年代的分类广告网站，而 OkCupid 似乎也有望对上一代的约会网站造成同样的影响。提供网页服务的成本非常非常低。"
+    },
+    {
+      "original": "If you can make even a fraction of a cent per page view, you can make a profit. And technology for targeting ads continues to improve. I wouldn't be surprised if ten years from now eBay had been supplanted by an ad-supported freeBay (or, more likely, gBay).Odd as it might sound, we tell startups that they should try to make as little money as possible.",
+      "translated": "如果你每页浏览量能赚到哪怕几分钱，你就能盈利。而且针对广告的技术还在不断进步。我不会对十年后eBay被一个靠广告支持的免费Bay（或者更有可能是gBay）所取代感到惊讶。尽管听起来可能有些奇怪，但我们还是建议初创公司尽量少赚钱。"
+    },
+    {
+      "original": "If you can figure out a way to turn a billion dollar industry into a fifty million dollar industry, so much the better, if all fifty million go to you. Though indeed, making things cheaper often turns out to generate more money in the end, just as automating things often turns out to generate more jobs.The ultimate target is Microsoft.",
+      "translated": "如果你能找到一种方法将一个十亿美元的产业变成五千万美元的产业，那就更好了，前提是这五千万都归你。虽然确实，降低成本通常最终会带来更多的收益，正如自动化通常最终会创造更多的就业机会一样。最终的目标是微软。"
+    },
+    {
+      "original": "What a bang that balloon is going to make when someone pops it by offering a free web-based alternative to MS Office. [5] Who will? Google? They seem to be taking their time. I suspect the pin will be wielded by a couple of 20 year old hackers who are too naive to be intimidated by the idea.",
+      "translated": "当有人提供一个免费的基于网络的MS Office替代品时，那个气球将会发出多大的声响啊。[5] 谁会这样做呢？是谷歌吗？他们似乎在慢慢来。我猜，最终捅破这个气球的将会是一两个二十岁的黑客，他们太天真了，不会被这个想法所吓倒。"
+    },
+    {
+      "original": "(How hard can it be?)The Common ThreadAjax, democracy, and not dissing users. What do they all have in common? I didn't realize they had anything in common till recently, which is one of the reasons I disliked the term \"Web 2.0\" so much.",
+      "translated": "（这有多难？）共同的线索：Ajax、民主和不轻视用户。它们之间有什么共同点？直到最近我才意识到它们之间存在联系，这也是我曾经如此不喜欢“Web 2.0”这个术语的原因之一。"
+    },
+    {
+      "original": "It seemed that it was being used as a label for whatever happened to be new—that it didn't predict anything.But there is a common thread. Web 2.0 means using the web the way it's meant to be used. The \"trends\" we're seeing now are simply the inherent nature of the web emerging from under the broken models that got imposed on it during the Bubble.I realized this when I read an interview with Joe Kraus, the co-founder of Excite.",
+      "translated": "似乎它被用作标签示意任何新事物——但这并不意味着什么。但有一个共同点。Web 2.0 意味着以它应有的方式使用网络。我们现在看到的“趋势”只不过是网络的内在特性从泡沫时期强加在其上的错误模型中显现出来。当我在阅读 Excite 的联合创始人乔·克劳斯的一篇采访时意识到了这一点。"
+    },
+    {
+      "original": "[6] Excite really never got the business model right at all. We fell into the classic problem of how when a new medium comes out it adopts the practices, the content, the business models of the old medium—which fails, and then the more appropriate models get figured out.",
+      "translated": "[6] Excite 确实从未找到正确的商业模式。我们陷入了经典的困境：当一种新媒介出现时，它会采用旧媒介的实践、内容和商业模式——这往往会失败，然后更加合适的模式才会被摸索出来。"
+    },
+    {
+      "original": "It may have seemed as if not much was happening during the years after the Bubble burst. But in retrospect, something was happening: the web was finding its natural angle of repose. The democracy component, for example—that's not an innovation, in the sense of something someone made happen.",
+      "translated": "在互联网泡沫破裂后的几年里，可能看起来没有什么大事发生。但事后看来，确实发生了一些事情：网络正在找到其自然的平衡点。例如，民主成分——这并不是某种创新，不是某个人刻意创造出来的。"
+    },
+    {
+      "original": "That's what the web naturally tends to produce.Ditto for the idea of delivering desktop-like applications over the web. That idea is almost as old as the web. But the first time around it was co-opted by Sun, and we got Java applets.",
+      "translated": "这就是网络自然倾向于产生的结果。同样，通过网络交付类似桌面应用程序的想法几乎与网络一样古老。但第一次尝试时，这一想法被Sun公司所利用，于是我们得到了Java小程序。"
+    },
+    {
+      "original": "Java has since been remade into a generic replacement for C++, but in 1996 the story about Java was that it represented a new model of software. Instead of desktop applications, you'd run Java \"applets\" delivered from a server.This plan collapsed under its own weight.",
+      "translated": "自那以后，Java 已经被重塑为 C++ 的通用替代品，但在 1996 年，Java 的故事是它代表了一种新的软件模型。人们设想的不是桌面应用程序，而是从服务器交付的 Java“小程序”。这一计划最终因自身的重量而崩溃。"
+    },
+    {
+      "original": "Microsoft helped kill it, but it would have died anyway. There was no uptake among hackers. When you find PR firms promoting something as the next development platform, you can be sure it's not. If it were, you wouldn't need PR firms to tell you, because hackers would already be writing stuff on top of it, the way sites like Busmonster used Google Maps as a platform before Google even meant it to be one.The proof that Ajax is the next hot platform is that thousands of hackers have spontaneously started building things on top of it.",
+      "translated": "微软帮着把它干掉了，但它本来也会消亡。在黑客中并没有得到采用。当你发现公关公司在鼓吹某样东西是下一个开发平台时，你可以肯定它不是。如果是的话，你就不需要公关公司来告诉你，因为黑客们已经在上面开发东西了，就像 Busmonster 在 Google 打算将其作为平台之前，就已经将 Google Maps 用作平台一样。证明 Ajax 是下一个热门平台的证据是，成千上万的黑客自发地开始在其基础上构建东西。"
+    },
+    {
+      "original": "Mikey likes it.There's another thing all three components of Web 2.0 have in common. Here's a clue. Suppose you approached investors with the following idea for a Web 2.0 startup: Sites like del.icio.us and flickr allow users to \"tag\" content with descriptive tokens.",
+      "translated": "米基喜欢它。还有另一点，Web 2.0 的三个组成部分都有一个共同点。这里有个提示。假设你向投资者提出了以下 Web 2.0 创业的想法：像 del.icio.us 和 flickr 这样的网站允许用户用描述性标签对内容进行“标记”。"
+    },
+    {
+      "original": "But there is also huge source of implicit tags that they ignore: the text within web links. Moreover, these links represent a social network connecting the individuals and organizations who created the pages, and by using graph theory we can compute from this network an estimate of the reputation of each member.",
+      "translated": "但他们忽视了一个巨大的隐性标签来源：网页链接中的文本。此外，这些链接代表了一个将页面创建者（个人和组织）联系起来的社会网络，通过运用图论，我们可以从这个网络中计算出每个成员的声誉估计值。"
+    },
+    {
+      "original": "We plan to mine the web for these implicit tags, and use them together with the reputation hierarchy they embody to enhance web searches. How long do you think it would take them on average to realize that it was a description of Google?Google was a pioneer in all three components of Web 2.0: their core business sounds crushingly hip when described in Web 2.0 terms, \"Don't maltreat users\" is a subset of \"Don't be evil,\" and of course Google set off the whole Ajax boom with Google Maps.Web 2.0 means using the web as it was meant to be used, and Google does.",
+      "translated": "我们计划从网络中挖掘这些隐含的标签，并利用它们以及其所体现的声誉层次来增强网络搜索。你认为他们平均需要多长时间才能意识到这是对谷歌的描述？谷歌在Web 2.0的三个组成部分中都是先驱：用Web 2.0的术语描述，其核心业务听起来酷到令人难以置信，“不要虐待用户”是“不要作恶”的一个子集，当然，谷歌还通过谷歌地图引发了整个Ajax热潮。Web 2.0意味着按照网络原本的用途来使用它，而谷歌正是这样做的。"
+    },
+    {
+      "original": "That's their secret. They're sailing with the wind, instead of sitting becalmed praying for a business model, like the print media, or trying to tack upwind by suing their customers, like Microsoft and the record labels.",
+      "translated": "这就是他们的秘密。他们顺风航行，而不是像印刷媒体那样停滞不前，祈求商业模式，或是像微软和唱片公司那样通过起诉客户来逆风而行。"
+    },
+    {
+      "original": "[7]Google doesn't try to force things to happen their way. They try to figure out what's going to happen, and arrange to be standing there when it does. That's the way to approach technology—and as business includes an ever larger technological component, the right way to do business.The fact that Google is a \"Web 2.0\" company shows that, while meaningful, the term is also rather bogus.",
+      "translated": "[7]谷歌不会试图强迫事情按自己的方式发生。他们会努力弄清楚即将发生什么，并设法在事情发生时站在那里。这是对待技术的态度——而随着商业中技术成分的不断增加，这也是正确的经商之道。谷歌是一家“Web 2.0”公司这一事实表明，虽然这个术语有意义，但也相当空洞。"
+    },
+    {
+      "original": "It's like the word \"allopathic.\" It just means doing things right, and it's a bad sign when you have a special word for that. Notes[1] From the conference site, June 2004: \"While the first wave of the Web was closely tied to the browser, the second wave extends applications across the web and enables a new generation of services and business opportunities.\" To the extent this means anything, it seems to be about web-based applications.[2] Disclosure: Reddit was funded by Y Combinator.",
+      "translated": "就像“对立疗法”这个词一样，它只是意味着做事情是正确的，而当你需要一个专门的词来表示这一点时，这其实是一个不好的迹象。注释[1] 来自2004年6月的会议现场：“虽然互联网的第一波浪潮与浏览器紧密相关，但第二波浪潮将应用程序扩展到整个网络，开启了新一代的服务和商业机遇。” 如果这有什么意义的话，似乎是指基于网络的应用程序。[2] 披露：Reddit是由Y Combinator资助的。"
+    },
+    {
+      "original": "But although I started using it out of loyalty to the home team, I've become a genuine addict. While we're at it, I'm also an investor in !MSFT, having sold all my shares earlier this year.[3] I'm not against editing.",
+      "translated": "但尽管我是出于对本土团队的忠诚开始使用它的，现在我已经成了真正的发烧友。顺便说一下，我也是微软的投资者，不过在今年早些时候我已经卖掉了所有股份。我并不反对编辑。"
+    },
+    {
+      "original": "I spend more time editing than writing, and I have a group of picky friends who proofread almost everything I write. What I dislike is editing done after the fact by someone else.[4] Obvious is an understatement.",
+      "translated": "我花在编辑上的时间比写作还要多，而且我有一群挑剔的朋友几乎会校对我的所有作品。我不喜欢的是事后由别人进行的编辑。[4] 显而易见，这还是轻描淡写了。"
+    },
+    {
+      "original": "Users had been climbing in through the window for years before Apple finally moved the door.[5] Hint: the way to create a web-based alternative to Office may not be to write every component yourself, but to establish a protocol for web-based apps to share a virtual home directory spread across multiple servers.",
+      "translated": "用户多年来一直通过窗户爬进来，直到苹果终于把门移开了。[5] 提示：创建一个基于网络的Office替代品的方法可能不是自己编写每一个组件，而是建立一个协议，让基于网络的应用程序能够共享一个分布在多个服务器上的虚拟主目录。"
+    },
+    {
+      "original": "Or it may be to write it all yourself.[6] In Jessica Livingston's Founders at Work.[7] Microsoft didn't sue their customers directly, but they seem to have done all they could to help SCO sue them.Thanks to Trevor Blackwell, Sarah Harlin, Jessica Livingston, Peter Norvig, Aaron Swartz, and Jeff Weiner for reading drafts of this, and to the guys at O'Reilly and Adaptive Path for answering my questions.Interview About Web 2.0Spanish TranslationGerman TranslationRussian TranslationJapanese Translation If you liked this, you may also like Hackers & Painters.",
+      "translated": "或者你可以自己全部编写。[6] 在杰西卡·利文斯顿的《创业者访谈录》中。[7] 微软没有直接起诉他们的客户，但他们似乎竭尽全力帮助SCO起诉他们。感谢特雷弗·布莱克威尔、莎拉·哈林、杰西卡·利文斯顿、彼得·诺维格、阿伦·斯沃茨和杰夫·韦纳审阅本文草稿，感谢O'Reilly和Adaptive Path的团队回答我的问题。关于Web 2.0的访谈西班牙语翻译德语翻译俄语翻译日语翻译如果你喜欢这篇文章，你可能也会喜欢《黑客与画家》。"
+    }
+  ],
+  "translation_completed": "2025-07-29T01:46:55.239325",
+  "translation_stats": {
+    "total_paragraphs": 65,
+    "success_count": 65,
+    "success_rate": "100.0%"
+  }
+}

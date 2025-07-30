@@ -1,0 +1,214 @@
+{
+  "title": "Made in USA",
+  "title_zh": "[待翻译] Made in USA",
+  "url": "https://www.paulgraham.com/usa.html",
+  "filename": "usa.html",
+  "date": "2004-11-01",
+  "id": 211,
+  "content": {
+    "success": true,
+    "paragraphs": [
+      "November 2004(This is a new essay for the Japanese edition of Hackers & Painters. It tries to explain why Americans make some things well and others badly.)A few years ago an Italian friend of mine travelled by train from Boston to Providence.",
+      "She had only been in America for a couple weeks and hadn't seen much of the country yet. She arrived looking astonished. \"It's so ugly!\"People from other rich countries can scarcely imagine the squalor of the man-made bits of America.",
+      "In travel books they show you mostly natural environments: the Grand Canyon, whitewater rafting, horses in a field. If you see pictures with man-made things in them, it will be either a view of the New York skyline shot from a discreet distance, or a carefully cropped image of a seacoast town in Maine.How can it be, visitors must wonder.",
+      "How can the richest country in the world look like this?Oddly enough, it may not be a coincidence. Americans are good at some things and bad at others. We're good at making movies and software, and bad at making cars and cities.",
+      "And I think we may be good at what we're good at for the same reason we're bad at what we're bad at. We're impatient. In America, if you want to do something, you don't worry that it might come out badly, or upset delicate social balances, or that people might think you're getting above yourself.",
+      "If you want to do something, as Nike says, just do it.This works well in some fields and badly in others. I suspect it works in movies and software because they're both messy processes. \"Systematic\" is the last word I'd use to describe the way good programmers write software.",
+      "Code is not something they assemble painstakingly after careful planning, like the pyramids. It's something they plunge into, working fast and constantly changing their minds, like a charcoal sketch.In software, paradoxical as it sounds, good craftsmanship means working fast.",
+      "If you work slowly and meticulously, you merely end up with a very fine implementation of your initial, mistaken idea. Working slowly and meticulously is premature optimization. Better to get a prototype done fast, and see what new ideas it gives you.It sounds like making movies works a lot like making software.",
+      "Every movie is a Frankenstein, full of imperfections and usually quite different from what was originally envisioned. But interesting, and finished fairly quickly. I think we get away with this in movies and software because they're both malleable mediums.",
+      "Boldness pays. And if at the last minute two parts don't quite fit, you can figure out some hack that will at least conceal the problem.Not so with cars, or cities. They are all too physical. If the car business worked like software or movies, you'd surpass your competitors by making a car that weighed only fifty pounds, or folded up to the size of a motorcycle when you wanted to park it.",
+      "But with physical products there are more constraints. You don't win by dramatic innovations so much as by good taste and attention to detail.The trouble is, the very word \"taste\" sounds slightly ridiculous to American ears.",
+      "It seems pretentious, or frivolous, or even effeminate. Blue staters think it's \"subjective,\" and red staters think it's for sissies. So anyone in America who really cares about design will be sailing upwind.Twenty years ago we used to hear that the problem with the US car industry was the workers.",
+      "We don't hear that any more now that Japanese companies are building cars in the US. The problem with American cars is bad design. You can see that just by looking at them.All that extra sheet metal on the AMC Matador wasn't added by the workers.",
+      "The problem with this car, as with American cars today, is that it was designed by marketing people instead of designers.Why do the Japanese make better cars than us? Some say it's because their culture encourages cooperation.",
+      "That may come into it. But in this case it seems more to the point that their culture prizes design and craftsmanship.For centuries the Japanese have made finer things than we have in the West. When you look at swords they made in 1200, you just can't believe the date on the label is right.",
+      "Presumably their cars fit together more precisely than ours for the same reason their joinery always has. They're obsessed with making things well.Not us. When we make something in America, our aim is just to get the job done.",
+      "Once we reach that point, we take one of two routes. We can stop there, and have something crude but serviceable, like a Vise-grip. Or we can improve it, which usually means encrusting it with gratuitous ornament.",
+      "When we want to make a car \"better,\" we stick tail fins on it, or make it longer, or make the windows smaller, depending on the current fashion.Ditto for houses. In America you can have either a flimsy box banged together out of two by fours and drywall, or a McMansion-- a flimsy box banged together out of two by fours and drywall, but larger, more dramatic-looking, and full of expensive fittings.",
+      "Rich people don't get better design or craftsmanship; they just get a larger, more conspicuous version of the standard house.We don't especially prize design or craftsmanship here. What we like is speed, and we're willing to do something in an ugly way to get it done fast.",
+      "In some fields, like software or movies, this is a net win. But it's not just that software and movies are malleable mediums. In those businesses, the designers (though they're not generally called that) have more power.",
+      "Software companies, at least successful ones, tend to be run by programmers. And in the film industry, though producers may second-guess directors, the director controls most of what appears on the screen.",
+      "And so American software and movies, and Japanese cars, all have this in common: the people in charge care about design-- the former because the designers are in charge, and the latter because the whole culture cares about design.I think most Japanese executives would be horrified at the idea of making a bad car.",
+      "Whereas American executives, in their hearts, still believe the most important thing about a car is the image it projects. Make a good car? What's \"good?\" It's so subjective. If you want to know how to design a car, ask a focus group.Instead of relying on their own internal design compass (like Henry Ford did), American car companies try to make what marketing people think consumers want.",
+      "But it isn't working. American cars continue to lose market share. And the reason is that the customer doesn't want what he thinks he wants.Letting focus groups design your cars for you only wins in the short term.",
+      "In the long term, it pays to bet on good design. The focus group may say they want the meretricious feature du jour, but what they want even more is to imitate sophisticated buyers, and they, though a small minority, really do care about good design.",
+      "Eventually the pimps and drug dealers notice that the doctors and lawyers have switched from Cadillac to Lexus, and do the same.Apple is an interesting counterexample to the general American trend. If you want to buy a nice CD player, you'll probably buy a Japanese one.",
+      "But if you want to buy an MP3 player, you'll probably buy an iPod. What happened? Why doesn't Sony dominate MP3 players? Because Apple is in the consumer electronics business now, and unlike other American companies, they're obsessed with good design.",
+      "Or more precisely, their CEO is.I just got an iPod, and it's not just nice. It's surprisingly nice. For it to surprise me, it must be satisfying expectations I didn't know I had. No focus group is going to discover those.",
+      "Only a great designer can.Cars aren't the worst thing we make in America. Where the just-do-it model fails most dramatically is in our cities-- or rather, exurbs. If real estate developers operated on a large enough scale, if they built whole towns, market forces would compel them to build towns that didn't suck.",
+      "But they only build a couple office buildings or suburban streets at a time, and the result is so depressing that the inhabitants consider it a great treat to fly to Europe and spend a couple weeks living what is, for people there, just everyday life.",
+      "[1]But the just-do-it model does have advantages. It seems the clear winner for generating wealth and technical innovations (which are practically the same thing). I think speed is the reason. It's hard to create wealth by making a commodity.",
+      "The real value is in things that are new, and if you want to be the first to make something, it helps to work fast. For better or worse, the just-do-it model is fast, whether you're Dan Bricklin writing the prototype of VisiCalc in a weekend, or a real estate developer building a block of shoddy condos in a month.If I had to choose between the just-do-it model and the careful model, I'd probably choose just-do-it.",
+      "But do we have to choose? Could we have it both ways? Could Americans have nice places to live without undermining the impatient, individualistic spirit that makes us good at software? Could other countries introduce more individualism into their technology companies and research labs without having it metastasize as strip malls?",
+      "I'm optimistic. It's harder to say about other countries, but in the US, at least, I think we can have both.Apple is an encouraging example. They've managed to preserve enough of the impatient, hackerly spirit you need to write software.",
+      "And yet when you pick up a new Apple laptop, well, it doesn't seem American. It's too perfect. It seems as if it must have been made by a Swedish or a Japanese company.In many technologies, version 2 has higher resolution.",
+      "Why not in design generally? I think we'll gradually see national characters superseded by occupational characters: hackers in Japan will be allowed to behave with a willfulness that would now seem unJapanese, and products in America will be designed with an insistence on taste that would now seem unAmerican.",
+      "Perhaps the most successful countries, in the future, will be those most willing to ignore what are now considered national characters, and do each kind of work in the way that works best. Race you.Notes[1] Japanese cities are ugly too, but for different reasons.",
+      "Japan is prone to earthquakes, so buildings are traditionally seen as temporary; there is no grand tradition of city planning like the one Europeans inherited from Rome. The other cause is the notoriously corrupt relationship between the government and construction companies.Thanks to Trevor Blackwell, Barry Eisler, Sarah Harlin, Shiro Kawai, Jessica Livingston, Jackie McDonough, Robert Morris, and Eric Raymond for reading drafts of this.American GothicThe John Rain Books"
+    ],
+    "word_count": 1820,
+    "paragraph_count": 38
+  },
+  "processed_at": "2025-07-26T19:08:21.276902",
+  "paragraphs": [
+    {
+      "original": "November 2004(This is a new essay for the Japanese edition of Hackers & Painters. It tries to explain why Americans make some things well and others badly.)A few years ago an Italian friend of mine travelled by train from Boston to Providence.",
+      "translated": "2004年11月（这是为《黑客与画家》的日本版撰写的一篇新文章。试图解释为什么美国人有些事情做得好，有些则做得不好。）几年前，我的一位意大利朋友从波士顿乘火车前往普罗维登斯。"
+    },
+    {
+      "original": "She had only been in America for a couple weeks and hadn't seen much of the country yet. She arrived looking astonished. \"It's so ugly!\"People from other rich countries can scarcely imagine the squalor of the man-made bits of America.",
+      "translated": "她到美国才几周，还没怎么看过这个国家。她到达时显得十分惊讶：“这里真丑！”其他富裕国家的人几乎无法想象美国那些人造区域的破败。"
+    },
+    {
+      "original": "In travel books they show you mostly natural environments: the Grand Canyon, whitewater rafting, horses in a field. If you see pictures with man-made things in them, it will be either a view of the New York skyline shot from a discreet distance, or a carefully cropped image of a seacoast town in Maine.How can it be, visitors must wonder.",
+      "translated": "在旅行书中，他们主要展示的都是自然景观：大峡谷、激流漂流、田野里的马匹。如果你看到有建筑物的照片，那要么是从远处拍摄的纽约天际线，要么是精心裁剪过的缅因州海滨小镇的图片。游客们不禁会想，这怎么可能呢。"
+    },
+    {
+      "original": "How can the richest country in the world look like this?Oddly enough, it may not be a coincidence. Americans are good at some things and bad at others. We're good at making movies and software, and bad at making cars and cities.",
+      "translated": "世界上最富有的国家怎么会是这个样子？奇怪的是，这可能并非偶然。美国人有些事情做得很好，有些则不尽如人意。我们擅长制作电影和软件，但在制造汽车和建设城市方面表现不佳。"
+    },
+    {
+      "original": "And I think we may be good at what we're good at for the same reason we're bad at what we're bad at. We're impatient. In America, if you want to do something, you don't worry that it might come out badly, or upset delicate social balances, or that people might think you're getting above yourself.",
+      "translated": "而且我认为，我们擅长某些事情的原因可能与我们不擅长某些事情的原因相同。我们缺乏耐心。在美国，如果你想做某件事，你不会担心它可能会做坏，或者破坏微妙的社会平衡，或者人们会认为你自视过高。"
+    },
+    {
+      "original": "If you want to do something, as Nike says, just do it.This works well in some fields and badly in others. I suspect it works in movies and software because they're both messy processes. \"Systematic\" is the last word I'd use to describe the way good programmers write software.",
+      "translated": "如果你想做某件事，就像耐克说的那样，只管去做。这在某些领域非常有效，而在其他领域则不然。我怀疑这在电影和软件行业中行得通，因为它们都是杂乱无章的过程。“系统化”这个词我绝对不会用来形容优秀程序员编写软件的方式。"
+    },
+    {
+      "original": "Code is not something they assemble painstakingly after careful planning, like the pyramids. It's something they plunge into, working fast and constantly changing their minds, like a charcoal sketch.In software, paradoxical as it sounds, good craftsmanship means working fast.",
+      "translated": "代码并不是他们在经过周密计划后精心组装出来的，就像建造金字塔一样。相反，他们一头扎进去，快速工作，不断改变主意，就像用炭笔作速写一样。在软件开发中，听起来似乎矛盾，但良好的工艺实际上意味着快速工作。"
+    },
+    {
+      "original": "If you work slowly and meticulously, you merely end up with a very fine implementation of your initial, mistaken idea. Working slowly and meticulously is premature optimization. Better to get a prototype done fast, and see what new ideas it gives you.It sounds like making movies works a lot like making software.",
+      "translated": "如果你工作得缓慢而细致，最终只会得到一个非常精细的、最初错误想法的实现。缓慢而细致地工作是一种过早的优化。最好的方法是快速完成一个原型，看看它会给你带来什么新的想法。这听起来像是制作电影与开发软件非常相似。"
+    },
+    {
+      "original": "Every movie is a Frankenstein, full of imperfections and usually quite different from what was originally envisioned. But interesting, and finished fairly quickly. I think we get away with this in movies and software because they're both malleable mediums.",
+      "translated": "每一部电影都像是弗兰肯斯坦的怪物，充满了不完美，通常与最初的设想相去甚远。但它们很有趣，而且完成得相当快。我认为我们在电影和软件中都能容忍这一点，因为它们都是可塑性很强的媒介。"
+    },
+    {
+      "original": "Boldness pays. And if at the last minute two parts don't quite fit, you can figure out some hack that will at least conceal the problem.Not so with cars, or cities. They are all too physical. If the car business worked like software or movies, you'd surpass your competitors by making a car that weighed only fifty pounds, or folded up to the size of a motorcycle when you wanted to park it.",
+      "translated": "大胆有回报。如果最后时刻有两个部件不太吻合，你可以想出某种临时解决方案，至少能掩盖问题。但在汽车或城市设计上却不是这样。它们太过实体化了。如果汽车业像软件或电影行业那样运作，你就可以通过制造一辆仅重五十磅，或在停车时可以折叠成摩托车大小的汽车来超越竞争对手。"
+    },
+    {
+      "original": "But with physical products there are more constraints. You don't win by dramatic innovations so much as by good taste and attention to detail.The trouble is, the very word \"taste\" sounds slightly ridiculous to American ears.",
+      "translated": "但是对于实体产品而言，存在更多的限制。你更多的是通过良好的品味和对细节的关注来取得胜利，而不是通过戏剧性的创新。问题在于，“品味”这个词在美国人听来多少有些可笑。"
+    },
+    {
+      "original": "It seems pretentious, or frivolous, or even effeminate. Blue staters think it's \"subjective,\" and red staters think it's for sissies. So anyone in America who really cares about design will be sailing upwind.Twenty years ago we used to hear that the problem with the US car industry was the workers.",
+      "translated": "这看起来像是故作高深、轻浮，甚至有些女性化。蓝色州的人认为这是“主观”的，而红色州的人则认为这是娘娘腔的东西。因此，在美国，任何真正关心设计的人都将逆风而行。二十年前，我们常听说美国汽车工业的问题在于工人。"
+    },
+    {
+      "original": "We don't hear that any more now that Japanese companies are building cars in the US. The problem with American cars is bad design. You can see that just by looking at them.All that extra sheet metal on the AMC Matador wasn't added by the workers.",
+      "translated": "现在日本公司在美国生产汽车，我们不再听到这样的说法了。美国汽车的问题在于设计糟糕。只要看一眼就能看出。AMC马塔多尔上的那些多余的钢板并不是工人加上去的。"
+    },
+    {
+      "original": "The problem with this car, as with American cars today, is that it was designed by marketing people instead of designers.Why do the Japanese make better cars than us? Some say it's because their culture encourages cooperation.",
+      "translated": "这辆车的问题，就像当今的美国汽车一样，就在于它是由市场营销人员而非设计师设计的。为什么日本车比我们的车做得好？有些人认为这是因为他们的文化鼓励合作。"
+    },
+    {
+      "original": "That may come into it. But in this case it seems more to the point that their culture prizes design and craftsmanship.For centuries the Japanese have made finer things than we have in the West. When you look at swords they made in 1200, you just can't believe the date on the label is right.",
+      "translated": "这可能是其中的一个因素。但在这个情况下，更重要的是他们的文化重视设计和工艺。几个世纪以来，日本人制造的东西比我们在西方的更为精致。当你看到他们1200年制作的剑时，你简直不敢相信标签上的日期是正确的。"
+    },
+    {
+      "original": "Presumably their cars fit together more precisely than ours for the same reason their joinery always has. They're obsessed with making things well.Not us. When we make something in America, our aim is just to get the job done.",
+      "translated": "想必他们的汽车比我们的更精确地契合在一起，原因和他们的木工制品总是如此一样。他们热衷于把事情做好。而我们不是这样。当我们在美国制造东西时，我们的目标只是完成任务。"
+    },
+    {
+      "original": "Once we reach that point, we take one of two routes. We can stop there, and have something crude but serviceable, like a Vise-grip. Or we can improve it, which usually means encrusting it with gratuitous ornament.",
+      "translated": "一旦我们达到那个阶段，就有两条路可走。我们可以就此止步，拥有一种虽然粗糙但能用的工具，比如虎钳。或者我们可以对其进行改进，这通常意味着在其上添加不必要的装饰。"
+    },
+    {
+      "original": "When we want to make a car \"better,\" we stick tail fins on it, or make it longer, or make the windows smaller, depending on the current fashion.Ditto for houses. In America you can have either a flimsy box banged together out of two by fours and drywall, or a McMansion-- a flimsy box banged together out of two by fours and drywall, but larger, more dramatic-looking, and full of expensive fittings.",
+      "translated": "当我们想要让一辆车“更好”时，我们会在车尾加上饰鳍，或者把车造得更长，或者把窗户造得更小，这取决于当下的时尚。同理，房子也是如此。在美国，你可以选择用两英寸乘四英寸的木条和石膏板匆匆搭建的脆弱盒子，或者选择一个更大的、看起来更加气派的、装满昂贵装饰品的“大宅”——但本质上仍然是用两英寸乘四英寸的木条和石膏板匆匆搭建的脆弱盒子。"
+    },
+    {
+      "original": "Rich people don't get better design or craftsmanship; they just get a larger, more conspicuous version of the standard house.We don't especially prize design or craftsmanship here. What we like is speed, and we're willing to do something in an ugly way to get it done fast.",
+      "translated": "富人得到的并不是更好的设计或工艺；他们只是得到了一个更大、更显眼的标准房屋版本。我们在这里并不特别重视设计或工艺。我们喜欢的是速度，愿意以一种难看的方式快速完成事情。"
+    },
+    {
+      "original": "In some fields, like software or movies, this is a net win. But it's not just that software and movies are malleable mediums. In those businesses, the designers (though they're not generally called that) have more power.",
+      "translated": "在某些领域，比如软件或电影，这是一举两得的。但这不仅是因为软件和电影是可塑性很强的媒介。在这些行业中，设计师（尽管他们通常不被称为设计师）拥有更多的权力。"
+    },
+    {
+      "original": "Software companies, at least successful ones, tend to be run by programmers. And in the film industry, though producers may second-guess directors, the director controls most of what appears on the screen.",
+      "translated": "软件公司，至少是成功的软件公司，通常由程序员管理。而在电影行业，尽管制片人可能会对导演提出质疑，但导演掌控着屏幕上出现的大部分内容。"
+    },
+    {
+      "original": "And so American software and movies, and Japanese cars, all have this in common: the people in charge care about design-- the former because the designers are in charge, and the latter because the whole culture cares about design.I think most Japanese executives would be horrified at the idea of making a bad car.",
+      "translated": "因此，美国的软件和电影，以及日本的汽车，都有一个共同点：负责人非常重视设计——前者是因为设计师掌握着主导权，而后者则是因为整个文化都注重设计。我认为大多数日本高管对制造劣质汽车的想法都会感到震惊。"
+    },
+    {
+      "original": "Whereas American executives, in their hearts, still believe the most important thing about a car is the image it projects. Make a good car? What's \"good?\" It's so subjective. If you want to know how to design a car, ask a focus group.Instead of relying on their own internal design compass (like Henry Ford did), American car companies try to make what marketing people think consumers want.",
+      "translated": "然而，美国的高管们内心仍然认为汽车最重要的是它所传递的形象。制造一辆好车？什么是“好”？这太主观了。如果你想了解如何设计汽车，就去问问焦点小组吧。与其依赖自己内部的设计导向（像亨利·福特那样），美国汽车公司试图制造营销人员认为消费者想要的汽车。"
+    },
+    {
+      "original": "But it isn't working. American cars continue to lose market share. And the reason is that the customer doesn't want what he thinks he wants.Letting focus groups design your cars for you only wins in the short term.",
+      "translated": "但这并不奏效。美国汽车继续失去市场份额。原因在于，消费者并不真正想要他们自认为想要的东西。让焦点小组为你设计汽车只能在短期内取得胜利。"
+    },
+    {
+      "original": "In the long term, it pays to bet on good design. The focus group may say they want the meretricious feature du jour, but what they want even more is to imitate sophisticated buyers, and they, though a small minority, really do care about good design.",
+      "translated": "从长远来看，投资优质设计是值得的。焦点小组可能说他们想要当前流行的花哨功能，但他们更想模仿那些精明的买家，而这些买家尽管只占少数，却真正关心优质设计。"
+    },
+    {
+      "original": "Eventually the pimps and drug dealers notice that the doctors and lawyers have switched from Cadillac to Lexus, and do the same.Apple is an interesting counterexample to the general American trend. If you want to buy a nice CD player, you'll probably buy a Japanese one.",
+      "translated": "最终，皮条客和毒贩注意到医生和律师已经从开凯迪拉克换成了雷克萨斯，于是他们也跟着这样做。苹果是对美国这一普遍趋势的一个有趣的反例。如果你想买一台好的CD机，你可能会买一台日本制造的。"
+    },
+    {
+      "original": "But if you want to buy an MP3 player, you'll probably buy an iPod. What happened? Why doesn't Sony dominate MP3 players? Because Apple is in the consumer electronics business now, and unlike other American companies, they're obsessed with good design.",
+      "translated": "但如果你想买一个MP3播放器，你可能会买iPod。为什么会这样？为什么索尼没有主导MP3播放器市场？因为苹果现在进入了消费电子行业，而且与其它美国公司不同，苹果痴迷于优秀的设计。"
+    },
+    {
+      "original": "Or more precisely, their CEO is.I just got an iPod, and it's not just nice. It's surprisingly nice. For it to surprise me, it must be satisfying expectations I didn't know I had. No focus group is going to discover those.",
+      "translated": "或者更准确地说，是他们的首席执行官。我刚得到一个iPod，它不仅很好，而且出乎意料地好。它能让我感到惊喜，说明它满足了我之前未曾意识到的期待。这样的期待是不会有焦点小组能够发现的。"
+    },
+    {
+      "original": "Only a great designer can.Cars aren't the worst thing we make in America. Where the just-do-it model fails most dramatically is in our cities-- or rather, exurbs. If real estate developers operated on a large enough scale, if they built whole towns, market forces would compel them to build towns that didn't suck.",
+      "translated": "只有伟大的设计师才能做到。汽车并不是我们在美国制造的最糟糕的东西。只管做的模式在我们的城市——或者更确切地说，在远郊——失败得最为惨重。如果房地产开发商的规模足够大，如果他们建造整个城镇，市场力量将迫使他们建造不那么糟糕的城镇。"
+    },
+    {
+      "original": "But they only build a couple office buildings or suburban streets at a time, and the result is so depressing that the inhabitants consider it a great treat to fly to Europe and spend a couple weeks living what is, for people there, just everyday life.",
+      "translated": "但他们一次只建设几栋办公楼或郊区街道，结果令人沮丧，以至于居民们认为飞往欧洲，花上几周时间体验那里人们日常的生活，是一种极大的享受。"
+    },
+    {
+      "original": "[1]But the just-do-it model does have advantages. It seems the clear winner for generating wealth and technical innovations (which are practically the same thing). I think speed is the reason. It's hard to create wealth by making a commodity.",
+      "translated": "[1]但这种说干就干的模式确实有其优势。在创造财富和技术革新方面（这两者实际上是一回事），这种模式似乎明显胜出。我认为速度是关键原因。通过制造普通商品来创造财富是很难的。"
+    },
+    {
+      "original": "The real value is in things that are new, and if you want to be the first to make something, it helps to work fast. For better or worse, the just-do-it model is fast, whether you're Dan Bricklin writing the prototype of VisiCalc in a weekend, or a real estate developer building a block of shoddy condos in a month.If I had to choose between the just-do-it model and the careful model, I'd probably choose just-do-it.",
+      "translated": "真正的价值在于新事物，如果你想成为第一个创造某样东西的人，快速行动是有帮助的。无论好坏，这种立即行动的模式速度很快，无论是丹·布里克林在周末编写VisiCalc的原型，还是房地产开发商在一个月内建起一排质量低劣的公寓楼。如果我必须在立即行动的模式和谨慎的模式之间做出选择，我大概会选择立即行动。"
+    },
+    {
+      "original": "But do we have to choose? Could we have it both ways? Could Americans have nice places to live without undermining the impatient, individualistic spirit that makes us good at software? Could other countries introduce more individualism into their technology companies and research labs without having it metastasize as strip malls?",
+      "translated": "但我们必须做出选择吗？我们能否鱼与熊掌兼得？美国人能否拥有良好的居住环境，同时又不削弱那种使我们擅长软件开发的急躁和个体主义精神？其他国家能否在科技公司和研究实验室中引入更多的个体主义，而不让其像连锁购物中心那样无序蔓延？"
+    },
+    {
+      "original": "I'm optimistic. It's harder to say about other countries, but in the US, at least, I think we can have both.Apple is an encouraging example. They've managed to preserve enough of the impatient, hackerly spirit you need to write software.",
+      "translated": "我感到乐观。对于其他国家来说，这可能更难说，但在美国，至少我认为我们可以两者兼得。苹果公司就是一个令人鼓舞的例子。他们成功地保留了足够多的那种不耐烦的、黑客精神，这是编写软件所需要的。"
+    },
+    {
+      "original": "And yet when you pick up a new Apple laptop, well, it doesn't seem American. It's too perfect. It seems as if it must have been made by a Swedish or a Japanese company.In many technologies, version 2 has higher resolution.",
+      "translated": "然而，当你拿起一台新的苹果笔记本电脑时，它似乎并不像美国制造的。它太完美了，看起来更像是由瑞典或日本的公司生产的。在许多技术中，第二代产品的分辨率更高。"
+    },
+    {
+      "original": "Why not in design generally? I think we'll gradually see national characters superseded by occupational characters: hackers in Japan will be allowed to behave with a willfulness that would now seem unJapanese, and products in America will be designed with an insistence on taste that would now seem unAmerican.",
+      "translated": "为什么不在设计中普遍如此呢？我认为我们将逐渐看到民族特性被职业特性所取代：日本的黑客将被允许表现出一种现在看来不符合日本传统的任性，而美国的产品将被设计得更加注重品味，这种注重现在看来可能不符合美国传统。"
+    },
+    {
+      "original": "Perhaps the most successful countries, in the future, will be those most willing to ignore what are now considered national characters, and do each kind of work in the way that works best. Race you.Notes[1] Japanese cities are ugly too, but for different reasons.",
+      "translated": "或许未来最成功的国家将是那些最愿意摒弃现在所谓的民族特性，以最适合的方式进行每种工作的国家。与你赛跑。注[1] 日本城市也很丑，但原因不同。"
+    },
+    {
+      "original": "Japan is prone to earthquakes, so buildings are traditionally seen as temporary; there is no grand tradition of city planning like the one Europeans inherited from Rome. The other cause is the notoriously corrupt relationship between the government and construction companies.Thanks to Trevor Blackwell, Barry Eisler, Sarah Harlin, Shiro Kawai, Jessica Livingston, Jackie McDonough, Robert Morris, and Eric Raymond for reading drafts of this.American GothicThe John Rain Books",
+      "translated": "日本地震频发，因此建筑物传统上被视为临时性的；这里没有像欧洲从罗马继承下来的那种宏大的城市规划传统。另一个原因是政府与建筑公司之间臭名昭著的腐败关系。感谢 Trevor Blackwell、Barry Eisler、Sarah Harlin、Shiro Kawai、Jessica Livingston、Jackie McDonough、Robert Morris 和 Eric Raymond 阅读本文的草稿。美国哥特式风格的《约翰·雷恩系列》"
+    }
+  ],
+  "translation_completed": "2025-07-28T15:09:41.438062",
+  "translation_stats": {
+    "total_paragraphs": 38,
+    "success_count": 38,
+    "success_rate": "100.0%"
+  }
+}

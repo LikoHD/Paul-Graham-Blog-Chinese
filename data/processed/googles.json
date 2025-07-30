@@ -1,0 +1,154 @@
+{
+  "title": "Why There Aren't More Googles",
+  "title_zh": "[待翻译] Why There Aren't More Googles",
+  "url": "https://www.paulgraham.com/googles.html",
+  "filename": "googles.html",
+  "date": "2008-04-01",
+  "id": 170,
+  "content": {
+    "success": true,
+    "paragraphs": [
+      "Want to start a startup? Get funded by Y Combinator. April 2008Umair Haque wrote recently that the reason there aren't more Googles is that most startups get bought before they can change the world. Google, despite serious interest from Microsoft and Yahoo—what must have seemed like lucrative interest at the time—didn't sell out.",
+      "Google might simply have been nothing but Yahoo's or MSN's search box.Why isn't it? Because Google had a deeply felt sense of purpose: a conviction to change the world for the better. This has a nice sound to it, but it isn't true.",
+      "Google's founders were willing to sell early on. They just wanted more than acquirers were willing to pay.It was the same with Facebook. They would have sold, but Yahoo blew it by offering too little.Tip for acquirers: when a startup turns you down, consider raising your offer, because there's a good chance the outrageous price they want will later seem a bargain.",
+      "[1]From the evidence I've seen so far, startups that turn down acquisition offers usually end up doing better. Not always, but usually there's a bigger offer coming, or perhaps even an IPO.Of course, the reason startups do better when they turn down acquisition offers is not necessarily that all such offers undervalue startups.",
+      "More likely the reason is that the kind of founders who have the balls to turn down a big offer also tend to be very successful. That spirit is exactly what you want in a startup.While I'm sure Larry and Sergey do want to change the world, at least now, the reason Google survived to become a big, independent company is the same reason Facebook has so far remained independent: acquirers underestimated them.Corporate M&A is a strange business in that respect.",
+      "They consistently lose the best deals, because turning down reasonable offers is the most reliable test you could invent for whether a startup will make it big.VCsSo what's the real reason there aren't more Googles?",
+      "Curiously enough, it's the same reason Google and Facebook have remained independent: money guys undervalue the most innovative startups.The reason there aren't more Googles is not that investors encourage innovative startups to sell out, but that they won't even fund them.",
+      "I've learned a lot about VCs during the 3 years we've been doing Y Combinator, because we often have to work quite closely with them. The most surprising thing I've learned is how conservative they are.",
+      "VC firms present an image of boldly encouraging innovation. Only a handful actually do, and even they are more conservative in reality than you'd guess from reading their sites.I used to think of VCs as piratical: bold but unscrupulous.",
+      "On closer acquaintance they turn out to be more like bureaucrats. They're more upstanding than I used to think (the good ones, at least), but less bold. Maybe the VC industry has changed. Maybe they used to be bolder.",
+      "But I suspect it's the startup world that has changed, not them. The low cost of starting a startup means the average good bet is a riskier one, but most existing VC firms still operate as if they were investing in hardware startups in 1985.Howard Aiken said \"Don't worry about people stealing your ideas.",
+      "If your ideas are any good, you'll have to ram them down people's throats.\" I have a similar feeling when I'm trying to convince VCs to invest in startups Y Combinator has funded. They're terrified of really novel ideas, unless the founders are good enough salesmen to compensate.But it's the bold ideas that generate the biggest returns.",
+      "Any really good new idea will seem bad to most people; otherwise someone would already be doing it. And yet most VCs are driven by consensus, not just within their firms, but within the VC community.",
+      "The biggest factor determining how a VC will feel about your startup is how other VCs feel about it. I doubt they realize it, but this algorithm guarantees they'll miss all the very best ideas. The more people who have to like a new idea, the more outliers you lose.Whoever the next Google is, they're probably being told right now by VCs to come back when they have more \"traction.\"Why are VCs so conservative?",
+      "It's probably a combination of factors. The large size of their investments makes them conservative. Plus they're investing other people's money, which makes them worry they'll get in trouble if they do something risky and it fails.",
+      "Plus most of them are money guys rather than technical guys, so they don't understand what the startups they're investing in do.What's NextThe exciting thing about market economies is that stupidity equals opportunity.",
+      "And so it is in this case. There is a huge, unexploited opportunity in startup investing. Y Combinator funds startups at the very beginning. VCs will fund them once they're already starting to succeed.",
+      "But between the two there is a substantial gap.There are companies that will give $20k to a startup that has nothing more than the founders, and there are companies that will give $2 million to a startup that's already taking off, but there aren't enough investors who will give $200k to a startup that seems very promising but still has some things to figure out.",
+      "This territory is occupied mostly by individual angel investors—people like Andy Bechtolsheim, who gave Google $100k when they seemed promising but still had some things to figure out. I like angels, but there just aren't enough of them, and investing is for most of them a part time job.And yet as it gets cheaper to start startups, this sparsely occupied territory is becoming more and more valuable.",
+      "Nowadays a lot of startups don't want to raise multi-million dollar series A rounds. They don't need that much money, and they don't want the hassles that come with it. The median startup coming out of Y Combinator wants to raise $250-500k.",
+      "When they go to VC firms they have to ask for more because they know VCs aren't interested in such small deals.VCs are money managers. They're looking for ways to put large sums to work. But the startup world is evolving away from their current model.Startups have gotten cheaper.",
+      "That means they want less money, but also that there are more of them. So you can still get large returns on large amounts of money; you just have to spread it more broadly.I've tried to explain this to VC firms.",
+      "Instead of making one $2 million investment, make five $400k investments. Would that mean sitting on too many boards? Don't sit on their boards. Would that mean too much due diligence? Do less. If you're investing at a tenth the valuation, you only have to be a tenth as sure.It seems obvious.",
+      "But I've proposed to several VC firms that they set aside some money and designate one partner to make more, smaller bets, and they react as if I'd proposed the partners all get nose rings. It's remarkable how wedded they are to their standard m.o.But there is a big opportunity here, and one way or the other it's going to get filled.",
+      "Either VCs will evolve down into this gap or, more likely, new investors will appear to fill it. That will be a good thing when it happens, because these new investors will be compelled by the structure of the investments they make to be ten times bolder than present day VCs.",
+      "And that will get us a lot more Googles. At least, as long as acquirers remain stupid. Notes[1] Another tip: If you want to get all that value, don't destroy the startup after you buy it. Give the founders enough autonomy that they can grow the acquisition into what it would have become.Thanks to Sam Altman, Paul Buchheit, David Hornik, Jessica Livingston, Robert Morris, and Fred Wilson for reading drafts of this.Russian Translation"
+    ],
+    "word_count": 1309,
+    "paragraph_count": 26
+  },
+  "processed_at": "2025-07-26T19:06:53.961580",
+  "paragraphs": [
+    {
+      "original": "Want to start a startup? Get funded by Y Combinator. April 2008Umair Haque wrote recently that the reason there aren't more Googles is that most startups get bought before they can change the world. Google, despite serious interest from Microsoft and Yahoo—what must have seemed like lucrative interest at the time—didn't sell out.",
+      "translated": "想要创办一家初创公司吗？那就争取获得Y Combinator的资助吧。2008年4月，乌迈尔·哈克最近写道，没有更多像谷歌这样的公司，是因为大多数初创公司在能够改变世界之前就被收购了。尽管微软和雅虎曾表现出浓厚的兴趣——那在当时看来必定是极有吸引力的——谷歌却没有卖掉自己。"
+    },
+    {
+      "original": "Google might simply have been nothing but Yahoo's or MSN's search box.Why isn't it? Because Google had a deeply felt sense of purpose: a conviction to change the world for the better. This has a nice sound to it, but it isn't true.",
+      "translated": "谷歌本可能仅仅是雅虎或MSN的搜索框。为什么它不是这样？因为谷歌有着深厚的目标感：一种要让世界变得更好的信念。这听上去很不错，但其实并不真实。"
+    },
+    {
+      "original": "Google's founders were willing to sell early on. They just wanted more than acquirers were willing to pay.It was the same with Facebook. They would have sold, but Yahoo blew it by offering too little.Tip for acquirers: when a startup turns you down, consider raising your offer, because there's a good chance the outrageous price they want will later seem a bargain.",
+      "translated": "谷歌的创始人曾经愿意在早期出售公司。他们只是想要的比买家愿意支付的更多。Facebook的情况也是如此。他们本可以出售，但雅虎因为出价太低而错失机会。给买家的建议：当一家初创公司拒绝你时，考虑提高你的报价，因为很有可能他们现在看似离谱的价格将来会显得物超所值。"
+    },
+    {
+      "original": "[1]From the evidence I've seen so far, startups that turn down acquisition offers usually end up doing better. Not always, but usually there's a bigger offer coming, or perhaps even an IPO.Of course, the reason startups do better when they turn down acquisition offers is not necessarily that all such offers undervalue startups.",
+      "translated": "根据我目前所见的证据，初创公司拒绝收购要约后通常会做得更好。虽然并非总是如此，但通常会有更大的收购要约，甚至可能进行首次公开募股（IPO）。当然，初创公司在拒绝收购要约后表现更好的原因并不一定是所有这些要约都低估了公司价值。"
+    },
+    {
+      "original": "More likely the reason is that the kind of founders who have the balls to turn down a big offer also tend to be very successful. That spirit is exactly what you want in a startup.While I'm sure Larry and Sergey do want to change the world, at least now, the reason Google survived to become a big, independent company is the same reason Facebook has so far remained independent: acquirers underestimated them.Corporate M&A is a strange business in that respect.",
+      "translated": "更可能的原因是，那些有胆量拒绝大额收购要约的创始人往往也非常成功。这种精神正是初创公司所需要的。虽然我相信拉里和谢尔盖确实想改变世界，至少现在是这样，但谷歌能够生存下来成为一家大型独立公司，以及Facebook迄今为止保持独立的原因，都是因为收购方低估了他们。从这个角度来看，企业并购是一项奇怪的业务。"
+    },
+    {
+      "original": "They consistently lose the best deals, because turning down reasonable offers is the most reliable test you could invent for whether a startup will make it big.VCsSo what's the real reason there aren't more Googles?",
+      "translated": "他们总是错失最佳交易，因为拒绝合理的报价是测试一家初创公司是否能做大做强最可靠的手段。所以，真正的原因是什么，为什么没有更多的谷歌出现？"
+    },
+    {
+      "original": "Curiously enough, it's the same reason Google and Facebook have remained independent: money guys undervalue the most innovative startups.The reason there aren't more Googles is not that investors encourage innovative startups to sell out, but that they won't even fund them.",
+      "translated": "有趣的是，谷歌和脸书能保持独立的原因也是一样的：投资人们低估了最具创新力的初创公司。谷歌之所以寥寥无几，并不是因为投资者鼓励创新的初创公司出售自己，而是因为他们甚至不愿意为这些公司提供资金。"
+    },
+    {
+      "original": "I've learned a lot about VCs during the 3 years we've been doing Y Combinator, because we often have to work quite closely with them. The most surprising thing I've learned is how conservative they are.",
+      "translated": "在我们进行 Y Combinator 的这三年里，我学到了很多关于风险投资人的知识，因为我们经常需要与他们密切合作。最令我意外的是他们有多么保守。"
+    },
+    {
+      "original": "VC firms present an image of boldly encouraging innovation. Only a handful actually do, and even they are more conservative in reality than you'd guess from reading their sites.I used to think of VCs as piratical: bold but unscrupulous.",
+      "translated": "风险投资公司表现出大胆鼓励创新的形象。但实际上，只有少数几家真正这样做，而且即使这些公司，实际上也比你从它们的网站上读到的更加保守。我过去认为风险投资者是海盗式的：大胆但不择手段。"
+    },
+    {
+      "original": "On closer acquaintance they turn out to be more like bureaucrats. They're more upstanding than I used to think (the good ones, at least), but less bold. Maybe the VC industry has changed. Maybe they used to be bolder.",
+      "translated": "深入了解后，他们更像是一群官僚。至少那些好的，比我原先认为的更加正直，但不够大胆。也许风投行业已经变了。也许他们过去更敢冒险。"
+    },
+    {
+      "original": "But I suspect it's the startup world that has changed, not them. The low cost of starting a startup means the average good bet is a riskier one, but most existing VC firms still operate as if they were investing in hardware startups in 1985.Howard Aiken said \"Don't worry about people stealing your ideas.",
+      "translated": "但我怀疑是创业环境发生了变化，而不是他们自身。启动创业公司的低成本意味着平均来说，一个好的投资机会风险更大，但大多数现有的风险投资公司仍然像1985年投资硬件创业公司那样运作。霍华德·艾肯曾说过：“不要担心别人窃取你的想法。”"
+    },
+    {
+      "original": "If your ideas are any good, you'll have to ram them down people's throats.\" I have a similar feeling when I'm trying to convince VCs to invest in startups Y Combinator has funded. They're terrified of really novel ideas, unless the founders are good enough salesmen to compensate.But it's the bold ideas that generate the biggest returns.",
+      "translated": "如果你的想法确实有价值，你就得强迫别人接受。当我试图说服风险投资家投资我们Y Combinator支持的初创公司时，也有类似的感觉。他们对真正新颖的想法感到害怕，除非创始人足够善于推销自己。但正是这些大胆的想法才能带来最大的回报。"
+    },
+    {
+      "original": "Any really good new idea will seem bad to most people; otherwise someone would already be doing it. And yet most VCs are driven by consensus, not just within their firms, but within the VC community.",
+      "translated": "任何真正的好新想法对大多数人来说都会显得糟糕；否则早就有人在做了。然而，大多数风险投资人都受到共识的驱动，不仅在他们自己的公司内部，而且在整个风险投资界。"
+    },
+    {
+      "original": "The biggest factor determining how a VC will feel about your startup is how other VCs feel about it. I doubt they realize it, but this algorithm guarantees they'll miss all the very best ideas. The more people who have to like a new idea, the more outliers you lose.Whoever the next Google is, they're probably being told right now by VCs to come back when they have more \"traction.\"Why are VCs so conservative?",
+      "translated": "决定风险投资家对你初创公司的看法的最大因素是其他风险投资家对它的看法。我怀疑他们并没有意识到，但这一算法保证他们会错过所有最好的想法。喜欢一个新想法的人越多，你失去的边缘创新者就越多。下一个谷歌现在可能正被风险投资家告知，等他们有更多“ traction”（ traction 在这里指市场牵引力或用户基础）时再回来。为什么风险投资家这么保守？"
+    },
+    {
+      "original": "It's probably a combination of factors. The large size of their investments makes them conservative. Plus they're investing other people's money, which makes them worry they'll get in trouble if they do something risky and it fails.",
+      "translated": "这可能是一系列因素的综合作用。他们投资规模庞大，这使他们变得保守。此外，他们投资的是别人的钱，这让他们担心，如果做了冒险的事情而失败，会惹上麻烦。"
+    },
+    {
+      "original": "Plus most of them are money guys rather than technical guys, so they don't understand what the startups they're investing in do.What's NextThe exciting thing about market economies is that stupidity equals opportunity.",
+      "translated": "而且，他们大多数人是金融人士而不是技术人士，所以他们并不了解他们所投资的初创公司在做什么。接下来令人兴奋的是，市场经济的魅力在于愚蠢等同于机会。"
+    },
+    {
+      "original": "And so it is in this case. There is a huge, unexploited opportunity in startup investing. Y Combinator funds startups at the very beginning. VCs will fund them once they're already starting to succeed.",
+      "translated": "同样，在这种情况下，创业投资中存在一个巨大的、尚未开发的机会。Y Combinator 在创业公司刚刚起步时就为其提供资金。而风险投资公司则在这些公司开始取得成功后才会投资。"
+    },
+    {
+      "original": "But between the two there is a substantial gap.There are companies that will give $20k to a startup that has nothing more than the founders, and there are companies that will give $2 million to a startup that's already taking off, but there aren't enough investors who will give $200k to a startup that seems very promising but still has some things to figure out.",
+      "translated": "但在两者之间存在着一个显著的差距。有些公司会给只拥有创始人的初创企业2万美元，也有些公司会给已经起飞的初创企业200万美元，但愿意给看起来非常有前景但仍需解决一些问题的初创企业提供20万美元的投资者却不够多。"
+    },
+    {
+      "original": "This territory is occupied mostly by individual angel investors—people like Andy Bechtolsheim, who gave Google $100k when they seemed promising but still had some things to figure out. I like angels, but there just aren't enough of them, and investing is for most of them a part time job.And yet as it gets cheaper to start startups, this sparsely occupied territory is becoming more and more valuable.",
+      "translated": "这片领域主要由个人天使投资者占据，比如安迪·贝克托尔希姆，他在谷歌看起来有潜力但还有一些建议需要解决时，就给了他们10万美元。我喜欢天使投资者，但他们的数量不够多，对大多数人来说，投资只是他们的兼职工作。然而，随着创业成本的降低，这片领域正变得越来越有价值。"
+    },
+    {
+      "original": "Nowadays a lot of startups don't want to raise multi-million dollar series A rounds. They don't need that much money, and they don't want the hassles that come with it. The median startup coming out of Y Combinator wants to raise $250-500k.",
+      "translated": "如今，许多初创公司并不想筹集数百万美元的A轮融资。它们不需要那么多资金，也不希望因此带来种种麻烦。从Y Combinator毕业的初创公司通常希望筹集25万到50万美元。"
+    },
+    {
+      "original": "When they go to VC firms they have to ask for more because they know VCs aren't interested in such small deals.VCs are money managers. They're looking for ways to put large sums to work. But the startup world is evolving away from their current model.Startups have gotten cheaper.",
+      "translated": "当他们去找风投公司时，必须要求更多的资金，因为他们知道风投对这种小交易不感兴趣。风投是资金管理者，他们寻找的是能够大规模投资的途径。但创业世界的模式正在发生变化，初创公司的成本已经降低。"
+    },
+    {
+      "original": "That means they want less money, but also that there are more of them. So you can still get large returns on large amounts of money; you just have to spread it more broadly.I've tried to explain this to VC firms.",
+      "translated": "这意味着他们希望获得的资金较少，但数量更多。因此，你仍然可以在大额资金上获得高回报；只是需要将资金分散投资。我曾尝试向风投公司解释这一点。"
+    },
+    {
+      "original": "Instead of making one $2 million investment, make five $400k investments. Would that mean sitting on too many boards? Don't sit on their boards. Would that mean too much due diligence? Do less. If you're investing at a tenth the valuation, you only have to be a tenth as sure.It seems obvious.",
+      "translated": "与其做一笔200万美元的投资，不如做五笔40万美元的投资。这样会意味着要担任太多董事会成员吗？那就不要担任他们的董事会成员。这样会意味着要做太多的尽职调查吗？那就减少一些。如果你是在十分之一的估值进行投资，那你只需要有十分之一的确定性。这看起来显而易见。"
+    },
+    {
+      "original": "But I've proposed to several VC firms that they set aside some money and designate one partner to make more, smaller bets, and they react as if I'd proposed the partners all get nose rings. It's remarkable how wedded they are to their standard m.o.But there is a big opportunity here, and one way or the other it's going to get filled.",
+      "translated": "但我向几家风投公司提议，留出一些资金，并指定一位合伙人进行更多、更小的押注，他们的反应好像我建议所有合伙人都去穿鼻环一样。他们对传统模式的坚持真是令人惊讶。但这里确实有一个巨大的机会，不管怎样，这个机会最终会被抓住的。"
+    },
+    {
+      "original": "Either VCs will evolve down into this gap or, more likely, new investors will appear to fill it. That will be a good thing when it happens, because these new investors will be compelled by the structure of the investments they make to be ten times bolder than present day VCs.",
+      "translated": "要么风险投资公司会向下发展进入这一领域，更有可能的是，新的投资者会出现来填补这一空白。这将是一件好事，因为这些新的投资者将由于他们所进行的投资结构而被迫比当今的风险投资家大胆十倍。"
+    },
+    {
+      "original": "And that will get us a lot more Googles. At least, as long as acquirers remain stupid. Notes[1] Another tip: If you want to get all that value, don't destroy the startup after you buy it. Give the founders enough autonomy that they can grow the acquisition into what it would have become.Thanks to Sam Altman, Paul Buchheit, David Hornik, Jessica Livingston, Robert Morris, and Fred Wilson for reading drafts of this.Russian Translation",
+      "translated": "这将使我们获得更多的谷歌。至少，只要收购方保持愚蠢。注[1] 另一个建议：如果你想获得所有这些价值，收购后不要毁掉初创公司。给予创始人足够的自主权，让他们能够将收购的公司发展成它本可以成为的样子。感谢Sam Altman、Paul Buchheit、David Hornik、Jessica Livingston、Robert Morris和Fred Wilson审阅本文的草稿。俄文翻译"
+    }
+  ],
+  "translation_completed": "2025-07-28T14:38:34.097181",
+  "translation_stats": {
+    "total_paragraphs": 26,
+    "success_count": 26,
+    "success_rate": "100.0%"
+  }
+}

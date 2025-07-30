@@ -1,0 +1,64 @@
+{
+  "title": "Weird Languages",
+  "title_zh": "[待翻译] Weird Languages",
+  "url": "https://www.paulgraham.com/weird.html",
+  "filename": "weird.html",
+  "date": "2020-10-18",
+  "id": 78,
+  "content": {
+    "success": true,
+    "paragraphs": [
+      "August 2021When people say that in their experience all programming languages are basically equivalent, they're making a statement not about languages but about the kind of programming they've done.99.5% of programming consists of gluing together calls to library functions.",
+      "All popular languages are equally good at this. So one can easily spend one's whole career operating in the intersection of popular programming languages.But the other .5% of programming is disproportionately interesting.",
+      "If you want to learn what it consists of, the weirdness of weird languages is a good clue to follow.Weird languages aren't weird by accident. Not the good ones, at least. The weirdness of the good ones usually implies the existence of some form of programming that's not just the usual gluing together of library calls.A concrete example: Lisp macros.",
+      "Lisp macros seem weird even to many Lisp programmers. They're not only not in the intersection of popular languages, but by their nature would be hard to implement properly in a language without turning it into a dialect of Lisp.",
+      "And macros are definitely evidence of techniques that go beyond glue programming. For example, solving problems by first writing a language for problems of that type, and then writing your specific application in it.",
+      "Nor is this all you can do with macros; it's just one region in a space of program-manipulating techniques that even now is far from fully explored.So if you want to expand your concept of what programming can be, one way to do it is by learning weird languages.",
+      "Pick a language that most programmers consider weird but whose median user is smart, and then focus on the differences between this language and the intersection of popular languages. What can you say in this language that would be impossibly inconvenient to say in others?",
+      "In the process of learning how to say things you couldn't previously say, you'll probably be learning how to think things you couldn't previously think. Thanks to Trevor Blackwell, Patrick Collison, Daniel Gackle, Amjad Masad, and Robert Morris for reading drafts of this."
+    ],
+    "word_count": 344,
+    "paragraph_count": 8
+  },
+  "processed_at": "2025-07-26T19:03:55.228099",
+  "paragraphs": [
+    {
+      "original": "August 2021When people say that in their experience all programming languages are basically equivalent, they're making a statement not about languages but about the kind of programming they've done.99.5% of programming consists of gluing together calls to library functions.",
+      "translated": "2021年8月 当人们说在他们的经验中所有编程语言基本上是等价的，他们实际上是在陈述关于他们所做编程类型的观点，而不是关于语言本身。99.5% 的编程工作是将调用库函数粘合在一起。"
+    },
+    {
+      "original": "All popular languages are equally good at this. So one can easily spend one's whole career operating in the intersection of popular programming languages.But the other .5% of programming is disproportionately interesting.",
+      "translated": "所有流行的语言在这方面都同样出色。因此，一个人可以很容易地在整个职业生涯中都在流行的编程语言的交集中工作。但编程的另外0.5%却异常有趣。"
+    },
+    {
+      "original": "If you want to learn what it consists of, the weirdness of weird languages is a good clue to follow.Weird languages aren't weird by accident. Not the good ones, at least. The weirdness of the good ones usually implies the existence of some form of programming that's not just the usual gluing together of library calls.A concrete example: Lisp macros.",
+      "translated": "如果你想了解它由什么组成，那么研究奇特语言的古怪之处是一个很好的线索。奇特语言之所以奇特，并非出于偶然。至少，好的奇特语言不是这样。好的奇特语言的古怪之处通常意味着存在某种形式的编程，而不仅仅是常规的库调用粘合。一个具体的例子：Lisp 宏。"
+    },
+    {
+      "original": "Lisp macros seem weird even to many Lisp programmers. They're not only not in the intersection of popular languages, but by their nature would be hard to implement properly in a language without turning it into a dialect of Lisp.",
+      "translated": "Lisp 宏即使对于许多 Lisp 程序员来说也显得奇怪。它们不仅不在流行语言的交集中，而且由于其本质，在不将语言转变为 Lisp 方言的情况下，很难在其他语言中正确实现。"
+    },
+    {
+      "original": "And macros are definitely evidence of techniques that go beyond glue programming. For example, solving problems by first writing a language for problems of that type, and then writing your specific application in it.",
+      "translated": "宏无疑是超越胶水编程技术的证据。例如，首先为某一类问题编写一种语言，然后用这种语言编写具体的应用程序来解决问题。"
+    },
+    {
+      "original": "Nor is this all you can do with macros; it's just one region in a space of program-manipulating techniques that even now is far from fully explored.So if you want to expand your concept of what programming can be, one way to do it is by learning weird languages.",
+      "translated": "这还不是宏所能做的全部；这只是程序操作技术领域中的一个区域，而这一领域至今仍远未被充分探索。因此，如果你想扩展你对编程的认识，一种方法就是学习一些奇特的编程语言。"
+    },
+    {
+      "original": "Pick a language that most programmers consider weird but whose median user is smart, and then focus on the differences between this language and the intersection of popular languages. What can you say in this language that would be impossibly inconvenient to say in others?",
+      "translated": "选择一种大多数程序员认为奇特但其中位用户很聪明的编程语言，然后关注这种语言与流行语言交集之间的差异。用这种语言可以说些什么，而在其他语言中表达则会极其不便？"
+    },
+    {
+      "original": "In the process of learning how to say things you couldn't previously say, you'll probably be learning how to think things you couldn't previously think. Thanks to Trevor Blackwell, Patrick Collison, Daniel Gackle, Amjad Masad, and Robert Morris for reading drafts of this.",
+      "translated": "在学习如何表达以前无法表达的内容的过程中，你可能会学到如何思考以前无法思考的问题。感谢特雷弗·布莱克威尔、帕特里克·科利森、丹尼尔·加克尔、阿姆贾德·马萨德和罗伯特·莫里斯审阅本文的草稿。"
+    }
+  ],
+  "translation_completed": "2025-07-27T12:45:08.666728",
+  "translation_stats": {
+    "total_paragraphs": 8,
+    "success_count": 8,
+    "success_rate": "100.0%"
+  }
+}
